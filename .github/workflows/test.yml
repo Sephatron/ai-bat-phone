@@ -14,7 +14,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      # Deliberately no live poll here. Running collect.py against fifteen third
+      # parties made every push depend on them: a runner network blip turned CI
+      # red on a docstring change, while a single provider changing shape — the
+      # thing worth catching — passed green. The poll job reports that instead.
       - name: Unit tests
         run: python -m unittest -v
-      - name: Collector runs end to end
-        run: python collect.py --dry-run
