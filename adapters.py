@@ -3,6 +3,11 @@
 Every adapter returns a list of Incident. Adapters raise FetchError on any
 transport or parse problem; the caller treats that as "no information from this
 provider this run" and must never interpret it as a resolution.
+
+Everything here handles bytes from third parties nobody controls, so this module
+is the trust boundary: strings are scrubbed of characters that cannot legally
+appear in XML, and URLs are restricted to http/https, at the point incidents are
+constructed rather than at each place they are later rendered.
 """
 
 import gzip
@@ -10,7 +15,9 @@ import html
 import io
 import json
 import re
+import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
@@ -21,17 +28,66 @@ USER_AGENT = (
     "+https://github.com/Sephatron/ai-bat-phone)"
 )
 TIMEOUT = 20
+# A status page has no legitimate reason to be large. Without a cap a hostile or
+# broken host can hand us a gzip bomb: a 700KB response that decompresses to
+# hundreds of megabytes and takes the runner down with it.
+MAX_BYTES = 8 * 1024 * 1024
+_CHUNK = 64 * 1024
 
 # Ordered worst-last so a numeric comparison detects escalation.
 IMPACT_RANK = {"none": 0, "maintenance": 0, "minor": 1, "major": 2, "critical": 3}
 
-# Incident lifecycle, in the order Statuspage advances through it.
+# The states that mean "this is finished". Shared with collect.py so the two
+# modules cannot drift apart on the single question the diff engine turns on.
+OVER_STATUSES = ("resolved", "postmortem", "completed")
 INCIDENT_STATUSES = ("investigating", "identified", "monitoring", "resolved", "postmortem")
 MAINTENANCE_STATUSES = ("scheduled", "in_progress", "verifying", "completed")
+
+# Characters that are illegal in XML 1.0 even escaped. One of these in a title
+# makes the whole feed unparseable for every subscriber, and because the title
+# is persisted to events.json it would stay broken long after the provider fixed
+# their page. Strip them on the way in.
+_ILLEGAL_XML = re.compile(r"[\x00-\x08\x0B\x0C\x0E-\x1F\uD800-\uDFFF￾￿]")
+
+MAX_TITLE = 300
+MAX_URL = 500
+MAX_ID = 200
 
 
 class FetchError(Exception):
     """A provider could not be read this run. Never a signal about their uptime."""
+
+
+def xml_safe(value, limit=None):
+    """Make a provider-supplied string safe to put in a feed, and bounded."""
+    if not value:
+        return ""
+    cleaned = _ILLEGAL_XML.sub("", str(value)).strip()
+    if limit and len(cleaned) > limit:
+        cleaned = cleaned[: limit - 1].rstrip() + "…"
+    return cleaned
+
+
+# quoteattr() would render these safely on its own, but a URL containing a raw
+# quote or angle bracket is malformed anyway, and refusing it here means the
+# whole class of attribute-breakout bugs cannot reach any future sink either.
+_URL_FORBIDDEN = re.compile(r"""['"<>\s\\]""")
+
+
+def safe_url(value, fallback):
+    """Only well-formed http(s) URLs reach the page.
+
+    A javascript: or data: link in an href executes on our own origin, which is
+    shared with every other GitHub Pages project on this account.
+    """
+    candidate = xml_safe(value, MAX_URL)
+    if not candidate or _URL_FORBIDDEN.search(candidate):
+        return fallback
+    try:
+        scheme = urllib.parse.urlparse(candidate).scheme.lower()
+    except ValueError:
+        return fallback
+    return candidate if scheme in ("http", "https") else fallback
 
 
 @dataclass
@@ -48,6 +104,17 @@ class Incident:
     updated_at: datetime
     components: list = field(default_factory=list)
     latest_update: str = ""
+    # False for history-feed sources, which stamp every entry with the incident's
+    # start time and mutate the body in place. For those, updated_at is a lie and
+    # no duration can honestly be derived from it.
+    updates_tracked: bool = True
+
+    def __post_init__(self):
+        self.incident_id = xml_safe(self.incident_id, MAX_ID) or "unknown"
+        self.title = xml_safe(self.title, MAX_TITLE) or "(untitled incident)"
+        self.latest_update = xml_safe(self.latest_update, 600)
+        self.components = [xml_safe(c, 120) for c in self.components if xml_safe(c, 120)][:8]
+        self.url = safe_url(self.url, "https://github.com/Sephatron/ai-bat-phone")
 
     @property
     def key(self):
@@ -55,7 +122,22 @@ class Incident:
 
     @property
     def is_over(self):
-        return self.status in ("resolved", "postmortem", "completed")
+        return self.status in OVER_STATUSES
+
+
+def _read_capped(stream, gzipped):
+    """Read at most MAX_BYTES, counting decompressed bytes, not wire bytes."""
+    source = gzip.GzipFile(fileobj=stream) if gzipped else stream
+    chunks, total = [], 0
+    while True:
+        chunk = source.read(_CHUNK)
+        if not chunk:
+            break
+        total += len(chunk)
+        if total > MAX_BYTES:
+            raise FetchError("response exceeded %d bytes" % MAX_BYTES)
+        chunks.append(chunk)
+    return b"".join(chunks)
 
 
 def _get(url, accept):
@@ -64,13 +146,17 @@ def _get(url, accept):
     )
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-            raw = resp.read()
-            if resp.headers.get("Content-Encoding") == "gzip":
-                raw = gzip.GzipFile(fileobj=io.BytesIO(raw)).read()
-            return resp.status, raw
+            if not resp.url.lower().startswith("https://"):
+                # urllib follows redirects silently. An https page bounced to
+                # plain http hands a network attacker a write path into the feed.
+                raise FetchError("%s redirected off https to %s" % (url, resp.url))
+            gzipped = resp.headers.get("Content-Encoding") == "gzip"
+            return resp.status, _read_capped(io.BytesIO(resp.read(MAX_BYTES + 1)), gzipped)
     except urllib.error.HTTPError as exc:
         return exc.code, b""
-    except Exception as exc:  # socket errors, DNS, TLS, redirects loops
+    except FetchError:
+        raise
+    except Exception as exc:  # socket errors, DNS, TLS, redirect loops
         raise FetchError("%s: %s" % (url, exc))
 
 
@@ -88,7 +174,7 @@ def _get_json(url):
 def _parse_iso(value):
     if not value:
         return None
-    text = value.strip().replace("Z", "+00:00")
+    text = str(value).strip().replace("Z", "+00:00")
     try:
         parsed = datetime.fromisoformat(text)
     except ValueError:
@@ -120,19 +206,21 @@ def fetch_statuspage(provider):
     base = provider["base"].rstrip("/")
     out = []
     payload = _get_json(base + "/api/v2/incidents.json")
-    for raw in payload.get("incidents", []):
+    if not isinstance(payload, dict) or "incidents" not in payload:
+        raise FetchError("%s: no 'incidents' key — response shape changed" % base)
+    for raw in payload.get("incidents") or []:
         incident = _statuspage_incident(provider, raw, base)
         if incident:
             out.append(incident)
 
-    # Only Atlassian serves this one; Instatus and incident.io answer 404. A
-    # missing maintenance endpoint is normal, so it must not fail the provider.
+    # Only Atlassian serves this one; Instatus and incident.io answer 404, so a
+    # missing maintenance endpoint is normal and must not fail the provider.
     try:
         maint = _get_json(base + "/api/v2/scheduled-maintenances.json")
     except FetchError:
         maint = None
-    if maint:
-        for raw in maint.get("scheduled_maintenances", []):
+    if isinstance(maint, dict):
+        for raw in maint.get("scheduled_maintenances") or []:
             incident = _statuspage_incident(provider, raw, base, kind="maintenance")
             if incident:
                 out.append(incident)
@@ -140,6 +228,8 @@ def fetch_statuspage(provider):
 
 
 def _statuspage_incident(provider, raw, base, kind="incident"):
+    if not isinstance(raw, dict):
+        return None
     incident_id = raw.get("id")
     if not incident_id:
         return None
@@ -149,10 +239,12 @@ def _statuspage_incident(provider, raw, base, kind="incident"):
         return None
     updates = raw.get("incident_updates") or []
     body = _strip_html(updates[0].get("body", "")) if updates else ""
-    status = (raw.get("status") or "").lower()
+    status = str(raw.get("status") or "").lower()
     if kind == "maintenance" and status not in MAINTENANCE_STATUSES:
         status = "scheduled"
-    impact = (raw.get("impact") or "none").lower()
+    elif kind == "incident" and status not in INCIDENT_STATUSES:
+        status = "investigating"
+    impact = str(raw.get("impact") or "none").lower()
     if impact not in IMPACT_RANK:
         impact = "none"
     return Incident(
@@ -166,7 +258,7 @@ def _statuspage_incident(provider, raw, base, kind="incident"):
         url=raw.get("shortlink") or "%s/incidents/%s" % (base, incident_id),
         started_at=started,
         updated_at=updated or started,
-        components=[c.get("name") for c in raw.get("components", []) if c.get("name")],
+        components=[c.get("name") for c in raw.get("components", []) if isinstance(c, dict) and c.get("name")],
         latest_update=_truncate(body),
     )
 
@@ -181,12 +273,16 @@ def _statuspage_incident(provider, raw, base, kind="incident"):
 # "Type: Incident / Duration: 40 minutes" preamble (Perplexity) where the
 # presence of a duration is what tells you the thing is over.
 _RSS_MARKER = re.compile(r"^\s*\[([A-Za-z ]{3,20})\]")
-_RSS_STATUS_LINE = re.compile(r"\bstatus:\s*([a-z_ ]+)", re.I)
+_RSS_STATUS_LINE = re.compile(r"\bstatus:\s*([a-z]+)", re.I)
 _RSS_TYPE_LINE = re.compile(r"\btype:\s*(incident|maintenance)\b", re.I)
 _RSS_DURATION = re.compile(r"\bduration:\s*\d", re.I)
+# "not yet resolved", "has not been resolved" — a bare substring test on prose
+# reads these as an all-clear and silently drops a live outage.
+_NEGATED_RESOLVED = re.compile(r"\b(not|isn't|hasn't|haven't|yet to be)\b[^.]{0,40}\bresolved\b", re.I)
 
 _MARKER_TO_STATUS = {
     "resolved": ("incident", "resolved"),
+    "mitigated": ("incident", "monitoring"),
     "postmortem": ("incident", "postmortem"),
     "investigating": ("incident", "investigating"),
     "identified": ("incident", "identified"),
@@ -201,20 +297,27 @@ _MARKER_TO_STATUS = {
 
 
 def _rss_classify(text):
-    """Work out (kind, status) for one history-feed entry."""
+    """Work out (kind, status) for one history-feed entry, or None if unsure.
+
+    Returning None matters more than it looks. The alternative — guessing
+    "investigating" for anything unrecognised — means a dialect this parser has
+    never seen becomes a stream of outages that never resolve, indistinguishable
+    from the real thing. An unknown entry is skipped and counted instead, so a
+    provider changing their format shows up as a failure rather than as noise.
+    """
     marker = _RSS_MARKER.match(text)
     if marker:
         word = marker.group(1).strip().lower().replace(" ", "_")
         if word in _MARKER_TO_STATUS:
             return _MARKER_TO_STATUS[word]
+        return None  # a bracket marker we do not know is a dialect change
 
     line = _RSS_STATUS_LINE.search(text)
     if line:
-        word = line.group(1).strip().lower().replace(" ", "_")
-        # "Status: resolved and monitoring" — take the leading word only.
-        word = word.split("_")[0] if word not in _MARKER_TO_STATUS else word
+        word = line.group(1).strip().lower()
         if word in _MARKER_TO_STATUS:
             return _MARKER_TO_STATUS[word]
+        return None
 
     type_line = _RSS_TYPE_LINE.search(text)
     kind = "maintenance" if type_line and type_line.group(1).lower() == "maintenance" else "incident"
@@ -222,44 +325,56 @@ def _rss_classify(text):
         # A published duration means the provider has closed it out.
         return kind, ("completed" if kind == "maintenance" else "resolved")
 
+    if _NEGATED_RESOLVED.search(text):
+        return kind, ("scheduled" if kind == "maintenance" else "investigating")
     if _looks_resolved(text):
         return kind, ("completed" if kind == "maintenance" else "resolved")
-    return kind, ("scheduled" if kind == "maintenance" else "investigating")
+    if type_line:
+        return kind, ("scheduled" if kind == "maintenance" else "investigating")
+    return None
 
 
 def fetch_rss(provider):
     import xml.etree.ElementTree as ET
 
     base = provider["base"].rstrip("/")
-    status, raw = _get(base + "/history.rss", "application/rss+xml, application/xml")
+    path = provider.get("path", "/history.rss")
+    url = base + path
+    # ET uses expat, which since 2.4 refuses entity expansion and caps input
+    # amplification, so billion-laughs and XXE are blocked by the parser itself.
+    # There is no defusedxml here; that protection is the dependency.
+    status, raw = _get(url, "application/rss+xml, application/xml")
     if status != 200:
-        raise FetchError("%s/history.rss returned HTTP %s" % (base, status))
+        raise FetchError("%s returned HTTP %s" % (url, status))
     try:
         root = ET.fromstring(raw)
     except ET.ParseError as exc:
-        raise FetchError("%s/history.rss is not valid XML: %s" % (base, exc))
+        raise FetchError("%s is not valid XML: %s" % (url, exc))
 
-    out = []
+    out, seen_items, unknown = [], 0, 0
     for item in root.iterfind(".//channel/item"):
         link = (item.findtext("link") or "").strip()
         guid = (item.findtext("guid") or link).strip()
         if not guid:
             continue
-        title = (item.findtext("title") or "(untitled incident)").strip()
-        description_raw = item.findtext("description") or ""
-        description = _strip_html(description_raw)
         when = _parse_rfc822(item.findtext("pubDate"))
         if not when:
             continue
+        seen_items += 1
 
-        kind, status_word = _rss_classify(description)
+        description = _strip_html(item.findtext("description") or "")
+        classified = _rss_classify(description)
+        if classified is None:
+            unknown += 1
+            continue
+        kind, status_word = classified
 
         out.append(
             Incident(
                 provider_key=provider["key"],
                 provider_name=provider["name"],
                 incident_id=guid.rsplit("/", 1)[-1] or guid,
-                title=title,
+                title=(item.findtext("title") or "(untitled incident)").strip(),
                 status=status_word,
                 # These feeds carry no impact field. "minor" is the honest floor:
                 # it never fabricates a major outage the provider did not declare.
@@ -270,8 +385,14 @@ def fetch_rss(provider):
                 updated_at=when,
                 components=_rss_components(description),
                 latest_update=_truncate(description),
+                updates_tracked=False,
             )
         )
+
+    if seen_items and unknown > seen_items / 2:
+        raise FetchError("%s: %d of %d entries in an unrecognised format" % (url, unknown, seen_items))
+    if unknown:
+        print("  ? %-22s %d entry(s) in an unrecognised format" % (provider["key"], unknown), file=sys.stderr)
     return out
 
 
@@ -308,10 +429,14 @@ def _parse_rfc822(value):
 def fetch_gcp(provider):
     wanted = [m.lower() for m in provider.get("match", [])]
     payload = _get_json(provider["base"].rstrip("/") + "/incidents.json")
+    if not isinstance(payload, list):
+        raise FetchError("%s: incidents.json is not a list — shape changed" % provider["base"])
     out = []
     for raw in payload:
-        products = [p.get("title", "") for p in raw.get("affected_products", [])]
-        haystack = " ".join(products + [raw.get("external_desc", "")]).lower()
+        if not isinstance(raw, dict):
+            continue
+        products = [p.get("title", "") for p in raw.get("affected_products", []) if isinstance(p, dict)]
+        haystack = " ".join(products + [str(raw.get("external_desc", ""))]).lower()
         if wanted and not any(w in haystack for w in wanted):
             continue
         started = _parse_iso(raw.get("begin"))
@@ -319,9 +444,9 @@ def fetch_gcp(provider):
             continue
         ended = _parse_iso(raw.get("end"))
         updates = raw.get("updates") or []
-        latest = updates[-1] if updates else {}
+        latest = updates[-1] if updates and isinstance(updates[-1], dict) else {}
         updated = _parse_iso(latest.get("modified") or latest.get("created")) or started
-        severity = (raw.get("severity") or "").lower()
+        severity = str(raw.get("severity") or "").lower()
         out.append(
             Incident(
                 provider_key=provider["key"],
@@ -331,11 +456,11 @@ def fetch_gcp(provider):
                 status="resolved" if ended else "investigating",
                 impact="major" if severity == "high" else "minor",
                 kind="incident",
-                url="https://status.cloud.google.com" + (raw.get("uri") or ""),
+                url="https://status.cloud.google.com" + str(raw.get("uri") or ""),
                 started_at=started,
                 updated_at=ended or updated,
                 components=products[:8],
-                latest_update=_truncate(_strip_html(latest.get("text", ""))),
+                latest_update=_truncate(_strip_html(str(latest.get("text", "")))),
             )
         )
     return out
@@ -347,9 +472,13 @@ ADAPTERS = {
     "gcp": fetch_gcp,
 }
 
+# Which adapters can ever report scheduled maintenance. Surfaced on the index so
+# a subscriber to outages.xml knows which providers the filter is a no-op for.
+MAINTENANCE_CAPABLE = ("statuspage", "rss")
+
 
 def fetch(provider):
     adapter = ADAPTERS.get(provider.get("adapter"))
     if adapter is None:
-        raise FetchError("unknown adapter %r for %s" % (provider.get("adapter"), provider["key"]))
+        raise FetchError("unknown adapter %r for %s" % (provider.get("adapter"), provider.get("key")))
     return adapter(provider)

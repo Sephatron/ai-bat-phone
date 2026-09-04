@@ -12,7 +12,8 @@ debugging your own code and go and touch some grass.
 | [`major.xml`](https://sephatron.github.io/ai-bat-phone/major.xml) | Major and critical only |
 
 RSS has no per-subscriber settings, so the maintenance toggle is a choice of
-URL. Subscribe to the one you want.
+URL. Subscribe to the one you want. All three also carry monitoring failures —
+see "When we go blind" below.
 
 Human-readable mirror: <https://sephatron.github.io/ai-bat-phone/>
 
@@ -30,61 +31,98 @@ providers.toml ──> adapters.py ──> collect.py ──> events.json ──
 ```
 
 An item is published when an incident is first seen, when its impact escalates,
-when its status advances, and when it resolves. Roughly three or four items per
-outage, not one every ten minutes.
+when its status advances, when it is reopened, and when it resolves. Roughly
+three or four items per outage, not one every ten minutes.
 
-### Two rules worth knowing
+## Four rules worth knowing
 
-**A provider we cannot read produces nothing.** A timeout, a 503 or a bot
-challenge is logged and skipped. It is never turned into a "resolved" item.
-Silence from a status page is not recovery, and getting this wrong would break
-the feed during exactly the incident it exists for.
+**A provider we cannot read produces no incident events.** A timeout, a 503 or a
+bot challenge is skipped, never turned into a "resolved". Silence from a status
+page is not recovery, and getting this wrong would break the feed during exactly
+the incident it exists for.
 
-**Nothing is published on a quiet run.** Generated files are compared with their
-build timestamps masked out, so an unchanged feed is not rewritten and the
-Action commits nothing.
+**When we go blind, we say so.** After three consecutive failed polls a provider
+gets its own item, in all three feeds: *"Cannot reach X's status page. Treat this
+feed's silence about X as unknown, not good."* A recovery item follows when it
+comes back. This is the counterweight to the rule above — a monitoring feed whose
+own death looks like good news is the worst failure mode available to it.
+
+**`lastBuildDate` means "we looked", not "we published".** It carries the last
+successful poll, rounded to the hour. A build date that stops moving means the
+collector has died, not that the models are behaving. The hour rounding is what
+stops that producing a commit every ten minutes; the cost is up to 24 heartbeat
+commits a day, which is the price of being able to tell a quiet week from a dead
+one. It also keeps the repository active, so GitHub does not disable the
+schedule after 60 idle days.
+
+**Items are stamped with when we noticed, not when the incident began.** This is
+an alert stream, not an archive. An all-clear backdated three days sorts below
+everything already read and is never seen. The provider's own start time is in
+the item body.
 
 ## Copy
 
 Jokes go in the title, facts go in the body. Selection is deterministic — the
 same incident always gets the same line, so a rebuild never reshuffles headlines
-under subscribers. Anything mentioning a security incident, a breach or data
-loss drops to neutral copy; see `SOBER` in `copywriter.py`.
+under subscribers. Anything mentioning security, a breach, credentials, data
+loss or corruption drops to neutral copy, as do all monitoring-failure items;
+see `SOBER` in `copywriter.py`.
 
 ## Providers
 
-Fifteen are polled. Three adapters cover them:
+Nineteen are polled. Three adapters cover them:
 
 - **statuspage** — `/api/v2/incidents.json`. Atlassian Statuspage, Instatus and
   incident.io all serve the same shape. Claude, OpenAI, Cursor, GitHub,
-  Windsurf, Vercel, Groq, Cohere, Fireworks, ElevenLabs, Lovable.
-- **rss** — `/history.rss`, for pages that block JSON. DeepSeek, Replit,
+  Windsurf, Vercel, Groq, Cohere, Fireworks, ElevenLabs, Lovable, Cerebras,
+  SambaNova, Baseten, AI21.
+- **rss** — a history feed, for pages that block JSON. DeepSeek, Replit,
   Perplexity.
 - **gcp** — `status.cloud.google.com/incidents.json`, filtered to Vertex AI and
   Gemini.
 
-### Known gaps
+### Maintenance coverage is partial, deliberately
 
-Listed in `providers.toml` with `enabled = false` so the research isn't redone:
+Only Atlassian Statuspage serves `/api/v2/scheduled-maintenances.json`. Instatus
+and incident.io return 404, and the `gcp` adapter reports incidents only. So for
+roughly two thirds of the roster, `feed.xml` and `outages.xml` carry identical
+items and always will. The index page says so too.
 
-- **xAI** — Cloudflare bot challenge on every path, `history.rss` included.
+### Not watched
+
+Listed in `providers.toml` with `enabled = false` and a reason each, and
+published on the index page so a reader knows the difference between "no
+outages" and "not looking":
+
+- **xAI** — Cloudflare bot challenge on every path, history feed included.
 - **Mistral, Hugging Face, Together AI** — JavaScript-only status pages with no
   machine-readable endpoint on their custom domain.
-
-Beating a bot challenge from a CI runner is a maintenance treadmill. If any of
-these ever ship a real endpoint, flip `enabled` and it works.
+- **AWS Bedrock** — the RSS feed is one item per *update* rather than per
+  incident, and covers all of AWS. Needs its own adapter.
+- **Azure OpenAI** — the status feed returns zero items.
+- **Stability, Deepgram, AssemblyAI** — reachable, but images and speech rather
+  than language models. Flip `enabled` to include them.
 
 ## Local use
 
 ```bash
 python3 collect.py --dry-run   # report what would change, write nothing
 python3 collect.py             # poll and rebuild docs/
-python3 -m unittest -v         # 27 offline tests, no network
+python3 -m unittest -v         # 58 offline tests, no network
 ```
 
 Python 3.11+ (needs `tomllib`). No third-party dependencies, by design — an
 unattended job that runs every ten minutes for years should not have a
-dependency tree that can rot underneath it.
+dependency tree that can rot underneath it. XML parsing leans on CPython's
+expat, which since 2.4 blocks entity expansion and caps input amplification;
+that is the protection, and there is no `defusedxml` behind it.
+
+Everything the collector reads comes from third parties, so `adapters.py` is the
+trust boundary: strings are stripped of characters illegal in XML and bounded in
+length, URLs are restricted to well-formed `http(s)`, and responses are capped at
+8MB decompressed. `feedgen.py` uses `quoteattr()` for anything landing in an HTML
+attribute — `escape()` does not touch quote characters, which is an attribute
+breakout waiting for one hostile status page.
 
 ## Adding a provider
 
@@ -105,4 +143,5 @@ paths, so a `200` alone proves nothing:
 curl -s https://status.someone.ai/api/v2/incidents.json | head -c 200
 ```
 
-If that is JSON, use `statuspage`. If not, try `/history.rss` and use `rss`.
+If that is JSON, use `statuspage`. If not, try `/history.rss` and use `rss`,
+adding a `path` key if the feed lives somewhere else.

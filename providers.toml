@@ -99,9 +99,35 @@ adapter = "gcp"
 base = "https://status.cloud.google.com"
 match = ["Vertex AI", "Gemini", "Generative Language"]
 
+[[provider]]
+key = "cerebras"
+name = "Cerebras Inference"
+adapter = "statuspage"
+base = "https://status.cerebras.ai"
+
+[[provider]]
+key = "sambanova"
+name = "SambaNova"
+adapter = "statuspage"
+base = "https://status.sambanova.ai"
+
+[[provider]]
+key = "baseten"
+name = "Baseten"
+adapter = "statuspage"
+base = "https://status.baseten.co"
+
+[[provider]]
+key = "ai21"
+name = "AI21"
+adapter = "statuspage"
+base = "https://status.ai21.com"
+
 # --- Known gaps -------------------------------------------------------------
-# These have no reachable machine-readable endpoint from a CI runner. Left here
-# so nobody re-derives the research. Flip `enabled` if that ever changes.
+# Everything below is deliberately not polled, each with the reason. These are
+# published on the index page too: a reader seeing no Mistral outages should
+# know Mistral is not watched, rather than concluding Mistral had a good month.
+# Flip `enabled` to turn one on.
 
 [[provider]]
 key = "xai"
@@ -134,3 +160,45 @@ adapter = "statuspage"
 base = "https://status.together.ai"
 enabled = false
 note = "JS-only status page; no JSON or RSS endpoint on the custom domain."
+
+[[provider]]
+key = "aws"
+name = "AWS (Bedrock)"
+adapter = "rss"
+base = "https://status.aws.amazon.com"
+path = "/rss/all.rss"
+enabled = false
+note = "Feed is one item per update rather than per incident, and covers all of AWS; needs its own adapter."
+
+[[provider]]
+key = "azure"
+name = "Azure OpenAI"
+adapter = "rss"
+base = "https://azure.status.microsoft"
+path = "/en-us/status/feed/"
+enabled = false
+note = "Feed returns zero items; Microsoft publishes status through a different mechanism."
+
+[[provider]]
+key = "stability"
+name = "Stability AI"
+adapter = "statuspage"
+base = "https://status.stability.ai"
+enabled = false
+note = "Reachable, but images rather than language models."
+
+[[provider]]
+key = "deepgram"
+name = "Deepgram"
+adapter = "statuspage"
+base = "https://status.deepgram.com"
+enabled = false
+note = "Reachable, but speech rather than language models."
+
+[[provider]]
+key = "assemblyai"
+name = "AssemblyAI"
+adapter = "statuspage"
+base = "https://status.assemblyai.com"
+enabled = false
+note = "Reachable, but speech rather than language models."

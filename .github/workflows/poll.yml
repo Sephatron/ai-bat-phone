@@ -17,6 +17,11 @@ concurrency:
 jobs:
   poll:
     runs-on: ubuntu-latest
+    # A status host that drips one byte every fifteen seconds resets urllib's
+    # per-read timeout forever. Without a job deadline that hangs until GitHub's
+    # six-hour default, and cancel-in-progress is off, so every later poll queues
+    # behind it.
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 

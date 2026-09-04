@@ -13,9 +13,13 @@ import re
 
 # Anything matching these gets neutral copy. Jokes about a breach age badly, and
 # a security notice is the one case where a reader must not have to decode tone.
+# No trailing \b: the stems are deliberately partial ("compromis" has to match
+# "compromised"), and a word boundary after a stem can never match because the
+# next character is always a word character.
 SOBER = re.compile(
-    r"\b(security|breach|vulnerabilit|CVE-|exploit|unauthori[sz]ed|data loss|"
-    r"exposed|leak|compromis|incident report|phishing|malicious)\b",
+    r"\b(secur|breach|vulnerab|CVE-|exploit|unauthori[sz]ed|data loss|deleted|"
+    r"corrupt|exposed|leak|compromis|credential|phishing|malicious|attack|"
+    r"postmortem|root cause|incident report)",
     re.I,
 )
 
@@ -63,6 +67,13 @@ RESOLVED_HIGH = [
     "{p} is upright again. That took {duration}.",
 ]
 
+REOPENED = [
+    "{p} has broken again. It was not fixed.",
+    "Put the tools back down: {p} has relapsed",
+    "{p} is back on the floor. That fix did not hold.",
+    "Spoke too soon — {p} has gone again",
+]
+
 RESOLVED_LOW = [
     "{p} has stopped wobbling",
     "{p} is fine again",
@@ -88,7 +99,17 @@ MAINTENANCE = {
     ],
 }
 
+META = {
+    "unreachable": [
+        "📵 Cannot reach {p}'s status page. Treat this feed's silence about {p} as unknown, not good.",
+    ],
+    "recovered": [
+        "📶 {p}'s status page is readable again. Normal service resumed on this end.",
+    ],
+}
+
 EMOJI = {
+    "reopened": "🔁",
     "opened_high": "🔴",
     "opened_low": "🟠",
     "escalated": "🔺",
@@ -142,7 +163,9 @@ def headline(incident, transition, duration=None):
     # Status wins over transition for the middle of an incident's life: an
     # incident we meet for the first time already at "monitoring" should not be
     # announced as if it just broke.
-    if transition == "escalated":
+    if transition == "reopened":
+        pool, badge = REOPENED, EMOJI["reopened"]
+    elif transition == "escalated":
         pool, badge = ESCALATED, EMOJI["escalated"]
     elif transition == "resolved":
         pool = RESOLVED_HIGH if high else RESOLVED_LOW
@@ -156,6 +179,20 @@ def headline(incident, transition, duration=None):
         badge = EMOJI["opened_high"] if high else EMOJI["opened_low"]
     else:
         # Any lifecycle state without its own voice falls back to the facts.
-        return "%s %s: %s" % (EMOJI["opened_low"], incident.provider_name, incident.title)
+        # The badge still has to track impact: colour is the fastest signal in a
+        # reader's list, and showing a critical incident in minor orange is a
+        # worse lie than showing no badge at all.
+        badge = EMOJI["opened_high"] if high else EMOJI["opened_low"]
+        return "%s %s: %s" % (badge, incident.provider_name, incident.title)
 
     return "%s %s" % (badge, _pick(pool, seed).format(**fields))
+
+
+def meta_headline(provider_name, transition):
+    """Copy for events about the monitor itself. Never a joke.
+
+    If this feed cannot see a provider, the reader needs to know their silence
+    means nothing. That is not a moment for a bit about touching grass.
+    """
+    pool = META.get(transition) or META["unreachable"]
+    return _pick(pool, "meta|%s|%s" % (provider_name, transition)).format(p=provider_name)

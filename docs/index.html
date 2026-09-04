@@ -3,6 +3,7 @@
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AI Bat Phone</title>
 <meta name="description" content="When the models go down, you get told to touch grass.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%9E%3C/text%3E%3C/svg%3E">
 <link rel="alternate" type="application/rss+xml" title="AI Bat Phone" href="feed.xml">
 <style>
 :root{color-scheme:light dark;--bg:#fbfaf9;--fg:#1c1b1a;--dim:#6b6764;--card:#fff;--line:#e6e2de}
@@ -12,11 +13,14 @@ body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,B
 .wrap{max-width:760px;margin:0 auto;padding:48px 20px 80px}
 h1{font-size:30px;margin:0 0 6px;font-weight:600}
 h2{font-size:17px;margin:40px 0 12px;font-weight:600}
-p.tag{color:var(--dim);margin:0 0 28px}
+p.tag{color:var(--dim);margin:0 0 20px}
+.beat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:0 0 24px;font-size:14px}
+.beat b{font-weight:600}
 .feeds{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
 .feed{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
 .feed a{font-weight:600;text-decoration:none;color:inherit}
 .feed div{color:var(--dim);font-size:13px;margin-top:2px}
+.feed code{display:block;margin-top:6px;font-size:11px;color:var(--dim);word-break:break-all;user-select:all}
 ul.plain{list-style:none;padding:0;margin:0;columns:2;font-size:14px}
 ul.plain li{margin:0 0 4px;break-inside:avoid}
 ul.events{list-style:none;padding:0;margin:0}
@@ -29,23 +33,31 @@ a.headline:hover{text-decoration:underline}
 .badge{font-size:11px;text-transform:uppercase;letter-spacing:.04em;padding:2px 7px;border-radius:99px;font-weight:600}
 .dim{color:var(--dim)}
 footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:var(--dim);font-size:13px}
+@media (max-width:460px){li.event{display:block}.when{min-width:0;margin-bottom:2px}ul.plain{columns:1}}
 </style></head><body><div class="wrap">
 <h1>AI Bat Phone</h1>
 <p class="tag">When the models go down, you get told to touch grass.</p>
 
+<p class="beat">Status pages last checked <b>04 Sep 2026 12:00 UTC</b>. This page and the feeds carry that
+time even when nothing has happened, so a build date that stops moving means the collector has
+died — not that the models are behaving.</p>
+
 <div class="feeds">
-<div class="feed"><a href="feed.xml">feed.xml</a><div>Everything — outages and maintenance</div></div>
-<div class="feed"><a href="outages.xml">outages.xml</a><div>Outages only, no planned works</div></div>
-<div class="feed"><a href="major.xml">major.xml</a><div>Major and critical only</div></div>
+<div class="feed"><a href="feed.xml">feed.xml</a><div>Everything — outages and maintenance</div><code>https://sephatron.github.io/ai-bat-phone/feed.xml</code></div>
+<div class="feed"><a href="outages.xml">outages.xml</a><div>Outages only, no planned works</div><code>https://sephatron.github.io/ai-bat-phone/outages.xml</code></div>
+<div class="feed"><a href="major.xml">major.xml</a><div>Major and critical only</div><code>https://sephatron.github.io/ai-bat-phone/major.xml</code></div>
 </div>
+<p class="dim">RSS has no per-subscriber settings, so the maintenance toggle is a choice of URL.
+Only providers on the statuspage and rss adapters publish maintenance at all; for the rest,
+feed.xml and outages.xml carry the same items.</p>
 
 <h2>Recent</h2>
-<ul class="events"><li class="event"><div class="when">04 Sep 11:41 UTC</div><div><a class="headline" href="https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG"><span class="emoji">🟠</span>ElevenLabs is having a wobble</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>ElevenLabs</span><span>EU - STT - Increase in latency in the EU Residency for Speech-to-Text requests</span></div></div></li><li class="event"><div class="when">04 Sep 10:37 UTC</div><div><a class="headline" href="https://status.fireworks.ai/incidents/01M1NZWGZNEFAKC3VSHAQ10VFT"><span class="emoji">🟠</span>Minor grumbles from Fireworks AI</a><div class="meta"><span class="badge" style="color:#334155;background:#e2e8f0">none</span><span>Fireworks AI</span><span>Service Degradation for one of our Serverless models</span></div></div></li><li class="event"><div class="when">02 Sep 18:41 UTC</div><div><a class="headline" href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111"><span class="emoji">👀</span>Replit is on the mend. Don't get comfortable yet.</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>Replit</span><span>Some users are unable to publish apps with an external DATABASE_URL error</span></div></div></li></ul>
+<ul class="events"><li class="event"><div class="when">04 Sep 12:15 UTC</div><div><a class="headline" href="https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG"><span class="emoji">🟢</span>ElevenLabs has stopped wobbling</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>ElevenLabs</span><span>EU - STT - Increase in latency in the EU Residency for Speech-to-Text requests</span></div></div></li><li class="event"><div class="when">04 Sep 11:41 UTC</div><div><a class="headline" href="https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG"><span class="emoji">🟠</span>ElevenLabs is having a wobble</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>ElevenLabs</span><span>EU - STT - Increase in latency in the EU Residency for Speech-to-Text requests</span></div></div></li><li class="event"><div class="when">04 Sep 10:37 UTC</div><div><a class="headline" href="https://status.fireworks.ai/incidents/01M1NZWGZNEFAKC3VSHAQ10VFT"><span class="emoji">🟠</span>Minor grumbles from Fireworks AI</a><div class="meta"><span class="badge" style="color:#334155;background:#e2e8f0">unclassified</span><span>Fireworks AI</span><span>Service Degradation for one of our Serverless models</span></div></div></li><li class="event"><div class="when">02 Sep 18:41 UTC</div><div><a class="headline" href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111"><span class="emoji">👀</span>Replit is on the mend. Don't get comfortable yet.</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>Replit</span><span>Some users are unable to publish apps with an external DATABASE_URL error</span></div></div></li></ul>
 
 <h2>Watching</h2>
-<ul class="plain"><li>Claude <span class="dim">statuspage</span></li><li>OpenAI <span class="dim">statuspage</span></li><li>Cursor <span class="dim">statuspage</span></li><li>GitHub <span class="dim">statuspage</span></li><li>Windsurf <span class="dim">statuspage</span></li><li>Vercel <span class="dim">statuspage</span></li><li>Groq <span class="dim">statuspage</span></li><li>Cohere <span class="dim">statuspage</span></li><li>Fireworks AI <span class="dim">statuspage</span></li><li>ElevenLabs <span class="dim">statuspage</span></li><li>Lovable <span class="dim">statuspage</span></li><li>DeepSeek <span class="dim">rss</span></li><li>Replit <span class="dim">rss</span></li><li>Perplexity <span class="dim">rss</span></li><li>Google Vertex AI / Gemini <span class="dim">gcp</span></li></ul>
+<ul class="plain"><li>Claude <span class="dim">statuspage</span></li><li>OpenAI <span class="dim">statuspage</span></li><li>Cursor <span class="dim">statuspage</span></li><li>GitHub <span class="dim">statuspage</span></li><li>Windsurf <span class="dim">statuspage</span></li><li>Vercel <span class="dim">statuspage</span></li><li>Groq <span class="dim">statuspage</span></li><li>Cohere <span class="dim">statuspage</span></li><li>Fireworks AI <span class="dim">statuspage</span></li><li>ElevenLabs <span class="dim">statuspage</span></li><li>Lovable <span class="dim">statuspage</span></li><li>DeepSeek <span class="dim">rss</span></li><li>Replit <span class="dim">rss</span></li><li>Perplexity <span class="dim">rss</span></li><li>Google Vertex AI / Gemini <span class="dim">gcp, incidents only</span></li><li>Cerebras Inference <span class="dim">statuspage</span></li><li>SambaNova <span class="dim">statuspage</span></li><li>Baseten <span class="dim">statuspage</span></li><li>AI21 <span class="dim">statuspage</span></li></ul>
+<h2>Not watched</h2><ul class="plain"><li>xAI <span class="dim">Cloudflare bot challenge on every path, including history.rss.</span></li><li>Mistral <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>Hugging Face <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>Together AI <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>AWS (Bedrock) <span class="dim">Feed is one item per update rather than per incident, and covers all of AWS; needs its own adapter.</span></li><li>Azure OpenAI <span class="dim">Feed returns zero items; Microsoft publishes status through a different mechanism.</span></li><li>Stability AI <span class="dim">Reachable, but images rather than language models.</span></li><li>Deepgram <span class="dim">Reachable, but speech rather than language models.</span></li><li>AssemblyAI <span class="dim">Reachable, but speech rather than language models.</span></li></ul><p class="dim">An outage at any of these will never appear here. The reason is next to each one.</p>
 
-
-<footer>Updated 04 Sep 2026 11:55 UTC · polled every 10 minutes by a GitHub Action ·
+<footer>Polled every 10 minutes by a GitHub Action ·
 <a href="https://github.com/Sephatron/ai-bat-phone">source</a></footer>
 </div></body></html>
