@@ -1,0 +1,136 @@
+# AI Bat Phone — provider registry.
+#
+# adapter = "statuspage"  -> {base}/api/v2/incidents.json  (+ scheduled-maintenances.json if it exists)
+#                            Covers Atlassian Statuspage, Instatus and incident.io, which all
+#                            expose the same v2 JSON shape.
+# adapter = "rss"         -> {base}/history.rss  (for pages that block JSON but serve a feed)
+# adapter = "gcp"         -> status.cloud.google.com/incidents.json, filtered by `match`
+#
+# `enabled = false` keeps a provider documented but unpolled.
+
+[[provider]]
+key = "anthropic"
+name = "Claude"
+adapter = "statuspage"
+base = "https://status.claude.com"
+
+[[provider]]
+key = "openai"
+name = "OpenAI"
+adapter = "statuspage"
+base = "https://status.openai.com"
+
+[[provider]]
+key = "cursor"
+name = "Cursor"
+adapter = "statuspage"
+base = "https://status.cursor.com"
+
+[[provider]]
+key = "github"
+name = "GitHub"
+adapter = "statuspage"
+base = "https://www.githubstatus.com"
+
+[[provider]]
+key = "windsurf"
+name = "Windsurf"
+adapter = "statuspage"
+base = "https://status.windsurf.com"
+
+[[provider]]
+key = "vercel"
+name = "Vercel"
+adapter = "statuspage"
+base = "https://www.vercel-status.com"
+
+[[provider]]
+key = "groq"
+name = "Groq"
+adapter = "statuspage"
+base = "https://groqstatus.com"
+
+[[provider]]
+key = "cohere"
+name = "Cohere"
+adapter = "statuspage"
+base = "https://status.cohere.com"
+
+[[provider]]
+key = "fireworks"
+name = "Fireworks AI"
+adapter = "statuspage"
+base = "https://status.fireworks.ai"
+
+[[provider]]
+key = "elevenlabs"
+name = "ElevenLabs"
+adapter = "statuspage"
+base = "https://status.elevenlabs.io"
+
+[[provider]]
+key = "lovable"
+name = "Lovable"
+adapter = "statuspage"
+base = "https://status.lovable.dev"
+
+[[provider]]
+key = "deepseek"
+name = "DeepSeek"
+adapter = "rss"
+base = "https://status.deepseek.com"
+
+[[provider]]
+key = "replit"
+name = "Replit"
+adapter = "rss"
+base = "https://status.replit.com"
+
+[[provider]]
+key = "perplexity"
+name = "Perplexity"
+adapter = "rss"
+base = "https://status.perplexity.com"
+
+[[provider]]
+key = "google"
+name = "Google Vertex AI / Gemini"
+adapter = "gcp"
+base = "https://status.cloud.google.com"
+match = ["Vertex AI", "Gemini", "Generative Language"]
+
+# --- Known gaps -------------------------------------------------------------
+# These have no reachable machine-readable endpoint from a CI runner. Left here
+# so nobody re-derives the research. Flip `enabled` if that ever changes.
+
+[[provider]]
+key = "xai"
+name = "xAI"
+adapter = "statuspage"
+base = "https://status.x.ai"
+enabled = false
+note = "Cloudflare bot challenge on every path, including history.rss."
+
+[[provider]]
+key = "mistral"
+name = "Mistral"
+adapter = "statuspage"
+base = "https://status.mistral.ai"
+enabled = false
+note = "JS-only status page; no JSON or RSS endpoint on the custom domain."
+
+[[provider]]
+key = "huggingface"
+name = "Hugging Face"
+adapter = "statuspage"
+base = "https://status.huggingface.co"
+enabled = false
+note = "JS-only status page; no JSON or RSS endpoint on the custom domain."
+
+[[provider]]
+key = "together"
+name = "Together AI"
+adapter = "statuspage"
+base = "https://status.together.ai"
+enabled = false
+note = "JS-only status page; no JSON or RSS endpoint on the custom domain."

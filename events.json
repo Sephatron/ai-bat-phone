@@ -1,0 +1,53 @@
+[
+ {
+  "body": "We're investigating a latency increase on the EU Residency server for Speech-to-Text models, affecting a small subset of requests.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is having a wobble",
+  "id": "elevenlabs:01M1P3JKFAH46V0TRJFQHHJ8HG:opened:investigating:minor",
+  "impact": "minor",
+  "incident_id": "01M1P3JKFAH46V0TRJFQHHJ8HG",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-04T11:41:29+00:00",
+  "status": "investigating",
+  "title": "EU - STT - Increase in latency in the EU Residency for Speech-to-Text requests",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG"
+ },
+ {
+  "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M1NZWGZNEFAKC3VSHAQ10VFT:opened:investigating:none",
+  "impact": "none",
+  "incident_id": "01M1NZWGZNEFAKC3VSHAQ10VFT",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-04T10:37:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for one of our Serverless models",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M1NZWGZNEFAKC3VSHAQ10VFT"
+ },
+ {
+  "body": "[Monitoring] Production data is confirmed to be safe after a configuration error during deploys that impacted users on September 1st, 2026. The issue has been resolved going forward and we are working on a fix to restore impacted projects. If your project was impacted by this error please reach out to support.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Replit is on the mend. Don't get comfortable yet.",
+  "id": "replit:f551e79f-142b-4e8e-9e7e-4b8b92c47111:opened:monitoring:minor",
+  "impact": "minor",
+  "incident_id": "f551e79f-142b-4e8e-9e7e-4b8b92c47111",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-09-02T18:41:09+00:00",
+  "status": "monitoring",
+  "title": "Some users are unable to publish apps with an external DATABASE_URL error",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111"
+ }
+]

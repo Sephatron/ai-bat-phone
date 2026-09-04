@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>AI Bat Phone — major only</title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<description>Major and critical incidents only. The genuinely down-tools ones.</description>
+<language>en-GB</language>
+<lastBuildDate>Fri, 04 Sep 2026 11:49:20 +0000</lastBuildDate>
+<ttl>10</ttl>
+<atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel="self" type="application/rss+xml"/>
+</channel>
+</rss>
