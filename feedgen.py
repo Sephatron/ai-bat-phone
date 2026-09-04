@@ -92,6 +92,19 @@ def build_rss(events, filename, site_url, max_items=200):
     return "\n".join(parts)
 
 
+def _split_badge(headline):
+    """Separate a leading emoji from the words, so the page can space them.
+
+    Emoji glyphs sit tight against following text at these sizes; RSS readers
+    do their own thing, so the split is presentation-only and the stored
+    headline is untouched.
+    """
+    head, _, rest = headline.partition(" ")
+    if rest and head and not head.isascii():
+        return head, rest
+    return "", headline
+
+
 BADGE = {
     "critical": ("#7f1d1d", "#fee2e2"),
     "major": ("#7f1d1d", "#fee2e2"),
@@ -108,16 +121,18 @@ def build_index(events, providers, failures, site_url, max_items=60):
         band = "maintenance" if event["kind"] == "maintenance" else event["impact"]
         fg, bg = BADGE.get(band, BADGE["none"])
         when = datetime.fromisoformat(event["published_at"].replace("Z", "+00:00"))
+        emoji, words = _split_badge(event["headline"])
         rows.append(
             '<li class="event">'
             '<div class="when">%s</div>'
-            '<div><a class="headline" href="%s">%s</a>'
+            '<div><a class="headline" href="%s"><span class="emoji">%s</span>%s</a>'
             '<div class="meta"><span class="badge" style="color:%s;background:%s">%s</span>'
             "<span>%s</span><span>%s</span></div></div></li>"
             % (
                 when.strftime("%d %b %H:%M UTC"),
                 escape(event["url"]),
-                escape(event["headline"]),
+                escape(emoji),
+                escape(words),
                 fg,
                 bg,
                 escape(band),
@@ -167,6 +182,7 @@ li.event{display:flex;gap:14px;padding:12px 0;border-top:1px solid var(--line)}
 .when{color:var(--dim);font-size:13px;min-width:118px;padding-top:2px}
 a.headline{color:inherit;text-decoration:none;font-weight:600}
 a.headline:hover{text-decoration:underline}
+.emoji{display:inline-block;margin-right:7px;font-style:normal}
 .meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;color:var(--dim);font-size:13px;margin-top:3px}
 .badge{font-size:11px;text-transform:uppercase;letter-spacing:.04em;padding:2px 7px;border-radius:99px;font-weight:600}
 .dim{color:var(--dim)}

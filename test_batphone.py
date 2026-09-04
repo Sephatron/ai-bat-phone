@@ -174,6 +174,11 @@ class Feed(unittest.TestCase):
         xml = feedgen.build_rss([event()], "feed.xml", "https://x.test")
         self.assertIn('isPermaLink="false"', xml)
 
+    def test_emoji_is_split_from_the_words_for_the_page(self):
+        self.assertEqual(feedgen._split_badge("🟠 Acme wobbles"), ("🟠", "Acme wobbles"))
+        self.assertEqual(feedgen._split_badge("Acme: plain"), ("", "Acme: plain"))
+        self.assertEqual(feedgen._split_badge("⚠️"), ("", "⚠️"))
+
     def test_index_renders_without_events(self):
         html = feedgen.build_index([], [{"name": "Acme", "adapter": "statuspage"}], {}, "https://x.test")
         self.assertIn("Nothing yet", html)
