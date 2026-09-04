@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-04T14:00:00+00:00",
+ "heartbeat": "2026-09-04T18:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -1926,8 +1926,8 @@
   "fireworks:01M1P9PV50PC5ZKVJZ9WC6NCA9": {
    "impact": "none",
    "last_seen_at": "2026-09-04T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-04T13:28:40+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-04T16:12:56+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
@@ -3618,8 +3618,8 @@
   "replit:f551e79f-142b-4e8e-9e7e-4b8b92c47111": {
    "impact": "minor",
    "last_seen_at": "2026-09-04T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-02T18:41:09+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-04T17:19:07+00:00"
   },
   "replit:fe512ce5-1fc9-467a-898c-3ebd1dd1bc19": {
    "impact": "minor",
