@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users may be experiencing failures when using Copilot code review. We have identified the root cause and are working on a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is sulking, mildly",
+  "id": "github:zw1hbx2yyhvr:opened:investigating:minor:2026-09-04T20:57:53.119000+00:00",
+  "impact": "minor",
+  "incident_id": "zw1hbx2yyhvr",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-04T21:00:03.448190+00:00",
+  "started_at": "2026-09-04T20:39:03.195000+00:00",
+  "status": "investigating",
+  "title": "Disruption with Copilot Code Review",
+  "transition": "opened",
+  "url": "https://stspg.io/dddfhld6fj0z"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "2h 44m",
