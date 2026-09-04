@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue has been fixed, the error rate should be zero. We are currently monitoring the situation.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs has applied a fix and is holding its breath",
+  "id": "elevenlabs:01M1PB7V9WNBNFFACKWX3B57GC:opened:monitoring:minor:2026-09-04T14:34:50+00:00",
+  "impact": "minor",
+  "incident_id": "01M1PB7V9WNBNFFACKWX3B57GC",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-04T14:53:17.193448+00:00",
+  "started_at": "2026-09-04T13:55:26+00:00",
+  "status": "monitoring",
+  "title": "Increase in latency in the Global Residency for Speech-to-Text and Dubbing requests",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",

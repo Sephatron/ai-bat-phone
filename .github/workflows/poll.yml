@@ -2,9 +2,11 @@ name: poll
 
 on:
   schedule:
-    # Every 10 minutes. GitHub's scheduler is best-effort and drifts under load,
-    # so treat this as "within about 15 minutes", not a guarantee.
-    - cron: "*/10 * * * *"
+    # Twice an hour, at 7 and 37 past. The odd offset is the point: GitHub says
+    # the schedule event is delayed under high load, that "some queued jobs may
+    # be dropped", and that high load times include the start of every hour. A
+    # */30 cron would fire at :00, the one minute they name.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:

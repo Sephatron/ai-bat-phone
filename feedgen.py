@@ -128,7 +128,7 @@ def build_rss(events, filename, heartbeat, max_items=200):
         "<description>%s</description>" % escape(spec["description"]),
         "<language>en-GB</language>",
         "<lastBuildDate>%s</lastBuildDate>" % _rfc822(heartbeat),
-        "<ttl>10</ttl>",
+        "<ttl>30</ttl>",
         "<atom:link href=%s rel='self' type='application/rss+xml'/>" % quoteattr(self_url),
     ]
     for event in selected:
@@ -252,7 +252,7 @@ the same items.</p>
 <ul class="plain">$watched</ul>
 $blocks
 
-<footer>Polled on a schedule by a GitHub Action, best-effort every 10 minutes ·
+<footer>Checked twice an hour by a GitHub Action, best-effort ·
 <a href="$source">source</a></footer>
 </div>
 <script>

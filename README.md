@@ -19,10 +19,13 @@ Human-readable mirror: <https://sephatron.github.io/ai-bat-phone/>
 
 ## How it works
 
-A GitHub Action runs `collect.py` on a `*/10` cron. GitHub's scheduler is
-best-effort and drifts — a busy period can push a run well past its slot, and
-the first run after a workflow lands often takes an hour to appear — so treat
-the cadence as "usually within about fifteen minutes", never as a guarantee. It reads each provider's
+A GitHub Action runs `collect.py` at 7 and 37 minutes past the hour. The odd
+offset is deliberate: GitHub documents the schedule event as delayed under high
+load, says "some queued jobs may be dropped", and names the start of every hour
+as a high load time, so `*/30` would fire at the worst possible minute. Even
+then there is no guarantee, and a dropped poll costs lateness rather than data,
+because the collector compares against saved state rather than assuming it saw
+the last run. It reads each provider's
 status page, compares what it finds against `state.json`, and appends any real
 change to `events.json`. The feeds under `docs/` are rebuilt from that log and
 served by GitHub Pages.
@@ -61,6 +64,8 @@ of the three that reaches a subscriber inside their reader.
 The hour rounding on the heartbeat is what stops all this producing a commit
 every ten minutes. The cost is up to 24 heartbeat commits a day, which also keeps
 the repository active so GitHub does not disable the schedule after 60 idle days.
+That last part is load-bearing rather than incidental: strip the heartbeat
+commits out and the feed switches itself off two months later.
 
 **Items are stamped with when we noticed, not when the incident began.** This is
 an alert stream, not an archive. An all-clear backdated three days sorts below
