@@ -1,44 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="feed.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>AI Bat Phone</title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 04 Sep 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 13:00:00 +0000</lastBuildDate>
 <ttl>10</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
-<title><![CDATA[🟢 ElevenLabs has stopped wobbling]]></title>
-<link>https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG</link>
-<guid isPermaLink='false'>elevenlabs:01M1P3JKFAH46V0TRJFQHHJ8HG:resolved:resolved:minor:2026-09-04T12:12:17+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 12:15:24 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>EU - STT - Increase in latency in the EU Residency for Speech-to-Text requests</strong></p><p>Impact: minor · Status: resolved · Duration: 30 min · Opened: Fri, 04 Sep 2026 11:41:29 +0000</p><p>The issue has been resolved, everything is back at normal.</p><p><a href="https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG">ElevenLabs status page</a></p>]]></description>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-09-04</guid>
+<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 20 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 <item>
-<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
-<link>https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG</link>
-<guid isPermaLink='false'>elevenlabs:01M1P3JKFAH46V0TRJFQHHJ8HG:opened:investigating:minor</guid>
-<pubDate>Fri, 04 Sep 2026 11:41:29 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>EU - STT - Increase in latency in the EU Residency for Speech-to-Text requests</strong></p><p>Impact: minor · Status: investigating</p><p>We're investigating a latency increase on the EU Residency server for Speech-to-Text models, affecting a small subset of requests.</p><p><a href="https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M1NZWGZNEFAKC3VSHAQ10VFT</link>
-<guid isPermaLink='false'>fireworks:01M1NZWGZNEFAKC3VSHAQ10VFT:opened:investigating:none</guid>
-<pubDate>Fri, 04 Sep 2026 10:37:00 +0000</pubDate>
+<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
+<link>https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9</link>
+<guid isPermaLink='false'>fireworks:01M1P9PV50PC5ZKVJZ9WC6NCA9:opened:investigating:none:2026-09-04T13:28:40+00:00</guid>
+<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
 <category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M1NZWGZNEFAKC3VSHAQ10VFT">Fireworks AI status page</a></p>]]></description>
+<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 04 Sep 2026 13:28:40 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9">Fireworks AI status page</a></p>]]></description>
 </item>
 <item>
 <title><![CDATA[👀 Replit is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111</link>
-<guid isPermaLink='false'>replit:f551e79f-142b-4e8e-9e7e-4b8b92c47111:opened:monitoring:minor</guid>
-<pubDate>Wed, 02 Sep 2026 18:41:09 +0000</pubDate>
+<guid isPermaLink='false'>replit:f551e79f-142b-4e8e-9e7e-4b8b92c47111:opened:monitoring:minor:2026-09-04T13:44:13.044445+00:00</guid>
+<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
 <category>Replit</category>
-<description><![CDATA[<p><strong>Some users are unable to publish apps with an external DATABASE_URL error</strong></p><p>Impact: minor · Status: monitoring</p><p>[Monitoring] Production data is confirmed to be safe after a configuration error during deploys that impacted users on September 1st, 2026. The issue has been resolved going forward and we are working on a fix to restore impacted projects. If your project was impacted by this error please reach out to support.</p><p><a href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111">Replit status page</a></p>]]></description>
+<description><![CDATA[<p><strong>Some users are unable to publish apps with an external DATABASE_URL error</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 02 Sep 2026 18:41:09 +0000</p><p>[Monitoring] Production data is confirmed to be safe after a configuration error during deploys that impacted users on September 1st, 2026. The issue has been resolved going forward and we are working on a fix to restore impacted projects. If your project was impacted by this error please reach out to support.</p><p><a href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

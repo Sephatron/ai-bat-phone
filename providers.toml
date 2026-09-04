@@ -123,14 +123,25 @@ name = "AI21"
 adapter = "statuspage"
 base = "https://status.ai21.com"
 
+[[provider]]
+key = "moonshot"
+name = "Moonshot AI (Kimi)"
+adapter = "statuspage"
+base = "https://status.moonshot.cn"
+
 # --- Known gaps -------------------------------------------------------------
 # Everything below is deliberately not polled, each with the reason. These are
 # published on the index page too: a reader seeing no Mistral outages should
 # know Mistral is not watched, rather than concluding Mistral had a good month.
-# Flip `enabled` to turn one on.
+#
+# `blocked = true` means the endpoint cannot be read, so the `adapter` and
+# `base` here are guesses, not verified config — flipping `enabled` on one of
+# those gives you a broken provider, not a working one. Blocks without it are
+# reachable and simply out of scope; those you can turn on as they stand.
 
 [[provider]]
 key = "xai"
+blocked = true
 name = "xAI"
 adapter = "statuspage"
 base = "https://status.x.ai"
@@ -139,6 +150,7 @@ note = "Cloudflare bot challenge on every path, including history.rss."
 
 [[provider]]
 key = "mistral"
+blocked = true
 name = "Mistral"
 adapter = "statuspage"
 base = "https://status.mistral.ai"
@@ -147,6 +159,7 @@ note = "JS-only status page; no JSON or RSS endpoint on the custom domain."
 
 [[provider]]
 key = "huggingface"
+blocked = true
 name = "Hugging Face"
 adapter = "statuspage"
 base = "https://status.huggingface.co"
@@ -155,6 +168,7 @@ note = "JS-only status page; no JSON or RSS endpoint on the custom domain."
 
 [[provider]]
 key = "together"
+blocked = true
 name = "Together AI"
 adapter = "statuspage"
 base = "https://status.together.ai"
@@ -163,6 +177,7 @@ note = "JS-only status page; no JSON or RSS endpoint on the custom domain."
 
 [[provider]]
 key = "aws"
+blocked = true
 name = "AWS (Bedrock)"
 adapter = "rss"
 base = "https://status.aws.amazon.com"
@@ -172,6 +187,7 @@ note = "Feed is one item per update rather than per incident, and covers all of 
 
 [[provider]]
 key = "azure"
+blocked = true
 name = "Azure OpenAI"
 adapter = "rss"
 base = "https://azure.status.microsoft"
@@ -202,3 +218,12 @@ adapter = "statuspage"
 base = "https://status.assemblyai.com"
 enabled = false
 note = "Reachable, but speech rather than language models."
+
+[[provider]]
+key = "openrouter"
+name = "OpenRouter"
+adapter = "statuspage"
+base = "https://status.openrouter.ai"
+enabled = false
+blocked = true
+note = "Status host exists but 404s on every JSON and feed path tried."

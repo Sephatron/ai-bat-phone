@@ -16,6 +16,8 @@ h2{font-size:17px;margin:40px 0 12px;font-weight:600}
 p.tag{color:var(--dim);margin:0 0 20px}
 .beat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:0 0 24px;font-size:14px}
 .beat b{font-weight:600}
+.beat.overdue{border-color:#b45309;background:#fffbeb;color:#7c2d12}
+@media (prefers-color-scheme:dark){.beat.overdue{background:#2a1f0a;color:#fcd34d}}
 .feeds{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
 .feed{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
 .feed a{font-weight:600;text-decoration:none;color:inherit}
@@ -38,26 +40,49 @@ footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:v
 <h1>AI Bat Phone</h1>
 <p class="tag">When the models go down, you get told to touch grass.</p>
 
-<p class="beat">Status pages last checked <b>04 Sep 2026 12:00 UTC</b>. This page and the feeds carry that
-time even when nothing has happened, so a build date that stops moving means the collector has
-died — not that the models are behaving.</p>
+<p class="beat" id="beat">Status pages last checked
+<b><time datetime="2026-09-04T13:00:00+00:00" id="beat-time">04 Sep 2026 13:00 UTC</time></b><span id="beat-age"></span>.
+Every feed carries this time even when nothing has happened, so a check time that stops
+moving means the collector has died rather than that the models are behaving.</p>
 
 <div class="feeds">
 <div class="feed"><a href="feed.xml">feed.xml</a><div>Everything — outages and maintenance</div><code>https://sephatron.github.io/ai-bat-phone/feed.xml</code></div>
 <div class="feed"><a href="outages.xml">outages.xml</a><div>Outages only, no planned works</div><code>https://sephatron.github.io/ai-bat-phone/outages.xml</code></div>
 <div class="feed"><a href="major.xml">major.xml</a><div>Major and critical only</div><code>https://sephatron.github.io/ai-bat-phone/major.xml</code></div>
 </div>
-<p class="dim">RSS has no per-subscriber settings, so the maintenance toggle is a choice of URL.
-Only providers on the statuspage and rss adapters publish maintenance at all; for the rest,
-feed.xml and outages.xml carry the same items.</p>
+<p class="dim">Paste one of those URLs into any feed reader. RSS has no per-subscriber
+settings, so the maintenance toggle is a choice of URL. Only providers on the statuspage
+and rss adapters publish maintenance at all; for the rest, feed.xml and outages.xml carry
+the same items.</p>
 
 <h2>Recent</h2>
-<ul class="events"><li class="event"><div class="when">04 Sep 12:15 UTC</div><div><a class="headline" href="https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG"><span class="emoji">🟢</span>ElevenLabs has stopped wobbling</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>ElevenLabs</span><span>EU - STT - Increase in latency in the EU Residency for Speech-to-Text requests</span></div></div></li><li class="event"><div class="when">04 Sep 11:41 UTC</div><div><a class="headline" href="https://status.elevenlabs.io/incidents/01M1P3JKFAH46V0TRJFQHHJ8HG"><span class="emoji">🟠</span>ElevenLabs is having a wobble</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>ElevenLabs</span><span>EU - STT - Increase in latency in the EU Residency for Speech-to-Text requests</span></div></div></li><li class="event"><div class="when">04 Sep 10:37 UTC</div><div><a class="headline" href="https://status.fireworks.ai/incidents/01M1NZWGZNEFAKC3VSHAQ10VFT"><span class="emoji">🟠</span>Minor grumbles from Fireworks AI</a><div class="meta"><span class="badge" style="color:#334155;background:#e2e8f0">unclassified</span><span>Fireworks AI</span><span>Service Degradation for one of our Serverless models</span></div></div></li><li class="event"><div class="when">02 Sep 18:41 UTC</div><div><a class="headline" href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111"><span class="emoji">👀</span>Replit is on the mend. Don't get comfortable yet.</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>Replit</span><span>Some users are unable to publish apps with an external DATABASE_URL error</span></div></div></li></ul>
+<ul class="events"><li class="event"><div class="when">04 Sep 13:44 UTC</div><div><a class="headline" href="https://sephatron.github.io/ai-bat-phone"><span class="emoji">📡</span>Still watching. Nothing to report.</a><div class="meta"><span class="badge" style="color:#4c1d95;background:#ede9fe">monitoring</span><span>AI Bat Phone</span><span>Still watching 20 provider status pages</span></div></div></li><li class="event"><div class="when">04 Sep 13:44 UTC</div><div><a class="headline" href="https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9"><span class="emoji">🟠</span>Fireworks AI is sulking, mildly</a><div class="meta"><span class="badge" style="color:#334155;background:#e2e8f0">unclassified</span><span>Fireworks AI</span><span>Service Degradation for one of our Serverless models</span></div></div></li><li class="event"><div class="when">04 Sep 13:44 UTC</div><div><a class="headline" href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111"><span class="emoji">👀</span>Replit is on the mend. Don't get comfortable yet.</a><div class="meta"><span class="badge" style="color:#7c2d12;background:#ffedd5">minor</span><span>Replit</span><span>Some users are unable to publish apps with an external DATABASE_URL error</span></div></div></li></ul>
 
 <h2>Watching</h2>
-<ul class="plain"><li>Claude <span class="dim">statuspage</span></li><li>OpenAI <span class="dim">statuspage</span></li><li>Cursor <span class="dim">statuspage</span></li><li>GitHub <span class="dim">statuspage</span></li><li>Windsurf <span class="dim">statuspage</span></li><li>Vercel <span class="dim">statuspage</span></li><li>Groq <span class="dim">statuspage</span></li><li>Cohere <span class="dim">statuspage</span></li><li>Fireworks AI <span class="dim">statuspage</span></li><li>ElevenLabs <span class="dim">statuspage</span></li><li>Lovable <span class="dim">statuspage</span></li><li>DeepSeek <span class="dim">rss</span></li><li>Replit <span class="dim">rss</span></li><li>Perplexity <span class="dim">rss</span></li><li>Google Vertex AI / Gemini <span class="dim">gcp, incidents only</span></li><li>Cerebras Inference <span class="dim">statuspage</span></li><li>SambaNova <span class="dim">statuspage</span></li><li>Baseten <span class="dim">statuspage</span></li><li>AI21 <span class="dim">statuspage</span></li></ul>
-<h2>Not watched</h2><ul class="plain"><li>xAI <span class="dim">Cloudflare bot challenge on every path, including history.rss.</span></li><li>Mistral <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>Hugging Face <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>Together AI <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>AWS (Bedrock) <span class="dim">Feed is one item per update rather than per incident, and covers all of AWS; needs its own adapter.</span></li><li>Azure OpenAI <span class="dim">Feed returns zero items; Microsoft publishes status through a different mechanism.</span></li><li>Stability AI <span class="dim">Reachable, but images rather than language models.</span></li><li>Deepgram <span class="dim">Reachable, but speech rather than language models.</span></li><li>AssemblyAI <span class="dim">Reachable, but speech rather than language models.</span></li></ul><p class="dim">An outage at any of these will never appear here. The reason is next to each one.</p>
+<ul class="plain"><li>Claude <span class="dim">statuspage</span></li><li>OpenAI <span class="dim">statuspage</span></li><li>Cursor <span class="dim">statuspage</span></li><li>GitHub <span class="dim">statuspage</span></li><li>Windsurf <span class="dim">statuspage</span></li><li>Vercel <span class="dim">statuspage</span></li><li>Groq <span class="dim">statuspage</span></li><li>Cohere <span class="dim">statuspage</span></li><li>Fireworks AI <span class="dim">statuspage</span></li><li>ElevenLabs <span class="dim">statuspage</span></li><li>Lovable <span class="dim">statuspage</span></li><li>DeepSeek <span class="dim">rss</span></li><li>Replit <span class="dim">rss</span></li><li>Perplexity <span class="dim">rss</span></li><li>Google Vertex AI / Gemini <span class="dim">gcp, incidents only</span></li><li>Cerebras Inference <span class="dim">statuspage</span></li><li>SambaNova <span class="dim">statuspage</span></li><li>Baseten <span class="dim">statuspage</span></li><li>AI21 <span class="dim">statuspage</span></li><li>Moonshot AI (Kimi) <span class="dim">statuspage</span></li></ul>
+<h2>Not watched</h2><ul class="plain"><li>xAI <span class="dim">Cloudflare bot challenge on every path, including history.rss.</span></li><li>Mistral <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>Hugging Face <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>Together AI <span class="dim">JS-only status page; no JSON or RSS endpoint on the custom domain.</span></li><li>AWS (Bedrock) <span class="dim">Feed is one item per update rather than per incident, and covers all of AWS; needs its own adapter.</span></li><li>Azure OpenAI <span class="dim">Feed returns zero items; Microsoft publishes status through a different mechanism.</span></li><li>Stability AI <span class="dim">Reachable, but images rather than language models.</span></li><li>Deepgram <span class="dim">Reachable, but speech rather than language models.</span></li><li>AssemblyAI <span class="dim">Reachable, but speech rather than language models.</span></li><li>OpenRouter <span class="dim">Status host exists but 404s on every JSON and feed path tried.</span></li></ul><p class="dim">An outage at any of these will never appear here. The reason is next to each one.</p>
 
-<footer>Polled every 10 minutes by a GitHub Action ·
+<footer>Polled on a schedule by a GitHub Action, best-effort every 10 minutes ·
 <a href="https://github.com/Sephatron/ai-bat-phone">source</a></footer>
-</div></body></html>
+</div>
+<script>
+// The page is only rebuilt when something changes, so a build-time "x minutes
+// ago" would be frozen and wrong. Compute it in the reader's browser instead.
+(function () {
+  var el = document.getElementById("beat-time");
+  var out = document.getElementById("beat-age");
+  if (!el || !out) return;
+  var when = new Date(el.getAttribute("datetime"));
+  if (isNaN(when)) return;
+  var mins = Math.floor((Date.now() - when.getTime()) / 60000);
+  if (mins < 0) mins = 0;
+  var text = mins < 60 ? mins + " min ago"
+    : Math.floor(mins / 60) + "h " + (mins % 60) + "m ago";
+  out.textContent = " (" + text + ")";
+  if (mins > 120) {
+    document.getElementById("beat").className = "beat overdue";
+    out.textContent = " (" + text + " — overdue, this feed may be stale)";
+  }
+})();
+</script>
+</body></html>

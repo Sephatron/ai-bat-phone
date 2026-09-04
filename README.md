@@ -19,7 +19,10 @@ Human-readable mirror: <https://sephatron.github.io/ai-bat-phone/>
 
 ## How it works
 
-A GitHub Action runs `collect.py` every ten minutes. It reads each provider's
+A GitHub Action runs `collect.py` on a `*/10` cron. GitHub's scheduler is
+best-effort and drifts — a busy period can push a run well past its slot, and
+the first run after a workflow lands often takes an hour to appear — so treat
+the cadence as "usually within about fifteen minutes", never as a guarantee. It reads each provider's
 status page, compares what it finds against `state.json`, and appends any real
 change to `events.json`. The feeds under `docs/` are rebuilt from that log and
 served by GitHub Pages.
@@ -47,13 +50,17 @@ feed's silence about X as unknown, not good."* A recovery item follows when it
 comes back. This is the counterweight to the rule above — a monitoring feed whose
 own death looks like good news is the worst failure mode available to it.
 
-**`lastBuildDate` means "we looked", not "we published".** It carries the last
-successful poll, rounded to the hour. A build date that stops moving means the
-collector has died, not that the models are behaving. The hour rounding is what
-stops that producing a commit every ten minutes; the cost is up to 24 heartbeat
-commits a day, which is the price of being able to tell a quiet week from a dead
-one. It also keeps the repository active, so GitHub does not disable the
-schedule after 60 idle days.
+**Three separate proofs that the collector is alive.** No mainstream reader
+shows `lastBuildDate` to a human, so on its own it proves liveness to nobody who
+is not running curl. So: `lastBuildDate` carries the last successful poll rounded
+to the hour, for anyone reading the XML; the index page renders that time and how
+long ago it was, and marks itself overdue past two hours; and a "still watching,
+nothing to report" item goes into all three feeds weekly, which is the only one
+of the three that reaches a subscriber inside their reader.
+
+The hour rounding on the heartbeat is what stops all this producing a commit
+every ten minutes. The cost is up to 24 heartbeat commits a day, which also keeps
+the repository active so GitHub does not disable the schedule after 60 idle days.
 
 **Items are stamped with when we noticed, not when the incident began.** This is
 an alert stream, not an archive. An all-clear backdated three days sorts below
@@ -70,12 +77,12 @@ see `SOBER` in `copywriter.py`.
 
 ## Providers
 
-Nineteen are polled. Three adapters cover them:
+Twenty are polled. Three adapters cover them:
 
 - **statuspage** — `/api/v2/incidents.json`. Atlassian Statuspage, Instatus and
   incident.io all serve the same shape. Claude, OpenAI, Cursor, GitHub,
   Windsurf, Vercel, Groq, Cohere, Fireworks, ElevenLabs, Lovable, Cerebras,
-  SambaNova, Baseten, AI21.
+  SambaNova, Baseten, AI21, Moonshot AI (Kimi).
 - **rss** — a history feed, for pages that block JSON. DeepSeek, Replit,
   Perplexity.
 - **gcp** — `status.cloud.google.com/incidents.json`, filtered to Vertex AI and
@@ -100,15 +107,21 @@ outages" and "not looking":
 - **AWS Bedrock** — the RSS feed is one item per *update* rather than per
   incident, and covers all of AWS. Needs its own adapter.
 - **Azure OpenAI** — the status feed returns zero items.
+- **OpenRouter** — the status host exists but 404s on every JSON and feed path.
 - **Stability, Deepgram, AssemblyAI** — reachable, but images and speech rather
   than language models. Flip `enabled` to include them.
+
+Blocks marked `blocked = true` cannot be read at all, so their `adapter` and
+`base` are guesses rather than verified config; flipping `enabled` on one of
+those gives you a broken provider, not a working one. The three out-of-scope
+ones at the end are reachable and work as they stand.
 
 ## Local use
 
 ```bash
 python3 collect.py --dry-run   # report what would change, write nothing
 python3 collect.py             # poll and rebuild docs/
-python3 -m unittest -v         # 58 offline tests, no network
+python3 -m unittest -v         # 90 offline tests, no network
 ```
 
 Python 3.11+ (needs `tomllib`). No third-party dependencies, by design — an
@@ -122,7 +135,13 @@ trust boundary: strings are stripped of characters illegal in XML and bounded in
 length, URLs are restricted to well-formed `http(s)`, and responses are capped at
 8MB decompressed. `feedgen.py` uses `quoteattr()` for anything landing in an HTML
 attribute — `escape()` does not touch quote characters, which is an attribute
-breakout waiting for one hostile status page.
+breakout waiting for one hostile status page — and re-checks every URL at render
+time rather than trusting what `events.json` recorded, because that file outlives
+the code that wrote it.
+
+An adapter that stops recognising a provider's format raises rather than
+returning an empty list. A quiet provider and a broken parser must not look the
+same, and returning `[]` would reset the failure counter and suppress the alarm.
 
 ## Adding a provider
 

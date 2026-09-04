@@ -13,14 +13,38 @@ import re
 
 # Anything matching these gets neutral copy. Jokes about a breach age badly, and
 # a security notice is the one case where a reader must not have to decode tone.
-# No trailing \b: the stems are deliberately partial ("compromis" has to match
-# "compromised"), and a word boundary after a stem can never match because the
-# next character is always a word character.
+# Phrase-level, and matched against the incident TITLE only.
+#
+# Two earlier versions of this got it wrong in opposite directions. Bare stems
+# ("secur", "leak", "corrupt", "root cause") flattened ordinary outages into
+# neutral copy — including Vercel's product name "Secure Compute" and the
+# routine phrase "we have identified the root cause" — while still missing
+# "conversations were visible to other users". Matching the body as well made
+# the tone flip mid-incident, because the body is the rolling latest update.
+#
+# The test for this file carries a negative case list. Add to it before adding
+# a pattern here.
 SOBER = re.compile(
-    r"\b(secur|breach|vulnerab|CVE-|exploit|unauthori[sz]ed|data loss|deleted|"
-    r"corrupt|exposed|leak|compromis|credential|phishing|malicious|attack|"
-    r"postmortem|root cause|incident report)",
-    re.I,
+    r"""
+      \bsecurity\s+(incident|advisory|notice|breach|event|bulletin)\b
+    | \b(data|privacy)\s+(breach|incident|exposure|leak|loss)\b
+    | \b(data|database)\s+corrupt\w*
+    | \bbreach\b
+    | \bunauthori[sz]ed\s+(access|disclosure|use|change)\b
+    | \bCVE-\d
+    | \bvulnerabilit(y|ies)\b
+    | \bcompromis(e|ed|ing)\b
+    | \b(ransomware|phishing|malicious|exfiltrat)\w*
+    | \bexploit(ed|ation)?\b
+    | \b(PII|PHI)\b
+    | \b(personal|customer)\s+data\b
+    | \bexposure\s+of\b
+    | \bvisible\s+to\s+other\s+(users|customers|accounts|organi[sz]ations)\b
+    | \bcross[-\s]account\b
+    | \b(api\s+keys?|credentials?|passwords?|secrets?|tokens?)\b[^.]{0,40}
+      \b(expos|leak|visib|viewable|disclos|rotat|reset)
+    """,
+    re.I | re.X,
 )
 
 OPENED_HIGH = [
@@ -99,12 +123,18 @@ MAINTENANCE = {
     ],
 }
 
+# Front-loaded and short. Reader list views truncate around 60-80 characters, so
+# the meaning has to survive the cut, and repeating the provider name twice was
+# what pushed the earlier version to 135.
 META = {
     "unreachable": [
-        "📵 Cannot reach {p}'s status page. Treat this feed's silence about {p} as unknown, not good.",
+        "📵 {p} is unreadable — silence here means unknown, not fine",
     ],
     "recovered": [
-        "📶 {p}'s status page is readable again. Normal service resumed on this end.",
+        "📶 {p} is readable again, so silence here means quiet once more",
+    ],
+    "alive": [
+        "📡 Still watching. Nothing to report.",
     ],
 }
 
@@ -151,12 +181,14 @@ def headline(incident, transition, duration=None):
     }
     seed = "%s|%s" % (incident.key, transition)
 
-    if SOBER.search("%s %s" % (incident.title, incident.latest_update)):
-        return "%s %s: %s" % (EMOJI["sober"], incident.provider_name, incident.title)
-
+    # Maintenance is checked first: planned security patching is routine work,
+    # not a security incident, and the maintenance copy is mild anyway.
     if incident.kind == "maintenance":
         pool = MAINTENANCE.get(incident.status) or MAINTENANCE["scheduled"]
         return "%s %s" % (EMOJI["maintenance"], _pick(pool, seed).format(**fields))
+
+    if SOBER.search(incident.title):
+        return "%s %s: %s" % (EMOJI["sober"], incident.provider_name, incident.title)
 
     high = incident.impact in ("major", "critical")
 

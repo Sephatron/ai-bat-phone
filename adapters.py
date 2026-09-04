@@ -110,6 +110,14 @@ class Incident:
     updates_tracked: bool = True
 
     def __post_init__(self):
+        # Every string, not just the obviously provider-supplied ones. The
+        # docstring at the top of this module calls this the trust boundary; it
+        # is only true if nothing gets to skip it.
+        self.provider_key = xml_safe(self.provider_key, 60)
+        self.provider_name = xml_safe(self.provider_name, 80)
+        self.status = xml_safe(self.status, 40)
+        self.impact = xml_safe(self.impact, 20)
+        self.kind = xml_safe(self.kind, 20)
         self.incident_id = xml_safe(self.incident_id, MAX_ID) or "unknown"
         self.title = xml_safe(self.title, MAX_TITLE) or "(untitled incident)"
         self.latest_update = xml_safe(self.latest_update, 600)
@@ -149,7 +157,11 @@ def _get(url, accept):
             if not resp.url.lower().startswith("https://"):
                 # urllib follows redirects silently. An https page bounced to
                 # plain http hands a network attacker a write path into the feed.
-                raise FetchError("%s redirected off https to %s" % (url, resp.url))
+                raise FetchError(
+                    "%s ended on a non-https URL (%s)" % (url, resp.url)
+                    if resp.url != url
+                    else "%s is not https" % url
+                )
             gzipped = resp.headers.get("Content-Encoding") == "gzip"
             return resp.status, _read_capped(io.BytesIO(resp.read(MAX_BYTES + 1)), gzipped)
     except urllib.error.HTTPError as exc:
@@ -185,12 +197,18 @@ def _parse_iso(value):
 
 
 def _strip_html(value):
+    """Unescape first, then strip.
+
+    The other order turns "&lt;img onerror=…&gt;" into a live tag: unescaping
+    after the tag regex has already run means nothing removes it.
+    """
     if not value:
         return ""
-    text = re.sub(r"<br\s*/?>", "\n", value)
+    text = html.unescape(str(value))
+    text = re.sub(r"<br\s*/?>", "\n", text)
     text = re.sub(r"</p>", "\n", text)
     text = re.sub(r"<[^>]+>", "", text)
-    return html.unescape(text).strip()
+    return text.strip()
 
 
 def _truncate(text, limit=600):
@@ -240,10 +258,18 @@ def _statuspage_incident(provider, raw, base, kind="incident"):
     updates = raw.get("incident_updates") or []
     body = _strip_html(updates[0].get("body", "")) if updates else ""
     status = str(raw.get("status") or "").lower()
-    if kind == "maintenance" and status not in MAINTENANCE_STATUSES:
-        status = "scheduled"
-    elif kind == "incident" and status not in INCIDENT_STATUSES:
-        status = "investigating"
+    allowed = MAINTENANCE_STATUSES if kind == "maintenance" else INCIDENT_STATUSES
+    if status not in allowed:
+        # Coercing an unknown word to a live status ("investigating") turns
+        # every already-resolved incident into a reopening the moment a status
+        # host adds a vocabulary word. Skip it, the same way _rss_classify
+        # refuses to guess at a dialect it does not know.
+        print(
+            "  ? %-22s unknown %s status %r, skipping incident %s"
+            % (provider.get("key"), kind, status, incident_id),
+            file=sys.stderr,
+        )
+        return None
     impact = str(raw.get("impact") or "none").lower()
     if impact not in IMPACT_RANK:
         impact = "none"
@@ -325,12 +351,16 @@ def _rss_classify(text):
         # A published duration means the provider has closed it out.
         return kind, ("completed" if kind == "maintenance" else "resolved")
 
-    if _NEGATED_RESOLVED.search(text):
-        return kind, ("scheduled" if kind == "maintenance" else "investigating")
-    if _looks_resolved(text):
-        return kind, ("completed" if kind == "maintenance" else "resolved")
     if type_line:
+        # This dialect states a duration when, and only when, it is finished.
+        # Falling through to the keyword sniff below would read the standard
+        # "service has been restored and we are monitoring" line as an
+        # all-clear while the incident is still open.
         return kind, ("scheduled" if kind == "maintenance" else "investigating")
+    if _NEGATED_RESOLVED.search(text):
+        return kind, "investigating"
+    if _looks_resolved(text):
+        return kind, "resolved"
     return None
 
 
@@ -389,7 +419,13 @@ def fetch_rss(provider):
             )
         )
 
-    if seen_items and unknown > seen_items / 2:
+    if not seen_items:
+        # The counter sits after the guid and pubDate guards, so a date format
+        # change, a move to Atom, or a different channel path yields zero here.
+        # Returning [] would look like a calm provider and reset the failure
+        # counter, which is the one outcome this project must never produce.
+        raise FetchError("%s: parsed no usable entries — feed shape changed" % url)
+    if unknown >= seen_items / 2:
         raise FetchError("%s: %d of %d entries in an unrecognised format" % (url, unknown, seen_items))
     if unknown:
         print("  ? %-22s %d entry(s) in an unrecognised format" % (provider["key"], unknown), file=sys.stderr)

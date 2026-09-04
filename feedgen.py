@@ -8,7 +8,10 @@ attribute is an attribute breakout waiting for one hostile status page.
 
 from datetime import datetime, timezone
 from email.utils import format_datetime
+from string import Template
 from xml.sax.saxutils import escape, quoteattr
+
+import adapters
 
 SITE_TITLE = "AI Bat Phone"
 SITE_TAGLINE = "When the models go down, you get told to touch grass."
@@ -40,6 +43,7 @@ VARIANTS = {
 # Providers set impact "none" for informational notices. Showing a reader the
 # word "none" next to a headline saying something is broken reads as a bug.
 IMPACT_LABEL = {
+    "meta": "monitoring",
     "none": "unclassified",
     "minor": "minor",
     "major": "major",
@@ -47,9 +51,25 @@ IMPACT_LABEL = {
 }
 
 
+def _url(event):
+    """Re-check the URL here rather than trusting events.json.
+
+    That file is a persistence boundary: it outlives the code that wrote it, and
+    validating once at capture time makes the invariant depend on every future
+    writer remembering. quoteattr stops a breakout; only this stops a
+    javascript: scheme.
+    """
+    return adapters.safe_url(event.get("url", ""), SOURCE_URL)
+
+
 def _cdata(text):
     # A literal ]]> would close the section early and break every reader.
     return "<![CDATA[%s]]>" % (text or "").replace("]]>", "]]&gt;")
+
+
+# Feeds carry a stylesheet so that tapping feed.xml on a phone shows a page
+# rather than a wall of XML. Readers ignore it.
+XSL_HREF = "feed.xsl"
 
 
 def _rfc822(value):
@@ -81,7 +101,7 @@ def _item_body(event):
         lines.append("<p>%s</p>" % escape(event["body"]))
     lines.append(
         "<p><a href=%s>%s status page</a></p>"
-        % (quoteattr(event["url"]), escape(event["provider_name"]))
+        % (quoteattr(_url(event)), escape(event["provider_name"]))
     )
     return "".join(lines)
 
@@ -100,6 +120,7 @@ def build_rss(events, filename, heartbeat, max_items=200):
 
     parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
+        '<?xml-stylesheet type="text/xsl" href="%s"?>' % XSL_HREF,
         '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
         "<channel>",
         "<title>%s</title>" % escape(spec["title"]),
@@ -113,8 +134,8 @@ def build_rss(events, filename, heartbeat, max_items=200):
     for event in selected:
         parts += [
             "<item>",
-            "<title>%s</title>" % _cdata(event["headline"]),
-            "<link>%s</link>" % escape(event["url"]),
+            "<title>%s</title>" % _cdata(escape(event["headline"])),
+            "<link>%s</link>" % escape(_url(event)),
             "<guid isPermaLink='false'>%s</guid>" % escape(event["id"]),
             "<pubDate>%s</pubDate>" % _rfc822(event["published_at"]),
             "<category>%s</category>" % escape(event["provider_name"]),
@@ -154,6 +175,8 @@ h2{font-size:17px;margin:40px 0 12px;font-weight:600}
 p.tag{color:var(--dim);margin:0 0 20px}
 .beat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:0 0 24px;font-size:14px}
 .beat b{font-weight:600}
+.beat.overdue{border-color:#b45309;background:#fffbeb;color:#7c2d12}
+@media (prefers-color-scheme:dark){.beat.overdue{background:#2a1f0a;color:#fcd34d}}
 .feeds{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
 .feed{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
 .feed a{font-weight:600;text-decoration:none;color:inherit}
@@ -188,6 +211,74 @@ def _split_badge(headline):
     return "", headline
 
 
+# How far behind the last poll may fall before the page calls itself stale.
+# GitHub's scheduler is best-effort and drifts, so this is deliberately loose.
+OVERDUE_MINUTES = 120
+
+# string.Template, not %-formatting. The previous version was one %-format
+# string, so a literal % anywhere in the page copy — "100% of the roster", a
+# CSS width, a URL-encoded character — raised TypeError and killed the only job
+# this repo runs. Moving the CSS out narrowed that hazard; it did not close it.
+PAGE = Template("""<!doctype html>
+<html lang="en-GB"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>$title</title>
+<meta name="description" content="$tagline">
+<link rel="icon" href="$favicon">
+<link rel="alternate" type="application/rss+xml" title="$title" href="feed.xml">
+<style>$style</style></head><body><div class="wrap">
+<h1>$title</h1>
+<p class="tag">$tagline</p>
+
+<p class="beat" id="beat">Status pages last checked
+<b><time datetime="$beat_iso" id="beat-time">$beat_human</time></b><span id="beat-age"></span>.
+Every feed carries this time even when nothing has happened, so a check time that stops
+moving means the collector has died rather than that the models are behaving.</p>
+
+<div class="feeds">
+<div class="feed"><a href="feed.xml">feed.xml</a><div>Everything — outages and maintenance</div><code>$site/feed.xml</code></div>
+<div class="feed"><a href="outages.xml">outages.xml</a><div>Outages only, no planned works</div><code>$site/outages.xml</code></div>
+<div class="feed"><a href="major.xml">major.xml</a><div>Major and critical only</div><code>$site/major.xml</code></div>
+</div>
+<p class="dim">Paste one of those URLs into any feed reader. RSS has no per-subscriber
+settings, so the maintenance toggle is a choice of URL. Only providers on the statuspage
+and rss adapters publish maintenance at all; for the rest, feed.xml and outages.xml carry
+the same items.</p>
+
+<h2>Recent</h2>
+<ul class="events">$rows</ul>
+
+<h2>Watching</h2>
+<ul class="plain">$watched</ul>
+$blocks
+
+<footer>Polled on a schedule by a GitHub Action, best-effort every 10 minutes ·
+<a href="$source">source</a></footer>
+</div>
+<script>
+// The page is only rebuilt when something changes, so a build-time "x minutes
+// ago" would be frozen and wrong. Compute it in the reader's browser instead.
+(function () {
+  var el = document.getElementById("beat-time");
+  var out = document.getElementById("beat-age");
+  if (!el || !out) return;
+  var when = new Date(el.getAttribute("datetime"));
+  if (isNaN(when)) return;
+  var mins = Math.floor((Date.now() - when.getTime()) / 60000);
+  if (mins < 0) mins = 0;
+  var text = mins < 60 ? mins + " min ago"
+    : Math.floor(mins / 60) + "h " + (mins % 60) + "m ago";
+  out.textContent = " (" + text + ")";
+  if (mins > $overdue_minutes) {
+    document.getElementById("beat").className = "beat overdue";
+    out.textContent = " (" + text + " — overdue, this feed may be stale)";
+  }
+})();
+</script>
+</body></html>
+""")
+
+
 def build_index(events, providers, unreachable, heartbeat, gaps=None, max_items=60):
     rows = []
     for event in events[:max_items]:
@@ -208,7 +299,7 @@ def build_index(events, providers, unreachable, heartbeat, gaps=None, max_items=
             "<span>%s</span><span>%s</span></div></div></li>"
             % (
                 when.strftime("%d %b %H:%M UTC"),
-                quoteattr(event["url"]),
+                quoteattr(_url(event)),
                 escape(emoji),
                 escape(words),
                 fg,
@@ -224,7 +315,7 @@ def build_index(events, providers, unreachable, heartbeat, gaps=None, max_items=
         % (
             escape(p["name"]),
             escape(p["adapter"]),
-            "" if p["adapter"] in ("statuspage", "rss") else ", incidents only",
+            "" if p["adapter"] in adapters.MAINTENANCE_CAPABLE else ", incidents only",
         )
         for p in providers
     )
@@ -252,50 +343,18 @@ def build_index(events, providers, unreachable, heartbeat, gaps=None, max_items=
             "to each one.</p>" % rows_out
         )
 
-    return """<!doctype html>
-<html lang="en-GB"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>%(title)s</title>
-<meta name="description" content="%(tagline)s">
-<link rel="icon" href="%(favicon)s">
-<link rel="alternate" type="application/rss+xml" title="%(title)s" href="feed.xml">
-<style>%(style)s</style></head><body><div class="wrap">
-<h1>%(title)s</h1>
-<p class="tag">%(tagline)s</p>
-
-<p class="beat">Status pages last checked <b>%(beat)s</b>. This page and the feeds carry that
-time even when nothing has happened, so a build date that stops moving means the collector has
-died — not that the models are behaving.</p>
-
-<div class="feeds">
-<div class="feed"><a href="feed.xml">feed.xml</a><div>Everything — outages and maintenance</div><code>%(site)s/feed.xml</code></div>
-<div class="feed"><a href="outages.xml">outages.xml</a><div>Outages only, no planned works</div><code>%(site)s/outages.xml</code></div>
-<div class="feed"><a href="major.xml">major.xml</a><div>Major and critical only</div><code>%(site)s/major.xml</code></div>
-</div>
-<p class="dim">RSS has no per-subscriber settings, so the maintenance toggle is a choice of URL.
-Only providers on the statuspage and rss adapters publish maintenance at all; for the rest,
-feed.xml and outages.xml carry the same items.</p>
-
-<h2>Recent</h2>
-<ul class="events">%(rows)s</ul>
-
-<h2>Watching</h2>
-<ul class="plain">%(watched)s</ul>
-%(blocks)s
-
-<footer>Polled every 10 minutes by a GitHub Action ·
-<a href="%(source)s">source</a></footer>
-</div></body></html>
-""" % {
-        "title": escape(SITE_TITLE),
-        "tagline": escape(SITE_TAGLINE),
-        "favicon": FAVICON,
-        "style": STYLE,
-        "site": escape(SITE_URL),
-        "source": escape(SOURCE_URL),
-        "beat": heartbeat.strftime("%d %b %Y %H:00 UTC"),
-        "rows": "".join(rows)
+    return PAGE.substitute(
+        title=escape(SITE_TITLE),
+        tagline=escape(SITE_TAGLINE),
+        favicon=FAVICON,
+        style=STYLE,
+        site=escape(SITE_URL),
+        source=escape(SOURCE_URL),
+        beat_iso=heartbeat.isoformat(),
+        beat_human=heartbeat.strftime("%d %b %Y %H:00 UTC"),
+        overdue_minutes=OVERDUE_MINUTES,
+        rows="".join(rows)
         or '<li class="event"><div class="when">—</div><div class="dim">Nothing yet. Enjoy it.</div></li>',
-        "watched": watched,
-        "blocks": "".join(blocks),
-    }
+        watched=watched,
+        blocks="".join(blocks),
+    )

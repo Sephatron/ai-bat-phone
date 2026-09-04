@@ -25,7 +25,7 @@ import json
 import os
 import sys
 import tomllib
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, wait
 from datetime import datetime, timedelta, timezone
 
 import adapters
@@ -57,6 +57,14 @@ STATE_TTL = timedelta(days=90)
 # hour at the normal cadence — long enough to ride out a blip, short enough to
 # tell you the monitor is blind while it still matters.
 FAILURES_BEFORE_ALARM = 3
+# How long the whole fetch phase gets. TIMEOUT in adapters.py is a per-read
+# socket timeout, which a server dripping one byte every few seconds resets
+# forever; without a deadline here one such host hangs the run until the job is
+# killed, and then nothing is written and nothing is announced for anybody.
+FETCH_DEADLINE = 90
+# Proof of life for subscribers. lastBuildDate is not shown by any mainstream
+# reader, so on its own it tells a person nothing. This item does.
+ALIVE_EVERY = timedelta(days=7)
 
 EVENT_LOG_CAP = 400
 FEED_CAP = 200
@@ -75,8 +83,11 @@ def load_providers():
     no Mistral outages should know Mistral is not being watched, rather than
     concluding Mistral has been having a good month.
     """
-    with open(PROVIDERS_FILE, "rb") as handle:
-        data = tomllib.load(handle)
+    try:
+        with open(PROVIDERS_FILE, "rb") as handle:
+            data = tomllib.load(handle)
+    except (OSError, tomllib.TOMLDecodeError) as exc:
+        raise SystemExit("providers.toml could not be read: %s" % exc)
     providers, gaps = [], []
     for index, provider in enumerate(data.get("provider", [])):
         missing = [f for f in ("key", "name", "adapter", "base") if not provider.get(f)]
@@ -88,7 +99,7 @@ def load_providers():
             providers.append(provider)
         else:
             gaps.append(provider)
-    keys = [p["key"] for p in providers]
+    keys = [p["key"] for p in providers + gaps]
     duplicates = {k for k in keys if keys.count(k) > 1}
     if duplicates:
         raise SystemExit("providers.toml: duplicate key(s) %s" % ", ".join(sorted(duplicates)))
@@ -104,6 +115,34 @@ def load_json(path, default):
             return json.load(handle)
     except ValueError as exc:
         raise CorruptState("%s exists but is not valid JSON: %s" % (path, exc))
+    except OSError as exc:
+        raise CorruptState("%s could not be read: %s" % (path, exc))
+
+
+def validate_state(state, path):
+    """Check the shape, not just that it parsed.
+
+    Valid JSON of the wrong shape was the dangerous case: a state file missing
+    its `seen` key looked exactly like a first run, and a first run re-announces
+    every open incident across every provider at once.
+    """
+    if not isinstance(state, dict):
+        raise CorruptState("%s is %s, expected an object" % (path, type(state).__name__))
+    version = state.get("version")
+    if version is not None and version > STATE_VERSION:
+        raise CorruptState("%s is version %s; this code understands %s" % (path, version, STATE_VERSION))
+    for field in ("seen", "providers"):
+        value = state.get(field)
+        if value is None:
+            if version is not None:
+                raise CorruptState("%s has no %r key" % (path, field))
+            continue  # a genuinely absent file has already returned the default
+        if not isinstance(value, dict):
+            raise CorruptState("%s: %r is %s, expected an object" % (path, field, type(value).__name__))
+        for key, record in value.items():
+            if not isinstance(record, dict):
+                raise CorruptState("%s: %s[%r] is not an object" % (path, field, key))
+    return state
 
 
 def write_text(path, text):
@@ -123,6 +162,16 @@ def write_text(path, text):
 
 def write_json(path, payload):
     return write_text(path, json.dumps(payload, indent=1, sort_keys=True, ensure_ascii=False) + "\n")
+
+
+def day_of(now):
+    """Day resolution for the seen-map.
+
+    `last_seen_at` exists only to feed a 90-day TTL, so hour precision was 2,160
+    times finer than the decision needs — and it rewrote 713 of state.json's
+    4,242 lines every hour to record one fact the feeds already carry.
+    """
+    return now.replace(hour=0, minute=0, second=0, microsecond=0)
 
 
 def heartbeat_of(now):
@@ -148,15 +197,25 @@ def gather(providers):
         except Exception as exc:  # an adapter bug must not take the run down
             return provider, [], "unexpected %s: %s" % (type(exc).__name__, exc)
 
-    with ThreadPoolExecutor(max_workers=FETCH_WORKERS) as pool:
-        for provider, found, error in pool.map(one, providers):
-            if error:
-                errors[provider["key"]] = error
-                print("  ! %-22s %s" % (provider["key"], error), file=sys.stderr)
-            else:
-                incidents.extend(found)
-                print("  · %-22s %d incidents" % (provider["key"], len(found)))
-    return incidents, errors
+    pool = ThreadPoolExecutor(max_workers=FETCH_WORKERS)
+    futures = {pool.submit(one, p): p for p in providers}
+    done, pending = wait(futures, timeout=FETCH_DEADLINE)
+    for future in done:
+        provider, found, error = future.result()
+        if error:
+            errors[provider["key"]] = error
+            print("  ! %-22s %s" % (provider["key"], error), file=sys.stderr)
+        else:
+            incidents.extend(found)
+            print("  · %-22s %d incidents" % (provider["key"], len(found)))
+    for future in pending:
+        provider = futures[future]
+        errors[provider["key"]] = "no response within %ds" % FETCH_DEADLINE
+        print("  ! %-22s %s" % (provider["key"], errors[provider["key"]]), file=sys.stderr)
+    # Not a context manager, and not waiting: a thread stuck on a drip-feeding
+    # socket would otherwise hold the run open past the job's own deadline.
+    pool.shutdown(wait=False, cancel_futures=True)
+    return incidents, errors, bool(pending)
 
 
 def classify(incident, previous, now):
@@ -194,12 +253,15 @@ def make_event(incident, transition, now):
         span = incident.updated_at - incident.started_at
         duration = span if span.total_seconds() > 0 else None
 
+    # A moving component in the id is what lets a flapping incident report every
+    # move and a reopened one resolve a second time. For history feeds the
+    # provider's update time never moves — every entry carries the incident's
+    # start — so using it there would silently restore the collision it was
+    # added to prevent. Fall back to when we noticed.
+    moment = incident.updated_at if incident.updates_tracked else now
     return {
-        # The provider's update time is part of the id so a flapping incident
-        # (identified -> monitoring -> identified) reports every move, and a
-        # reopened one can be resolved a second time.
         "id": "%s:%s:%s:%s:%s"
-        % (incident.key, transition, incident.status, incident.impact, incident.updated_at.isoformat()),
+        % (incident.key, transition, incident.status, incident.impact, moment.isoformat()),
         "provider_key": incident.provider_key,
         "provider_name": incident.provider_name,
         "incident_id": incident.incident_id,
@@ -219,7 +281,14 @@ def make_event(incident, transition, now):
 
 
 def make_meta_event(provider, transition, since, detail, now):
-    """An event about the monitor itself rather than about a provider's uptime."""
+    """An event about the monitor itself rather than about a provider's uptime.
+
+    `detail` is an error string built from a remote server's own bytes, so it
+    goes through the same scrubber as anything an adapter produces. This is the
+    one path that reaches a feed without constructing an Incident, and skipping
+    the boundary here was enough to make all three feeds unparseable.
+    """
+    detail = adapters.xml_safe(detail, 300)
     return {
         "id": "meta:%s:%s:%s" % (provider["key"], transition, since),
         "provider_key": provider["key"],
@@ -232,13 +301,50 @@ def make_meta_event(provider, transition, since, detail, now):
         "title": "AI Bat Phone cannot read %s's status page" % provider["name"]
         if transition == "unreachable"
         else "AI Bat Phone can read %s's status page again" % provider["name"],
-        "url": provider["base"],
+        "url": adapters.safe_url(provider["base"], feedgen.SOURCE_URL),
         "components": [],
         "body": detail,
         "duration": "",
         "started_at": since,
         "published_at": now.isoformat(),
         "headline": copywriter.meta_headline(provider["name"], transition),
+    }
+
+
+def alive_event(events, providers, now):
+    """A periodic "still watching" item, or None if one is not due yet.
+
+    No mainstream reader shows lastBuildDate to a human, so on its own the
+    heartbeat proves liveness to nobody who is not running curl. This does.
+    """
+    for event in events:
+        if event.get("transition") == "alive":
+            try:
+                last = datetime.fromisoformat(event["published_at"])
+            except (KeyError, ValueError):
+                continue
+            if now - last < ALIVE_EVERY:
+                return None
+            break
+    return {
+        "id": "meta:all:alive:%s" % now.date().isoformat(),
+        "provider_key": "batphone",
+        "provider_name": "AI Bat Phone",
+        "incident_id": "monitor",
+        "transition": "alive",
+        "kind": "meta",
+        "status": "alive",
+        "impact": "none",
+        "title": "Still watching %d provider status pages" % len(providers),
+        "url": feedgen.SITE_URL,
+        "components": [],
+        "body": "Nothing to report. This item exists so that a feed which has "
+        "gone quiet because the collector died looks different from one that is "
+        "quiet because the models are behaving.",
+        "duration": "",
+        "started_at": now.isoformat(),
+        "published_at": now.isoformat(),
+        "headline": copywriter.meta_headline("AI Bat Phone", "alive"),
     }
 
 
@@ -256,10 +362,14 @@ def track_providers(providers, errors, tracked, now, beat=None):
         record = tracked.setdefault(key, {"consecutive_failures": 0})
         error = errors.get(key)
         if error:
-            record["consecutive_failures"] = record.get("consecutive_failures", 0) + 1
+            previous = record.get("consecutive_failures", 0)
+            # Capped: an uncapped counter rewrites state.json on every poll for
+            # as long as one provider is down, which turns 24 commits a day into
+            # 144 for as long as the outage lasts.
+            record["consecutive_failures"] = min(previous + 1, FAILURES_BEFORE_ALARM)
             record["last_error"] = error
-            record.setdefault("failing_since", now.isoformat())
-            if record["consecutive_failures"] == FAILURES_BEFORE_ALARM:
+            record.setdefault("failing_since", beat.isoformat())
+            if previous + 1 == FAILURES_BEFORE_ALARM:
                 events.append(
                     make_meta_event(provider, "unreachable", record["failing_since"], error, now)
                 )
@@ -267,13 +377,16 @@ def track_providers(providers, errors, tracked, now, beat=None):
             if record.get("consecutive_failures", 0) >= FAILURES_BEFORE_ALARM:
                 events.append(
                     make_meta_event(
-                        provider, "recovered", record["failing_since"], "", now
+                        provider, "recovered", record.get("failing_since", beat.isoformat()), "", now
                     )
                 )
             record["consecutive_failures"] = 0
-            record["last_success"] = beat.isoformat()
             record.pop("failing_since", None)
             record.pop("last_error", None)
+    # A provider deleted from providers.toml while failing would otherwise keep
+    # its record for ever and never get its recovery item.
+    for stale in set(tracked) - {p["key"] for p in providers}:
+        del tracked[stale]
     return events
 
 
@@ -304,17 +417,21 @@ def prune_state(seen, now):
     return keep
 
 
-def main():
+def main(argv=None):
     parser = argparse.ArgumentParser(description="Poll AI status pages and rebuild the feed.")
     parser.add_argument("--dry-run", action="store_true", help="report changes without writing")
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
 
     now = datetime.now(timezone.utc)
     beat = heartbeat_of(now)
     providers, gaps = load_providers()
     try:
-        state = load_json(STATE_FILE, {"version": STATE_VERSION, "seen": {}, "providers": {}})
+        state = validate_state(
+            load_json(STATE_FILE, {"version": STATE_VERSION, "seen": {}, "providers": {}}), STATE_FILE
+        )
         events = load_json(EVENTS_FILE, [])
+        if not isinstance(events, list):
+            raise CorruptState("%s is not a list" % EVENTS_FILE)
     except CorruptState as exc:
         # Falling back to defaults here would look exactly like a first run and
         # would silently re-announce every open incident across every provider.
@@ -330,14 +447,20 @@ def main():
         print("First run: recording current state, announcing only live incidents.")
 
     print("Polling %d providers…" % len(providers))
-    incidents, errors = gather(providers)
+    incidents, errors, abandoned = gather(providers)
 
+    if not providers:
+        print("No providers are enabled in providers.toml.", file=sys.stderr)
+        return 1
     if len(errors) == len(providers):
         # Everything failing at once means our network, not the industry.
         print("Every provider failed. Leaving the feed untouched.", file=sys.stderr)
         return 1
 
     new_events = track_providers(providers, errors, tracked, now, beat)
+    due = alive_event(events, providers, now)
+    if due:
+        new_events.append(due)
 
     for incident in incidents:
         previous = seen.get(incident.key)
@@ -351,8 +474,8 @@ def main():
             "status": incident.status,
             "impact": incident.impact,
             "updated_at": incident.updated_at.isoformat(),
-            # Hour-quantised on purpose: see track_providers.
-            "last_seen_at": beat.isoformat(),
+            # Day-quantised on purpose: see day_of.
+            "last_seen_at": day_of(now).isoformat(),
         }
 
     for event in new_events:
@@ -371,7 +494,12 @@ def main():
         return 0
 
     os.makedirs(DOCS, exist_ok=True)
-    changed = write_json(
+    # events.json first, deliberately. A crash between the two writes then leaves
+    # an event recorded but not marked seen, so the next run recomputes the same
+    # transition, produces the same id, and known_ids swallows it. The other
+    # order loses the event for ever.
+    changed = write_json(EVENTS_FILE, events)
+    changed |= write_json(
         STATE_FILE,
         {
             "version": STATE_VERSION,
@@ -380,7 +508,6 @@ def main():
             "providers": tracked,
         },
     )
-    changed |= write_json(EVENTS_FILE, events)
     for filename in feedgen.VARIANTS:
         changed |= write_text(
             os.path.join(DOCS, filename), feedgen.build_rss(events, filename, beat, max_items=FEED_CAP)
@@ -391,9 +518,20 @@ def main():
     )
     if not os.path.exists(os.path.join(DOCS, ".nojekyll")):
         write_text(os.path.join(DOCS, ".nojekyll"), "")
+    # docs/feed.xsl is committed by hand, not generated. Guard against it going
+    # missing, which would leave every feed URL pointing at a stylesheet 404.
+    if not os.path.exists(os.path.join(DOCS, "feed.xsl")):
+        print("warning: docs/feed.xsl is missing; feed URLs will render as raw XML", file=sys.stderr)
     print(("Wrote %s" % DOCS) if changed else "No content change; files left alone.")
+    if abandoned:
+        # A fetch thread is still blocked on a socket somewhere. Its pool is not
+        # daemonised, so returning normally would hang the interpreter after all
+        # the work is safely on disk.
+        sys.stdout.flush()
+        sys.stderr.flush()
+        os._exit(0)
     return 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    sys.exit(main(sys.argv[1:]))
