@@ -1,5 +1,21 @@
 # AI Bat Phone
 
+The other day felt like a mini apocalypse. 
+
+Claude went down. 
+Then Codex. 
+Heck, even Gemini died. 
+
+I was franticly checking status pages and doomscrolling X like my life depended on it. 
+
+So I decided to get an aggregator together and have it spew out alerts to a watched Discord channel (but you can pick it up wherever you like really). 
+
+Now - when it's time to touch grass because the bots are collectively napping, I'll know about it and I'll know when I can come back in and "get back to work". 
+
+Hooray. 
+
+## What it is in nerdspeak
+
 An RSS feed that tells you when the AI models have fallen over, so you can stop
 debugging your own code and go and touch some grass.
 
@@ -18,8 +34,8 @@ Human-readable mirror: <https://sephatron.github.io/ai-bat-phone/>
 
 ## How it works
 
-A GitHub Action runs `collect.py` every ten minutes. It reads each provider's
-status page, compares what it finds against `state.json`, and appends any real
+A GitHub Action runs `collect.py` every ten minutes (no, it doesn't need to be more often than that). 
+It reads each provider's status page, compares what it finds against `state.json`, and appends any real
 change to `events.json`. The feeds under `docs/` are rebuilt from that log and
 served by GitHub Pages.
 
@@ -33,7 +49,7 @@ An item is published when an incident is first seen, when its impact escalates,
 when its status advances, and when it resolves. Roughly three or four items per
 outage, not one every ten minutes.
 
-### Two rules worth knowing
+### Two rules worth knowing (why's it always - "oh and two more things" with LLMs?)
 
 **A provider we cannot read produces nothing.** A timeout, a 503 or a bot
 challenge is logged and skipped. It is never turned into a "resolved" item.
@@ -44,12 +60,16 @@ the feed during exactly the incident it exists for.
 build timestamps masked out, so an unchanged feed is not rewritten and the
 Action commits nothing.
 
+**Human note** Idk if they really are 2 things worth knowing. It's information for sure, but does it materially matter that I haven't wired this up for every LLM ever or that the alert system isn't built to alert non alerts? Idk man. I love this "moment" we're in but sometimes, it be wild. 
+
 ## Copy
 
 Jokes go in the title, facts go in the body. Selection is deterministic — the
 same incident always gets the same line, so a rebuild never reshuffles headlines
 under subscribers. Anything mentioning a security incident, a breach or data
-loss drops to neutral copy; see `SOBER` in `copywriter.py`.
+loss drops to neutral copy; see `SOBER` in `copywriter.py`. 
+
+I love that this 👆 is included as relevant (it's sort of Claude telling me how it handled my request but for some reason it felt this was 100% neccesary for the public readme). 
 
 ## Providers
 
@@ -74,6 +94,8 @@ Listed in `providers.toml` with `enabled = false` so the research isn't redone:
 Beating a bot challenge from a CI runner is a maintenance treadmill. If any of
 these ever ship a real endpoint, flip `enabled` and it works.
 
+In the meantime, I cba to wrangle CF workers for this so you get what the bots can get and you don't get what they can't (idk who's still using Grok these days anyway). Feel free to write your own solution to this bit (though probs best not to try and get round any Hugging Face walls eh). 
+
 ## Local use
 
 ```bash
@@ -82,7 +104,7 @@ python3 collect.py             # poll and rebuild docs/
 python3 -m unittest -v         # 27 offline tests, no network
 ```
 
-Python 3.11+ (needs `tomllib`). No third-party dependencies, by design — an
+Python 3.11+ (needs `tomllib`). No third-party dependencies, by design - an
 unattended job that runs every ten minutes for years should not have a
 dependency tree that can rot underneath it.
 
@@ -106,3 +128,5 @@ curl -s https://status.someone.ai/api/v2/incidents.json | head -c 200
 ```
 
 If that is JSON, use `statuspage`. If not, try `/history.rss` and use `rss`.
+
+Enjoy. 
