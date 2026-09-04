@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-04T21:00:00+00:00",
+ "heartbeat": "2026-09-04T22:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -1776,8 +1776,8 @@
   "elevenlabs:01M1PB7V9WNBNFFACKWX3B57GC": {
    "impact": "minor",
    "last_seen_at": "2026-09-04T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-04T14:34:50+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-04T21:01:16+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -2301,6 +2301,12 @@
    "status": "completed",
    "updated_at": "2022-03-25T15:01:54.059000+00:00"
   },
+  "github:r05vk75c594j": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-04T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-04T22:23:34.900000+00:00"
+  },
   "github:rw3k5dz04rqj": {
    "impact": "maintenance",
    "last_seen_at": "2026-09-04T00:00:00+00:00",
@@ -2434,10 +2440,10 @@
    "updated_at": "2026-07-27T21:51:04.953000+00:00"
   },
   "github:zw1hbx2yyhvr": {
-   "impact": "minor",
+   "impact": "major",
    "last_seen_at": "2026-09-04T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-04T20:57:53.119000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-04T22:26:46.758000+00:00"
   },
   "google:41E5S3mkTGDfkZuJZH5k": {
    "impact": "minor",
