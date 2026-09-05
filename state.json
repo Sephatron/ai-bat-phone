@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-05T05:00:00+00:00",
+ "heartbeat": "2026-09-05T09:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -3350,6 +3350,12 @@
    "last_seen_at": "2026-09-05T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-03T20:30:59+00:00"
+  },
+  "perplexity:cmtnypntq056g13qw1u9uixby": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-05T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-05T04:50:00+00:00"
   },
   "replit:00fc9a57-632d-42a4-b994-c1518b7395f6": {
    "impact": "minor",
