@@ -11,8 +11,8 @@ debugging your own code and go and touch some grass.
 | [`outages.xml`](https://sephatron.github.io/ai-bat-phone/outages.xml) | Unplanned incidents only |
 | [`major.xml`](https://sephatron.github.io/ai-bat-phone/major.xml) | Major and critical only |
 
-RSS has no per-subscriber settings, so the maintenance toggle is a choice of
-URL. Subscribe to the one you want. All three also carry monitoring failures —
+I CBA making per-subscriber settings (soz) so you've got three tiered urls instead.
+Subscribe to the one you want. All three also carry monitoring failures -
 see "When we go blind" below.
 
 Human-readable mirror: <https://sephatron.github.io/ai-bat-phone/>
@@ -20,13 +20,8 @@ Human-readable mirror: <https://sephatron.github.io/ai-bat-phone/>
 ## How it works
 
 A GitHub Action runs `collect.py`, triggered every 15 minutes by a small
-Cloudflare Worker in [`alarm/`](alarm/). GitHub's own `schedule` trigger is
-still configured as a backup but delivered only 17% of its requested runs over
-the first 63 hours, with a median three-hour gap and a worst case of five hours.
-Manually dispatched runs have never failed, so the timer moved and the work
-stayed put. A missed poll costs lateness rather than data, because the collector
-compares against saved state rather than assuming it saw the last run. It reads each provider's
-status page, compares what it finds against `state.json`, and appends any real
+Cloudflare Worker in [`alarm/`](alarm/). I started this thinking Github's `schedule` feature would carry it but that thing failed SO quick - it's there as a lame backup but the real engine is CF.
+It reads each provider's status page, compares what it finds against `state.json`, and appends any real
 change to `events.json`. The feeds under `docs/` are rebuilt from that log and
 served by GitHub Pages.
 
@@ -38,20 +33,17 @@ providers.toml ──> adapters.py ──> collect.py ──> events.json ──
 
 An item is published when an incident is first seen, when its impact escalates,
 when its status advances, when it is reopened, and when it resolves. Roughly
-three or four items per outage, not one every ten minutes.
+three or four items per outage.
 
 ## Four rules worth knowing
 
 **A provider we cannot read produces no incident events.** A timeout, a 503 or a
-bot challenge is skipped, never turned into a "resolved". Silence from a status
-page is not recovery, and getting this wrong would break the feed during exactly
-the incident it exists for.
+bot challenge is skipped. Silence from a status page is not treated as recovery - duh.
 
 **When we go blind, we say so.** After three consecutive failed polls a provider
 gets its own item, in all three feeds: *"Cannot reach X's status page. Treat this
 feed's silence about X as unknown, not good."* A recovery item follows when it
-comes back. This is the counterweight to the rule above — a monitoring feed whose
-own death looks like good news is the worst failure mode available to it.
+comes back. This is the counterweight to the rule above. 
 
 **Three separate proofs that the collector is alive.** No mainstream reader
 shows `lastBuildDate` to a human, so on its own it proves liveness to nobody who
@@ -60,12 +52,6 @@ to the hour, for anyone reading the XML; the index page renders that time and ho
 long ago it was, and marks itself overdue past two hours; and a "still watching,
 nothing to report" item goes into all three feeds weekly, which is the only one
 of the three that reaches a subscriber inside their reader.
-
-The hour rounding on the heartbeat is what stops all this producing a commit
-every ten minutes. The cost is up to 24 heartbeat commits a day, which also keeps
-the repository active so GitHub does not disable the schedule after 60 idle days.
-That last part is load-bearing rather than incidental: strip the heartbeat
-commits out and the feed switches itself off two months later.
 
 **Items are stamped with when we noticed, not when the incident began.** This is
 an alert stream, not an archive. An all-clear backdated three days sorts below
