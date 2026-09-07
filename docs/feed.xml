@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 ElevenLabs has stopped wobbling]]></title>
+<link>https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK</link>
+<guid isPermaLink='false'>elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:resolved:resolved:none:2026-09-07T07:20:19+00:00</guid>
+<pubDate>Mon, 07 Sep 2026 09:38:56 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: resolved · Duration: 4h 03m · Opened: Mon, 07 Sep 2026 03:17:11 +0000</p><p>Service has been fully restored to remaining affected areas. We will share further details on the cause.</p><p><a href="https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 ElevenLabs has a limp, not a break]]></title>
 <link>https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK</link>

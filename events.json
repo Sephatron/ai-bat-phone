@@ -1,5 +1,23 @@
 [
  {
+  "body": "Service has been fully restored to remaining affected areas. We will share further details on the cause.",
+  "components": [],
+  "duration": "4h 03m",
+  "headline": "🟢 ElevenLabs has stopped wobbling",
+  "id": "elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:resolved:resolved:none:2026-09-07T07:20:19+00:00",
+  "impact": "none",
+  "incident_id": "01M1WXXBDAXDYPJNWX21HM96KK",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-07T09:38:56.233682+00:00",
+  "started_at": "2026-09-07T03:17:11+00:00",
+  "status": "resolved",
+  "title": "ElevenReader Elevated Error Rates",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK"
+ },
+ {
   "body": "We're currently investigating an elevated error rate occurring with ElevenReader. Some pages may fail to load, or the app may be inaccessible.",
   "components": [],
   "duration": "",
