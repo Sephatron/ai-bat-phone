@@ -1,5 +1,25 @@
 [
  {
+  "body": "A fix has been implemented and we are monitoring for service restoration.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor has applied a fix and is holding its breath",
+  "id": "cursor:jw6mzctqkq56:opened:monitoring:major:2026-09-07T20:41:07.636000+00:00",
+  "impact": "major",
+  "incident_id": "jw6mzctqkq56",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-07T20:45:25.990744+00:00",
+  "started_at": "2026-09-07T20:32:42.816000+00:00",
+  "status": "monitoring",
+  "title": "Grok Bot computers unreachable for some users",
+  "transition": "opened",
+  "url": "https://stspg.io/2h04kqhqq9jw"
+ },
+ {
   "body": "Service has been fully restored to remaining affected areas. We will share further details on the cause.",
   "components": [],
   "duration": "4h 03m",

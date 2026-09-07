@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/2h04kqhqq9jw</link>
+<guid isPermaLink='false'>cursor:jw6mzctqkq56:opened:monitoring:major:2026-09-07T20:41:07.636000+00:00</guid>
+<pubDate>Mon, 07 Sep 2026 20:45:25 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Grok Bot computers unreachable for some users</strong></p><p>Impact: major · Status: monitoring · Affects: Grok Bot · Opened: Mon, 07 Sep 2026 20:32:42 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/2h04kqhqq9jw">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 ElevenLabs has stopped wobbling]]></title>
 <link>https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK</link>
 <guid isPermaLink='false'>elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:resolved:resolved:none:2026-09-07T07:20:19+00:00</guid>
