@@ -19,13 +19,13 @@ Human-readable mirror: <https://sephatron.github.io/ai-bat-phone/>
 
 ## How it works
 
-A GitHub Action runs `collect.py` at 7 and 37 minutes past the hour. The odd
-offset is deliberate: GitHub documents the schedule event as delayed under high
-load, says "some queued jobs may be dropped", and names the start of every hour
-as a high load time, so `*/30` would fire at the worst possible minute. Even
-then there is no guarantee, and a dropped poll costs lateness rather than data,
-because the collector compares against saved state rather than assuming it saw
-the last run. It reads each provider's
+A GitHub Action runs `collect.py`, triggered every 15 minutes by a small
+Cloudflare Worker in [`alarm/`](alarm/). GitHub's own `schedule` trigger is
+still configured as a backup but delivered only 17% of its requested runs over
+the first 63 hours, with a median three-hour gap and a worst case of five hours.
+Manually dispatched runs have never failed, so the timer moved and the work
+stayed put. A missed poll costs lateness rather than data, because the collector
+compares against saved state rather than assuming it saw the last run. It reads each provider's
 status page, compares what it finds against `state.json`, and appends any real
 change to `events.json`. The feeds under `docs/` are rebuilt from that log and
 served by GitHub Pages.

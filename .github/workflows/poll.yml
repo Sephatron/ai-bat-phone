@@ -2,10 +2,11 @@ name: poll
 
 on:
   schedule:
-    # Twice an hour, at 7 and 37 past. The odd offset is the point: GitHub says
-    # the schedule event is delayed under high load, that "some queued jobs may
-    # be dropped", and that high load times include the start of every hour. A
-    # */30 cron would fire at :00, the one minute they name.
+    # Backup alarm only. The primary timer is the Cloudflare Worker in alarm/,
+    # because this trigger delivered 21 of 126 requested runs over its first 63
+    # hours — a median gap of three hours and a worst case of five. Left in
+    # place because a duplicate run is harmless: the concurrency group below
+    # serialises them, and a run that finds nothing changed writes nothing.
     - cron: "7,37 * * * *"
   workflow_dispatch:
 

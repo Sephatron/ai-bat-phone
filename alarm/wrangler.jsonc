@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "ai-bat-phone-alarm",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-04",
+
+  // No public URL. This Worker only needs to wake up on a timer; giving it a
+  // workers.dev address would put an endpoint on the internet whose whole job
+  // is to trigger a build, which is not something strangers should be able to
+  // reach even indirectly.
+  "workers_dev": false,
+
+  "observability": { "enabled": true },
+
+  // Every 15 minutes. Cloudflare's cron actually fires, unlike the GitHub
+  // scheduler this replaces. Not faster, deliberately: a Discord RSS bot polls
+  // on its own 5-15 minute cycle, so anything tighter buys latency nobody sees
+  // and costs 20 status pages a few thousand extra requests a day.
+  "triggers": { "crons": ["*/15 * * * *"] }
+}
