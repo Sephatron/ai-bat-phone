@@ -3426,6 +3426,12 @@
    "status": "resolved",
    "updated_at": "2026-09-05T04:50:00+00:00"
   },
+  "perplexity:cmtrutbr301gv1mpq81xpt464": {
+   "impact": "none",
+   "last_seen_at": "2026-09-07T00:00:00+00:00",
+   "status": "scheduled",
+   "updated_at": "2026-09-10T21:00:00+00:00"
+  },
   "replit:00fc9a57-632d-42a4-b994-c1518b7395f6": {
    "impact": "minor",
    "last_seen_at": "2026-09-07T00:00:00+00:00",
