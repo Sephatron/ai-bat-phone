@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "1h 05m",
+  "headline": "🟢 Cursor lives. Pick your tools back up.",
+  "id": "cursor:jw6mzctqkq56:resolved:resolved:major:2026-09-07T21:37:45.321000+00:00",
+  "impact": "major",
+  "incident_id": "jw6mzctqkq56",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-07T21:45:26.922423+00:00",
+  "started_at": "2026-09-07T20:32:42.816000+00:00",
+  "status": "resolved",
+  "title": "Grok Bot computers unreachable for some users",
+  "transition": "resolved",
+  "url": "https://stspg.io/2h04kqhqq9jw"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring for service restoration.",
   "components": [
    "Grok Bot"

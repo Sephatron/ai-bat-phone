@@ -1317,8 +1317,8 @@
   "cursor:jw6mzctqkq56": {
    "impact": "major",
    "last_seen_at": "2026-09-07T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-07T20:41:07.636000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-07T21:37:45.321000+00:00"
   },
   "cursor:kdn6bp1p66zp": {
    "impact": "minor",
