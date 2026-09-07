@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 06 Sep 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 04:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 ElevenLabs has a limp, not a break]]></title>
+<link>https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK</link>
+<guid isPermaLink='false'>elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:opened:investigating:none:2026-09-07T03:17:11+00:00</guid>
+<pubDate>Mon, 07 Sep 2026 04:25:29 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 07 Sep 2026 03:17:11 +0000</p><p>We're currently investigating an elevated error rate occurring with ElevenReader. Some pages may fail to load, or the app may be inaccessible.</p><p><a href="https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 ElevenLabs is fine again]]></title>
 <link>https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC</link>

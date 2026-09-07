@@ -1,5 +1,23 @@
 [
  {
+  "body": "We're currently investigating an elevated error rate occurring with ElevenReader. Some pages may fail to load, or the app may be inaccessible.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs has a limp, not a break",
+  "id": "elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:opened:investigating:none:2026-09-07T03:17:11+00:00",
+  "impact": "none",
+  "incident_id": "01M1WXXBDAXDYPJNWX21HM96KK",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-07T04:25:29.090844+00:00",
+  "started_at": "2026-09-07T03:17:11+00:00",
+  "status": "investigating",
+  "title": "ElevenReader Elevated Error Rates",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK"
+ },
+ {
   "body": "After completing the monitoring stage, we have confirmed that STT latency has returned to baseline stability.",
   "components": [],
   "duration": "7h 05m",
