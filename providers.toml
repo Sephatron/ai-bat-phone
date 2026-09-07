@@ -189,10 +189,22 @@ key = "aws"
 blocked = true
 name = "AWS (Bedrock)"
 adapter = "rss"
-base = "https://status.aws.amazon.com"
-path = "/rss/all.rss"
+base = "https://health.aws.amazon.com"
+path = "/public/events"
 enabled = false
-note = "Feed is one item per update rather than per incident, and covers all of AWS; needs its own adapter."
+note = "Deferred 2026-09-07, not blocked: nobody confirmed AWS models are in use. Needs an aws adapter, not rss."
+# The RSS feeds under status.aws.amazon.com are the wrong source: one item per
+# update rather than per incident (23 items for a single ongoing disruption),
+# with no status marker in any description. Per-service feeds do exist
+# (rss/bedrock-eu-west-2.rss and similar) but share that shape.
+#
+# The right source is health.aws.amazon.com/public/events: one entry per
+# incident, with service, region, startTime and endTime, so resolution comes
+# from endTime rather than from inference. There is a real BEDROCK event in it.
+# Quirks to expect: the JSON is UTF-16 encoded, timestamps are epoch millis as
+# strings, and metadata is a Python dict repr inside a string — parse the
+# summary out with a bounded regex rather than literal_eval. It is an
+# undocumented endpoint, so it can change without notice.
 
 [[provider]]
 key = "azure"
