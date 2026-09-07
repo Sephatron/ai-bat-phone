@@ -95,6 +95,13 @@ def load_providers():
             raise SystemExit(
                 "providers.toml: block %d is missing %s" % (index + 1, ", ".join(missing))
             )
+        path = provider.get("path")
+        if path is not None and not str(path).startswith("/"):
+            raise SystemExit(
+                "providers.toml: %s has path %r; it must start with '/' "
+                "(anything else can retarget the request at another host)"
+                % (provider.get("key"), path)
+            )
         if provider.get("enabled", True):
             providers.append(provider)
         else:

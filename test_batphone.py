@@ -396,16 +396,41 @@ class RssClassifier(unittest.TestCase):
             with self.subTest(body=body[:20]):
                 self.assertEqual(adapters._rss_classify("Sep 7, 11:00 AM UTC\n" + body), expected)
 
-    def test_the_caps_marker_does_not_fire_on_ordinary_prose(self):
-        """Abbreviations start lines too. Five characters minimum keeps UTC,
-        API and GMT from being read as status words."""
-        for text in (
-            "Sep 4, 9:12 PM UTC\nAPI - errors elevated",
-            "UTC - nothing here",
-            "We saw HTTP 500 - elevated",
-        ):
-            with self.subTest(text=text[:24]):
-                self.assertIsNone(adapters._rss_classify(text))
+    def test_the_five_character_floor_lets_short_acronyms_fall_through(self):
+        """The floor's real job is not to reject — an unmatched marker returns
+        None either way. It is to stop a line like "UTC - ..." being treated as
+        a status marker at all, so the entry reaches the keyword rules below
+        instead of being written off as an unknown dialect.
+
+        Drop the floor to {1,19} and this returns None instead.
+        """
+        self.assertEqual(
+            adapters._rss_classify("Sep 7, 11:00 AM UTC\nUTC - service has been restored"),
+            ("incident", "resolved"),
+        )
+
+    def test_the_caps_anchor_is_real(self):
+        """Title Case is not a marker. Guards the [A-Z] in the pattern."""
+        self.assertIsNone(adapters._RSS_CAPS_MARKER.search("Resolved - this is prose"))
+        self.assertIsNotNone(adapters._RSS_CAPS_MARKER.search("RESOLVED - this is a marker"))
+
+    def test_the_marker_must_begin_a_line(self):
+        """Without the anchor, a capitalised word anywhere in the prose becomes
+        the status: this body would read as finished maintenance."""
+        self.assertIsNone(
+            adapters._rss_classify("Sep 7, 11:00 AM UTC\nNotes: COMPLETED - and it is ongoing")
+        )
+
+    def test_a_structural_marker_outranks_the_caps_heuristic(self):
+        """The caps pattern can match ordinary prose, so it is consulted last.
+
+        An earlier ordering read a live Perplexity incident whose body happened
+        to contain the word COMPLETED as a finished maintenance window.
+        """
+        live = "Type: Incident\n\nAffected Components: Search\nCOMPLETED - see below"
+        self.assertEqual(adapters._rss_classify(live), ("incident", "investigating"))
+        finished = "Type: Incident\nDuration: 40 minutes\n\nDEGRADED MODE - see below"
+        self.assertEqual(adapters._rss_classify(finished), ("incident", "resolved"))
 
     def test_a_live_outage_is_not_read_as_resolved(self):
         """A substring test for "resolved" called this an all-clear and dropped
@@ -690,6 +715,99 @@ class AdapterShapeGuards(unittest.TestCase):
         finally:
             adapters._get_json = original
 
+    def test_a_schemeless_link_still_points_at_the_incident(self):
+        """OpenRouter publishes "status.openrouter.ai/incidents/X" with no
+        scheme. safe_url correctly refuses it, so every item linked to the
+        source repo until the adapter started resolving it."""
+        self.assertEqual(
+            adapters.resolve_url("status.example.test/incidents/x", "https://status.example.test"),
+            "https://status.example.test/incidents/x",
+        )
+        self.assertEqual(
+            adapters.resolve_url("/incidents/x", "https://status.example.test"),
+            "https://status.example.test/incidents/x",
+        )
+        self.assertEqual(
+            adapters.resolve_url("//status.example.test/x", "https://s.test"),
+            "https://status.example.test/x",
+        )
+        self.assertEqual(
+            adapters.resolve_url("https://already.absolute/x", "https://s.test"),
+            "https://already.absolute/x",
+        )
+        self.assertEqual(adapters.resolve_url("", "https://s.test"), "https://s.test")
+
+    def test_the_adapter_actually_resolves_the_link_it_publishes(self):
+        """Proving resolve_url in isolation says nothing about whether
+        fetch_rss uses it, which is where the bug was."""
+        feed = (
+            "<rss><channel><item><title>x</title>"
+            "<link>status.example.test/incidents/abc</link>"
+            "<guid>status.example.test/incidents/abc</guid>"
+            "<pubDate>Wed, 08 Jan 2025 10:00:00 +0000</pubDate>"
+            "<description>[Resolved] done</description>"
+            "</item></channel></rss>"
+        ).encode()
+        original = adapters._get
+        try:
+            adapters._get = lambda url, accept: (200, feed)
+            found = adapters.fetch_rss({"key": "x", "name": "X", "base": "https://status.example.test"})
+        finally:
+            adapters._get = original
+        self.assertEqual(found[0].url, "https://status.example.test/incidents/abc")
+
+    def test_a_recent_unrecognised_entry_fails_the_provider(self):
+        """A proportional guard cannot protect a five-item feed: one new
+        vocabulary word on a live incident is nowhere near half, so the entry
+        would be dropped in silence."""
+        recent = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+        # Four items, one unknown: well under the half-unknown threshold, so
+        # only the recency rule can catch this. A smaller feed would pass on
+        # the proportional guard alone and prove nothing.
+        known = (
+            "<item><title>k</title><guid>k%d</guid>"
+            "<pubDate>Wed, 08 Jan 2025 10:00:00 +0000</pubDate>"
+            "<description>[Resolved] fine</description></item>"
+        )
+        feed = (
+            "<rss><channel>"
+            + "".join(known % n for n in range(3))
+            + "<item><title>x</title><guid>g</guid>"
+            "<pubDate>" + recent + "</pubDate>"
+            "<description>DEGRADED - something new</description></item>"
+            "</channel></rss>"
+        ).encode()
+        original = adapters._get
+        try:
+            adapters._get = lambda url, accept: (200, feed)
+            with self.assertRaises(adapters.FetchError):
+                adapters.fetch_rss({"key": "x", "name": "X", "base": "https://s.test"})
+        finally:
+            adapters._get = original
+
+    def test_an_old_unrecognised_entry_does_not(self):
+        """History is full of oddities. Only a recent one is worth failing on."""
+        feed = (
+            "<rss><channel>"
+            "<item><title>a</title><guid>g1</guid>"
+            "<pubDate>Mon, 06 Jan 2025 10:00:00 +0000</pubDate>"
+            "<description>DEGRADED - something new</description></item>"
+            "<item><title>b</title><guid>g2</guid>"
+            "<pubDate>Tue, 07 Jan 2025 10:00:00 +0000</pubDate>"
+            "<description>[Resolved] fine</description></item>"
+            "<item><title>c</title><guid>g3</guid>"
+            "<pubDate>Wed, 08 Jan 2025 10:00:00 +0000</pubDate>"
+            "<description>[Resolved] fine</description></item>"
+            "</channel></rss>"
+        ).encode()
+        original = adapters._get
+        try:
+            adapters._get = lambda url, accept: (200, feed)
+            found = adapters.fetch_rss({"key": "x", "name": "X", "base": "https://s.test"})
+            self.assertEqual(len(found), 2)
+        finally:
+            adapters._get = original
+
     def test_a_history_feed_that_yields_nothing_is_a_shape_change(self):
         """Returning [] would look like a calm provider and reset the failure
         counter — the one outcome this project must never produce."""
@@ -782,6 +900,24 @@ class Registry(unittest.TestCase):
         providers, gaps = collect.load_providers()
         for provider in providers + gaps:
             self.assertIn(provider["adapter"], adapters.ADAPTERS, provider["key"])
+
+    def test_a_provider_path_must_be_a_path(self):
+        """Anything else can retarget the request at a different host:
+        "@evil.test/x" appended to a base gives https://base@evil.test/x."""
+        import tempfile as tf
+
+        original = collect.PROVIDERS_FILE
+        try:
+            with tf.NamedTemporaryFile("w", suffix=".toml", delete=False) as handle:
+                handle.write(
+                    '[[provider]]\nkey="x"\nname="X"\nadapter="rss"\n'
+                    'base="https://s.test"\npath="@evil.test/x"\n'
+                )
+                collect.PROVIDERS_FILE = handle.name
+            with self.assertRaises(SystemExit):
+                collect.load_providers()
+        finally:
+            collect.PROVIDERS_FILE = original
 
     def test_unreachable_gaps_are_marked_as_such(self):
         """Their adapter and base are guesses, so "flip enabled" is wrong advice

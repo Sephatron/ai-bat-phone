@@ -20,7 +20,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 USER_AGENT = (
@@ -49,6 +49,10 @@ MAINTENANCE_STATUSES = ("scheduled", "in_progress", "verifying", "completed")
 # their page. Strip them on the way in.
 _ILLEGAL_XML = re.compile(r"[\x00-\x08\x0B\x0C\x0E-\x1F\uD800-\uDFFF￾￿]")
 
+# How recent an unrecognised feed entry has to be before it fails the provider
+# rather than being counted and skipped.
+RECENT_UNKNOWN = timedelta(days=7)
+
 MAX_TITLE = 300
 MAX_URL = 500
 MAX_ID = 200
@@ -72,6 +76,26 @@ def xml_safe(value, limit=None):
 # quote or angle bracket is malformed anyway, and refusing it here means the
 # whole class of attribute-breakout bugs cannot reach any future sink either.
 _URL_FORBIDDEN = re.compile(r"""['"<>\s\\]""")
+
+
+def resolve_url(value, base):
+    """Turn a feed's <link> into something absolute.
+
+    OpenRouter publishes "status.openrouter.ai/incidents/X" with no scheme. The
+    three RSS providers that came before all published absolute https links, so
+    this path went unexercised and every OpenRouter item pointed at the source
+    repo instead of the incident.
+    """
+    link = xml_safe(value, MAX_URL)
+    if not link:
+        return base
+    if link.startswith("//"):
+        return "https:" + link
+    if link.startswith("/"):
+        return base.rstrip("/") + link
+    if "://" not in link:
+        return "https://" + link
+    return link
 
 
 def safe_url(value, fallback):
@@ -301,9 +325,13 @@ def _statuspage_incident(provider, raw, base, kind="incident"):
 _RSS_MARKER = re.compile(r"^\s*\[([A-Za-z ]{3,20})\]")
 # A fourth shape, used by OpenRouter: a timestamp line, then the status as an
 # all-caps word followed by " - ". Minimum five characters so ordinary
-# abbreviations at the head of a line (UTC, API, GMT) cannot be mistaken for a
-# status word. Perplexity's update lines look similar but are Title Case, which
-# is why this is anchored on capitals.
+# abbreviations at the head of a line (UTC, API, GMT) are not read as status
+# words; that floor is what stops "API - degraded" being classified.
+#
+# It is deliberately the *last* marker consulted, after the two structural ones
+# and after the Type:/Duration: pair, because unlike them it can match ordinary
+# prose. An earlier version ran it first and read a live Perplexity incident
+# containing the word COMPLETED as closed.
 _RSS_CAPS_MARKER = re.compile(r"(?m)^\s*([A-Z][A-Z ]{4,19}?)\s+-\s")
 _RSS_STATUS_LINE = re.compile(r"\bstatus:\s*([a-z]+)", re.I)
 _RSS_TYPE_LINE = re.compile(r"\btype:\s*(incident|maintenance)\b", re.I)
@@ -351,13 +379,6 @@ def _rss_classify(text):
             return _MARKER_TO_STATUS[word]
         return None
 
-    caps = _RSS_CAPS_MARKER.search(text)
-    if caps:
-        word = caps.group(1).strip().lower().replace(" ", "_")
-        if word in _MARKER_TO_STATUS:
-            return _MARKER_TO_STATUS[word]
-        return None
-
     type_line = _RSS_TYPE_LINE.search(text)
     kind = "maintenance" if type_line and type_line.group(1).lower() == "maintenance" else "incident"
     if _RSS_DURATION.search(text):
@@ -366,10 +387,18 @@ def _rss_classify(text):
 
     if type_line:
         # This dialect states a duration when, and only when, it is finished.
-        # Falling through to the keyword sniff below would read the standard
-        # "service has been restored and we are monitoring" line as an
-        # all-clear while the incident is still open.
+        # Falling through to anything below would read the standard "service has
+        # been restored and we are monitoring" line, or a stray capitalised word
+        # in the body, as an all-clear while the incident is still open.
         return kind, ("scheduled" if kind == "maintenance" else "investigating")
+
+    caps = _RSS_CAPS_MARKER.search(text)
+    if caps:
+        word = re.sub(r"\s+", "_", caps.group(1).strip().lower())
+        if word in _MARKER_TO_STATUS:
+            return _MARKER_TO_STATUS[word]
+        return None
+
     if _NEGATED_RESOLVED.search(text):
         return kind, "investigating"
     if _looks_resolved(text):
@@ -394,7 +423,7 @@ def fetch_rss(provider):
     except ET.ParseError as exc:
         raise FetchError("%s is not valid XML: %s" % (url, exc))
 
-    out, seen_items, unknown = [], 0, 0
+    out, seen_items, unknown, unknown_recent = [], 0, 0, 0
     for item in root.iterfind(".//channel/item"):
         link = (item.findtext("link") or "").strip()
         guid = (item.findtext("guid") or link).strip()
@@ -409,6 +438,14 @@ def fetch_rss(provider):
         classified = _rss_classify(description)
         if classified is None:
             unknown += 1
+            # A proportional guard cannot protect a five-item feed: one new
+            # vocabulary word on a live incident is 1-in-6, nowhere near the
+            # threshold, and the entry would be dropped in silence. An
+            # unrecognised entry that is recent is the dangerous one, so it
+            # fails the provider outright. Noisy in the honest direction, and
+            # it clears itself once the entry ages out.
+            if datetime.now(timezone.utc) - when < RECENT_UNKNOWN:
+                unknown_recent += 1
             continue
         kind, status_word = classified
 
@@ -423,7 +460,7 @@ def fetch_rss(provider):
                 # it never fabricates a major outage the provider did not declare.
                 impact="none" if kind == "maintenance" else "minor",
                 kind=kind,
-                url=link or base,
+                url=resolve_url(link, base),
                 started_at=when,
                 updated_at=when,
                 components=_rss_components(description),
@@ -438,6 +475,10 @@ def fetch_rss(provider):
         # Returning [] would look like a calm provider and reset the failure
         # counter, which is the one outcome this project must never produce.
         raise FetchError("%s: parsed no usable entries — feed shape changed" % url)
+    if unknown_recent:
+        raise FetchError(
+            "%s: %d recent entry(s) in an unrecognised format" % (url, unknown_recent)
+        )
     if unknown >= seen_items / 2:
         raise FetchError("%s: %d of %d entries in an unrecognised format" % (url, unknown, seen_items))
     if unknown:

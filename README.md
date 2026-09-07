@@ -156,4 +156,11 @@ curl -s https://status.someone.ai/api/v2/incidents.json | head -c 200
 ```
 
 If that is JSON, use `statuspage`. If not, try `/history.rss` and use `rss`,
-adding a `path` key if the feed lives somewhere else.
+adding a `path` key if the feed lives somewhere else — OpenRouter's is at
+`/incidents.rss`. A `path` must start with `/`, which is checked at load: a
+value like `@evil.test/x` appended to a base would send the request to a
+different host entirely.
+
+Check the links too. A feed whose `<link>` elements have no scheme is common
+enough that the adapter resolves them, but a feed doing something stranger will
+publish items pointing at the wrong place.
