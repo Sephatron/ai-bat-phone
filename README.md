@@ -68,14 +68,17 @@ see `SOBER` in `copywriter.py`.
 
 ## Providers
 
-Twenty are polled. Three adapters cover them:
+Twenty-one are polled. Three adapters cover them:
 
 - **statuspage** — `/api/v2/incidents.json`. Atlassian Statuspage, Instatus and
   incident.io all serve the same shape. Claude, OpenAI, Cursor, GitHub,
   Windsurf, Vercel, Groq, Cohere, Fireworks, ElevenLabs, Lovable, Cerebras,
   SambaNova, Baseten, AI21, Moonshot AI (Kimi).
-- **rss** — a history feed, for pages that block JSON. DeepSeek, Replit,
-  Perplexity.
+- **rss** — a history feed, for pages with no usable JSON API. DeepSeek,
+  Replit, Perplexity, OpenRouter. The feed path is configurable per provider
+  (`path`), because it is not always `/history.rss`. Four dialects are
+  recognised; an entry in none of them is skipped and counted rather than
+  guessed at, and a feed where none parse raises.
 - **gcp** — `status.cloud.google.com/incidents.json`, filtered to Vertex AI and
   Gemini.
 
@@ -98,7 +101,6 @@ outages" and "not looking":
 - **AWS Bedrock** — the RSS feed is one item per *update* rather than per
   incident, and covers all of AWS. Needs its own adapter.
 - **Azure OpenAI** — the status feed returns zero items.
-- **OpenRouter** — the status host exists but 404s on every JSON and feed path.
 - **Stability, Deepgram, AssemblyAI** — reachable, but images and speech rather
   than language models. Flip `enabled` to include them.
 

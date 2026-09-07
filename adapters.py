@@ -299,6 +299,12 @@ def _statuspage_incident(provider, raw, base, kind="incident"):
 # "Type: Incident / Duration: 40 minutes" preamble (Perplexity) where the
 # presence of a duration is what tells you the thing is over.
 _RSS_MARKER = re.compile(r"^\s*\[([A-Za-z ]{3,20})\]")
+# A fourth shape, used by OpenRouter: a timestamp line, then the status as an
+# all-caps word followed by " - ". Minimum five characters so ordinary
+# abbreviations at the head of a line (UTC, API, GMT) cannot be mistaken for a
+# status word. Perplexity's update lines look similar but are Title Case, which
+# is why this is anchored on capitals.
+_RSS_CAPS_MARKER = re.compile(r"(?m)^\s*([A-Z][A-Z ]{4,19}?)\s+-\s")
 _RSS_STATUS_LINE = re.compile(r"\bstatus:\s*([a-z]+)", re.I)
 _RSS_TYPE_LINE = re.compile(r"\btype:\s*(incident|maintenance)\b", re.I)
 _RSS_DURATION = re.compile(r"\bduration:\s*\d", re.I)
@@ -341,6 +347,13 @@ def _rss_classify(text):
     line = _RSS_STATUS_LINE.search(text)
     if line:
         word = line.group(1).strip().lower()
+        if word in _MARKER_TO_STATUS:
+            return _MARKER_TO_STATUS[word]
+        return None
+
+    caps = _RSS_CAPS_MARKER.search(text)
+    if caps:
+        word = caps.group(1).strip().lower().replace(" ", "_")
         if word in _MARKER_TO_STATUS:
             return _MARKER_TO_STATUS[word]
         return None

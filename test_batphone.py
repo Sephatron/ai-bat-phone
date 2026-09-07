@@ -374,6 +374,39 @@ class RssClassifier(unittest.TestCase):
             with self.subTest(text=text[:30]):
                 self.assertEqual(adapters._rss_classify(text), expected)
 
+    CAPS = [
+        ("RESOLVED - This incident has been resolved.", ("incident", "resolved")),
+        ("INVESTIGATING - We are looking into it.", ("incident", "investigating")),
+        ("IDENTIFIED - We found the cause.", ("incident", "identified")),
+        ("MONITORING - A fix is deployed.", ("incident", "monitoring")),
+        ("UPDATE - Still working on it.", ("incident", "monitoring")),
+        ("COMPLETED - Scheduled maintenance has been completed.", ("maintenance", "completed")),
+        ("SCHEDULED - Planned works next week.", ("maintenance", "scheduled")),
+        ("IN PROGRESS - Works underway.", ("maintenance", "in_progress")),
+    ]
+
+    def test_the_all_caps_marker_dialect(self):
+        """OpenRouter puts the status in an all-caps word after a timestamp.
+
+        Before this was taught, only RESOLVED classified — and only by accident,
+        because the word appears in the prose too. Every live state returned
+        unknown, so their outages would have been dropped silently.
+        """
+        for body, expected in self.CAPS:
+            with self.subTest(body=body[:20]):
+                self.assertEqual(adapters._rss_classify("Sep 7, 11:00 AM UTC\n" + body), expected)
+
+    def test_the_caps_marker_does_not_fire_on_ordinary_prose(self):
+        """Abbreviations start lines too. Five characters minimum keeps UTC,
+        API and GMT from being read as status words."""
+        for text in (
+            "Sep 4, 9:12 PM UTC\nAPI - errors elevated",
+            "UTC - nothing here",
+            "We saw HTTP 500 - elevated",
+        ):
+            with self.subTest(text=text[:24]):
+                self.assertIsNone(adapters._rss_classify(text))
+
     def test_a_live_outage_is_not_read_as_resolved(self):
         """A substring test for "resolved" called this an all-clear and dropped
         the outage entirely."""

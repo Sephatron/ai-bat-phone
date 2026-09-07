@@ -129,6 +129,15 @@ name = "Moonshot AI (Kimi)"
 adapter = "statuspage"
 base = "https://status.moonshot.cn"
 
+[[provider]]
+key = "openrouter"
+name = "OpenRouter"
+adapter = "rss"
+base = "https://status.openrouter.ai"
+# Not /history.rss like the others, which is why this was wrongly written off as
+# unreachable. The JSON API really is absent; this feed is the only way in.
+path = "/incidents.rss"
+
 # --- Known gaps -------------------------------------------------------------
 # Everything below is deliberately not polled, each with the reason. These are
 # published on the index page too: a reader seeing no Mistral outages should
@@ -218,12 +227,3 @@ adapter = "statuspage"
 base = "https://status.assemblyai.com"
 enabled = false
 note = "Reachable, but speech rather than language models."
-
-[[provider]]
-key = "openrouter"
-name = "OpenRouter"
-adapter = "statuspage"
-base = "https://status.openrouter.ai"
-enabled = false
-blocked = true
-note = "Status host exists but 404s on every JSON and feed path tried."
