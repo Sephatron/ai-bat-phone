@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "7h 26m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M20PYYYGRT9303VHAPA7YNT2:resolved:resolved:minor:2026-09-08T21:59:24+00:00",
+  "impact": "minor",
+  "incident_id": "01M20PYYYGRT9303VHAPA7YNT2",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-08T22:00:29.852623+00:00",
+  "started_at": "2026-09-08T14:32:42+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for image generation",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "26 min",
