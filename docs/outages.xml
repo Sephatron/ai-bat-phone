@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 07 Sep 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M1Z47ZFCA4KYXYM8K5A0K9NR</link>
+<guid isPermaLink='false'>fireworks:01M1Z47ZFCA4KYXYM8K5A0K9NR:opened:investigating:none:2026-09-07T23:46:20+00:00</guid>
+<pubDate>Tue, 08 Sep 2026 00:00:27 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 07 Sep 2026 23:46:20 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M1Z47ZFCA4KYXYM8K5A0K9NR">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cursor lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/2h04kqhqq9jw</link>
