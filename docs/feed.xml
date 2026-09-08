@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from OpenAI]]></title>
+<link>https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ</link>
+<guid isPermaLink='false'>openai:01M20QBACYZMK2PRCJQCBSWTYJ:opened:investigating:minor:2026-09-08T14:39:27+00:00</guid>
+<pubDate>Tue, 08 Sep 2026 14:45:28 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>File uploads are delayed or failing</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 08 Sep 2026 14:39:27 +0000</p><p>Some file uploads are failing to process. Successful uploads may take longer than usual to become available. We’re investigating and will share another update as we learn more.</p><p><a href="https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
+<link>https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2</link>
+<guid isPermaLink='false'>openai:01M20PYYYGRT9303VHAPA7YNT2:opened:investigating:minor:2026-09-08T14:32:42+00:00</guid>
+<pubDate>Tue, 08 Sep 2026 14:45:28 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for image generation</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 08 Sep 2026 14:32:42 +0000</p><p>We’re investigating elevated errors affecting image generation in ChatGPT and the Images API. Some requests may fail. We’ll share another update as we learn more.</p><p><a href="https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M1Z47ZFCA4KYXYM8K5A0K9NR</link>
 <guid isPermaLink='false'>fireworks:01M1Z47ZFCA4KYXYM8K5A0K9NR:resolved:resolved:none:2026-09-08T00:20:30+00:00</guid>
