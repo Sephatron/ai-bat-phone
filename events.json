@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified the issue causing file-upload processing failures and delays in ChatGPT. Some files may remain unavailable while processing, and some uploads may fail. We will provide another update within 30 minutes.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M20QBACYZMK2PRCJQCBSWTYJ:progress:identified:minor:2026-09-08T16:29:52+00:00",
+  "impact": "minor",
+  "incident_id": "01M20QBACYZMK2PRCJQCBSWTYJ",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-08T16:30:26.782721+00:00",
+  "started_at": "2026-09-08T14:39:27+00:00",
+  "status": "identified",
+  "title": "File uploads are delayed or failing",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ"
+ },
+ {
   "body": "Some file uploads are failing to process. Successful uploads may take longer than usual to become available. We’re investigating and will share another update as we learn more.",
   "components": [],
   "duration": "",
