@@ -1977,8 +1977,8 @@
   "fireworks:01M21E38KEM69PGCJ5YBRWVZX8": {
    "impact": "none",
    "last_seen_at": "2026-09-08T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-08T21:17:00+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-08T21:43:54+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
