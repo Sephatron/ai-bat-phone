@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified the issue affecting image generation in ChatGPT and the Images API. Some image-generation requests may continue to fail.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M20PYYYGRT9303VHAPA7YNT2:progress:identified:minor:2026-09-08T16:35:08+00:00",
+  "impact": "minor",
+  "incident_id": "01M20PYYYGRT9303VHAPA7YNT2",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-08T16:45:27.398992+00:00",
+  "started_at": "2026-09-08T14:32:42+00:00",
+  "status": "identified",
+  "title": "Elevated errors for image generation",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2"
+ },
+ {
   "body": "We have identified the issue causing file-upload processing failures and delays in ChatGPT. Some files may remain unavailable while processing, and some uploads may fail. We will provide another update within 30 minutes.",
   "components": [],
   "duration": "",

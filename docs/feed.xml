@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2</link>
+<guid isPermaLink='false'>openai:01M20PYYYGRT9303VHAPA7YNT2:progress:identified:minor:2026-09-08T16:35:08+00:00</guid>
+<pubDate>Tue, 08 Sep 2026 16:45:27 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for image generation</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 08 Sep 2026 14:32:42 +0000</p><p>We have identified the issue affecting image generation in ChatGPT and the Images API. Some image-generation requests may continue to fail.</p><p><a href="https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ</link>
 <guid isPermaLink='false'>openai:01M20QBACYZMK2PRCJQCBSWTYJ:progress:identified:minor:2026-09-08T16:29:52+00:00</guid>
