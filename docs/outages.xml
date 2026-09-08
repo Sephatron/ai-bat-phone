@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 4h 36m]]></title>
+<link>https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ</link>
+<guid isPermaLink='false'>openai:01M20QBACYZMK2PRCJQCBSWTYJ:resolved:resolved:minor:2026-09-08T19:16:08+00:00</guid>
+<pubDate>Tue, 08 Sep 2026 19:30:29 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>File uploads are delayed or failing</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 36m · Opened: Tue, 08 Sep 2026 14:39:27 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2</link>
 <guid isPermaLink='false'>openai:01M20PYYYGRT9303VHAPA7YNT2:progress:monitoring:minor:2026-09-08T19:11:26+00:00</guid>
