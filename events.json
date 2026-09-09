@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1h 08m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M23BNX5V1XT9P3NP0PX56FTN:resolved:resolved:minor:2026-09-09T16:21:45+00:00",
+  "impact": "minor",
+  "incident_id": "01M23BNX5V1XT9P3NP0PX56FTN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-09T16:30:50.902894+00:00",
+  "started_at": "2026-09-09T15:13:14+00:00",
+  "status": "resolved",
+  "title": "Increased Error Rate For Pro and Plus Plan Conversations",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN"
+ },
+ {
   "body": "We have applied a mitigation and are monitoring the impacted services.",
   "components": [],
   "duration": "",
