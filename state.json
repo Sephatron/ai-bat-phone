@@ -62,9 +62,7 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-09T17:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
@@ -2292,7 +2290,7 @@
    "impact": "minor",
    "last_seen_at": "2026-09-09T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-03T17:11:47.877000+00:00"
+   "updated_at": "2026-09-09T17:12:18.653000+00:00"
   },
   "github:lkcdh6zsvngf": {
    "impact": "maintenance",
@@ -2508,7 +2506,7 @@
    "impact": "major",
    "last_seen_at": "2026-09-09T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-04T22:26:46.758000+00:00"
+   "updated_at": "2026-09-09T17:07:58.914000+00:00"
   },
   "google:41E5S3mkTGDfkZuJZH5k": {
    "impact": "minor",
