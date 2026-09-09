@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-09T16:00:00+00:00",
+ "heartbeat": "2026-09-09T17:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -62,7 +62,9 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-09T17:00:00+00:00",
+   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
   }
  },
  "seen": {
