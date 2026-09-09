@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
+<link>https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9</link>
+<guid isPermaLink='false'>elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:opened:investigating:minor:2026-09-09T12:41:25+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 12:45:45 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Claude MCP connection not working</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 09 Sep 2026 12:41:25 +0000</p><p>We are investigating an issue where the MCP connection is not working. Please note that this does not affect ElevenAgents, where everything is working correctly.</p><p><a href="https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M22SM327V4KT2DBH255R531V</link>
 <guid isPermaLink='false'>fireworks:01M22SM327V4KT2DBH255R531V:resolved:resolved:none:2026-09-09T12:10:33+00:00</guid>

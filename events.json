@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating an issue where the MCP connection is not working. Please note that this does not affect ElevenAgents, where everything is working correctly.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is having a wobble",
+  "id": "elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:opened:investigating:minor:2026-09-09T12:41:25+00:00",
+  "impact": "minor",
+  "incident_id": "01M232ZXVNKKRQ0N0G3NJBV4C9",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-09T12:45:45.853628+00:00",
+  "started_at": "2026-09-09T12:41:25+00:00",
+  "status": "investigating",
+  "title": "Claude MCP connection not working",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "2h 12m",
