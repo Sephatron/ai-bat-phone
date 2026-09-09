@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Baseten is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/rsb0980gvck0</link>
+<guid isPermaLink='false'>baseten:5khtpsscbx6x:progress:monitoring:minor:2026-09-09T17:45:56.637000+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 17:46:22 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: monitoring · Affects: Model APIs · Opened: Wed, 09 Sep 2026 17:42:43 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/rsb0980gvck0">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten is having a wobble]]></title>
 <link>https://stspg.io/rsb0980gvck0</link>
 <guid isPermaLink='false'>baseten:5khtpsscbx6x:opened:investigating:minor:2026-09-09T17:43:06.154000+00:00</guid>

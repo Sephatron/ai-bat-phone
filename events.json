@@ -1,5 +1,25 @@
 [
  {
+  "body": "A fix has been implemented and we are monitoring the results.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "",
+  "headline": "👀 Baseten is on the mend. Don't get comfortable yet.",
+  "id": "baseten:5khtpsscbx6x:progress:monitoring:minor:2026-09-09T17:45:56.637000+00:00",
+  "impact": "minor",
+  "incident_id": "5khtpsscbx6x",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-09T17:46:22.431750+00:00",
+  "started_at": "2026-09-09T17:42:43.516000+00:00",
+  "status": "monitoring",
+  "title": "Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**",
+  "transition": "progress",
+  "url": "https://stspg.io/rsb0980gvck0"
+ },
+ {
   "body": "We are currently investigating this issue.",
   "components": [
    "Model APIs"
