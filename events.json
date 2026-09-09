@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is sulking, mildly",
+  "id": "openai:01M23BNX5V1XT9P3NP0PX56FTN:opened:investigating:minor:2026-09-09T15:13:14+00:00",
+  "impact": "minor",
+  "incident_id": "01M23BNX5V1XT9P3NP0PX56FTN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-09T15:15:42.865112+00:00",
+  "started_at": "2026-09-09T15:13:14+00:00",
+  "status": "investigating",
+  "title": "Increased Error Rate For Pro and Plus Plan Conversations",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN"
+ },
+ {
   "body": "We are investigating an issue where the MCP connection is not working. Please note that this does not affect ElevenAgents, where everything is working correctly.",
   "components": [],
   "duration": "",
