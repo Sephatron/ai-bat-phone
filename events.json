@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied a mitigation and are monitoring the impacted services.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M23BNX5V1XT9P3NP0PX56FTN:progress:monitoring:minor:2026-09-09T15:56:42+00:00",
+  "impact": "minor",
+  "incident_id": "01M23BNX5V1XT9P3NP0PX56FTN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-09T16:00:51.349659+00:00",
+  "started_at": "2026-09-09T15:13:14+00:00",
+  "status": "monitoring",
+  "title": "Increased Error Rate For Pro and Plus Plan Conversations",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
