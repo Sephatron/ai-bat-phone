@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] We are investigating issues related to Google, Stripe, Whop connectors",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Replit is a bit under the weather",
+  "id": "replit:5c864a49-1235-4ac0-8a04-c981a56a6d85:opened:investigating:minor:2026-09-09T22:15:43.216286+00:00",
+  "impact": "minor",
+  "incident_id": "5c864a49-1235-4ac0-8a04-c981a56a6d85",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-09-09T22:15:43.216286+00:00",
+  "started_at": "2026-09-09T22:09:59+00:00",
+  "status": "investigating",
+  "title": "Stripe Whop Google connectors are having issues",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/5c864a49-1235-4ac0-8a04-c981a56a6d85"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Model APIs"

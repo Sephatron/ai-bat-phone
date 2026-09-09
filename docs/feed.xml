@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Replit is a bit under the weather]]></title>
+<link>https://status.replit.com/incidents/5c864a49-1235-4ac0-8a04-c981a56a6d85</link>
+<guid isPermaLink='false'>replit:5c864a49-1235-4ac0-8a04-c981a56a6d85:opened:investigating:minor:2026-09-09T22:15:43.216286+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 22:15:43 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Stripe Whop Google connectors are having issues</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 09 Sep 2026 22:09:59 +0000</p><p>[Investigating] We are investigating issues related to Google, Stripe, Whop connectors</p><p><a href="https://status.replit.com/incidents/5c864a49-1235-4ac0-8a04-c981a56a6d85">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
 <link>https://stspg.io/rsb0980gvck0</link>
 <guid isPermaLink='false'>baseten:5khtpsscbx6x:resolved:resolved:minor:2026-09-09T17:52:20.843000+00:00</guid>
