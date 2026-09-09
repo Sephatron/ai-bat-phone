@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Baseten is having a wobble]]></title>
+<link>https://stspg.io/rsb0980gvck0</link>
+<guid isPermaLink='false'>baseten:5khtpsscbx6x:opened:investigating:minor:2026-09-09T17:43:06.154000+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 17:45:43 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 09 Sep 2026 17:42:43 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/rsb0980gvck0">Baseten status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8</link>
+<guid isPermaLink='false'>openai:01M23KG62KKK448RN434CQ64Z8:progress:monitoring:none:2026-09-09T17:45:25+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 17:45:43 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Investigating unexpected usage limit resets</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Wed, 09 Sep 2026 17:29:55 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 OpenAI is having a wobble]]></title>
 <link>https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8</link>
 <guid isPermaLink='false'>openai:01M23KG62KKK448RN434CQ64Z8:opened:investigating:none:2026-09-09T17:29:55+00:00</guid>

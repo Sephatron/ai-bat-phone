@@ -1,5 +1,43 @@
 [
  {
+  "body": "We are currently investigating this issue.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "",
+  "headline": "🟠 Baseten is having a wobble",
+  "id": "baseten:5khtpsscbx6x:opened:investigating:minor:2026-09-09T17:43:06.154000+00:00",
+  "impact": "minor",
+  "incident_id": "5khtpsscbx6x",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-09T17:45:43.230523+00:00",
+  "started_at": "2026-09-09T17:42:43.516000+00:00",
+  "status": "investigating",
+  "title": "Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**",
+  "transition": "opened",
+  "url": "https://stspg.io/rsb0980gvck0"
+ },
+ {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M23KG62KKK448RN434CQ64Z8:progress:monitoring:none:2026-09-09T17:45:25+00:00",
+  "impact": "none",
+  "incident_id": "01M23KG62KKK448RN434CQ64Z8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-09T17:45:43.230523+00:00",
+  "started_at": "2026-09-09T17:29:55+00:00",
+  "status": "monitoring",
+  "title": "Investigating unexpected usage limit resets",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8"
+ },
+ {
   "body": "Some Codex users may be experiencing unexpected usage limit resets.",
   "components": [],
   "duration": "",
