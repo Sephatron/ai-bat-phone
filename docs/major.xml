@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 09 Sep 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/7z953l3y4ktr</link>
+<guid isPermaLink='false'>moonshot:nlfywd6vg5hk:resolved:resolved:critical:2026-09-09T06:46:12.429000+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 07:00:26 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 1 min · Opened: Wed, 09 Sep 2026 06:45:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/7z953l3y4ktr">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/7z953l3y4ktr</link>

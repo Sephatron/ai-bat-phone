@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Search"
+  ],
+  "duration": "1 min",
+  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
+  "id": "moonshot:nlfywd6vg5hk:resolved:resolved:critical:2026-09-09T06:46:12.429000+00:00",
+  "impact": "critical",
+  "incident_id": "nlfywd6vg5hk",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-09-09T07:00:26.456557+00:00",
+  "started_at": "2026-09-09T06:45:12.366000+00:00",
+  "status": "resolved",
+  "title": "搜索请求出现大量报错",
+  "transition": "resolved",
+  "url": "https://stspg.io/7z953l3y4ktr"
+ },
+ {
   "body": "搜索请求报错率超过20%，持续超过1分钟",
   "components": [
    "Search"

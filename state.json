@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-09T06:00:00+00:00",
+ "heartbeat": "2026-09-09T07:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -2916,6 +2916,12 @@
    "status": "resolved",
    "updated_at": "2026-08-12T18:23:32.620000+00:00"
   },
+  "moonshot:bkt1c0nhb4lc": {
+   "impact": "critical",
+   "last_seen_at": "2026-09-09T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-09T06:52:12.503000+00:00"
+  },
   "moonshot:ch22h30s5p95": {
    "impact": "critical",
    "last_seen_at": "2026-09-09T00:00:00+00:00",
@@ -3009,8 +3015,8 @@
   "moonshot:nlfywd6vg5hk": {
    "impact": "critical",
    "last_seen_at": "2026-09-09T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-09T06:45:12.462000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-09T06:46:12.429000+00:00"
   },
   "moonshot:nmxbsn4bfpt1": {
    "impact": "critical",
