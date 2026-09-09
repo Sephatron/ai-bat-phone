@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 09 Sep 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M22SM327V4KT2DBH255R531V</link>
+<guid isPermaLink='false'>fireworks:01M22SM327V4KT2DBH255R531V:opened:investigating:none:2026-09-09T09:57:40+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 10:00:44 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Wed, 09 Sep 2026 09:57:40 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M22SM327V4KT2DBH255R531V">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/7z953l3y4ktr</link>

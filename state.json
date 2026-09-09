@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-09T09:00:00+00:00",
+ "heartbeat": "2026-09-09T10:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -1979,6 +1979,12 @@
    "last_seen_at": "2026-09-09T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-08T21:43:54+00:00"
+  },
+  "fireworks:01M22SM327V4KT2DBH255R531V": {
+   "impact": "none",
+   "last_seen_at": "2026-09-09T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-09T09:57:40+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
