@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 09 Sep 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
+<link>https://stspg.io/rsb0980gvck0</link>
+<guid isPermaLink='false'>baseten:5khtpsscbx6x:resolved:resolved:minor:2026-09-09T17:52:20.843000+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 18:00:51 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 9 min · Opened: Wed, 09 Sep 2026 17:42:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/rsb0980gvck0">Baseten status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8</link>
+<guid isPermaLink='false'>openai:01M23KG62KKK448RN434CQ64Z8:resolved:resolved:none:2026-09-09T17:54:12+00:00</guid>
+<pubDate>Wed, 09 Sep 2026 18:00:51 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Investigating unexpected usage limit resets</strong></p><p>Impact: unclassified · Status: resolved · Duration: 24 min · Opened: Wed, 09 Sep 2026 17:29:55 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Baseten is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/rsb0980gvck0</link>
