@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some Codex users may be experiencing unexpected usage limit resets.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is having a wobble",
+  "id": "openai:01M23KG62KKK448RN434CQ64Z8:opened:investigating:none:2026-09-09T17:29:55+00:00",
+  "impact": "none",
+  "incident_id": "01M23KG62KKK448RN434CQ64Z8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-09T17:30:46.514819+00:00",
+  "started_at": "2026-09-09T17:29:55+00:00",
+  "status": "investigating",
+  "title": "Investigating unexpected usage limit resets",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "1h 08m",
