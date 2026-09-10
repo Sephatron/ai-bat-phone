@@ -1,5 +1,23 @@
 [
  {
+  "body": "Conversations are now displaying correctly again. Text search within conversations isn't working yet, we're actively fixing it and will post another update once it's resolved.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 ElevenLabs knows what it did",
+  "id": "elevenlabs:01M25B80Q2SCJNXG2PY0Y20PRW:progress:identified:minor:2026-09-10T10:19:17+00:00",
+  "impact": "minor",
+  "incident_id": "01M25B80Q2SCJNXG2PY0Y20PRW",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-10T10:30:26.313252+00:00",
+  "started_at": "2026-09-10T09:44:08+00:00",
+  "status": "identified",
+  "title": "EU Residency - Conversation history not showing for recent calls",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW"
+ },
+ {
   "body": "We are investigating an issue in the EU Residency where recent conversations are not showing up in history. Please note that this doesn't affect actual conversations, everything is working correctly. We are working on getting the history back up.",
   "components": [],
   "duration": "",

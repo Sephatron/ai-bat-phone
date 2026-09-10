@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 ElevenLabs knows what it did]]></title>
+<link>https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW</link>
+<guid isPermaLink='false'>elevenlabs:01M25B80Q2SCJNXG2PY0Y20PRW:progress:identified:minor:2026-09-10T10:19:17+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 10:30:26 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>EU Residency - Conversation history not showing for recent calls</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 10 Sep 2026 09:44:08 +0000</p><p>Conversations are now displaying correctly again. Text search within conversations isn't working yet, we're actively fixing it and will post another update once it's resolved.</p><p><a href="https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 ElevenLabs is sulking, mildly]]></title>
 <link>https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW</link>
 <guid isPermaLink='false'>elevenlabs:01M25B80Q2SCJNXG2PY0Y20PRW:opened:investigating:minor:2026-09-10T09:44:08+00:00</guid>
