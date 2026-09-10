@@ -1,5 +1,25 @@
 [
  {
+  "body": "A Windows update released September 8 has caused Claude Cowork on Windows is unable to run local commands on your PC, because its workspace can no longer reach your computer’s drive. For most users, chat and reading or editing files still work. We have identified the cause as a change in Windows; Microsoft has developed a fix and is working on releasing it. There’s no in-app workaround yet, and restarting or reinstalling won’t help. We’ll post an update when we have more to share.",
+  "components": [
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔍 Claude has found the culprit",
+  "id": "anthropic:r1pqn1kb4hvk:opened:identified:minor:2026-09-10T15:54:10.203000+00:00",
+  "impact": "minor",
+  "incident_id": "r1pqn1kb4hvk",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-10T16:00:40.285764+00:00",
+  "started_at": "2026-09-10T15:54:10.099000+00:00",
+  "status": "identified",
+  "title": "Degraded functionality for Claude Cowork on Windows",
+  "transition": "opened",
+  "url": "https://stspg.io/5yp3rhhztm30"
+ },
+ {
   "body": "Our engineers have deployed a fix that has fully restored Claude MCP functionality.",
   "components": [],
   "duration": "1d 2h",
