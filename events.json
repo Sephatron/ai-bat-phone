@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue has been identified and a fix is being implemented.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Vercel has found the culprit",
+  "id": "vercel:mf04gp4lrfz0:progress:identified:major:2026-09-10T18:13:20.245000+00:00",
+  "impact": "major",
+  "incident_id": "mf04gp4lrfz0",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-09-10T18:15:20.784180+00:00",
+  "started_at": "2026-09-10T17:42:15.867000+00:00",
+  "status": "identified",
+  "title": "Elevated error rate on Connect and Passport",
+  "transition": "progress",
+  "url": "https://stspg.io/zbs4ktd26fb0"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Review Agents",

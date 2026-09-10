@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Vercel has found the culprit]]></title>
+<link>https://stspg.io/zbs4ktd26fb0</link>
+<guid isPermaLink='false'>vercel:mf04gp4lrfz0:progress:identified:major:2026-09-10T18:13:20.245000+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 18:15:20 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: identified · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Vercel is having a proper one. This is not your code.]]></title>
 <link>https://stspg.io/zbs4ktd26fb0</link>
 <guid isPermaLink='false'>vercel:mf04gp4lrfz0:opened:investigating:major:2026-09-10T17:42:53.494000+00:00</guid>
