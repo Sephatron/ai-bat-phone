@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating an issue in the EU Residency where recent conversations are not showing up in history. Please note that this doesn't affect actual conversations, everything is working correctly. We are working on getting the history back up.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is sulking, mildly",
+  "id": "elevenlabs:01M25B80Q2SCJNXG2PY0Y20PRW:opened:investigating:minor:2026-09-10T09:44:08+00:00",
+  "impact": "minor",
+  "incident_id": "01M25B80Q2SCJNXG2PY0Y20PRW",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-10T09:45:24.690390+00:00",
+  "started_at": "2026-09-10T09:44:08+00:00",
+  "status": "investigating",
+  "title": "EU Residency - Conversation history not showing for recent calls",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW"
+ },
+ {
   "body": "We are still implementing the mitigation.",
   "components": [],
   "duration": "",

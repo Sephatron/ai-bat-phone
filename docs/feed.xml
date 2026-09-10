@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 ElevenLabs is sulking, mildly]]></title>
+<link>https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW</link>
+<guid isPermaLink='false'>elevenlabs:01M25B80Q2SCJNXG2PY0Y20PRW:opened:investigating:minor:2026-09-10T09:44:08+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 09:45:24 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>EU Residency - Conversation history not showing for recent calls</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 09:44:08 +0000</p><p>We are investigating an issue in the EU Residency where recent conversations are not showing up in history. Please note that this doesn't affect actual conversations, everything is working correctly. We are working on getting the history back up.</p><p><a href="https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>
 <guid isPermaLink='false'>openai:01M24HYC9SX2Q4471EVMY6EXQE:progress:identified:minor:2026-09-10T06:01:47+00:00</guid>
