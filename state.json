@@ -3096,6 +3096,12 @@
    "status": "resolved",
    "updated_at": "2026-08-03T15:51:13.180000+00:00"
   },
+  "moonshot:n7d6rlxwd73j": {
+   "impact": "critical",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-10T21:28:12.048000+00:00"
+  },
   "moonshot:nlfywd6vg5hk": {
    "impact": "critical",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
@@ -3387,14 +3393,14 @@
   "openai:01M26DX2PP1AFHGJK5E4M6S2J6": {
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-10T20:31:52+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T21:30:02+00:00"
   },
   "openai:01M26E3PPAYJMMRHX2MZJCTHMF": {
    "impact": "none",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-10T20:54:53+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-10T21:20:47+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
@@ -3425,6 +3431,72 @@
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-23T21:17:36+00:00"
+  },
+  "perplexity:01KZSFE8PTRGPH9T2SKNKX5FGT": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-08-11T22:40:45+00:00"
+  },
+  "perplexity:01M0V29WRTX30CWFCCPZJ9XWQJ": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-06-30T23:46:04+00:00"
+  },
+  "perplexity:01M0V29Y556T6G6W0KWHGG5TGR": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-07-02T20:10:50+00:00"
+  },
+  "perplexity:01M0V29ZJNEY4QTWMR93NMCJGM": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-07-23T18:14:10+00:00"
+  },
+  "perplexity:01M0V2A0ZV5E7818HE6ZX33DQC": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-08-06T18:03:00+00:00"
+  },
+  "perplexity:01M0V2A2E9M6AY9KFAJQMEHYA2": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-08-13T01:49:15+00:00"
+  },
+  "perplexity:01M0V2A3TRYVSMNKGZVW0QK4CZ": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-08-14T11:43:00+00:00"
+  },
+  "perplexity:01M1D3PMXBYD8HKDG7MAR3NE8Q": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-01T00:06:56+00:00"
+  },
+  "perplexity:01M1Z156F1RJBNJ6JWZ8KHRS43": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-03T21:10:35+00:00"
+  },
+  "perplexity:01M1Z156VYPETMR4QRNMQMF3AM": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-05T07:09:00+00:00"
+  },
+  "perplexity:01M1Z27ACCHFPXQNPZ37EQGW2F": {
+   "impact": "none",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "scheduled",
+   "updated_at": "2026-09-07T23:11:01+00:00"
   },
   "perplexity:cm8t22p39002dg69u0yxplqiq": {
    "impact": "minor",

@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 Planned works at Perplexity]]></title>
+<link>https://status.perplexity.com//incidents/01M1Z27ACCHFPXQNPZ37EQGW2F</link>
+<guid isPermaLink='false'>perplexity:01M1Z27ACCHFPXQNPZ37EQGW2F:opened:scheduled:none:2026-09-10T21:30:20.359753+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 21:30:20 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>Maintenance: Status page migration to incident.io</strong></p><p>Scheduled maintenance · Status: scheduled · Opened: Mon, 07 Sep 2026 23:11:01 +0000</p><p>Status: Scheduled On Thursday, September 10 around 21:00 UTC (2:00 PM Pacific), we will migrate our status page from Instatus to incident.io as part of consolidating our incident response tooling. The switch is a DNS change, so it may take some time to complete for everyone. What is and isn't changing • The status page URL stays the same: https://status.perplexity.com. • Historical incidents have been migrated, so past incident history remains available on the new page. • Email subscribers will be migrated automatically. No action needed. • Slack subscriptions cannot be transferred, but you c…</p><p><a href="https://status.perplexity.com//incidents/01M1Z27ACCHFPXQNPZ37EQGW2F">Perplexity status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6</link>
+<guid isPermaLink='false'>openai:01M26DX2PP1AFHGJK5E4M6S2J6:resolved:resolved:minor:2026-09-10T21:30:02+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 21:30:20 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 40m · Opened: Thu, 10 Sep 2026 19:49:49 +0000</p><p>All impacted services are now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF</link>
+<guid isPermaLink='false'>openai:01M26E3PPAYJMMRHX2MZJCTHMF:progress:monitoring:none:2026-09-10T21:20:47+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 21:30:20 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Thu, 10 Sep 2026 19:53:26 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
 <link>https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd</link>
 <guid isPermaLink='false'>replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd:resolved:resolved:minor:2026-09-10T21:00:29.537991+00:00</guid>
