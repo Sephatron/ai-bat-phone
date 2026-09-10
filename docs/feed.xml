@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
+<link>https://stspg.io/l9tz2hnfxtvz</link>
+<guid isPermaLink='false'>cursor:8mwzyv0n0jyk:opened:investigating:minor:2026-09-10T17:07:24.582000+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 17:15:28 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Review Agents and Cloud Agents</strong></p><p>Impact: minor · Status: investigating · Affects: Review Agents, Cloud Agents · Opened: Thu, 10 Sep 2026 17:07:24 +0000</p><p>We are investigating a service degradation affecting Review Agents and Cloud Agents. Cloud Agents using "Privacy Mode" may experience errors and start delays. For Review Agents, Security Agents and PR Approval agents are impacted.</p><p><a href="https://stspg.io/l9tz2hnfxtvz">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
 <link>https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP</link>
 <guid isPermaLink='false'>lovable:01M25R4X6N20P0J4SX0EZE8HWP:resolved:resolved:minor:2026-09-10T16:54:38+00:00</guid>

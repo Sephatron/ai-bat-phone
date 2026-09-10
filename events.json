@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are investigating a service degradation affecting Review Agents and Cloud Agents. Cloud Agents using \"Privacy Mode\" may experience errors and start delays. For Review Agents, Security Agents and PR Approval agents are impacted.",
+  "components": [
+   "Review Agents",
+   "Cloud Agents"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Cursor",
+  "id": "cursor:8mwzyv0n0jyk:opened:investigating:minor:2026-09-10T17:07:24.582000+00:00",
+  "impact": "minor",
+  "incident_id": "8mwzyv0n0jyk",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-10T17:15:28.123142+00:00",
+  "started_at": "2026-09-10T17:07:24.476000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation — Review Agents and Cloud Agents",
+  "transition": "opened",
+  "url": "https://stspg.io/l9tz2hnfxtvz"
+ },
+ {
   "body": "Map and location search issues in some published projects have been resolved. We have pushed a fix so that projects using location search are guided to the working setup, and if your project is still affected you can ask the Lovable agent to fix it and it will apply the update for you. All systems are operating normally.",
   "components": [],
   "duration": "3h 25m",
