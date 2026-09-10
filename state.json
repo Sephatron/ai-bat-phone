@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-10T20:00:00+00:00",
+ "heartbeat": "2026-09-10T21:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -3393,8 +3393,8 @@
   "openai:01M26E3PPAYJMMRHX2MZJCTHMF": {
    "impact": "none",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-10T19:53:26+00:00"
+   "status": "identified",
+   "updated_at": "2026-09-10T20:54:53+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
@@ -3819,8 +3819,8 @@
   "replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd": {
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-10T20:33:51+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T20:58:30+00:00"
   },
   "replit:a5b2995e-a639-4928-983f-b087ea688d8e": {
    "impact": "minor",

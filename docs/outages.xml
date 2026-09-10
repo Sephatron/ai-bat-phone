@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 10 Sep 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
+<link>https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd</link>
+<guid isPermaLink='false'>replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd:resolved:resolved:minor:2026-09-10T21:00:29.537991+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 21:00:29 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Resolved: Agent experiencing increased errors</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 10 Sep 2026 20:58:30 +0000</p><p>[Resolved] We have deployed a fix for increased error in agents. We apologize for any inconvenience.</p><p><a href="https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd">Replit status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF</link>
+<guid isPermaLink='false'>openai:01M26E3PPAYJMMRHX2MZJCTHMF:progress:identified:none:2026-09-10T20:54:53+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 21:00:29 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: identified · Opened: Thu, 10 Sep 2026 19:53:26 +0000</p><p>We have identified the cause of the issue affecting our customer support systems and are implementing a mitigation. Customers may continue to experience longer than usual response times.</p><p><a href="https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6</link>
