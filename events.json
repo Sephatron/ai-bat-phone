@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "8 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M269613HXXRFAHYMKCW99M12:resolved:resolved:none:2026-09-10T18:35:26+00:00",
+  "impact": "none",
+  "incident_id": "01M269613HXXRFAHYMKCW99M12",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-10T18:45:21.972026+00:00",
+  "started_at": "2026-09-10T18:27:20+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for one of our Serverless models",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12"
+ },
+ {
   "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
   "components": [],
   "duration": "",

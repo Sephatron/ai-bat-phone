@@ -2025,8 +2025,8 @@
   "fireworks:01M269613HXXRFAHYMKCW99M12": {
    "impact": "none",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-10T18:27:20+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T18:35:26+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
