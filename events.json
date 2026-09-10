@@ -5,6 +5,46 @@
    "Search"
   ],
   "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you",
+  "id": "moonshot:8r4x8clzcf9z:opened:investigating:critical:2026-09-10T11:45:13.349000+00:00",
+  "impact": "critical",
+  "incident_id": "8r4x8clzcf9z",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-09-10T11:45:22.225047+00:00",
+  "started_at": "2026-09-10T11:45:13.250000+00:00",
+  "status": "investigating",
+  "title": "搜索请求出现大量报错",
+  "transition": "opened",
+  "url": "https://stspg.io/m12qwdbbpy50"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Search"
+  ],
+  "duration": "5 min",
+  "headline": "🟢 All clear from Moonshot AI (Kimi) after 5 min",
+  "id": "moonshot:fvvxtzvbk64p:resolved:resolved:critical:2026-09-10T11:35:12.094000+00:00",
+  "impact": "critical",
+  "incident_id": "fvvxtzvbk64p",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-09-10T11:45:22.225047+00:00",
+  "started_at": "2026-09-10T11:30:12.029000+00:00",
+  "status": "resolved",
+  "title": "搜索请求出现大量报错",
+  "transition": "resolved",
+  "url": "https://stspg.io/27glfwtyyhrg"
+ },
+ {
+  "body": "搜索请求报错率超过20%，持续超过1分钟",
+  "components": [
+   "Search"
+  ],
+  "duration": "",
   "headline": "🔴 Moonshot AI (Kimi) is out. Go and look at a tree.",
   "id": "moonshot:fvvxtzvbk64p:opened:investigating:critical:2026-09-10T11:30:12.128000+00:00",
   "impact": "critical",

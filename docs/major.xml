@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/m12qwdbbpy50</link>
+<guid isPermaLink='false'>moonshot:8r4x8clzcf9z:opened:investigating:critical:2026-09-10T11:45:13.349000+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 11:45:22 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Thu, 10 Sep 2026 11:45:13 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/m12qwdbbpy50">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 All clear from Moonshot AI (Kimi) after 5 min]]></title>
+<link>https://stspg.io/27glfwtyyhrg</link>
+<guid isPermaLink='false'>moonshot:fvvxtzvbk64p:resolved:resolved:critical:2026-09-10T11:35:12.094000+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 11:45:22 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 5 min · Opened: Thu, 10 Sep 2026 11:30:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/27glfwtyyhrg">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/27glfwtyyhrg</link>
 <guid isPermaLink='false'>moonshot:fvvxtzvbk64p:opened:investigating:critical:2026-09-10T11:30:12.128000+00:00</guid>
