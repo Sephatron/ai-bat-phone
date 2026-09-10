@@ -1,5 +1,25 @@
 [
  {
+  "body": "搜索请求报错率超过20%，持续超过1分钟",
+  "components": [
+   "Search"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) is out. Go and look at a tree.",
+  "id": "moonshot:fvvxtzvbk64p:opened:investigating:critical:2026-09-10T11:30:12.128000+00:00",
+  "impact": "critical",
+  "incident_id": "fvvxtzvbk64p",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-09-10T11:30:25.762977+00:00",
+  "started_at": "2026-09-10T11:30:12.029000+00:00",
+  "status": "investigating",
+  "title": "搜索请求出现大量报错",
+  "transition": "opened",
+  "url": "https://stspg.io/27glfwtyyhrg"
+ },
+ {
   "body": "Conversations are now displaying correctly again. Text search within conversations isn't working yet, we're actively fixing it and will post another update once it's resolved.",
   "components": [],
   "duration": "",
