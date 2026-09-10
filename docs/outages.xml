@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 1h 55m]]></title>
+<link>https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF</link>
+<guid isPermaLink='false'>openai:01M26E3PPAYJMMRHX2MZJCTHMF:resolved:resolved:none:2026-09-10T21:48:32+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 21:49:36 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 55m · Opened: Thu, 10 Sep 2026 19:53:26 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude has found the culprit]]></title>
 <link>https://stspg.io/hfs7749ykl14</link>
 <guid isPermaLink='false'>anthropic:2pt83vlkk7x7:opened:identified:minor:2026-09-10T21:43:40.271000+00:00</guid>

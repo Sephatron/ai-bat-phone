@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1h 55m",
+  "headline": "🟢 OpenAI sorted itself out after 1h 55m",
+  "id": "openai:01M26E3PPAYJMMRHX2MZJCTHMF:resolved:resolved:none:2026-09-10T21:48:32+00:00",
+  "impact": "none",
+  "incident_id": "01M26E3PPAYJMMRHX2MZJCTHMF",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-10T21:49:36.505829+00:00",
+  "started_at": "2026-09-10T19:53:26+00:00",
+  "status": "resolved",
+  "title": "Delays in customer support responses",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF"
+ },
+ {
   "body": "We are experiencing slower than normal response times on the Claude API for some customers whose traffic enters through the US Midwest. Users may experience elevated latency and some request timeouts.",
   "components": [
    "Claude API (api.anthropic.com)",

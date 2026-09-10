@@ -50,7 +50,7 @@
    "consecutive_failures": 0
   },
   "perplexity": {
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "failing_since": "2026-09-10T21:00:00+00:00",
    "last_error": "https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format"
   },
@@ -3407,8 +3407,8 @@
   "openai:01M26E3PPAYJMMRHX2MZJCTHMF": {
    "impact": "none",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-10T21:20:47+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T21:48:32+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
