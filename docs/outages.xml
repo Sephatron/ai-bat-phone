@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>
+<guid isPermaLink='false'>openai:01M24HYC9SX2Q4471EVMY6EXQE:resolved:resolved:minor:2026-09-10T14:28:15+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 14:30:34 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: resolved · Duration: 12h 06m · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Lovable is having a wobble]]></title>
 <link>https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP</link>
 <guid isPermaLink='false'>lovable:01M25R4X6N20P0J4SX0EZE8HWP:opened:investigating:minor:2026-09-10T13:29:37+00:00</guid>
