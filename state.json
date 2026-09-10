@@ -2937,8 +2937,8 @@
   "moonshot:8r4x8clzcf9z": {
    "impact": "critical",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-10T11:45:13.349000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T11:46:13.217000+00:00"
   },
   "moonshot:8wbbd4sln74r": {
    "impact": "critical",
