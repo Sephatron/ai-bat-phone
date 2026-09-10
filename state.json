@@ -1827,8 +1827,8 @@
   "elevenlabs:01M25B80Q2SCJNXG2PY0Y20PRW": {
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-10T16:21:20+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T20:43:38+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -3387,8 +3387,8 @@
   "openai:01M26DX2PP1AFHGJK5E4M6S2J6": {
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-10T19:50:34+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-10T20:31:52+00:00"
   },
   "openai:01M26E3PPAYJMMRHX2MZJCTHMF": {
    "impact": "none",
@@ -3815,6 +3815,12 @@
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-01T21:16:58+00:00"
+  },
+  "replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-10T20:33:51+00:00"
   },
   "replit:a5b2995e-a639-4928-983f-b087ea688d8e": {
    "impact": "minor",

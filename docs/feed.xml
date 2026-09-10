@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6</link>
+<guid isPermaLink='false'>openai:01M26DX2PP1AFHGJK5E4M6S2J6:progress:monitoring:minor:2026-09-10T20:31:52+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 20:45:20 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 10 Sep 2026 19:49:49 +0000</p><p>We have applied mitigation and are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
+<link>https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW</link>
+<guid isPermaLink='false'>elevenlabs:01M25B80Q2SCJNXG2PY0Y20PRW:resolved:resolved:minor:2026-09-10T20:43:38+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 20:45:20 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>EU Residency - Conversation history not showing for recent calls</strong></p><p>Impact: minor · Status: resolved · Duration: 10h 59m · Opened: Thu, 10 Sep 2026 09:44:08 +0000</p><p>Our engineers have confirmed full recovery of the Conversation Search functionality in the web UI and the API.</p><p><a href="https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Replit is a bit under the weather]]></title>
+<link>https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd</link>
+<guid isPermaLink='false'>replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd:opened:investigating:minor:2026-09-10T20:45:20.636899+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 20:45:20 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Agent experiencing increased errors</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 20:33:51 +0000</p><p>[Investigating] We are investigating this issue.</p><p><a href="https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
 <link>https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF</link>
 <guid isPermaLink='false'>openai:01M26E3PPAYJMMRHX2MZJCTHMF:opened:investigating:none:2026-09-10T19:53:26+00:00</guid>
