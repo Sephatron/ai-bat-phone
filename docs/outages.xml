@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
+<link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>
+<guid isPermaLink='false'>openai:01M24HYC9SX2Q4471EVMY6EXQE:opened:investigating:minor:2026-09-10T02:21:57+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 02:30:22 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 ElevenLabs knows what it did]]></title>
 <link>https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9</link>
 <guid isPermaLink='false'>elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:progress:identified:minor:2026-09-10T01:28:11+00:00</guid>

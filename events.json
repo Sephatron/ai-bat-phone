@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for the listed services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M24HYC9SX2Q4471EVMY6EXQE:opened:investigating:minor:2026-09-10T02:21:57+00:00",
+  "impact": "minor",
+  "incident_id": "01M24HYC9SX2Q4471EVMY6EXQE",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-10T02:30:22.472142+00:00",
+  "started_at": "2026-09-10T02:21:57+00:00",
+  "status": "investigating",
+  "title": "Unable to open shared ChatGPT Project using direct link",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
+ },
+ {
   "body": "We are currently working to release a targeted fix to restore functionality to the Claude MCP tool",
   "components": [],
   "duration": "",
