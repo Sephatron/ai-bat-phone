@@ -119,8 +119,8 @@
   "anthropic:2pt83vlkk7x7": {
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-10T22:18:13.986000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T23:24:22.994000+00:00"
   },
   "anthropic:3g3d55q6vk3h": {
    "impact": "minor",

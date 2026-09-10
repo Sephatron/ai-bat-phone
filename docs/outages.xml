@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude has stopped wobbling]]></title>
+<link>https://stspg.io/hfs7749ykl14</link>
+<guid isPermaLink='false'>anthropic:2pt83vlkk7x7:resolved:resolved:minor:2026-09-10T23:24:22.994000+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 23:30:23 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated latency on the Claude API for some users</strong></p><p>Impact: minor · Status: resolved · Affects: Claude API (api.anthropic.com), Claude Cowork · Duration: 1h 40m · Opened: Thu, 10 Sep 2026 21:43:40 +0000</p><p>The issue affecting Claude services has been mitigated.</p><p><a href="https://stspg.io/hfs7749ykl14">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 Perplexity is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.perplexity.com</link>
 <guid isPermaLink='false'>meta:perplexity:unreachable:2026-09-10T21:00:00+00:00</guid>

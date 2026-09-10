@@ -1,5 +1,26 @@
 [
  {
+  "body": "The issue affecting Claude services has been mitigated.",
+  "components": [
+   "Claude API (api.anthropic.com)",
+   "Claude Cowork"
+  ],
+  "duration": "1h 40m",
+  "headline": "🟢 Claude has stopped wobbling",
+  "id": "anthropic:2pt83vlkk7x7:resolved:resolved:minor:2026-09-10T23:24:22.994000+00:00",
+  "impact": "minor",
+  "incident_id": "2pt83vlkk7x7",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-10T23:30:23.203839+00:00",
+  "started_at": "2026-09-10T21:43:40.209000+00:00",
+  "status": "resolved",
+  "title": "Elevated latency on the Claude API for some users",
+  "transition": "resolved",
+  "url": "https://stspg.io/hfs7749ykl14"
+ },
+ {
   "body": "https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format",
   "components": [],
   "duration": "",
