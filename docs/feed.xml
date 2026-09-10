@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 10 Sep 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
+<link>https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9</link>
+<guid isPermaLink='false'>elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:resolved:resolved:minor:2026-09-10T14:58:59+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 15:00:42 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Claude MCP connection not working</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 2h · Opened: Wed, 09 Sep 2026 12:41:25 +0000</p><p>Our engineers have deployed a fix that has fully restored Claude MCP functionality.</p><p><a href="https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>

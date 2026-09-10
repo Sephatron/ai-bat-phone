@@ -1,5 +1,23 @@
 [
  {
+  "body": "Our engineers have deployed a fix that has fully restored Claude MCP functionality.",
+  "components": [],
+  "duration": "1d 2h",
+  "headline": "🟢 ElevenLabs is fine again",
+  "id": "elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:resolved:resolved:minor:2026-09-10T14:58:59+00:00",
+  "impact": "minor",
+  "incident_id": "01M232ZXVNKKRQ0N0G3NJBV4C9",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-10T15:00:42.646003+00:00",
+  "started_at": "2026-09-09T12:41:25+00:00",
+  "status": "resolved",
+  "title": "Claude MCP connection not working",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "12h 06m",
