@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is a bit under the weather",
+  "id": "fireworks:01M269613HXXRFAHYMKCW99M12:opened:investigating:none:2026-09-10T18:27:20+00:00",
+  "impact": "none",
+  "incident_id": "01M269613HXXRFAHYMKCW99M12",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-10T18:30:25.241658+00:00",
+  "started_at": "2026-09-10T18:27:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for one of our Serverless models",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12"
+ },
+ {
   "body": "The issue has been identified and a fix is being implemented.",
   "components": [],
   "duration": "",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
+<link>https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12</link>
+<guid isPermaLink='false'>fireworks:01M269613HXXRFAHYMKCW99M12:opened:investigating:none:2026-09-10T18:27:20+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 18:30:25 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Thu, 10 Sep 2026 18:27:20 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Vercel has found the culprit]]></title>
 <link>https://stspg.io/zbs4ktd26fb0</link>
 <guid isPermaLink='false'>vercel:mf04gp4lrfz0:progress:identified:major:2026-09-10T18:13:20.245000+00:00</guid>
