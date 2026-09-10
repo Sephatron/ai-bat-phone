@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor sorted itself out after 24 min]]></title>
+<link>https://stspg.io/l9tz2hnfxtvz</link>
+<guid isPermaLink='false'>cursor:8mwzyv0n0jyk:resolved:resolved:minor:2026-09-10T17:32:05.105000+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 17:45:25 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Review Agents and Cloud Agents</strong></p><p>Impact: minor · Status: resolved · Affects: Review Agents, Cloud Agents · Duration: 24 min · Opened: Thu, 10 Sep 2026 17:07:24 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l9tz2hnfxtvz">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Vercel is having a proper one. This is not your code.]]></title>
+<link>https://stspg.io/zbs4ktd26fb0</link>
+<guid isPermaLink='false'>vercel:mf04gp4lrfz0:opened:investigating:major:2026-09-10T17:42:53.494000+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 17:45:25 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>We've identified an issue where some customers may experience increased errors from Connect and Passport. We are currently investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
 <link>https://stspg.io/l9tz2hnfxtvz</link>
 <guid isPermaLink='false'>cursor:8mwzyv0n0jyk:opened:investigating:minor:2026-09-10T17:07:24.582000+00:00</guid>

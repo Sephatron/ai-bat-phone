@@ -1245,8 +1245,8 @@
   "cursor:8mwzyv0n0jyk": {
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-10T17:07:24.582000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T17:32:05.105000+00:00"
   },
   "cursor:9wc9210xpc2l": {
    "impact": "minor",
@@ -4259,6 +4259,12 @@
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-05-15T16:18:40.809000+00:00"
+  },
+  "vercel:mf04gp4lrfz0": {
+   "impact": "major",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-10T17:42:53.494000+00:00"
   },
   "vercel:mq7wpz9mf8yl": {
    "impact": "none",
