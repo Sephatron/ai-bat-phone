@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Claude has found the culprit]]></title>
+<link>https://stspg.io/hfs7749ykl14</link>
+<guid isPermaLink='false'>anthropic:2pt83vlkk7x7:opened:identified:minor:2026-09-10T21:43:40.271000+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 21:45:21 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded performance on the Claude API</strong></p><p>Impact: minor · Status: identified · Affects: Claude API (api.anthropic.com), Claude Cowork · Opened: Thu, 10 Sep 2026 21:43:40 +0000</p><p>We are experiencing slower than normal response times on the Claude API for some customers whose traffic enters through the US Midwest. Users may experience elevated latency and some request timeouts.</p><p><a href="https://stspg.io/hfs7749ykl14">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔧 Planned works at Perplexity]]></title>
 <link>https://status.perplexity.com//incidents/01M1Z27ACCHFPXQNPZ37EQGW2F</link>
 <guid isPermaLink='false'>perplexity:01M1Z27ACCHFPXQNPZ37EQGW2F:opened:scheduled:none:2026-09-10T21:30:20.359753+00:00</guid>

@@ -50,7 +50,9 @@
    "consecutive_failures": 0
   },
   "perplexity": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-10T21:00:00+00:00",
+   "last_error": "https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format"
   },
   "replit": {
    "consecutive_failures": 0
@@ -113,6 +115,12 @@
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-03T12:56:26.648000+00:00"
+  },
+  "anthropic:2pt83vlkk7x7": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-10T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-09-10T21:43:40.271000+00:00"
   },
   "anthropic:3g3d55q6vk3h": {
    "impact": "minor",

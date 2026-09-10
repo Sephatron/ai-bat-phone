@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are experiencing slower than normal response times on the Claude API for some customers whose traffic enters through the US Midwest. Users may experience elevated latency and some request timeouts.",
+  "components": [
+   "Claude API (api.anthropic.com)",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔍 Claude has found the culprit",
+  "id": "anthropic:2pt83vlkk7x7:opened:identified:minor:2026-09-10T21:43:40.271000+00:00",
+  "impact": "minor",
+  "incident_id": "2pt83vlkk7x7",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-10T21:45:21.868708+00:00",
+  "started_at": "2026-09-10T21:43:40.209000+00:00",
+  "status": "identified",
+  "title": "Degraded performance on the Claude API",
+  "transition": "opened",
+  "url": "https://stspg.io/hfs7749ykl14"
+ },
+ {
   "body": "Status: Scheduled On Thursday, September 10 around 21:00 UTC (2:00 PM Pacific), we will migrate our status page from Instatus to incident.io as part of consolidating our incident response tooling. The switch is a DNS change, so it may take some time to complete for everyone. What is and isn't changing • The status page URL stays the same: https://status.perplexity.com. • Historical incidents have been migrated, so past incident history remains available on the new page. • Email subscribers will be migrated automatically. No action needed. • Slack subscriptions cannot be transferred, but you c…",
   "components": [],
   "duration": "",
