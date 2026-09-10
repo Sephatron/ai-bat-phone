@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are currently working to release a targeted fix to restore functionality to the Claude MCP tool",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 ElevenLabs knows what it did",
+  "id": "elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:progress:identified:minor:2026-09-10T01:28:11+00:00",
+  "impact": "minor",
+  "incident_id": "01M232ZXVNKKRQ0N0G3NJBV4C9",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-10T01:30:25.851546+00:00",
+  "started_at": "2026-09-09T12:41:25+00:00",
+  "status": "identified",
+  "title": "Claude MCP connection not working",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9"
+ },
+ {
   "body": "[Investigating] We are investigating issues related to Google, Stripe, Whop connectors",
   "components": [],
   "duration": "",

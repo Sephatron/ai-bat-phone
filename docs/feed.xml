@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 ElevenLabs knows what it did]]></title>
+<link>https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9</link>
+<guid isPermaLink='false'>elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:progress:identified:minor:2026-09-10T01:28:11+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 01:30:25 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Claude MCP connection not working</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 09 Sep 2026 12:41:25 +0000</p><p>We are currently working to release a targeted fix to restore functionality to the Claude MCP tool</p><p><a href="https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is a bit under the weather]]></title>
 <link>https://status.replit.com/incidents/5c864a49-1235-4ac0-8a04-c981a56a6d85</link>
 <guid isPermaLink='false'>replit:5c864a49-1235-4ac0-8a04-c981a56a6d85:opened:investigating:minor:2026-09-09T22:15:43.216286+00:00</guid>
