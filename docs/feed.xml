@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>
+<guid isPermaLink='false'>openai:01M24HYC9SX2Q4471EVMY6EXQE:progress:monitoring:minor:2026-09-10T12:06:23+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 12:15:25 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/m12qwdbbpy50</link>
 <guid isPermaLink='false'>moonshot:8r4x8clzcf9z:resolved:resolved:critical:2026-09-10T11:46:13.217000+00:00</guid>

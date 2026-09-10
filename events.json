@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M24HYC9SX2Q4471EVMY6EXQE:progress:monitoring:minor:2026-09-10T12:06:23+00:00",
+  "impact": "minor",
+  "incident_id": "01M24HYC9SX2Q4471EVMY6EXQE",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-10T12:15:25.998339+00:00",
+  "started_at": "2026-09-10T02:21:57+00:00",
+  "status": "monitoring",
+  "title": "Unable to open shared ChatGPT Project using direct link",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Search"
