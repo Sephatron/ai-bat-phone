@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some published projects that use map and location search features may temporarily not load results correctly, for example place lookups or location images. Projects that use our built-in maps connector are not affected. We will share an update as soon as we have more information.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable is having a wobble",
+  "id": "lovable:01M25R4X6N20P0J4SX0EZE8HWP:opened:investigating:minor:2026-09-10T13:29:37+00:00",
+  "impact": "minor",
+  "incident_id": "01M25R4X6N20P0J4SX0EZE8HWP",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-10T13:30:27.312076+00:00",
+  "started_at": "2026-09-10T13:29:37+00:00",
+  "status": "investigating",
+  "title": "Map and location search issues in some published projects",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",

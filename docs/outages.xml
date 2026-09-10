@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Lovable is having a wobble]]></title>
+<link>https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP</link>
+<guid isPermaLink='false'>lovable:01M25R4X6N20P0J4SX0EZE8HWP:opened:investigating:minor:2026-09-10T13:29:37+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 13:30:27 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Map and location search issues in some published projects</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 13:29:37 +0000</p><p>Some published projects that use map and location search features may temporarily not load results correctly, for example place lookups or location images. Projects that use our built-in maps connector are not affected. We will share an update as soon as we have more information.</p><p><a href="https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>
 <guid isPermaLink='false'>openai:01M24HYC9SX2Q4471EVMY6EXQE:progress:monitoring:minor:2026-09-10T12:06:23+00:00</guid>
