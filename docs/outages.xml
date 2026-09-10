@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 10 Sep 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
+<link>https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP</link>
+<guid isPermaLink='false'>lovable:01M25R4X6N20P0J4SX0EZE8HWP:resolved:resolved:minor:2026-09-10T16:54:38+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 17:00:26 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Map and location search issues in some published projects</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 25m · Opened: Thu, 10 Sep 2026 13:29:37 +0000</p><p>Map and location search issues in some published projects have been resolved. We have pushed a fix so that projects using location search are guided to the working setup, and if your project is still affected you can ask the Lovable agent to fix it and it will apply the update for you. All systems are operating normally.</p><p><a href="https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Claude has found the culprit]]></title>
 <link>https://stspg.io/5yp3rhhztm30</link>

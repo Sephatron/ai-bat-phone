@@ -1,5 +1,23 @@
 [
  {
+  "body": "Map and location search issues in some published projects have been resolved. We have pushed a fix so that projects using location search are guided to the working setup, and if your project is still affected you can ask the Lovable agent to fix it and it will apply the update for you. All systems are operating normally.",
+  "components": [],
+  "duration": "3h 25m",
+  "headline": "🟢 Lovable has stopped wobbling",
+  "id": "lovable:01M25R4X6N20P0J4SX0EZE8HWP:resolved:resolved:minor:2026-09-10T16:54:38+00:00",
+  "impact": "minor",
+  "incident_id": "01M25R4X6N20P0J4SX0EZE8HWP",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-10T17:00:26.396241+00:00",
+  "started_at": "2026-09-10T13:29:37+00:00",
+  "status": "resolved",
+  "title": "Map and location search issues in some published projects",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP"
+ },
+ {
   "body": "A Windows update released September 8 has caused Claude Cowork on Windows is unable to run local commands on your PC, because its workspace can no longer reach your computer’s drive. For most users, chat and reading or editing files still work. We have identified the cause as a change in Windows; Microsoft has developed a fix and is working on releasing it. There’s no in-app workaround yet, and restarting or reinstalling won’t help. We’ll post an update when we have more to share.",
   "components": [
    "Claude Cowork"
