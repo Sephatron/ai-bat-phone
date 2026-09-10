@@ -4269,8 +4269,8 @@
   "vercel:mf04gp4lrfz0": {
    "impact": "major",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-10T18:13:20.245000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-10T19:16:06.454000+00:00"
   },
   "vercel:mq7wpz9mf8yl": {
    "impact": "none",

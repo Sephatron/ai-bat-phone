@@ -1,5 +1,23 @@
 [
  {
+  "body": "Connect and Passport have fully recovered. This incident has been resolved.",
+  "components": [],
+  "duration": "1h 33m",
+  "headline": "🟢 Vercel lives. Pick your tools back up.",
+  "id": "vercel:mf04gp4lrfz0:resolved:resolved:major:2026-09-10T19:16:06.454000+00:00",
+  "impact": "major",
+  "incident_id": "mf04gp4lrfz0",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-09-10T19:30:23.105341+00:00",
+  "started_at": "2026-09-10T17:42:15.867000+00:00",
+  "status": "resolved",
+  "title": "Elevated error rate on Connect and Passport",
+  "transition": "resolved",
+  "url": "https://stspg.io/zbs4ktd26fb0"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "8 min",
