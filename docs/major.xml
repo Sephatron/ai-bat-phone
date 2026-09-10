@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 10 Sep 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📵 Perplexity is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.perplexity.com</link>
+<guid isPermaLink='false'>meta:perplexity:unreachable:2026-09-10T21:00:00+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 22:00:24 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Vercel lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/zbs4ktd26fb0</link>
