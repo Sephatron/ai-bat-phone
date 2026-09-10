@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 10 Sep 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
+<link>https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF</link>
+<guid isPermaLink='false'>openai:01M26E3PPAYJMMRHX2MZJCTHMF:opened:investigating:none:2026-09-10T19:53:26+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 20:00:26 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: investigating · Opened: Thu, 10 Sep 2026 19:53:26 +0000</p><p>We are investigating technical issues affecting our customer support systems. Customers may experience longer than usual response times. We are working to restore normal operations.</p><p><a href="https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
+<link>https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6</link>
+<guid isPermaLink='false'>openai:01M26DX2PP1AFHGJK5E4M6S2J6:opened:investigating:minor:2026-09-10T19:50:34+00:00</guid>
+<pubDate>Thu, 10 Sep 2026 20:00:26 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 19:49:49 +0000</p><p>We are investigating elevated errors affecting some ChatGPT Work users. Some users may encounter server errors. We are working to mitigate the issue.</p><p><a href="https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Vercel lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/zbs4ktd26fb0</link>
