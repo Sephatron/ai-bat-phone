@@ -1822,7 +1822,7 @@
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-09-10T10:19:17+00:00"
+   "updated_at": "2026-09-10T16:21:20+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -3328,7 +3328,7 @@
    "impact": "major",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-03T00:10:45+00:00"
+   "updated_at": "2026-09-10T16:20:29+00:00"
   },
   "openai:01M1KWEDH417T2CF44YYHZDFCR": {
    "impact": "minor",
