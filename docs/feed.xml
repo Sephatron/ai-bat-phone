@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ</link>
+<guid isPermaLink='false'>openai:01M27VK1VN54RQJGJEHB5JTQJJ:progress:monitoring:minor:2026-09-11T10:09:47+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 10:15:41 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for GPT-5.6 Sol on the API</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 11 Sep 2026 09:08:15 +0000</p><p>We have brought additional capacity online and are seeing improvements for some GPT-5.6 Sol API traffic. We continue to mitigate elevated errors affecting Chat Completions and Responses and are monitoring recovery</p><p><a href="https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI knows what it did]]></title>
 <link>https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ</link>
 <guid isPermaLink='false'>openai:01M27VK1VN54RQJGJEHB5JTQJJ:opened:identified:minor:2026-09-11T09:08:15+00:00</guid>

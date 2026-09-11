@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have brought additional capacity online and are seeing improvements for some GPT-5.6 Sol API traffic. We continue to mitigate elevated errors affecting Chat Completions and Responses and are monitoring recovery",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M27VK1VN54RQJGJEHB5JTQJJ:progress:monitoring:minor:2026-09-11T10:09:47+00:00",
+  "impact": "minor",
+  "incident_id": "01M27VK1VN54RQJGJEHB5JTQJJ",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-11T10:15:41.588903+00:00",
+  "started_at": "2026-09-11T09:08:15+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for GPT-5.6 Sol on the API",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
