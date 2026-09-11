@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are investigating a service degradation. Affected agent surfaces: OpenAI models.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is a bit under the weather",
+  "id": "cursor:vgsv8kjxxylh:opened:investigating:minor:2026-09-11T11:08:42.083000+00:00",
+  "impact": "minor",
+  "incident_id": "vgsv8kjxxylh",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-11T11:15:41.447804+00:00",
+  "started_at": "2026-09-11T11:08:41.889000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation",
+  "transition": "opened",
+  "url": "https://stspg.io/0xzq5xg26bwg"
+ },
+ {
   "body": "The Lovable desktop app for Windows installed from the Microsoft Store is currently crashing on launch. We have identified the cause and are working on releasing an updated version.",
   "components": [],
   "duration": "",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
+<link>https://stspg.io/0xzq5xg26bwg</link>
+<guid isPermaLink='false'>cursor:vgsv8kjxxylh:opened:investigating:minor:2026-09-11T11:08:42.083000+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 11:15:41 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Fri, 11 Sep 2026 11:08:41 +0000</p><p>We are investigating a service degradation. Affected agent surfaces: OpenAI models.</p><p><a href="https://stspg.io/0xzq5xg26bwg">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Lovable knows what it did]]></title>
 <link>https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN</link>
 <guid isPermaLink='false'>lovable:01M281DCXY75N9NESPFVNXKDRN:opened:identified:major:2026-09-11T10:50:02+00:00</guid>
