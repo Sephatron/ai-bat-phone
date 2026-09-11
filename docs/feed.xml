@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 11 Sep 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 Lovable knows what it did]]></title>
+<link>https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN</link>
+<guid isPermaLink='false'>lovable:01M281DCXY75N9NESPFVNXKDRN:opened:identified:major:2026-09-11T10:50:02+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 11:00:46 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Lovable Desktop App for Windows Crashing</strong></p><p>Impact: major · Status: identified · Opened: Fri, 11 Sep 2026 10:50:02 +0000</p><p>The Lovable desktop app for Windows installed from the Microsoft Store is currently crashing on launch. We have identified the cause and are working on releasing an updated version.</p><p><a href="https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 2h 23m]]></title>
 <link>https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5</link>

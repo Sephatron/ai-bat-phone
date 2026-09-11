@@ -1,5 +1,23 @@
 [
  {
+  "body": "The Lovable desktop app for Windows installed from the Microsoft Store is currently crashing on launch. We have identified the cause and are working on releasing an updated version.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Lovable knows what it did",
+  "id": "lovable:01M281DCXY75N9NESPFVNXKDRN:opened:identified:major:2026-09-11T10:50:02+00:00",
+  "impact": "major",
+  "incident_id": "01M281DCXY75N9NESPFVNXKDRN",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-11T11:00:46.534730+00:00",
+  "started_at": "2026-09-11T10:50:02+00:00",
+  "status": "identified",
+  "title": "Lovable Desktop App for Windows Crashing",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "2h 23m",
