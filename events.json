@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting Claude services has been resolved. Impact occurred from 13:57 to 14:20 UTC",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "17 min",
+  "headline": "🟢 Claude is fixed. You may resume being productive.",
+  "id": "anthropic:t33dncr5ydvl:resolved:resolved:major:2026-09-11T14:37:11.168000+00:00",
+  "impact": "major",
+  "incident_id": "t33dncr5ydvl",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-11T14:45:41.926711+00:00",
+  "started_at": "2026-09-11T14:19:51.466000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
+  "transition": "resolved",
+  "url": "https://stspg.io/n9n8kfcxtkfm"
+ },
+ {
   "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
   "components": [
    "claude.ai",

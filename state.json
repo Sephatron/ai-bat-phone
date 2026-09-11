@@ -355,8 +355,8 @@
   "anthropic:t33dncr5ydvl": {
    "impact": "major",
    "last_seen_at": "2026-09-11T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-11T14:28:27.333000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-11T14:37:11.168000+00:00"
   },
   "anthropic:vcynh9cf33xp": {
    "impact": "critical",
