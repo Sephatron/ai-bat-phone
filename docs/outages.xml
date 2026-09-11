@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/n9n8kfcxtkfm</link>
+<guid isPermaLink='false'>anthropic:t33dncr5ydvl:opened:monitoring:major:2026-09-11T14:28:27.333000+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 14:30:45 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Fri, 11 Sep 2026 14:19:51 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/n9n8kfcxtkfm">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔺 Claude went from annoying to actual]]></title>
+<link>https://stspg.io/5yp3rhhztm30</link>
+<guid isPermaLink='false'>anthropic:r1pqn1kb4hvk:escalated:identified:major:2026-09-11T14:19:51.617000+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 14:30:45 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: major · Status: identified · Affects: Claude Cowork · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>A Windows update released September 8 has left Claude Cowork on Windows unable to run local commands, because its workspace can no longer reach your computer's drive. For most users, chat and file reading and editing still work. There's no in-app workaround yet, and restarting or reinstalling won't help. Microsoft has developed a fix and is working to release it. We'll post an update when we have more to share.</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <guid isPermaLink='false'>meta:all:alive:2026-09-11</guid>

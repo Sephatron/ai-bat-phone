@@ -1,5 +1,48 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:t33dncr5ydvl:opened:monitoring:major:2026-09-11T14:28:27.333000+00:00",
+  "impact": "major",
+  "incident_id": "t33dncr5ydvl",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-11T14:30:45.488534+00:00",
+  "started_at": "2026-09-11T14:19:51.466000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
+  "transition": "opened",
+  "url": "https://stspg.io/n9n8kfcxtkfm"
+ },
+ {
+  "body": "A Windows update released September 8 has left Claude Cowork on Windows unable to run local commands, because its workspace can no longer reach your computer's drive. For most users, chat and file reading and editing still work. There's no in-app workaround yet, and restarting or reinstalling won't help. Microsoft has developed a fix and is working to release it. We'll post an update when we have more to share.",
+  "components": [
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔺 Claude went from annoying to actual",
+  "id": "anthropic:r1pqn1kb4hvk:escalated:identified:major:2026-09-11T14:19:51.617000+00:00",
+  "impact": "major",
+  "incident_id": "r1pqn1kb4hvk",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-11T14:30:45.488534+00:00",
+  "started_at": "2026-09-10T15:54:10+00:00",
+  "status": "identified",
+  "title": "Degraded functionality for Claude Cowork on Windows",
+  "transition": "escalated",
+  "url": "https://stspg.io/5yp3rhhztm30"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
