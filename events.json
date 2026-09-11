@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M28MEQWTQJDRCRPFD9FWQ0H3:opened:investigating:minor:2026-09-11T16:22:49+00:00",
+  "impact": "minor",
+  "incident_id": "01M28MEQWTQJDRCRPFD9FWQ0H3",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-11T16:30:47.198906+00:00",
+  "started_at": "2026-09-11T16:22:49+00:00",
+  "status": "investigating",
+  "title": "1% of ChatGPT Work (mobile/web) turns are failing",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
+ },
+ {
   "body": "The issue affecting Claude services has been resolved. Impact occurred from 13:57 to 14:20 UTC",
   "components": [
    "claude.ai",
