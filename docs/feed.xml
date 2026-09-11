@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-09-11</guid>
+<pubDate>Fri, 11 Sep 2026 13:45:39 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable lives. Pick your tools back up.]]></title>
 <link>https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN</link>
 <guid isPermaLink='false'>lovable:01M281DCXY75N9NESPFVNXKDRN:resolved:resolved:major:2026-09-11T12:06:14+00:00</guid>
