@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "27 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:vgsv8kjxxylh:resolved:resolved:minor:2026-09-11T11:36:00.255000+00:00",
+  "impact": "minor",
+  "incident_id": "vgsv8kjxxylh",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-11T11:45:41.304528+00:00",
+  "started_at": "2026-09-11T11:08:41.889000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation",
+  "transition": "resolved",
+  "url": "https://stspg.io/0xzq5xg26bwg"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "2h 13m",

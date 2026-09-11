@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://stspg.io/0xzq5xg26bwg</link>
+<guid isPermaLink='false'>cursor:vgsv8kjxxylh:resolved:resolved:minor:2026-09-11T11:36:00.255000+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 11:45:41 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 27 min · Opened: Fri, 11 Sep 2026 11:08:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/0xzq5xg26bwg">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ</link>
 <guid isPermaLink='false'>openai:01M27VK1VN54RQJGJEHB5JTQJJ:resolved:resolved:minor:2026-09-11T11:21:44+00:00</guid>
