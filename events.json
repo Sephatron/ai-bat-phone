@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI knows what it did",
+  "id": "openai:01M27VK1VN54RQJGJEHB5JTQJJ:opened:identified:minor:2026-09-11T09:08:15+00:00",
+  "impact": "minor",
+  "incident_id": "01M27VK1VN54RQJGJEHB5JTQJJ",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-11T09:15:40.786215+00:00",
+  "started_at": "2026-09-11T09:08:15+00:00",
+  "status": "identified",
+  "title": "Elevated errors for GPT-5.6 Sol on the API",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
