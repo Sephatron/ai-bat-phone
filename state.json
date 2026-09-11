@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-11T03:00:00+00:00",
+ "heartbeat": "2026-09-11T04:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -47,7 +47,7 @@
    "consecutive_failures": 0
   },
   "openrouter": {
-   "consecutive_failures": 2,
+   "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
    "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
   },

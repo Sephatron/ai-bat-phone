@@ -1,5 +1,23 @@
 [
  {
+  "body": "https://status.openrouter.ai/incidents.rss returned HTTP 403",
+  "components": [],
+  "duration": "",
+  "headline": "📵 OpenRouter is unreadable — silence here means unknown, not fine",
+  "id": "meta:openrouter:unreachable:2026-09-11T03:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "openrouter",
+  "provider_name": "OpenRouter",
+  "published_at": "2026-09-11T04:00:33.328706+00:00",
+  "started_at": "2026-09-11T03:00:00+00:00",
+  "status": "unreachable",
+  "title": "AI Bat Phone cannot read OpenRouter's status page",
+  "transition": "unreachable",
+  "url": "https://status.openrouter.ai"
+ },
+ {
   "body": "The issue affecting Claude services has been mitigated.",
   "components": [
    "Claude API (api.anthropic.com)",
