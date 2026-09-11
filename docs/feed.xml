@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5</link>
+<guid isPermaLink='false'>openai:01M27Q9GH7WVKNA61ZR3RDMSY5:progress:monitoring:minor:2026-09-11T08:37:26+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 08:45:45 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for ChatGPT users in Europe</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 11 Sep 2026 07:53:08 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8</link>
 <guid isPermaLink='false'>fireworks:01M27QBPE1VPY1HRCES2NRVSE8:resolved:resolved:none:2026-09-11T08:16:45+00:00</guid>
