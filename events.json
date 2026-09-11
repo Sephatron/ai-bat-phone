@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "2h 13m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M27VK1VN54RQJGJEHB5JTQJJ:resolved:resolved:minor:2026-09-11T11:21:44+00:00",
+  "impact": "minor",
+  "incident_id": "01M27VK1VN54RQJGJEHB5JTQJJ",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-11T11:30:42.790851+00:00",
+  "started_at": "2026-09-11T09:08:15+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for GPT-5.6 Sol on the API",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ"
+ },
+ {
   "body": "We are investigating a service degradation. Affected agent surfaces: OpenAI models.",
   "components": [
    "Automations",
