@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8</link>
+<guid isPermaLink='false'>fireworks:01M27QBPE1VPY1HRCES2NRVSE8:resolved:resolved:none:2026-09-11T08:16:45+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 08:30:45 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 22 min · Opened: Fri, 11 Sep 2026 07:54:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8</link>
 <guid isPermaLink='false'>fireworks:01M27QBPE1VPY1HRCES2NRVSE8:opened:investigating:none:2026-09-11T07:54:20+00:00</guid>
