@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M28MEQWTQJDRCRPFD9FWQ0H3:progress:monitoring:minor:2026-09-11T21:51:56+00:00",
+  "impact": "minor",
+  "incident_id": "01M28MEQWTQJDRCRPFD9FWQ0H3",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-11T22:00:39.955406+00:00",
+  "started_at": "2026-09-11T16:22:49+00:00",
+  "status": "monitoring",
+  "title": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
