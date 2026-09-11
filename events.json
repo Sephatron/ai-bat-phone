@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue causing the Windows Desktop App to crash has now been resolved and the app is working as normal.",
+  "components": [],
+  "duration": "1h 16m",
+  "headline": "🟢 Lovable lives. Pick your tools back up.",
+  "id": "lovable:01M281DCXY75N9NESPFVNXKDRN:resolved:resolved:major:2026-09-11T12:06:14+00:00",
+  "impact": "major",
+  "incident_id": "01M281DCXY75N9NESPFVNXKDRN",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-11T12:15:41.458369+00:00",
+  "started_at": "2026-09-11T10:50:02+00:00",
+  "status": "resolved",
+  "title": "Lovable Desktop App for Windows Crashing",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",
