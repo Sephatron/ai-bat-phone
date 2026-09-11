@@ -47,7 +47,9 @@
    "consecutive_failures": 0
   },
   "openrouter": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-11T03:00:00+00:00",
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
   },
   "perplexity": {
    "consecutive_failures": 3,
