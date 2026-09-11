@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 11 Sep 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8</link>
+<guid isPermaLink='false'>fireworks:01M27QBPE1VPY1HRCES2NRVSE8:opened:investigating:none:2026-09-11T07:54:20+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 08:00:47 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 11 Sep 2026 07:54:20 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5</link>
+<guid isPermaLink='false'>openai:01M27Q9GH7WVKNA61ZR3RDMSY5:opened:identified:minor:2026-09-11T07:53:08+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 08:00:47 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for ChatGPT users in Europe</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 11 Sep 2026 07:53:08 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📵 OpenRouter is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.openrouter.ai</link>
