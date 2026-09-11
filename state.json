@@ -2,16 +2,22 @@
  "heartbeat": "2026-09-11T05:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-11T05:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-11T05:00:00+00:00",
+   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
   },
   "cerebras": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-11T05:00:00+00:00",
+   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
   },
   "cohere": {
    "consecutive_failures": 0
@@ -41,7 +47,9 @@
    "consecutive_failures": 0
   },
   "moonshot": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-11T05:00:00+00:00",
+   "last_error": "https://status.moonshot.cn/api/v2/incidents.json: The read operation timed out"
   },
   "openai": {
    "consecutive_failures": 0
@@ -49,7 +57,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
   },
   "perplexity": {
    "consecutive_failures": 3,
@@ -60,10 +68,14 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-11T05:00:00+00:00",
+   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
   },
   "vercel": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-11T05:00:00+00:00",
+   "last_error": "https://www.vercel-status.com/api/v2/incidents.json: The read operation timed out"
   },
   "windsurf": {
    "consecutive_failures": 0
