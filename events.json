@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "2h 23m",
+  "headline": "🟢 OpenAI sorted itself out after 2h 23m",
+  "id": "openai:01M27Q9GH7WVKNA61ZR3RDMSY5:resolved:resolved:minor:2026-09-11T10:16:32+00:00",
+  "impact": "minor",
+  "incident_id": "01M27Q9GH7WVKNA61ZR3RDMSY5",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-11T10:30:44.596750+00:00",
+  "started_at": "2026-09-11T07:53:08+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for ChatGPT users in Europe",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5"
+ },
+ {
   "body": "We have brought additional capacity online and are seeing improvements for some GPT-5.6 Sol API traffic. We continue to mitigate elevated errors affecting Chat Completions and Responses and are monitoring recovery",
   "components": [],
   "duration": "",

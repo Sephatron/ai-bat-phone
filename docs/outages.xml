@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 2h 23m]]></title>
+<link>https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5</link>
+<guid isPermaLink='false'>openai:01M27Q9GH7WVKNA61ZR3RDMSY5:resolved:resolved:minor:2026-09-11T10:16:32+00:00</guid>
+<pubDate>Fri, 11 Sep 2026 10:30:44 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for ChatGPT users in Europe</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 23m · Opened: Fri, 11 Sep 2026 07:53:08 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ</link>
 <guid isPermaLink='false'>openai:01M27VK1VN54RQJGJEHB5JTQJJ:progress:monitoring:minor:2026-09-11T10:09:47+00:00</guid>
