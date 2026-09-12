@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 12 Sep 2026 01:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 02:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3</link>
+<guid isPermaLink='false'>openai:01M28MEQWTQJDRCRPFD9FWQ0H3:resolved:resolved:minor:2026-09-12T01:57:37+00:00</guid>
+<pubDate>Sat, 12 Sep 2026 02:00:56 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>1% of ChatGPT Work (mobile/web) turns are failing for existing threads</strong></p><p>Impact: minor · Status: resolved · Duration: 9h 34m · Opened: Fri, 11 Sep 2026 16:22:49 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3</link>

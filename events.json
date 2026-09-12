@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "9h 34m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M28MEQWTQJDRCRPFD9FWQ0H3:resolved:resolved:minor:2026-09-12T01:57:37+00:00",
+  "impact": "minor",
+  "incident_id": "01M28MEQWTQJDRCRPFD9FWQ0H3",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-12T02:00:56.125606+00:00",
+  "started_at": "2026-09-11T16:22:49+00:00",
+  "status": "resolved",
+  "title": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
