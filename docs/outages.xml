@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
+<link>https://stspg.io/f2b6fd4l83wy</link>
+<guid isPermaLink='false'>github:kzh5j0mt7qwc:opened:investigating:minor:2026-09-14T18:40:25.137000+00:00</guid>
+<pubDate>Mon, 14 Sep 2026 18:45:40 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Actions Larger Runner Jobs for some customers may be slow to start</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 14 Sep 2026 18:40:25 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/f2b6fd4l83wy">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten is fine again]]></title>
 <link>https://stspg.io/wmt6p7fnt7z0</link>
 <guid isPermaLink='false'>baseten:bmxpy6vzgc6y:resolved:resolved:minor:2026-09-14T17:03:20.088000+00:00</guid>
