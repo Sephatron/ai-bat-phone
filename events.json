@@ -1,5 +1,23 @@
 [
  {
+  "body": "Earlier today, some ChatGPT Plus users using Work Mode experienced errors starting or resuming tasks, or had limited access to workspace tools and files. We have applied a mitigation and service has recovered. We are monitoring the results.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M2GA8XTS6VB3QCDEGZ0HNAQ5:opened:monitoring:minor:2026-09-14T15:58:48+00:00",
+  "impact": "minor",
+  "incident_id": "01M2GA8XTS6VB3QCDEGZ0HNAQ5",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-14T16:00:45.794582+00:00",
+  "started_at": "2026-09-14T15:58:48+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors affecting Work Mode in ChatGPT",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",
