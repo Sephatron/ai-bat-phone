@@ -1,5 +1,23 @@
 [
  {
+  "body": "``` We are investigating elevated error rates affecting Codex and ChatGPT Work ```",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M2EWYR55J47M2BPG9WC76VEG:opened:investigating:none:2026-09-14T02:59:08+00:00",
+  "impact": "none",
+  "incident_id": "01M2EWYR55J47M2BPG9WC76VEG",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-14T03:00:44.893624+00:00",
+  "started_at": "2026-09-14T02:46:48+00:00",
+  "status": "investigating",
+  "title": "Elevated error rates for Codex and ChatGPT Work",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "9h 34m",
