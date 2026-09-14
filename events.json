@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue affecting the Agents API has been resolved. Managed sessions are now processing turns normally.",
+  "components": [],
+  "duration": "18 min",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M2H3J1D6Y7RHAP49GRWGJAY0:resolved:resolved:none:2026-09-14T23:39:21+00:00",
+  "impact": "none",
+  "incident_id": "01M2H3J1D6Y7RHAP49GRWGJAY0",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-14T23:45:39.524252+00:00",
+  "started_at": "2026-09-14T23:20:41+00:00",
+  "status": "resolved",
+  "title": "Degraded Performance affecting Agents API",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0"
+ },
+ {
   "body": "Since 1:30 PM Pacific Time on September 14, customers using the Agents API have experienced delays or been unable to start turns in managed sessions. We have applied mitigations and are seeing recovery, but the service has not fully recovered. We are continuing to monitor recovery.",
   "components": [],
   "duration": "",

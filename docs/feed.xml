@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0</link>
+<guid isPermaLink='false'>openai:01M2H3J1D6Y7RHAP49GRWGJAY0:resolved:resolved:none:2026-09-14T23:39:21+00:00</guid>
+<pubDate>Mon, 14 Sep 2026 23:45:39 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Degraded Performance affecting Agents API</strong></p><p>Impact: unclassified · Status: resolved · Duration: 18 min · Opened: Mon, 14 Sep 2026 23:20:41 +0000</p><p>The issue affecting the Agents API has been resolved. Managed sessions are now processing turns normally.</p><p><a href="https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0</link>
 <guid isPermaLink='false'>openai:01M2H3J1D6Y7RHAP49GRWGJAY0:opened:monitoring:none:2026-09-14T23:20:41+00:00</guid>

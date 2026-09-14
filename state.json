@@ -3517,8 +3517,8 @@
   "openai:01M2H3J1D6Y7RHAP49GRWGJAY0": {
    "impact": "none",
    "last_seen_at": "2026-09-14T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-14T23:28:43+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-14T23:39:21+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
