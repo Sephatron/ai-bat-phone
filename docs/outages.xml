@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 14 Sep 2026 03:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 04:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG</link>
+<guid isPermaLink='false'>openai:01M2EWYR55J47M2BPG9WC76VEG:resolved:resolved:none:2026-09-14T03:57:19+00:00</guid>
+<pubDate>Mon, 14 Sep 2026 04:00:42 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for Codex and ChatGPT Work</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 10m · Opened: Mon, 14 Sep 2026 02:46:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG</link>

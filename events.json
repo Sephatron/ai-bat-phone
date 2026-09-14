@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1h 10m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M2EWYR55J47M2BPG9WC76VEG:resolved:resolved:none:2026-09-14T03:57:19+00:00",
+  "impact": "none",
+  "incident_id": "01M2EWYR55J47M2BPG9WC76VEG",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-14T04:00:42.651277+00:00",
+  "started_at": "2026-09-14T02:46:48+00:00",
+  "status": "resolved",
+  "title": "Elevated error rates for Codex and ChatGPT Work",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
