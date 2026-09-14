@@ -1,5 +1,43 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub is on the mend. Don't get comfortable yet.",
+  "id": "github:kzh5j0mt7qwc:progress:monitoring:minor:2026-09-14T19:01:52.802000+00:00",
+  "impact": "minor",
+  "incident_id": "kzh5j0mt7qwc",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-14T19:15:43.195317+00:00",
+  "started_at": "2026-09-14T18:40:25.072000+00:00",
+  "status": "monitoring",
+  "title": "Actions Larger Runner Jobs for some customers may be slow to start",
+  "transition": "progress",
+  "url": "https://stspg.io/f2b6fd4l83wy"
+ },
+ {
+  "body": "This issue has been resolved. Microsoft has released a September 14 Windows update that fixes it: https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129195-windows-11-24h2-25h2-security-update",
+  "components": [
+   "Claude Cowork"
+  ],
+  "duration": "4d 3h",
+  "headline": "🟢 Claude lives. Pick your tools back up.",
+  "id": "anthropic:r1pqn1kb4hvk:resolved:resolved:major:2026-09-14T19:14:45.986000+00:00",
+  "impact": "major",
+  "incident_id": "r1pqn1kb4hvk",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-14T19:15:43.195317+00:00",
+  "started_at": "2026-09-10T15:54:10+00:00",
+  "status": "resolved",
+  "title": "Degraded functionality for Claude Cowork on Windows",
+  "transition": "resolved",
+  "url": "https://stspg.io/5yp3rhhztm30"
+ },
+ {
   "body": "We are investigating reports of impacted performance for some GitHub services.",
   "components": [],
   "duration": "",

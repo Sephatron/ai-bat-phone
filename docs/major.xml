@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/5yp3rhhztm30</link>
+<guid isPermaLink='false'>anthropic:r1pqn1kb4hvk:resolved:resolved:major:2026-09-14T19:14:45.986000+00:00</guid>
+<pubDate>Mon, 14 Sep 2026 19:15:43 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: major · Status: resolved · Affects: Claude Cowork · Duration: 4d 3h · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>This issue has been resolved. Microsoft has released a September 14 Windows update that fixes it: https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129195-windows-11-24h2-25h2-security-update</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/n9n8kfcxtkfm</link>
 <guid isPermaLink='false'>anthropic:t33dncr5ydvl:resolved:resolved:major:2026-09-11T14:37:11.168000+00:00</guid>
