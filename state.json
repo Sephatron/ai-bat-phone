@@ -8,22 +8,16 @@
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-14T14:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json returned HTTP 503"
+   "consecutive_failures": 0
   },
   "cerebras": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-14T14:00:00+00:00",
-   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cohere": {
    "consecutive_failures": 0
   },
   "cursor": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-14T14:00:00+00:00",
-   "last_error": "https://status.cursor.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "deepseek": {
    "consecutive_failures": 0
@@ -66,17 +60,13 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-14T14:00:00+00:00",
-   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "vercel": {
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-14T14:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
