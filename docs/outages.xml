@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is fine again]]></title>
+<link>https://stspg.io/f2b6fd4l83wy</link>
+<guid isPermaLink='false'>github:kzh5j0mt7qwc:resolved:resolved:minor:2026-09-14T19:35:48.154000+00:00</guid>
+<pubDate>Mon, 14 Sep 2026 19:45:39 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Actions Larger Runner Jobs for some customers may be slow to start</strong></p><p>Impact: minor · Status: resolved · Duration: 55 min · Opened: Mon, 14 Sep 2026 18:40:25 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/f2b6fd4l83wy">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/f2b6fd4l83wy</link>
 <guid isPermaLink='false'>github:kzh5j0mt7qwc:progress:monitoring:minor:2026-09-14T19:01:52.802000+00:00</guid>
