@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "41 min",
+  "headline": "🟢 Baseten is fine again",
+  "id": "baseten:bmxpy6vzgc6y:resolved:resolved:minor:2026-09-14T17:03:20.088000+00:00",
+  "impact": "minor",
+  "incident_id": "bmxpy6vzgc6y",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-14T17:15:42.162034+00:00",
+  "started_at": "2026-09-14T16:21:34+00:00",
+  "status": "resolved",
+  "title": "Partial outage on Kimi K3 model API inference (non-US only)",
+  "transition": "resolved",
+  "url": "https://stspg.io/wmt6p7fnt7z0"
+ },
+ {
   "body": "We are currently investigating this issue.",
   "components": [
    "Model APIs"

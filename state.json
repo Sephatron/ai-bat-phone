@@ -577,8 +577,8 @@
   "baseten:bmxpy6vzgc6y": {
    "impact": "minor",
    "last_seen_at": "2026-09-14T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-14T16:53:26.546000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-14T17:03:20.088000+00:00"
   },
   "baseten:crs5ncv12dcd": {
    "impact": "minor",
