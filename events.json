@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are monitoring Grok 4.6 for service restoration.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor has applied a fix and is holding its breath",
+  "id": "cursor:bgwm1q5652hy:opened:monitoring:minor:2026-09-14T08:15:24.229000+00:00",
+  "impact": "minor",
+  "incident_id": "bgwm1q5652hy",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-14T08:15:50.720230+00:00",
+  "started_at": "2026-09-14T08:14:46.753000+00:00",
+  "status": "monitoring",
+  "title": "Investigating Grok service degradation",
+  "transition": "opened",
+  "url": "https://stspg.io/czrkjs542qtv"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "1h 10m",
