@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M2EWYR55J47M2BPG9WC76VEG:progress:monitoring:none:2026-09-14T03:42:18+00:00",
+  "impact": "none",
+  "incident_id": "01M2EWYR55J47M2BPG9WC76VEG",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-14T03:45:42.347827+00:00",
+  "started_at": "2026-09-14T02:46:48+00:00",
+  "status": "monitoring",
+  "title": "Elevated error rates for Codex and ChatGPT Work",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG"
+ },
+ {
   "body": "``` We are investigating elevated error rates affecting Codex and ChatGPT Work ```",
   "components": [],
   "duration": "",

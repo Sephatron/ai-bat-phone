@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG</link>
+<guid isPermaLink='false'>openai:01M2EWYR55J47M2BPG9WC76VEG:progress:monitoring:none:2026-09-14T03:42:18+00:00</guid>
+<pubDate>Mon, 14 Sep 2026 03:45:42 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for Codex and ChatGPT Work</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Mon, 14 Sep 2026 02:46:48 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
 <link>https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG</link>
 <guid isPermaLink='false'>openai:01M2EWYR55J47M2BPG9WC76VEG:opened:investigating:none:2026-09-14T02:59:08+00:00</guid>
