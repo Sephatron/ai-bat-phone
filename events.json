@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "52 min",
+  "headline": "🟢 Cursor sorted itself out after 52 min",
+  "id": "cursor:bgwm1q5652hy:resolved:resolved:minor:2026-09-14T09:07:24.040000+00:00",
+  "impact": "minor",
+  "incident_id": "bgwm1q5652hy",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-14T09:15:43.297652+00:00",
+  "started_at": "2026-09-14T08:14:46.753000+00:00",
+  "status": "resolved",
+  "title": "Investigating Grok service degradation",
+  "transition": "resolved",
+  "url": "https://stspg.io/czrkjs542qtv"
+ },
+ {
   "body": "We are monitoring Grok 4.6 for service restoration.",
   "components": [
    "Automations",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor sorted itself out after 52 min]]></title>
+<link>https://stspg.io/czrkjs542qtv</link>
+<guid isPermaLink='false'>cursor:bgwm1q5652hy:resolved:resolved:minor:2026-09-14T09:07:24.040000+00:00</guid>
+<pubDate>Mon, 14 Sep 2026 09:15:43 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating Grok service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 52 min · Opened: Mon, 14 Sep 2026 08:14:46 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/czrkjs542qtv">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/czrkjs542qtv</link>
 <guid isPermaLink='false'>cursor:bgwm1q5652hy:opened:monitoring:minor:2026-09-14T08:15:24.229000+00:00</guid>
