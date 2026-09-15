@@ -1,5 +1,23 @@
 [
  {
+  "body": "This issue has been resolved and sign-in, publishing, and other account actions are working normally again. If you were affected, reload the page to pick up the fix.",
+  "components": [],
+  "duration": "1h 12m",
+  "headline": "🟢 Lovable lives. Pick your tools back up.",
+  "id": "lovable:01M2JZB5PE7Z97RG0PCE7EZN88:resolved:resolved:major:2026-09-15T17:57:42+00:00",
+  "impact": "major",
+  "incident_id": "01M2JZB5PE7Z97RG0PCE7EZN88",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-15T18:00:47.649177+00:00",
+  "started_at": "2026-09-15T16:45:30+00:00",
+  "status": "resolved",
+  "title": "Errors signing in and performing account actions",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88"
+ },
+ {
   "body": "Some users are currently experiencing errors when signing in or signing up, and when performing account actions such as creating or sharing a project, creating API keys, changing workspace members, and setting up SMS two-factor authentication. Existing sessions and published projects are not affected. Our team is investigating.",
   "components": [],
   "duration": "",

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 15 Sep 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Lovable lives. Pick your tools back up.]]></title>
+<link>https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88</link>
+<guid isPermaLink='false'>lovable:01M2JZB5PE7Z97RG0PCE7EZN88:resolved:resolved:major:2026-09-15T17:57:42+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 18:00:47 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Errors signing in and performing account actions</strong></p><p>Impact: major · Status: resolved · Duration: 1h 12m · Opened: Tue, 15 Sep 2026 16:45:30 +0000</p><p>This issue has been resolved and sign-in, publishing, and other account actions are working normally again. If you were affected, reload the page to pick up the fix.</p><p><a href="https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Lovable has downed tools — and so, probably, have you]]></title>
 <link>https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88</link>
