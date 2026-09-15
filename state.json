@@ -3523,8 +3523,8 @@
   "openai:01M2GA8XTS6VB3QCDEGZ0HNAQ5": {
    "impact": "minor",
    "last_seen_at": "2026-09-15T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-14T19:42:08+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-15T03:11:36+00:00"
   },
   "openai:01M2H3J1D6Y7RHAP49GRWGJAY0": {
    "impact": "none",

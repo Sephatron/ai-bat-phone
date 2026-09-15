@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5</link>
+<guid isPermaLink='false'>openai:01M2GA8XTS6VB3QCDEGZ0HNAQ5:resolved:resolved:minor:2026-09-15T03:11:36+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 03:15:38 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting Work Mode in ChatGPT</strong></p><p>Impact: minor · Status: resolved · Duration: 11h 12m · Opened: Mon, 14 Sep 2026 15:58:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten sorted itself out after 44 min]]></title>
 <link>https://stspg.io/zgqtvb6hfnjb</link>
 <guid isPermaLink='false'>baseten:hpfyy75qvv4x:resolved:resolved:minor:2026-09-15T02:07:38.244000+00:00</guid>
