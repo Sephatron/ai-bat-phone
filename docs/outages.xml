@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
+<link>https://status.deepseek.com/incidents/6985247573287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:6985247573287:resolved:resolved:minor:2026-09-15T09:30:54.830917+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 09:30:54 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service) · Opened: Tue, 15 Sep 2026 08:55:34 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/6985247573287">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from DeepSeek]]></title>
 <link>https://status.deepseek.com/incidents/6985247573287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:6985247573287:opened:investigating:minor:2026-09-15T09:00:51.984997+00:00</guid>
