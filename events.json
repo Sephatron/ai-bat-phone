@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M2JMD4CSWG5K2Z0FQ0JCP3V3:opened:investigating:none:2026-09-15T13:34:20+00:00",
+  "impact": "none",
+  "incident_id": "01M2JMD4CSWG5K2Z0FQ0JCP3V3",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-15T13:45:42.043152+00:00",
+  "started_at": "2026-09-15T13:34:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for one of our Serverless models",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M2JMD4CSWG5K2Z0FQ0JCP3V3"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Copilot AI Model Providers"
