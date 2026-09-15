@@ -1,5 +1,23 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:bk7zgdcq7s9t:progress:monitoring:minor:2026-09-15T19:48:02.830000+00:00",
+  "impact": "minor",
+  "incident_id": "bk7zgdcq7s9t",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-15T20:00:46.824342+00:00",
+  "started_at": "2026-09-15T19:11:31.334000+00:00",
+  "status": "monitoring",
+  "title": "Disruption with some GitHub services",
+  "transition": "progress",
+  "url": "https://stspg.io/tbh60vgxfxj6"
+ },
+ {
   "body": "We are investigating reports of impacted performance for some GitHub services.",
   "components": [],
   "duration": "",
