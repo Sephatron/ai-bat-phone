@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:6304r9jjhj34:progress:monitoring:major:2026-09-15T10:50:26.414000+00:00",
+  "impact": "major",
+  "incident_id": "6304r9jjhj34",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-15T11:00:53.536864+00:00",
+  "started_at": "2026-09-15T09:48:23.066000+00:00",
+  "status": "monitoring",
+  "title": "Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1",
+  "transition": "progress",
+  "url": "https://stspg.io/x1qpycpg6ln7"
+ },
+ {
   "body": "Copilot AI Model Providers is experiencing degraded performance. We are continuing to investigate.",
   "components": [
    "Copilot AI Model Providers"
