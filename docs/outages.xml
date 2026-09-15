@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M2JTEKTGWQ0SMJHZTP6DXZD1</link>
+<guid isPermaLink='false'>fireworks:01M2JTEKTGWQ0SMJHZTP6DXZD1:opened:investigating:minor:2026-09-15T15:20:00+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 15:30:45 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 15 Sep 2026 15:20:00 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2JTEKTGWQ0SMJHZTP6DXZD1">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 1h 03m]]></title>
 <link>https://status.fireworks.ai/incidents/01M2JMD4CSWG5K2Z0FQ0JCP3V3</link>
 <guid isPermaLink='false'>fireworks:01M2JMD4CSWG5K2Z0FQ0JCP3V3:resolved:resolved:none:2026-09-15T14:38:11+00:00</guid>
