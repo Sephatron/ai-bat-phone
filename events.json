@@ -1,5 +1,31 @@
 [
  {
+  "body": "We are investigating a service degradation. Affected agent surfaces: Composer and xAI.",
+  "components": [
+   "Automations",
+   "Review Agents",
+   "CLI",
+   "Cloud Agents",
+   "IDE",
+   "Origin",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🔴 Cursor is having a proper one. This is not your code.",
+  "id": "cursor:2bw21tcjqzg6:opened:investigating:critical:2026-09-15T21:28:14.546000+00:00",
+  "impact": "critical",
+  "incident_id": "2bw21tcjqzg6",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-15T21:30:42.782776+00:00",
+  "started_at": "2026-09-15T21:26:49.060000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation",
+  "transition": "opened",
+  "url": "https://stspg.io/wph5l6zb4lz7"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [],
   "duration": "49 min",
