@@ -145,8 +145,8 @@
   "anthropic:6304r9jjhj34": {
    "impact": "major",
    "last_seen_at": "2026-09-15T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-15T10:50:26.414000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-15T11:14:44.396000+00:00"
   },
   "anthropic:6h7589wl6l45": {
    "impact": "minor",
@@ -2492,7 +2492,7 @@
    "impact": "minor",
    "last_seen_at": "2026-09-15T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-09-15T10:32:25.738000+00:00"
+   "updated_at": "2026-09-15T11:09:33.871000+00:00"
   },
   "github:r05vk75c594j": {
    "impact": "minor",
