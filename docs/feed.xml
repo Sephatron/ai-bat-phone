@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub: Disruption with some GitHub services]]></title>
+<link>https://stspg.io/6pn81yd1x4hz</link>
+<guid isPermaLink='false'>github:qwdwmtqghpk5:progress:investigating:minor:2026-09-15T10:20:13.629000+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 10:30:41 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Tue, 15 Sep 2026 09:47:15 +0000</p><p>Copilot AI Model Providers is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/6pn81yd1x4hz">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/x1qpycpg6ln7</link>
 <guid isPermaLink='false'>anthropic:6304r9jjhj34:opened:investigating:major:2026-09-15T09:52:34.432000+00:00</guid>

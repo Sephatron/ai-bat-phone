@@ -1,5 +1,25 @@
 [
  {
+  "body": "Copilot AI Model Providers is experiencing degraded performance. We are continuing to investigate.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub: Disruption with some GitHub services",
+  "id": "github:qwdwmtqghpk5:progress:investigating:minor:2026-09-15T10:20:13.629000+00:00",
+  "impact": "minor",
+  "incident_id": "qwdwmtqghpk5",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-15T10:30:41.308977+00:00",
+  "started_at": "2026-09-15T09:47:15.085000+00:00",
+  "status": "investigating",
+  "title": "Disruption with some GitHub services",
+  "transition": "progress",
+  "url": "https://stspg.io/6pn81yd1x4hz"
+ },
+ {
   "body": "We are investigating elevated errors on requests to Claude Mythos 5.1 and Claude Fable 5.1. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
