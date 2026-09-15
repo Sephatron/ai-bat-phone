@@ -1,5 +1,31 @@
 [
  {
+  "body": "This incident has been resolved at 6pm Eastern.",
+  "components": [
+   "Automations",
+   "Review Agents",
+   "CLI",
+   "Cloud Agents",
+   "IDE",
+   "Origin",
+   "Grok Bot"
+  ],
+  "duration": "33 min",
+  "headline": "🟢 Cursor is fine again",
+  "id": "cursor:2bw21tcjqzg6:resolved:resolved:minor:2026-09-15T22:00:04.391000+00:00",
+  "impact": "minor",
+  "incident_id": "2bw21tcjqzg6",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-15T22:15:40.935088+00:00",
+  "started_at": "2026-09-15T21:26:49.060000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation",
+  "transition": "resolved",
+  "url": "https://stspg.io/wph5l6zb4lz7"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring for service restoration. Only Grok 4.6 (non-fast) is affected in Cursor.",
   "components": [
    "Automations",
