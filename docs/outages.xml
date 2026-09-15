@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/6pn81yd1x4hz</link>
+<guid isPermaLink='false'>github:qwdwmtqghpk5:resolved:resolved:minor:2026-09-15T11:17:22.054000+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 11:30:44 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 1h 30m · Opened: Tue, 15 Sep 2026 09:47:15 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/6pn81yd1x4hz">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Claude after 1h 26m]]></title>
 <link>https://stspg.io/x1qpycpg6ln7</link>
 <guid isPermaLink='false'>anthropic:6304r9jjhj34:resolved:resolved:major:2026-09-15T11:14:44.396000+00:00</guid>

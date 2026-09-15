@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "1h 30m",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:qwdwmtqghpk5:resolved:resolved:minor:2026-09-15T11:17:22.054000+00:00",
+  "impact": "minor",
+  "incident_id": "qwdwmtqghpk5",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-15T11:30:44.538815+00:00",
+  "started_at": "2026-09-15T09:47:15.085000+00:00",
+  "status": "resolved",
+  "title": "Disruption with some GitHub services",
+  "transition": "resolved",
+  "url": "https://stspg.io/6pn81yd1x4hz"
+ },
+ {
   "body": "A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.",
   "components": [
    "claude.ai",
