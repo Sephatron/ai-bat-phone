@@ -1223,10 +1223,10 @@
    "updated_at": "2026-09-03T19:21:13.907000+00:00"
   },
   "cursor:2bw21tcjqzg6": {
-   "impact": "critical",
+   "impact": "minor",
    "last_seen_at": "2026-09-15T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-15T21:28:14.546000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-15T21:44:37.065000+00:00"
   },
   "cursor:3tkszvmnqz7c": {
    "impact": "minor",
