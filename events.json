@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating reports of impacted performance for some GitHub services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is a bit under the weather",
+  "id": "github:bk7zgdcq7s9t:opened:investigating:minor:2026-09-15T19:11:31.400000+00:00",
+  "impact": "minor",
+  "incident_id": "bk7zgdcq7s9t",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-15T19:30:41.842551+00:00",
+  "started_at": "2026-09-15T19:11:31.334000+00:00",
+  "status": "investigating",
+  "title": "Disruption with some GitHub services",
+  "transition": "opened",
+  "url": "https://stspg.io/tbh60vgxfxj6"
+ },
+ {
   "body": "This issue has been resolved and sign-in, publishing, and other account actions are working normally again. If you were affected, reload the page to pick up the fix.",
   "components": [],
   "duration": "1h 12m",

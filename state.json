@@ -2290,6 +2290,12 @@
    "status": "resolved",
    "updated_at": "2026-08-25T16:34:14.981000+00:00"
   },
+  "github:bk7zgdcq7s9t": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-15T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-15T19:11:31.400000+00:00"
+  },
   "github:bmpybhnrky3x": {
    "impact": "minor",
    "last_seen_at": "2026-09-15T00:00:00+00:00",
