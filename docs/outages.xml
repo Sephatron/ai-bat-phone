@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Baseten thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/zgqtvb6hfnjb</link>
+<guid isPermaLink='false'>baseten:hpfyy75qvv4x:progress:monitoring:minor:2026-09-15T01:39:27.608000+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 01:45:38 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for models in a single India-based cluster</strong></p><p>Impact: minor · Status: monitoring · Affects: Dedicated Inference · Opened: Tue, 15 Sep 2026 01:22:38 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/zgqtvb6hfnjb">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
 <link>https://stspg.io/zgqtvb6hfnjb</link>
 <guid isPermaLink='false'>baseten:hpfyy75qvv4x:opened:investigating:minor:2026-09-15T01:22:38.786000+00:00</guid>
