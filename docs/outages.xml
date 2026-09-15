@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
+<link>https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA</link>
+<guid isPermaLink='false'>openai:01M2HYH64J2CZMZ63HEV2FCQFA:opened:investigating:minor:2026-09-15T07:12:04+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 07:15:47 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 15 Sep 2026 07:12:04 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P</link>
+<guid isPermaLink='false'>fireworks:01M2HXY4B0RJ19P2H7VPT3TG5P:opened:investigating:none:2026-09-15T07:01:40+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 07:15:47 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 15 Sep 2026 07:01:40 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR</link>
 <guid isPermaLink='false'>fireworks:01M2HJCVXAHZ975EXQ6XQD8QXR:resolved:resolved:minor:2026-09-15T03:54:21+00:00</guid>
