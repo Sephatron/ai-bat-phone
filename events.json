@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Dedicated Inference"
+  ],
+  "duration": "44 min",
+  "headline": "🟢 Baseten sorted itself out after 44 min",
+  "id": "baseten:hpfyy75qvv4x:resolved:resolved:minor:2026-09-15T02:07:38.244000+00:00",
+  "impact": "minor",
+  "incident_id": "hpfyy75qvv4x",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-15T02:15:40.716834+00:00",
+  "started_at": "2026-09-15T01:22:38.717000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for models in a single India-based cluster",
+  "transition": "resolved",
+  "url": "https://stspg.io/zgqtvb6hfnjb"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring the results.",
   "components": [
    "Dedicated Inference"
