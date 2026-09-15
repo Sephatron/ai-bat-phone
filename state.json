@@ -1,23 +1,17 @@
 {
- "heartbeat": "2026-09-15T14:00:00+00:00",
+ "heartbeat": "2026-09-15T15:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-09-15T14:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-15T14:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cerebras": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-09-15T14:00:00+00:00",
-   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cohere": {
    "consecutive_failures": 0
@@ -72,9 +66,7 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-15T14:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
