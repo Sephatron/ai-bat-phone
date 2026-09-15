@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "41 min",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M2HYH64J2CZMZ63HEV2FCQFA:resolved:resolved:minor:2026-09-15T07:53:36+00:00",
+  "impact": "minor",
+  "incident_id": "01M2HYH64J2CZMZ63HEV2FCQFA",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-15T08:00:48.085328+00:00",
+  "started_at": "2026-09-15T07:12:04+00:00",
+  "status": "resolved",
+  "title": "Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
