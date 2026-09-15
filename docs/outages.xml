@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 15 Sep 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from DeepSeek]]></title>
+<link>https://status.deepseek.com/incidents/6985247573287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:6985247573287:opened:investigating:minor:2026-09-15T09:00:51.984997+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 09:00:51 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: investigating · Affects: DeepSeek V4.1 Flash API服务(API Service) · Opened: Tue, 15 Sep 2026 08:55:34 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/6985247573287">DeepSeek status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA</link>

@@ -1,5 +1,25 @@
 [
  {
+  "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service)",
+  "components": [
+   "DeepSeek V4.1 Flash API服务(API Service)"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from DeepSeek",
+  "id": "deepseek:urn:flashduty:change:6985247573287:opened:investigating:minor:2026-09-15T09:00:51.984997+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:6985247573287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-09-15T09:00:51.984997+00:00",
+  "started_at": "2026-09-15T08:55:34+00:00",
+  "status": "investigating",
+  "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
+  "transition": "opened",
+  "url": "https://status.deepseek.com/incidents/6985247573287"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "41 min",
