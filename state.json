@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-15T09:00:00+00:00",
+ "heartbeat": "2026-09-15T10:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -141,6 +141,12 @@
    "last_seen_at": "2026-09-15T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-02T01:24:22.264000+00:00"
+  },
+  "anthropic:6304r9jjhj34": {
+   "impact": "major",
+   "last_seen_at": "2026-09-15T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-15T09:52:34.432000+00:00"
   },
   "anthropic:6h7589wl6l45": {
    "impact": "minor",
@@ -2481,6 +2487,12 @@
    "last_seen_at": "2026-09-15T00:00:00+00:00",
    "status": "completed",
    "updated_at": "2022-03-25T15:01:54.059000+00:00"
+  },
+  "github:qwdwmtqghpk5": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-15T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-09-15T09:48:04.118000+00:00"
   },
   "github:r05vk75c594j": {
    "impact": "minor",

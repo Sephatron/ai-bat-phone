@@ -1,5 +1,46 @@
 [
  {
+  "body": "We are investigating elevated errors on requests to Claude Mythos 5.1 and Claude Fable 5.1. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔴 Claude is out. Go and look at a tree.",
+  "id": "anthropic:6304r9jjhj34:opened:investigating:major:2026-09-15T09:52:34.432000+00:00",
+  "impact": "major",
+  "incident_id": "6304r9jjhj34",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-15T10:00:47.126987+00:00",
+  "started_at": "2026-09-15T09:48:23.066000+00:00",
+  "status": "investigating",
+  "title": "Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1",
+  "transition": "opened",
+  "url": "https://stspg.io/x1qpycpg6ln7"
+ },
+ {
+  "body": "We are investigating degraded availability for Claude Fable 5.1, affecting some Copilot products and integrated development environments. The issue is caused by a problem with our upstream model provider. Customers can use another model or select Auto while we investigate.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:qwdwmtqghpk5:opened:monitoring:minor:2026-09-15T09:48:04.118000+00:00",
+  "impact": "minor",
+  "incident_id": "qwdwmtqghpk5",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-15T10:00:47.126987+00:00",
+  "started_at": "2026-09-15T09:47:15.085000+00:00",
+  "status": "monitoring",
+  "title": "Disruption with some GitHub services",
+  "transition": "opened",
+  "url": "https://stspg.io/6pn81yd1x4hz"
+ },
+ {
   "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service)",
   "components": [
    "DeepSeek V4.1 Flash API服务(API Service)"

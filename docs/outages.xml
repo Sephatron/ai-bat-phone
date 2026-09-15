@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 15 Sep 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
+<link>https://stspg.io/x1qpycpg6ln7</link>
+<guid isPermaLink='false'>anthropic:6304r9jjhj34:opened:investigating:major:2026-09-15T09:52:34.432000+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 10:00:47 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 15 Sep 2026 09:48:23 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1 and Claude Fable 5.1. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/x1qpycpg6ln7">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/6pn81yd1x4hz</link>
+<guid isPermaLink='false'>github:qwdwmtqghpk5:opened:monitoring:minor:2026-09-15T09:48:04.118000+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 10:00:47 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 15 Sep 2026 09:47:15 +0000</p><p>We are investigating degraded availability for Claude Fable 5.1, affecting some Copilot products and integrated development environments. The issue is caused by a problem with our upstream model provider. Customers can use another model or select Auto while we investigate.</p><p><a href="https://stspg.io/6pn81yd1x4hz">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
 <link>https://status.deepseek.com/incidents/6985247573287</link>
