@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
+<link>https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR</link>
+<guid isPermaLink='false'>fireworks:01M2HJCVXAHZ975EXQ6XQD8QXR:opened:investigating:minor:2026-09-15T03:40:00+00:00</guid>
+<pubDate>Tue, 15 Sep 2026 03:45:41 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 15 Sep 2026 03:40:00 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5</link>
 <guid isPermaLink='false'>openai:01M2GA8XTS6VB3QCDEGZ0HNAQ5:resolved:resolved:minor:2026-09-15T03:11:36+00:00</guid>
