@@ -2,7 +2,7 @@
  "heartbeat": "2026-09-15T14:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "failing_since": "2026-09-15T14:00:00+00:00",
    "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
@@ -10,10 +10,12 @@
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-15T14:00:00+00:00",
+   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
   },
   "cerebras": {
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "failing_since": "2026-09-15T14:00:00+00:00",
    "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
   },
@@ -64,15 +66,15 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-15T14:00:00+00:00",
-   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "vercel": {
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-15T14:00:00+00:00",
+   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
   }
  },
  "seen": {
@@ -2119,8 +2121,8 @@
   "fireworks:01M2JMD4CSWG5K2Z0FQ0JCP3V3": {
    "impact": "none",
    "last_seen_at": "2026-09-15T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-15T13:34:20+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-15T14:38:11+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
