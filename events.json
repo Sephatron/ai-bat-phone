@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "50 min",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M2NRHTYAM3K3M93X1D068MCY:resolved:resolved:minor:2026-09-16T19:34:36+00:00",
+  "impact": "minor",
+  "incident_id": "01M2NRHTYAM3K3M93X1D068MCY",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-16T19:45:28.236071+00:00",
+  "started_at": "2026-09-16T18:44:32+00:00",
+  "status": "resolved",
+  "title": "Elevated errors in ChatGPT Work",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
