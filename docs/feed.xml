@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 16 Sep 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude has stopped wobbling]]></title>
+<link>https://stspg.io/wzwyxh4x9t39</link>
+<guid isPermaLink='false'>anthropic:t8fpw9vcshl9:resolved:resolved:none:2026-09-16T16:51:09.034000+00:00</guid>
+<pubDate>Wed, 16 Sep 2026 17:01:00 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Issues with Google Play subscriptions</strong></p><p>Impact: unclassified · Status: resolved · Duration: 32 min · Opened: Wed, 16 Sep 2026 16:18:10 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/wzwyxh4x9t39">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Claude knows what it did]]></title>
 <link>https://stspg.io/wzwyxh4x9t39</link>

@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-16T16:00:00+00:00",
+ "heartbeat": "2026-09-16T17:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -49,7 +49,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
   },
   "perplexity": {
    "consecutive_failures": 3,
@@ -367,8 +367,8 @@
   "anthropic:t8fpw9vcshl9": {
    "impact": "none",
    "last_seen_at": "2026-09-16T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-16T16:18:10.779000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-16T16:51:09.034000+00:00"
   },
   "anthropic:vcynh9cf33xp": {
    "impact": "critical",
@@ -4683,6 +4683,12 @@
    "last_seen_at": "2026-09-16T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-17T00:42:10.609000+00:00"
+  },
+  "vercel:w1jqw8bwk6xc": {
+   "impact": "none",
+   "last_seen_at": "2026-09-16T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-16T16:58:36.356000+00:00"
   },
   "vercel:w8r0qkm97p1c": {
    "impact": "major",
