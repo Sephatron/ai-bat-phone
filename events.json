@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M2KQNE5C42NEZPX6V01NHH5W:opened:monitoring:major:2026-09-15T23:58:30+00:00",
+  "impact": "major",
+  "incident_id": "01M2KQNE5C42NEZPX6V01NHH5W",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-16T00:00:42.092373+00:00",
+  "started_at": "2026-09-15T23:50:32+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors with gpt-image-2.5-flare",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W"
+ },
+ {
   "body": "This incident has been resolved at 6pm Eastern.",
   "components": [
    "Automations",
