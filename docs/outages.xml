@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/j2xb74dqwdrx</link>
+<guid isPermaLink='false'>cursor:p463n7yf5fq9:opened:monitoring:minor:2026-09-16T08:09:29.308000+00:00</guid>
+<pubDate>Wed, 16 Sep 2026 08:15:43 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: CLI, IDE · Opened: Wed, 16 Sep 2026 08:03:00 +0000</p><p>A fix has been implemented. We are monitoring recovery and will provide another update once the incident is fully resolved.</p><p><a href="https://stspg.io/j2xb74dqwdrx">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 GitHub is having a proper one. This is not your code.]]></title>
 <link>https://stspg.io/hsjy12f57b24</link>
 <guid isPermaLink='false'>github:nlxnbqnkdzdl:opened:investigating:major:2026-09-16T07:21:00.057000+00:00</guid>
