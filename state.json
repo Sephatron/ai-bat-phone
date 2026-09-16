@@ -49,7 +49,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
   },
   "perplexity": {
    "consecutive_failures": 3,
@@ -363,6 +363,12 @@
    "last_seen_at": "2026-09-16T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-11T14:37:11.168000+00:00"
+  },
+  "anthropic:t8fpw9vcshl9": {
+   "impact": "none",
+   "last_seen_at": "2026-09-16T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-09-16T16:18:10.779000+00:00"
   },
   "anthropic:vcynh9cf33xp": {
    "impact": "critical",
