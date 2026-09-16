@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating reports of degraded availability for Copilot AI Model Providers",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "🔴 GitHub is having a proper one. This is not your code.",
+  "id": "github:nlxnbqnkdzdl:opened:investigating:major:2026-09-16T07:21:00.057000+00:00",
+  "impact": "major",
+  "incident_id": "nlxnbqnkdzdl",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-16T07:30:46.691220+00:00",
+  "started_at": "2026-09-16T07:20:59.972000+00:00",
+  "status": "investigating",
+  "title": "Degradation with Gemini 3.8 Flash",
+  "transition": "opened",
+  "url": "https://stspg.io/hsjy12f57b24"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "40 min",
