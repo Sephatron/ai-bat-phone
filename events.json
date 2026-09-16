@@ -1,5 +1,44 @@
 [
  {
+  "body": "Some users are seeing previews and builds fail to start. Retrying usually works, but it may take longer than normal. Our team is working on restoring full capacity.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 Lovable has downed tools — and so, probably, have you",
+  "id": "lovable:01M2MP2K6Q2BCS3BNZ2BCBP91K:opened:investigating:major:2026-09-16T08:42:01+00:00",
+  "impact": "major",
+  "incident_id": "01M2MP2K6Q2BCS3BNZ2BCBP91K",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-16T08:45:42.956443+00:00",
+  "started_at": "2026-09-16T08:42:01+00:00",
+  "status": "investigating",
+  "title": "Previews and builds failing to start",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "CLI",
+   "IDE"
+  ],
+  "duration": "39 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:p463n7yf5fq9:resolved:resolved:minor:2026-09-16T08:42:49.057000+00:00",
+  "impact": "minor",
+  "incident_id": "p463n7yf5fq9",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-16T08:45:42.956443+00:00",
+  "started_at": "2026-09-16T08:03:00.210000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation",
+  "transition": "resolved",
+  "url": "https://stspg.io/j2xb74dqwdrx"
+ },
+ {
   "body": "A fix has been implemented. We are monitoring recovery and will provide another update once the incident is fully resolved.",
   "components": [
    "CLI",
