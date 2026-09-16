@@ -3619,8 +3619,8 @@
   "openai:01M2KQNE5C42NEZPX6V01NHH5W": {
    "impact": "major",
    "last_seen_at": "2026-09-16T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-15T23:58:30+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-16T00:30:48+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

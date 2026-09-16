@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is upright again. That took 40 min.]]></title>
+<link>https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W</link>
+<guid isPermaLink='false'>openai:01M2KQNE5C42NEZPX6V01NHH5W:resolved:resolved:major:2026-09-16T00:30:48+00:00</guid>
+<pubDate>Wed, 16 Sep 2026 00:45:39 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with gpt-image-2.5-flare</strong></p><p>Impact: major · Status: resolved · Duration: 40 min · Opened: Tue, 15 Sep 2026 23:50:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W</link>
 <guid isPermaLink='false'>openai:01M2KQNE5C42NEZPX6V01NHH5W:opened:monitoring:major:2026-09-15T23:58:30+00:00</guid>

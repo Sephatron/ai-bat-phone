@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "40 min",
+  "headline": "🟢 OpenAI is upright again. That took 40 min.",
+  "id": "openai:01M2KQNE5C42NEZPX6V01NHH5W:resolved:resolved:major:2026-09-16T00:30:48+00:00",
+  "impact": "major",
+  "incident_id": "01M2KQNE5C42NEZPX6V01NHH5W",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-16T00:45:39.278568+00:00",
+  "started_at": "2026-09-15T23:50:32+00:00",
+  "status": "resolved",
+  "title": "Elevated errors with gpt-image-2.5-flare",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
