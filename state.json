@@ -3019,8 +3019,8 @@
   "lovable:01M2MP2K6Q2BCS3BNZ2BCBP91K": {
    "impact": "major",
    "last_seen_at": "2026-09-16T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-16T08:42:01+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-16T09:07:55+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",

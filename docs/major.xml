@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from Lovable after 25 min]]></title>
+<link>https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K</link>
+<guid isPermaLink='false'>lovable:01M2MP2K6Q2BCS3BNZ2BCBP91K:resolved:resolved:major:2026-09-16T09:07:55+00:00</guid>
+<pubDate>Wed, 16 Sep 2026 09:15:42 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Previews and builds failing to start</strong></p><p>Impact: major · Status: resolved · Duration: 25 min · Opened: Wed, 16 Sep 2026 08:42:01 +0000</p><p>The issue has been resolved and Lovable is fully functional again.</p><p><a href="https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Lovable has downed tools — and so, probably, have you]]></title>
 <link>https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K</link>
 <guid isPermaLink='false'>lovable:01M2MP2K6Q2BCS3BNZ2BCBP91K:opened:investigating:major:2026-09-16T08:42:01+00:00</guid>
