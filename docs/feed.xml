@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
+<link>https://stspg.io/d92scb2t3t41</link>
+<guid isPermaLink='false'>cursor:37hs7jj05wkx:opened:investigating:major:2026-09-16T14:27:16.878000+00:00</guid>
+<pubDate>Wed, 16 Sep 2026 14:30:59 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Grok Bot · Opened: Wed, 16 Sep 2026 14:27:16 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.</p><p><a href="https://stspg.io/d92scb2t3t41">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
 <link>https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13</link>
 <guid isPermaLink='false'>lovable:01M2N0PMC65HT3W99GQGYYZM13:resolved:resolved:minor:2026-09-16T12:10:39+00:00</guid>
