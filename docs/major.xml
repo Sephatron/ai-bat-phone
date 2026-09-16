@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 16 Sep 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from GitHub after 10h 27m]]></title>
+<link>https://stspg.io/hsjy12f57b24</link>
+<guid isPermaLink='false'>github:nlxnbqnkdzdl:resolved:resolved:major:2026-09-16T17:48:49.262000+00:00</guid>
+<pubDate>Wed, 16 Sep 2026 18:00:44 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: resolved · Affects: Copilot AI Model Providers · Duration: 10h 27m · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
 <link>https://stspg.io/d92scb2t3t41</link>
