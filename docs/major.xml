@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 16 Sep 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/hsjy12f57b24</link>
+<guid isPermaLink='false'>github:nlxnbqnkdzdl:progress:monitoring:major:2026-09-16T11:45:34.383000+00:00</guid>
+<pubDate>Wed, 16 Sep 2026 12:01:00 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 All clear from Lovable after 25 min]]></title>
 <link>https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K</link>

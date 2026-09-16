@@ -1,5 +1,43 @@
 [
  {
+  "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:nlxnbqnkdzdl:progress:monitoring:major:2026-09-16T11:45:34.383000+00:00",
+  "impact": "major",
+  "incident_id": "nlxnbqnkdzdl",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-16T12:01:00.311755+00:00",
+  "started_at": "2026-09-16T07:20:59.972000+00:00",
+  "status": "monitoring",
+  "title": "Degradation with Gemini 3.8 Flash",
+  "transition": "progress",
+  "url": "https://stspg.io/hsjy12f57b24"
+ },
+ {
+  "body": "> Some users are currently seeing errors when building or editing their projects. We have identified the issue and our team is actively working on a fix. We will post an update as soon as more information is available.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable has a limp, not a break",
+  "id": "lovable:01M2N0PMC65HT3W99GQGYYZM13:opened:investigating:minor:2026-09-16T11:47:43+00:00",
+  "impact": "minor",
+  "incident_id": "01M2N0PMC65HT3W99GQGYYZM13",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-16T12:01:00.311755+00:00",
+  "started_at": "2026-09-16T11:47:43+00:00",
+  "status": "investigating",
+  "title": "Builds failing for some users",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13"
+ },
+ {
   "body": "The issue has been resolved and Lovable is fully functional again.",
   "components": [],
   "duration": "25 min",
