@@ -1,5 +1,23 @@
 [
  {
+  "body": "This issue has been resolved. Builds and edits are working normally again. If you are still seeing errors, please try reloading the page.",
+  "components": [],
+  "duration": "22 min",
+  "headline": "🟢 Lovable has stopped wobbling",
+  "id": "lovable:01M2N0PMC65HT3W99GQGYYZM13:resolved:resolved:minor:2026-09-16T12:10:39+00:00",
+  "impact": "minor",
+  "incident_id": "01M2N0PMC65HT3W99GQGYYZM13",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-16T12:15:59.712157+00:00",
+  "started_at": "2026-09-16T11:47:43+00:00",
+  "status": "resolved",
+  "title": "Builds failing for some users",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13"
+ },
+ {
   "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Copilot AI Model Providers"

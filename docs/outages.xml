@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
+<link>https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13</link>
+<guid isPermaLink='false'>lovable:01M2N0PMC65HT3W99GQGYYZM13:resolved:resolved:minor:2026-09-16T12:10:39+00:00</guid>
+<pubDate>Wed, 16 Sep 2026 12:15:59 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Builds failing for some users</strong></p><p>Impact: minor · Status: resolved · Duration: 22 min · Opened: Wed, 16 Sep 2026 11:47:43 +0000</p><p>This issue has been resolved. Builds and edits are working normally again. If you are still seeing errors, please try reloading the page.</p><p><a href="https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/hsjy12f57b24</link>
 <guid isPermaLink='false'>github:nlxnbqnkdzdl:progress:monitoring:major:2026-09-16T11:45:34.383000+00:00</guid>
