@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 17 Sep 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
+<link>https://stspg.io/t938cy7649sn</link>
+<guid isPermaLink='false'>github:nvy2q96mcmyg:opened:investigating:minor:2026-09-17T20:59:02.131000+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 21:00:28 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Elevated rate of errors for OpenAI models provided by Copilot</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Thu, 17 Sep 2026 20:59:02 +0000</p><p>We are investigating reports of degraded performance for Copilot AI Model Providers</p><p><a href="https://stspg.io/t938cy7649sn">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Replit is a bit under the weather]]></title>
 <link>https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8</link>

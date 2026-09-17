@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Copilot AI Model Providers",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from GitHub",
+  "id": "github:nvy2q96mcmyg:opened:investigating:minor:2026-09-17T20:59:02.131000+00:00",
+  "impact": "minor",
+  "incident_id": "nvy2q96mcmyg",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-17T21:00:28.754813+00:00",
+  "started_at": "2026-09-17T20:59:02.067000+00:00",
+  "status": "investigating",
+  "title": "Elevated rate of errors for OpenAI models provided by Copilot",
+  "transition": "opened",
+  "url": "https://stspg.io/t938cy7649sn"
+ },
+ {
   "body": "[Investigating] We are investigating degraded agent performance due to increase in errors from our upstream model providers.",
   "components": [],
   "duration": "",
