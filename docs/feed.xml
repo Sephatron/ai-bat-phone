@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 17 Sep 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP</link>
+<guid isPermaLink='false'>fireworks:01M2Q1HRQY7815YTYWK9D0AQPP:resolved:resolved:minor:2026-09-17T06:53:20+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 07:00:48 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.2 US</strong></p><p>Impact: minor · Status: resolved · Duration: 12 min · Opened: Thu, 17 Sep 2026 06:41:01 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP</link>
