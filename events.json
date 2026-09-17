@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are still implementing the mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M2RC0WHGTX8EHDH7D60JJ7FC:progress:identified:major:2026-09-17T19:57:22+00:00",
+  "impact": "major",
+  "incident_id": "01M2RC0WHGTX8EHDH7D60JJ7FC",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-17T20:00:34.218340+00:00",
+  "started_at": "2026-09-17T19:03:17+00:00",
+  "status": "identified",
+  "title": "Elevated errors affecting ChatGPT Work mode",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
+ },
+ {
   "body": "We are investigating the issue for the listed services. Some users may experience failures when starting or running Work tasks.",
   "components": [],
   "duration": "",
