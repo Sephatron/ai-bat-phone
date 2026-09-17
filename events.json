@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "Review Agents",
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "4h 44m",
+  "headline": "🟢 Cursor is fine again",
+  "id": "cursor:jdm0j510q78b:resolved:resolved:minor:2026-09-17T20:04:04.933000+00:00",
+  "impact": "minor",
+  "incident_id": "jdm0j510q78b",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-17T20:15:30.254604+00:00",
+  "started_at": "2026-09-17T15:20:00+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Cloud Agents and Automations",
+  "transition": "resolved",
+  "url": "https://stspg.io/tvp74wjvjbgg"
+ },
+ {
   "body": "We are still implementing the mitigation.",
   "components": [],
   "duration": "",

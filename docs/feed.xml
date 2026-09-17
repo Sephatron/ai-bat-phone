@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is fine again]]></title>
+<link>https://stspg.io/tvp74wjvjbgg</link>
+<guid isPermaLink='false'>cursor:jdm0j510q78b:resolved:resolved:minor:2026-09-17T20:04:04.933000+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 20:15:30 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Automations</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, Cloud Agents, Grok Bot · Duration: 4h 44m · Opened: Thu, 17 Sep 2026 15:20:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/tvp74wjvjbgg">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
 <link>https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC</link>
 <guid isPermaLink='false'>openai:01M2RC0WHGTX8EHDH7D60JJ7FC:progress:identified:major:2026-09-17T19:57:22+00:00</guid>
