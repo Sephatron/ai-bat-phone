@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are investigating a service degradation affecting Cloud Agents and Grok Bot.",
+  "components": [
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🔴 Cursor is out. Go and look at a tree.",
+  "id": "cursor:jdm0j510q78b:opened:investigating:critical:2026-09-17T15:20:59.594000+00:00",
+  "impact": "critical",
+  "incident_id": "jdm0j510q78b",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-17T15:30:46.888386+00:00",
+  "started_at": "2026-09-17T15:20:59.475000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
+  "transition": "opened",
+  "url": "https://stspg.io/tvp74wjvjbgg"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Grok Bot"

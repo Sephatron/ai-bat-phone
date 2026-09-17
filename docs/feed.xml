@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Cursor is out. Go and look at a tree.]]></title>
+<link>https://stspg.io/tvp74wjvjbgg</link>
+<guid isPermaLink='false'>cursor:jdm0j510q78b:opened:investigating:critical:2026-09-17T15:20:59.594000+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 15:30:46 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: critical · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Thu, 17 Sep 2026 15:20:59 +0000</p><p>We are investigating a service degradation affecting Cloud Agents and Grok Bot.</p><p><a href="https://stspg.io/tvp74wjvjbgg">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/46vyl26p4fbz</link>
 <guid isPermaLink='false'>cursor:lqp75t47dvpm:resolved:resolved:major:2026-09-17T14:34:44.105000+00:00</guid>
