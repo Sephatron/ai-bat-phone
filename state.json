@@ -3706,6 +3706,12 @@
    "status": "resolved",
    "updated_at": "2026-09-17T20:24:45+00:00"
   },
+  "openai:01M2RMCS2HVBXGBFKEZ9RZR4FA": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-17T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-09-17T21:29:35+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",
