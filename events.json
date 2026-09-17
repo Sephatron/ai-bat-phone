@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1h 21m",
+  "headline": "🟢 OpenAI lives. Pick your tools back up.",
+  "id": "openai:01M2RC0WHGTX8EHDH7D60JJ7FC:resolved:resolved:major:2026-09-17T20:24:45+00:00",
+  "impact": "major",
+  "incident_id": "01M2RC0WHGTX8EHDH7D60JJ7FC",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-17T20:30:24.516241+00:00",
+  "started_at": "2026-09-17T19:03:17+00:00",
+  "status": "resolved",
+  "title": "Elevated errors affecting ChatGPT Work mode",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",

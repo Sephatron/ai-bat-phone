@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI lives. Pick your tools back up.]]></title>
+<link>https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC</link>
+<guid isPermaLink='false'>openai:01M2RC0WHGTX8EHDH7D60JJ7FC:resolved:resolved:major:2026-09-17T20:24:45+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 20:30:24 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work mode</strong></p><p>Impact: major · Status: resolved · Duration: 1h 21m · Opened: Thu, 17 Sep 2026 19:03:17 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is fine again]]></title>
 <link>https://stspg.io/tvp74wjvjbgg</link>
 <guid isPermaLink='false'>cursor:jdm0j510q78b:resolved:resolved:minor:2026-09-17T20:04:04.933000+00:00</guid>
