@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-17T21:00:00+00:00",
+ "heartbeat": "2026-09-17T22:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -2531,8 +2531,8 @@
   "github:nvy2q96mcmyg": {
    "impact": "minor",
    "last_seen_at": "2026-09-17T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-17T21:39:28.950000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-17T21:49:01.441000+00:00"
   },
   "github:nwjwwhj118sf": {
    "impact": "maintenance",
@@ -3707,8 +3707,8 @@
   "openai:01M2RMCS2HVBXGBFKEZ9RZR4FA": {
    "impact": "minor",
    "last_seen_at": "2026-09-17T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-17T21:31:05+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-17T21:50:36+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

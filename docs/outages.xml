@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 17 Sep 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub is fine again]]></title>
+<link>https://stspg.io/t938cy7649sn</link>
+<guid isPermaLink='false'>github:nvy2q96mcmyg:resolved:resolved:minor:2026-09-17T21:49:01.441000+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 22:00:23 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Elevated rate of errors for OpenAI models provided by Copilot</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 49 min · Opened: Thu, 17 Sep 2026 20:59:02 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/t938cy7649sn">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA</link>
+<guid isPermaLink='false'>openai:01M2RMCS2HVBXGBFKEZ9RZR4FA:resolved:resolved:minor:2026-09-17T21:50:36+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 22:00:23 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>We are seeing elevated error rates across API models</strong></p><p>Impact: minor · Status: resolved · Duration: 21 min · Opened: Thu, 17 Sep 2026 21:29:35 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
 <link>https://status.perplexity.com</link>

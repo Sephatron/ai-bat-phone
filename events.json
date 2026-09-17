@@ -1,5 +1,43 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "49 min",
+  "headline": "🟢 GitHub is fine again",
+  "id": "github:nvy2q96mcmyg:resolved:resolved:minor:2026-09-17T21:49:01.441000+00:00",
+  "impact": "minor",
+  "incident_id": "nvy2q96mcmyg",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-17T22:00:23.515198+00:00",
+  "started_at": "2026-09-17T20:59:02.067000+00:00",
+  "status": "resolved",
+  "title": "Elevated rate of errors for OpenAI models provided by Copilot",
+  "transition": "resolved",
+  "url": "https://stspg.io/t938cy7649sn"
+ },
+ {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "21 min",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M2RMCS2HVBXGBFKEZ9RZR4FA:resolved:resolved:minor:2026-09-17T21:50:36+00:00",
+  "impact": "minor",
+  "incident_id": "01M2RMCS2HVBXGBFKEZ9RZR4FA",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-17T22:00:23.515198+00:00",
+  "started_at": "2026-09-17T21:29:35+00:00",
+  "status": "resolved",
+  "title": "We are seeing elevated error rates across API models",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",
