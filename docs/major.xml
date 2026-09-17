@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/tvp74wjvjbgg</link>
+<guid isPermaLink='false'>cursor:jdm0j510q78b:progress:monitoring:critical:2026-09-17T18:12:05.080000+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 18:15:27 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Automations</strong></p><p>Impact: critical · Status: monitoring · Affects: Automations, Review Agents, Cloud Agents · Opened: Thu, 17 Sep 2026 15:20:00 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/tvp74wjvjbgg">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Cursor is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/tvp74wjvjbgg</link>
 <guid isPermaLink='false'>cursor:jdm0j510q78b:opened:investigating:critical:2026-09-17T15:20:59.594000+00:00</guid>

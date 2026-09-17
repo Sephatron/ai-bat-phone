@@ -1,5 +1,27 @@
 [
  {
+  "body": "A fix has been implemented and we are monitoring for service restoration.",
+  "components": [
+   "Automations",
+   "Review Agents",
+   "Cloud Agents"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
+  "id": "cursor:jdm0j510q78b:progress:monitoring:critical:2026-09-17T18:12:05.080000+00:00",
+  "impact": "critical",
+  "incident_id": "jdm0j510q78b",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-17T18:15:27.162852+00:00",
+  "started_at": "2026-09-17T15:20:00+00:00",
+  "status": "monitoring",
+  "title": "Investigating service degradation — Cloud Agents and Automations",
+  "transition": "progress",
+  "url": "https://stspg.io/tvp74wjvjbgg"
+ },
+ {
   "body": "We are investigating a service degradation affecting Cloud Agents and Grok Bot.",
   "components": [
    "Cloud Agents",
