@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] We are investigating degraded agent performance due to increase in errors from our upstream model providers.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Replit is a bit under the weather",
+  "id": "replit:30f07068-73ff-46d7-8ac5-3fffed771fb8:opened:investigating:minor:2026-09-17T20:45:27.890579+00:00",
+  "impact": "minor",
+  "incident_id": "30f07068-73ff-46d7-8ac5-3fffed771fb8",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-09-17T20:45:27.890579+00:00",
+  "started_at": "2026-09-17T20:41:35+00:00",
+  "status": "investigating",
+  "title": "Degraded Agent Performance Due to Upstream Model Provider Errors",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "1h 21m",

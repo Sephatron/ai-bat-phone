@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Replit is a bit under the weather]]></title>
+<link>https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8</link>
+<guid isPermaLink='false'>replit:30f07068-73ff-46d7-8ac5-3fffed771fb8:opened:investigating:minor:2026-09-17T20:45:27.890579+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 20:45:27 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Degraded Agent Performance Due to Upstream Model Provider Errors</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 17 Sep 2026 20:41:35 +0000</p><p>[Investigating] We are investigating degraded agent performance due to increase in errors from our upstream model providers.</p><p><a href="https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI lives. Pick your tools back up.]]></title>
 <link>https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC</link>
 <guid isPermaLink='false'>openai:01M2RC0WHGTX8EHDH7D60JJ7FC:resolved:resolved:major:2026-09-17T20:24:45+00:00</guid>
