@@ -20,9 +20,7 @@
    "consecutive_failures": 0
   },
   "deepseek": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-17T19:00:00+00:00",
-   "last_error": "https://status.deepseek.com/history.rss returned HTTP 404"
+   "consecutive_failures": 0
   },
   "elevenlabs": {
    "consecutive_failures": 0
@@ -3695,6 +3693,12 @@
    "last_seen_at": "2026-09-17T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-16T19:34:36+00:00"
+  },
+  "openai:01M2RC0WHGTX8EHDH7D60JJ7FC": {
+   "impact": "major",
+   "last_seen_at": "2026-09-17T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-17T19:03:17+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

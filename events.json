@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for the listed services. Some users may experience failures when starting or running Work tasks.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 OpenAI has downed tools — and so, probably, have you",
+  "id": "openai:01M2RC0WHGTX8EHDH7D60JJ7FC:opened:investigating:major:2026-09-17T19:03:17+00:00",
+  "impact": "major",
+  "incident_id": "01M2RC0WHGTX8EHDH7D60JJ7FC",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-17T19:13:35.863156+00:00",
+  "started_at": "2026-09-17T19:03:17+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting ChatGPT Work mode",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring for service restoration.",
   "components": [
    "Automations",
