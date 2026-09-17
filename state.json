@@ -1385,10 +1385,10 @@
    "updated_at": "2026-09-01T18:40:29.620000+00:00"
   },
   "cursor:jdm0j510q78b": {
-   "impact": "critical",
+   "impact": "minor",
    "last_seen_at": "2026-09-17T00:00:00+00:00",
    "status": "monitoring",
-   "updated_at": "2026-09-17T18:12:05.080000+00:00"
+   "updated_at": "2026-09-17T18:38:16.268000+00:00"
   },
   "cursor:jvn3tt2zcqkw": {
    "impact": "minor",
