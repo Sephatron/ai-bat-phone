@@ -10,6 +10,38 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
+<link>https://status.perplexity.com</link>
+<guid isPermaLink='false'>meta:perplexity:recovered:2026-09-10T21:00:00+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/t938cy7649sn</link>
+<guid isPermaLink='false'>github:nvy2q96mcmyg:progress:monitoring:minor:2026-09-17T21:39:28.950000+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Elevated rate of errors for OpenAI models provided by Copilot</strong></p><p>Impact: minor · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Thu, 17 Sep 2026 20:59:02 +0000</p><p>We are experiencing degraded availability for GPT-5.6 Luna, GPT-5.6 Terra, GPT-5.6 Sol, GPT-6 Astra, GPT-5.3-Codex in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. The provider is working to mitigate the problem and we are monitoring recovery. We recommend choosing another model or selecting 'Auto' to continue using Copilot.</p><p><a href="https://stspg.io/t938cy7649sn">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA</link>
+<guid isPermaLink='false'>openai:01M2RMCS2HVBXGBFKEZ9RZR4FA:progress:monitoring:minor:2026-09-17T21:31:05+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>We are seeing elevated error rates across API models</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 17 Sep 2026 21:29:35 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
+<link>https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8</link>
+<guid isPermaLink='false'>replit:30f07068-73ff-46d7-8ac5-3fffed771fb8:resolved:resolved:minor:2026-09-17T21:45:21.584937+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Resolved: Degraded Agent Performance Due to Upstream Model Provider Errors</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 17 Sep 2026 21:31:52 +0000</p><p>[Resolved] We have resolved the incident related to degraded agent performance due to increase in errors from our upstream model providers.</p><p><a href="https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
 <link>https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA</link>
 <guid isPermaLink='false'>openai:01M2RMCS2HVBXGBFKEZ9RZR4FA:opened:identified:minor:2026-09-17T21:29:35+00:00</guid>

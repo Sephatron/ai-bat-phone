@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
+<link>https://status.perplexity.com</link>
+<guid isPermaLink='false'>meta:perplexity:recovered:2026-09-10T21:00:00+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI lives. Pick your tools back up.]]></title>
 <link>https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC</link>
 <guid isPermaLink='false'>openai:01M2RC0WHGTX8EHDH7D60JJ7FC:resolved:resolved:major:2026-09-17T20:24:45+00:00</guid>
