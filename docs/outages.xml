@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Cursor has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/46vyl26p4fbz</link>
+<guid isPermaLink='false'>cursor:lqp75t47dvpm:opened:investigating:major:2026-09-17T12:30:56.863000+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 12:45:34 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Grok Bot · Opened: Thu, 17 Sep 2026 12:30:56 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.</p><p><a href="https://stspg.io/46vyl26p4fbz">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP</link>
 <guid isPermaLink='false'>fireworks:01M2Q1HRQY7815YTYWK9D0AQPP:resolved:resolved:minor:2026-09-17T06:53:20+00:00</guid>

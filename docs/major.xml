@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Cursor has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/46vyl26p4fbz</link>
+<guid isPermaLink='false'>cursor:lqp75t47dvpm:opened:investigating:major:2026-09-17T12:30:56.863000+00:00</guid>
+<pubDate>Thu, 17 Sep 2026 12:45:34 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Grok Bot · Opened: Thu, 17 Sep 2026 12:30:56 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.</p><p><a href="https://stspg.io/46vyl26p4fbz">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Cursor after 6h 29m]]></title>
 <link>https://stspg.io/d92scb2t3t41</link>
 <guid isPermaLink='false'>cursor:37hs7jj05wkx:resolved:resolved:major:2026-09-16T20:57:14.443000+00:00</guid>

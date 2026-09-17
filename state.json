@@ -1432,6 +1432,12 @@
    "status": "resolved",
    "updated_at": "2026-07-27T11:42:59.955000+00:00"
   },
+  "cursor:lqp75t47dvpm": {
+   "impact": "major",
+   "last_seen_at": "2026-09-17T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-17T12:30:56.863000+00:00"
+  },
   "cursor:mb61dpg4nfk0": {
    "impact": "minor",
    "last_seen_at": "2026-09-17T00:00:00+00:00",
