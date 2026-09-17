@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.2 US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M2Q1HRQY7815YTYWK9D0AQPP:opened:investigating:minor:2026-09-17T06:41:01+00:00",
+  "impact": "minor",
+  "incident_id": "01M2Q1HRQY7815YTYWK9D0AQPP",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-17T06:45:33.918251+00:00",
+  "started_at": "2026-09-17T06:41:01+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.2 US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Grok Bot"
