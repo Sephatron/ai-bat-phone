@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating a service degradation affecting Grok Bot.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🔴 Cursor is on the floor. Kettle on, grass outside.",
+  "id": "cursor:14xbn0wxbpdb:opened:investigating:major:2026-09-18T17:19:03.682000+00:00",
+  "impact": "major",
+  "incident_id": "14xbn0wxbpdb",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-18T17:30:33.516627+00:00",
+  "started_at": "2026-09-18T17:19:03.587000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "opened",
+  "url": "https://stspg.io/k5db4cd96jlz"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Grok Bot"
