@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Builds"
+  ],
+  "duration": "55 min",
+  "headline": "🟢 Vercel is fine again",
+  "id": "vercel:5c1lswm68bkg:resolved:resolved:minor:2026-09-18T22:31:22.780000+00:00",
+  "impact": "minor",
+  "incident_id": "5c1lswm68bkg",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-09-18T22:45:14.261692+00:00",
+  "started_at": "2026-09-18T21:36:09.869000+00:00",
+  "status": "resolved",
+  "title": "Deployment stuck in initializing state",
+  "transition": "resolved",
+  "url": "https://stspg.io/fx0fjwcpvdqr"
+ },
+ {
   "body": "We’re investigating an issue causing higher-than-expected charges for OpenAI-hosted containers in the Agent API. We’re working on a fix and preparing refunds for affected customers. We’ll share further updates as we make progress.",
   "components": [],
   "duration": "",

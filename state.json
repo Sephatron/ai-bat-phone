@@ -4583,8 +4583,8 @@
   "vercel:5c1lswm68bkg": {
    "impact": "minor",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-18T22:14:37.857000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-18T22:31:22.780000+00:00"
   },
   "vercel:75b4vyf7cm69": {
    "impact": "major",
