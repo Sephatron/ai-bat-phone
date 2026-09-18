@@ -4601,8 +4601,8 @@
   "vercel:bwkmw4hmrgmk": {
    "impact": "major",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-18T21:13:28.355000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-18T21:22:27.111000+00:00"
   },
   "vercel:bwyq88fxt57g": {
    "impact": "major",
