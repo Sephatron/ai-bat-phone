@@ -1,5 +1,25 @@
 [
  {
+  "body": "The issue has been identified and a fix is being implemented.",
+  "components": [
+   "Builds"
+  ],
+  "duration": "",
+  "headline": "🔍 Vercel knows what it did",
+  "id": "vercel:bwkmw4hmrgmk:progress:identified:major:2026-09-18T21:07:13.426000+00:00",
+  "impact": "major",
+  "incident_id": "bwkmw4hmrgmk",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-09-18T21:11:27.906905+00:00",
+  "started_at": "2026-09-18T20:32:36.888000+00:00",
+  "status": "identified",
+  "title": "Elevated Errors Triggering Deployments",
+  "transition": "progress",
+  "url": "https://stspg.io/6c79t86c2xrr"
+ },
+ {
   "body": "We are currently investigating an issue causing increased errors triggering deployments. We'll provide additional updates as they become available.",
   "components": [
    "Builds"
