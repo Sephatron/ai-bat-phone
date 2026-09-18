@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re investigating an issue causing higher-than-expected charges for OpenAI-hosted containers in the Agent API. We’re working on a fix and preparing refunds for affected customers. We’ll share further updates as we make progress.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is having a wobble",
+  "id": "openai:01M2VA7X37P1ASADSNZ1CG4N4D:opened:investigating:none:2026-09-18T22:29:53+00:00",
+  "impact": "none",
+  "incident_id": "01M2VA7X37P1ASADSNZ1CG4N4D",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-18T22:30:16.219180+00:00",
+  "started_at": "2026-09-18T22:29:53+00:00",
+  "status": "investigating",
+  "title": "Overbilling for OpenAI-hosted containers in the Agent API",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
+ },
+ {
   "body": "We have identified an issue causing deployments to get stuck in an initialized state, applied a fix, and are seeing signs of recovery for new deployments. We are continuing to monitor.",
   "components": [
    "Builds"

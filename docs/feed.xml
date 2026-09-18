@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
+<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
+<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:opened:investigating:none:2026-09-18T22:29:53+00:00</guid>
+<pubDate>Fri, 18 Sep 2026 22:30:16 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We’re investigating an issue causing higher-than-expected charges for OpenAI-hosted containers in the Agent API. We’re working on a fix and preparing refunds for affected customers. We’ll share further updates as we make progress.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Vercel has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/fx0fjwcpvdqr</link>
 <guid isPermaLink='false'>vercel:5c1lswm68bkg:progress:monitoring:minor:2026-09-18T22:14:37.857000+00:00</guid>
