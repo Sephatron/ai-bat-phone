@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "2h 56m",
+  "headline": "🟢 All clear from Cursor after 2h 56m",
+  "id": "cursor:3slwgs0612sc:resolved:resolved:major:2026-09-18T14:34:00.003000+00:00",
+  "impact": "major",
+  "incident_id": "3slwgs0612sc",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-18T14:45:57.208494+00:00",
+  "started_at": "2026-09-18T11:37:50.827000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "resolved",
+  "url": "https://stspg.io/bqcp7r92qcps"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
