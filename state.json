@@ -1238,6 +1238,12 @@
    "status": "resolved",
    "updated_at": "2026-09-16T20:57:14.443000+00:00"
   },
+  "cursor:3slwgs0612sc": {
+   "impact": "major",
+   "last_seen_at": "2026-09-18T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-18T11:37:50.926000+00:00"
+  },
   "cursor:3tkszvmnqz7c": {
    "impact": "minor",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
