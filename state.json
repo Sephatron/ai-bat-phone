@@ -4598,6 +4598,12 @@
    "status": "resolved",
    "updated_at": "2026-07-02T16:46:33.823000+00:00"
   },
+  "vercel:bwkmw4hmrgmk": {
+   "impact": "major",
+   "last_seen_at": "2026-09-18T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-18T20:32:37.014000+00:00"
+  },
   "vercel:bwyq88fxt57g": {
    "impact": "major",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
