@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from Cursor after 5h 43m]]></title>
+<link>https://stspg.io/k5db4cd96jlz</link>
+<guid isPermaLink='false'>cursor:14xbn0wxbpdb:resolved:resolved:major:2026-09-18T23:02:23.136000+00:00</guid>
+<pubDate>Fri, 18 Sep 2026 23:15:14 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 5h 43m · Opened: Fri, 18 Sep 2026 17:19:03 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/k5db4cd96jlz">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Vercel is upright again. That took 49 min.]]></title>
 <link>https://stspg.io/6c79t86c2xrr</link>
 <guid isPermaLink='false'>vercel:bwkmw4hmrgmk:resolved:resolved:major:2026-09-18T21:22:27.111000+00:00</guid>

@@ -1,5 +1,43 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "5h 43m",
+  "headline": "🟢 All clear from Cursor after 5h 43m",
+  "id": "cursor:14xbn0wxbpdb:resolved:resolved:major:2026-09-18T23:02:23.136000+00:00",
+  "impact": "major",
+  "incident_id": "14xbn0wxbpdb",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-18T23:15:14.190020+00:00",
+  "started_at": "2026-09-18T17:19:03.587000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "resolved",
+  "url": "https://stspg.io/k5db4cd96jlz"
+ },
+ {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M2VBZB1RYSMXHZNRA25ZJ36X:progress:monitoring:none:2026-09-18T23:10:37+00:00",
+  "impact": "none",
+  "incident_id": "01M2VBZB1RYSMXHZNRA25ZJ36X",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-18T23:15:14.190020+00:00",
+  "started_at": "2026-09-18T23:00:09+00:00",
+  "status": "monitoring",
+  "title": "SSO sign-in and SCIM provisioning issues",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X"
+ },
+ {
   "body": "Some users are unable to sign in with single sign-on (SSO). User and group provisioning through SCIM is also affected. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",

@@ -1223,8 +1223,8 @@
   "cursor:14xbn0wxbpdb": {
    "impact": "major",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-18T19:53:41.450000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-18T23:02:23.136000+00:00"
   },
   "cursor:22xs8yq5d2pf": {
    "impact": "minor",
@@ -1495,6 +1495,12 @@
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-20T12:23:21.320000+00:00"
+  },
+  "cursor:r44l5qk34kj1": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-18T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-18T23:13:29.926000+00:00"
   },
   "cursor:rl1xj0xgtrqx": {
    "impact": "major",
@@ -2502,7 +2508,7 @@
    "impact": "minor",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-14T19:35:48.154000+00:00"
+   "updated_at": "2026-09-18T23:11:13.624000+00:00"
   },
   "github:lkcdh6zsvngf": {
    "impact": "maintenance",
@@ -3737,8 +3743,8 @@
   "openai:01M2VBZB1RYSMXHZNRA25ZJ36X": {
    "impact": "none",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-18T23:00:09+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-18T23:10:37+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
