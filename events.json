@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "18 min",
+  "headline": "🟢 OpenAI sorted itself out after 18 min",
+  "id": "openai:01M2VBZB1RYSMXHZNRA25ZJ36X:resolved:resolved:none:2026-09-18T23:18:55+00:00",
+  "impact": "none",
+  "incident_id": "01M2VBZB1RYSMXHZNRA25ZJ36X",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-18T23:30:19.029199+00:00",
+  "started_at": "2026-09-18T23:00:09+00:00",
+  "status": "resolved",
+  "title": "SSO sign-in and SCIM provisioning issues",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Grok Bot"
