@@ -1,5 +1,25 @@
 [
  {
+  "body": "A fix has been implemented and we are monitoring for service restoration. Grok Bot should be responding normally again.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
+  "id": "cursor:14xbn0wxbpdb:progress:monitoring:major:2026-09-18T19:53:41.450000+00:00",
+  "impact": "major",
+  "incident_id": "14xbn0wxbpdb",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-18T20:00:45.096120+00:00",
+  "started_at": "2026-09-18T17:19:03.587000+00:00",
+  "status": "monitoring",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "progress",
+  "url": "https://stspg.io/k5db4cd96jlz"
+ },
+ {
   "body": "The root cause has been identified and a fix is being rolled out. Some users may see Grok Bot respond slowly or not respond at all. We will provide another update shortly.",
   "components": [
    "Grok Bot"
