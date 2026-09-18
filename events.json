@@ -1,5 +1,43 @@
 [
  {
+  "body": "We are currently investigating an issue causing an elevated rate of deployments getting stuck in an initializing state. We will provide additional updates as they become available.",
+  "components": [
+   "Builds"
+  ],
+  "duration": "",
+  "headline": "🟠 Vercel has a limp, not a break",
+  "id": "vercel:5c1lswm68bkg:opened:investigating:minor:2026-09-18T21:36:09.975000+00:00",
+  "impact": "minor",
+  "incident_id": "5c1lswm68bkg",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-09-18T21:45:23.545288+00:00",
+  "started_at": "2026-09-18T21:36:09.869000+00:00",
+  "status": "investigating",
+  "title": "Deployment stuck in initializing state",
+  "transition": "opened",
+  "url": "https://stspg.io/fx0fjwcpvdqr"
+ },
+ {
+  "body": "Some users are experiencing delayed responses from OpenAI Support by email and chat. We’re investigating and will share updates as we learn more.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M2V76GEPJB0HQGRA0QERRZ3T:opened:identified:none:2026-09-18T21:36:41+00:00",
+  "impact": "none",
+  "incident_id": "01M2V76GEPJB0HQGRA0QERRZ3T",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-18T21:45:23.545288+00:00",
+  "started_at": "2026-09-18T21:36:41+00:00",
+  "status": "identified",
+  "title": "Delayed support responses",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Builds"

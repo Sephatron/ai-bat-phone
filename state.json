@@ -3722,6 +3722,12 @@
    "status": "resolved",
    "updated_at": "2026-09-17T21:50:36+00:00"
   },
+  "openai:01M2V76GEPJB0HQGRA0QERRZ3T": {
+   "impact": "none",
+   "last_seen_at": "2026-09-18T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-09-18T21:36:41+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",
@@ -4568,6 +4574,12 @@
    "status": "resolved",
    "updated_at": "2026-05-21T21:31:15.079000+00:00"
   },
+  "vercel:5c1lswm68bkg": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-18T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-18T21:36:09.975000+00:00"
+  },
   "vercel:75b4vyf7cm69": {
    "impact": "major",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
@@ -4602,7 +4614,7 @@
    "impact": "major",
    "last_seen_at": "2026-09-18T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-18T21:22:27.111000+00:00"
+   "updated_at": "2026-09-18T21:32:12.937000+00:00"
   },
   "vercel:bwyq88fxt57g": {
    "impact": "major",
