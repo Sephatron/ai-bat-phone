@@ -1,5 +1,25 @@
 [
  {
+  "body": "We have identified an issue causing deployments to get stuck in an initialized state, applied a fix, and are seeing signs of recovery for new deployments. We are continuing to monitor.",
+  "components": [
+   "Builds"
+  ],
+  "duration": "",
+  "headline": "👀 Vercel has applied a fix and is holding its breath",
+  "id": "vercel:5c1lswm68bkg:progress:monitoring:minor:2026-09-18T22:14:37.857000+00:00",
+  "impact": "minor",
+  "incident_id": "5c1lswm68bkg",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-09-18T22:15:36.356186+00:00",
+  "started_at": "2026-09-18T21:36:09.869000+00:00",
+  "status": "monitoring",
+  "title": "Deployment stuck in initializing state",
+  "transition": "progress",
+  "url": "https://stspg.io/fx0fjwcpvdqr"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery. Some support responses by email and chat may still be delayed while we work through affected cases.",
   "components": [],
   "duration": "",

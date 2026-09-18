@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Vercel has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/fx0fjwcpvdqr</link>
+<guid isPermaLink='false'>vercel:5c1lswm68bkg:progress:monitoring:minor:2026-09-18T22:14:37.857000+00:00</guid>
+<pubDate>Fri, 18 Sep 2026 22:15:36 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Deployment stuck in initializing state</strong></p><p>Impact: minor · Status: monitoring · Affects: Builds · Opened: Fri, 18 Sep 2026 21:36:09 +0000</p><p>We have identified an issue causing deployments to get stuck in an initialized state, applied a fix, and are seeing signs of recovery for new deployments. We are continuing to monitor.</p><p><a href="https://stspg.io/fx0fjwcpvdqr">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T</link>
 <guid isPermaLink='false'>openai:01M2V76GEPJB0HQGRA0QERRZ3T:progress:monitoring:none:2026-09-18T21:59:34+00:00</guid>
