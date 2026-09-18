@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 18 Sep 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI knows what it did]]></title>
+<link>https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X</link>
+<guid isPermaLink='false'>openai:01M2VBZB1RYSMXHZNRA25ZJ36X:opened:identified:none:2026-09-18T23:00:09+00:00</guid>
+<pubDate>Fri, 18 Sep 2026 23:00:34 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>SSO sign-in and SCIM provisioning issues</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 23:00:09 +0000</p><p>Some users are unable to sign in with single sign-on (SSO). User and group provisioning through SCIM is also affected. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Vercel is fine again]]></title>
 <link>https://stspg.io/fx0fjwcpvdqr</link>

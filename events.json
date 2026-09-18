@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users are unable to sign in with single sign-on (SSO). User and group provisioning through SCIM is also affected. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI knows what it did",
+  "id": "openai:01M2VBZB1RYSMXHZNRA25ZJ36X:opened:identified:none:2026-09-18T23:00:09+00:00",
+  "impact": "none",
+  "incident_id": "01M2VBZB1RYSMXHZNRA25ZJ36X",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-18T23:00:34.893237+00:00",
+  "started_at": "2026-09-18T23:00:09+00:00",
+  "status": "identified",
+  "title": "SSO sign-in and SCIM provisioning issues",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Builds"
