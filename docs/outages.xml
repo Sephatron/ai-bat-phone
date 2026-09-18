@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 18 Sep 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-09-18</guid>
+<pubDate>Fri, 18 Sep 2026 14:00:45 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Cursor is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/bqcp7r92qcps</link>
