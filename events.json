@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Search"
+  ],
+  "duration": "15 min",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:h4rhhrm6nwbp:resolved:resolved:critical:2026-09-19T10:51:12.486000+00:00",
+  "impact": "critical",
+  "incident_id": "h4rhhrm6nwbp",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-09-19T11:00:45.026751+00:00",
+  "started_at": "2026-09-19T10:36:12.045000+00:00",
+  "status": "resolved",
+  "title": "搜索请求出现大量报错",
+  "transition": "resolved",
+  "url": "https://stspg.io/tkxhwsx13k4w"
+ },
+ {
   "body": "搜索请求报错率超过20%，持续超过1分钟",
   "components": [
    "Search"

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 19 Sep 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/tkxhwsx13k4w</link>
+<guid isPermaLink='false'>moonshot:h4rhhrm6nwbp:resolved:resolved:critical:2026-09-19T10:51:12.486000+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 11:00:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 15 min · Opened: Sat, 19 Sep 2026 10:36:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/tkxhwsx13k4w">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/tkxhwsx13k4w</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 07 Sep 2026 04:25:29 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 07 Sep 2026 03:17:11 +0000</p><p>We're currently investigating an elevated error rate occurring with ElevenReader. Some pages may fail to load, or the app may be inaccessible.</p><p><a href="https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
-<link>https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC</link>
-<guid isPermaLink='false'>elevenlabs:01M1PB7V9WNBNFFACKWX3B57GC:resolved:resolved:minor:2026-09-04T21:01:16+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 22:59:54 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Increase in latency in the Global Residency for Speech-to-Text and Dubbing requests</strong></p><p>Impact: minor · Status: resolved · Duration: 7h 05m · Opened: Fri, 04 Sep 2026 13:55:26 +0000</p><p>After completing the monitoring stage, we have confirmed that STT latency has returned to baseline stability.</p><p><a href="https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
