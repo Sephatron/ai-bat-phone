@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 ElevenLabs is upright again. That took 1h 34m.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
+<guid isPermaLink='false'>elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:resolved:resolved:major:2026-09-19T02:08:29+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 02:15:16 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Some ElevenAgents calls failed to start</strong></p><p>Impact: major · Status: resolved · Duration: 1h 34m · Opened: Sat, 19 Sep 2026 00:34:11 +0000</p><p>The issue has been fully resolved and everything is functional again.</p><p><a href="https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 3h 33m]]></title>
 <link>https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T</link>
 <guid isPermaLink='false'>openai:01M2V76GEPJB0HQGRA0QERRZ3T:resolved:resolved:none:2026-09-19T01:10:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 14:53:17 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Increase in latency in the Global Residency for Speech-to-Text and Dubbing requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 04 Sep 2026 13:55:26 +0000</p><p>The issue has been fixed, the error rate should be zero. We are currently monitoring the situation.</p><p><a href="https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-09-04</guid>
-<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 20 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

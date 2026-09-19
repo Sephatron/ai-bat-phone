@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 ElevenLabs is upright again. That took 1h 34m.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
+<guid isPermaLink='false'>elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:resolved:resolved:major:2026-09-19T02:08:29+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 02:15:16 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Some ElevenAgents calls failed to start</strong></p><p>Impact: major · Status: resolved · Duration: 1h 34m · Opened: Sat, 19 Sep 2026 00:34:11 +0000</p><p>The issue has been fully resolved and everything is functional again.</p><p><a href="https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
 <guid isPermaLink='false'>elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:opened:monitoring:major:2026-09-19T00:35:18+00:00</guid>

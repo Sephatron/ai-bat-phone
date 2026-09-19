@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue has been fully resolved and everything is functional again.",
+  "components": [],
+  "duration": "1h 34m",
+  "headline": "🟢 ElevenLabs is upright again. That took 1h 34m.",
+  "id": "elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:resolved:resolved:major:2026-09-19T02:08:29+00:00",
+  "impact": "major",
+  "incident_id": "01M2VHBGDK805SSRGAEZ6Q6TF0",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-19T02:15:16.552798+00:00",
+  "started_at": "2026-09-19T00:34:11+00:00",
+  "status": "resolved",
+  "title": "Some ElevenAgents calls failed to start",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "3h 33m",
