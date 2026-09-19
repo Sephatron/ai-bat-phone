@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 19 Sep 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 Lovable thinks it's fixed and is watching nervously]]></title>
+<link>https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M</link>
+<guid isPermaLink='false'>lovable:01M2XKAPSA07Z05BYHS0J8MN1M:opened:monitoring:minor:2026-09-19T19:54:59+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 20:00:19 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Degraded performance enabling Lovable Cloud</strong></p><p>Impact: minor · Status: monitoring · Opened: Sat, 19 Sep 2026 19:47:11 +0000</p><p>We're seeing signs of recovery and will continue to monitor. Success rates for enabling Lovable Cloud are returning to normal levels.</p><p><a href="https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 5 min]]></title>
 <link>https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 07 Sep 2026 21:45:26 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Grok Bot computers unreachable for some users</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 1h 05m · Opened: Mon, 07 Sep 2026 20:32:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/2h04kqhqq9jw">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/2h04kqhqq9jw</link>
-<guid isPermaLink='false'>cursor:jw6mzctqkq56:opened:monitoring:major:2026-09-07T20:41:07.636000+00:00</guid>
-<pubDate>Mon, 07 Sep 2026 20:45:25 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Grok Bot computers unreachable for some users</strong></p><p>Impact: major · Status: monitoring · Affects: Grok Bot · Opened: Mon, 07 Sep 2026 20:32:42 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/2h04kqhqq9jw">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

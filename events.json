@@ -1,5 +1,23 @@
 [
  {
+  "body": "We're seeing signs of recovery and will continue to monitor. Success rates for enabling Lovable Cloud are returning to normal levels.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Lovable thinks it's fixed and is watching nervously",
+  "id": "lovable:01M2XKAPSA07Z05BYHS0J8MN1M:opened:monitoring:minor:2026-09-19T19:54:59+00:00",
+  "impact": "minor",
+  "incident_id": "01M2XKAPSA07Z05BYHS0J8MN1M",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-19T20:00:19.112207+00:00",
+  "started_at": "2026-09-19T19:47:11+00:00",
+  "status": "monitoring",
+  "title": "Degraded performance enabling Lovable Cloud",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "5 min",
