@@ -2213,8 +2213,8 @@
   "fireworks:01M2X9P4QGG4V22SVWTEACW1D0": {
    "impact": "minor",
    "last_seen_at": "2026-09-19T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-19T16:58:40+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-19T17:04:04+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",

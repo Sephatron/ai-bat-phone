@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 5 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0</link>
+<guid isPermaLink='false'>fireworks:01M2X9P4QGG4V22SVWTEACW1D0:resolved:resolved:minor:2026-09-19T17:04:04+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 17:15:12 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 5 min · Opened: Sat, 19 Sep 2026 16:58:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0</link>
 <guid isPermaLink='false'>fireworks:01M2X9P4QGG4V22SVWTEACW1D0:opened:investigating:minor:2026-09-19T16:58:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 07 Sep 2026 20:45:25 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Grok Bot computers unreachable for some users</strong></p><p>Impact: major · Status: monitoring · Affects: Grok Bot · Opened: Mon, 07 Sep 2026 20:32:42 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/2h04kqhqq9jw">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs has stopped wobbling]]></title>
-<link>https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK</link>
-<guid isPermaLink='false'>elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:resolved:resolved:none:2026-09-07T07:20:19+00:00</guid>
-<pubDate>Mon, 07 Sep 2026 09:38:56 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: resolved · Duration: 4h 03m · Opened: Mon, 07 Sep 2026 03:17:11 +0000</p><p>Service has been fully restored to remaining affected areas. We will share further details on the cause.</p><p><a href="https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
