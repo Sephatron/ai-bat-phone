@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96</link>
+<guid isPermaLink='false'>fireworks:01M2W0JTY0Z7KNA1TQKKV6EH96:resolved:resolved:minor:2026-09-19T05:08:50+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 05:15:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 8 min · Opened: Sat, 19 Sep 2026 05:00:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
+<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:progress:monitoring:none:2026-09-19T05:00:57+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 05:15:17 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We have applied the mitigation, and any new sessions would not run into this issue. We are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96</link>
 <guid isPermaLink='false'>fireworks:01M2W0JTY0Z7KNA1TQKKV6EH96:opened:investigating:minor:2026-09-19T05:00:20+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 21:00:03 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Copilot Code Review</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 04 Sep 2026 20:39:03 +0000</p><p>Some users may be experiencing failures when using Copilot code review. We have identified the root cause and are working on a mitigation.</p><p><a href="https://stspg.io/dddfhld6fj0z">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9</link>
-<guid isPermaLink='false'>fireworks:01M1P9PV50PC5ZKVJZ9WC6NCA9:resolved:resolved:none:2026-09-04T16:12:56+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 18:18:59 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 2h 44m · Opened: Fri, 04 Sep 2026 13:28:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
-<link>https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111</link>
-<guid isPermaLink='false'>replit:f551e79f-142b-4e8e-9e7e-4b8b92c47111:resolved:resolved:minor:2026-09-04T18:18:59.938640+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 18:18:59 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Some users are unable to publish apps with an external DATABASE_URL error</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 04 Sep 2026 17:19:07 +0000</p><p>[Resolved] We've deployed a fix for the issue causing some projects to fail publishing with a DATABASE_URL error, and publishing should work normally now. If you're seeing missing data in your development database, columns that appear to be gone, or a migration with an unusually high number of drop statements, please contact support (replit.com/help) so we can look into it with you directly. Thanks for your patience while we worked through this.</p><p><a href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
