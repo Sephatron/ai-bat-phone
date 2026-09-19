@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/tkxhwsx13k4w</link>
+<guid isPermaLink='false'>moonshot:h4rhhrm6nwbp:opened:investigating:critical:2026-09-19T10:36:12.149000+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 10:45:30 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Sat, 19 Sep 2026 10:36:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/tkxhwsx13k4w">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
 <guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:resolved:resolved:none:2026-09-19T07:52:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 22:59:54 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Increase in latency in the Global Residency for Speech-to-Text and Dubbing requests</strong></p><p>Impact: minor · Status: resolved · Duration: 7h 05m · Opened: Fri, 04 Sep 2026 13:55:26 +0000</p><p>After completing the monitoring stage, we have confirmed that STT latency has returned to baseline stability.</p><p><a href="https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/dddfhld6fj0z</link>
-<guid isPermaLink='false'>github:zw1hbx2yyhvr:resolved:resolved:major:2026-09-04T22:26:46.758000+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 22:59:54 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Copilot Code Review</strong></p><p>Impact: major · Status: resolved · Duration: 1h 47m · Opened: Fri, 04 Sep 2026 20:39:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/dddfhld6fj0z">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/tkxhwsx13k4w</link>
+<guid isPermaLink='false'>moonshot:h4rhhrm6nwbp:opened:investigating:critical:2026-09-19T10:36:12.149000+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 10:45:30 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Sat, 19 Sep 2026 10:36:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/tkxhwsx13k4w">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
 <guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:resolved:resolved:none:2026-09-19T07:52:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 07 Sep 2026 09:38:56 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: resolved · Duration: 4h 03m · Opened: Mon, 07 Sep 2026 03:17:11 +0000</p><p>Service has been fully restored to remaining affected areas. We will share further details on the cause.</p><p><a href="https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 ElevenLabs has a limp, not a break]]></title>
-<link>https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK</link>
-<guid isPermaLink='false'>elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:opened:investigating:none:2026-09-07T03:17:11+00:00</guid>
-<pubDate>Mon, 07 Sep 2026 04:25:29 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 07 Sep 2026 03:17:11 +0000</p><p>We're currently investigating an elevated error rate occurring with ElevenReader. Some pages may fail to load, or the app may be inaccessible.</p><p><a href="https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
