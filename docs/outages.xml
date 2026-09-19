@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 19 Sep 2026 04:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 05:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96</link>
+<guid isPermaLink='false'>fireworks:01M2W0JTY0Z7KNA1TQKKV6EH96:opened:investigating:minor:2026-09-19T05:00:20+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 05:00:43 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 19 Sep 2026 05:00:20 +0000</p><p>We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 ElevenLabs is upright again. That took 1h 34m.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 18:18:59 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Some users are unable to publish apps with an external DATABASE_URL error</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 04 Sep 2026 17:19:07 +0000</p><p>[Resolved] We've deployed a fix for the issue causing some projects to fail publishing with a DATABASE_URL error, and publishing should work normally now. If you're seeing missing data in your development database, columns that appear to be gone, or a migration with an unusually high number of drop statements, please contact support (replit.com/help) so we can look into it with you directly. Thanks for your patience while we worked through this.</p><p><a href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC</link>
-<guid isPermaLink='false'>elevenlabs:01M1PB7V9WNBNFFACKWX3B57GC:opened:monitoring:minor:2026-09-04T14:34:50+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 14:53:17 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Increase in latency in the Global Residency for Speech-to-Text and Dubbing requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 04 Sep 2026 13:55:26 +0000</p><p>The issue has been fixed, the error rate should be zero. We are currently monitoring the situation.</p><p><a href="https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

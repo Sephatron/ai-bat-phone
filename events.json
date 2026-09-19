@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M2W0JTY0Z7KNA1TQKKV6EH96:opened:investigating:minor:2026-09-19T05:00:20+00:00",
+  "impact": "minor",
+  "incident_id": "01M2W0JTY0Z7KNA1TQKKV6EH96",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-19T05:00:43.989919+00:00",
+  "started_at": "2026-09-19T05:00:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96"
+ },
+ {
   "body": "The issue has been fully resolved and everything is functional again.",
   "components": [],
   "duration": "1h 34m",

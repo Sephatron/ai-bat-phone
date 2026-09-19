@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 19 Sep 2026 04:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 05:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96</link>
+<guid isPermaLink='false'>fireworks:01M2W0JTY0Z7KNA1TQKKV6EH96:opened:investigating:minor:2026-09-19T05:00:20+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 05:00:43 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 19 Sep 2026 05:00:20 +0000</p><p>We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 ElevenLabs is upright again. That took 1h 34m.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 21:00:03 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Copilot Code Review</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 04 Sep 2026 20:39:03 +0000</p><p>Some users may be experiencing failures when using Copilot code review. We have identified the root cause and are working on a mitigation.</p><p><a href="https://stspg.io/dddfhld6fj0z">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9</link>
-<guid isPermaLink='false'>fireworks:01M1P9PV50PC5ZKVJZ9WC6NCA9:resolved:resolved:none:2026-09-04T16:12:56+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 18:18:59 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 2h 44m · Opened: Fri, 04 Sep 2026 13:28:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
