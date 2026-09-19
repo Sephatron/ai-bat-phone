@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M2X9P4QGG4V22SVWTEACW1D0:opened:investigating:minor:2026-09-19T16:58:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M2X9P4QGG4V22SVWTEACW1D0",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-19T17:00:24.543735+00:00",
+  "started_at": "2026-09-19T16:58:40+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 Fast",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Search"
