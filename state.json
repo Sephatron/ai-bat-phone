@@ -1952,6 +1952,12 @@
    "status": "resolved",
    "updated_at": "2026-09-10T20:43:38+00:00"
   },
+  "elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0": {
+   "impact": "major",
+   "last_seen_at": "2026-09-19T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-09-19T00:35:18+00:00"
+  },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
    "last_seen_at": "2026-09-05T00:00:00+00:00",

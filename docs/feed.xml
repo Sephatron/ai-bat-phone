@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
+<guid isPermaLink='false'>elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:opened:monitoring:major:2026-09-19T00:35:18+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 00:45:22 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Some ElevenAgents calls failed to start (resolved)</strong></p><p>Impact: major · Status: monitoring · Opened: Sat, 19 Sep 2026 00:34:11 +0000</p><p>The calls are working now.</p><p><a href="https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 18 min]]></title>
 <link>https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X</link>
 <guid isPermaLink='false'>openai:01M2VBZB1RYSMXHZNRA25ZJ36X:resolved:resolved:none:2026-09-18T23:18:55+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
 <category>AI Bat Phone</category>
 <description><![CDATA[<p><strong>Still watching 20 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9</link>
-<guid isPermaLink='false'>fireworks:01M1P9PV50PC5ZKVJZ9WC6NCA9:opened:investigating:none:2026-09-04T13:28:40+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 04 Sep 2026 13:28:40 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

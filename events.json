@@ -1,5 +1,23 @@
 [
  {
+  "body": "The calls are working now.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs is on the mend. Don't get comfortable yet.",
+  "id": "elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:opened:monitoring:major:2026-09-19T00:35:18+00:00",
+  "impact": "major",
+  "incident_id": "01M2VHBGDK805SSRGAEZ6Q6TF0",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-19T00:45:22.829472+00:00",
+  "started_at": "2026-09-19T00:34:11+00:00",
+  "status": "monitoring",
+  "title": "Some ElevenAgents calls failed to start (resolved)",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "18 min",
