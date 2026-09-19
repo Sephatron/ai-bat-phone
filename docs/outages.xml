@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 19 Sep 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
+<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:resolved:resolved:none:2026-09-19T07:52:40+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 08:00:23 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: resolved · Duration: 9h 22m · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 22:59:54 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Copilot Code Review</strong></p><p>Impact: major · Status: resolved · Duration: 1h 47m · Opened: Fri, 04 Sep 2026 20:39:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/dddfhld6fj0z">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/dddfhld6fj0z</link>
-<guid isPermaLink='false'>github:zw1hbx2yyhvr:opened:investigating:minor:2026-09-04T20:57:53.119000+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 21:00:03 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Copilot Code Review</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 04 Sep 2026 20:39:03 +0000</p><p>Some users may be experiencing failures when using Copilot code review. We have identified the root cause and are working on a mitigation.</p><p><a href="https://stspg.io/dddfhld6fj0z">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

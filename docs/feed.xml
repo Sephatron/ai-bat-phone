@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 19 Sep 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
+<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:resolved:resolved:none:2026-09-19T07:52:40+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 08:00:23 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: resolved · Duration: 9h 22m · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 07 Sep 2026 04:25:29 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 07 Sep 2026 03:17:11 +0000</p><p>We're currently investigating an elevated error rate occurring with ElevenReader. Some pages may fail to load, or the app may be inaccessible.</p><p><a href="https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
-<link>https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC</link>
-<guid isPermaLink='false'>elevenlabs:01M1PB7V9WNBNFFACKWX3B57GC:resolved:resolved:minor:2026-09-04T21:01:16+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 22:59:54 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Increase in latency in the Global Residency for Speech-to-Text and Dubbing requests</strong></p><p>Impact: minor · Status: resolved · Duration: 7h 05m · Opened: Fri, 04 Sep 2026 13:55:26 +0000</p><p>After completing the monitoring stage, we have confirmed that STT latency has returned to baseline stability.</p><p><a href="https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
