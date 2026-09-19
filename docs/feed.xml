@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 3h 33m]]></title>
+<link>https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T</link>
+<guid isPermaLink='false'>openai:01M2V76GEPJB0HQGRA0QERRZ3T:resolved:resolved:none:2026-09-19T01:10:40+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 01:15:16 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delayed support responses</strong></p><p>Impact: unclassified · Status: resolved · Duration: 3h 33m · Opened: Fri, 18 Sep 2026 21:36:41 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
+<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:progress:identified:none:2026-09-19T01:08:42+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 01:15:16 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We are still implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
 <guid isPermaLink='false'>elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:opened:monitoring:major:2026-09-19T00:35:18+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 18:18:59 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Some users are unable to publish apps with an external DATABASE_URL error</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 04 Sep 2026 17:19:07 +0000</p><p>[Resolved] We've deployed a fix for the issue causing some projects to fail publishing with a DATABASE_URL error, and publishing should work normally now. If you're seeing missing data in your development database, columns that appear to be gone, or a migration with an unusually high number of drop statements, please contact support (replit.com/help) so we can look into it with you directly. Thanks for your patience while we worked through this.</p><p><a href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC</link>
-<guid isPermaLink='false'>elevenlabs:01M1PB7V9WNBNFFACKWX3B57GC:opened:monitoring:minor:2026-09-04T14:34:50+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 14:53:17 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Increase in latency in the Global Residency for Speech-to-Text and Dubbing requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 04 Sep 2026 13:55:26 +0000</p><p>The issue has been fixed, the error rate should be zero. We are currently monitoring the situation.</p><p><a href="https://status.elevenlabs.io/incidents/01M1PB7V9WNBNFFACKWX3B57GC">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-09-04</guid>
-<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 20 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

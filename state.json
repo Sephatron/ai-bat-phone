@@ -3737,14 +3737,14 @@
   "openai:01M2V76GEPJB0HQGRA0QERRZ3T": {
    "impact": "none",
    "last_seen_at": "2026-09-19T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-18T21:59:34+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-19T01:10:40+00:00"
   },
   "openai:01M2VA7X37P1ASADSNZ1CG4N4D": {
    "impact": "none",
    "last_seen_at": "2026-09-19T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-18T23:22:34+00:00"
+   "status": "identified",
+   "updated_at": "2026-09-19T01:08:42+00:00"
   },
   "openai:01M2VBZB1RYSMXHZNRA25ZJ36X": {
    "impact": "none",

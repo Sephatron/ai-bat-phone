@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 3h 33m]]></title>
+<link>https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T</link>
+<guid isPermaLink='false'>openai:01M2V76GEPJB0HQGRA0QERRZ3T:resolved:resolved:none:2026-09-19T01:10:40+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 01:15:16 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delayed support responses</strong></p><p>Impact: unclassified · Status: resolved · Duration: 3h 33m · Opened: Fri, 18 Sep 2026 21:36:41 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
+<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:progress:identified:none:2026-09-19T01:08:42+00:00</guid>
+<pubDate>Sat, 19 Sep 2026 01:15:16 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We are still implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
 <guid isPermaLink='false'>elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:opened:monitoring:major:2026-09-19T00:35:18+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
 <category>AI Bat Phone</category>
 <description><![CDATA[<p><strong>Still watching 20 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9</link>
-<guid isPermaLink='false'>fireworks:01M1P9PV50PC5ZKVJZ9WC6NCA9:opened:investigating:none:2026-09-04T13:28:40+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 04 Sep 2026 13:28:40 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Replit is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111</link>
-<guid isPermaLink='false'>replit:f551e79f-142b-4e8e-9e7e-4b8b92c47111:opened:monitoring:minor:2026-09-04T13:44:13.044445+00:00</guid>
-<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Some users are unable to publish apps with an external DATABASE_URL error</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 02 Sep 2026 18:41:09 +0000</p><p>[Monitoring] Production data is confirmed to be safe after a configuration error during deploys that impacted users on September 1st, 2026. The issue has been resolved going forward and we are working on a fix to restore impacted projects. If your project was impacted by this error please reach out to support.</p><p><a href="https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
