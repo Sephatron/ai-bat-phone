@@ -20,9 +20,7 @@
    "consecutive_failures": 0
   },
   "deepseek": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-20T05:00:00+00:00",
-   "last_error": "https://status.deepseek.com/history.rss returned HTTP 503"
+   "consecutive_failures": 0
   },
   "elevenlabs": {
    "consecutive_failures": 0
