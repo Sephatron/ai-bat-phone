@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Pull Requests"
+  ],
+  "duration": "1h 08m",
+  "headline": "🟢 GitHub sorted itself out after 1h 08m",
+  "id": "github:f6yrxnz5f7bs:resolved:resolved:minor:2026-09-20T23:22:16.725000+00:00",
+  "impact": "minor",
+  "incident_id": "f6yrxnz5f7bs",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-20T23:30:20.347109+00:00",
+  "started_at": "2026-09-20T22:13:37.880000+00:00",
+  "status": "resolved",
+  "title": "Incident with Pull Requests",
+  "transition": "resolved",
+  "url": "https://stspg.io/cx8xcm6k8f9s"
+ },
+ {
   "body": "The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Pull Requests"
