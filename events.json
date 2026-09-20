@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Pull Requests",
+  "components": [
+   "Pull Requests"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from GitHub",
+  "id": "github:f6yrxnz5f7bs:opened:investigating:minor:2026-09-20T22:13:37.972000+00:00",
+  "impact": "minor",
+  "incident_id": "f6yrxnz5f7bs",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-20T22:15:46.836673+00:00",
+  "started_at": "2026-09-20T22:13:37.880000+00:00",
+  "status": "investigating",
+  "title": "Incident with Pull Requests",
+  "transition": "opened",
+  "url": "https://stspg.io/cx8xcm6k8f9s"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Model APIs"
