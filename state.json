@@ -20,7 +20,9 @@
    "consecutive_failures": 0
   },
   "deepseek": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-20T07:00:00+00:00",
+   "last_error": "https://status.deepseek.com/history.rss returned HTTP 503"
   },
   "elevenlabs": {
    "consecutive_failures": 0
@@ -493,6 +495,12 @@
    "last_seen_at": "2026-09-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-02T23:13:51.442000+00:00"
+  },
+  "baseten:53lh9mv05wmt": {
+   "impact": "major",
+   "last_seen_at": "2026-09-20T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-09-20T07:19:01.348000+00:00"
   },
   "baseten:594dmfnrbx71": {
    "impact": "minor",

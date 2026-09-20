@@ -1,5 +1,25 @@
 [
  {
+  "body": "The issue has been identified and a fix is being implemented.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "",
+  "headline": "🔍 Baseten knows what it did",
+  "id": "baseten:53lh9mv05wmt:opened:identified:major:2026-09-20T07:19:01.348000+00:00",
+  "impact": "major",
+  "incident_id": "53lh9mv05wmt",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-20T07:30:29.907827+00:00",
+  "started_at": "2026-09-20T07:19:01.245000+00:00",
+  "status": "identified",
+  "title": "Kimi K3 Model API outage",
+  "transition": "opened",
+  "url": "https://stspg.io/h2pvtp3x3np1"
+ },
+ {
   "body": "Enabling Lovable Cloud for projects has returned to normal success rates.",
   "components": [],
   "duration": "14 min",
