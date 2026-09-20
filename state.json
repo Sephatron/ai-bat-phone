@@ -29,7 +29,9 @@
    "consecutive_failures": 0
   },
   "github": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-20T14:00:00+00:00",
+   "last_error": "https://www.githubstatus.com/api/v2/incidents.json: <urlopen error [Errno 104] Connection reset by peer>"
   },
   "google": {
    "consecutive_failures": 0
