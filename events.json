@@ -1,5 +1,25 @@
 [
  {
+  "body": "The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Pull Requests"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:f6yrxnz5f7bs:progress:monitoring:minor:2026-09-20T22:27:28.785000+00:00",
+  "impact": "minor",
+  "incident_id": "f6yrxnz5f7bs",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-20T22:30:15.200868+00:00",
+  "started_at": "2026-09-20T22:13:37.880000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Pull Requests",
+  "transition": "progress",
+  "url": "https://stspg.io/cx8xcm6k8f9s"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Pull Requests",
   "components": [
    "Pull Requests"
