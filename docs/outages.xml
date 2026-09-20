@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/h2pvtp3x3np1</link>
+<guid isPermaLink='false'>baseten:53lh9mv05wmt:resolved:resolved:major:2026-09-20T08:13:44.255000+00:00</guid>
+<pubDate>Sun, 20 Sep 2026 08:15:17 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Kimi K3 Model API outage</strong></p><p>Impact: major · Status: resolved · Affects: Model APIs · Duration: 54 min · Opened: Sun, 20 Sep 2026 07:19:01 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/h2pvtp3x3np1">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Baseten knows what it did]]></title>
 <link>https://stspg.io/h2pvtp3x3np1</link>
 <guid isPermaLink='false'>baseten:53lh9mv05wmt:opened:identified:major:2026-09-20T07:19:01.348000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 08 Sep 2026 14:45:28 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors for image generation</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 08 Sep 2026 14:32:42 +0000</p><p>We’re investigating elevated errors affecting image generation in ChatGPT and the Images API. Some requests may fail. We’ll share another update as we learn more.</p><p><a href="https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M1Z47ZFCA4KYXYM8K5A0K9NR</link>
-<guid isPermaLink='false'>fireworks:01M1Z47ZFCA4KYXYM8K5A0K9NR:resolved:resolved:none:2026-09-08T00:20:30+00:00</guid>
-<pubDate>Tue, 08 Sep 2026 00:30:26 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 34 min · Opened: Mon, 07 Sep 2026 23:46:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M1Z47ZFCA4KYXYM8K5A0K9NR">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
