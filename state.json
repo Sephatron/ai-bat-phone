@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-20T07:00:00+00:00",
+ "heartbeat": "2026-09-20T08:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -498,7 +498,7 @@
    "impact": "major",
    "last_seen_at": "2026-09-20T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-09-20T07:30:12.351000+00:00"
+   "updated_at": "2026-09-20T07:59:08.515000+00:00"
   },
   "baseten:594dmfnrbx71": {
    "impact": "minor",
