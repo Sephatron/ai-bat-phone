@@ -41,7 +41,9 @@
    "consecutive_failures": 0
   },
   "moonshot": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-21T01:00:00+00:00",
+   "last_error": "https://status.moonshot.cn/api/v2/incidents.json: <urlopen error [Errno 104] Connection reset by peer>"
   },
   "openai": {
    "consecutive_failures": 0
