@@ -1,5 +1,23 @@
 [
  {
+  "body": "This issue has been resolved.",
+  "components": [],
+  "duration": "1h 21m",
+  "headline": "🟢 Lovable has stopped wobbling",
+  "id": "lovable:01M324TRMEC1SE7YZSPNE9TTVJ:resolved:resolved:minor:2026-09-21T15:31:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M324TRMEC1SE7YZSPNE9TTVJ",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-21T15:45:18.826700+00:00",
+  "started_at": "2026-09-21T14:10:00+00:00",
+  "status": "resolved",
+  "title": "Some users are seeing web search fail when the agent uses it",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ"
+ },
+ {
   "body": "Some users are seeing web search fail when the agent uses it. We are investigating with one of our providers.",
   "components": [],
   "duration": "",
