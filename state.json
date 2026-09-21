@@ -458,6 +458,12 @@
    "status": "resolved",
    "updated_at": "2026-07-06T21:22:15.156000+00:00"
   },
+  "baseten:2kfcxy48kxg8": {
+   "impact": "major",
+   "last_seen_at": "2026-09-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-21T18:41:15.625000+00:00"
+  },
   "baseten:2tr3k2yt5b1b": {
    "impact": "minor",
    "last_seen_at": "2026-09-21T00:00:00+00:00",
