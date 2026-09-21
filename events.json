@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are investigating degraded performance for requests that use Grok 4.6. Users may see failed or retried requests in Automations, Cloud Agents, the CLI, and the IDE when Grok 4.6 is used. Other models are unaffected.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Cursor",
+  "id": "cursor:9lzqc8vy6jjj:opened:investigating:minor:2026-09-21T06:39:46.805000+00:00",
+  "impact": "minor",
+  "incident_id": "9lzqc8vy6jjj",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-21T06:45:16.060377+00:00",
+  "started_at": "2026-09-21T06:39:00+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation",
+  "transition": "opened",
+  "url": "https://stspg.io/lfp649kkrqs0"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Pull Requests"
