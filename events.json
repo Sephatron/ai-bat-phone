@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users are seeing web search fail when the agent uses it. We are investigating with one of our providers.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Lovable has found the culprit",
+  "id": "lovable:01M324TRMEC1SE7YZSPNE9TTVJ:opened:identified:minor:2026-09-21T14:10:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M324TRMEC1SE7YZSPNE9TTVJ",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-21T14:15:15.061227+00:00",
+  "started_at": "2026-09-21T14:10:00+00:00",
+  "status": "identified",
+  "title": "Some users are seeing web search fail when the agent uses it",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Lovable has found the culprit]]></title>
+<link>https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ</link>
+<guid isPermaLink='false'>lovable:01M324TRMEC1SE7YZSPNE9TTVJ:opened:identified:minor:2026-09-21T14:10:00+00:00</guid>
+<pubDate>Mon, 21 Sep 2026 14:15:15 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some users are seeing web search fail when the agent uses it</strong></p><p>Impact: minor · Status: identified · Opened: Mon, 21 Sep 2026 14:10:00 +0000</p><p>Some users are seeing web search fail when the agent uses it. We are investigating with one of our providers.</p><p><a href="https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is fine again]]></title>
 <link>https://stspg.io/lfp649kkrqs0</link>
 <guid isPermaLink='false'>cursor:9lzqc8vy6jjj:resolved:resolved:minor:2026-09-21T07:00:48.290000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 08 Sep 2026 21:30:29 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 08 Sep 2026 21:17:00 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M21E38KEM69PGCJ5YBRWVZX8">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 4h 36m]]></title>
-<link>https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ</link>
-<guid isPermaLink='false'>openai:01M20QBACYZMK2PRCJQCBSWTYJ:resolved:resolved:minor:2026-09-08T19:16:08+00:00</guid>
-<pubDate>Tue, 08 Sep 2026 19:30:29 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File uploads are delayed or failing</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 36m · Opened: Tue, 08 Sep 2026 14:39:27 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
