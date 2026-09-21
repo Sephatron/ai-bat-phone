@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-21T01:00:00+00:00",
+ "heartbeat": "2026-09-21T02:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -41,9 +41,7 @@
    "consecutive_failures": 0
   },
   "moonshot": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-21T01:00:00+00:00",
-   "last_error": "https://status.moonshot.cn/api/v2/incidents.json: <urlopen error [Errno 104] Connection reset by peer>"
+   "consecutive_failures": 0
   },
   "openai": {
    "consecutive_failures": 0
