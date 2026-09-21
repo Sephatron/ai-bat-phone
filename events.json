@@ -1,5 +1,23 @@
 [
  {
+  "body": "We're currently investigating an elevated error rate occurring with ElevenReader that may impact streaming and app navigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is a bit under the weather",
+  "id": "elevenlabs:01M334KC2AAWJREYT5BSCNF50G:opened:investigating:none:2026-09-21T23:26:58+00:00",
+  "impact": "none",
+  "incident_id": "01M334KC2AAWJREYT5BSCNF50G",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-21T23:30:19.656887+00:00",
+  "started_at": "2026-09-21T23:25:13+00:00",
+  "status": "investigating",
+  "title": "ElevenReader Elevated Error Rates",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G"
+ },
+ {
   "body": "This issue has been resolved.",
   "components": [],
   "duration": "1h 21m",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 ElevenLabs is a bit under the weather]]></title>
+<link>https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G</link>
+<guid isPermaLink='false'>elevenlabs:01M334KC2AAWJREYT5BSCNF50G:opened:investigating:none:2026-09-21T23:26:58+00:00</guid>
+<pubDate>Mon, 21 Sep 2026 23:30:19 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 21 Sep 2026 23:25:13 +0000</p><p>We're currently investigating an elevated error rate occurring with ElevenReader that may impact streaming and app navigation.</p><p><a href="https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
 <link>https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ</link>
 <guid isPermaLink='false'>lovable:01M324TRMEC1SE7YZSPNE9TTVJ:resolved:resolved:minor:2026-09-21T15:31:12+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 08 Sep 2026 21:45:26 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 26 min · Opened: Tue, 08 Sep 2026 21:17:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M21E38KEM69PGCJ5YBRWVZX8">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M21E38KEM69PGCJ5YBRWVZX8</link>
-<guid isPermaLink='false'>fireworks:01M21E38KEM69PGCJ5YBRWVZX8:opened:investigating:none:2026-09-08T21:17:00+00:00</guid>
-<pubDate>Tue, 08 Sep 2026 21:30:29 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 08 Sep 2026 21:17:00 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M21E38KEM69PGCJ5YBRWVZX8">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
