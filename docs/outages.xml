@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is fine again]]></title>
+<link>https://stspg.io/lfp649kkrqs0</link>
+<guid isPermaLink='false'>cursor:9lzqc8vy6jjj:resolved:resolved:minor:2026-09-21T07:00:48.290000+00:00</guid>
+<pubDate>Mon, 21 Sep 2026 07:04:52 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 21 min · Opened: Mon, 21 Sep 2026 06:39:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/lfp649kkrqs0">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
 <link>https://stspg.io/lfp649kkrqs0</link>
 <guid isPermaLink='false'>cursor:9lzqc8vy6jjj:opened:investigating:minor:2026-09-21T06:39:46.805000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 08 Sep 2026 19:15:26 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors for image generation</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 08 Sep 2026 14:32:42 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ</link>
-<guid isPermaLink='false'>openai:01M20QBACYZMK2PRCJQCBSWTYJ:progress:monitoring:minor:2026-09-08T17:48:38+00:00</guid>
-<pubDate>Tue, 08 Sep 2026 18:00:28 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File uploads are delayed or failing</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 08 Sep 2026 14:39:27 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

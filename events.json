@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "21 min",
+  "headline": "🟢 Cursor is fine again",
+  "id": "cursor:9lzqc8vy6jjj:resolved:resolved:minor:2026-09-21T07:00:48.290000+00:00",
+  "impact": "minor",
+  "incident_id": "9lzqc8vy6jjj",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-21T07:04:52.091393+00:00",
+  "started_at": "2026-09-21T06:39:00+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation",
+  "transition": "resolved",
+  "url": "https://stspg.io/lfp649kkrqs0"
+ },
+ {
   "body": "We are investigating degraded performance for requests that use Grok 4.6. Users may see failed or retried requests in Automations, Cloud Agents, the CLI, and the IDE when Grok 4.6 is used. Other models are unaffected.",
   "components": [
    "Automations",
