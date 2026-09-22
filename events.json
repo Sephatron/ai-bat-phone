@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M3366VWWP8AY12Q1D50EFCSS:opened:investigating:minor:2026-09-21T23:53:20+00:00",
+  "impact": "minor",
+  "incident_id": "01M3366VWWP8AY12Q1D50EFCSS",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-22T00:00:32.492016+00:00",
+  "started_at": "2026-09-21T23:53:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Deepseek V4.1 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M3366VWWP8AY12Q1D50EFCSS"
+ },
+ {
   "body": "We're currently investigating an elevated error rate occurring with ElevenReader that may impact streaming and app navigation.",
   "components": [],
   "duration": "",
