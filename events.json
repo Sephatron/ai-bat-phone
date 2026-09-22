@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] We're aware of an issue where some connectors display as \"healthy\" in the a project while the underlying agent reports them as \"not set up.\" Attempting to remove an affected connection currently returns a 401 error. We're investigating and will post updates here.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Replit is having a wobble",
+  "id": "replit:810fa950-3785-43e9-b51d-7e2f6eda7d1c:opened:investigating:minor:2026-09-22T21:45:12.349586+00:00",
+  "impact": "minor",
+  "incident_id": "810fa950-3785-43e9-b51d-7e2f6eda7d1c",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-09-22T21:45:12.349586+00:00",
+  "started_at": "2026-09-22T21:44:47+00:00",
+  "status": "investigating",
+  "title": "Connectors are not showing as healthy",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/810fa950-3785-43e9-b51d-7e2f6eda7d1c"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "54 min",
