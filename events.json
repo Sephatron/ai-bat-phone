@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M34TAFM9WBGEBE3G1GBH4SE8:progress:monitoring:minor:2026-09-22T15:26:41+00:00",
+  "impact": "minor",
+  "incident_id": "01M34TAFM9WBGEBE3G1GBH4SE8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-22T15:30:24.170712+00:00",
+  "started_at": "2026-09-22T15:04:05+00:00",
+  "status": "monitoring",
+  "title": "Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
