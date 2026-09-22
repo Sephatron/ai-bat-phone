@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
+<link>https://stspg.io/vf4s5548f6d8</link>
+<guid isPermaLink='false'>cursor:ymdqwbhcc85q:opened:investigating:minor:2026-09-22T01:07:24.846000+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 01:15:18 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Tue, 22 Sep 2026 01:07:24 +0000</p><p>We are investigating degraded performance for requests that use Grok models. Users may see failed or retried requests in Automations, Cloud Agents, the CLI, and the IDE when Grok models are used. Other models are unaffected.</p><p><a href="https://stspg.io/vf4s5548f6d8">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/90s4l9yywzbk</link>
 <guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:opened:investigating:major:2026-09-22T00:57:26.258000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 10:00:44 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Wed, 09 Sep 2026 09:57:40 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M22SM327V4KT2DBH255R531V">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/7z953l3y4ktr</link>
-<guid isPermaLink='false'>moonshot:nlfywd6vg5hk:resolved:resolved:critical:2026-09-09T06:46:12.429000+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 07:00:26 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 1 min · Opened: Wed, 09 Sep 2026 06:45:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/7z953l3y4ktr">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are investigating degraded performance for requests that use Grok models. Users may see failed or retried requests in Automations, Cloud Agents, the CLI, and the IDE when Grok models are used. Other models are unaffected.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Cursor",
+  "id": "cursor:ymdqwbhcc85q:opened:investigating:minor:2026-09-22T01:07:24.846000+00:00",
+  "impact": "minor",
+  "incident_id": "ymdqwbhcc85q",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-22T01:15:18.238178+00:00",
+  "started_at": "2026-09-22T01:07:24.687000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation",
+  "transition": "opened",
+  "url": "https://stspg.io/vf4s5548f6d8"
+ },
+ {
   "body": "We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
