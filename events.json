@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is having a wobble",
+  "id": "openai:01M348TX2DX7KPM9X857N4APNV:opened:investigating:minor:2026-09-22T09:58:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M348TX2DX7KPM9X857N4APNV",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-22T10:00:16.584337+00:00",
+  "started_at": "2026-09-22T09:58:28+00:00",
+  "status": "investigating",
+  "title": "Increased error rate for Plus and Pro users.",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV"
+ },
+ {
   "body": "Enabling Lovable Cloud is back to normal operational levels.",
   "components": [],
   "duration": "14 min",

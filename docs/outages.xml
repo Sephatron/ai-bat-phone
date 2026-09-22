@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 22 Sep 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
+<link>https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV</link>
+<guid isPermaLink='false'>openai:01M348TX2DX7KPM9X857N4APNV:opened:investigating:minor:2026-09-22T09:58:28+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 10:00:16 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Increased error rate for Plus and Pro users.</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 22 Sep 2026 09:58:28 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 All clear from Lovable after 14 min]]></title>
 <link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 17:45:43 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 09 Sep 2026 17:42:43 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/rsb0980gvck0">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8</link>
-<guid isPermaLink='false'>openai:01M23KG62KKK448RN434CQ64Z8:progress:monitoring:none:2026-09-09T17:45:25+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 17:45:43 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Investigating unexpected usage limit resets</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Wed, 09 Sep 2026 17:29:55 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
