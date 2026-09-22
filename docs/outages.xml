@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M3366VWWP8AY12Q1D50EFCSS</link>
+<guid isPermaLink='false'>fireworks:01M3366VWWP8AY12Q1D50EFCSS:resolved:resolved:minor:2026-09-22T00:00:52+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 00:15:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 7 min · Opened: Mon, 21 Sep 2026 23:53:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3366VWWP8AY12Q1D50EFCSS">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M3366VWWP8AY12Q1D50EFCSS</link>
 <guid isPermaLink='false'>fireworks:01M3366VWWP8AY12Q1D50EFCSS:opened:investigating:minor:2026-09-21T23:53:20+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 06:45:27 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Wed, 09 Sep 2026 06:45:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/7z953l3y4ktr">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2</link>
-<guid isPermaLink='false'>openai:01M20PYYYGRT9303VHAPA7YNT2:resolved:resolved:minor:2026-09-08T21:59:24+00:00</guid>
-<pubDate>Tue, 08 Sep 2026 22:00:29 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for image generation</strong></p><p>Impact: minor · Status: resolved · Duration: 7h 26m · Opened: Tue, 08 Sep 2026 14:32:42 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
