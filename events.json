@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "35 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ymdqwbhcc85q:resolved:resolved:minor:2026-09-22T01:42:57.948000+00:00",
+  "impact": "minor",
+  "incident_id": "ymdqwbhcc85q",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-22T01:45:12.869975+00:00",
+  "started_at": "2026-09-22T01:07:24.687000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation",
+  "transition": "resolved",
+  "url": "https://stspg.io/vf4s5548f6d8"
+ },
+ {
   "body": "We have identified the cause of elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5 and are working on a fix. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",

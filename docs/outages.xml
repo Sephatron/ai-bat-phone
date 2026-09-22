@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://stspg.io/vf4s5548f6d8</link>
+<guid isPermaLink='false'>cursor:ymdqwbhcc85q:resolved:resolved:minor:2026-09-22T01:42:57.948000+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 01:45:12 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 35 min · Opened: Tue, 22 Sep 2026 01:07:24 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/vf4s5548f6d8">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude has identified the problem. Fix pending.]]></title>
 <link>https://stspg.io/90s4l9yywzbk</link>
 <guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:progress:identified:major:2026-09-22T01:17:33.002000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 12:45:45 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Claude MCP connection not working</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 09 Sep 2026 12:41:25 +0000</p><p>We are investigating an issue where the MCP connection is not working. Please note that this does not affect ElevenAgents, where everything is working correctly.</p><p><a href="https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M22SM327V4KT2DBH255R531V</link>
-<guid isPermaLink='false'>fireworks:01M22SM327V4KT2DBH255R531V:resolved:resolved:none:2026-09-09T12:10:33+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 12:15:44 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 2h 12m · Opened: Wed, 09 Sep 2026 09:57:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M22SM327V4KT2DBH255R531V">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
