@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 22 Sep 2026 02:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 03:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
+<link>https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G</link>
+<guid isPermaLink='false'>elevenlabs:01M334KC2AAWJREYT5BSCNF50G:resolved:resolved:none:2026-09-22T02:56:28+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 03:00:18 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: resolved · Duration: 3h 31m · Opened: Mon, 21 Sep 2026 23:25:13 +0000</p><p>The elevated error rate has been resolved and we're following up internally to prevent future occurrences.</p><p><a href="https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Claude is upright again. That took 1h 37m.]]></title>
 <link>https://stspg.io/90s4l9yywzbk</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 17:30:46 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Investigating unexpected usage limit resets</strong></p><p>Impact: unclassified · Status: investigating · Opened: Wed, 09 Sep 2026 17:29:55 +0000</p><p>Some Codex users may be experiencing unexpected usage limit resets.</p><p><a href="https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN</link>
-<guid isPermaLink='false'>openai:01M23BNX5V1XT9P3NP0PX56FTN:resolved:resolved:minor:2026-09-09T16:21:45+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 16:30:50 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Increased Error Rate For Pro and Plus Plan Conversations</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 08m · Opened: Wed, 09 Sep 2026 15:13:14 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

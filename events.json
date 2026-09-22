@@ -1,5 +1,23 @@
 [
  {
+  "body": "The elevated error rate has been resolved and we're following up internally to prevent future occurrences.",
+  "components": [],
+  "duration": "3h 31m",
+  "headline": "🟢 ElevenLabs is fine again",
+  "id": "elevenlabs:01M334KC2AAWJREYT5BSCNF50G:resolved:resolved:none:2026-09-22T02:56:28+00:00",
+  "impact": "none",
+  "incident_id": "01M334KC2AAWJREYT5BSCNF50G",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-22T03:00:18.037623+00:00",
+  "started_at": "2026-09-21T23:25:13+00:00",
+  "status": "resolved",
+  "title": "ElevenReader Elevated Error Rates",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G"
+ },
+ {
   "body": "This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.",
   "components": [
    "claude.ai",
