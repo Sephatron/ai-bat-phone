@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from Lovable after 14 min]]></title>
+<link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
+<guid isPermaLink='false'>lovable:01M341NK7X6TQ8MP0FH9NM93HK:resolved:resolved:major:2026-09-22T08:07:28+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 08:15:18 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: resolved · Duration: 14 min · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>Enabling Lovable Cloud is back to normal operational levels.</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Lovable is broken]]></title>
 <link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
 <guid isPermaLink='false'>lovable:01M341NK7X6TQ8MP0FH9NM93HK:opened:investigating:major:2026-09-22T07:54:25+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 17:45:43 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 09 Sep 2026 17:42:43 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/rsb0980gvck0">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8</link>
-<guid isPermaLink='false'>openai:01M23KG62KKK448RN434CQ64Z8:progress:monitoring:none:2026-09-09T17:45:25+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 17:45:43 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Investigating unexpected usage limit resets</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Wed, 09 Sep 2026 17:29:55 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
