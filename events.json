@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] The issue affecting existing connector connections has been resolved. Previously connected integrations should now appear again without reconnecting. If a connection still appears unavailable or you see a setup or removal error, please contact support with the affected connector and project so we can investigate.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit sorted itself out after a while",
+  "id": "replit:810fa950-3785-43e9-b51d-7e2f6eda7d1c:resolved:resolved:minor:2026-09-22T23:45:11.007266+00:00",
+  "impact": "minor",
+  "incident_id": "810fa950-3785-43e9-b51d-7e2f6eda7d1c",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-09-22T23:45:11.007266+00:00",
+  "started_at": "2026-09-22T23:42:05+00:00",
+  "status": "resolved",
+  "title": "Connector status mismatch and removal errors",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/810fa950-3785-43e9-b51d-7e2f6eda7d1c"
+ },
+ {
   "body": "[Investigating] We're aware of an issue where some connectors display as \"healthy\" in the a project while the underlying agent reports them as \"not set up.\" Attempting to remove an affected connection currently returns a 401 error. We're investigating and will post updates here.",
   "components": [],
   "duration": "",
