@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude is upright again. That took 1h 37m.]]></title>
+<link>https://stspg.io/90s4l9yywzbk</link>
+<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:resolved:resolved:major:2026-09-22T02:35:23.858000+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 02:45:12 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 37m · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/90s4l9yywzbk</link>
 <guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:progress:monitoring:major:2026-09-22T02:11:43.778000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 16:00:51 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Increased Error Rate For Pro and Plus Plan Conversations</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 09 Sep 2026 15:13:14 +0000</p><p>We have applied a mitigation and are monitoring the impacted services.</p><p><a href="https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
-<link>https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN</link>
-<guid isPermaLink='false'>openai:01M23BNX5V1XT9P3NP0PX56FTN:opened:investigating:minor:2026-09-09T15:13:14+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 15:15:42 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Increased Error Rate For Pro and Plus Plan Conversations</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 09 Sep 2026 15:13:14 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

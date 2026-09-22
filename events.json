@@ -1,5 +1,28 @@
 [
  {
+  "body": "This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "1h 37m",
+  "headline": "🟢 Claude is upright again. That took 1h 37m.",
+  "id": "anthropic:7g1qpkyz5gxh:resolved:resolved:major:2026-09-22T02:35:23.858000+00:00",
+  "impact": "major",
+  "incident_id": "7g1qpkyz5gxh",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-22T02:45:12.626286+00:00",
+  "started_at": "2026-09-22T00:57:26.117000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for multiple models",
+  "transition": "resolved",
+  "url": "https://stspg.io/90s4l9yywzbk"
+ },
+ {
   "body": "We have seen success rates return to normal across affected models, and are monitoring closely to ensure no further issues.",
   "components": [
    "claude.ai",

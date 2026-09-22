@@ -161,8 +161,8 @@
   "anthropic:7g1qpkyz5gxh": {
    "impact": "major",
    "last_seen_at": "2026-09-22T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-22T02:11:43.778000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-22T02:35:23.858000+00:00"
   },
   "anthropic:8k9mjhq7wmv3": {
    "impact": "minor",
