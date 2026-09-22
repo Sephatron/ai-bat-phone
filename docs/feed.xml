@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 22 Sep 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8</link>
+<guid isPermaLink='false'>openai:01M34TAFM9WBGEBE3G1GBH4SE8:resolved:resolved:minor:2026-09-22T15:58:32+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 16:00:19 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: resolved · Duration: 54 min · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 06:15:25 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>We are still implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>
-<guid isPermaLink='false'>openai:01M24HYC9SX2Q4471EVMY6EXQE:opened:investigating:minor:2026-09-10T02:21:57+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 02:30:22 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

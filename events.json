@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "54 min",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M34TAFM9WBGEBE3G1GBH4SE8:resolved:resolved:minor:2026-09-22T15:58:32+00:00",
+  "impact": "minor",
+  "incident_id": "01M34TAFM9WBGEBE3G1GBH4SE8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-22T16:00:19.876031+00:00",
+  "started_at": "2026-09-22T15:04:05+00:00",
+  "status": "resolved",
+  "title": "Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
