@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "Cloud Agents"
+  ],
+  "duration": "43 min",
+  "headline": "🟢 Cursor is fine again",
+  "id": "cursor:0cn36t8pvhfj:resolved:resolved:minor:2026-09-22T13:45:43.155000+00:00",
+  "impact": "minor",
+  "incident_id": "0cn36t8pvhfj",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-22T14:00:17.028194+00:00",
+  "started_at": "2026-09-22T13:02:04.332000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Automations and Cloud Agents w/ Grok 4.7",
+  "transition": "resolved",
+  "url": "https://stspg.io/ym0lsclh5kkx"
+ },
+ {
   "body": "The root cause has been identified and a fix is being implemented.",
   "components": [
    "Automations",
