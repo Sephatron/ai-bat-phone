@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 01:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
+<link>https://stspg.io/90s4l9yywzbk</link>
+<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:opened:investigating:major:2026-09-22T00:57:26.258000+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 01:00:29 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Baseten lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/h2pvtp3x3np1</link>

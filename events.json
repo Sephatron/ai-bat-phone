@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔴 Claude is out. Go and look at a tree.",
+  "id": "anthropic:7g1qpkyz5gxh:opened:investigating:major:2026-09-22T00:57:26.258000+00:00",
+  "impact": "major",
+  "incident_id": "7g1qpkyz5gxh",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-22T01:00:29.187836+00:00",
+  "started_at": "2026-09-22T00:57:26.117000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors for multiple models",
+  "transition": "opened",
+  "url": "https://stspg.io/90s4l9yywzbk"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "7 min",
