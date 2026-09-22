@@ -1,5 +1,28 @@
 [
  {
+  "body": "We have seen success rates return to normal across affected models, and are monitoring closely to ensure no further issues.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:7g1qpkyz5gxh:progress:monitoring:major:2026-09-22T02:11:43.778000+00:00",
+  "impact": "major",
+  "incident_id": "7g1qpkyz5gxh",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-22T02:15:14.631564+00:00",
+  "started_at": "2026-09-22T00:57:26.117000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for multiple models",
+  "transition": "progress",
+  "url": "https://stspg.io/90s4l9yywzbk"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",

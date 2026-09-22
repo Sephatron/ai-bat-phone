@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/90s4l9yywzbk</link>
+<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:progress:monitoring:major:2026-09-22T02:11:43.778000+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 02:15:14 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>We have seen success rates return to normal across affected models, and are monitoring closely to ensure no further issues.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://stspg.io/vf4s5548f6d8</link>
 <guid isPermaLink='false'>cursor:ymdqwbhcc85q:resolved:resolved:minor:2026-09-22T01:42:57.948000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 15:15:42 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Increased Error Rate For Pro and Plus Plan Conversations</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 09 Sep 2026 15:13:14 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
-<link>https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9</link>
-<guid isPermaLink='false'>elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:opened:investigating:minor:2026-09-09T12:41:25+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 12:45:45 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Claude MCP connection not working</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 09 Sep 2026 12:41:25 +0000</p><p>We are investigating an issue where the MCP connection is not working. Please note that this does not affect ElevenAgents, where everything is working correctly.</p><p><a href="https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
