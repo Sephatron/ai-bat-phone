@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 22 Sep 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Tools down: Lovable is broken]]></title>
+<link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
+<guid isPermaLink='false'>lovable:01M341NK7X6TQ8MP0FH9NM93HK:opened:investigating:major:2026-09-22T07:54:25+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 08:00:15 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Claude is upright again. That took 1h 37m.]]></title>
 <link>https://stspg.io/90s4l9yywzbk</link>

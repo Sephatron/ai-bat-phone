@@ -1,5 +1,23 @@
 [
  {
+  "body": "We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 Tools down: Lovable is broken",
+  "id": "lovable:01M341NK7X6TQ8MP0FH9NM93HK:opened:investigating:major:2026-09-22T07:54:25+00:00",
+  "impact": "major",
+  "incident_id": "01M341NK7X6TQ8MP0FH9NM93HK",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-22T08:00:15.663916+00:00",
+  "started_at": "2026-09-22T07:53:14+00:00",
+  "status": "investigating",
+  "title": "Elevated errors when Enabling Lovable Cloud",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK"
+ },
+ {
   "body": "The elevated error rate has been resolved and we're following up internally to prevent future occurrences.",
   "components": [],
   "duration": "3h 31m",

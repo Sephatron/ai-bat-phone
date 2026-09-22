@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 22 Sep 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Tools down: Lovable is broken]]></title>
+<link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
+<guid isPermaLink='false'>lovable:01M341NK7X6TQ8MP0FH9NM93HK:opened:investigating:major:2026-09-22T07:54:25+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 08:00:15 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 ElevenLabs is fine again]]></title>
 <link>https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 17:45:43 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Investigating unexpected usage limit resets</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Wed, 09 Sep 2026 17:29:55 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
-<link>https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8</link>
-<guid isPermaLink='false'>openai:01M23KG62KKK448RN434CQ64Z8:opened:investigating:none:2026-09-09T17:29:55+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 17:30:46 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Investigating unexpected usage limit resets</strong></p><p>Impact: unclassified · Status: investigating · Opened: Wed, 09 Sep 2026 17:29:55 +0000</p><p>Some Codex users may be experiencing unexpected usage limit resets.</p><p><a href="https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
