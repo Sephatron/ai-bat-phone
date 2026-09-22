@@ -2,9 +2,7 @@
  "heartbeat": "2026-09-22T01:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-09-22T01:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "anthropic": {
    "consecutive_failures": 0
@@ -13,9 +11,7 @@
    "consecutive_failures": 0
   },
   "cerebras": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-09-22T01:00:00+00:00",
-   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cohere": {
    "consecutive_failures": 0
@@ -62,9 +58,7 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-09-22T01:00:00+00:00",
-   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "vercel": {
    "consecutive_failures": 0
@@ -167,8 +161,8 @@
   "anthropic:7g1qpkyz5gxh": {
    "impact": "major",
    "last_seen_at": "2026-09-22T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-22T00:57:26.258000+00:00"
+   "status": "identified",
+   "updated_at": "2026-09-22T01:17:33.002000+00:00"
   },
   "anthropic:8k9mjhq7wmv3": {
    "impact": "minor",
