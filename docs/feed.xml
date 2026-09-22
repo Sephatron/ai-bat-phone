@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 39 min]]></title>
+<link>https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV</link>
+<guid isPermaLink='false'>openai:01M348TX2DX7KPM9X857N4APNV:resolved:resolved:minor:2026-09-22T10:37:42+00:00</guid>
+<pubDate>Tue, 22 Sep 2026 10:45:13 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Increased error rate for Plus and Pro users.</strong></p><p>Impact: minor · Status: resolved · Duration: 39 min · Opened: Tue, 22 Sep 2026 09:58:28 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 OpenAI is having a wobble]]></title>
 <link>https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV</link>
 <guid isPermaLink='false'>openai:01M348TX2DX7KPM9X857N4APNV:opened:investigating:minor:2026-09-22T09:58:28+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 09 Sep 2026 18:00:51 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Investigating unexpected usage limit resets</strong></p><p>Impact: unclassified · Status: resolved · Duration: 24 min · Opened: Wed, 09 Sep 2026 17:29:55 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Baseten is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/rsb0980gvck0</link>
-<guid isPermaLink='false'>baseten:5khtpsscbx6x:progress:monitoring:minor:2026-09-09T17:45:56.637000+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 17:46:22 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: monitoring · Affects: Model APIs · Opened: Wed, 09 Sep 2026 17:42:43 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/rsb0980gvck0">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

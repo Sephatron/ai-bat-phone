@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "39 min",
+  "headline": "🟢 OpenAI sorted itself out after 39 min",
+  "id": "openai:01M348TX2DX7KPM9X857N4APNV:resolved:resolved:minor:2026-09-22T10:37:42+00:00",
+  "impact": "minor",
+  "incident_id": "01M348TX2DX7KPM9X857N4APNV",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-22T10:45:13.092651+00:00",
+  "started_at": "2026-09-22T09:58:28+00:00",
+  "status": "resolved",
+  "title": "Increased error rate for Plus and Pro users.",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
