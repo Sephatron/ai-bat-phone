@@ -1,5 +1,25 @@
 [
  {
+  "body": "The root cause has been identified and a fix is being implemented.",
+  "components": [
+   "Cloud Agents"
+  ],
+  "duration": "",
+  "headline": "🔍 Cursor has found the culprit",
+  "id": "cursor:lh1fpdkb4kcp:opened:identified:minor:2026-09-23T17:15:30.024000+00:00",
+  "impact": "minor",
+  "incident_id": "lh1fpdkb4kcp",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-23T17:15:53.463099+00:00",
+  "started_at": "2026-09-23T17:14:16.478000+00:00",
+  "status": "identified",
+  "title": "Investigating — Cloud Agent Dockerfile Builds",
+  "transition": "opened",
+  "url": "https://stspg.io/gw79dn0n9qf0"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "31 min",

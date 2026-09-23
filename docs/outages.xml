@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Cursor has found the culprit]]></title>
+<link>https://stspg.io/gw79dn0n9qf0</link>
+<guid isPermaLink='false'>cursor:lh1fpdkb4kcp:opened:identified:minor:2026-09-23T17:15:30.024000+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 17:15:53 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: identified · Affects: Cloud Agents · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>The root cause has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5</link>
 <guid isPermaLink='false'>fireworks:01M376PSV9XP5X666QF3Y0NYW5:resolved:resolved:minor:2026-09-23T13:50:12+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 14:30:34 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: resolved · Duration: 12h 06m · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Lovable is having a wobble]]></title>
-<link>https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP</link>
-<guid isPermaLink='false'>lovable:01M25R4X6N20P0J4SX0EZE8HWP:opened:investigating:minor:2026-09-10T13:29:37+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 13:30:27 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Map and location search issues in some published projects</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 13:29:37 +0000</p><p>Some published projects that use map and location search features may temporarily not load results correctly, for example place lookups or location images. Projects that use our built-in maps connector are not affected. We will share an update as soon as we have more information.</p><p><a href="https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
