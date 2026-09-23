@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
+<link>https://stspg.io/jlvlxpp59d7d</link>
+<guid isPermaLink='false'>cursor:wkjw4b51h1yq:opened:investigating:minor:2026-09-23T20:28:02.188000+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 20:30:18 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation - Grok 4.7</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Wed, 23 Sep 2026 20:28:02 +0000</p><p>We are investigating degraded performance for requests that use Grok 4.7.</p><p><a href="https://stspg.io/jlvlxpp59d7d">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is fine again]]></title>
 <link>https://stspg.io/gw79dn0n9qf0</link>
 <guid isPermaLink='false'>cursor:lh1fpdkb4kcp:resolved:resolved:minor:2026-09-23T18:43:20.553000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 17:00:26 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Map and location search issues in some published projects</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 25m · Opened: Thu, 10 Sep 2026 13:29:37 +0000</p><p>Map and location search issues in some published projects have been resolved. We have pushed a fix so that projects using location search are guided to the working setup, and if your project is still affected you can ask the Lovable agent to fix it and it will apply the update for you. All systems are operating normally.</p><p><a href="https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Claude has found the culprit]]></title>
-<link>https://stspg.io/5yp3rhhztm30</link>
-<guid isPermaLink='false'>anthropic:r1pqn1kb4hvk:opened:identified:minor:2026-09-10T15:54:10.203000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 16:00:40 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: minor · Status: identified · Affects: Claude Cowork · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>A Windows update released September 8 has caused Claude Cowork on Windows is unable to run local commands on your PC, because its workspace can no longer reach your computer’s drive. For most users, chat and reading or editing files still work. We have identified the cause as a change in Windows; Microsoft has developed a fix and is working on releasing it. There’s no in-app workaround yet, and restarting or reinstalling won’t help. We’ll post an update when we have more to share.</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
