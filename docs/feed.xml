@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
+<link>https://stspg.io/m1ps7yrhp4n8</link>
+<guid isPermaLink='false'>github:8zc63m64hy36:opened:investigating:minor:2026-09-23T10:13:42.117000+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 10:15:13 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with API Requests and Projects</strong></p><p>Impact: minor · Status: investigating · Affects: API Requests · Opened: Wed, 23 Sep 2026 10:11:12 +0000</p><p>We are investigating reports of degraded performance for API Requests</p><p><a href="https://stspg.io/m1ps7yrhp4n8">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 41 min]]></title>
 <link>https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1</link>
 <guid isPermaLink='false'>openai:01M36RMC01ZFWQ861WYJKC4XE1:resolved:resolved:minor:2026-09-23T09:54:16+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 12:15:25 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/m12qwdbbpy50</link>
-<guid isPermaLink='false'>moonshot:8r4x8clzcf9z:resolved:resolved:critical:2026-09-10T11:46:13.217000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 11:47:33 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: under a minute · Opened: Thu, 10 Sep 2026 11:45:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/m12qwdbbpy50">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
