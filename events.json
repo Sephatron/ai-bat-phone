@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M36RMC01ZFWQ861WYJKC4XE1:opened:identified:minor:2026-09-23T09:13:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M36RMC01ZFWQ861WYJKC4XE1",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-23T09:15:19.766331+00:00",
+  "started_at": "2026-09-23T09:13:00+00:00",
+  "status": "identified",
+  "title": "Elevated Error Rates for ChatGPT across Plus and Pro plans.",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1"
+ },
+ {
   "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)",
   "components": [
    "DeepSeek V4.1 Flash API服务(API Service)",
