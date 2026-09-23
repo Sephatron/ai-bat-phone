@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 23 Sep 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 41 min]]></title>
+<link>https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1</link>
+<guid isPermaLink='false'>openai:01M36RMC01ZFWQ861WYJKC4XE1:resolved:resolved:minor:2026-09-23T09:54:16+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 10:00:28 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT across Plus and Pro plans.</strong></p><p>Impact: minor · Status: resolved · Duration: 41 min · Opened: Wed, 23 Sep 2026 09:13:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 11:45:22 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Thu, 10 Sep 2026 11:45:13 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/m12qwdbbpy50">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Moonshot AI (Kimi) after 5 min]]></title>
-<link>https://stspg.io/27glfwtyyhrg</link>
-<guid isPermaLink='false'>moonshot:fvvxtzvbk64p:resolved:resolved:critical:2026-09-10T11:35:12.094000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 11:45:22 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 5 min · Opened: Thu, 10 Sep 2026 11:30:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/27glfwtyyhrg">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
