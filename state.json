@@ -3920,6 +3920,12 @@
    "status": "resolved",
    "updated_at": "2026-09-23T09:54:16+00:00"
   },
+  "openai:01M389CDQ97B11QPMSRAAYSE5S": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-23T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-23T23:25:00+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",

@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that mobile users are not able to see work mode or the model picker when using ChatGPT. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M389CDQ97B11QPMSRAAYSE5S:opened:investigating:minor:2026-09-23T23:25:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M389CDQ97B11QPMSRAAYSE5S",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-23T23:30:11.936879+00:00",
+  "started_at": "2026-09-23T23:25:00+00:00",
+  "status": "investigating",
+  "title": "Mobile users unable to see Work Mode and the Model Picker",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S"
+ },
+ {
   "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)",
   "components": [
    "DeepSeek V4.1 Flash API服务(API Service)",

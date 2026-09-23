@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
+<link>https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S</link>
+<guid isPermaLink='false'>openai:01M389CDQ97B11QPMSRAAYSE5S:opened:investigating:minor:2026-09-23T23:25:00+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 23:30:11 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Mobile users unable to see Work Mode and the Model Picker</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 23 Sep 2026 23:25:00 +0000</p><p>We have identified that mobile users are not able to see work mode or the model picker when using ChatGPT. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 DeepSeek has stopped wobbling]]></title>
 <link>https://status.deepseek.com/incidents/7023110499287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7023110499287:resolved:resolved:minor:2026-09-23T23:15:14.680160+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 18:45:21 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 8 min · Opened: Thu, 10 Sep 2026 18:27:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
-<link>https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12</link>
-<guid isPermaLink='false'>fireworks:01M269613HXXRFAHYMKCW99M12:opened:investigating:none:2026-09-10T18:27:20+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 18:30:25 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Thu, 10 Sep 2026 18:27:20 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
