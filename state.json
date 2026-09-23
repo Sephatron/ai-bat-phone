@@ -2,10 +2,14 @@
  "heartbeat": "2026-09-23T01:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-23T01:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: <urlopen error [Errno 104] Connection reset by peer>"
   },
   "anthropic": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-23T01:00:00+00:00",
+   "last_error": "https://status.claude.com/api/v2/incidents.json: <urlopen error [Errno 104] Connection reset by peer>"
   },
   "baseten": {
    "consecutive_failures": 0
