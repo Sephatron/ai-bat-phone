@@ -1850,6 +1850,12 @@
    "status": "resolved",
    "updated_at": "2026-09-23T07:35:33+00:00"
   },
+  "deepseek:urn:flashduty:change:7023110499287": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-23T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-23T22:20:46+00:00"
+  },
   "elevenlabs:01KRNEHFTPMY0HWNAYGWZAM5X3": {
    "impact": "major",
    "last_seen_at": "2026-09-04T00:00:00+00:00",
