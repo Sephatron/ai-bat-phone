@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "8 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:wkjw4b51h1yq:resolved:resolved:minor:2026-09-23T20:36:47.192000+00:00",
+  "impact": "minor",
+  "incident_id": "wkjw4b51h1yq",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-23T20:45:11.710143+00:00",
+  "started_at": "2026-09-23T20:28:02.033000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation - Grok 4.7",
+  "transition": "resolved",
+  "url": "https://stspg.io/jlvlxpp59d7d"
+ },
+ {
   "body": "We are investigating degraded performance for requests that use Grok 4.7.",
   "components": [
    "Automations",

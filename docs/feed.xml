@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://stspg.io/jlvlxpp59d7d</link>
+<guid isPermaLink='false'>cursor:wkjw4b51h1yq:resolved:resolved:minor:2026-09-23T20:36:47.192000+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 20:45:11 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation - Grok 4.7</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 8 min · Opened: Wed, 23 Sep 2026 20:28:02 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/jlvlxpp59d7d">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
 <link>https://stspg.io/jlvlxpp59d7d</link>
 <guid isPermaLink='false'>cursor:wkjw4b51h1yq:opened:investigating:minor:2026-09-23T20:28:02.188000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 17:45:25 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>We've identified an issue where some customers may experience increased errors from Connect and Passport. We are currently investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
-<link>https://stspg.io/l9tz2hnfxtvz</link>
-<guid isPermaLink='false'>cursor:8mwzyv0n0jyk:opened:investigating:minor:2026-09-10T17:07:24.582000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 17:15:28 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Review Agents and Cloud Agents</strong></p><p>Impact: minor · Status: investigating · Affects: Review Agents, Cloud Agents · Opened: Thu, 10 Sep 2026 17:07:24 +0000</p><p>We are investigating a service degradation affecting Review Agents and Cloud Agents. Cloud Agents using "Privacy Mode" may experience errors and start delays. For Review Agents, Security Agents and PR Approval agents are impacted.</p><p><a href="https://stspg.io/l9tz2hnfxtvz">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
