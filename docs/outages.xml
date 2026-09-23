@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/gw79dn0n9qf0</link>
+<guid isPermaLink='false'>cursor:lh1fpdkb4kcp:progress:monitoring:minor:2026-09-23T18:39:34.660000+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 18:45:18 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: monitoring · Affects: Cloud Agents · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Cursor has found the culprit]]></title>
 <link>https://stspg.io/gw79dn0n9qf0</link>
 <guid isPermaLink='false'>cursor:lh1fpdkb4kcp:opened:identified:minor:2026-09-23T17:15:30.024000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 15:00:42 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Claude MCP connection not working</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 2h · Opened: Wed, 09 Sep 2026 12:41:25 +0000</p><p>Our engineers have deployed a fix that has fully restored Claude MCP functionality.</p><p><a href="https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>
-<guid isPermaLink='false'>openai:01M24HYC9SX2Q4471EVMY6EXQE:resolved:resolved:minor:2026-09-10T14:28:15+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 14:30:34 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: resolved · Duration: 12h 06m · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

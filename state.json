@@ -1487,8 +1487,8 @@
   "cursor:lh1fpdkb4kcp": {
    "impact": "minor",
    "last_seen_at": "2026-09-23T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-23T17:15:30.024000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-23T18:39:34.660000+00:00"
   },
   "cursor:lqp75t47dvpm": {
    "impact": "major",
@@ -2442,7 +2442,7 @@
    "impact": "minor",
    "last_seen_at": "2026-09-23T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-09-23T17:30:30.448000+00:00"
+   "updated_at": "2026-09-23T18:42:01.381000+00:00"
   },
   "github:9nmsrrxb5brs": {
    "impact": "maintenance",
