@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 23 Sep 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5</link>
+<guid isPermaLink='false'>fireworks:01M376PSV9XP5X666QF3Y0NYW5:resolved:resolved:minor:2026-09-23T13:50:12+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 14:00:24 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.2 US</strong></p><p>Impact: minor · Status: resolved · Duration: 31 min · Opened: Wed, 23 Sep 2026 13:19:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
 <link>https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 13:30:27 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Map and location search issues in some published projects</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 13:29:37 +0000</p><p>Some published projects that use map and location search features may temporarily not load results correctly, for example place lookups or location images. Projects that use our built-in maps connector are not affected. We will share an update as soon as we have more information.</p><p><a href="https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE</link>
-<guid isPermaLink='false'>openai:01M24HYC9SX2Q4471EVMY6EXQE:progress:monitoring:minor:2026-09-10T12:06:23+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 12:15:25 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

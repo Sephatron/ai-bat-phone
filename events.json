@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "31 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M376PSV9XP5X666QF3Y0NYW5:resolved:resolved:minor:2026-09-23T13:50:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M376PSV9XP5X666QF3Y0NYW5",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-09-23T14:00:24.370689+00:00",
+  "started_at": "2026-09-23T13:19:00+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.2 US",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.2 US. We are actively investigating.",
   "components": [],
   "duration": "",
