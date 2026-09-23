@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 23 Sep 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔁 Put the tools back down: DeepSeek has relapsed]]></title>
+<link>https://status.deepseek.com/incidents/7023110499287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7023110499287:reopened:investigating:minor:2026-09-23T23:00:19.885702+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 23:00:19 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: investigating · Affects: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice) · Opened: Wed, 23 Sep 2026 22:20:46 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7023110499287">DeepSeek status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 DeepSeek has stopped wobbling]]></title>
 <link>https://status.deepseek.com/incidents/7023110499287</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 18:15:20 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: identified · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 24 min]]></title>
-<link>https://stspg.io/l9tz2hnfxtvz</link>
-<guid isPermaLink='false'>cursor:8mwzyv0n0jyk:resolved:resolved:minor:2026-09-10T17:32:05.105000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 17:45:25 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Review Agents and Cloud Agents</strong></p><p>Impact: minor · Status: resolved · Affects: Review Agents, Cloud Agents · Duration: 24 min · Opened: Thu, 10 Sep 2026 17:07:24 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l9tz2hnfxtvz">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
