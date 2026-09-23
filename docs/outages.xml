@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
+<link>https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5</link>
+<guid isPermaLink='false'>fireworks:01M376PSV9XP5X666QF3Y0NYW5:opened:investigating:minor:2026-09-23T13:19:00+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 13:30:14 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.2 US</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 23 Sep 2026 13:19:00 +0000</p><p>We are seeing impacted performance for GLM 5.2 US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
 <link>https://stspg.io/m1ps7yrhp4n8</link>
 <guid isPermaLink='false'>github:8zc63m64hy36:opened:investigating:minor:2026-09-23T10:13:42.117000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 12:15:25 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Unable to open shared ChatGPT Project using direct link</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 10 Sep 2026 02:21:57 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/m12qwdbbpy50</link>
-<guid isPermaLink='false'>moonshot:8r4x8clzcf9z:resolved:resolved:critical:2026-09-10T11:46:13.217000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 11:47:33 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: under a minute · Opened: Thu, 10 Sep 2026 11:45:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/m12qwdbbpy50">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
