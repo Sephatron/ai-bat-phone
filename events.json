@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Cloud Agents"
+  ],
+  "duration": "1h 29m",
+  "headline": "🟢 Cursor is fine again",
+  "id": "cursor:lh1fpdkb4kcp:resolved:resolved:minor:2026-09-23T18:43:20.553000+00:00",
+  "impact": "minor",
+  "incident_id": "lh1fpdkb4kcp",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-23T19:00:25.616803+00:00",
+  "started_at": "2026-09-23T17:14:16.478000+00:00",
+  "status": "resolved",
+  "title": "Investigating — Cloud Agent Dockerfile Builds",
+  "transition": "resolved",
+  "url": "https://stspg.io/gw79dn0n9qf0"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring for service restoration.",
   "components": [
    "Cloud Agents"

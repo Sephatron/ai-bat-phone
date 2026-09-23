@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 23 Sep 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor is fine again]]></title>
+<link>https://stspg.io/gw79dn0n9qf0</link>
+<guid isPermaLink='false'>cursor:lh1fpdkb4kcp:resolved:resolved:minor:2026-09-23T18:43:20.553000+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 19:00:25 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: resolved · Affects: Cloud Agents · Duration: 1h 29m · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/gw79dn0n9qf0</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 16:00:40 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: minor · Status: identified · Affects: Claude Cowork · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>A Windows update released September 8 has caused Claude Cowork on Windows is unable to run local commands on your PC, because its workspace can no longer reach your computer’s drive. For most users, chat and reading or editing files still work. We have identified the cause as a change in Windows; Microsoft has developed a fix and is working on releasing it. There’s no in-app workaround yet, and restarting or reinstalling won’t help. We’ll post an update when we have more to share.</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
-<link>https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9</link>
-<guid isPermaLink='false'>elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:resolved:resolved:minor:2026-09-10T14:58:59+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 15:00:42 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Claude MCP connection not working</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 2h · Opened: Wed, 09 Sep 2026 12:41:25 +0000</p><p>Our engineers have deployed a fix that has fully restored Claude MCP functionality.</p><p><a href="https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
