@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M389CDQ97B11QPMSRAAYSE5S:progress:monitoring:minor:2026-09-23T23:32:53+00:00",
+  "impact": "minor",
+  "incident_id": "01M389CDQ97B11QPMSRAAYSE5S",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-23T23:45:12.835438+00:00",
+  "started_at": "2026-09-23T23:25:00+00:00",
+  "status": "monitoring",
+  "title": "Mobile users unable to see Work Mode and the Model Picker",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S"
+ },
+ {
   "body": "We have identified that mobile users are not able to see work mode or the model picker when using ChatGPT. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",

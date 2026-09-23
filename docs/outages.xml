@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S</link>
+<guid isPermaLink='false'>openai:01M389CDQ97B11QPMSRAAYSE5S:progress:monitoring:minor:2026-09-23T23:32:53+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 23:45:12 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Mobile users unable to see Work Mode and the Model Picker</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 23 Sep 2026 23:25:00 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
 <link>https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S</link>
 <guid isPermaLink='false'>openai:01M389CDQ97B11QPMSRAAYSE5S:opened:investigating:minor:2026-09-23T23:25:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 19:30:23 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: resolved · Duration: 1h 33m · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>Connect and Passport have fully recovered. This incident has been resolved.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12</link>
-<guid isPermaLink='false'>fireworks:01M269613HXXRFAHYMKCW99M12:resolved:resolved:none:2026-09-10T18:35:26+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 18:45:21 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 8 min · Opened: Thu, 10 Sep 2026 18:27:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
