@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 DeepSeek has stopped wobbling]]></title>
+<link>https://status.deepseek.com/incidents/7023110499287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7023110499287:resolved:resolved:minor:2026-09-23T23:15:14.680160+00:00</guid>
+<pubDate>Wed, 23 Sep 2026 23:15:14 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice) · Opened: Wed, 23 Sep 2026 22:20:46 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7023110499287">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔁 Put the tools back down: DeepSeek has relapsed]]></title>
 <link>https://status.deepseek.com/incidents/7023110499287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7023110499287:reopened:investigating:minor:2026-09-23T23:00:19.885702+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 18:45:21 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 8 min · Opened: Thu, 10 Sep 2026 18:27:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
-<link>https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12</link>
-<guid isPermaLink='false'>fireworks:01M269613HXXRFAHYMKCW99M12:opened:investigating:none:2026-09-10T18:27:20+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 18:30:25 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Thu, 10 Sep 2026 18:27:20 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
