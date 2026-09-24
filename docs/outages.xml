@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Baseten has identified the problem. Fix pending.]]></title>
+<link>https://stspg.io/l4t4ggz466gx</link>
+<guid isPermaLink='false'>baseten:48qpxdqzvmd2:opened:identified:major:2026-09-24T07:43:41.948000+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 07:45:20 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: identified · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is fine again]]></title>
 <link>https://stspg.io/m1ps7yrhp4n8</link>
 <guid isPermaLink='false'>github:8zc63m64hy36:resolved:resolved:minor:2026-09-24T04:55:33.964000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 20:45:20 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Agent experiencing increased errors</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 20:33:51 +0000</p><p>[Investigating] We are investigating this issue.</p><p><a href="https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
-<link>https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF</link>
-<guid isPermaLink='false'>openai:01M26E3PPAYJMMRHX2MZJCTHMF:opened:investigating:none:2026-09-10T19:53:26+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 20:00:26 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: investigating · Opened: Thu, 10 Sep 2026 19:53:26 +0000</p><p>We are investigating technical issues affecting our customer support systems. Customers may experience longer than usual response times. We are working to restore normal operations.</p><p><a href="https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
