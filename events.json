@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Dedicated Inference"
+  ],
+  "duration": "46 min",
+  "headline": "🟢 Baseten is back. Grass sufficiently touched.",
+  "id": "baseten:48qpxdqzvmd2:resolved:resolved:major:2026-09-24T08:30:05.837000+00:00",
+  "impact": "major",
+  "incident_id": "48qpxdqzvmd2",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-24T08:30:52.801827+00:00",
+  "started_at": "2026-09-24T07:43:41.868000+00:00",
+  "status": "resolved",
+  "title": "Elevated inference 500s for a subset of models deployed in 1 US-East cluster",
+  "transition": "resolved",
+  "url": "https://stspg.io/l4t4ggz466gx"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring the results.",
   "components": [
    "Dedicated Inference"

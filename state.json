@@ -503,8 +503,8 @@
   "baseten:48qpxdqzvmd2": {
    "impact": "major",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-24T08:05:56.523000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-24T08:30:05.837000+00:00"
   },
   "baseten:4v8v1mwdzrpq": {
    "impact": "minor",
