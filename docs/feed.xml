@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 Planned works at Baseten]]></title>
+<link>https://stspg.io/cvn1v4jgybrg</link>
+<guid isPermaLink='false'>baseten:grfq44rzjt0y:opened:scheduled:maintenance:2026-09-24T15:11:04.855000+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 15:15:22 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: Model Management API, Web Application · Opened: Thu, 24 Sep 2026 15:11:04 +0000</p><p>We will be performing a database upgrade between 6:00 PM and 7:00 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour for the web application &amp; management API. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.</p><p><a href="https://stspg.io/cvn1v4jgybrg">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/l4t4ggz466gx</link>
 <guid isPermaLink='false'>baseten:48qpxdqzvmd2:resolved:resolved:major:2026-09-24T08:30:05.837000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 21:00:29 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Resolved: Agent experiencing increased errors</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 10 Sep 2026 20:58:30 +0000</p><p>[Resolved] We have deployed a fix for increased error in agents. We apologize for any inconvenience.</p><p><a href="https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF</link>
-<guid isPermaLink='false'>openai:01M26E3PPAYJMMRHX2MZJCTHMF:progress:identified:none:2026-09-10T20:54:53+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 21:00:29 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: identified · Opened: Thu, 10 Sep 2026 19:53:26 +0000</p><p>We have identified the cause of the issue affecting our customer support systems and are implementing a mitigation. Customers may continue to experience longer than usual response times.</p><p><a href="https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

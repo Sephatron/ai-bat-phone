@@ -656,6 +656,12 @@
    "status": "resolved",
    "updated_at": "2026-06-05T03:36:17.954000+00:00"
   },
+  "baseten:grfq44rzjt0y": {
+   "impact": "maintenance",
+   "last_seen_at": "2026-09-24T00:00:00+00:00",
+   "status": "scheduled",
+   "updated_at": "2026-09-24T15:11:04.855000+00:00"
+  },
   "baseten:hpfyy75qvv4x": {
    "impact": "minor",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
