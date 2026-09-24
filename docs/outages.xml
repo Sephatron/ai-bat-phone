@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Lovable has a limp, not a break]]></title>
+<link>https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y</link>
+<guid isPermaLink='false'>lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:opened:investigating:minor:2026-09-24T19:27:14+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 19:30:09 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some .shop domains purchased through Lovable are unavailable</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 19:27:14 +0000</p><p>Some custom domains ending in .shop that were purchased through Lovable are intermittently not loading. We're investigating the cause of this issue.</p><p><a href="https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
 <link>https://stspg.io/2yvpl6y9sw33</link>
 <guid isPermaLink='false'>baseten:rj514rfwk1y4:opened:investigating:minor:2026-09-24T19:09:42.910000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 23:30:23 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated latency on the Claude API for some users</strong></p><p>Impact: minor · Status: resolved · Affects: Claude API (api.anthropic.com), Claude Cowork · Duration: 1h 40m · Opened: Thu, 10 Sep 2026 21:43:40 +0000</p><p>The issue affecting Claude services has been mitigated.</p><p><a href="https://stspg.io/hfs7749ykl14">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Perplexity is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:unreachable:2026-09-10T21:00:00+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 22:00:24 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

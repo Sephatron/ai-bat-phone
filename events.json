@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some custom domains ending in .shop that were purchased through Lovable are intermittently not loading. We're investigating the cause of this issue.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable has a limp, not a break",
+  "id": "lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:opened:investigating:minor:2026-09-24T19:27:14+00:00",
+  "impact": "minor",
+  "incident_id": "01M3AE5SD49CVXRD5RPVRN1K9Y",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-24T19:30:09.901796+00:00",
+  "started_at": "2026-09-24T19:27:14+00:00",
+  "status": "investigating",
+  "title": "Some .shop domains purchased through Lovable are unavailable",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y"
+ },
+ {
   "body": "We are currently investigating this issue.",
   "components": [
    "Dedicated Inference"
