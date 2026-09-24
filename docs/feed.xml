@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Lovable is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y</link>
+<guid isPermaLink='false'>lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:progress:monitoring:minor:2026-09-24T20:16:38+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 20:30:13 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some .shop domains purchased through Lovable are unavailable</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 24 Sep 2026 19:27:14 +0000</p><p>This issue is related to an outage at the .shop domain registry, affecting .shop domains across all providers. Affected domains are starting to load again, and we're monitoring as service is fully restored.</p><p><a href="https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y">Lovable status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/g2q4g5kv9frp</link>
+<guid isPermaLink='false'>github:1dk955gg3bvz:progress:monitoring:minor:2026-09-24T20:24:57.892000+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 20:30:13 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with billing information updates</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 24 Sep 2026 16:51:32 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/g2q4g5kv9frp">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
 <link>https://stspg.io/2yvpl6y9sw33</link>
 <guid isPermaLink='false'>baseten:rj514rfwk1y4:resolved:resolved:minor:2026-09-24T19:57:39.586000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 09:15:40 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors for GPT-5.6 Sol on the API</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 11 Sep 2026 09:08:15 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5</link>
-<guid isPermaLink='false'>openai:01M27Q9GH7WVKNA61ZR3RDMSY5:progress:monitoring:minor:2026-09-11T08:37:26+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 08:45:45 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for ChatGPT users in Europe</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 11 Sep 2026 07:53:08 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8</link>
-<guid isPermaLink='false'>fireworks:01M27QBPE1VPY1HRCES2NRVSE8:resolved:resolved:none:2026-09-11T08:16:45+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 08:30:45 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 22 min · Opened: Fri, 11 Sep 2026 07:54:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

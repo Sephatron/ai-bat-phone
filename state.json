@@ -2369,8 +2369,8 @@
   "github:1dk955gg3bvz": {
    "impact": "minor",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-24T20:10:12.010000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-24T20:24:57.892000+00:00"
   },
   "github:1t7x65n7kvt1": {
    "impact": "minor",
@@ -3287,8 +3287,8 @@
   "lovable:01M3AE5SD49CVXRD5RPVRN1K9Y": {
    "impact": "minor",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-24T19:27:14+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-24T20:16:38+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",

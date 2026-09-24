@@ -1,5 +1,41 @@
 [
  {
+  "body": "This issue is related to an outage at the .shop domain registry, affecting .shop domains across all providers. Affected domains are starting to load again, and we're monitoring as service is fully restored.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Lovable is on the mend. Don't get comfortable yet.",
+  "id": "lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:progress:monitoring:minor:2026-09-24T20:16:38+00:00",
+  "impact": "minor",
+  "incident_id": "01M3AE5SD49CVXRD5RPVRN1K9Y",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-24T20:30:13.734348+00:00",
+  "started_at": "2026-09-24T19:27:14+00:00",
+  "status": "monitoring",
+  "title": "Some .shop domains purchased through Lovable are unavailable",
+  "transition": "progress",
+  "url": "https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y"
+ },
+ {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:1dk955gg3bvz:progress:monitoring:minor:2026-09-24T20:24:57.892000+00:00",
+  "impact": "minor",
+  "incident_id": "1dk955gg3bvz",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-24T20:30:13.734348+00:00",
+  "started_at": "2026-09-24T16:51:32.611000+00:00",
+  "status": "monitoring",
+  "title": "Disruption with billing information updates",
+  "transition": "progress",
+  "url": "https://stspg.io/g2q4g5kv9frp"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Dedicated Inference"
