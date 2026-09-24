@@ -734,6 +734,12 @@
    "status": "resolved",
    "updated_at": "2026-08-17T17:41:45.824000+00:00"
   },
+  "baseten:rj514rfwk1y4": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-24T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-24T19:09:42.910000+00:00"
+  },
   "baseten:rtc6l0sdjwyr": {
    "impact": "minor",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
@@ -2327,14 +2333,14 @@
   "fireworks:01M3AB4X82NDHSDWYXKR8FCYEC": {
    "impact": "minor",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-24T18:34:20+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-24T19:04:13+00:00"
   },
   "fireworks:01M3AC2749JME7F6TVGQ2YM4TD": {
    "impact": "minor",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-24T18:50:20+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-24T19:07:58+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",

@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
+<link>https://stspg.io/2yvpl6y9sw33</link>
+<guid isPermaLink='false'>baseten:rj514rfwk1y4:opened:investigating:minor:2026-09-24T19:09:42.910000+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 19:15:11 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Intermittent 5xx for a subset of models in 1 US Central cluster</strong></p><p>Impact: minor · Status: investigating · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 18:35:13 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/2yvpl6y9sw33">Baseten status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 17 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD</link>
+<guid isPermaLink='false'>fireworks:01M3AC2749JME7F6TVGQ2YM4TD:resolved:resolved:minor:2026-09-24T19:07:58+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 19:15:11 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Nemotron 3.5 Lightning</strong></p><p>Impact: minor · Status: resolved · Duration: 17 min · Opened: Thu, 24 Sep 2026 18:50:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC</link>
+<guid isPermaLink='false'>fireworks:01M3AB4X82NDHSDWYXKR8FCYEC:resolved:resolved:minor:2026-09-24T19:04:13+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 19:15:11 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 29 min · Opened: Thu, 24 Sep 2026 18:34:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
 <link>https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE</link>
 <guid isPermaLink='false'>openai:01M3ACKDE4GYY67FXXNRRSC0CE:opened:identified:none:2026-09-24T18:59:44+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 22:00:24 +0000</pubDate>
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 1h 55m]]></title>
-<link>https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF</link>
-<guid isPermaLink='false'>openai:01M26E3PPAYJMMRHX2MZJCTHMF:resolved:resolved:none:2026-09-10T21:48:32+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 21:49:36 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 55m · Opened: Thu, 10 Sep 2026 19:53:26 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Claude has found the culprit]]></title>
-<link>https://stspg.io/hfs7749ykl14</link>
-<guid isPermaLink='false'>anthropic:2pt83vlkk7x7:opened:identified:minor:2026-09-10T21:43:40.271000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 21:45:21 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Degraded performance on the Claude API</strong></p><p>Impact: minor · Status: identified · Affects: Claude API (api.anthropic.com), Claude Cowork · Opened: Thu, 10 Sep 2026 21:43:40 +0000</p><p>We are experiencing slower than normal response times on the Claude API for some customers whose traffic enters through the US Midwest. Users may experience elevated latency and some request timeouts.</p><p><a href="https://stspg.io/hfs7749ykl14">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6</link>
-<guid isPermaLink='false'>openai:01M26DX2PP1AFHGJK5E4M6S2J6:resolved:resolved:minor:2026-09-10T21:30:02+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 21:30:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 40m · Opened: Thu, 10 Sep 2026 19:49:49 +0000</p><p>All impacted services are now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
