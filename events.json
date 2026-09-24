@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating failures on billing information updates. Customers may be unable to create or update their billing information in the meantime.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:1dk955gg3bvz:opened:investigating:minor:2026-09-24T16:51:48.686000+00:00",
+  "impact": "minor",
+  "incident_id": "1dk955gg3bvz",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-24T17:00:12.535358+00:00",
+  "started_at": "2026-09-24T16:51:32.611000+00:00",
+  "status": "investigating",
+  "title": "Disruption with billing information updates",
+  "transition": "opened",
+  "url": "https://stspg.io/g2q4g5kv9frp"
+ },
+ {
   "body": "We will be performing a database upgrade between 6:00 PM and 7:00 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour for the web application & management API. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.",
   "components": [
    "Model Management API",

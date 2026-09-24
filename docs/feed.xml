@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 24 Sep 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
+<link>https://stspg.io/g2q4g5kv9frp</link>
+<guid isPermaLink='false'>github:1dk955gg3bvz:opened:investigating:minor:2026-09-24T16:51:48.686000+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 17:00:12 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with billing information updates</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 16:51:32 +0000</p><p>We are investigating failures on billing information updates. Customers may be unable to create or update their billing information in the meantime.</p><p><a href="https://stspg.io/g2q4g5kv9frp">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔧 Planned works at Baseten]]></title>
 <link>https://stspg.io/cvn1v4jgybrg</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 21:30:20 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Thu, 10 Sep 2026 19:53:26 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
-<link>https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd</link>
-<guid isPermaLink='false'>replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd:resolved:resolved:minor:2026-09-10T21:00:29.537991+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 21:00:29 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Resolved: Agent experiencing increased errors</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 10 Sep 2026 20:58:30 +0000</p><p>[Resolved] We have deployed a fix for increased error in agents. We apologize for any inconvenience.</p><p><a href="https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
