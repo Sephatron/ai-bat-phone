@@ -2342,6 +2342,12 @@
    "status": "resolved",
    "updated_at": "2026-09-24T19:07:58+00:00"
   },
+  "fireworks:01M3AEEG5B9CJE4C91DWCDG3ZE": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-24T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-24T19:38:47+00:00"
+  },
   "github:0f6hndclsk21": {
    "impact": "minor",
    "last_seen_at": "2026-09-14T00:00:00+00:00",
@@ -3971,8 +3977,8 @@
   "openai:01M3ACKDE4GYY67FXXNRRSC0CE": {
    "impact": "none",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-24T18:59:44+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-24T19:32:45+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

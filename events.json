@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M3ACKDE4GYY67FXXNRRSC0CE:progress:monitoring:none:2026-09-24T19:32:45+00:00",
+  "impact": "none",
+  "incident_id": "01M3ACKDE4GYY67FXXNRRSC0CE",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-24T19:45:20.040011+00:00",
+  "started_at": "2026-09-24T18:59:44+00:00",
+  "status": "monitoring",
+  "title": "Elevated Error Rates on GPT-6 Astra Pro",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE"
+ },
+ {
   "body": "Some custom domains ending in .shop that were purchased through Lovable are intermittently not loading. We're investigating the cause of this issue.",
   "components": [],
   "duration": "",
