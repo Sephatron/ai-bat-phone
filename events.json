@@ -1,5 +1,43 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Dedicated Inference"
+  ],
+  "duration": "1h 22m",
+  "headline": "🟢 Baseten has stopped wobbling",
+  "id": "baseten:rj514rfwk1y4:resolved:resolved:minor:2026-09-24T19:57:39.586000+00:00",
+  "impact": "minor",
+  "incident_id": "rj514rfwk1y4",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-24T20:00:12.260333+00:00",
+  "started_at": "2026-09-24T18:35:13+00:00",
+  "status": "resolved",
+  "title": "Intermittent 5xx for a subset of models in 1 US Central cluster",
+  "transition": "resolved",
+  "url": "https://stspg.io/2yvpl6y9sw33"
+ },
+ {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "46 min",
+  "headline": "🟢 OpenAI sorted itself out after 46 min",
+  "id": "openai:01M3ACKDE4GYY67FXXNRRSC0CE:resolved:resolved:none:2026-09-24T19:46:28+00:00",
+  "impact": "none",
+  "incident_id": "01M3ACKDE4GYY67FXXNRRSC0CE",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-24T20:00:12.260333+00:00",
+  "started_at": "2026-09-24T18:59:44+00:00",
+  "status": "resolved",
+  "title": "Elevated Error Rates on GPT-6 Astra Pro",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",

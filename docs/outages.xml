@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 24 Sep 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
+<link>https://stspg.io/2yvpl6y9sw33</link>
+<guid isPermaLink='false'>baseten:rj514rfwk1y4:resolved:resolved:minor:2026-09-24T19:57:39.586000+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 20:00:12 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Intermittent 5xx for a subset of models in 1 US Central cluster</strong></p><p>Impact: minor · Status: resolved · Affects: Dedicated Inference · Duration: 1h 22m · Opened: Thu, 24 Sep 2026 18:35:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/2yvpl6y9sw33">Baseten status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 46 min]]></title>
+<link>https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE</link>
+<guid isPermaLink='false'>openai:01M3ACKDE4GYY67FXXNRRSC0CE:resolved:resolved:none:2026-09-24T19:46:28+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 20:00:12 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated Error Rates on GPT-6 Astra Pro</strong></p><p>Impact: unclassified · Status: resolved · Duration: 46 min · Opened: Thu, 24 Sep 2026 18:59:44 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 08:00:47 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 11 Sep 2026 07:54:20 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M27QBPE1VPY1HRCES2NRVSE8">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5</link>
-<guid isPermaLink='false'>openai:01M27Q9GH7WVKNA61ZR3RDMSY5:opened:identified:minor:2026-09-11T07:53:08+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 08:00:47 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for ChatGPT users in Europe</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 11 Sep 2026 07:53:08 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 OpenRouter is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.openrouter.ai</link>
-<guid isPermaLink='false'>meta:openrouter:unreachable:2026-09-11T03:00:00+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 04:00:33 +0000</pubDate>
-<category>OpenRouter</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read OpenRouter's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.openrouter.ai/incidents.rss returned HTTP 403</p><p><a href="https://status.openrouter.ai">OpenRouter status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
