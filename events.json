@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved, and .shop domains should function as normal again.",
+  "components": [],
+  "duration": "1h 35m",
+  "headline": "🟢 Lovable has stopped wobbling",
+  "id": "lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:resolved:resolved:minor:2026-09-24T21:02:51+00:00",
+  "impact": "minor",
+  "incident_id": "01M3AE5SD49CVXRD5RPVRN1K9Y",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-09-24T21:15:17.256108+00:00",
+  "started_at": "2026-09-24T19:27:14+00:00",
+  "status": "resolved",
+  "title": "Some .shop domains purchased through Lovable are unavailable",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [],
   "duration": "3h 49m",

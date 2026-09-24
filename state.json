@@ -3287,8 +3287,8 @@
   "lovable:01M3AE5SD49CVXRD5RPVRN1K9Y": {
    "impact": "minor",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-24T20:16:38+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-24T21:02:51+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",
