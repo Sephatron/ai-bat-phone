@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 24 Sep 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE</link>
+<guid isPermaLink='false'>openai:01M3ACKDE4GYY67FXXNRRSC0CE:opened:identified:none:2026-09-24T18:59:44+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 19:00:15 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated Error Rates on GPT-6 Astra Pro</strong></p><p>Impact: unclassified · Status: identified · Opened: Thu, 24 Sep 2026 18:59:44 +0000</p><p>We have identified that users are experiencing elevated errors for GPT-6 Astra Pro. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD</link>
+<guid isPermaLink='false'>fireworks:01M3AC2749JME7F6TVGQ2YM4TD:opened:investigating:minor:2026-09-24T18:50:20+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 19:00:15 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Nemotron 3.5 Lightning</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 18:50:20 +0000</p><p>We are seeing impacted performance for Nemotron 3.5 Lightning. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 21:45:21 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded performance on the Claude API</strong></p><p>Impact: minor · Status: identified · Affects: Claude API (api.anthropic.com), Claude Cowork · Opened: Thu, 10 Sep 2026 21:43:40 +0000</p><p>We are experiencing slower than normal response times on the Claude API for some customers whose traffic enters through the US Midwest. Users may experience elevated latency and some request timeouts.</p><p><a href="https://stspg.io/hfs7749ykl14">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 Planned works at Perplexity]]></title>
-<link>https://status.perplexity.com//incidents/01M1Z27ACCHFPXQNPZ37EQGW2F</link>
-<guid isPermaLink='false'>perplexity:01M1Z27ACCHFPXQNPZ37EQGW2F:opened:scheduled:none:2026-09-10T21:30:20.359753+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 21:30:20 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>Maintenance: Status page migration to incident.io</strong></p><p>Scheduled maintenance · Status: scheduled · Opened: Mon, 07 Sep 2026 23:11:01 +0000</p><p>Status: Scheduled On Thursday, September 10 around 21:00 UTC (2:00 PM Pacific), we will migrate our status page from Instatus to incident.io as part of consolidating our incident response tooling. The switch is a DNS change, so it may take some time to complete for everyone. What is and isn't changing • The status page URL stays the same: https://status.perplexity.com. • Historical incidents have been migrated, so past incident history remains available on the new page. • Email subscribers will be migrated automatically. No action needed. • Slack subscriptions cannot be transferred, but you c…</p><p><a href="https://status.perplexity.com//incidents/01M1Z27ACCHFPXQNPZ37EQGW2F">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6</link>
-<guid isPermaLink='false'>openai:01M26DX2PP1AFHGJK5E4M6S2J6:resolved:resolved:minor:2026-09-10T21:30:02+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 21:30:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 40m · Opened: Thu, 10 Sep 2026 19:49:49 +0000</p><p>All impacted services are now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
