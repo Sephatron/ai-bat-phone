@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 24 Sep 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 Baseten has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/l4t4ggz466gx</link>
+<guid isPermaLink='false'>baseten:48qpxdqzvmd2:progress:monitoring:major:2026-09-24T07:48:41.270000+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 08:00:12 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: monitoring · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Baseten has identified the problem. Fix pending.]]></title>
 <link>https://stspg.io/l4t4ggz466gx</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 10 Sep 2026 20:45:20 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>EU Residency - Conversation history not showing for recent calls</strong></p><p>Impact: minor · Status: resolved · Duration: 10h 59m · Opened: Thu, 10 Sep 2026 09:44:08 +0000</p><p>Our engineers have confirmed full recovery of the Conversation Search functionality in the web UI and the API.</p><p><a href="https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Replit is a bit under the weather]]></title>
-<link>https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd</link>
-<guid isPermaLink='false'>replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd:opened:investigating:minor:2026-09-10T20:45:20.636899+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 20:45:20 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Agent experiencing increased errors</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 10 Sep 2026 20:33:51 +0000</p><p>[Investigating] We are investigating this issue.</p><p><a href="https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

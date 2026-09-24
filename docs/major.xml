@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 24 Sep 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 Baseten has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/l4t4ggz466gx</link>
+<guid isPermaLink='false'>baseten:48qpxdqzvmd2:progress:monitoring:major:2026-09-24T07:48:41.270000+00:00</guid>
+<pubDate>Thu, 24 Sep 2026 08:00:12 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: monitoring · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Baseten has identified the problem. Fix pending.]]></title>
 <link>https://stspg.io/l4t4ggz466gx</link>
