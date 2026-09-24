@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "3h 49m",
+  "headline": "🟢 GitHub sorted itself out after 3h 49m",
+  "id": "github:1dk955gg3bvz:resolved:resolved:minor:2026-09-24T20:41:12.534000+00:00",
+  "impact": "minor",
+  "incident_id": "1dk955gg3bvz",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-24T20:45:14.855774+00:00",
+  "started_at": "2026-09-24T16:51:32.611000+00:00",
+  "status": "resolved",
+  "title": "Disruption with billing information updates",
+  "transition": "resolved",
+  "url": "https://stspg.io/g2q4g5kv9frp"
+ },
+ {
   "body": "This issue is related to an outage at the .shop domain registry, affecting .shop domains across all providers. Affected domains are starting to load again, and we're monitoring as service is fully restored.",
   "components": [],
   "duration": "",
