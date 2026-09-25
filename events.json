@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M3DCNWMW57HYK8FJ5FBFPA39:progress:monitoring:critical:2026-09-25T23:45:27+00:00",
+  "impact": "critical",
+  "incident_id": "01M3DCNWMW57HYK8FJ5FBFPA39",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-25T23:45:55.176348+00:00",
+  "started_at": "2026-09-25T22:58:48+00:00",
+  "status": "monitoring",
+  "title": "Issues with Codex",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"
+ },
+ {
   "body": "We have identified that users are experiencing a codex outage. We have identified the internal issue and are heading towards a mitigation.",
   "components": [],
   "duration": "",
