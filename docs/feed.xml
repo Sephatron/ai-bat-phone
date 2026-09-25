@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://stspg.io/96tzymfl733c</link>
+<guid isPermaLink='false'>cursor:n540z31sbqp6:opened:investigating:minor:2026-09-25T05:17:29.596000+00:00</guid>
+<pubDate>Fri, 25 Sep 2026 05:30:11 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Grok Bot computers may temporarily not be able to be created, reached, or reset.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
 <link>https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y</link>
 <guid isPermaLink='false'>lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:resolved:resolved:minor:2026-09-24T21:02:51+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 11:00:46 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Lovable Desktop App for Windows Crashing</strong></p><p>Impact: major · Status: identified · Opened: Fri, 11 Sep 2026 10:50:02 +0000</p><p>The Lovable desktop app for Windows installed from the Microsoft Store is currently crashing on launch. We have identified the cause and are working on releasing an updated version.</p><p><a href="https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 2h 23m]]></title>
-<link>https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5</link>
-<guid isPermaLink='false'>openai:01M27Q9GH7WVKNA61ZR3RDMSY5:resolved:resolved:minor:2026-09-11T10:16:32+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 10:30:44 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for ChatGPT users in Europe</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 23m · Opened: Fri, 11 Sep 2026 07:53:08 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

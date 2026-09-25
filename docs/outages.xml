@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://stspg.io/96tzymfl733c</link>
+<guid isPermaLink='false'>cursor:n540z31sbqp6:opened:investigating:minor:2026-09-25T05:17:29.596000+00:00</guid>
+<pubDate>Fri, 25 Sep 2026 05:30:11 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Grok Bot computers may temporarily not be able to be created, reached, or reset.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
 <link>https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y</link>
 <guid isPermaLink='false'>lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:resolved:resolved:minor:2026-09-24T21:02:51+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 10:30:44 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors for ChatGPT users in Europe</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 23m · Opened: Fri, 11 Sep 2026 07:53:08 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ</link>
-<guid isPermaLink='false'>openai:01M27VK1VN54RQJGJEHB5JTQJJ:progress:monitoring:minor:2026-09-11T10:09:47+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 10:15:41 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for GPT-5.6 Sol on the API</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 11 Sep 2026 09:08:15 +0000</p><p>We have brought additional capacity online and are seeing improvements for some GPT-5.6 Sol API traffic. We continue to mitigate elevated errors affecting Chat Completions and Responses and are monitoring recovery</p><p><a href="https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
