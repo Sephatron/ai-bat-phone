@@ -908,6 +908,12 @@
    "status": "resolved",
    "updated_at": "2026-03-17T12:11:06.083000+00:00"
   },
+  "cerebras:8sc27zfgpkhk": {
+   "impact": "major",
+   "last_seen_at": "2026-09-25T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-25T12:16:49.083000+00:00"
+  },
   "cerebras:9hhds2vbwpzw": {
    "impact": "maintenance",
    "last_seen_at": "2026-09-25T00:00:00+00:00",

@@ -1,5 +1,26 @@
 [
  {
+  "body": "Some features may be temporarily unavailable since UTC 10:54. We are currently working to resume normal service performance. We will provide further updates as we make progress.",
+  "components": [
+   "GPT-OSS-120B",
+   "Qwen-3.8-27b"
+  ],
+  "duration": "",
+  "headline": "🔴 Cerebras Inference is out. Go and look at a tree.",
+  "id": "cerebras:8sc27zfgpkhk:opened:investigating:major:2026-09-25T12:16:49.083000+00:00",
+  "impact": "major",
+  "incident_id": "8sc27zfgpkhk",
+  "kind": "incident",
+  "provider_key": "cerebras",
+  "provider_name": "Cerebras Inference",
+  "published_at": "2026-09-25T12:30:09.693248+00:00",
+  "started_at": "2026-09-25T12:16:49.013000+00:00",
+  "status": "investigating",
+  "title": "Partial Service Disruption",
+  "transition": "opened",
+  "url": "https://stspg.io/mnkgcr15z19x"
+ },
+ {
   "body": "The service degradation affecting Grok Bot has been resolved.",
   "components": [
    "Grok Bot"
