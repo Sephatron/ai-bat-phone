@@ -911,8 +911,8 @@
   "cerebras:8sc27zfgpkhk": {
    "impact": "major",
    "last_seen_at": "2026-09-25T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-25T14:03:48.990000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-25T17:14:55.156000+00:00"
   },
   "cerebras:9hhds2vbwpzw": {
    "impact": "maintenance",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cerebras Inference is upright again. That took 4h 58m.]]></title>
+<link>https://stspg.io/mnkgcr15z19x</link>
+<guid isPermaLink='false'>cerebras:8sc27zfgpkhk:resolved:resolved:major:2026-09-25T17:14:55.156000+00:00</guid>
+<pubDate>Fri, 25 Sep 2026 17:15:54 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: resolved · Affects: GPT-OSS-120B, Qwen-3.8-27b · Duration: 4h 58m · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>The incident has been resolved</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <guid isPermaLink='false'>meta:all:alive:2026-09-25</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 13:45:39 +0000</pubDate>
 <category>AI Bat Phone</category>
 <description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable lives. Pick your tools back up.]]></title>
-<link>https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN</link>
-<guid isPermaLink='false'>lovable:01M281DCXY75N9NESPFVNXKDRN:resolved:resolved:major:2026-09-11T12:06:14+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 12:15:41 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Lovable Desktop App for Windows Crashing</strong></p><p>Impact: major · Status: resolved · Duration: 1h 16m · Opened: Fri, 11 Sep 2026 10:50:02 +0000</p><p>The issue causing the Windows Desktop App to crash has now been resolved and the app is working as normal.</p><p><a href="https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

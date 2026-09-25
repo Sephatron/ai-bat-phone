@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cerebras Inference is upright again. That took 4h 58m.]]></title>
+<link>https://stspg.io/mnkgcr15z19x</link>
+<guid isPermaLink='false'>cerebras:8sc27zfgpkhk:resolved:resolved:major:2026-09-25T17:14:55.156000+00:00</guid>
+<pubDate>Fri, 25 Sep 2026 17:15:54 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: resolved · Affects: GPT-OSS-120B, Qwen-3.8-27b · Duration: 4h 58m · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>The incident has been resolved</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <guid isPermaLink='false'>meta:all:alive:2026-09-25</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 14:30:45 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: major · Status: identified · Affects: Claude Cowork · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>A Windows update released September 8 has left Claude Cowork on Windows unable to run local commands, because its workspace can no longer reach your computer's drive. For most users, chat and file reading and editing still work. There's no in-app workaround yet, and restarting or reinstalling won't help. Microsoft has developed a fix and is working to release it. We'll post an update when we have more to share.</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-09-11</guid>
-<pubDate>Fri, 11 Sep 2026 13:45:39 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
