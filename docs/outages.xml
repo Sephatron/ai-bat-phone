@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 25 Sep 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://stspg.io/96tzymfl733c</link>
+<guid isPermaLink='false'>cursor:n540z31sbqp6:resolved:resolved:minor:2026-09-25T06:51:32.123000+00:00</guid>
+<pubDate>Fri, 25 Sep 2026 07:00:10 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 34m · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>The service degradation affecting Grok Bot has been resolved.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/96tzymfl733c</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 11:15:41 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Fri, 11 Sep 2026 11:08:41 +0000</p><p>We are investigating a service degradation. Affected agent surfaces: OpenAI models.</p><p><a href="https://stspg.io/0xzq5xg26bwg">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Lovable knows what it did]]></title>
-<link>https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN</link>
-<guid isPermaLink='false'>lovable:01M281DCXY75N9NESPFVNXKDRN:opened:identified:major:2026-09-11T10:50:02+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 11:00:46 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Lovable Desktop App for Windows Crashing</strong></p><p>Impact: major · Status: identified · Opened: Fri, 11 Sep 2026 10:50:02 +0000</p><p>The Lovable desktop app for Windows installed from the Microsoft Store is currently crashing on launch. We have identified the cause and are working on releasing an updated version.</p><p><a href="https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

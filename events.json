@@ -1,5 +1,25 @@
 [
  {
+  "body": "The service degradation affecting Grok Bot has been resolved.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "1h 34m",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:n540z31sbqp6:resolved:resolved:minor:2026-09-25T06:51:32.123000+00:00",
+  "impact": "minor",
+  "incident_id": "n540z31sbqp6",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-25T07:00:10.849395+00:00",
+  "started_at": "2026-09-25T05:17:29.478000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "resolved",
+  "url": "https://stspg.io/96tzymfl733c"
+ },
+ {
   "body": "We have identified the cause and are deploying a fix. We are monitoring recovery as the fix rolls out. Some Grok Bot computers may remain temporarily unavailable or unable to be created or reset during this time.",
   "components": [
    "Grok Bot"
