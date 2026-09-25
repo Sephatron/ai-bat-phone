@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 25 Sep 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-09-25</guid>
+<pubDate>Fri, 25 Sep 2026 14:01:09 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Cerebras Inference is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/mnkgcr15z19x</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 12:15:41 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Lovable Desktop App for Windows Crashing</strong></p><p>Impact: major · Status: resolved · Duration: 1h 16m · Opened: Fri, 11 Sep 2026 10:50:02 +0000</p><p>The issue causing the Windows Desktop App to crash has now been resolved and the app is working as normal.</p><p><a href="https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/0xzq5xg26bwg</link>
-<guid isPermaLink='false'>cursor:vgsv8kjxxylh:resolved:resolved:minor:2026-09-11T11:36:00.255000+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 11:45:41 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 27 min · Opened: Fri, 11 Sep 2026 11:08:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/0xzq5xg26bwg">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

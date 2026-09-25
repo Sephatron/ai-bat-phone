@@ -1,5 +1,23 @@
 [
  {
+  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
+  "components": [],
+  "duration": "",
+  "headline": "📡 Still watching. Nothing to report.",
+  "id": "meta:all:alive:2026-09-25",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "batphone",
+  "provider_name": "AI Bat Phone",
+  "published_at": "2026-09-25T14:01:09.137997+00:00",
+  "started_at": "2026-09-25T14:01:09.137997+00:00",
+  "status": "alive",
+  "title": "Still watching 21 provider status pages",
+  "transition": "alive",
+  "url": "https://sephatron.github.io/ai-bat-phone"
+ },
+ {
   "body": "Issue has beed resolved. We are monitoring the status.",
   "components": [
    "GPT-OSS-120B",

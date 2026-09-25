@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 25 Sep 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-09-25</guid>
+<pubDate>Fri, 25 Sep 2026 14:01:09 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Cerebras Inference is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/mnkgcr15z19x</link>
