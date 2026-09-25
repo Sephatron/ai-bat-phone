@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 25 Sep 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
+<guid isPermaLink='false'>openai:01M3DCNWMW57HYK8FJ5FBFPA39:opened:identified:critical:2026-09-25T22:58:48+00:00</guid>
+<pubDate>Fri, 25 Sep 2026 23:01:01 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Codex down due to 401 backend key error</strong></p><p>Impact: critical · Status: identified · Opened: Fri, 25 Sep 2026 22:58:48 +0000</p><p>We have identified that users are experiencing a codex outage. We have identified the internal issue and are heading towards a mitigation.</p><p><a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cerebras Inference is upright again. That took 4h 58m.]]></title>
 <link>https://stspg.io/mnkgcr15z19x</link>
