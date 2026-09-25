@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cerebras Inference is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/mnkgcr15z19x</link>
+<guid isPermaLink='false'>cerebras:8sc27zfgpkhk:progress:monitoring:major:2026-09-25T13:41:26.888000+00:00</guid>
+<pubDate>Fri, 25 Sep 2026 13:45:59 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>Issue has beed resolved. We are monitoring the status.</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Cerebras Inference is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/mnkgcr15z19x</link>
 <guid isPermaLink='false'>cerebras:8sc27zfgpkhk:opened:investigating:major:2026-09-25T12:16:49.083000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 11:45:41 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 27 min · Opened: Fri, 11 Sep 2026 11:08:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/0xzq5xg26bwg">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ</link>
-<guid isPermaLink='false'>openai:01M27VK1VN54RQJGJEHB5JTQJJ:resolved:resolved:minor:2026-09-11T11:21:44+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 11:30:42 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for GPT-5.6 Sol on the API</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 13m · Opened: Fri, 11 Sep 2026 09:08:15 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

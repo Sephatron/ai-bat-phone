@@ -1,5 +1,26 @@
 [
  {
+  "body": "Issue has beed resolved. We are monitoring the status.",
+  "components": [
+   "GPT-OSS-120B",
+   "Qwen-3.8-27b"
+  ],
+  "duration": "",
+  "headline": "👀 Cerebras Inference is on the mend. Don't get comfortable yet.",
+  "id": "cerebras:8sc27zfgpkhk:progress:monitoring:major:2026-09-25T13:41:26.888000+00:00",
+  "impact": "major",
+  "incident_id": "8sc27zfgpkhk",
+  "kind": "incident",
+  "provider_key": "cerebras",
+  "provider_name": "Cerebras Inference",
+  "published_at": "2026-09-25T13:45:59.366429+00:00",
+  "started_at": "2026-09-25T12:16:49.013000+00:00",
+  "status": "monitoring",
+  "title": "Partial Service Disruption",
+  "transition": "progress",
+  "url": "https://stspg.io/mnkgcr15z19x"
+ },
+ {
   "body": "Some features may be temporarily unavailable since UTC 10:54. We are currently working to resume normal service performance. We will provide further updates as we make progress.",
   "components": [
    "GPT-OSS-120B",

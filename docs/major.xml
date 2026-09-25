@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cerebras Inference is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/mnkgcr15z19x</link>
+<guid isPermaLink='false'>cerebras:8sc27zfgpkhk:progress:monitoring:major:2026-09-25T13:41:26.888000+00:00</guid>
+<pubDate>Fri, 25 Sep 2026 13:45:59 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>Issue has beed resolved. We are monitoring the status.</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Cerebras Inference is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/mnkgcr15z19x</link>
 <guid isPermaLink='false'>cerebras:8sc27zfgpkhk:opened:investigating:major:2026-09-25T12:16:49.083000+00:00</guid>
