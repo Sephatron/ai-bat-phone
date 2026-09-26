@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://stspg.io/m3kgdhh3lx5l</link>
+<guid isPermaLink='false'>cursor:bfcck6qks18q:resolved:resolved:minor:2026-09-26T00:32:45.781000+00:00</guid>
+<pubDate>Sat, 26 Sep 2026 00:45:56 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 45 min · Opened: Fri, 25 Sep 2026 23:47:29 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/m3kgdhh3lx5l">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/m3kgdhh3lx5l</link>
 <guid isPermaLink='false'>cursor:bfcck6qks18q:progress:monitoring:minor:2026-09-26T00:22:53.283000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 03:00:44 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates for Codex and ChatGPT Work</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 14 Sep 2026 02:46:48 +0000</p><p>``` We are investigating elevated error rates affecting Codex and ChatGPT Work ```</p><p><a href="https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3</link>
-<guid isPermaLink='false'>openai:01M28MEQWTQJDRCRPFD9FWQ0H3:resolved:resolved:minor:2026-09-12T01:57:37+00:00</guid>
-<pubDate>Sat, 12 Sep 2026 02:00:56 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>1% of ChatGPT Work (mobile/web) turns are failing for existing threads</strong></p><p>Impact: minor · Status: resolved · Duration: 9h 34m · Opened: Fri, 11 Sep 2026 16:22:49 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
