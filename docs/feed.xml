@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 25 Sep 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is upright again. That took 55 min.]]></title>
+<link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
+<guid isPermaLink='false'>openai:01M3DCNWMW57HYK8FJ5FBFPA39:resolved:resolved:critical:2026-09-25T23:54:41+00:00</guid>
+<pubDate>Sat, 26 Sep 2026 00:01:39 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Issues with Codex</strong></p><p>Impact: critical · Status: resolved · Duration: 55 min · Opened: Fri, 25 Sep 2026 22:58:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://stspg.io/m3kgdhh3lx5l</link>
+<guid isPermaLink='false'>cursor:bfcck6qks18q:opened:investigating:minor:2026-09-25T23:47:29.502000+00:00</guid>
+<pubDate>Sat, 26 Sep 2026 00:01:39 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 23:47:29 +0000</p><p>We are investigating a service degradation affecting Grok Bot.</p><p><a href="https://stspg.io/m3kgdhh3lx5l">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 11 Sep 2026 22:00:39 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>1% of ChatGPT Work (mobile/web) turns are failing for existing threads</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 11 Sep 2026 16:22:49 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3</link>
-<guid isPermaLink='false'>openai:01M28MEQWTQJDRCRPFD9FWQ0H3:opened:investigating:minor:2026-09-11T16:22:49+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 16:30:47 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>1% of ChatGPT Work (mobile/web) turns are failing</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 11 Sep 2026 16:22:49 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/n9n8kfcxtkfm</link>
-<guid isPermaLink='false'>anthropic:t33dncr5ydvl:resolved:resolved:major:2026-09-11T14:37:11.168000+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 14:45:41 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 17 min · Opened: Fri, 11 Sep 2026 14:19:51 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 13:57 to 14:20 UTC</p><p><a href="https://stspg.io/n9n8kfcxtkfm">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

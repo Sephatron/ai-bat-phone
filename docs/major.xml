@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 25 Sep 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is upright again. That took 55 min.]]></title>
+<link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
+<guid isPermaLink='false'>openai:01M3DCNWMW57HYK8FJ5FBFPA39:resolved:resolved:critical:2026-09-25T23:54:41+00:00</guid>
+<pubDate>Sat, 26 Sep 2026 00:01:39 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Issues with Codex</strong></p><p>Impact: critical · Status: resolved · Duration: 55 min · Opened: Fri, 25 Sep 2026 22:58:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
