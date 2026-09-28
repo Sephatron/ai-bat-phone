@@ -1,5 +1,23 @@
 [
  {
+  "body": "Our engineers have confirmed that STT latency has fully recovered.",
+  "components": [],
+  "duration": "1h 11m",
+  "headline": "🟢 ElevenLabs has stopped wobbling",
+  "id": "elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:resolved:resolved:minor:2026-09-28T16:54:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M3MAXAR2W2YTZ9Q9A6XAH3GT",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-28T17:01:18.145235+00:00",
+  "started_at": "2026-09-28T15:42:36+00:00",
+  "status": "resolved",
+  "title": "Increased latency for Speech to Text API requests",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT"
+ },
+ {
   "body": "We have traced STT latency metrics as they have improved and are continuing to monitor to ensure full resolution.",
   "components": [],
   "duration": "",
