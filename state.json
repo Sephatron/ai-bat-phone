@@ -2408,6 +2408,12 @@
    "status": "completed",
    "updated_at": "2020-10-28T19:00:29.781000+00:00"
   },
+  "github:169pg72gg9jr": {
+   "impact": "critical",
+   "last_seen_at": "2026-09-28T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-28T21:23:59.229000+00:00"
+  },
   "github:1dk955gg3bvz": {
    "impact": "minor",
    "last_seen_at": "2026-09-28T00:00:00+00:00",

@@ -1,5 +1,23 @@
 [
  {
+  "body": "Revert of the impacted change is in flight, expect full recovery once the deployment is done.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 GitHub is having a proper one. This is not your code.",
+  "id": "github:169pg72gg9jr:opened:investigating:critical:2026-09-28T21:23:59.229000+00:00",
+  "impact": "critical",
+  "incident_id": "169pg72gg9jr",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-28T21:31:09.208825+00:00",
+  "started_at": "2026-09-28T21:16:39.006000+00:00",
+  "status": "investigating",
+  "title": "Copilot Code Review is unable to complete reviews",
+  "transition": "opened",
+  "url": "https://stspg.io/phqvtmdm3y2m"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Grok Bot"
