@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 ElevenLabs lives. Pick your tools back up.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9</link>
+<guid isPermaLink='false'>elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:resolved:resolved:major:2026-09-28T14:39:46+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 14:46:18 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: resolved · Duration: 42 min · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We can confirm that the issue has been fixed and that the service is fully operational.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
 <link>https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9</link>
 <guid isPermaLink='false'>elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:progress:monitoring:major:2026-09-28T14:20:35+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 16:00:45 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting Work Mode in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 14 Sep 2026 15:58:48 +0000</p><p>Earlier today, some ChatGPT Plus users using Work Mode experienced errors starting or resuming tasks, or had limited access to workspace tools and files. We have applied a mitigation and service has recovered. We are monitoring the results.</p><p><a href="https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 52 min]]></title>
-<link>https://stspg.io/czrkjs542qtv</link>
-<guid isPermaLink='false'>cursor:bgwm1q5652hy:resolved:resolved:minor:2026-09-14T09:07:24.040000+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 09:15:43 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating Grok service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 52 min · Opened: Mon, 14 Sep 2026 08:14:46 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/czrkjs542qtv">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

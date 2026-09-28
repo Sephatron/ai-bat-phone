@@ -1,5 +1,23 @@
 [
  {
+  "body": "We can confirm that the issue has been fixed and that the service is fully operational.",
+  "components": [],
+  "duration": "42 min",
+  "headline": "🟢 ElevenLabs lives. Pick your tools back up.",
+  "id": "elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:resolved:resolved:major:2026-09-28T14:39:46+00:00",
+  "impact": "major",
+  "incident_id": "01M3M4X6PEC0JQZFKAH0KEHTG9",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-28T14:46:18.096863+00:00",
+  "started_at": "2026-09-28T13:57:40+00:00",
+  "status": "resolved",
+  "title": "Agents - EU Residency",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9"
+ },
+ {
   "body": "We have released a fix, we are continuing to monitor the situation, the platform is operational now.",
   "components": [],
   "duration": "",
