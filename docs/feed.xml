@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Vercel has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/p633qkgvpdsy</link>
+<guid isPermaLink='false'>vercel:yy1sm6x5l83q:opened:monitoring:major:2026-09-28T13:45:39.632000+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 13:46:15 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Build failures and deployments serving 500s</strong></p><p>Impact: major · Status: monitoring · Affects: Builds · Opened: Mon, 28 Sep 2026 13:44:29 +0000</p><p>Customers who built or deployed between 13:01 and 13:11 UTC experienced elevated rates of build failures due to unexpected error. Some customers builds succeeded but resulted in deployments which failed and served 500s. Any customers experiencing runtime errors should re-deploy their projects.</p><p><a href="https://stspg.io/p633qkgvpdsy">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://stspg.io/m3kgdhh3lx5l</link>
 <guid isPermaLink='false'>cursor:bfcck6qks18q:resolved:resolved:minor:2026-09-26T00:32:45.781000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 03:45:42 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates for Codex and ChatGPT Work</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Mon, 14 Sep 2026 02:46:48 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG</link>
-<guid isPermaLink='false'>openai:01M2EWYR55J47M2BPG9WC76VEG:opened:investigating:none:2026-09-14T02:59:08+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 03:00:44 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for Codex and ChatGPT Work</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 14 Sep 2026 02:46:48 +0000</p><p>``` We are investigating elevated error rates affecting Codex and ChatGPT Work ```</p><p><a href="https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

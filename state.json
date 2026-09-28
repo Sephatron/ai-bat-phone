@@ -5138,6 +5138,12 @@
    "status": "resolved",
    "updated_at": "2026-08-14T13:08:12.898000+00:00"
   },
+  "vercel:yy1sm6x5l83q": {
+   "impact": "major",
+   "last_seen_at": "2026-09-28T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-09-28T13:45:39.632000+00:00"
+  },
   "vercel:yzhdk6nhy1kx": {
    "impact": "minor",
    "last_seen_at": "2026-09-28T00:00:00+00:00",

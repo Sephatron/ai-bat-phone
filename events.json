@@ -1,5 +1,25 @@
 [
  {
+  "body": "Customers who built or deployed between 13:01 and 13:11 UTC experienced elevated rates of build failures due to unexpected error. Some customers builds succeeded but resulted in deployments which failed and served 500s. Any customers experiencing runtime errors should re-deploy their projects.",
+  "components": [
+   "Builds"
+  ],
+  "duration": "",
+  "headline": "👀 Vercel has applied a fix and is holding its breath",
+  "id": "vercel:yy1sm6x5l83q:opened:monitoring:major:2026-09-28T13:45:39.632000+00:00",
+  "impact": "major",
+  "incident_id": "yy1sm6x5l83q",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-09-28T13:46:15.706391+00:00",
+  "started_at": "2026-09-28T13:44:29.826000+00:00",
+  "status": "monitoring",
+  "title": "Build failures and deployments serving 500s",
+  "transition": "opened",
+  "url": "https://stspg.io/p633qkgvpdsy"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Grok Bot"

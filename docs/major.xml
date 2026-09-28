@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Vercel has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/p633qkgvpdsy</link>
+<guid isPermaLink='false'>vercel:yy1sm6x5l83q:opened:monitoring:major:2026-09-28T13:45:39.632000+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 13:46:15 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Build failures and deployments serving 500s</strong></p><p>Impact: major · Status: monitoring · Affects: Builds · Opened: Mon, 28 Sep 2026 13:44:29 +0000</p><p>Customers who built or deployed between 13:01 and 13:11 UTC experienced elevated rates of build failures due to unexpected error. Some customers builds succeeded but resulted in deployments which failed and served 500s. Any customers experiencing runtime errors should re-deploy their projects.</p><p><a href="https://stspg.io/p633qkgvpdsy">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is upright again. That took 55 min.]]></title>
 <link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
 <guid isPermaLink='false'>openai:01M3DCNWMW57HYK8FJ5FBFPA39:resolved:resolved:critical:2026-09-25T23:54:41+00:00</guid>
