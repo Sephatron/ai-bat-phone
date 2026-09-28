@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor sorted itself out after 13 min]]></title>
+<link>https://stspg.io/fd5f12qkcsmc</link>
+<guid isPermaLink='false'>cursor:x2g19tzq27sg:resolved:resolved:minor:2026-09-28T20:36:19.974000+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 20:46:16 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 13 min · Opened: Mon, 28 Sep 2026 20:23:05 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/fd5f12qkcsmc">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
 <link>https://stspg.io/fd5f12qkcsmc</link>
 <guid isPermaLink='false'>cursor:x2g19tzq27sg:opened:investigating:minor:2026-09-28T20:23:06.085000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 19:15:43 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: major · Status: resolved · Affects: Claude Cowork · Duration: 4d 3h · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>This issue has been resolved. Microsoft has released a September 14 Windows update that fixes it: https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129195-windows-11-24h2-25h2-security-update</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/f2b6fd4l83wy</link>
-<guid isPermaLink='false'>github:kzh5j0mt7qwc:opened:investigating:minor:2026-09-14T18:40:25.137000+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 18:45:40 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Actions Larger Runner Jobs for some customers may be slow to start</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 14 Sep 2026 18:40:25 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/f2b6fd4l83wy">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

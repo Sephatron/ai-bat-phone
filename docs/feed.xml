@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor sorted itself out after 13 min]]></title>
+<link>https://stspg.io/fd5f12qkcsmc</link>
+<guid isPermaLink='false'>cursor:x2g19tzq27sg:resolved:resolved:minor:2026-09-28T20:36:19.974000+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 20:46:16 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 13 min · Opened: Mon, 28 Sep 2026 20:23:05 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/fd5f12qkcsmc">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
 <link>https://stspg.io/fd5f12qkcsmc</link>
 <guid isPermaLink='false'>cursor:x2g19tzq27sg:opened:investigating:minor:2026-09-28T20:23:06.085000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 19:45:39 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Actions Larger Runner Jobs for some customers may be slow to start</strong></p><p>Impact: minor · Status: resolved · Duration: 55 min · Opened: Mon, 14 Sep 2026 18:40:25 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/f2b6fd4l83wy">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/f2b6fd4l83wy</link>
-<guid isPermaLink='false'>github:kzh5j0mt7qwc:progress:monitoring:minor:2026-09-14T19:01:52.802000+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 19:15:43 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Actions Larger Runner Jobs for some customers may be slow to start</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 14 Sep 2026 18:40:25 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/f2b6fd4l83wy">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

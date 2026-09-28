@@ -1655,8 +1655,8 @@
   "cursor:x2g19tzq27sg": {
    "impact": "minor",
    "last_seen_at": "2026-09-28T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-28T20:23:06.085000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-28T20:36:19.974000+00:00"
   },
   "cursor:ycdk0g2rlkt1": {
    "impact": "minor",
