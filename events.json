@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating an issue on EU residency affecting the ElevenAgents platform.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 ElevenLabs is having a proper one. This is not your code.",
+  "id": "elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:opened:investigating:major:2026-09-28T13:57:40+00:00",
+  "impact": "major",
+  "incident_id": "01M3M4X6PEC0JQZFKAH0KEHTG9",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-28T14:01:48.693371+00:00",
+  "started_at": "2026-09-28T13:57:40+00:00",
+  "status": "investigating",
+  "title": "Agents - EU Residency",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9"
+ },
+ {
   "body": "Customers who built or deployed between 13:01 and 13:11 UTC experienced elevated rates of build failures due to unexpected error. Some customers builds succeeded but resulted in deployments which failed and served 500s. Any customers experiencing runtime errors should re-deploy their projects.",
   "components": [
    "Builds"

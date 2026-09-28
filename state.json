@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-28T13:00:00+00:00",
+ "heartbeat": "2026-09-28T14:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -2077,6 +2077,12 @@
    "last_seen_at": "2026-09-28T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-22T02:56:28+00:00"
+  },
+  "elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9": {
+   "impact": "major",
+   "last_seen_at": "2026-09-28T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-28T13:57:40+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -5139,10 +5145,10 @@
    "updated_at": "2026-08-14T13:08:12.898000+00:00"
   },
   "vercel:yy1sm6x5l83q": {
-   "impact": "major",
+   "impact": "minor",
    "last_seen_at": "2026-09-28T00:00:00+00:00",
    "status": "monitoring",
-   "updated_at": "2026-09-28T13:45:39.632000+00:00"
+   "updated_at": "2026-09-28T14:00:14.778000+00:00"
   },
   "vercel:yzhdk6nhy1kx": {
    "impact": "minor",
