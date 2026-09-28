@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9</link>
+<guid isPermaLink='false'>elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:progress:monitoring:major:2026-09-28T14:20:35+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 14:31:23 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: monitoring · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We have released a fix, we are continuing to monitor the situation, the platform is operational now.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Vercel sorted itself out after 26 min]]></title>
 <link>https://stspg.io/p633qkgvpdsy</link>
 <guid isPermaLink='false'>vercel:yy1sm6x5l83q:resolved:resolved:minor:2026-09-28T14:11:29.973000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 08:15:50 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating Grok service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Mon, 14 Sep 2026 08:14:46 +0000</p><p>We are monitoring Grok 4.6 for service restoration.</p><p><a href="https://stspg.io/czrkjs542qtv">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG</link>
-<guid isPermaLink='false'>openai:01M2EWYR55J47M2BPG9WC76VEG:resolved:resolved:none:2026-09-14T03:57:19+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 04:00:42 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for Codex and ChatGPT Work</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 10m · Opened: Mon, 14 Sep 2026 02:46:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
