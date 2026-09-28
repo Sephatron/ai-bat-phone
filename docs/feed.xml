@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 Baseten is booking time off: Database Upgrade. Inference will not be affected]]></title>
+<link>https://stspg.io/6b2703ymtcrn</link>
+<guid isPermaLink='false'>baseten:kxjy1q8tj1l9:opened:scheduled:maintenance:2026-09-28T18:40:33.180000+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 18:46:13 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: Model Management API, Web Application · Opened: Mon, 28 Sep 2026 18:40:33 +0000</p><p>We will be performing a database upgrade between 6:00 PM and 7:00 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour for the web application &amp; management API. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.</p><p><a href="https://stspg.io/6b2703ymtcrn">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 ElevenLabs has stopped wobbling]]></title>
 <link>https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT</link>
 <guid isPermaLink='false'>elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:resolved:resolved:minor:2026-09-28T16:54:29+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 19:15:43 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: major · Status: resolved · Affects: Claude Cowork · Duration: 4d 3h · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>This issue has been resolved. Microsoft has released a September 14 Windows update that fixes it: https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129195-windows-11-24h2-25h2-security-update</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/f2b6fd4l83wy</link>
-<guid isPermaLink='false'>github:kzh5j0mt7qwc:opened:investigating:minor:2026-09-14T18:40:25.137000+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 18:45:40 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Actions Larger Runner Jobs for some customers may be slow to start</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 14 Sep 2026 18:40:25 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/f2b6fd4l83wy">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

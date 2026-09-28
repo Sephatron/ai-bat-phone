@@ -1,5 +1,26 @@
 [
  {
+  "body": "We will be performing a database upgrade between 6:00 PM and 7:00 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour for the web application & management API. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "",
+  "headline": "🔧 Baseten is booking time off: Database Upgrade. Inference will not be affected",
+  "id": "baseten:kxjy1q8tj1l9:opened:scheduled:maintenance:2026-09-28T18:40:33.180000+00:00",
+  "impact": "maintenance",
+  "incident_id": "kxjy1q8tj1l9",
+  "kind": "maintenance",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-28T18:46:13.881079+00:00",
+  "started_at": "2026-09-28T18:40:33.086000+00:00",
+  "status": "scheduled",
+  "title": "Database Upgrade. Inference will not be affected",
+  "transition": "opened",
+  "url": "https://stspg.io/6b2703ymtcrn"
+ },
+ {
   "body": "Our engineers have confirmed that STT latency has fully recovered.",
   "components": [],
   "duration": "1h 11m",
