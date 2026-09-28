@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Builds"
+  ],
+  "duration": "26 min",
+  "headline": "🟢 Vercel sorted itself out after 26 min",
+  "id": "vercel:yy1sm6x5l83q:resolved:resolved:minor:2026-09-28T14:11:29.973000+00:00",
+  "impact": "minor",
+  "incident_id": "yy1sm6x5l83q",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-09-28T14:16:19.603398+00:00",
+  "started_at": "2026-09-28T13:44:30+00:00",
+  "status": "resolved",
+  "title": "Build failures and 500 errors for functions using Edge runtime",
+  "transition": "resolved",
+  "url": "https://stspg.io/p633qkgvpdsy"
+ },
+ {
   "body": "We are investigating an issue on EU residency affecting the ElevenAgents platform.",
   "components": [],
   "duration": "",
