@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/38rg6zk8nx4d</link>
+<guid isPermaLink='false'>moonshot:b0yb9hljvczz:opened:investigating:critical:2026-09-28T23:45:14.120000+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 23:46:06 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: investigating · Affects: File uploads · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>kimi fs请求失败率过高</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/phqvtmdm3y2m</link>
 <guid isPermaLink='false'>github:169pg72gg9jr:resolved:resolved:critical:2026-09-28T22:08:20.242000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 01:30:43 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors for models in single cluster</strong></p><p>Impact: minor · Status: investigating · Affects: Dedicated Inference · Opened: Tue, 15 Sep 2026 01:22:38 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/zgqtvb6hfnjb">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0</link>
-<guid isPermaLink='false'>openai:01M2H3J1D6Y7RHAP49GRWGJAY0:resolved:resolved:none:2026-09-14T23:39:21+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 23:45:39 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded Performance affecting Agents API</strong></p><p>Impact: unclassified · Status: resolved · Duration: 18 min · Opened: Mon, 14 Sep 2026 23:20:41 +0000</p><p>The issue affecting the Agents API has been resolved. Managed sessions are now processing turns normally.</p><p><a href="https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
