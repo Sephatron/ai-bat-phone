@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT</link>
+<guid isPermaLink='false'>elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:progress:monitoring:minor:2026-09-28T16:05:47+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 16:16:06 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>We have traced STT latency metrics as they have improved and are continuing to monitor to ensure full resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
 <link>https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT</link>
 <guid isPermaLink='false'>elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:opened:investigating:minor:2026-09-28T15:42:36+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 17:15:42 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Partial outage on Kimi K3 model API inference (non-US only)</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 41 min · Opened: Mon, 14 Sep 2026 16:21:34 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/wmt6p7fnt7z0">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Baseten is a bit under the weather]]></title>
-<link>https://stspg.io/wmt6p7fnt7z0</link>
-<guid isPermaLink='false'>baseten:bmxpy6vzgc6y:opened:investigating:minor:2026-09-14T16:53:26.546000+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 17:00:44 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Partial outage on Kimi K3 model API inference (non-US only)</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Mon, 14 Sep 2026 16:21:34 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/wmt6p7fnt7z0">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
