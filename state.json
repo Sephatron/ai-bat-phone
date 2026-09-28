@@ -2411,8 +2411,8 @@
   "github:169pg72gg9jr": {
    "impact": "critical",
    "last_seen_at": "2026-09-28T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-28T21:23:59.229000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-28T22:08:20.242000+00:00"
   },
   "github:1dk955gg3bvz": {
    "impact": "minor",

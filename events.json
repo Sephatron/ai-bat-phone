@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "51 min",
+  "headline": "🟢 GitHub is fixed. You may resume being productive.",
+  "id": "github:169pg72gg9jr:resolved:resolved:critical:2026-09-28T22:08:20.242000+00:00",
+  "impact": "critical",
+  "incident_id": "169pg72gg9jr",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-09-28T22:16:16.971608+00:00",
+  "started_at": "2026-09-28T21:16:39.006000+00:00",
+  "status": "resolved",
+  "title": "Copilot Code Review is unable to complete reviews",
+  "transition": "resolved",
+  "url": "https://stspg.io/phqvtmdm3y2m"
+ },
+ {
   "body": "Revert of the impacted change is in flight, expect full recovery once the deployment is done.",
   "components": [],
   "duration": "",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/phqvtmdm3y2m</link>
+<guid isPermaLink='false'>github:169pg72gg9jr:resolved:resolved:critical:2026-09-28T22:08:20.242000+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 22:16:16 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Copilot Code Review is unable to complete reviews</strong></p><p>Impact: critical · Status: resolved · Duration: 51 min · Opened: Mon, 28 Sep 2026 21:16:39 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/phqvtmdm3y2m">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 GitHub is having a proper one. This is not your code.]]></title>
 <link>https://stspg.io/phqvtmdm3y2m</link>
 <guid isPermaLink='false'>github:169pg72gg9jr:opened:investigating:critical:2026-09-28T21:23:59.229000+00:00</guid>
