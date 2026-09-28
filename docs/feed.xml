@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT</link>
+<guid isPermaLink='false'>elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:opened:investigating:minor:2026-09-28T15:42:36+00:00</guid>
+<pubDate>Mon, 28 Sep 2026 15:46:21 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>We have identified an issue with increased latency for Speech to Text API requests. We are looking into it and will post updates as they become available.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 ElevenLabs lives. Pick your tools back up.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9</link>
 <guid isPermaLink='false'>elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:resolved:resolved:major:2026-09-28T14:39:46+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 14 Sep 2026 17:00:44 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Partial outage on Kimi K3 model API inference (non-US only)</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Mon, 14 Sep 2026 16:21:34 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/wmt6p7fnt7z0">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5</link>
-<guid isPermaLink='false'>openai:01M2GA8XTS6VB3QCDEGZ0HNAQ5:opened:monitoring:minor:2026-09-14T15:58:48+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 16:00:45 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting Work Mode in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 14 Sep 2026 15:58:48 +0000</p><p>Earlier today, some ChatGPT Plus users using Work Mode experienced errors starting or resuming tasks, or had limited access to workspace tools and files. We have applied a mitigation and service has recovered. We are monitoring the results.</p><p><a href="https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
