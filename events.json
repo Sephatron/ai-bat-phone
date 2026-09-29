@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are currently investigating increased latency, conversation failures, and API request failures currently known to affect Agents and STT. These failures may manifest as delays in agent conversations, 429s to STT requests, or conversation failures with the error: \"START node generated a response after progressing\".",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 Tools down: ElevenLabs is broken",
+  "id": "elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:opened:investigating:major:2026-09-29T18:49:26+00:00",
+  "impact": "major",
+  "incident_id": "01M3Q8059VPFGJ7QM1C41NN462",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-29T19:01:21.594616+00:00",
+  "started_at": "2026-09-29T18:49:26+00:00",
+  "status": "investigating",
+  "title": "Agents and STT: Increased Latency, Conversation Failures, and STT Failures",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Cloud Agents",

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 29 Sep 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Tools down: ElevenLabs is broken]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462</link>
+<guid isPermaLink='false'>elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:opened:investigating:major:2026-09-29T18:49:26+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 19:01:21 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Agents and STT: Increased Latency, Conversation Failures, and STT Failures</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 29 Sep 2026 18:49:26 +0000</p><p>We are currently investigating increased latency, conversation failures, and API request failures currently known to affect Agents and STT. These failures may manifest as delays in agent conversations, 429s to STT requests, or conversation failures with the error: "START node generated a response after progressing".</p><p><a href="https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/br61xzj05pp5</link>

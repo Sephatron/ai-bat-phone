@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-29T18:00:00+00:00",
+ "heartbeat": "2026-09-29T19:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -2126,6 +2126,12 @@
    "status": "resolved",
    "updated_at": "2026-09-28T16:54:29+00:00"
   },
+  "elevenlabs:01M3Q8059VPFGJ7QM1C41NN462": {
+   "impact": "major",
+   "last_seen_at": "2026-09-29T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-29T18:49:26+00:00"
+  },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
    "last_seen_at": "2026-09-05T00:00:00+00:00",
@@ -4068,7 +4074,7 @@
    "impact": "none",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-09-29T17:55:17+00:00"
+   "updated_at": "2026-09-29T18:50:38+00:00"
   },
   "openai:01M3Q4RK1SM4EMK445GGPG7C0N": {
    "impact": "minor",
