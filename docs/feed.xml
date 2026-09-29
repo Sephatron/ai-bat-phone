@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 29 Sep 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:unreachable:2026-09-29T14:00:00+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 15:01:06 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📵 SambaNova is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.sambanova.ai</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 07:30:46 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 19 min · Opened: Tue, 15 Sep 2026 07:01:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
-<link>https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA</link>
-<guid isPermaLink='false'>openai:01M2HYH64J2CZMZ63HEV2FCQFA:opened:investigating:minor:2026-09-15T07:12:04+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 07:15:47 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 15 Sep 2026 07:12:04 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
