@@ -1,5 +1,29 @@
 [
  {
+  "body": "Most services have recovered as of 14:59 UTC. Signing in, starting new chats, voice conversations, Claude Code and Cowork sessions, purchases and file uploads are working again. Some messages sent between 14:00 and 14:59 UTC may not have been saved. We are monitoring closely and will post another update within 30 minutes.",
+  "components": [
+   "claude.ai",
+   "Claude Console (platform.claude.com)",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:4xvtc2gnq73l:progress:monitoring:major:2026-09-29T15:11:27.478000+00:00",
+  "impact": "major",
+  "incident_id": "4xvtc2gnq73l",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-29T15:16:06.148924+00:00",
+  "started_at": "2026-09-29T14:21:37.180000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
+  "transition": "progress",
+  "url": "https://stspg.io/br61xzj05pp5"
+ },
+ {
   "body": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out",
   "components": [],
   "duration": "",

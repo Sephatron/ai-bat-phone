@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/br61xzj05pp5</link>
+<guid isPermaLink='false'>anthropic:4xvtc2gnq73l:progress:monitoring:major:2026-09-29T15:11:27.478000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 15:16:06 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 29 Sep 2026 14:21:37 +0000</p><p>Most services have recovered as of 14:59 UTC. Signing in, starting new chats, voice conversations, Claude Code and Cowork sessions, purchases and file uploads are working again. Some messages sent between 14:00 and 14:59 UTC may not have been saved. We are monitoring closely and will post another update within 30 minutes.</p><p><a href="https://stspg.io/br61xzj05pp5">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.ai21.com</link>
 <guid isPermaLink='false'>meta:ai21:unreachable:2026-09-29T14:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 07:30:46 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 15 Sep 2026 07:12:04 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 19 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P</link>
-<guid isPermaLink='false'>fireworks:01M2HXY4B0RJ19P2H7VPT3TG5P:resolved:resolved:none:2026-09-15T07:21:22+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 07:30:46 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 19 min · Opened: Tue, 15 Sep 2026 07:01:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
