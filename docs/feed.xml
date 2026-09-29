@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is fine again]]></title>
+<link>https://stspg.io/wy1xyqdkppvx</link>
+<guid isPermaLink='false'>cursor:jb59kzth2pwf:resolved:resolved:minor:2026-09-29T18:05:31.514000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 18:16:11 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 3h 40m · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/wy1xyqdkppvx</link>
 <guid isPermaLink='false'>cursor:jb59kzth2pwf:progress:monitoring:minor:2026-09-29T17:54:38.654000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 11:15:41 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 26m · Opened: Tue, 15 Sep 2026 09:48:23 +0000</p><p>A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.</p><p><a href="https://stspg.io/x1qpycpg6ln7">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/x1qpycpg6ln7</link>
-<guid isPermaLink='false'>anthropic:6304r9jjhj34:progress:monitoring:major:2026-09-15T10:50:26.414000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 11:00:53 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 15 Sep 2026 09:48:23 +0000</p><p>A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.</p><p><a href="https://stspg.io/x1qpycpg6ln7">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
