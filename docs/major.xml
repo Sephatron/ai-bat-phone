@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
+<link>https://stspg.io/dh24kf0vcpl8</link>
+<guid isPermaLink='false'>cursor:dk1g1h4q8yf8:opened:investigating:major:2026-09-29T19:43:08.869000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 19:46:13 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation - xAI models</strong></p><p>Impact: major · Status: investigating · Affects: CLI, Cloud Agents, IDE, Grok Bot · Opened: Tue, 29 Sep 2026 19:43:08 +0000</p><p>We are investigating a service degradation affecting xAI models. Some Agent requests may fail.</p><p><a href="https://stspg.io/dh24kf0vcpl8">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 ElevenLabs knows what it did]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462</link>
+<guid isPermaLink='false'>elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:progress:identified:major:2026-09-29T19:39:05+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 19:46:13 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures</strong></p><p>Impact: major · Status: identified · Opened: Tue, 29 Sep 2026 18:49:26 +0000</p><p>We have isolated the cause of the increased latency and errors, and are working to resolve it. Current evidence suggests that the Sound Effects product and other Creative Platform products may also be affected, but scope and severity of impact to these products remains unclear.</p><p><a href="https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: ElevenLabs is broken]]></title>
 <link>https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462</link>
 <guid isPermaLink='false'>elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:opened:investigating:major:2026-09-29T18:49:26+00:00</guid>

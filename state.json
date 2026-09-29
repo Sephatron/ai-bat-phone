@@ -1448,6 +1448,12 @@
    "status": "resolved",
    "updated_at": "2026-09-03T17:07:00.847000+00:00"
   },
+  "cursor:dk1g1h4q8yf8": {
+   "impact": "major",
+   "last_seen_at": "2026-09-29T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-09-29T19:43:08.869000+00:00"
+  },
   "cursor:dwdfpbhv6zl7": {
    "impact": "major",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
@@ -2129,8 +2135,8 @@
   "elevenlabs:01M3Q8059VPFGJ7QM1C41NN462": {
    "impact": "major",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-29T18:49:26+00:00"
+   "status": "identified",
+   "updated_at": "2026-09-29T19:39:05+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -4079,8 +4085,8 @@
   "openai:01M3Q4RK1SM4EMK445GGPG7C0N": {
    "impact": "minor",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-29T19:08:39+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-29T19:39:36+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

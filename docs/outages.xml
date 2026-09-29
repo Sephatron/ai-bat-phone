@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
+<link>https://stspg.io/dh24kf0vcpl8</link>
+<guid isPermaLink='false'>cursor:dk1g1h4q8yf8:opened:investigating:major:2026-09-29T19:43:08.869000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 19:46:13 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation - xAI models</strong></p><p>Impact: major · Status: investigating · Affects: CLI, Cloud Agents, IDE, Grok Bot · Opened: Tue, 29 Sep 2026 19:43:08 +0000</p><p>We are investigating a service degradation affecting xAI models. Some Agent requests may fail.</p><p><a href="https://stspg.io/dh24kf0vcpl8">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N</link>
+<guid isPermaLink='false'>openai:01M3Q4RK1SM4EMK445GGPG7C0N:progress:monitoring:minor:2026-09-29T19:39:36+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 19:46:13 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors across ChatGPT, Codex, and the API including the Agents API</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 29 Sep 2026 17:52:52 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 ElevenLabs knows what it did]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462</link>
+<guid isPermaLink='false'>elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:progress:identified:major:2026-09-29T19:39:05+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 19:46:13 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures</strong></p><p>Impact: major · Status: identified · Opened: Tue, 29 Sep 2026 18:49:26 +0000</p><p>We have isolated the cause of the increased latency and errors, and are working to resolve it. Current evidence suggests that the Sound Effects product and other Creative Platform products may also be affected, but scope and severity of impact to these products remains unclear.</p><p><a href="https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: ElevenLabs is broken]]></title>
 <link>https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462</link>
 <guid isPermaLink='false'>elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:opened:investigating:major:2026-09-29T18:49:26+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 11:30:44 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 1h 30m · Opened: Tue, 15 Sep 2026 09:47:15 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/6pn81yd1x4hz">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Claude after 1h 26m]]></title>
-<link>https://stspg.io/x1qpycpg6ln7</link>
-<guid isPermaLink='false'>anthropic:6304r9jjhj34:resolved:resolved:major:2026-09-15T11:14:44.396000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 11:15:41 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 26m · Opened: Tue, 15 Sep 2026 09:48:23 +0000</p><p>A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.</p><p><a href="https://stspg.io/x1qpycpg6ln7">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/x1qpycpg6ln7</link>
-<guid isPermaLink='false'>anthropic:6304r9jjhj34:progress:monitoring:major:2026-09-15T10:50:26.414000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 11:00:53 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 15 Sep 2026 09:48:23 +0000</p><p>A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.</p><p><a href="https://stspg.io/x1qpycpg6ln7">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub: Disruption with some GitHub services]]></title>
-<link>https://stspg.io/6pn81yd1x4hz</link>
-<guid isPermaLink='false'>github:qwdwmtqghpk5:progress:investigating:minor:2026-09-15T10:20:13.629000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 10:30:41 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Tue, 15 Sep 2026 09:47:15 +0000</p><p>Copilot AI Model Providers is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/6pn81yd1x4hz">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
