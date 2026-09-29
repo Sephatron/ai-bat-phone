@@ -788,6 +788,12 @@
    "status": "resolved",
    "updated_at": "2026-04-04T04:48:38.744000+00:00"
   },
+  "baseten:x05nr42j8whd": {
+   "impact": "major",
+   "last_seen_at": "2026-09-29T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-09-29T08:15:48.532000+00:00"
+  },
   "baseten:xdkglt4t6f82": {
    "impact": "none",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
