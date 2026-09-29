@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/br61xzj05pp5</link>
+<guid isPermaLink='false'>anthropic:4xvtc2gnq73l:resolved:resolved:major:2026-09-29T16:27:21.393000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 16:31:10 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 2h 05m · Opened: Tue, 29 Sep 2026 14:21:37 +0000</p><p>The issue affecting Claude.ai, the Claude desktop and mobile apps, Claude Code, Claude Cowork, and the Claude API has been resolved, and services have been operating normally since recovery. Impact occurred from 07:00 PT / 14:00 UTC to 07:59 PT / 14:59 UTC.</p><p><a href="https://stspg.io/br61xzj05pp5">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 SambaNova is readable again, so silence here means quiet once more]]></title>
 <link>https://status.sambanova.ai</link>
 <guid isPermaLink='false'>meta:sambanova:recovered:2026-09-29T14:00:00+00:00</guid>

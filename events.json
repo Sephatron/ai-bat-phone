@@ -1,5 +1,29 @@
 [
  {
+  "body": "The issue affecting Claude.ai, the Claude desktop and mobile apps, Claude Code, Claude Cowork, and the Claude API has been resolved, and services have been operating normally since recovery. Impact occurred from 07:00 PT / 14:00 UTC to 07:59 PT / 14:59 UTC.",
+  "components": [
+   "claude.ai",
+   "Claude Console (platform.claude.com)",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "2h 05m",
+  "headline": "🟢 Claude is fixed. You may resume being productive.",
+  "id": "anthropic:4xvtc2gnq73l:resolved:resolved:major:2026-09-29T16:27:21.393000+00:00",
+  "impact": "major",
+  "incident_id": "4xvtc2gnq73l",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-29T16:31:10.621557+00:00",
+  "started_at": "2026-09-29T14:21:37.180000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
+  "transition": "resolved",
+  "url": "https://stspg.io/br61xzj05pp5"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",

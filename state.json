@@ -137,8 +137,8 @@
   "anthropic:4xvtc2gnq73l": {
    "impact": "major",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-29T15:30:44.559000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-29T16:27:21.393000+00:00"
   },
   "anthropic:620swtqyn24k": {
    "impact": "minor",
