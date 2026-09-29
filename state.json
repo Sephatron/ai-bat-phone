@@ -2,16 +2,22 @@
  "heartbeat": "2026-09-29T22:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-29T22:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-29T22:00:00+00:00",
+   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
   },
   "cerebras": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-29T22:00:00+00:00",
+   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
   },
   "cohere": {
    "consecutive_failures": 0
@@ -49,7 +55,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
   },
   "perplexity": {
    "consecutive_failures": 0
@@ -58,13 +64,17 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-29T22:00:00+00:00",
+   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
   },
   "vercel": {
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-29T22:00:00+00:00",
+   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
   }
  },
  "seen": {
@@ -4086,7 +4096,7 @@
    "impact": "minor",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
    "status": "monitoring",
-   "updated_at": "2026-09-29T21:09:11+00:00"
+   "updated_at": "2026-09-29T22:03:22+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
