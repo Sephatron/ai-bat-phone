@@ -1,5 +1,62 @@
 [
  {
+  "body": "Fixes are being implemented and we are monitoring for service restoration.",
+  "components": [
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
+  "id": "cursor:jb59kzth2pwf:progress:monitoring:minor:2026-09-29T17:54:38.654000+00:00",
+  "impact": "minor",
+  "incident_id": "jb59kzth2pwf",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-29T18:01:20.581149+00:00",
+  "started_at": "2026-09-29T14:25:00+00:00",
+  "status": "monitoring",
+  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
+  "transition": "progress",
+  "url": "https://stspg.io/wy1xyqdkppvx"
+ },
+ {
+  "body": "Our Help Center is available, but support chat remains unavailable. If you need assistance, you can browse the Help Center or email [support@openai.com](mailto:support@openai.com \"support@openai.com\").",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is a bit under the weather",
+  "id": "openai:01M3Q4HMNP8SZ27DTZKW6F5BJ4:opened:investigating:none:2026-09-29T17:55:17+00:00",
+  "impact": "none",
+  "incident_id": "01M3Q4HMNP8SZ27DTZKW6F5BJ4",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-29T18:01:20.581149+00:00",
+  "started_at": "2026-09-29T17:49:05+00:00",
+  "status": "investigating",
+  "title": "Support chat unavailable",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
+ },
+ {
+  "body": "We’re investigating elevated errors affecting ChatGPT, Codex, and the API. Some users may experience failed requests, difficulty logging in or signing up, and tasks that do not complete. We’ll share updates as we learn more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is sulking, mildly",
+  "id": "openai:01M3Q4RK1SM4EMK445GGPG7C0N:opened:investigating:minor:2026-09-29T17:52:52+00:00",
+  "impact": "minor",
+  "incident_id": "01M3Q4RK1SM4EMK445GGPG7C0N",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-29T18:01:20.581149+00:00",
+  "started_at": "2026-09-29T17:52:52+00:00",
+  "status": "investigating",
+  "title": "Elevated errors across ChatGPT, Codex, and the API",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
+ },
+ {
   "body": "The issue affecting Claude.ai, the Claude desktop and mobile apps, Claude Code, Claude Cowork, and the Claude API has been resolved, and services have been operating normally since recovery. Impact occurred from 07:00 PT / 14:00 UTC to 07:59 PT / 14:59 UTC.",
   "components": [
    "claude.ai",
