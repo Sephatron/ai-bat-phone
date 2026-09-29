@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Cursor has identified the problem. Fix pending.]]></title>
+<link>https://stspg.io/dh24kf0vcpl8</link>
+<guid isPermaLink='false'>cursor:dk1g1h4q8yf8:progress:identified:major:2026-09-29T20:05:09.556000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 20:16:49 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation - xAI models</strong></p><p>Impact: major · Status: identified · Affects: CLI, Cloud Agents, IDE, Grok Bot · Opened: Tue, 29 Sep 2026 19:43:08 +0000</p><p>We have identified the cause of degraded performance affecting xAI models and are working to restore full capacity. Users may see errors, slow responses, or rate limiting on these models, and some Cloud Agent tasks may fail. We will post another update shortly.</p><p><a href="https://stspg.io/dh24kf0vcpl8">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462</link>
+<guid isPermaLink='false'>elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:progress:monitoring:major:2026-09-29T20:12:22+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 20:16:49 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 29 Sep 2026 18:49:26 +0000</p><p>Our engineers have applied a fix for the likely root cause. We are seeing signs of recovery but we will continue to monitor until recovery is fully confirmed.</p><p><a href="https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
 <link>https://stspg.io/dh24kf0vcpl8</link>
 <guid isPermaLink='false'>cursor:dk1g1h4q8yf8:opened:investigating:major:2026-09-29T19:43:08.869000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 14:45:44 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 03m · Opened: Tue, 15 Sep 2026 13:34:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2JMD4CSWG5K2Z0FQ0JCP3V3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
-<link>https://status.fireworks.ai/incidents/01M2JMD4CSWG5K2Z0FQ0JCP3V3</link>
-<guid isPermaLink='false'>fireworks:01M2JMD4CSWG5K2Z0FQ0JCP3V3:opened:investigating:none:2026-09-15T13:34:20+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 13:45:42 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 15 Sep 2026 13:34:20 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2JMD4CSWG5K2Z0FQ0JCP3V3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
-<link>https://stspg.io/6pn81yd1x4hz</link>
-<guid isPermaLink='false'>github:qwdwmtqghpk5:resolved:resolved:minor:2026-09-15T11:17:22.054000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 11:30:44 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 1h 30m · Opened: Tue, 15 Sep 2026 09:47:15 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/6pn81yd1x4hz">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

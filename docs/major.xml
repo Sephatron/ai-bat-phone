@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Cursor has identified the problem. Fix pending.]]></title>
+<link>https://stspg.io/dh24kf0vcpl8</link>
+<guid isPermaLink='false'>cursor:dk1g1h4q8yf8:progress:identified:major:2026-09-29T20:05:09.556000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 20:16:49 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation - xAI models</strong></p><p>Impact: major · Status: identified · Affects: CLI, Cloud Agents, IDE, Grok Bot · Opened: Tue, 29 Sep 2026 19:43:08 +0000</p><p>We have identified the cause of degraded performance affecting xAI models and are working to restore full capacity. Users may see errors, slow responses, or rate limiting on these models, and some Cloud Agent tasks may fail. We will post another update shortly.</p><p><a href="https://stspg.io/dh24kf0vcpl8">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462</link>
+<guid isPermaLink='false'>elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:progress:monitoring:major:2026-09-29T20:12:22+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 20:16:49 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 29 Sep 2026 18:49:26 +0000</p><p>Our engineers have applied a fix for the likely root cause. We are seeing signs of recovery but we will continue to monitor until recovery is fully confirmed.</p><p><a href="https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
 <link>https://stspg.io/dh24kf0vcpl8</link>
 <guid isPermaLink='false'>cursor:dk1g1h4q8yf8:opened:investigating:major:2026-09-29T19:43:08.869000+00:00</guid>
