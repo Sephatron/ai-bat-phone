@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
+<link>https://stspg.io/wy1xyqdkppvx</link>
+<guid isPermaLink='false'>cursor:jb59kzth2pwf:opened:investigating:minor:2026-09-29T14:30:51.793000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 14:31:20 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>We are investigating a service degradation affecting Cloud Agents and Grok Bot.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/br61xzj05pp5</link>
+<guid isPermaLink='false'>anthropic:4xvtc2gnq73l:opened:investigating:major:2026-09-29T14:30:19.582000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 14:31:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 29 Sep 2026 14:21:37 +0000</p><p>We are investigating reports of degraded performance affecting claude.ai, platform.claude.com, the Claude API, Claude Code, and Claude Cowork. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/br61xzj05pp5">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten is fine again]]></title>
 <link>https://stspg.io/883zgz27m3yn</link>
 <guid isPermaLink='false'>baseten:dfmq82b0t69x:resolved:resolved:minor:2026-09-29T01:28:56.550000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 07:15:47 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 15 Sep 2026 07:01:40 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR</link>
-<guid isPermaLink='false'>fireworks:01M2HJCVXAHZ975EXQ6XQD8QXR:resolved:resolved:minor:2026-09-15T03:54:21+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 04:00:47 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Tue, 15 Sep 2026 03:40:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
-<link>https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR</link>
-<guid isPermaLink='false'>fireworks:01M2HJCVXAHZ975EXQ6XQD8QXR:opened:investigating:minor:2026-09-15T03:40:00+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 03:45:41 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 15 Sep 2026 03:40:00 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/br61xzj05pp5</link>
+<guid isPermaLink='false'>anthropic:4xvtc2gnq73l:opened:investigating:major:2026-09-29T14:30:19.582000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 14:31:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 29 Sep 2026 14:21:37 +0000</p><p>We are investigating reports of degraded performance affecting claude.ai, platform.claude.com, the Claude API, Claude Code, and Claude Cowork. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/br61xzj05pp5">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 26 min.]]></title>
 <link>https://stspg.io/38rg6zk8nx4d</link>
 <guid isPermaLink='false'>moonshot:b0yb9hljvczz:resolved:resolved:critical:2026-09-29T00:12:13.809000+00:00</guid>

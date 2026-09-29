@@ -1,5 +1,50 @@
 [
  {
+  "body": "We are investigating a service degradation affecting Cloud Agents and Grok Bot.",
+  "components": [
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor has a limp, not a break",
+  "id": "cursor:jb59kzth2pwf:opened:investigating:minor:2026-09-29T14:30:51.793000+00:00",
+  "impact": "minor",
+  "incident_id": "jb59kzth2pwf",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-29T14:31:20.435794+00:00",
+  "started_at": "2026-09-29T14:25:00+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
+  "transition": "opened",
+  "url": "https://stspg.io/wy1xyqdkppvx"
+ },
+ {
+  "body": "We are investigating reports of degraded performance affecting claude.ai, platform.claude.com, the Claude API, Claude Code, and Claude Cowork. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude Console (platform.claude.com)",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔴 Claude has gone dark. Nothing you did. Probably.",
+  "id": "anthropic:4xvtc2gnq73l:opened:investigating:major:2026-09-29T14:30:19.582000+00:00",
+  "impact": "major",
+  "incident_id": "4xvtc2gnq73l",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-09-29T14:31:20.435794+00:00",
+  "started_at": "2026-09-29T14:21:37.180000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
+  "transition": "opened",
+  "url": "https://stspg.io/br61xzj05pp5"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Model Management API",

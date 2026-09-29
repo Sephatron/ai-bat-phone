@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
+<link>https://stspg.io/wy1xyqdkppvx</link>
+<guid isPermaLink='false'>cursor:jb59kzth2pwf:opened:investigating:minor:2026-09-29T14:30:51.793000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 14:31:20 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>We are investigating a service degradation affecting Cloud Agents and Grok Bot.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/br61xzj05pp5</link>
+<guid isPermaLink='false'>anthropic:4xvtc2gnq73l:opened:investigating:major:2026-09-29T14:30:19.582000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 14:31:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 29 Sep 2026 14:21:37 +0000</p><p>We are investigating reports of degraded performance affecting claude.ai, platform.claude.com, the Claude API, Claude Code, and Claude Cowork. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/br61xzj05pp5">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten is fine again]]></title>
 <link>https://stspg.io/883zgz27m3yn</link>
 <guid isPermaLink='false'>baseten:dfmq82b0t69x:resolved:resolved:minor:2026-09-29T01:28:56.550000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 03:15:38 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting Work Mode in ChatGPT</strong></p><p>Impact: minor · Status: resolved · Duration: 11h 12m · Opened: Mon, 14 Sep 2026 15:58:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten sorted itself out after 44 min]]></title>
-<link>https://stspg.io/zgqtvb6hfnjb</link>
-<guid isPermaLink='false'>baseten:hpfyy75qvv4x:resolved:resolved:minor:2026-09-15T02:07:38.244000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 02:15:40 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors for models in a single India-based cluster</strong></p><p>Impact: minor · Status: resolved · Affects: Dedicated Inference · Duration: 44 min · Opened: Tue, 15 Sep 2026 01:22:38 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/zgqtvb6hfnjb">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Baseten thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/zgqtvb6hfnjb</link>
-<guid isPermaLink='false'>baseten:hpfyy75qvv4x:progress:monitoring:minor:2026-09-15T01:39:27.608000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 01:45:38 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors for models in a single India-based cluster</strong></p><p>Impact: minor · Status: monitoring · Affects: Dedicated Inference · Opened: Tue, 15 Sep 2026 01:22:38 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/zgqtvb6hfnjb">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
