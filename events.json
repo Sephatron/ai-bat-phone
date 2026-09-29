@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are continuing to investigate this issue.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "",
+  "headline": "🟠 Baseten has a limp, not a break",
+  "id": "baseten:dfmq82b0t69x:opened:investigating:minor:2026-09-29T01:09:35.944000+00:00",
+  "impact": "minor",
+  "incident_id": "dfmq82b0t69x",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-29T01:16:18.293320+00:00",
+  "started_at": "2026-09-29T01:07:54.104000+00:00",
+  "status": "investigating",
+  "title": "Metrics degradation in UI and API. **Inference not affected**",
+  "transition": "opened",
+  "url": "https://stspg.io/883zgz27m3yn"
+ },
+ {
   "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
   "components": [
    "Model Management API",
