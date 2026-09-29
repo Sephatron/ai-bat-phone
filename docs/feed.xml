@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 26 min.]]></title>
+<link>https://stspg.io/38rg6zk8nx4d</link>
+<guid isPermaLink='false'>moonshot:b0yb9hljvczz:resolved:resolved:critical:2026-09-29T00:12:13.809000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 00:16:08 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: resolved · Affects: File uploads · Duration: 26 min · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/38rg6zk8nx4d</link>
 <guid isPermaLink='false'>moonshot:b0yb9hljvczz:opened:investigating:critical:2026-09-28T23:45:14.120000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 01:45:38 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors for models in a single India-based cluster</strong></p><p>Impact: minor · Status: monitoring · Affects: Dedicated Inference · Opened: Tue, 15 Sep 2026 01:22:38 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/zgqtvb6hfnjb">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
-<link>https://stspg.io/zgqtvb6hfnjb</link>
-<guid isPermaLink='false'>baseten:hpfyy75qvv4x:opened:investigating:minor:2026-09-15T01:22:38.786000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 01:30:43 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors for models in single cluster</strong></p><p>Impact: minor · Status: investigating · Affects: Dedicated Inference · Opened: Tue, 15 Sep 2026 01:22:38 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/zgqtvb6hfnjb">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

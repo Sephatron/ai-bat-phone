@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "File uploads"
+  ],
+  "duration": "26 min",
+  "headline": "🟢 Moonshot AI (Kimi) is upright again. That took 26 min.",
+  "id": "moonshot:b0yb9hljvczz:resolved:resolved:critical:2026-09-29T00:12:13.809000+00:00",
+  "impact": "critical",
+  "incident_id": "b0yb9hljvczz",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-09-29T00:16:08.690870+00:00",
+  "started_at": "2026-09-28T23:45:13.977000+00:00",
+  "status": "resolved",
+  "title": "kimi fs服务异常",
+  "transition": "resolved",
+  "url": "https://stspg.io/38rg6zk8nx4d"
+ },
+ {
   "body": "kimi fs请求失败率过高",
   "components": [
    "File uploads"
