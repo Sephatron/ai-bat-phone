@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue affecting support chat has been resolved. You can now contact our support team through the Help Center as usual. Thank you for your patience while we worked to restore service.",
+  "components": [],
+  "duration": "5h 29m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M3Q4HMNP8SZ27DTZKW6F5BJ4:resolved:resolved:none:2026-09-29T23:18:57+00:00",
+  "impact": "none",
+  "incident_id": "01M3Q4HMNP8SZ27DTZKW6F5BJ4",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-29T23:31:19.141626+00:00",
+  "started_at": "2026-09-29T17:49:05+00:00",
+  "status": "resolved",
+  "title": "Support available via email",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
+ },
+ {
   "body": "The issue causing elevated errors across ChatGPT, Codex, and the API has been resolved, and all affected services have recovered. Thank you for your patience while we worked to restore service. The detailed Root Cause Analysis (RCA) will be published in the next 5 business days.",
   "components": [],
   "duration": "5h 21m",
