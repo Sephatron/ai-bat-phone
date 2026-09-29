@@ -1,5 +1,23 @@
 [
  {
+  "body": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out",
+  "components": [],
+  "duration": "",
+  "headline": "📵 SambaNova is unreadable — silence here means unknown, not fine",
+  "id": "meta:sambanova:unreachable:2026-09-29T14:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "sambanova",
+  "provider_name": "SambaNova",
+  "published_at": "2026-09-29T14:46:20.886281+00:00",
+  "started_at": "2026-09-29T14:00:00+00:00",
+  "status": "unreachable",
+  "title": "AI Bat Phone cannot read SambaNova's status page",
+  "transition": "unreachable",
+  "url": "https://status.sambanova.ai"
+ },
+ {
   "body": "We are investigating a service degradation affecting Cloud Agents and Grok Bot.",
   "components": [
    "Cloud Agents",

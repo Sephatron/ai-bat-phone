@@ -2,7 +2,7 @@
  "heartbeat": "2026-09-29T14:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "failing_since": "2026-09-29T14:00:00+00:00",
    "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
@@ -10,18 +10,22 @@
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "failing_since": "2026-09-29T14:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json returned HTTP 503"
+   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
   },
   "cerebras": {
    "consecutive_failures": 0
   },
   "cohere": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-29T14:00:00+00:00",
+   "last_error": "https://status.cohere.com/api/v2/incidents.json: The read operation timed out"
   },
   "cursor": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-29T14:00:00+00:00",
+   "last_error": "https://status.cursor.com/api/v2/incidents.json: The read operation timed out"
   },
   "deepseek": {
    "consecutive_failures": 0
@@ -45,7 +49,9 @@
    "consecutive_failures": 0
   },
   "moonshot": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-09-29T14:00:00+00:00",
+   "last_error": "https://status.moonshot.cn/api/v2/incidents.json: The read operation timed out"
   },
   "openai": {
    "consecutive_failures": 0
@@ -62,7 +68,7 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 2,
+   "consecutive_failures": 3,
    "failing_since": "2026-09-29T14:00:00+00:00",
    "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
   },
@@ -144,7 +150,7 @@
    "impact": "major",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-09-29T14:30:19.582000+00:00"
+   "updated_at": "2026-09-29T14:41:08.276000+00:00"
   },
   "anthropic:620swtqyn24k": {
    "impact": "minor",

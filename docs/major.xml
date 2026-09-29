@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 SambaNova is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.sambanova.ai</link>
+<guid isPermaLink='false'>meta:sambanova:unreachable:2026-09-29T14:00:00+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 14:46:20 +0000</pubDate>
+<category>SambaNova</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read SambaNova's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/br61xzj05pp5</link>
 <guid isPermaLink='false'>anthropic:4xvtc2gnq73l:opened:investigating:major:2026-09-29T14:30:19.582000+00:00</guid>
