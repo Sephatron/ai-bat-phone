@@ -1,5 +1,26 @@
 [
  {
+  "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "",
+  "headline": "🔧 Maintenance underway at Baseten",
+  "id": "baseten:kxjy1q8tj1l9:progress:in_progress:maintenance:2026-09-29T01:00:08.324000+00:00",
+  "impact": "maintenance",
+  "incident_id": "kxjy1q8tj1l9",
+  "kind": "maintenance",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-29T01:01:09.594151+00:00",
+  "started_at": "2026-09-28T18:40:33.086000+00:00",
+  "status": "in_progress",
+  "title": "Database Upgrade. Inference will not be affected",
+  "transition": "progress",
+  "url": "https://stspg.io/6b2703ymtcrn"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "File uploads"
