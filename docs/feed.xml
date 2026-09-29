@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 SambaNova is readable again, so silence here means quiet once more]]></title>
+<link>https://status.sambanova.ai</link>
+<guid isPermaLink='false'>meta:sambanova:recovered:2026-09-29T14:00:00+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 15:46:07 +0000</pubDate>
+<category>SambaNova</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read SambaNova's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:recovered:2026-09-29T14:00:00+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 15:46:07 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 Cursor has found the culprit]]></title>
+<link>https://stspg.io/wy1xyqdkppvx</link>
+<guid isPermaLink='false'>cursor:jb59kzth2pwf:progress:identified:minor:2026-09-29T15:26:33.751000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 15:46:07 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: identified · Affects: Cloud Agents, Grok Bot · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>The root cause has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/br61xzj05pp5</link>
 <guid isPermaLink='false'>anthropic:4xvtc2gnq73l:progress:monitoring:major:2026-09-29T15:11:27.478000+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 09:30:54 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service) · Opened: Tue, 15 Sep 2026 08:55:34 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/6985247573287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from DeepSeek]]></title>
-<link>https://status.deepseek.com/incidents/6985247573287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:6985247573287:opened:investigating:minor:2026-09-15T09:00:51.984997+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 09:00:51 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: investigating · Affects: DeepSeek V4.1 Flash API服务(API Service) · Opened: Tue, 15 Sep 2026 08:55:34 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/6985247573287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA</link>
-<guid isPermaLink='false'>openai:01M2HYH64J2CZMZ63HEV2FCQFA:resolved:resolved:minor:2026-09-15T07:53:36+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 08:00:48 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans</strong></p><p>Impact: minor · Status: resolved · Duration: 41 min · Opened: Tue, 15 Sep 2026 07:12:04 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA</link>
-<guid isPermaLink='false'>openai:01M2HYH64J2CZMZ63HEV2FCQFA:progress:monitoring:minor:2026-09-15T07:24:26+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 07:30:46 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 15 Sep 2026 07:12:04 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

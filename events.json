@@ -1,5 +1,62 @@
 [
  {
+  "body": "",
+  "components": [],
+  "duration": "",
+  "headline": "📶 SambaNova is readable again, so silence here means quiet once more",
+  "id": "meta:sambanova:recovered:2026-09-29T14:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "sambanova",
+  "provider_name": "SambaNova",
+  "published_at": "2026-09-29T15:46:07.550264+00:00",
+  "started_at": "2026-09-29T14:00:00+00:00",
+  "status": "recovered",
+  "title": "AI Bat Phone can read SambaNova's status page again",
+  "transition": "recovered",
+  "url": "https://status.sambanova.ai"
+ },
+ {
+  "body": "",
+  "components": [],
+  "duration": "",
+  "headline": "📶 AI21 is readable again, so silence here means quiet once more",
+  "id": "meta:ai21:recovered:2026-09-29T14:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "ai21",
+  "provider_name": "AI21",
+  "published_at": "2026-09-29T15:46:07.550264+00:00",
+  "started_at": "2026-09-29T14:00:00+00:00",
+  "status": "recovered",
+  "title": "AI Bat Phone can read AI21's status page again",
+  "transition": "recovered",
+  "url": "https://status.ai21.com"
+ },
+ {
+  "body": "The root cause has been identified and a fix is being implemented.",
+  "components": [
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🔍 Cursor has found the culprit",
+  "id": "cursor:jb59kzth2pwf:progress:identified:minor:2026-09-29T15:26:33.751000+00:00",
+  "impact": "minor",
+  "incident_id": "jb59kzth2pwf",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-29T15:46:07.550264+00:00",
+  "started_at": "2026-09-29T14:25:00+00:00",
+  "status": "identified",
+  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
+  "transition": "progress",
+  "url": "https://stspg.io/wy1xyqdkppvx"
+ },
+ {
   "body": "Most services have recovered as of 14:59 UTC. Signing in, starting new chats, voice conversations, Claude Code and Cowork sessions, purchases and file uploads are working again. Some messages sent between 14:00 and 14:59 UTC may not have been saved. We are monitoring closely and will post another update within 30 minutes.",
   "components": [
    "claude.ai",

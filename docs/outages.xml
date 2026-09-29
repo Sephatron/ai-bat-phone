@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 SambaNova is readable again, so silence here means quiet once more]]></title>
+<link>https://status.sambanova.ai</link>
+<guid isPermaLink='false'>meta:sambanova:recovered:2026-09-29T14:00:00+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 15:46:07 +0000</pubDate>
+<category>SambaNova</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read SambaNova's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:recovered:2026-09-29T14:00:00+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 15:46:07 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 Cursor has found the culprit]]></title>
+<link>https://stspg.io/wy1xyqdkppvx</link>
+<guid isPermaLink='false'>cursor:jb59kzth2pwf:progress:identified:minor:2026-09-29T15:26:33.751000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 15:46:07 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: identified · Affects: Cloud Agents, Grok Bot · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>The root cause has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/br61xzj05pp5</link>
 <guid isPermaLink='false'>anthropic:4xvtc2gnq73l:progress:monitoring:major:2026-09-29T15:11:27.478000+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 07:30:46 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 15 Sep 2026 07:12:04 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 19 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P</link>
-<guid isPermaLink='false'>fireworks:01M2HXY4B0RJ19P2H7VPT3TG5P:resolved:resolved:none:2026-09-15T07:21:22+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 07:30:46 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 19 min · Opened: Tue, 15 Sep 2026 07:01:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
-<link>https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA</link>
-<guid isPermaLink='false'>openai:01M2HYH64J2CZMZ63HEV2FCQFA:opened:investigating:minor:2026-09-15T07:12:04+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 07:15:47 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 15 Sep 2026 07:12:04 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
-<link>https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P</link>
-<guid isPermaLink='false'>fireworks:01M2HXY4B0RJ19P2H7VPT3TG5P:opened:investigating:none:2026-09-15T07:01:40+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 07:15:47 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for one of our Serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 15 Sep 2026 07:01:40 +0000</p><p>We are seeing impacted performance for one of our Serverless models. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
