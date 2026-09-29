@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue causing elevated errors across ChatGPT, Codex, and the API has been resolved, and all affected services have recovered. Thank you for your patience while we worked to restore service. The detailed Root Cause Analysis (RCA) will be published in the next 5 business days.",
+  "components": [],
+  "duration": "5h 21m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M3Q4RK1SM4EMK445GGPG7C0N:resolved:resolved:minor:2026-09-29T23:14:02+00:00",
+  "impact": "minor",
+  "incident_id": "01M3Q4RK1SM4EMK445GGPG7C0N",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-29T23:16:11.773265+00:00",
+  "started_at": "2026-09-29T17:52:52+00:00",
+  "status": "resolved",
+  "title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
