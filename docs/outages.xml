@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten is fine again]]></title>
+<link>https://stspg.io/883zgz27m3yn</link>
+<guid isPermaLink='false'>baseten:dfmq82b0t69x:resolved:resolved:minor:2026-09-29T01:28:56.550000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 01:31:22 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Metrics degradation in UI and API. **Inference not affected**</strong></p><p>Impact: minor · Status: resolved · Affects: Model Management API, Web Application · Duration: 21 min · Opened: Tue, 29 Sep 2026 01:07:54 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/883zgz27m3yn">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
 <link>https://stspg.io/883zgz27m3yn</link>
 <guid isPermaLink='false'>baseten:dfmq82b0t69x:opened:investigating:minor:2026-09-29T01:09:35.944000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 01:45:38 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors for models in a single India-based cluster</strong></p><p>Impact: minor · Status: monitoring · Affects: Dedicated Inference · Opened: Tue, 15 Sep 2026 01:22:38 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/zgqtvb6hfnjb">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
-<link>https://stspg.io/zgqtvb6hfnjb</link>
-<guid isPermaLink='false'>baseten:hpfyy75qvv4x:opened:investigating:minor:2026-09-15T01:22:38.786000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 01:30:43 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors for models in single cluster</strong></p><p>Impact: minor · Status: investigating · Affects: Dedicated Inference · Opened: Tue, 15 Sep 2026 01:22:38 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/zgqtvb6hfnjb">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

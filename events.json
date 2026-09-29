@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "21 min",
+  "headline": "🟢 Baseten is fine again",
+  "id": "baseten:dfmq82b0t69x:resolved:resolved:minor:2026-09-29T01:28:56.550000+00:00",
+  "impact": "minor",
+  "incident_id": "dfmq82b0t69x",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-09-29T01:31:22.016211+00:00",
+  "started_at": "2026-09-29T01:07:54.104000+00:00",
+  "status": "resolved",
+  "title": "Metrics degradation in UI and API. **Inference not affected**",
+  "transition": "resolved",
+  "url": "https://stspg.io/883zgz27m3yn"
+ },
+ {
   "body": "We are continuing to investigate this issue.",
   "components": [
    "Model Management API",

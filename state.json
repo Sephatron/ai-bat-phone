@@ -623,8 +623,8 @@
   "baseten:dfmq82b0t69x": {
    "impact": "minor",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-29T01:09:35.944000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-29T01:28:56.550000+00:00"
   },
   "baseten:dqwfrxx93m21": {
    "impact": "minor",

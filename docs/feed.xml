@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten is fine again]]></title>
+<link>https://stspg.io/883zgz27m3yn</link>
+<guid isPermaLink='false'>baseten:dfmq82b0t69x:resolved:resolved:minor:2026-09-29T01:28:56.550000+00:00</guid>
+<pubDate>Tue, 29 Sep 2026 01:31:22 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Metrics degradation in UI and API. **Inference not affected**</strong></p><p>Impact: minor · Status: resolved · Affects: Model Management API, Web Application · Duration: 21 min · Opened: Tue, 29 Sep 2026 01:07:54 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/883zgz27m3yn">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
 <link>https://stspg.io/883zgz27m3yn</link>
 <guid isPermaLink='false'>baseten:dfmq82b0t69x:opened:investigating:minor:2026-09-29T01:09:35.944000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 03:45:41 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 15 Sep 2026 03:40:00 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5</link>
-<guid isPermaLink='false'>openai:01M2GA8XTS6VB3QCDEGZ0HNAQ5:resolved:resolved:minor:2026-09-15T03:11:36+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 03:15:38 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting Work Mode in ChatGPT</strong></p><p>Impact: minor · Status: resolved · Duration: 11h 12m · Opened: Mon, 14 Sep 2026 15:58:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
