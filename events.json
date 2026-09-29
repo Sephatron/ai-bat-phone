@@ -1,5 +1,46 @@
 [
  {
+  "body": "We have not seen any further errors after the fix was applied. All services are fully operational and stable. We will post an RCA on our status page after further investigation.",
+  "components": [],
+  "duration": "1h 33m",
+  "headline": "🟢 ElevenLabs is fixed. You may resume being productive.",
+  "id": "elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:resolved:resolved:major:2026-09-29T20:23:14+00:00",
+  "impact": "major",
+  "incident_id": "01M3Q8059VPFGJ7QM1C41NN462",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-09-29T20:31:08.695893+00:00",
+  "started_at": "2026-09-29T18:49:26+00:00",
+  "status": "resolved",
+  "title": "Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "CLI",
+   "Cloud Agents",
+   "IDE",
+   "Grok Bot"
+  ],
+  "duration": "34 min",
+  "headline": "🟢 All clear from Cursor after 34 min",
+  "id": "cursor:dk1g1h4q8yf8:resolved:resolved:major:2026-09-29T20:18:00.885000+00:00",
+  "impact": "major",
+  "incident_id": "dk1g1h4q8yf8",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-09-29T20:31:08.695893+00:00",
+  "started_at": "2026-09-29T19:43:08.676000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation - xAI models",
+  "transition": "resolved",
+  "url": "https://stspg.io/dh24kf0vcpl8"
+ },
+ {
   "body": "We have identified the cause of degraded performance affecting xAI models and are working to restore full capacity. Users may see errors, slow responses, or rate limiting on these models, and some Cloud Agent tasks may fail. We will post another update shortly.",
   "components": [
    "CLI",
