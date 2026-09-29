@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-09-29T21:00:00+00:00",
+ "heartbeat": "2026-09-29T22:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -49,7 +49,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
   },
   "perplexity": {
    "consecutive_failures": 0
@@ -4079,8 +4079,8 @@
   "openai:01M3Q4HMNP8SZ27DTZKW6F5BJ4": {
    "impact": "none",
    "last_seen_at": "2026-09-29T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-09-29T18:50:38+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-29T21:50:57+00:00"
   },
   "openai:01M3Q4RK1SM4EMK445GGPG7C0N": {
    "impact": "minor",

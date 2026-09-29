@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M3Q4HMNP8SZ27DTZKW6F5BJ4:progress:monitoring:none:2026-09-29T21:50:57+00:00",
+  "impact": "none",
+  "incident_id": "01M3Q4HMNP8SZ27DTZKW6F5BJ4",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-29T22:01:09.925708+00:00",
+  "started_at": "2026-09-29T17:49:05+00:00",
+  "status": "monitoring",
+  "title": "Support available via email",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
+ },
+ {
   "body": "We have not seen any further errors after the fix was applied. All services are fully operational and stable. We will post an RCA on our status page after further investigation.",
   "components": [],
   "duration": "1h 33m",
