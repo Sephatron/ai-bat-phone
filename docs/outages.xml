@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 30 Sep 2026 05:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 06:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K</link>
+<guid isPermaLink='false'>openai:01M3RDNY37CAPQGRKPBVMNRT4K:opened:monitoring:minor:2026-09-30T05:56:48+00:00</guid>
+<pubDate>Wed, 30 Sep 2026 06:01:22 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for ChatGPT Pro and Plus users</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 30 Sep 2026 05:47:57 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 20:00:46 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 15 Sep 2026 19:11:31 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/tbh60vgxfxj6">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is a bit under the weather]]></title>
-<link>https://stspg.io/tbh60vgxfxj6</link>
-<guid isPermaLink='false'>github:bk7zgdcq7s9t:opened:investigating:minor:2026-09-15T19:11:31.400000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 19:30:41 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 15 Sep 2026 19:11:31 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/tbh60vgxfxj6">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
