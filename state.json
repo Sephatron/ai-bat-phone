@@ -4091,8 +4091,8 @@
   "openai:01M3R1T4FCR1337FBBYY9K2RPB": {
    "impact": "minor",
    "last_seen_at": "2026-09-30T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-09-30T02:20:32+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-09-30T06:03:10+00:00"
   },
   "openai:01M3RDNY37CAPQGRKPBVMNRT4K": {
    "impact": "minor",
