@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
+<guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:progress:monitoring:minor:2026-09-30T18:21:53+00:00</guid>
+<pubDate>Wed, 30 Sep 2026 18:24:14 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated latency for some API requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 30 Sep 2026 17:05:46 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI knows what it did]]></title>
 <link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
 <guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:opened:identified:minor:2026-09-30T17:13:13+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 07:30:46 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: investigating · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>We are investigating reports of degraded availability for Copilot AI Model Providers</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is upright again. That took 40 min.]]></title>
-<link>https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W</link>
-<guid isPermaLink='false'>openai:01M2KQNE5C42NEZPX6V01NHH5W:resolved:resolved:major:2026-09-16T00:30:48+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 00:45:39 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with gpt-image-2.5-flare</strong></p><p>Impact: major · Status: resolved · Duration: 40 min · Opened: Tue, 15 Sep 2026 23:50:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

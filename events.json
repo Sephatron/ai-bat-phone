@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M3SMF1Q0TDCQVNYSXYG37QMR:progress:monitoring:minor:2026-09-30T18:21:53+00:00",
+  "impact": "minor",
+  "incident_id": "01M3SMF1Q0TDCQVNYSXYG37QMR",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-30T18:24:14.945697+00:00",
+  "started_at": "2026-09-30T17:05:46+00:00",
+  "status": "monitoring",
+  "title": "Elevated latency for some API requests",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR"
+ },
+ {
   "body": "We have identified that users are experiencing elevated latency for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
