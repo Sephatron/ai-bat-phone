@@ -4092,13 +4092,13 @@
    "impact": "minor",
    "last_seen_at": "2026-09-30T00:00:00+00:00",
    "status": "monitoring",
-   "updated_at": "2026-09-30T06:03:10+00:00"
+   "updated_at": "2026-09-30T10:34:34+00:00"
   },
   "openai:01M3RDNY37CAPQGRKPBVMNRT4K": {
    "impact": "minor",
    "last_seen_at": "2026-09-30T00:00:00+00:00",
    "status": "monitoring",
-   "updated_at": "2026-09-30T05:56:48+00:00"
+   "updated_at": "2026-09-30T10:36:34+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
