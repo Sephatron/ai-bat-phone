@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB</link>
+<guid isPermaLink='false'>openai:01M3R1T4FCR1337FBBYY9K2RPB:opened:identified:minor:2026-09-30T02:20:32+00:00</guid>
+<pubDate>Wed, 30 Sep 2026 02:31:09 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors in ChatGPT Space Pages</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 30 Sep 2026 02:20:32 +0000</p><p>We have identified that users may experience errors creating or interacting with Pages, including failures when using Page tools or connecting to live Page sessions. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4</link>
 <guid isPermaLink='false'>openai:01M3Q4HMNP8SZ27DTZKW6F5BJ4:resolved:resolved:none:2026-09-29T23:18:57+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 15 Sep 2026 21:30:42 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: critical · Status: investigating · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Opened: Tue, 15 Sep 2026 21:26:49 +0000</p><p>We are investigating a service degradation. Affected agent surfaces: Composer and xAI.</p><p><a href="https://stspg.io/wph5l6zb4lz7">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
-<link>https://stspg.io/tbh60vgxfxj6</link>
-<guid isPermaLink='false'>github:bk7zgdcq7s9t:resolved:resolved:minor:2026-09-15T20:00:50.530000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 20:15:39 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: resolved · Duration: 49 min · Opened: Tue, 15 Sep 2026 19:11:31 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/tbh60vgxfxj6">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

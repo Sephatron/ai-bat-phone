@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users may experience errors creating or interacting with Pages, including failures when using Page tools or connecting to live Page sessions. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M3R1T4FCR1337FBBYY9K2RPB:opened:identified:minor:2026-09-30T02:20:32+00:00",
+  "impact": "minor",
+  "incident_id": "01M3R1T4FCR1337FBBYY9K2RPB",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-09-30T02:31:09.031391+00:00",
+  "started_at": "2026-09-30T02:20:32+00:00",
+  "status": "identified",
+  "title": "Elevated errors in ChatGPT Space Pages",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB"
+ },
+ {
   "body": "The issue affecting support chat has been resolved. You can now contact our support team through the Help Center as usual. Thank you for your patience while we worked to restore service.",
   "components": [],
   "duration": "5h 29m",

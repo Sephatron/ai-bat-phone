@@ -4088,6 +4088,12 @@
    "status": "resolved",
    "updated_at": "2026-09-29T23:14:02+00:00"
   },
+  "openai:01M3R1T4FCR1337FBBYY9K2RPB": {
+   "impact": "minor",
+   "last_seen_at": "2026-09-30T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-09-30T02:20:32+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",
