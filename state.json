@@ -2124,7 +2124,7 @@
    "impact": "major",
    "last_seen_at": "2026-09-30T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-28T14:39:46+00:00"
+   "updated_at": "2026-09-30T13:25:54+00:00"
   },
   "elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT": {
    "impact": "minor",
@@ -4097,8 +4097,8 @@
   "openai:01M3RDNY37CAPQGRKPBVMNRT4K": {
    "impact": "minor",
    "last_seen_at": "2026-09-30T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-09-30T10:36:34+00:00"
+   "status": "resolved",
+   "updated_at": "2026-09-30T13:23:37+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
