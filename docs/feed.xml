@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
+<guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:resolved:resolved:minor:2026-09-30T20:35:46+00:00</guid>
+<pubDate>Wed, 30 Sep 2026 20:46:11 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated latency for some API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 30m · Opened: Wed, 30 Sep 2026 17:05:46 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
 <guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:progress:monitoring:minor:2026-09-30T18:21:53+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 08:15:43 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: CLI, IDE · Opened: Wed, 16 Sep 2026 08:03:00 +0000</p><p>A fix has been implemented. We are monitoring recovery and will provide another update once the incident is fully resolved.</p><p><a href="https://stspg.io/j2xb74dqwdrx">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 GitHub is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/hsjy12f57b24</link>
-<guid isPermaLink='false'>github:nlxnbqnkdzdl:opened:investigating:major:2026-09-16T07:21:00.057000+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 07:30:46 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: investigating · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>We are investigating reports of degraded availability for Copilot AI Model Providers</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
+<guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:resolved:resolved:minor:2026-09-30T20:35:46+00:00</guid>
+<pubDate>Wed, 30 Sep 2026 20:46:11 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated latency for some API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 30m · Opened: Wed, 30 Sep 2026 17:05:46 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
 <guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:progress:monitoring:minor:2026-09-30T18:21:53+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 00:00:42 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors with gpt-image-2.5-flare</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 15 Sep 2026 23:50:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://stspg.io/wph5l6zb4lz7</link>
-<guid isPermaLink='false'>cursor:2bw21tcjqzg6:resolved:resolved:minor:2026-09-15T22:00:04.391000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 22:15:40 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Duration: 33 min · Opened: Tue, 15 Sep 2026 21:26:49 +0000</p><p>This incident has been resolved at 6pm Eastern.</p><p><a href="https://stspg.io/wph5l6zb4lz7">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
