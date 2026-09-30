@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI knows what it did]]></title>
+<link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
+<guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:opened:identified:minor:2026-09-30T17:13:13+00:00</guid>
+<pubDate>Wed, 30 Sep 2026 17:16:15 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated latency for some API requests</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 30 Sep 2026 17:05:46 +0000</p><p>We have identified that users are experiencing elevated latency for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 7h 35m]]></title>
 <link>https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K</link>
 <guid isPermaLink='false'>openai:01M3RDNY37CAPQGRKPBVMNRT4K:resolved:resolved:minor:2026-09-30T13:23:37+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 00:45:39 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors with gpt-image-2.5-flare</strong></p><p>Impact: major · Status: resolved · Duration: 40 min · Opened: Tue, 15 Sep 2026 23:50:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W</link>
-<guid isPermaLink='false'>openai:01M2KQNE5C42NEZPX6V01NHH5W:opened:monitoring:major:2026-09-15T23:58:30+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 00:00:42 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with gpt-image-2.5-flare</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 15 Sep 2026 23:50:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
