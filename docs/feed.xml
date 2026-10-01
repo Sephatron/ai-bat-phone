@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM</link>
+<guid isPermaLink='false'>openai:01M3WCKTAN41RZ01SBRRTY4AYM:progress:monitoring:major:2026-10-01T19:26:50+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 19:30:38 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Issues with login, signup, and ads</strong></p><p>Impact: major · Status: monitoring · Opened: Thu, 01 Oct 2026 18:46:17 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 OpenAI has gone dark. Nothing you did. Probably.]]></title>
 <link>https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM</link>
 <guid isPermaLink='false'>openai:01M3WCKTAN41RZ01SBRRTY4AYM:opened:investigating:major:2026-10-01T18:46:17+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 06:45:33 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.2 US</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 17 Sep 2026 06:41:01 +0000</p><p>We are seeing impacted performance for GLM 5.2 US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Cursor after 6h 29m]]></title>
-<link>https://stspg.io/d92scb2t3t41</link>
-<guid isPermaLink='false'>cursor:37hs7jj05wkx:resolved:resolved:major:2026-09-16T20:57:14.443000+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 21:00:30 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 6h 29m · Opened: Wed, 16 Sep 2026 14:27:16 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/d92scb2t3t41">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M3WCKTAN41RZ01SBRRTY4AYM:progress:monitoring:major:2026-10-01T19:26:50+00:00",
+  "impact": "major",
+  "incident_id": "01M3WCKTAN41RZ01SBRRTY4AYM",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-01T19:30:38.576065+00:00",
+  "started_at": "2026-10-01T18:46:17+00:00",
+  "status": "monitoring",
+  "title": "Issues with login, signup, and ads",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM"
+ },
+ {
   "body": "We are investigating an issue affecting login and signup. We will share further updates as we learn more.",
   "components": [],
   "duration": "",

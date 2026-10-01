@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM</link>
+<guid isPermaLink='false'>openai:01M3WCKTAN41RZ01SBRRTY4AYM:progress:monitoring:major:2026-10-01T19:26:50+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 19:30:38 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Issues with login, signup, and ads</strong></p><p>Impact: major · Status: monitoring · Opened: Thu, 01 Oct 2026 18:46:17 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 OpenAI has gone dark. Nothing you did. Probably.]]></title>
 <link>https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM</link>
 <guid isPermaLink='false'>openai:01M3WCKTAN41RZ01SBRRTY4AYM:opened:investigating:major:2026-10-01T18:46:17+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 19:45:28 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors in ChatGPT Work</strong></p><p>Impact: minor · Status: resolved · Duration: 50 min · Opened: Wed, 16 Sep 2026 18:44:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY</link>
-<guid isPermaLink='false'>openai:01M2NRHTYAM3K3M93X1D068MCY:progress:monitoring:minor:2026-09-16T19:20:27+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 19:30:28 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors in ChatGPT Work</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 16 Sep 2026 18:44:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
