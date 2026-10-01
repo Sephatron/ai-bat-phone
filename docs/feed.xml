@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Lovable is fine again]]></title>
+<link>https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18</link>
+<guid isPermaLink='false'>lovable:01M3WKFAGB34V0ND7B9HZ3VZ18:resolved:resolved:none:2026-10-01T21:08:55+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 21:15:37 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Issues with previews, remix, and static asset serving</strong></p><p>Impact: unclassified · Status: resolved · Duration: 22 min · Opened: Thu, 01 Oct 2026 20:46:09 +0000</p><p>The issues affecting previews, remix, and static asset serving have been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 DeepSeek is readable again, so silence here means quiet once more]]></title>
 <link>https://status.deepseek.com</link>
 <guid isPermaLink='false'>meta:deepseek:recovered:2026-10-01T20:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 19:13:35 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work mode</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 17 Sep 2026 19:03:17 +0000</p><p>We are investigating the issue for the listed services. Some users may experience failures when starting or running Work tasks.</p><p><a href="https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/tvp74wjvjbgg</link>
-<guid isPermaLink='false'>cursor:jdm0j510q78b:progress:monitoring:critical:2026-09-17T18:12:05.080000+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 18:15:27 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Automations</strong></p><p>Impact: critical · Status: monitoring · Affects: Automations, Review Agents, Cloud Agents · Opened: Thu, 17 Sep 2026 15:20:00 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/tvp74wjvjbgg">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

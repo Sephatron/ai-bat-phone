@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issues affecting previews, remix, and static asset serving have been resolved.",
+  "components": [],
+  "duration": "22 min",
+  "headline": "🟢 Lovable is fine again",
+  "id": "lovable:01M3WKFAGB34V0ND7B9HZ3VZ18:resolved:resolved:none:2026-10-01T21:08:55+00:00",
+  "impact": "none",
+  "incident_id": "01M3WKFAGB34V0ND7B9HZ3VZ18",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-01T21:15:37.412148+00:00",
+  "started_at": "2026-10-01T20:46:09+00:00",
+  "status": "resolved",
+  "title": "Issues with previews, remix, and static asset serving",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Lovable is fine again]]></title>
+<link>https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18</link>
+<guid isPermaLink='false'>lovable:01M3WKFAGB34V0ND7B9HZ3VZ18:resolved:resolved:none:2026-10-01T21:08:55+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 21:15:37 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Issues with previews, remix, and static asset serving</strong></p><p>Impact: unclassified · Status: resolved · Duration: 22 min · Opened: Thu, 01 Oct 2026 20:46:09 +0000</p><p>The issues affecting previews, remix, and static asset serving have been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 DeepSeek is readable again, so silence here means quiet once more]]></title>
 <link>https://status.deepseek.com</link>
 <guid isPermaLink='false'>meta:deepseek:recovered:2026-10-01T20:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 14:45:32 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 2h 03m · Opened: Thu, 17 Sep 2026 12:30:56 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/46vyl26p4fbz">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Cursor has gone dark. Nothing you did. Probably.]]></title>
-<link>https://stspg.io/46vyl26p4fbz</link>
-<guid isPermaLink='false'>cursor:lqp75t47dvpm:opened:investigating:major:2026-09-17T12:30:56.863000+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 12:45:34 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Grok Bot · Opened: Thu, 17 Sep 2026 12:30:56 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.</p><p><a href="https://stspg.io/46vyl26p4fbz">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
