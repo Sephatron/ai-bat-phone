@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 01 Oct 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Lovable]]></title>
+<link>https://status.lovable.dev/incidents/01M3VDS1P1660F615AGEYJAQGH</link>
+<guid isPermaLink='false'>lovable:01M3VDS1P1660F615AGEYJAQGH:opened:investigating:minor:2026-10-01T09:47:22+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 10:01:20 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Issues with image generation and editing</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 09:47:22 +0000</p><p>Image generation and image editing in the Lovable chat are failing for some users. Image features in apps built with Lovable are not affected. We're working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M3VDS1P1660F615AGEYJAQGH">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 08:15:43 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: CLI, IDE · Opened: Wed, 16 Sep 2026 08:03:00 +0000</p><p>A fix has been implemented. We are monitoring recovery and will provide another update once the incident is fully resolved.</p><p><a href="https://stspg.io/j2xb74dqwdrx">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 GitHub is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/hsjy12f57b24</link>
-<guid isPermaLink='false'>github:nlxnbqnkdzdl:opened:investigating:major:2026-09-16T07:21:00.057000+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 07:30:46 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: investigating · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>We are investigating reports of degraded availability for Copilot AI Model Providers</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
