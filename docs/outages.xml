@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 01 Oct 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 OpenAI has gone dark. Nothing you did. Probably.]]></title>
+<link>https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM</link>
+<guid isPermaLink='false'>openai:01M3WCKTAN41RZ01SBRRTY4AYM:opened:investigating:major:2026-10-01T18:46:17+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 19:00:46 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Issues with login and signup</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 01 Oct 2026 18:46:17 +0000</p><p>We are investigating an issue affecting login and signup. We will share further updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/jg26d0skzh27</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 19:30:28 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors in ChatGPT Work</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 16 Sep 2026 18:44:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from OpenAI]]></title>
-<link>https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY</link>
-<guid isPermaLink='false'>openai:01M2NRHTYAM3K3M93X1D068MCY:opened:investigating:minor:2026-09-16T18:44:32+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 18:45:26 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors in ChatGPT Work</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 16 Sep 2026 18:44:32 +0000</p><p>We are investigating elevated errors affecting ChatGPT Work. We will provide updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
