@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating recurrent periods of elevated latency affecting web requests. We’ll share updates as more information becomes available.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is a bit under the weather",
+  "id": "github:c8466lzvnmsv:opened:investigating:minor:2026-10-01T13:39:10.097000+00:00",
+  "impact": "minor",
+  "incident_id": "c8466lzvnmsv",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-01T13:46:10.915090+00:00",
+  "started_at": "2026-10-01T13:37:33.060000+00:00",
+  "status": "investigating",
+  "title": "Elevated request latency",
+  "transition": "opened",
+  "url": "https://stspg.io/cz0ngh11q0tf"
+ },
+ {
   "body": "[Investigating] Some users are unable to load their integrations page to access their connections. Our engineers are investigating, and we’ll share an update as more information becomes available.",
   "components": [],
   "duration": "",

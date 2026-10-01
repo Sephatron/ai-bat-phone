@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is a bit under the weather]]></title>
+<link>https://stspg.io/cz0ngh11q0tf</link>
+<guid isPermaLink='false'>github:c8466lzvnmsv:opened:investigating:minor:2026-10-01T13:39:10.097000+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 13:46:10 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Elevated request latency</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 13:37:33 +0000</p><p>We are investigating recurrent periods of elevated latency affecting web requests. We’ll share updates as more information becomes available.</p><p><a href="https://stspg.io/cz0ngh11q0tf">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is having a wobble]]></title>
 <link>https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4</link>
 <guid isPermaLink='false'>replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:opened:investigating:minor:2026-10-01T13:31:07.861677+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 09:15:42 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Previews and builds failing to start</strong></p><p>Impact: major · Status: resolved · Duration: 25 min · Opened: Wed, 16 Sep 2026 08:42:01 +0000</p><p>The issue has been resolved and Lovable is fully functional again.</p><p><a href="https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Lovable has downed tools — and so, probably, have you]]></title>
-<link>https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K</link>
-<guid isPermaLink='false'>lovable:01M2MP2K6Q2BCS3BNZ2BCBP91K:opened:investigating:major:2026-09-16T08:42:01+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 08:45:42 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Previews and builds failing to start</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 16 Sep 2026 08:42:01 +0000</p><p>Some users are seeing previews and builds fail to start. Retrying usually works, but it may take longer than normal. Our team is working on restoring full capacity.</p><p><a href="https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

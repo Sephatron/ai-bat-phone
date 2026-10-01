@@ -2636,6 +2636,12 @@
    "status": "completed",
    "updated_at": "2025-05-15T16:30:21.592000+00:00"
   },
+  "github:c8466lzvnmsv": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-01T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-01T13:39:10.097000+00:00"
+  },
   "github:cz2k50kvfwsw": {
    "impact": "maintenance",
    "last_seen_at": "2026-10-01T00:00:00+00:00",

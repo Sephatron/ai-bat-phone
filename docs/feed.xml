@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is a bit under the weather]]></title>
+<link>https://stspg.io/cz0ngh11q0tf</link>
+<guid isPermaLink='false'>github:c8466lzvnmsv:opened:investigating:minor:2026-10-01T13:39:10.097000+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 13:46:10 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Elevated request latency</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 13:37:33 +0000</p><p>We are investigating recurrent periods of elevated latency affecting web requests. We’ll share updates as more information becomes available.</p><p><a href="https://stspg.io/cz0ngh11q0tf">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is having a wobble]]></title>
 <link>https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4</link>
 <guid isPermaLink='false'>replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:opened:investigating:minor:2026-10-01T13:31:07.861677+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 12:15:59 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Builds failing for some users</strong></p><p>Impact: minor · Status: resolved · Duration: 22 min · Opened: Wed, 16 Sep 2026 11:47:43 +0000</p><p>This issue has been resolved. Builds and edits are working normally again. If you are still seeing errors, please try reloading the page.</p><p><a href="https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/hsjy12f57b24</link>
-<guid isPermaLink='false'>github:nlxnbqnkdzdl:progress:monitoring:major:2026-09-16T11:45:34.383000+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 12:01:00 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
