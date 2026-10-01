@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub: Actions Job Delays]]></title>
+<link>https://stspg.io/kdqxfjn5qg6q</link>
+<guid isPermaLink='false'>github:2dpbcq5j165n:progress:investigating:minor:2026-10-01T15:20:46.092000+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 15:23:12 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Actions Job Delays</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Thu, 01 Oct 2026 14:47:48 +0000</p><p>Actions is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/kdqxfjn5qg6q">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/kdqxfjn5qg6q</link>
 <guid isPermaLink='false'>github:2dpbcq5j165n:progress:monitoring:minor:2026-10-01T15:10:52.250000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 16:31:03 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Issues with Google Play subscriptions</strong></p><p>Impact: unclassified · Status: identified · Opened: Wed, 16 Sep 2026 16:18:10 +0000</p><p>We are aware of an issue affecting users interacting with subscriptions via Google Play, such as when creating a new subscription on Android devices. Google has confirmed an issue with Google Play, and we are awaiting their further updates.</p><p><a href="https://stspg.io/wzwyxh4x9t39">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
-<link>https://stspg.io/d92scb2t3t41</link>
-<guid isPermaLink='false'>cursor:37hs7jj05wkx:opened:investigating:major:2026-09-16T14:27:16.878000+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 14:30:59 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Grok Bot · Opened: Wed, 16 Sep 2026 14:27:16 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.</p><p><a href="https://stspg.io/d92scb2t3t41">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,25 @@
 [
  {
+  "body": "Actions is experiencing degraded performance. We are continuing to investigate.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub: Actions Job Delays",
+  "id": "github:2dpbcq5j165n:progress:investigating:minor:2026-10-01T15:20:46.092000+00:00",
+  "impact": "minor",
+  "incident_id": "2dpbcq5j165n",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-01T15:23:12.061831+00:00",
+  "started_at": "2026-10-01T14:47:48.132000+00:00",
+  "status": "investigating",
+  "title": "Actions Job Delays",
+  "transition": "progress",
+  "url": "https://stspg.io/kdqxfjn5qg6q"
+ },
+ {
   "body": "The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Actions"
