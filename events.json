@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] Some users are unable to load their integrations page to access their connections. Our engineers are investigating, and we’ll share an update as more information becomes available.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Replit is having a wobble",
+  "id": "replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:opened:investigating:minor:2026-10-01T13:31:07.861677+00:00",
+  "impact": "minor",
+  "incident_id": "c82b0c1b-6a67-48ab-ba9a-4544ae038cc4",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-01T13:31:07.861677+00:00",
+  "started_at": "2026-10-01T13:30:55+00:00",
+  "status": "investigating",
+  "title": "Issue loading integrations page",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4"
+ },
+ {
   "body": "This incident has been resolved. Image generation and editing works as normal again.",
   "components": [],
   "duration": "57 min",
