@@ -20,7 +20,7 @@
    "consecutive_failures": 0
   },
   "deepseek": {
-   "consecutive_failures": 2,
+   "consecutive_failures": 3,
    "failing_since": "2026-10-01T20:00:00+00:00",
    "last_error": "https://status.deepseek.com/history.rss returned HTTP 502"
   },

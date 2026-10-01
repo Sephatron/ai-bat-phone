@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 DeepSeek is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.deepseek.com</link>
+<guid isPermaLink='false'>meta:deepseek:unreachable:2026-10-01T20:00:00+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 20:30:42 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read DeepSeek's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.deepseek.com/history.rss returned HTTP 502</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is upright again. That took 53 min.]]></title>
 <link>https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM</link>
 <guid isPermaLink='false'>openai:01M3WCKTAN41RZ01SBRRTY4AYM:resolved:resolved:major:2026-10-01T19:39:30+00:00</guid>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "https://status.deepseek.com/history.rss returned HTTP 502",
+  "components": [],
+  "duration": "",
+  "headline": "📵 DeepSeek is unreadable — silence here means unknown, not fine",
+  "id": "meta:deepseek:unreachable:2026-10-01T20:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-10-01T20:30:42.619907+00:00",
+  "started_at": "2026-10-01T20:00:00+00:00",
+  "status": "unreachable",
+  "title": "AI Bat Phone cannot read DeepSeek's status page",
+  "transition": "unreachable",
+  "url": "https://status.deepseek.com"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "53 min",
