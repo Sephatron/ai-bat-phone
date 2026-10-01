@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "3h 09m",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:2dpbcq5j165n:resolved:resolved:minor:2026-10-01T17:56:54.289000+00:00",
+  "impact": "minor",
+  "incident_id": "2dpbcq5j165n",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-01T18:01:08.900744+00:00",
+  "started_at": "2026-10-01T14:47:48.132000+00:00",
+  "status": "resolved",
+  "title": "Actions Job Delays",
+  "transition": "resolved",
+  "url": "https://stspg.io/kdqxfjn5qg6q"
+ },
+ {
   "body": "We are investigating delays in credit purchases being reflected in account balances, resulting in some requests failing for insufficient credit balance. We will provide an additional update as soon as possible.",
   "components": [
    "Claude Console (platform.claude.com)",
