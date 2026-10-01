@@ -1,5 +1,43 @@
 [
  {
+  "body": "The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:2dpbcq5j165n:progress:monitoring:minor:2026-10-01T15:10:52.250000+00:00",
+  "impact": "minor",
+  "incident_id": "2dpbcq5j165n",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-01T15:16:13.463720+00:00",
+  "started_at": "2026-10-01T14:47:48.132000+00:00",
+  "status": "monitoring",
+  "title": "Actions Job Delays",
+  "transition": "progress",
+  "url": "https://stspg.io/kdqxfjn5qg6q"
+ },
+ {
+  "body": "[Resolved] The issue affecting loading of the integrations page has been resolved. Integrations should be functional again. If you are still seeing issues loading or using integrations, please contact support and we will help investigate.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit sorted itself out after a while",
+  "id": "replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:resolved:resolved:minor:2026-10-01T15:16:13.463720+00:00",
+  "impact": "minor",
+  "incident_id": "c82b0c1b-6a67-48ab-ba9a-4544ae038cc4",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-01T15:16:13.463720+00:00",
+  "started_at": "2026-10-01T15:11:55+00:00",
+  "status": "resolved",
+  "title": "Issue loading integrations page",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4"
+ },
+ {
   "body": "We have identified the cause of increased Actions run start delays on Ubuntu runners and are actively deploying a fix. Customers may continue to experience intermittent delays while the mitigation rolls out and service metrics return to normal.",
   "components": [
    "Actions"

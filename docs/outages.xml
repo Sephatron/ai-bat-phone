@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/kdqxfjn5qg6q</link>
+<guid isPermaLink='false'>github:2dpbcq5j165n:progress:monitoring:minor:2026-10-01T15:10:52.250000+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 15:16:13 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Actions Job Delays</strong></p><p>Impact: minor · Status: monitoring · Affects: Actions · Opened: Thu, 01 Oct 2026 14:47:48 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/kdqxfjn5qg6q">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
+<link>https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4</link>
+<guid isPermaLink='false'>replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:resolved:resolved:minor:2026-10-01T15:16:13.463720+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 15:16:13 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Issue loading integrations page</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 01 Oct 2026 15:11:55 +0000</p><p>[Resolved] The issue affecting loading of the integrations page has been resolved. Integrations should be functional again. If you are still seeing issues loading or using integrations, please contact support and we will help investigate.</p><p><a href="https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
 <link>https://stspg.io/kdqxfjn5qg6q</link>
 <guid isPermaLink='false'>github:2dpbcq5j165n:opened:investigating:minor:2026-10-01T14:54:13.104000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 14:30:59 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Grok Bot · Opened: Wed, 16 Sep 2026 14:27:16 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.</p><p><a href="https://stspg.io/d92scb2t3t41">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
-<link>https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13</link>
-<guid isPermaLink='false'>lovable:01M2N0PMC65HT3W99GQGYYZM13:resolved:resolved:minor:2026-09-16T12:10:39+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 12:15:59 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Builds failing for some users</strong></p><p>Impact: minor · Status: resolved · Duration: 22 min · Opened: Wed, 16 Sep 2026 11:47:43 +0000</p><p>This issue has been resolved. Builds and edits are working normally again. If you are still seeing errors, please try reloading the page.</p><p><a href="https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/hsjy12f57b24</link>
-<guid isPermaLink='false'>github:nlxnbqnkdzdl:progress:monitoring:major:2026-09-16T11:45:34.383000+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 12:01:00 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
