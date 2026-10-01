@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-01T20:00:00+00:00",
+ "heartbeat": "2026-10-01T21:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -20,9 +20,7 @@
    "consecutive_failures": 0
   },
   "deepseek": {
-   "consecutive_failures": 3,
-   "failing_since": "2026-10-01T20:00:00+00:00",
-   "last_error": "https://status.deepseek.com/history.rss returned HTTP 502"
+   "consecutive_failures": 0
   },
   "elevenlabs": {
    "consecutive_failures": 0
@@ -51,7 +49,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
   },
   "perplexity": {
    "consecutive_failures": 0
@@ -3417,6 +3415,12 @@
    "last_seen_at": "2026-10-01T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-01T10:44:30+00:00"
+  },
+  "lovable:01M3WKFAGB34V0ND7B9HZ3VZ18": {
+   "impact": "none",
+   "last_seen_at": "2026-10-01T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-01T20:46:09+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",

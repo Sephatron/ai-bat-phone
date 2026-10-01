@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 01 Oct 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📶 DeepSeek is readable again, so silence here means quiet once more]]></title>
+<link>https://status.deepseek.com</link>
+<guid isPermaLink='false'>meta:deepseek:recovered:2026-10-01T20:00:00+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 21:00:44 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read DeepSeek's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Lovable is having a wobble]]></title>
+<link>https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18</link>
+<guid isPermaLink='false'>lovable:01M3WKFAGB34V0ND7B9HZ3VZ18:opened:investigating:none:2026-10-01T20:46:09+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 21:00:44 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Issues with previews, remix, and static asset serving</strong></p><p>Impact: unclassified · Status: investigating · Opened: Thu, 01 Oct 2026 20:46:09 +0000</p><p>We are experiencing issues with previews, remix, and static asset serving.</p><p><a href="https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📵 DeepSeek is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.deepseek.com</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 12:45:34 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Grok Bot · Opened: Thu, 17 Sep 2026 12:30:56 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.</p><p><a href="https://stspg.io/46vyl26p4fbz">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP</link>
-<guid isPermaLink='false'>fireworks:01M2Q1HRQY7815YTYWK9D0AQPP:resolved:resolved:minor:2026-09-17T06:53:20+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 07:00:48 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.2 US</strong></p><p>Impact: minor · Status: resolved · Duration: 12 min · Opened: Thu, 17 Sep 2026 06:41:01 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP</link>
-<guid isPermaLink='false'>fireworks:01M2Q1HRQY7815YTYWK9D0AQPP:opened:investigating:minor:2026-09-17T06:41:01+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 06:45:33 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.2 US</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 17 Sep 2026 06:41:01 +0000</p><p>We are seeing impacted performance for GLM 5.2 US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2Q1HRQY7815YTYWK9D0AQPP">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
