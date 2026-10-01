@@ -2454,7 +2454,7 @@
    "impact": "critical",
    "last_seen_at": "2026-10-01T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-28T22:08:20.242000+00:00"
+   "updated_at": "2026-10-01T16:12:43.172000+00:00"
   },
   "github:1dk955gg3bvz": {
    "impact": "minor",
@@ -2490,7 +2490,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-01T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-01T15:29:46.972000+00:00"
+   "updated_at": "2026-10-01T16:10:24.541000+00:00"
   },
   "github:33gh4sqgw547": {
    "impact": "maintenance",
