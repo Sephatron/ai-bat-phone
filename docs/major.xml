@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is upright again. That took 53 min.]]></title>
+<link>https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM</link>
+<guid isPermaLink='false'>openai:01M3WCKTAN41RZ01SBRRTY4AYM:resolved:resolved:major:2026-10-01T19:39:30+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 19:45:31 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Issues with login, signup, and ads</strong></p><p>Impact: major · Status: resolved · Duration: 53 min · Opened: Thu, 01 Oct 2026 18:46:17 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM</link>
 <guid isPermaLink='false'>openai:01M3WCKTAN41RZ01SBRRTY4AYM:progress:monitoring:major:2026-10-01T19:26:50+00:00</guid>

@@ -1940,6 +1940,12 @@
    "status": "resolved",
    "updated_at": "2026-09-23T22:20:46+00:00"
   },
+  "deepseek:urn:flashduty:change:7058006316287": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-01T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-01T19:40:05+00:00"
+  },
   "elevenlabs:01KRNEHFTPMY0HWNAYGWZAM5X3": {
    "impact": "major",
    "last_seen_at": "2026-09-04T00:00:00+00:00",
@@ -4157,8 +4163,8 @@
   "openai:01M3WCKTAN41RZ01SBRRTY4AYM": {
    "impact": "major",
    "last_seen_at": "2026-10-01T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-01T19:26:50+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-01T19:39:30+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
