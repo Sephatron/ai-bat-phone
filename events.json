@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "20 min",
+  "headline": "🟢 GitHub is fine again",
+  "id": "github:c8466lzvnmsv:resolved:resolved:minor:2026-10-01T13:57:59.355000+00:00",
+  "impact": "minor",
+  "incident_id": "c8466lzvnmsv",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-01T14:01:07.796497+00:00",
+  "started_at": "2026-10-01T13:37:33.060000+00:00",
+  "status": "resolved",
+  "title": "Elevated request latency",
+  "transition": "resolved",
+  "url": "https://stspg.io/cz0ngh11q0tf"
+ },
+ {
   "body": "We are investigating recurrent periods of elevated latency affecting web requests. We’ll share updates as more information becomes available.",
   "components": [],
   "duration": "",
