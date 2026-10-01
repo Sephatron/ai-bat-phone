@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are investigating delays in credit purchases being reflected in account balances, resulting in some requests failing for insufficient credit balance. We will provide an additional update as soon as possible.",
+  "components": [
+   "Claude Console (platform.claude.com)",
+   "Claude API (api.anthropic.com)"
+  ],
+  "duration": "",
+  "headline": "🟠 Claude is a bit under the weather",
+  "id": "anthropic:k0h22tsvnydg:opened:investigating:minor:2026-10-01T16:20:40.930000+00:00",
+  "impact": "minor",
+  "incident_id": "k0h22tsvnydg",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-01T16:31:09.707577+00:00",
+  "started_at": "2026-10-01T16:20:40.767000+00:00",
+  "status": "investigating",
+  "title": "Degraded performance on the Claude API and platform.claude.com",
+  "transition": "opened",
+  "url": "https://stspg.io/jg26d0skzh27"
+ },
+ {
   "body": "Actions is experiencing degraded performance. We are continuing to investigate.",
   "components": [
    "Actions"
