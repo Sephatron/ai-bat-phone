@@ -1,5 +1,26 @@
 [
  {
+  "body": "We have resolved the issue causing delays in credits being applied after purchase. We are monitoring closely to ensure no further issues.",
+  "components": [
+   "Claude Console (platform.claude.com)",
+   "Claude API (api.anthropic.com)"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:k0h22tsvnydg:progress:monitoring:minor:2026-10-01T18:23:02.751000+00:00",
+  "impact": "minor",
+  "incident_id": "k0h22tsvnydg",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-01T18:30:40.393804+00:00",
+  "started_at": "2026-10-01T16:20:40.767000+00:00",
+  "status": "monitoring",
+  "title": "Delayed credits on the Claude Platform",
+  "transition": "progress",
+  "url": "https://stspg.io/jg26d0skzh27"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Actions"
