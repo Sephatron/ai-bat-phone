@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 01 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
+<link>https://stspg.io/kdqxfjn5qg6q</link>
+<guid isPermaLink='false'>github:2dpbcq5j165n:opened:investigating:minor:2026-10-01T14:54:13.104000+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 15:01:05 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Actions Job Delays</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Thu, 01 Oct 2026 14:47:48 +0000</p><p>We have identified the cause of increased Actions run start delays on Ubuntu runners and are actively deploying a fix. Customers may continue to experience intermittent delays while the mitigation rolls out and service metrics return to normal.</p><p><a href="https://stspg.io/kdqxfjn5qg6q">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub is fine again]]></title>
 <link>https://stspg.io/cz0ngh11q0tf</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 12:01:00 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Lovable has a limp, not a break]]></title>
-<link>https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13</link>
-<guid isPermaLink='false'>lovable:01M2N0PMC65HT3W99GQGYYZM13:opened:investigating:minor:2026-09-16T11:47:43+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 12:01:00 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Builds failing for some users</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 16 Sep 2026 11:47:43 +0000</p><p>&gt; Some users are currently seeing errors when building or editing their projects. We have identified the issue and our team is actively working on a fix. We will post an update as soon as more information is available.</p><p><a href="https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

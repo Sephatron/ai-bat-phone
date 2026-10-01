@@ -1,5 +1,25 @@
 [
  {
+  "body": "We have identified the cause of increased Actions run start delays on Ubuntu runners and are actively deploying a fix. Customers may continue to experience intermittent delays while the mitigation rolls out and service metrics return to normal.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:2dpbcq5j165n:opened:investigating:minor:2026-10-01T14:54:13.104000+00:00",
+  "impact": "minor",
+  "incident_id": "2dpbcq5j165n",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-01T15:01:05.237150+00:00",
+  "started_at": "2026-10-01T14:47:48.132000+00:00",
+  "status": "investigating",
+  "title": "Actions Job Delays",
+  "transition": "opened",
+  "url": "https://stspg.io/kdqxfjn5qg6q"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [],
   "duration": "20 min",
