@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9</link>
+<guid isPermaLink='false'>fireworks:01M3V0K7EY3S7XWB112GR1V0D9:resolved:resolved:minor:2026-10-01T06:04:36+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 06:16:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 7 min · Opened: Thu, 01 Oct 2026 05:57:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9</link>
 <guid isPermaLink='false'>fireworks:01M3V0K7EY3S7XWB112GR1V0D9:opened:investigating:minor:2026-10-01T05:57:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 07:30:46 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: investigating · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>We are investigating reports of degraded availability for Copilot AI Model Providers</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is upright again. That took 40 min.]]></title>
-<link>https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W</link>
-<guid isPermaLink='false'>openai:01M2KQNE5C42NEZPX6V01NHH5W:resolved:resolved:major:2026-09-16T00:30:48+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 00:45:39 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with gpt-image-2.5-flare</strong></p><p>Impact: major · Status: resolved · Duration: 40 min · Opened: Tue, 15 Sep 2026 23:50:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
