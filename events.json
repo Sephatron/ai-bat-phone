@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Image generation and editing works as normal again.",
+  "components": [],
+  "duration": "57 min",
+  "headline": "🟢 Lovable sorted itself out after 57 min",
+  "id": "lovable:01M3VDS1P1660F615AGEYJAQGH:resolved:resolved:minor:2026-10-01T10:44:30+00:00",
+  "impact": "minor",
+  "incident_id": "01M3VDS1P1660F615AGEYJAQGH",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-01T10:46:15.762909+00:00",
+  "started_at": "2026-10-01T09:47:22+00:00",
+  "status": "resolved",
+  "title": "Issues with image generation and editing",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M3VDS1P1660F615AGEYJAQGH"
+ },
+ {
   "body": "Image generation and image editing in the Lovable chat are failing for some users. Image features in apps built with Lovable are not affected. We're working on a fix.",
   "components": [],
   "duration": "",
