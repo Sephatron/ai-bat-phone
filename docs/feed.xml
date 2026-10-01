@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 01 Oct 2026 05:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 06:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9</link>
+<guid isPermaLink='false'>fireworks:01M3V0K7EY3S7XWB112GR1V0D9:opened:investigating:minor:2026-10-01T05:57:00+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 06:01:21 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 05:57:00 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 16 Sep 2026 08:45:42 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: CLI, IDE · Duration: 39 min · Opened: Wed, 16 Sep 2026 08:03:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/j2xb74dqwdrx">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/j2xb74dqwdrx</link>
-<guid isPermaLink='false'>cursor:p463n7yf5fq9:opened:monitoring:minor:2026-09-16T08:09:29.308000+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 08:15:43 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: CLI, IDE · Opened: Wed, 16 Sep 2026 08:03:00 +0000</p><p>A fix has been implemented. We are monitoring recovery and will provide another update once the incident is fully resolved.</p><p><a href="https://stspg.io/j2xb74dqwdrx">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

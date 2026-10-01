@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M3V0K7EY3S7XWB112GR1V0D9:opened:investigating:minor:2026-10-01T05:57:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M3V0K7EY3S7XWB112GR1V0D9",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-01T06:01:21.002279+00:00",
+  "started_at": "2026-10-01T05:57:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Deepseek V4.1 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "3h 30m",
