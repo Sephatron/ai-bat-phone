@@ -1,5 +1,26 @@
 [
  {
+  "body": "This issue has been resolved.",
+  "components": [
+   "Claude Console (platform.claude.com)",
+   "Claude API (api.anthropic.com)"
+  ],
+  "duration": "6h 15m",
+  "headline": "🟢 Claude sorted itself out after 6h 15m",
+  "id": "anthropic:k0h22tsvnydg:resolved:resolved:minor:2026-10-01T22:36:22.239000+00:00",
+  "impact": "minor",
+  "incident_id": "k0h22tsvnydg",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-01T22:45:34.724038+00:00",
+  "started_at": "2026-10-01T16:20:40.767000+00:00",
+  "status": "resolved",
+  "title": "Delayed credits on the Claude Platform",
+  "transition": "resolved",
+  "url": "https://stspg.io/jg26d0skzh27"
+ },
+ {
   "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service)",
   "components": [
    "DeepSeek V4 Pro API服务(API Service)",

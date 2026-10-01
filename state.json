@@ -269,8 +269,8 @@
   "anthropic:k0h22tsvnydg": {
    "impact": "minor",
    "last_seen_at": "2026-10-01T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-01T18:23:02.751000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-01T22:36:22.239000+00:00"
   },
   "anthropic:kmbpgrsszf72": {
    "impact": "none",

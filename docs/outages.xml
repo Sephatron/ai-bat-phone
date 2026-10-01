@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude sorted itself out after 6h 15m]]></title>
+<link>https://stspg.io/jg26d0skzh27</link>
+<guid isPermaLink='false'>anthropic:k0h22tsvnydg:resolved:resolved:minor:2026-10-01T22:36:22.239000+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 22:45:34 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Delayed credits on the Claude Platform</strong></p><p>Impact: minor · Status: resolved · Affects: Claude Console (platform.claude.com), Claude API (api.anthropic.com) · Duration: 6h 15m · Opened: Thu, 01 Oct 2026 16:20:40 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/jg26d0skzh27">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 DeepSeek has stopped wobbling]]></title>
 <link>https://status.deepseek.com/incidents/7058006316287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7058006316287:resolved:resolved:minor:2026-10-01T21:45:35.207014+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 18:15:27 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Automations</strong></p><p>Impact: critical · Status: monitoring · Affects: Automations, Review Agents, Cloud Agents · Opened: Thu, 17 Sep 2026 15:20:00 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/tvp74wjvjbgg">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Cursor is out. Go and look at a tree.]]></title>
-<link>https://stspg.io/tvp74wjvjbgg</link>
-<guid isPermaLink='false'>cursor:jdm0j510q78b:opened:investigating:critical:2026-09-17T15:20:59.594000+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 15:30:46 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: critical · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Thu, 17 Sep 2026 15:20:59 +0000</p><p>We are investigating a service degradation affecting Cloud Agents and Grok Bot.</p><p><a href="https://stspg.io/tvp74wjvjbgg">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

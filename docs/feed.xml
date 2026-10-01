@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude sorted itself out after 6h 15m]]></title>
+<link>https://stspg.io/jg26d0skzh27</link>
+<guid isPermaLink='false'>anthropic:k0h22tsvnydg:resolved:resolved:minor:2026-10-01T22:36:22.239000+00:00</guid>
+<pubDate>Thu, 01 Oct 2026 22:45:34 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Delayed credits on the Claude Platform</strong></p><p>Impact: minor · Status: resolved · Affects: Claude Console (platform.claude.com), Claude API (api.anthropic.com) · Duration: 6h 15m · Opened: Thu, 01 Oct 2026 16:20:40 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/jg26d0skzh27">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 DeepSeek has stopped wobbling]]></title>
 <link>https://status.deepseek.com/incidents/7058006316287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7058006316287:resolved:resolved:minor:2026-10-01T21:45:35.207014+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 20:15:30 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Automations</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, Cloud Agents, Grok Bot · Duration: 4h 44m · Opened: Thu, 17 Sep 2026 15:20:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/tvp74wjvjbgg">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC</link>
-<guid isPermaLink='false'>openai:01M2RC0WHGTX8EHDH7D60JJ7FC:progress:identified:major:2026-09-17T19:57:22+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 20:00:34 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work mode</strong></p><p>Impact: major · Status: identified · Opened: Thu, 17 Sep 2026 19:03:17 +0000</p><p>We are still implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
