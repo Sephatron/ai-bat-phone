@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
+<link>https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R</link>
+<guid isPermaLink='false'>fireworks:01M3ZC4HVRY7QFHWQF3ZP0XQ0R:opened:investigating:minor:2026-10-02T22:35:40+00:00</guid>
+<pubDate>Fri, 02 Oct 2026 22:45:30 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 02 Oct 2026 22:35:40 +0000</p><p>We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Moonshot AI (Kimi) after 1 min]]></title>
 <link>https://stspg.io/853mgz04gbdm</link>
 <guid isPermaLink='false'>moonshot:77krbnnlj7sp:resolved:resolved:critical:2026-10-02T22:17:12.803000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Elevated rate of errors for OpenAI models provided by Copilot</strong></p><p>Impact: minor · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Thu, 17 Sep 2026 20:59:02 +0000</p><p>We are experiencing degraded availability for GPT-5.6 Luna, GPT-5.6 Terra, GPT-5.6 Sol, GPT-6 Astra, GPT-5.3-Codex in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. The provider is working to mitigate the problem and we are monitoring recovery. We recommend choosing another model or selecting 'Auto' to continue using Copilot.</p><p><a href="https://stspg.io/t938cy7649sn">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA</link>
-<guid isPermaLink='false'>openai:01M2RMCS2HVBXGBFKEZ9RZR4FA:progress:monitoring:minor:2026-09-17T21:31:05+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>We are seeing elevated error rates across API models</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 17 Sep 2026 21:29:35 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
