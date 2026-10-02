@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 02 Oct 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 48 min]]></title>
+<link>https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE</link>
+<guid isPermaLink='false'>openai:01M3YNNVTSCXS8YM2V1YMHMVSE:resolved:resolved:minor:2026-10-02T16:51:13+00:00</guid>
+<pubDate>Fri, 02 Oct 2026 17:00:37 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Issues with data analysis and file creation in ChatGPT</strong></p><p>Impact: minor · Status: resolved · Duration: 48 min · Opened: Fri, 02 Oct 2026 16:03:10 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 20:30:24 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work mode</strong></p><p>Impact: major · Status: resolved · Duration: 1h 21m · Opened: Thu, 17 Sep 2026 19:03:17 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://stspg.io/tvp74wjvjbgg</link>
-<guid isPermaLink='false'>cursor:jdm0j510q78b:resolved:resolved:minor:2026-09-17T20:04:04.933000+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 20:15:30 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Automations</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, Cloud Agents, Grok Bot · Duration: 4h 44m · Opened: Thu, 17 Sep 2026 15:20:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/tvp74wjvjbgg">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

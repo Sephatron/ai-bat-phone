@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "48 min",
+  "headline": "🟢 OpenAI sorted itself out after 48 min",
+  "id": "openai:01M3YNNVTSCXS8YM2V1YMHMVSE:resolved:resolved:minor:2026-10-02T16:51:13+00:00",
+  "impact": "minor",
+  "incident_id": "01M3YNNVTSCXS8YM2V1YMHMVSE",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-02T17:00:37.342086+00:00",
+  "started_at": "2026-10-02T16:03:10+00:00",
+  "status": "resolved",
+  "title": "Issues with data analysis and file creation in ChatGPT",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE"
+ },
+ {
   "body": "Some users experienced errors when running code, analyzing data or creating files in ChatGPT. We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
