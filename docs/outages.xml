@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/853mgz04gbdm</link>
+<guid isPermaLink='false'>moonshot:77krbnnlj7sp:opened:investigating:critical:2026-10-02T22:15:13.073000+00:00</guid>
+<pubDate>Fri, 02 Oct 2026 22:15:29 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Fri, 02 Oct 2026 22:15:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/853mgz04gbdm">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 48 min]]></title>
 <link>https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE</link>
 <guid isPermaLink='false'>openai:01M3YNNVTSCXS8YM2V1YMHMVSE:resolved:resolved:minor:2026-10-02T16:51:13+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 20:45:27 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Degraded Agent Performance Due to Upstream Model Provider Errors</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 17 Sep 2026 20:41:35 +0000</p><p>[Investigating] We are investigating degraded agent performance due to increase in errors from our upstream model providers.</p><p><a href="https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI lives. Pick your tools back up.]]></title>
-<link>https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC</link>
-<guid isPermaLink='false'>openai:01M2RC0WHGTX8EHDH7D60JJ7FC:resolved:resolved:major:2026-09-17T20:24:45+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 20:30:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work mode</strong></p><p>Impact: major · Status: resolved · Duration: 1h 21m · Opened: Thu, 17 Sep 2026 19:03:17 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

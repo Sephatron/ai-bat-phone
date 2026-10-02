@@ -3500,6 +3500,12 @@
    "status": "resolved",
    "updated_at": "2026-08-12T21:23:13.363000+00:00"
   },
+  "moonshot:77krbnnlj7sp": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-02T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-02T22:15:13.073000+00:00"
+  },
   "moonshot:77zncty4xb3h": {
    "impact": "critical",
    "last_seen_at": "2026-10-02T00:00:00+00:00",

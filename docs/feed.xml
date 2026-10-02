@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/853mgz04gbdm</link>
+<guid isPermaLink='false'>moonshot:77krbnnlj7sp:opened:investigating:critical:2026-10-02T22:15:13.073000+00:00</guid>
+<pubDate>Fri, 02 Oct 2026 22:15:29 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Fri, 02 Oct 2026 22:15:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/853mgz04gbdm">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 48 min]]></title>
 <link>https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE</link>
 <guid isPermaLink='false'>openai:01M3YNNVTSCXS8YM2V1YMHMVSE:resolved:resolved:minor:2026-10-02T16:51:13+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Resolved: Degraded Agent Performance Due to Upstream Model Provider Errors</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 17 Sep 2026 21:31:52 +0000</p><p>[Resolved] We have resolved the incident related to degraded agent performance due to increase in errors from our upstream model providers.</p><p><a href="https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA</link>
-<guid isPermaLink='false'>openai:01M2RMCS2HVBXGBFKEZ9RZR4FA:opened:identified:minor:2026-09-17T21:29:35+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 21:30:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>We are seeing elevated error rates across API models</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 17 Sep 2026 21:29:35 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
