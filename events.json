@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "13 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 13 min",
+  "id": "fireworks:01M3ZC4HVRY7QFHWQF3ZP0XQ0R:resolved:resolved:minor:2026-10-02T22:49:23+00:00",
+  "impact": "minor",
+  "incident_id": "01M3ZC4HVRY7QFHWQF3ZP0XQ0R",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-02T23:00:38.474455+00:00",
+  "started_at": "2026-10-02T22:35:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
   "components": [],
   "duration": "",

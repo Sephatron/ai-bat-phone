@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 02 Oct 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 13 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R</link>
+<guid isPermaLink='false'>fireworks:01M3ZC4HVRY7QFHWQF3ZP0XQ0R:resolved:resolved:minor:2026-10-02T22:49:23+00:00</guid>
+<pubDate>Fri, 02 Oct 2026 23:00:38 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Fri, 02 Oct 2026 22:35:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/t938cy7649sn</link>
-<guid isPermaLink='false'>github:nvy2q96mcmyg:progress:monitoring:minor:2026-09-17T21:39:28.950000+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Elevated rate of errors for OpenAI models provided by Copilot</strong></p><p>Impact: minor · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Thu, 17 Sep 2026 20:59:02 +0000</p><p>We are experiencing degraded availability for GPT-5.6 Luna, GPT-5.6 Terra, GPT-5.6 Sol, GPT-6 Astra, GPT-5.3-Codex in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. The provider is working to mitigate the problem and we are monitoring recovery. We recommend choosing another model or selecting 'Auto' to continue using Copilot.</p><p><a href="https://stspg.io/t938cy7649sn">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
