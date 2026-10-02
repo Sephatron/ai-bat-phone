@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users experienced errors when running code, analyzing data or creating files in ChatGPT. We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M3YNNVTSCXS8YM2V1YMHMVSE:opened:monitoring:minor:2026-10-02T16:03:10+00:00",
+  "impact": "minor",
+  "incident_id": "01M3YNNVTSCXS8YM2V1YMHMVSE",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-02T16:15:41.446366+00:00",
+  "started_at": "2026-10-02T16:03:10+00:00",
+  "status": "monitoring",
+  "title": "Issues with data analysis and file creation in ChatGPT",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
