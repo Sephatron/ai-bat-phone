@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Review Agents",
+   "Grok Bot"
+  ],
+  "duration": "35 min",
+  "headline": "🟢 Cursor sorted itself out after 35 min",
+  "id": "cursor:tjs10pzx9qxg:resolved:resolved:minor:2026-10-03T07:26:51.966000+00:00",
+  "impact": "minor",
+  "incident_id": "tjs10pzx9qxg",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-03T07:30:36.236138+00:00",
+  "started_at": "2026-10-03T06:50:57.172000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Grok Bot and Review Agents",
+  "transition": "resolved",
+  "url": "https://stspg.io/v2hkwpxcb9j8"
+ },
+ {
   "body": "We are investigating a service degradation affecting Grok Bot and Review Agents.",
   "components": [
    "Review Agents",
