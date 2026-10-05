@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
+<link>https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1</link>
+<guid isPermaLink='false'>openai:01M46C47WYYD9NMZVGH83X3ZR1:opened:investigating:none:2026-10-05T15:50:11+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 15:54:05 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Admin Console Intermittently Inaccessible</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 05 Oct 2026 15:50:11 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/wdqhxt8xt574</link>
 <guid isPermaLink='false'>anthropic:bhphxz3vr58g:resolved:resolved:major:2026-10-05T13:21:37.638000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 20:45:31 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: investigating · Affects: Builds · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>We are currently investigating an issue causing increased errors triggering deployments. We'll provide additional updates as they become available.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/k5db4cd96jlz</link>
-<guid isPermaLink='false'>cursor:14xbn0wxbpdb:progress:monitoring:major:2026-09-18T19:53:41.450000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 20:00:45 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: monitoring · Affects: Grok Bot · Opened: Fri, 18 Sep 2026 17:19:03 +0000</p><p>A fix has been implemented and we are monitoring for service restoration. Grok Bot should be responding normally again.</p><p><a href="https://stspg.io/k5db4cd96jlz">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

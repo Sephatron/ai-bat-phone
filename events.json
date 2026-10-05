@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for the listed services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M46C47WYYD9NMZVGH83X3ZR1:opened:investigating:none:2026-10-05T15:50:11+00:00",
+  "impact": "none",
+  "incident_id": "01M46C47WYYD9NMZVGH83X3ZR1",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-05T15:54:05.185185+00:00",
+  "started_at": "2026-10-05T15:50:11+00:00",
+  "status": "investigating",
+  "title": "Admin Console Intermittently Inaccessible",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
+ },
+ {
   "body": "The issue affecting Claude Mythos 5.1 and Claude Fable 5.1 has been resolved. Impact occurred from 05:40 PT / 12:40 UTC to 06:10 PT / 13:10 UTC.",
   "components": [
    "claude.ai",
