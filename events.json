@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M46KED6KQ6PR195KZYYVNY8W:progress:monitoring:none:2026-10-05T18:07:03+00:00",
+  "impact": "none",
+  "incident_id": "01M46KED6KQ6PR195KZYYVNY8W",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-05T18:15:31.217454+00:00",
+  "started_at": "2026-10-05T17:58:04+00:00",
+  "status": "monitoring",
+  "title": "Elevated error rates in Codex Cloud",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors within Codex Cloud. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
