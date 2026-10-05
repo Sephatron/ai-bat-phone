@@ -4220,6 +4220,12 @@
    "status": "resolved",
    "updated_at": "2026-10-02T16:51:13+00:00"
   },
+  "openai:01M45E0JFFJZ6EQ3BWYPW74R2Z": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-05T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-05T07:14:08+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",

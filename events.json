@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are continuing to observe elevated Work Mode errors. Scheduled tasks may also be impacted.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is a bit under the weather",
+  "id": "openai:01M45E0JFFJZ6EQ3BWYPW74R2Z:opened:investigating:minor:2026-10-05T07:14:08+00:00",
+  "impact": "minor",
+  "incident_id": "01M45E0JFFJZ6EQ3BWYPW74R2Z",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-05T07:15:31.165754+00:00",
+  "started_at": "2026-10-05T07:03:53+00:00",
+  "status": "investigating",
+  "title": "Elevated Work Mode errors",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Review Agents",
