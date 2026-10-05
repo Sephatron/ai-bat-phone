@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 05 Oct 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔺 Upgrade your concern: GitHub is now critical]]></title>
+<link>https://stspg.io/c11dc9nb1zdq</link>
+<guid isPermaLink='false'>github:3q1yb5m7ltvb:escalated:investigating:critical:2026-10-05T21:22:39.019000+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 21:25:43 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: critical · Status: investigating · Affects: Actions, Pages · Opened: Mon, 05 Oct 2026 19:11:58 +0000</p><p>Pages is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/c11dc9nb1zdq">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 5h 17m]]></title>
+<link>https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1</link>
+<guid isPermaLink='false'>openai:01M46C47WYYD9NMZVGH83X3ZR1:resolved:resolved:none:2026-10-05T21:07:22+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 21:25:43 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Admin Console Intermittently Inaccessible</strong></p><p>Impact: unclassified · Status: resolved · Duration: 5h 17m · Opened: Mon, 05 Oct 2026 15:50:11 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
 <link>https://stspg.io/c11dc9nb1zdq</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 22:45:14 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Deployment stuck in initializing state</strong></p><p>Impact: minor · Status: resolved · Affects: Builds · Duration: 55 min · Opened: Fri, 18 Sep 2026 21:36:09 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/fx0fjwcpvdqr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
-<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
-<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:opened:investigating:none:2026-09-18T22:29:53+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 22:30:16 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We’re investigating an issue causing higher-than-expected charges for OpenAI-hosted containers in the Agent API. We’re working on a fix and preparing refunds for affected customers. We’ll share further updates as we make progress.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Vercel has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/fx0fjwcpvdqr</link>
-<guid isPermaLink='false'>vercel:5c1lswm68bkg:progress:monitoring:minor:2026-09-18T22:14:37.857000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 22:15:36 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Deployment stuck in initializing state</strong></p><p>Impact: minor · Status: monitoring · Affects: Builds · Opened: Fri, 18 Sep 2026 21:36:09 +0000</p><p>We have identified an issue causing deployments to get stuck in an initialized state, applied a fix, and are seeing signs of recovery for new deployments. We are continuing to monitor.</p><p><a href="https://stspg.io/fx0fjwcpvdqr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
