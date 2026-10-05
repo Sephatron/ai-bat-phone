@@ -2489,8 +2489,8 @@
   "fireworks:01M46PGHWSZ51Y87R23495R122": {
    "impact": "minor",
    "last_seen_at": "2026-10-05T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-05T18:51:40+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-05T19:15:31+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
@@ -2569,6 +2569,12 @@
    "last_seen_at": "2026-10-05T00:00:00+00:00",
    "status": "completed",
    "updated_at": "2022-11-04T04:01:36.845000+00:00"
+  },
+  "github:3q1yb5m7ltvb": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-05T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-05T19:15:17.488000+00:00"
   },
   "github:53t2nlxs8016": {
    "impact": "maintenance",
@@ -4259,8 +4265,8 @@
   "openai:01M46C47WYYD9NMZVGH83X3ZR1": {
    "impact": "none",
    "last_seen_at": "2026-10-05T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-05T15:50:11+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-05T19:33:08+00:00"
   },
   "openai:01M46G248GGHV9RSAJE82BZY1X": {
    "impact": "minor",
