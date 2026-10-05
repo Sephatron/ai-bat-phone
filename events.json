@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M46PGHWSZ51Y87R23495R122:opened:investigating:minor:2026-10-05T18:51:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M46PGHWSZ51Y87R23495R122",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-05T19:00:38.599953+00:00",
+  "started_at": "2026-10-05T18:51:40+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M46PGHWSZ51Y87R23495R122"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 05 Oct 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
+<link>https://status.fireworks.ai/incidents/01M46PGHWSZ51Y87R23495R122</link>
+<guid isPermaLink='false'>fireworks:01M46PGHWSZ51Y87R23495R122:opened:investigating:minor:2026-10-05T18:51:40+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 19:00:38 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 05 Oct 2026 18:51:40 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M46PGHWSZ51Y87R23495R122">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 21:45:23 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed support responses</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 21:36:41 +0000</p><p>Some users are experiencing delayed responses from OpenAI Support by email and chat. We’re investigating and will share updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel is upright again. That took 49 min.]]></title>
-<link>https://stspg.io/6c79t86c2xrr</link>
-<guid isPermaLink='false'>vercel:bwkmw4hmrgmk:resolved:resolved:major:2026-09-18T21:22:27.111000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 21:30:32 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: resolved · Affects: Builds · Duration: 49 min · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
