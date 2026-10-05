@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 05 Oct 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z</link>
+<guid isPermaLink='false'>openai:01M45E0JFFJZ6EQ3BWYPW74R2Z:progress:monitoring:minor:2026-10-05T09:50:38+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 10:00:33 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated Work Mode errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 05 Oct 2026 07:03:53 +0000</p><p>We have mitigated the issue, and are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 OpenAI is a bit under the weather]]></title>
 <link>https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 17 Sep 2026 22:00:23 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>We are seeing elevated error rates across API models</strong></p><p>Impact: minor · Status: resolved · Duration: 21 min · Opened: Thu, 17 Sep 2026 21:29:35 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:recovered:2026-09-10T21:00:00+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

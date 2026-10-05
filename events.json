@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have mitigated the issue, and are monitoring recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M45E0JFFJZ6EQ3BWYPW74R2Z:progress:monitoring:minor:2026-10-05T09:50:38+00:00",
+  "impact": "minor",
+  "incident_id": "01M45E0JFFJZ6EQ3BWYPW74R2Z",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-05T10:00:33.688905+00:00",
+  "started_at": "2026-10-05T07:03:53+00:00",
+  "status": "monitoring",
+  "title": "Elevated Work Mode errors",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
+ },
+ {
   "body": "We are continuing to observe elevated Work Mode errors. Scheduled tasks may also be impacted.",
   "components": [],
   "duration": "",
