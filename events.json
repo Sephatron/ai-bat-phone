@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is a bit under the weather",
+  "id": "fireworks:01M46H0RX8S9S8FGAXCXY1CYJM:opened:investigating:minor:2026-10-05T17:15:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M46H0RX8S9S8FGAXCXY1CYJM",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-05T17:30:32.620238+00:00",
+  "started_at": "2026-10-05T17:15:40+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM"
+ },
+ {
   "body": "We are investigating elevated error rates affecting some ChatGPT conversations. Error rates are improving, and our team is continuing to assess recovery. We will share further updates as they become available.",
   "components": [],
   "duration": "",
