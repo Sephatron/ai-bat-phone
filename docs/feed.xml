@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 05 Oct 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W</link>
+<guid isPermaLink='false'>openai:01M46KED6KQ6PR195KZYYVNY8W:opened:identified:none:2026-10-05T17:58:04+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 18:00:35 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates in Codex Cloud</strong></p><p>Impact: unclassified · Status: identified · Opened: Mon, 05 Oct 2026 17:58:04 +0000</p><p>We have identified that users are experiencing elevated errors within Codex Cloud. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X</link>
+<guid isPermaLink='false'>openai:01M46G248GGHV9RSAJE82BZY1X:progress:monitoring:minor:2026-10-05T17:55:04+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 18:00:35 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors in ChatGPT conversations</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 05 Oct 2026 16:58:56 +0000</p><p>We have mitigated the issue affecting ChatGPT conversations and are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 21:45:23 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Deployment stuck in initializing state</strong></p><p>Impact: minor · Status: investigating · Affects: Builds · Opened: Fri, 18 Sep 2026 21:36:09 +0000</p><p>We are currently investigating an issue causing an elevated rate of deployments getting stuck in an initializing state. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/fx0fjwcpvdqr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T</link>
-<guid isPermaLink='false'>openai:01M2V76GEPJB0HQGRA0QERRZ3T:opened:identified:none:2026-09-18T21:36:41+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 21:45:23 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed support responses</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 21:36:41 +0000</p><p>Some users are experiencing delayed responses from OpenAI Support by email and chat. We’re investigating and will share updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel is upright again. That took 49 min.]]></title>
-<link>https://stspg.io/6c79t86c2xrr</link>
-<guid isPermaLink='false'>vercel:bwkmw4hmrgmk:resolved:resolved:major:2026-09-18T21:22:27.111000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 21:30:32 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: resolved · Affects: Builds · Duration: 49 min · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

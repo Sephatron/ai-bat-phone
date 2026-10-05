@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 05 Oct 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W</link>
+<guid isPermaLink='false'>openai:01M46KED6KQ6PR195KZYYVNY8W:opened:identified:none:2026-10-05T17:58:04+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 18:00:35 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates in Codex Cloud</strong></p><p>Impact: unclassified · Status: identified · Opened: Mon, 05 Oct 2026 17:58:04 +0000</p><p>We have identified that users are experiencing elevated errors within Codex Cloud. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X</link>
+<guid isPermaLink='false'>openai:01M46G248GGHV9RSAJE82BZY1X:progress:monitoring:minor:2026-10-05T17:55:04+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 18:00:35 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors in ChatGPT conversations</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 05 Oct 2026 16:58:56 +0000</p><p>We have mitigated the issue affecting ChatGPT conversations and are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 21:15:14 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: monitoring · Affects: Builds · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Vercel knows what it did]]></title>
-<link>https://stspg.io/6c79t86c2xrr</link>
-<guid isPermaLink='false'>vercel:bwkmw4hmrgmk:progress:identified:major:2026-09-18T21:07:13.426000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 21:11:27 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: identified · Affects: Builds · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Vercel has gone dark. Nothing you did. Probably.]]></title>
-<link>https://stspg.io/6c79t86c2xrr</link>
-<guid isPermaLink='false'>vercel:bwkmw4hmrgmk:opened:investigating:major:2026-09-18T20:32:37.014000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 20:45:31 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: investigating · Affects: Builds · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>We are currently investigating an issue causing increased errors triggering deployments. We'll provide additional updates as they become available.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
