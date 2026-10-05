@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for the listed services. Some users may be unable to save changes or reconnect to live editing sessions.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from OpenAI",
+  "id": "openai:01M461GYDMCVJJK8330PVCH42C:opened:investigating:minor:2026-10-05T12:44:53+00:00",
+  "impact": "minor",
+  "incident_id": "01M461GYDMCVJJK8330PVCH42C",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-05T12:46:09.302635+00:00",
+  "started_at": "2026-10-05T12:44:53+00:00",
+  "status": "investigating",
+  "title": "Issues saving and editing Pages",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M461GYDMCVJJK8330PVCH42C"
+ },
+ {
   "body": "We have mitigated the issue, and are monitoring recovery.",
   "components": [],
   "duration": "",
