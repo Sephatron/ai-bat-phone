@@ -191,8 +191,8 @@
   "anthropic:bhphxz3vr58g": {
    "impact": "major",
    "last_seen_at": "2026-10-05T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-05T13:05:44.789000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-05T13:21:37.638000+00:00"
   },
   "anthropic:c0ncxxm2wd9r": {
    "impact": "major",

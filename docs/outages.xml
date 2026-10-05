@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/wdqhxt8xt574</link>
+<guid isPermaLink='false'>anthropic:bhphxz3vr58g:resolved:resolved:major:2026-10-05T13:21:37.638000+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 13:30:34 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 15 min · Opened: Mon, 05 Oct 2026 13:05:44 +0000</p><p>The issue affecting Claude Mythos 5.1 and Claude Fable 5.1 has been resolved. Impact occurred from 05:40 PT / 12:40 UTC to 06:10 PT / 13:10 UTC.</p><p><a href="https://stspg.io/wdqhxt8xt574">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude is having a proper one. This is not your code.]]></title>
 <link>https://stspg.io/wdqhxt8xt574</link>
 <guid isPermaLink='false'>anthropic:bhphxz3vr58g:opened:investigating:major:2026-10-05T13:05:44.789000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 14:45:57 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 2h 56m · Opened: Fri, 18 Sep 2026 11:37:50 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/bqcp7r92qcps">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-09-18</guid>
-<pubDate>Fri, 18 Sep 2026 14:00:45 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
