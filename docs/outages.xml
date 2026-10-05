@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM</link>
+<guid isPermaLink='false'>fireworks:01M46H0RX8S9S8FGAXCXY1CYJM:resolved:resolved:minor:2026-10-05T17:41:43+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 17:45:29 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 26 min · Opened: Mon, 05 Oct 2026 17:15:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
 <link>https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM</link>
 <guid isPermaLink='false'>fireworks:01M46H0RX8S9S8FGAXCXY1CYJM:opened:investigating:minor:2026-10-05T17:15:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 20:45:31 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: investigating · Affects: Builds · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>We are currently investigating an issue causing increased errors triggering deployments. We'll provide additional updates as they become available.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/k5db4cd96jlz</link>
-<guid isPermaLink='false'>cursor:14xbn0wxbpdb:progress:monitoring:major:2026-09-18T19:53:41.450000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 20:00:45 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: monitoring · Affects: Grok Bot · Opened: Fri, 18 Sep 2026 17:19:03 +0000</p><p>A fix has been implemented and we are monitoring for service restoration. Grok Bot should be responding normally again.</p><p><a href="https://stspg.io/k5db4cd96jlz">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

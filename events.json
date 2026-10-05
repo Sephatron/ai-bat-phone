@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "26 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M46H0RX8S9S8FGAXCXY1CYJM:resolved:resolved:minor:2026-10-05T17:41:43+00:00",
+  "impact": "minor",
+  "incident_id": "01M46H0RX8S9S8FGAXCXY1CYJM",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-05T17:45:29.978421+00:00",
+  "started_at": "2026-10-05T17:15:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
   "components": [],
   "duration": "",
