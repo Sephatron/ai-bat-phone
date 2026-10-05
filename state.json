@@ -58,9 +58,7 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-05T13:00:00+00:00",
-   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "vercel": {
    "consecutive_failures": 0
@@ -189,6 +187,12 @@
    "last_seen_at": "2026-10-05T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-14T10:28:22.312000+00:00"
+  },
+  "anthropic:bhphxz3vr58g": {
+   "impact": "major",
+   "last_seen_at": "2026-10-05T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-05T13:05:44.789000+00:00"
   },
   "anthropic:c0ncxxm2wd9r": {
    "impact": "major",
@@ -4231,8 +4235,8 @@
   "openai:01M461GYDMCVJJK8330PVCH42C": {
    "impact": "minor",
    "last_seen_at": "2026-10-05T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-05T12:44:53+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-05T13:04:30+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

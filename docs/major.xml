@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude is having a proper one. This is not your code.]]></title>
+<link>https://stspg.io/wdqhxt8xt574</link>
+<guid isPermaLink='false'>anthropic:bhphxz3vr58g:opened:investigating:major:2026-10-05T13:05:44.789000+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 13:15:33 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Mon, 05 Oct 2026 13:05:44 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1 and Claude Fable 5.1. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/wdqhxt8xt574">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Moonshot AI (Kimi) after 1 min]]></title>
 <link>https://stspg.io/853mgz04gbdm</link>
 <guid isPermaLink='false'>moonshot:77krbnnlj7sp:resolved:resolved:critical:2026-10-02T22:17:12.803000+00:00</guid>

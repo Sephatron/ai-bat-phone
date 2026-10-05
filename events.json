@@ -1,5 +1,46 @@
 [
  {
+  "body": "We are investigating elevated errors on requests to Claude Mythos 5.1 and Claude Fable 5.1. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔴 Claude is having a proper one. This is not your code.",
+  "id": "anthropic:bhphxz3vr58g:opened:investigating:major:2026-10-05T13:05:44.789000+00:00",
+  "impact": "major",
+  "incident_id": "bhphxz3vr58g",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-05T13:15:33.485162+00:00",
+  "started_at": "2026-10-05T13:05:44.480000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
+  "transition": "opened",
+  "url": "https://stspg.io/wdqhxt8xt574"
+ },
+ {
+  "body": "The issue affecting saving and live editing in Pages has been resolved",
+  "components": [],
+  "duration": "19 min",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M461GYDMCVJJK8330PVCH42C:resolved:resolved:minor:2026-10-05T13:04:30+00:00",
+  "impact": "minor",
+  "incident_id": "01M461GYDMCVJJK8330PVCH42C",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-05T13:15:33.485162+00:00",
+  "started_at": "2026-10-05T12:44:53+00:00",
+  "status": "resolved",
+  "title": "Issues saving and editing Pages",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M461GYDMCVJJK8330PVCH42C"
+ },
+ {
   "body": "We are investigating the issue for the listed services. Some users may be unable to save changes or reconnect to live editing sessions.",
   "components": [],
   "duration": "",
