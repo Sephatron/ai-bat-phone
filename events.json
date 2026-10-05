@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Actions",
+   "Pages"
+  ],
+  "duration": "3h 37m",
+  "headline": "🟢 GitHub is back. Grass sufficiently touched.",
+  "id": "github:3q1yb5m7ltvb:resolved:resolved:critical:2026-10-05T22:49:42.685000+00:00",
+  "impact": "critical",
+  "incident_id": "3q1yb5m7ltvb",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-05T23:00:41.841660+00:00",
+  "started_at": "2026-10-05T19:11:58.373000+00:00",
+  "status": "resolved",
+  "title": "Incident with Actions",
+  "transition": "resolved",
+  "url": "https://stspg.io/c11dc9nb1zdq"
+ },
+ {
   "body": "Pages is experiencing degraded performance. We are continuing to investigate.",
   "components": [
    "Actions",

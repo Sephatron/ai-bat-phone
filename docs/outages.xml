@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 05 Oct 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/c11dc9nb1zdq</link>
+<guid isPermaLink='false'>github:3q1yb5m7ltvb:resolved:resolved:critical:2026-10-05T22:49:42.685000+00:00</guid>
+<pubDate>Mon, 05 Oct 2026 23:00:41 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: critical · Status: resolved · Affects: Actions, Pages · Duration: 3h 37m · Opened: Mon, 05 Oct 2026 19:11:58 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/c11dc9nb1zdq">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔺 Upgrade your concern: GitHub is now critical]]></title>
 <link>https://stspg.io/c11dc9nb1zdq</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 23:00:34 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>SSO sign-in and SCIM provisioning issues</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 23:00:09 +0000</p><p>Some users are unable to sign in with single sign-on (SSO). User and group provisioning through SCIM is also affected. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel is fine again]]></title>
-<link>https://stspg.io/fx0fjwcpvdqr</link>
-<guid isPermaLink='false'>vercel:5c1lswm68bkg:resolved:resolved:minor:2026-09-18T22:31:22.780000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 22:45:14 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Deployment stuck in initializing state</strong></p><p>Impact: minor · Status: resolved · Affects: Builds · Duration: 55 min · Opened: Fri, 18 Sep 2026 21:36:09 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/fx0fjwcpvdqr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
