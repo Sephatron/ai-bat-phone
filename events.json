@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating elevated error rates affecting some ChatGPT conversations. Error rates are improving, and our team is continuing to assess recovery. We will share further updates as they become available.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is having a wobble",
+  "id": "openai:01M46G248GGHV9RSAJE82BZY1X:opened:investigating:minor:2026-10-05T16:58:56+00:00",
+  "impact": "minor",
+  "incident_id": "01M46G248GGHV9RSAJE82BZY1X",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-05T17:00:36.457661+00:00",
+  "started_at": "2026-10-05T16:58:56+00:00",
+  "status": "investigating",
+  "title": "Elevated errors in ChatGPT conversations",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
+ },
+ {
   "body": "We are investigating the issue for the listed services.",
   "components": [],
   "duration": "",
