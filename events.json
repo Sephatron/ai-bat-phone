@@ -3,6 +3,24 @@
   "body": "We're currently investigating disruptions in SIP calls in our EU residency.",
   "components": [],
   "duration": "",
+  "headline": "🔺 It got worse: ElevenLabs is now a major outage",
+  "id": "elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:escalated:investigating:major:2026-10-06T10:28:05+00:00",
+  "impact": "major",
+  "incident_id": "01M48C36FW1EZ6FFQYEXJKMT2Y",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-06T11:15:40.090020+00:00",
+  "started_at": "2026-10-06T10:28:05+00:00",
+  "status": "investigating",
+  "title": "EU Agents disruption in SIP calls",
+  "transition": "escalated",
+  "url": "https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y"
+ },
+ {
+  "body": "We're currently investigating disruptions in SIP calls in our EU residency.",
+  "components": [],
+  "duration": "",
   "headline": "🟠 ElevenLabs is sulking, mildly",
   "id": "elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:opened:investigating:minor:2026-10-06T10:28:05+00:00",
   "impact": "minor",
@@ -7632,27 +7650,5 @@
   "title": "Service Degradation for one of our Serverless models",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M1Z47ZFCA4KYXYM8K5A0K9NR"
- },
- {
-  "body": "Type: Maintenance Affected Components: Computer, Website, API Jan 1, 00:00:00 GMT+0 - Identified - On Thursday, September 10 around 21:00 UTC (2:00 PM Pacific), we will migrate our status page from Instatus to incident.io as part of consolidating our incident response tooling. The switch is a DNS change, so it may take some time to complete for everyone. ## What is and isn't changing * The status page URL stays the same: . * Historical incidents have been migrated, so past incident history remains available on the new page. * Email subscribers will be migrated automatically. No action needed.…",
-  "components": [
-   "Computer",
-   "Website",
-   "API"
-  ],
-  "duration": "",
-  "headline": "🔧 Planned works at Perplexity",
-  "id": "perplexity:cmtrutbr301gv1mpq81xpt464:opened:scheduled:none:2026-09-07T23:15:25.477444+00:00",
-  "impact": "none",
-  "incident_id": "cmtrutbr301gv1mpq81xpt464",
-  "kind": "maintenance",
-  "provider_key": "perplexity",
-  "provider_name": "Perplexity",
-  "published_at": "2026-09-07T23:15:25.477444+00:00",
-  "started_at": "2026-09-10T21:00:00+00:00",
-  "status": "scheduled",
-  "title": "Status page migration to incident.io",
-  "transition": "opened",
-  "url": "https://status.perplexity.com/maintenance/cmtrutbr301gv1mpq81xpt464"
  }
 ]

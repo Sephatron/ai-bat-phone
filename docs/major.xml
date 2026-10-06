@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔺 It got worse: ElevenLabs is now a major outage]]></title>
+<link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
+<guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:escalated:investigating:major:2026-10-06T10:28:05+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 11:15:40 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>We're currently investigating disruptions in SIP calls in our EU residency.</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from GitHub after 1h 44m]]></title>
 <link>https://stspg.io/pjcfc4c3pm7g</link>
 <guid isPermaLink='false'>github:2kxnqcxcrr7f:resolved:resolved:major:2026-10-06T01:32:43.705000+00:00</guid>
