@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from GitHub after 1h 44m]]></title>
+<link>https://stspg.io/pjcfc4c3pm7g</link>
+<guid isPermaLink='false'>github:2kxnqcxcrr7f:resolved:resolved:major:2026-10-06T01:32:43.705000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 01:45:29 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: major · Status: resolved · Duration: 1h 44m · Opened: Mon, 05 Oct 2026 23:47:45 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/pjcfc4c3pm7g">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8</link>
+<guid isPermaLink='false'>openai:01M47AFBNRNXKJWN549T3PMYV8:resolved:resolved:minor:2026-10-06T01:35:53+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 01:45:29 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors in API Platform login and administration APIs.</strong></p><p>Impact: minor · Status: resolved · Duration: 55 min · Opened: Tue, 06 Oct 2026 00:40:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8</link>
 <guid isPermaLink='false'>openai:01M47AFBNRNXKJWN549T3PMYV8:opened:monitoring:minor:2026-10-06T00:40:57+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 01:15:16 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We are still implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
-<guid isPermaLink='false'>elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:opened:monitoring:major:2026-09-19T00:35:18+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 00:45:22 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Some ElevenAgents calls failed to start (resolved)</strong></p><p>Impact: major · Status: monitoring · Opened: Sat, 19 Sep 2026 00:34:11 +0000</p><p>The calls are working now.</p><p><a href="https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 18 min]]></title>
-<link>https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X</link>
-<guid isPermaLink='false'>openai:01M2VBZB1RYSMXHZNRA25ZJ36X:resolved:resolved:none:2026-09-18T23:18:55+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 23:30:19 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>SSO sign-in and SCIM provisioning issues</strong></p><p>Impact: unclassified · Status: resolved · Duration: 18 min · Opened: Fri, 18 Sep 2026 23:00:09 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
