@@ -1,5 +1,26 @@
 [
  {
+  "body": "All services are functioning normally except for enterprise migrations, which are still paused. They will resume soon.",
+  "components": [
+   "Webhooks",
+   "Pull Requests"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub: Several services are degraded",
+  "id": "github:cjwszcf57bff:progress:investigating:minor:2026-10-06T20:57:19.848000+00:00",
+  "impact": "minor",
+  "incident_id": "cjwszcf57bff",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-06T21:00:33.166756+00:00",
+  "started_at": "2026-10-06T19:57:35.439000+00:00",
+  "status": "investigating",
+  "title": "Several services are degraded",
+  "transition": "progress",
+  "url": "https://stspg.io/w3rcssslq22w"
+ },
+ {
   "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Webhooks",
@@ -7661,23 +7682,5 @@
   "title": "EU Residency - Conversation history not showing for recent calls",
   "transition": "opened",
   "url": "https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW"
- },
- {
-  "body": "We are still implementing the mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has found the culprit",
-  "id": "openai:01M24HYC9SX2Q4471EVMY6EXQE:progress:identified:minor:2026-09-10T06:01:47+00:00",
-  "impact": "minor",
-  "incident_id": "01M24HYC9SX2Q4471EVMY6EXQE",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-10T06:15:25.981831+00:00",
-  "started_at": "2026-09-10T02:21:57+00:00",
-  "status": "identified",
-  "title": "Unable to open shared ChatGPT Project using direct link",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
  }
 ]

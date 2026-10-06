@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 06 Oct 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub: Several services are degraded]]></title>
+<link>https://stspg.io/w3rcssslq22w</link>
+<guid isPermaLink='false'>github:cjwszcf57bff:progress:investigating:minor:2026-10-06T20:57:19.848000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 21:00:33 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Several services are degraded</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks, Pull Requests · Opened: Tue, 06 Oct 2026 19:57:35 +0000</p><p>All services are functioning normally except for enterprise migrations, which are still paused. They will resume soon.</p><p><a href="https://stspg.io/w3rcssslq22w">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/w3rcssslq22w</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 15:30:24 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8</link>
-<guid isPermaLink='false'>openai:01M34TAFM9WBGEBE3G1GBH4SE8:opened:identified:minor:2026-09-22T15:04:05+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 15:15:15 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
