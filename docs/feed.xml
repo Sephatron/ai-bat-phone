@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ</link>
+<guid isPermaLink='false'>openai:01M47HC9SGHGFPBN44KGC6SKAQ:resolved:resolved:minor:2026-10-06T03:17:12+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 03:30:32 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.</strong></p><p>Impact: minor · Status: resolved · Duration: 36 min · Opened: Tue, 06 Oct 2026 02:41:12 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ</link>
 <guid isPermaLink='false'>openai:01M47HC9SGHGFPBN44KGC6SKAQ:opened:monitoring:minor:2026-10-06T02:44:03+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 05:15:17 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 8 min · Opened: Sat, 19 Sep 2026 05:00:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
-<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:progress:monitoring:none:2026-09-19T05:00:57+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 05:15:17 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We have applied the mitigation, and any new sessions would not run into this issue. We are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
