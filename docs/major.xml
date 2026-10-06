@@ -905,13 +905,5 @@
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Wed, 09 Sep 2026 06:45:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/7z953l3y4ktr">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 Cursor lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/2h04kqhqq9jw</link>
-<guid isPermaLink='false'>cursor:jw6mzctqkq56:resolved:resolved:major:2026-09-07T21:37:45.321000+00:00</guid>
-<pubDate>Mon, 07 Sep 2026 21:45:26 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Grok Bot computers unreachable for some users</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 1h 05m · Opened: Mon, 07 Sep 2026 20:32:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/2h04kqhqq9jw">Cursor status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

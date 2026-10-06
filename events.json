@@ -1,5 +1,23 @@
 [
  {
+  "body": "We're currently investigating disruptions in SIP calls in our EU residency.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is sulking, mildly",
+  "id": "elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:opened:investigating:minor:2026-10-06T10:28:05+00:00",
+  "impact": "minor",
+  "incident_id": "01M48C36FW1EZ6FFQYEXJKMT2Y",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-06T10:30:37.003803+00:00",
+  "started_at": "2026-10-06T10:28:05+00:00",
+  "status": "investigating",
+  "title": "EU Agents disruption in SIP calls",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Sandbox"
@@ -7636,25 +7654,5 @@
   "title": "Status page migration to incident.io",
   "transition": "opened",
   "url": "https://status.perplexity.com/maintenance/cmtrutbr301gv1mpq81xpt464"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "1h 05m",
-  "headline": "🟢 Cursor lives. Pick your tools back up.",
-  "id": "cursor:jw6mzctqkq56:resolved:resolved:major:2026-09-07T21:37:45.321000+00:00",
-  "impact": "major",
-  "incident_id": "jw6mzctqkq56",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-07T21:45:26.922423+00:00",
-  "started_at": "2026-09-07T20:32:42.816000+00:00",
-  "status": "resolved",
-  "title": "Grok Bot computers unreachable for some users",
-  "transition": "resolved",
-  "url": "https://stspg.io/2h04kqhqq9jw"
  }
 ]
