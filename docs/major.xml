@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 06 Oct 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Cursor is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/rq2dy7v7jg96</link>
+<guid isPermaLink='false'>cursor:xgj4x58k55dx:opened:investigating:major:2026-10-06T17:49:30.546000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 18:00:31 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Security Reviewer Agents</strong></p><p>Impact: major · Status: investigating · Affects: Review Agents · Opened: Tue, 06 Oct 2026 17:49:30 +0000</p><p>We are investigating a service degradation affecting Security Reviewer agents.</p><p><a href="https://stspg.io/rq2dy7v7jg96">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📶 Cerebras Inference is readable again, so silence here means quiet once more]]></title>
 <link>https://status.cerebras.ai</link>
