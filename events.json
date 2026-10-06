@@ -1,5 +1,41 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "4h 25m",
+  "headline": "🟢 OpenAI sorted itself out after 4h 25m",
+  "id": "openai:01M48Y8E81QAFF9XKVGE118E6X:resolved:resolved:minor:2026-10-06T20:11:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M48Y8E81QAFF9XKVGE118E6X",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-06T20:15:37.074228+00:00",
+  "started_at": "2026-10-06T15:45:31+00:00",
+  "status": "resolved",
+  "title": "Errors processing large PDFs in the Responses API",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X"
+ },
+ {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "2h 45m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M493CZ0CB14KPC0EER83MNVB:resolved:resolved:minor:2026-10-06T20:00:46+00:00",
+  "impact": "minor",
+  "incident_id": "01M493CZ0CB14KPC0EER83MNVB",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-06T20:15:37.074228+00:00",
+  "started_at": "2026-10-06T17:15:23+00:00",
+  "status": "resolved",
+  "title": "Computer Use Is Experiencing Issues",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Pull Requests and Webhooks",
   "components": [
    "Webhooks",
@@ -7640,41 +7676,5 @@
   "title": "Unable to open shared ChatGPT Project using direct link",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
- },
- {
-  "body": "We are currently working to release a targeted fix to restore functionality to the Claude MCP tool",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 ElevenLabs knows what it did",
-  "id": "elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:progress:identified:minor:2026-09-10T01:28:11+00:00",
-  "impact": "minor",
-  "incident_id": "01M232ZXVNKKRQ0N0G3NJBV4C9",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-10T01:30:25.851546+00:00",
-  "started_at": "2026-09-09T12:41:25+00:00",
-  "status": "identified",
-  "title": "Claude MCP connection not working",
-  "transition": "progress",
-  "url": "https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9"
- },
- {
-  "body": "[Investigating] We are investigating issues related to Google, Stripe, Whop connectors",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is a bit under the weather",
-  "id": "replit:5c864a49-1235-4ac0-8a04-c981a56a6d85:opened:investigating:minor:2026-09-09T22:15:43.216286+00:00",
-  "impact": "minor",
-  "incident_id": "5c864a49-1235-4ac0-8a04-c981a56a6d85",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-09-09T22:15:43.216286+00:00",
-  "started_at": "2026-09-09T22:09:59+00:00",
-  "status": "investigating",
-  "title": "Stripe Whop Google connectors are having issues",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/5c864a49-1235-4ac0-8a04-c981a56a6d85"
  }
 ]

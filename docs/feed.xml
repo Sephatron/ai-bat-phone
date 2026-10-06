@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 4h 25m]]></title>
+<link>https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X</link>
+<guid isPermaLink='false'>openai:01M48Y8E81QAFF9XKVGE118E6X:resolved:resolved:minor:2026-10-06T20:11:27+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 20:15:37 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Errors processing large PDFs in the Responses API</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 25m · Opened: Tue, 06 Oct 2026 15:45:31 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB</link>
+<guid isPermaLink='false'>openai:01M493CZ0CB14KPC0EER83MNVB:resolved:resolved:minor:2026-10-06T20:00:46+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 20:15:37 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Computer Use Is Experiencing Issues</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 45m · Opened: Tue, 06 Oct 2026 17:15:23 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub is having a wobble]]></title>
 <link>https://stspg.io/w3rcssslq22w</link>
 <guid isPermaLink='false'>github:cjwszcf57bff:opened:investigating:minor:2026-10-06T19:57:35.582000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 16:00:19 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: resolved · Duration: 54 min · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8</link>
-<guid isPermaLink='false'>openai:01M34TAFM9WBGEBE3G1GBH4SE8:progress:monitoring:minor:2026-09-22T15:26:41+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 15:30:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8</link>
-<guid isPermaLink='false'>openai:01M34TAFM9WBGEBE3G1GBH4SE8:opened:identified:minor:2026-09-22T15:04:05+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 15:15:15 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
