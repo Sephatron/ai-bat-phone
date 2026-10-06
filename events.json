@@ -1,5 +1,44 @@
 [
  {
+  "body": "[Investigating] We are currently seeing increased latency for connectors requests.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Replit",
+  "id": "replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:opened:investigating:minor:2026-10-06T19:30:34.525750+00:00",
+  "impact": "minor",
+  "incident_id": "0172bdc7-0453-42d4-bd16-193e9e9ce432",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-06T19:30:34.525750+00:00",
+  "started_at": "2026-10-06T19:16:13+00:00",
+  "status": "investigating",
+  "title": "Connectors platform latency",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432"
+ },
+ {
+  "body": "We are investigating a service degradation affecting some Cloud Agents and Grok Bot features.",
+  "components": [
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🔴 Cursor is on the floor. Kettle on, grass outside.",
+  "id": "cursor:bccntkmymws0:opened:investigating:major:2026-10-06T19:27:23.428000+00:00",
+  "impact": "major",
+  "incident_id": "bccntkmymws0",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-06T19:30:34.525750+00:00",
+  "started_at": "2026-10-06T19:27:23.287000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
+  "transition": "opened",
+  "url": "https://stspg.io/s72y0jp0bgtt"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Review Agents"
@@ -7635,44 +7674,6 @@
   "status": "resolved",
   "title": "Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**",
   "transition": "resolved",
-  "url": "https://stspg.io/rsb0980gvck0"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "24 min",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M23KG62KKK448RN434CQ64Z8:resolved:resolved:none:2026-09-09T17:54:12+00:00",
-  "impact": "none",
-  "incident_id": "01M23KG62KKK448RN434CQ64Z8",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-09T18:00:51.808932+00:00",
-  "started_at": "2026-09-09T17:29:55+00:00",
-  "status": "resolved",
-  "title": "Investigating unexpected usage limit resets",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8"
- },
- {
-  "body": "A fix has been implemented and we are monitoring the results.",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "",
-  "headline": "👀 Baseten is on the mend. Don't get comfortable yet.",
-  "id": "baseten:5khtpsscbx6x:progress:monitoring:minor:2026-09-09T17:45:56.637000+00:00",
-  "impact": "minor",
-  "incident_id": "5khtpsscbx6x",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-09T17:46:22.431750+00:00",
-  "started_at": "2026-09-09T17:42:43.516000+00:00",
-  "status": "monitoring",
-  "title": "Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**",
-  "transition": "progress",
   "url": "https://stspg.io/rsb0980gvck0"
  }
 ]

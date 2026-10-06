@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Replit]]></title>
+<link>https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432</link>
+<guid isPermaLink='false'>replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:opened:investigating:minor:2026-10-06T19:30:34.525750+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 19:30:34 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Connectors platform latency</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 19:16:13 +0000</p><p>[Investigating] We are currently seeing increased latency for connectors requests.</p><p><a href="https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432">Replit status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Cursor is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/s72y0jp0bgtt</link>
+<guid isPermaLink='false'>cursor:bccntkmymws0:opened:investigating:major:2026-10-06T19:27:23.428000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 19:30:34 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Tue, 06 Oct 2026 19:27:23 +0000</p><p>We are investigating a service degradation affecting some Cloud Agents and Grok Bot features.</p><p><a href="https://stspg.io/s72y0jp0bgtt">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is upright again. That took 1h 07m.]]></title>
 <link>https://stspg.io/rq2dy7v7jg96</link>
 <guid isPermaLink='false'>cursor:xgj4x58k55dx:resolved:resolved:major:2026-10-06T18:56:35.298000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 10:00:16 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Increased error rate for Plus and Pro users.</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 22 Sep 2026 09:58:28 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Lovable after 14 min]]></title>
-<link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
-<guid isPermaLink='false'>lovable:01M341NK7X6TQ8MP0FH9NM93HK:resolved:resolved:major:2026-09-22T08:07:28+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 08:15:18 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: resolved · Duration: 14 min · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>Enabling Lovable Cloud is back to normal operational levels.</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: Lovable is broken]]></title>
-<link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
-<guid isPermaLink='false'>lovable:01M341NK7X6TQ8MP0FH9NM93HK:opened:investigating:major:2026-09-22T07:54:25+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 08:00:15 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

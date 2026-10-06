@@ -1424,6 +1424,12 @@
    "status": "resolved",
    "updated_at": "2026-08-25T21:28:42.761000+00:00"
   },
+  "cursor:bccntkmymws0": {
+   "impact": "major",
+   "last_seen_at": "2026-10-06T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-06T19:27:23.428000+00:00"
+  },
   "cursor:bfcck6qks18q": {
    "impact": "minor",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
@@ -4609,6 +4615,12 @@
    "last_seen_at": "2026-10-06T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-14T03:08:48+00:00"
+  },
+  "replit:0172bdc7-0453-42d4-bd16-193e9e9ce432": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-06T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-06T19:16:13+00:00"
   },
   "replit:0427a9eb-c674-41ec-9731-1a325a89e7de": {
    "impact": "minor",
