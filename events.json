@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating reports of impacted performance for some GitHub services.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 GitHub is on the floor. Kettle on, grass outside.",
+  "id": "github:2kxnqcxcrr7f:opened:investigating:major:2026-10-05T23:47:45.257000+00:00",
+  "impact": "major",
+  "incident_id": "2kxnqcxcrr7f",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-06T00:00:36.791819+00:00",
+  "started_at": "2026-10-05T23:47:45.195000+00:00",
+  "status": "investigating",
+  "title": "Disruption with some GitHub services",
+  "transition": "opened",
+  "url": "https://stspg.io/pjcfc4c3pm7g"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Actions",
@@ -7636,23 +7654,5 @@
   "title": "Service Degradation for one of our Serverless models",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9"
- },
- {
-  "body": "[Monitoring] Production data is confirmed to be safe after a configuration error during deploys that impacted users on September 1st, 2026. The issue has been resolved going forward and we are working on a fix to restore impacted projects. If your project was impacted by this error please reach out to support.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Replit is on the mend. Don't get comfortable yet.",
-  "id": "replit:f551e79f-142b-4e8e-9e7e-4b8b92c47111:opened:monitoring:minor:2026-09-04T13:44:13.044445+00:00",
-  "impact": "minor",
-  "incident_id": "f551e79f-142b-4e8e-9e7e-4b8b92c47111",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-09-04T13:44:13.044445+00:00",
-  "started_at": "2026-09-02T18:41:09+00:00",
-  "status": "monitoring",
-  "title": "Some users are unable to publish apps with an external DATABASE_URL error",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/f551e79f-142b-4e8e-9e7e-4b8b92c47111"
  }
 ]

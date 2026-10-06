@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 05 Oct 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 GitHub is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/pjcfc4c3pm7g</link>
+<guid isPermaLink='false'>github:2kxnqcxcrr7f:opened:investigating:major:2026-10-05T23:47:45.257000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 00:00:36 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: major · Status: investigating · Opened: Mon, 05 Oct 2026 23:47:45 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/pjcfc4c3pm7g">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/c11dc9nb1zdq</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 18 Sep 2026 23:15:14 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>SSO sign-in and SCIM provisioning issues</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 18 Sep 2026 23:00:09 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI knows what it did]]></title>
-<link>https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X</link>
-<guid isPermaLink='false'>openai:01M2VBZB1RYSMXHZNRA25ZJ36X:opened:identified:none:2026-09-18T23:00:09+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 23:00:34 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>SSO sign-in and SCIM provisioning issues</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 23:00:09 +0000</p><p>Some users are unable to sign in with single sign-on (SSO). User and group provisioning through SCIM is also affected. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
