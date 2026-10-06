@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 06 Oct 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor is upright again. That took 1h 07m.]]></title>
+<link>https://stspg.io/rq2dy7v7jg96</link>
+<guid isPermaLink='false'>cursor:xgj4x58k55dx:resolved:resolved:major:2026-10-06T18:56:35.298000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 19:00:33 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Security Reviewer Agents</strong></p><p>Impact: major · Status: resolved · Affects: Review Agents · Duration: 1h 07m · Opened: Tue, 06 Oct 2026 17:49:30 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/rq2dy7v7jg96">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Cursor is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/rq2dy7v7jg96</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 08:00:15 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
-<link>https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G</link>
-<guid isPermaLink='false'>elevenlabs:01M334KC2AAWJREYT5BSCNF50G:resolved:resolved:none:2026-09-22T02:56:28+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 03:00:18 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: resolved · Duration: 3h 31m · Opened: Mon, 21 Sep 2026 23:25:13 +0000</p><p>The elevated error rate has been resolved and we're following up internally to prevent future occurrences.</p><p><a href="https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

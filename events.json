@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Review Agents"
+  ],
+  "duration": "1h 07m",
+  "headline": "🟢 Cursor is upright again. That took 1h 07m.",
+  "id": "cursor:xgj4x58k55dx:resolved:resolved:major:2026-10-06T18:56:35.298000+00:00",
+  "impact": "major",
+  "incident_id": "xgj4x58k55dx",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-06T19:00:33.417273+00:00",
+  "started_at": "2026-10-06T17:49:30.422000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Security Reviewer Agents",
+  "transition": "resolved",
+  "url": "https://stspg.io/rq2dy7v7jg96"
+ },
+ {
   "body": "We are investigating a service degradation affecting Security Reviewer agents.",
   "components": [
    "Review Agents"
@@ -7653,26 +7673,6 @@
   "status": "monitoring",
   "title": "Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**",
   "transition": "progress",
-  "url": "https://stspg.io/rsb0980gvck0"
- },
- {
-  "body": "We are currently investigating this issue.",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "",
-  "headline": "🟠 Baseten is having a wobble",
-  "id": "baseten:5khtpsscbx6x:opened:investigating:minor:2026-09-09T17:43:06.154000+00:00",
-  "impact": "minor",
-  "incident_id": "5khtpsscbx6x",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-09T17:45:43.230523+00:00",
-  "started_at": "2026-09-09T17:42:43.516000+00:00",
-  "status": "investigating",
-  "title": "Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**",
-  "transition": "opened",
   "url": "https://stspg.io/rsb0980gvck0"
  }
 ]
