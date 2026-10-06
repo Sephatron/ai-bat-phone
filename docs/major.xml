@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:unreachable:2026-10-06T13:00:00+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 14:15:47 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 ElevenLabs lives. Pick your tools back up.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
 <guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:resolved:resolved:major:2026-10-06T12:51:21+00:00</guid>

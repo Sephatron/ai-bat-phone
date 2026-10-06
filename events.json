@@ -1,5 +1,23 @@
 [
  {
+  "body": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out",
+  "components": [],
+  "duration": "",
+  "headline": "📵 AI21 is unreadable — silence here means unknown, not fine",
+  "id": "meta:ai21:unreachable:2026-10-06T13:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "ai21",
+  "provider_name": "AI21",
+  "published_at": "2026-10-06T14:15:47.126502+00:00",
+  "started_at": "2026-10-06T13:00:00+00:00",
+  "status": "unreachable",
+  "title": "AI Bat Phone cannot read AI21's status page",
+  "transition": "unreachable",
+  "url": "https://status.ai21.com"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
@@ -7646,24 +7664,6 @@
   "status": "resolved",
   "title": "Service Degradation for one of our Serverless models",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M21E38KEM69PGCJ5YBRWVZX8"
- },
- {
-  "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M21E38KEM69PGCJ5YBRWVZX8:opened:investigating:none:2026-09-08T21:17:00+00:00",
-  "impact": "none",
-  "incident_id": "01M21E38KEM69PGCJ5YBRWVZX8",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-08T21:30:29.531581+00:00",
-  "started_at": "2026-09-08T21:17:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for one of our Serverless models",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M21E38KEM69PGCJ5YBRWVZX8"
  }
 ]

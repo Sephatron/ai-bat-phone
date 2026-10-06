@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:unreachable:2026-10-06T13:00:00+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 14:15:47 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
 <guid isPermaLink='false'>openai:01M48PT6B8SDTW023NC9XZTBC0:progress:monitoring:minor:2026-10-06T13:53:57+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 21 Sep 2026 07:04:52 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 21 min · Opened: Mon, 21 Sep 2026 06:39:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/lfp649kkrqs0">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
-<link>https://stspg.io/lfp649kkrqs0</link>
-<guid isPermaLink='false'>cursor:9lzqc8vy6jjj:opened:investigating:minor:2026-09-21T06:39:46.805000+00:00</guid>
-<pubDate>Mon, 21 Sep 2026 06:45:16 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Mon, 21 Sep 2026 06:39:00 +0000</p><p>We are investigating degraded performance for requests that use Grok 4.6. Users may see failed or retried requests in Automations, Cloud Agents, the CLI, and the IDE when Grok 4.6 is used. Other models are unaffected.</p><p><a href="https://stspg.io/lfp649kkrqs0">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:unreachable:2026-10-06T13:00:00+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 14:15:47 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
 <guid isPermaLink='false'>openai:01M48PT6B8SDTW023NC9XZTBC0:progress:monitoring:minor:2026-10-06T13:53:57+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 21 Sep 2026 23:30:19 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 21 Sep 2026 23:25:13 +0000</p><p>We're currently investigating an elevated error rate occurring with ElevenReader that may impact streaming and app navigation.</p><p><a href="https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
-<link>https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ</link>
-<guid isPermaLink='false'>lovable:01M324TRMEC1SE7YZSPNE9TTVJ:resolved:resolved:minor:2026-09-21T15:31:12+00:00</guid>
-<pubDate>Mon, 21 Sep 2026 15:45:18 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some users are seeing web search fail when the agent uses it</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 21m · Opened: Mon, 21 Sep 2026 14:10:00 +0000</p><p>This issue has been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
