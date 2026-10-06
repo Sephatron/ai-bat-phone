@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 Cerebras Inference is readable again, so silence here means quiet once more]]></title>
+<link>https://status.cerebras.ai</link>
+<guid isPermaLink='false'>meta:cerebras:recovered:2026-10-06T16:00:00+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 17:30:29 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Cerebras Inference's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 Cerebras Inference is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.cerebras.ai</link>
 <guid isPermaLink='false'>meta:cerebras:unreachable:2026-10-06T16:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 02:45:12 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 37m · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/90s4l9yywzbk</link>
-<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:progress:monitoring:major:2026-09-22T02:11:43.778000+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 02:15:14 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>We have seen success rates return to normal across affected models, and are monitoring closely to ensure no further issues.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

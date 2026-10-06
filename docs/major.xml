@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 Cerebras Inference is readable again, so silence here means quiet once more]]></title>
+<link>https://status.cerebras.ai</link>
+<guid isPermaLink='false'>meta:cerebras:recovered:2026-10-06T16:00:00+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 17:30:29 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Cerebras Inference's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 Cerebras Inference is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.cerebras.ai</link>
 <guid isPermaLink='false'>meta:cerebras:unreachable:2026-10-06T16:00:00+00:00</guid>
