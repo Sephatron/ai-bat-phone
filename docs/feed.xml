@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 Cerebras Inference is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.cerebras.ai</link>
+<guid isPermaLink='false'>meta:cerebras:unreachable:2026-10-06T16:00:00+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 17:15:38 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Cerebras Inference's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
+<link>https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB</link>
+<guid isPermaLink='false'>openai:01M493CZ0CB14KPC0EER83MNVB:opened:investigating:minor:2026-10-06T17:15:23+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 17:15:38 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Computer Use Is Experiencing Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 17:15:23 +0000</p><p>We are investigating issues for agents api and computer use.</p><p><a href="https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI knows what it did]]></title>
 <link>https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X</link>
 <guid isPermaLink='false'>openai:01M48Y8E81QAFF9XKVGE118E6X:progress:identified:minor:2026-10-06T16:39:49+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 08:00:15 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
-<link>https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G</link>
-<guid isPermaLink='false'>elevenlabs:01M334KC2AAWJREYT5BSCNF50G:resolved:resolved:none:2026-09-22T02:56:28+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 03:00:18 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>ElevenReader Elevated Error Rates</strong></p><p>Impact: unclassified · Status: resolved · Duration: 3h 31m · Opened: Mon, 21 Sep 2026 23:25:13 +0000</p><p>The elevated error rate has been resolved and we're following up internally to prevent future occurrences.</p><p><a href="https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is upright again. That took 1h 37m.]]></title>
-<link>https://stspg.io/90s4l9yywzbk</link>
-<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:resolved:resolved:major:2026-09-22T02:35:23.858000+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 02:45:12 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 37m · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
