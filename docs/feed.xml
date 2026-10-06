@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8</link>
+<guid isPermaLink='false'>openai:01M47AFBNRNXKJWN549T3PMYV8:opened:monitoring:minor:2026-10-06T00:40:57+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 00:45:28 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors in API Platform login and administration APIs.</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 00:40:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X</link>
 <guid isPermaLink='false'>openai:01M46G248GGHV9RSAJE82BZY1X:resolved:resolved:minor:2026-10-06T00:01:05+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 01:15:16 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed support responses</strong></p><p>Impact: unclassified · Status: resolved · Duration: 3h 33m · Opened: Fri, 18 Sep 2026 21:36:41 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
-<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:progress:identified:none:2026-09-19T01:08:42+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 01:15:16 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We are still implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

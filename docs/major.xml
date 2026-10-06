@@ -921,13 +921,5 @@
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Copilot Code Review</strong></p><p>Impact: major · Status: resolved · Duration: 1h 47m · Opened: Fri, 04 Sep 2026 20:39:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/dddfhld6fj0z">GitHub status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-09-04</guid>
-<pubDate>Fri, 04 Sep 2026 13:44:13 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 20 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
