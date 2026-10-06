@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Sandbox"
+  ],
+  "duration": "24 min",
+  "headline": "🟢 Vercel has stopped wobbling",
+  "id": "vercel:xr8lx0kncx0g:resolved:resolved:minor:2026-10-06T09:36:55.249000+00:00",
+  "impact": "minor",
+  "incident_id": "xr8lx0kncx0g",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-10-06T09:45:37.400748+00:00",
+  "started_at": "2026-10-06T09:12:06.674000+00:00",
+  "status": "resolved",
+  "title": "Elevated Sandbox error rates in Paris (cdg1)",
+  "transition": "resolved",
+  "url": "https://stspg.io/sgzd0v141vpk"
+ },
+ {
   "body": "We are investigating elevated latency affecting a small percentage of text-to-speech (TTS) requests. We will share an update as soon as we have more information.",
   "components": [],
   "duration": "",
@@ -7635,26 +7655,6 @@
   "status": "resolved",
   "title": "Grok Bot computers unreachable for some users",
   "transition": "resolved",
-  "url": "https://stspg.io/2h04kqhqq9jw"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor has applied a fix and is holding its breath",
-  "id": "cursor:jw6mzctqkq56:opened:monitoring:major:2026-09-07T20:41:07.636000+00:00",
-  "impact": "major",
-  "incident_id": "jw6mzctqkq56",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-07T20:45:25.990744+00:00",
-  "started_at": "2026-09-07T20:32:42.816000+00:00",
-  "status": "monitoring",
-  "title": "Grok Bot computers unreachable for some users",
-  "transition": "opened",
   "url": "https://stspg.io/2h04kqhqq9jw"
  }
 ]

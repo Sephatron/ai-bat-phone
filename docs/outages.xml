@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Vercel has stopped wobbling]]></title>
+<link>https://stspg.io/sgzd0v141vpk</link>
+<guid isPermaLink='false'>vercel:xr8lx0kncx0g:resolved:resolved:minor:2026-10-06T09:36:55.249000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 09:45:37 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Elevated Sandbox error rates in Paris (cdg1)</strong></p><p>Impact: minor · Status: resolved · Affects: Sandbox · Duration: 24 min · Opened: Tue, 06 Oct 2026 09:12:06 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/sgzd0v141vpk">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
 <link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
 <guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:opened:investigating:minor:2026-10-06T09:09:18+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 10:45:30 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Sat, 19 Sep 2026 10:36:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/tkxhwsx13k4w">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
-<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:resolved:resolved:none:2026-09-19T07:52:40+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 08:00:23 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: resolved · Duration: 9h 22m · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
