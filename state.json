@@ -2,13 +2,17 @@
  "heartbeat": "2026-10-06T16:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-06T16:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-06T16:00:00+00:00",
+   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
   },
   "cerebras": {
    "consecutive_failures": 0
@@ -64,7 +68,9 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-06T16:00:00+00:00",
+   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
   }
  },
  "seen": {
@@ -5147,8 +5153,8 @@
   "vercel:1dp8c0nfchtg": {
    "impact": "major",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-06T16:14:08.646000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-06T16:26:49.403000+00:00"
   },
   "vercel:1s8rqbswvwqc": {
    "impact": "major",

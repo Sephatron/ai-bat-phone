@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Vercel is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/l76txmwrzdcp</link>
+<guid isPermaLink='false'>vercel:1dp8c0nfchtg:resolved:resolved:major:2026-10-06T16:26:49.403000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 16:30:33 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: resolved · Affects: Routing Middleware · Duration: 15 min · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Vercel knows what it did]]></title>
 <link>https://stspg.io/l76txmwrzdcp</link>
 <guid isPermaLink='false'>vercel:1dp8c0nfchtg:progress:identified:major:2026-10-06T16:14:08.646000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 02:15:14 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>We have seen success rates return to normal across affected models, and are monitoring closely to ensure no further issues.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/vf4s5548f6d8</link>
-<guid isPermaLink='false'>cursor:ymdqwbhcc85q:resolved:resolved:minor:2026-09-22T01:42:57.948000+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 01:45:12 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 35 min · Opened: Tue, 22 Sep 2026 01:07:24 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/vf4s5548f6d8">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

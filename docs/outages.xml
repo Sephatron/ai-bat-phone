@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Vercel is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/l76txmwrzdcp</link>
+<guid isPermaLink='false'>vercel:1dp8c0nfchtg:resolved:resolved:major:2026-10-06T16:26:49.403000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 16:30:33 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: resolved · Affects: Routing Middleware · Duration: 15 min · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Vercel knows what it did]]></title>
 <link>https://stspg.io/l76txmwrzdcp</link>
 <guid isPermaLink='false'>vercel:1dp8c0nfchtg:progress:identified:major:2026-10-06T16:14:08.646000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 01:15:18 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Tue, 22 Sep 2026 01:07:24 +0000</p><p>We are investigating degraded performance for requests that use Grok models. Users may see failed or retried requests in Automations, Cloud Agents, the CLI, and the IDE when Grok models are used. Other models are unaffected.</p><p><a href="https://stspg.io/vf4s5548f6d8">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
-<link>https://stspg.io/90s4l9yywzbk</link>
-<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:opened:investigating:major:2026-09-22T00:57:26.258000+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 01:00:29 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

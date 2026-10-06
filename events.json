@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Routing Middleware"
+  ],
+  "duration": "15 min",
+  "headline": "🟢 Vercel is back. Grass sufficiently touched.",
+  "id": "vercel:1dp8c0nfchtg:resolved:resolved:major:2026-10-06T16:26:49.403000+00:00",
+  "impact": "major",
+  "incident_id": "1dp8c0nfchtg",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-10-06T16:30:33.455293+00:00",
+  "started_at": "2026-10-06T16:10:59.031000+00:00",
+  "status": "resolved",
+  "title": "Vercel Auth login failures for pages with Deployment Protection enabled",
+  "transition": "resolved",
+  "url": "https://stspg.io/l76txmwrzdcp"
+ },
+ {
   "body": "The issue has been identified and a fix is being implemented.",
   "components": [
    "Routing Middleware"
@@ -7652,23 +7672,5 @@
   "title": "Increased Error Rate For Pro and Plus Plan Conversations",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M23BNX5V1XT9P3NP0PX56FTN"
- },
- {
-  "body": "We are investigating an issue where the MCP connection is not working. Please note that this does not affect ElevenAgents, where everything is working correctly.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 ElevenLabs is having a wobble",
-  "id": "elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:opened:investigating:minor:2026-09-09T12:41:25+00:00",
-  "impact": "minor",
-  "incident_id": "01M232ZXVNKKRQ0N0G3NJBV4C9",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-09T12:45:45.853628+00:00",
-  "started_at": "2026-09-09T12:41:25+00:00",
-  "status": "investigating",
-  "title": "Claude MCP connection not working",
-  "transition": "opened",
-  "url": "https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9"
  }
 ]
