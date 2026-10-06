@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X</link>
+<guid isPermaLink='false'>openai:01M46G248GGHV9RSAJE82BZY1X:resolved:resolved:minor:2026-10-06T00:01:05+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 00:15:30 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors in ChatGPT conversations</strong></p><p>Impact: minor · Status: resolved · Duration: 7h 02m · Opened: Mon, 05 Oct 2026 16:58:56 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 GitHub is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/pjcfc4c3pm7g</link>
 <guid isPermaLink='false'>github:2kxnqcxcrr7f:opened:investigating:major:2026-10-05T23:47:45.257000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 01:15:16 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We are still implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0</link>
-<guid isPermaLink='false'>elevenlabs:01M2VHBGDK805SSRGAEZ6Q6TF0:opened:monitoring:major:2026-09-19T00:35:18+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 00:45:22 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Some ElevenAgents calls failed to start (resolved)</strong></p><p>Impact: major · Status: monitoring · Opened: Sat, 19 Sep 2026 00:34:11 +0000</p><p>The calls are working now.</p><p><a href="https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

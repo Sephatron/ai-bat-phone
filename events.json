@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "7h 02m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M46G248GGHV9RSAJE82BZY1X:resolved:resolved:minor:2026-10-06T00:01:05+00:00",
+  "impact": "minor",
+  "incident_id": "01M46G248GGHV9RSAJE82BZY1X",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-06T00:15:30.976294+00:00",
+  "started_at": "2026-10-05T16:58:56+00:00",
+  "status": "resolved",
+  "title": "Elevated errors in ChatGPT conversations",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
+ },
+ {
   "body": "We are investigating reports of impacted performance for some GitHub services.",
   "components": [],
   "duration": "",
@@ -7636,23 +7654,5 @@
   "title": "Still watching 20 provider status pages",
   "transition": "alive",
   "url": "https://sephatron.github.io/ai-bat-phone"
- },
- {
-  "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is sulking, mildly",
-  "id": "fireworks:01M1P9PV50PC5ZKVJZ9WC6NCA9:opened:investigating:none:2026-09-04T13:28:40+00:00",
-  "impact": "none",
-  "incident_id": "01M1P9PV50PC5ZKVJZ9WC6NCA9",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-04T13:44:13.044445+00:00",
-  "started_at": "2026-09-04T13:28:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for one of our Serverless models",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M1P9PV50PC5ZKVJZ9WC6NCA9"
  }
 ]
