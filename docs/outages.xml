@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:recovered:2026-10-06T13:00:00+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 14:45:29 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
+<guid isPermaLink='false'>openai:01M48PT6B8SDTW023NC9XZTBC0:resolved:resolved:minor:2026-10-06T14:40:31+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 14:45:29 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates in ChatGPT Go conversations</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 05m · Opened: Tue, 06 Oct 2026 13:35:25 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.ai21.com</link>
 <guid isPermaLink='false'>meta:ai21:unreachable:2026-10-06T13:00:00+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Mon, 21 Sep 2026 15:45:18 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some users are seeing web search fail when the agent uses it</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 21m · Opened: Mon, 21 Sep 2026 14:10:00 +0000</p><p>This issue has been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Lovable has found the culprit]]></title>
-<link>https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ</link>
-<guid isPermaLink='false'>lovable:01M324TRMEC1SE7YZSPNE9TTVJ:opened:identified:minor:2026-09-21T14:10:00+00:00</guid>
-<pubDate>Mon, 21 Sep 2026 14:15:15 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some users are seeing web search fail when the agent uses it</strong></p><p>Impact: minor · Status: identified · Opened: Mon, 21 Sep 2026 14:10:00 +0000</p><p>Some users are seeing web search fail when the agent uses it. We are investigating with one of our providers.</p><p><a href="https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://stspg.io/lfp649kkrqs0</link>
-<guid isPermaLink='false'>cursor:9lzqc8vy6jjj:resolved:resolved:minor:2026-09-21T07:00:48.290000+00:00</guid>
-<pubDate>Mon, 21 Sep 2026 07:04:52 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 21 min · Opened: Mon, 21 Sep 2026 06:39:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/lfp649kkrqs0">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
