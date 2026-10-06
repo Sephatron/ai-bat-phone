@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Webhooks",
+   "Pull Requests"
+  ],
+  "duration": "3h 43m",
+  "headline": "🟢 GitHub is upright again. That took 3h 43m.",
+  "id": "github:cjwszcf57bff:resolved:resolved:critical:2026-10-06T23:40:44.194000+00:00",
+  "impact": "critical",
+  "incident_id": "cjwszcf57bff",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-06T23:45:31.556612+00:00",
+  "started_at": "2026-10-06T19:57:35.439000+00:00",
+  "status": "resolved",
+  "title": "Several services are degraded",
+  "transition": "resolved",
+  "url": "https://stspg.io/w3rcssslq22w"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Cloud Agents",
@@ -7668,23 +7689,5 @@
   "title": "Unable to open shared ChatGPT Project using direct link",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
- },
- {
-  "body": "Some published projects that use map and location search features may temporarily not load results correctly, for example place lookups or location images. Projects that use our built-in maps connector are not affected. We will share an update as soon as we have more information.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Lovable is having a wobble",
-  "id": "lovable:01M25R4X6N20P0J4SX0EZE8HWP:opened:investigating:minor:2026-09-10T13:29:37+00:00",
-  "impact": "minor",
-  "incident_id": "01M25R4X6N20P0J4SX0EZE8HWP",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-10T13:30:27.312076+00:00",
-  "started_at": "2026-09-10T13:29:37+00:00",
-  "status": "investigating",
-  "title": "Map and location search issues in some published projects",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP"
  }
 ]

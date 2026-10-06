@@ -2765,8 +2765,8 @@
   "github:cjwszcf57bff": {
    "impact": "critical",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-06T22:40:56.737000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-06T23:40:44.194000+00:00"
   },
   "github:cz2k50kvfwsw": {
    "impact": "maintenance",

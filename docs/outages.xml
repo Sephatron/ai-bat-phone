@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is upright again. That took 3h 43m.]]></title>
+<link>https://stspg.io/w3rcssslq22w</link>
+<guid isPermaLink='false'>github:cjwszcf57bff:resolved:resolved:critical:2026-10-06T23:40:44.194000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 23:45:31 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Several services are degraded</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Pull Requests · Duration: 3h 43m · Opened: Tue, 06 Oct 2026 19:57:35 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/w3rcssslq22w">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is upright again. That took 16 min.]]></title>
 <link>https://stspg.io/d264y501jym3</link>
 <guid isPermaLink='false'>cursor:lft9b2dfmfsy:resolved:resolved:major:2026-10-06T23:04:57.505000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 10:15:13 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with API Requests and Projects</strong></p><p>Impact: minor · Status: investigating · Affects: API Requests · Opened: Wed, 23 Sep 2026 10:11:12 +0000</p><p>We are investigating reports of degraded performance for API Requests</p><p><a href="https://stspg.io/m1ps7yrhp4n8">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 41 min]]></title>
-<link>https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1</link>
-<guid isPermaLink='false'>openai:01M36RMC01ZFWQ861WYJKC4XE1:resolved:resolved:minor:2026-09-23T09:54:16+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 10:00:28 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT across Plus and Pro plans.</strong></p><p>Impact: minor · Status: resolved · Duration: 41 min · Opened: Wed, 23 Sep 2026 09:13:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
