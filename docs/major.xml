@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Vercel is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/l76txmwrzdcp</link>
+<guid isPermaLink='false'>vercel:1dp8c0nfchtg:opened:investigating:major:2026-10-06T16:10:59.135000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 16:13:37 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: investigating · Affects: Routing Middleware · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>We are investigating an issue causing Vercel Auth login failures for pages with Deployment Protection enabled. We will provide an update as more information becomes available.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
 <link>https://status.ai21.com</link>
 <guid isPermaLink='false'>meta:ai21:recovered:2026-10-06T13:00:00+00:00</guid>
@@ -944,14 +952,6 @@
 <pubDate>Thu, 10 Sep 2026 11:30:25 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Thu, 10 Sep 2026 11:30:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/27glfwtyyhrg">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/7z953l3y4ktr</link>
-<guid isPermaLink='false'>moonshot:nlfywd6vg5hk:resolved:resolved:critical:2026-09-09T06:46:12.429000+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 07:00:26 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 1 min · Opened: Wed, 09 Sep 2026 06:45:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/7z953l3y4ktr">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
