@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
+<link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
+<guid isPermaLink='false'>openai:01M48PT6B8SDTW023NC9XZTBC0:opened:investigating:minor:2026-10-06T13:35:25+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 13:45:46 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates in ChatGPT Go conversations</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 13:35:25 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 ElevenLabs lives. Pick your tools back up.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
 <guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:resolved:resolved:major:2026-10-06T12:51:21+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 20 Sep 2026 23:30:20 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: minor · Status: resolved · Affects: Pull Requests · Duration: 1h 08m · Opened: Sun, 20 Sep 2026 22:13:37 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/cx8xcm6k8f9s">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/cx8xcm6k8f9s</link>
-<guid isPermaLink='false'>github:f6yrxnz5f7bs:progress:monitoring:minor:2026-09-20T22:27:28.785000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 22:30:15 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: minor · Status: monitoring · Affects: Pull Requests · Opened: Sun, 20 Sep 2026 22:13:37 +0000</p><p>The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/cx8xcm6k8f9s">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

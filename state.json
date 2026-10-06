@@ -2,7 +2,9 @@
  "heartbeat": "2026-10-06T13:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-06T13:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
   "anthropic": {
    "consecutive_failures": 0
@@ -11,9 +13,7 @@
    "consecutive_failures": 0
   },
   "cerebras": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-06T13:00:00+00:00",
-   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cohere": {
    "consecutive_failures": 0
@@ -60,17 +60,13 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-06T13:00:00+00:00",
-   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "vercel": {
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-06T13:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
@@ -4327,6 +4323,12 @@
    "last_seen_at": "2026-10-06T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-06T03:17:12+00:00"
+  },
+  "openai:01M48PT6B8SDTW023NC9XZTBC0": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-06T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-06T13:35:25+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
