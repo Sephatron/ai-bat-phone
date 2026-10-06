@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI knows what it did]]></title>
+<link>https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X</link>
+<guid isPermaLink='false'>openai:01M48Y8E81QAFF9XKVGE118E6X:progress:identified:minor:2026-10-06T16:39:49+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 16:45:29 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Errors processing large PDFs in the Responses API</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 06 Oct 2026 15:45:31 +0000</p><p>We are implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Vercel is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/l76txmwrzdcp</link>
 <guid isPermaLink='false'>vercel:1dp8c0nfchtg:resolved:resolved:major:2026-10-06T16:26:49.403000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 02:45:12 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 37m · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/90s4l9yywzbk</link>
-<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:progress:monitoring:major:2026-09-22T02:11:43.778000+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 02:15:14 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>We have seen success rates return to normal across affected models, and are monitoring closely to ensure no further issues.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
