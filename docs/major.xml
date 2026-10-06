@@ -953,13 +953,5 @@
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 1 min · Opened: Wed, 09 Sep 2026 06:45:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/7z953l3y4ktr">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is out. Go and look at a tree.]]></title>
-<link>https://stspg.io/7z953l3y4ktr</link>
-<guid isPermaLink='false'>moonshot:nlfywd6vg5hk:opened:investigating:critical:2026-09-09T06:45:12.462000+00:00</guid>
-<pubDate>Wed, 09 Sep 2026 06:45:27 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Wed, 09 Sep 2026 06:45:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/7z953l3y4ktr">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

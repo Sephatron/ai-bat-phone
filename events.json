@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for the listed services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M48Y8E81QAFF9XKVGE118E6X:opened:investigating:minor:2026-10-06T15:45:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M48Y8E81QAFF9XKVGE118E6X",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-06T15:45:37.777540+00:00",
+  "started_at": "2026-10-06T15:45:31+00:00",
+  "status": "investigating",
+  "title": "Errors processing large PDFs in the Responses API",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",
@@ -7644,26 +7662,6 @@
   "status": "resolved",
   "title": "搜索请求出现大量报错",
   "transition": "resolved",
-  "url": "https://stspg.io/7z953l3y4ktr"
- },
- {
-  "body": "搜索请求报错率超过20%，持续超过1分钟",
-  "components": [
-   "Search"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) is out. Go and look at a tree.",
-  "id": "moonshot:nlfywd6vg5hk:opened:investigating:critical:2026-09-09T06:45:12.462000+00:00",
-  "impact": "critical",
-  "incident_id": "nlfywd6vg5hk",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-09-09T06:45:27.828864+00:00",
-  "started_at": "2026-09-09T06:45:12.366000+00:00",
-  "status": "investigating",
-  "title": "搜索请求出现大量报错",
-  "transition": "opened",
   "url": "https://stspg.io/7z953l3y4ktr"
  }
 ]
