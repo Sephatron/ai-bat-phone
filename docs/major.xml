@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is upright again. That took 2h 39m.]]></title>
+<link>https://stspg.io/s72y0jp0bgtt</link>
+<guid isPermaLink='false'>cursor:bccntkmymws0:resolved:resolved:major:2026-10-06T22:06:44.656000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 22:15:30 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 2h 39m · Opened: Tue, 06 Oct 2026 19:27:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/s72y0jp0bgtt">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
 <link>https://stspg.io/w3rcssslq22w</link>
 <guid isPermaLink='false'>github:cjwszcf57bff:escalated:investigating:critical:2026-10-06T21:29:46.920000+00:00</guid>
@@ -1000,22 +1008,6 @@
 <pubDate>Thu, 10 Sep 2026 11:45:22 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Thu, 10 Sep 2026 11:45:13 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/m12qwdbbpy50">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Moonshot AI (Kimi) after 5 min]]></title>
-<link>https://stspg.io/27glfwtyyhrg</link>
-<guid isPermaLink='false'>moonshot:fvvxtzvbk64p:resolved:resolved:critical:2026-09-10T11:35:12.094000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 11:45:22 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 5 min · Opened: Thu, 10 Sep 2026 11:30:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/27glfwtyyhrg">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is out. Go and look at a tree.]]></title>
-<link>https://stspg.io/27glfwtyyhrg</link>
-<guid isPermaLink='false'>moonshot:fvvxtzvbk64p:opened:investigating:critical:2026-09-10T11:30:12.128000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 11:30:25 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Thu, 10 Sep 2026 11:30:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/27glfwtyyhrg">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

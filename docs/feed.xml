@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is upright again. That took 2h 39m.]]></title>
+<link>https://stspg.io/s72y0jp0bgtt</link>
+<guid isPermaLink='false'>cursor:bccntkmymws0:resolved:resolved:major:2026-10-06T22:06:44.656000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 22:15:30 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 2h 39m · Opened: Tue, 06 Oct 2026 19:27:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/s72y0jp0bgtt">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 Replit thinks it's fixed and is watching nervously]]></title>
+<link>https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432</link>
+<guid isPermaLink='false'>replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:progress:monitoring:minor:2026-10-06T22:15:30.221811+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 22:15:30 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Connectors platform latency</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 22:08:07 +0000</p><p>[Monitoring] We have identified and resolved the latency issue, now monitoring to make sure it's completely resolved.</p><p><a href="https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Replit has found the culprit]]></title>
 <link>https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36</link>
 <guid isPermaLink='false'>replit:264a6aa0-4fde-421a-81cb-71c8ab080e36:opened:identified:minor:2026-10-06T22:00:33.708825+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 10:00:28 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT across Plus and Pro plans.</strong></p><p>Impact: minor · Status: resolved · Duration: 41 min · Opened: Wed, 23 Sep 2026 09:13:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1</link>
-<guid isPermaLink='false'>openai:01M36RMC01ZFWQ861WYJKC4XE1:opened:identified:minor:2026-09-23T09:13:00+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 09:15:19 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT across Plus and Pro plans.</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 23 Sep 2026 09:13:00 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
-<link>https://status.deepseek.com/incidents/7020391134287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7020391134287:resolved:resolved:minor:2026-09-23T07:45:11.827744+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 07:45:11 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice) · Opened: Wed, 23 Sep 2026 07:35:33 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7020391134287">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
