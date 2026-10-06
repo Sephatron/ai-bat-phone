@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-06T22:00:00+00:00",
+ "heartbeat": "2026-10-06T23:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -1574,6 +1574,12 @@
    "status": "resolved",
    "updated_at": "2026-07-27T11:42:59.955000+00:00"
   },
+  "cursor:lft9b2dfmfsy": {
+   "impact": "major",
+   "last_seen_at": "2026-10-06T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-06T22:54:59.230000+00:00"
+  },
   "cursor:lh1fpdkb4kcp": {
    "impact": "minor",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
@@ -2616,7 +2622,7 @@
    "impact": "critical",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-05T22:49:42.685000+00:00"
+   "updated_at": "2026-10-06T22:48:02.341000+00:00"
   },
   "github:53t2nlxs8016": {
    "impact": "maintenance",

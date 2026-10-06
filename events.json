@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are currently investigating this issue. We will provide updates as more information becomes available.",
+  "components": [
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🔴 Tools down: Cursor is broken",
+  "id": "cursor:lft9b2dfmfsy:opened:investigating:major:2026-10-06T22:54:59.230000+00:00",
+  "impact": "major",
+  "incident_id": "lft9b2dfmfsy",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-06T23:00:33.348185+00:00",
+  "started_at": "2026-10-06T22:48:00+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation — Cloud Agents",
+  "transition": "opened",
+  "url": "https://stspg.io/d264y501jym3"
+ },
+ {
   "body": "[Resolved] We've rolled back successfully and all monitors related to this connection issue have resolved.",
   "components": [],
   "duration": "",
@@ -7662,25 +7683,5 @@
   "title": "Unable to open shared ChatGPT Project using direct link",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Search"
-  ],
-  "duration": "under a minute",
-  "headline": "🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.",
-  "id": "moonshot:8r4x8clzcf9z:resolved:resolved:critical:2026-09-10T11:46:13.217000+00:00",
-  "impact": "critical",
-  "incident_id": "8r4x8clzcf9z",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-09-10T11:47:33.280897+00:00",
-  "started_at": "2026-09-10T11:45:13.250000+00:00",
-  "status": "resolved",
-  "title": "搜索请求出现大量报错",
-  "transition": "resolved",
-  "url": "https://stspg.io/m12qwdbbpy50"
  }
 ]
