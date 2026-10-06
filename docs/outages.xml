@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
+<link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
+<guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:progress:monitoring:minor:2026-10-06T11:38:21+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 11:45:33 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>increase in latency</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 09:09:18 +0000</p><p>A fix has been implemented for the elevated latency affecting some TTS requests. We are currently monitoring the results to confirm the issue is resolved.</p><p><a href="https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔺 It got worse: ElevenLabs is now a major outage]]></title>
 <link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
 <guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:escalated:investigating:major:2026-10-06T10:28:05+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 17:15:12 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Kimi K3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 5 min · Opened: Sat, 19 Sep 2026 16:58:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0</link>
-<guid isPermaLink='false'>fireworks:01M2X9P4QGG4V22SVWTEACW1D0:opened:investigating:minor:2026-09-19T16:58:40+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 17:00:24 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 19 Sep 2026 16:58:40 +0000</p><p>We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
