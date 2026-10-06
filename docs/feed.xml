@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W</link>
+<guid isPermaLink='false'>openai:01M46KED6KQ6PR195KZYYVNY8W:resolved:resolved:none:2026-10-06T08:22:49+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 08:30:32 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates in Codex Cloud</strong></p><p>Impact: unclassified · Status: resolved · Duration: 14h 24m · Opened: Mon, 05 Oct 2026 17:58:04 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z</link>
+<guid isPermaLink='false'>openai:01M45E0JFFJZ6EQ3BWYPW74R2Z:resolved:resolved:minor:2026-10-06T08:29:05+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 08:30:32 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated Work Mode errors</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 1h · Opened: Mon, 05 Oct 2026 07:03:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ</link>
 <guid isPermaLink='false'>openai:01M47HC9SGHGFPBN44KGC6SKAQ:resolved:resolved:minor:2026-10-06T03:17:12+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 10:45:30 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Sat, 19 Sep 2026 10:36:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/tkxhwsx13k4w">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
-<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:resolved:resolved:none:2026-09-19T07:52:40+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 08:00:23 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: resolved · Duration: 9h 22m · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96</link>
-<guid isPermaLink='false'>fireworks:01M2W0JTY0Z7KNA1TQKKV6EH96:resolved:resolved:minor:2026-09-19T05:08:50+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 05:15:17 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 8 min · Opened: Sat, 19 Sep 2026 05:00:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
