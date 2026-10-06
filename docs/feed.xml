@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 06 Oct 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
+<guid isPermaLink='false'>openai:01M48PT6B8SDTW023NC9XZTBC0:progress:monitoring:minor:2026-10-06T13:53:57+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 14:00:34 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates in ChatGPT Go conversations</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 13:35:25 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
 <link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 21 Sep 2026 15:45:18 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some users are seeing web search fail when the agent uses it</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 21m · Opened: Mon, 21 Sep 2026 14:10:00 +0000</p><p>This issue has been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Lovable has found the culprit]]></title>
-<link>https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ</link>
-<guid isPermaLink='false'>lovable:01M324TRMEC1SE7YZSPNE9TTVJ:opened:identified:minor:2026-09-21T14:10:00+00:00</guid>
-<pubDate>Mon, 21 Sep 2026 14:15:15 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some users are seeing web search fail when the agent uses it</strong></p><p>Impact: minor · Status: identified · Opened: Mon, 21 Sep 2026 14:10:00 +0000</p><p>Some users are seeing web search fail when the agent uses it. We are investigating with one of our providers.</p><p><a href="https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

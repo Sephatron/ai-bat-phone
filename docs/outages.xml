@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 06 Oct 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
+<guid isPermaLink='false'>openai:01M48PT6B8SDTW023NC9XZTBC0:progress:monitoring:minor:2026-10-06T13:53:57+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 14:00:34 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates in ChatGPT Go conversations</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 13:35:25 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
 <link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 21 Sep 2026 06:45:16 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Mon, 21 Sep 2026 06:39:00 +0000</p><p>We are investigating degraded performance for requests that use Grok 4.6. Users may see failed or retried requests in Automations, Cloud Agents, the CLI, and the IDE when Grok 4.6 is used. Other models are unaffected.</p><p><a href="https://stspg.io/lfp649kkrqs0">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 1h 08m]]></title>
-<link>https://stspg.io/cx8xcm6k8f9s</link>
-<guid isPermaLink='false'>github:f6yrxnz5f7bs:resolved:resolved:minor:2026-09-20T23:22:16.725000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 23:30:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: minor · Status: resolved · Affects: Pull Requests · Duration: 1h 08m · Opened: Sun, 20 Sep 2026 22:13:37 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/cx8xcm6k8f9s">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
