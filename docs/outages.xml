@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is upright again. That took 16 min.]]></title>
+<link>https://stspg.io/d264y501jym3</link>
+<guid isPermaLink='false'>cursor:lft9b2dfmfsy:resolved:resolved:major:2026-10-06T23:04:57.505000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 23:15:35 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents</strong></p><p>Impact: major · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 16 min · Opened: Tue, 06 Oct 2026 22:48:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/d264y501jym3">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
 <link>https://stspg.io/d264y501jym3</link>
 <guid isPermaLink='false'>cursor:lft9b2dfmfsy:opened:investigating:major:2026-10-06T22:54:59.230000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 10:00:28 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT across Plus and Pro plans.</strong></p><p>Impact: minor · Status: resolved · Duration: 41 min · Opened: Wed, 23 Sep 2026 09:13:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1</link>
-<guid isPermaLink='false'>openai:01M36RMC01ZFWQ861WYJKC4XE1:opened:identified:minor:2026-09-23T09:13:00+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 09:15:19 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT across Plus and Pro plans.</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 23 Sep 2026 09:13:00 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

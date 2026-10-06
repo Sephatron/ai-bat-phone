@@ -1577,8 +1577,8 @@
   "cursor:lft9b2dfmfsy": {
    "impact": "major",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-06T22:54:59.230000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-06T23:04:57.505000+00:00"
   },
   "cursor:lh1fpdkb4kcp": {
    "impact": "minor",
