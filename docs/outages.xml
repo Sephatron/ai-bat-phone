@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 06 Oct 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub is having a wobble]]></title>
+<link>https://stspg.io/w3rcssslq22w</link>
+<guid isPermaLink='false'>github:cjwszcf57bff:opened:investigating:minor:2026-10-06T19:57:35.582000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 20:00:32 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Several services are degraded</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks, Pull Requests · Opened: Tue, 06 Oct 2026 19:57:35 +0000</p><p>We are investigating reports of degraded performance for Pull Requests and Webhooks</p><p><a href="https://stspg.io/w3rcssslq22w">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Minor grumbles from Replit]]></title>
 <link>https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 10:45:13 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Increased error rate for Plus and Pro users.</strong></p><p>Impact: minor · Status: resolved · Duration: 39 min · Opened: Tue, 22 Sep 2026 09:58:28 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
-<link>https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV</link>
-<guid isPermaLink='false'>openai:01M348TX2DX7KPM9X857N4APNV:opened:investigating:minor:2026-09-22T09:58:28+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 10:00:16 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Increased error rate for Plus and Pro users.</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 22 Sep 2026 09:58:28 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M348TX2DX7KPM9X857N4APNV">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Pull Requests and Webhooks",
+  "components": [
+   "Webhooks",
+   "Pull Requests"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub is having a wobble",
+  "id": "github:cjwszcf57bff:opened:investigating:minor:2026-10-06T19:57:35.582000+00:00",
+  "impact": "minor",
+  "incident_id": "cjwszcf57bff",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-06T20:00:32.945550+00:00",
+  "started_at": "2026-10-06T19:57:35.439000+00:00",
+  "status": "investigating",
+  "title": "Several services are degraded",
+  "transition": "opened",
+  "url": "https://stspg.io/w3rcssslq22w"
+ },
+ {
   "body": "[Investigating] We are currently seeing increased latency for connectors requests.",
   "components": [],
   "duration": "",
@@ -7655,25 +7676,5 @@
   "title": "Stripe Whop Google connectors are having issues",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/5c864a49-1235-4ac0-8a04-c981a56a6d85"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "9 min",
-  "headline": "🟢 Baseten has stopped wobbling",
-  "id": "baseten:5khtpsscbx6x:resolved:resolved:minor:2026-09-09T17:52:20.843000+00:00",
-  "impact": "minor",
-  "incident_id": "5khtpsscbx6x",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-09T18:00:51.808932+00:00",
-  "started_at": "2026-09-09T17:42:43.516000+00:00",
-  "status": "resolved",
-  "title": "Partial outage on Nemotron Ultra Model API. **Dedicated Inference is not affected**",
-  "transition": "resolved",
-  "url": "https://stspg.io/rsb0980gvck0"
  }
 ]
