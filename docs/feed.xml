@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
+<link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
+<guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:progress:monitoring:major:2026-10-06T12:14:40+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 12:15:32 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>Error rates have returned to normal. We're currently monitoring the situation to confirm that the issue has been resolved</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 ElevenLabs sorted itself out after 3h 05m]]></title>
+<link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
+<guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:resolved:resolved:minor:2026-10-06T12:14:21+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 12:15:32 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>increase in latency</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 05m · Opened: Tue, 06 Oct 2026 09:09:18 +0000</p><p>The issue has been resolved, latency is back to normal.</p><p><a href="https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
 <link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
 <guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:progress:monitoring:minor:2026-10-06T11:38:21+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sun, 20 Sep 2026 22:15:46 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: minor · Status: investigating · Affects: Pull Requests · Opened: Sun, 20 Sep 2026 22:13:37 +0000</p><p>We are investigating reports of degraded performance for Pull Requests</p><p><a href="https://stspg.io/cx8xcm6k8f9s">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/h2pvtp3x3np1</link>
-<guid isPermaLink='false'>baseten:53lh9mv05wmt:resolved:resolved:major:2026-09-20T08:13:44.255000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 08:15:17 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Kimi K3 Model API outage</strong></p><p>Impact: major · Status: resolved · Affects: Model APIs · Duration: 54 min · Opened: Sun, 20 Sep 2026 07:19:01 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/h2pvtp3x3np1">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Baseten knows what it did]]></title>
-<link>https://stspg.io/h2pvtp3x3np1</link>
-<guid isPermaLink='false'>baseten:53lh9mv05wmt:opened:identified:major:2026-09-20T07:19:01.348000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 07:30:29 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Kimi K3 Model API outage</strong></p><p>Impact: major · Status: identified · Affects: Model APIs · Opened: Sun, 20 Sep 2026 07:19:01 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/h2pvtp3x3np1">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
+<link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
+<guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:progress:monitoring:major:2026-10-06T12:14:40+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 12:15:32 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>Error rates have returned to normal. We're currently monitoring the situation to confirm that the issue has been resolved</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 ElevenLabs sorted itself out after 3h 05m]]></title>
+<link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
+<guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:resolved:resolved:minor:2026-10-06T12:14:21+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 12:15:32 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>increase in latency</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 05m · Opened: Tue, 06 Oct 2026 09:09:18 +0000</p><p>The issue has been resolved, latency is back to normal.</p><p><a href="https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
 <link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
 <guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:progress:monitoring:minor:2026-10-06T11:38:21+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 20:15:19 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Degraded performance enabling Lovable Cloud</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Sat, 19 Sep 2026 19:47:11 +0000</p><p>Enabling Lovable Cloud for projects has returned to normal success rates.</p><p><a href="https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Lovable thinks it's fixed and is watching nervously]]></title>
-<link>https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M</link>
-<guid isPermaLink='false'>lovable:01M2XKAPSA07Z05BYHS0J8MN1M:opened:monitoring:minor:2026-09-19T19:54:59+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 20:00:19 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Degraded performance enabling Lovable Cloud</strong></p><p>Impact: minor · Status: monitoring · Opened: Sat, 19 Sep 2026 19:47:11 +0000</p><p>We're seeing signs of recovery and will continue to monitor. Success rates for enabling Lovable Cloud are returning to normal levels.</p><p><a href="https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 5 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0</link>
-<guid isPermaLink='false'>fireworks:01M2X9P4QGG4V22SVWTEACW1D0:resolved:resolved:minor:2026-09-19T17:04:04+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 17:15:12 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 5 min · Opened: Sat, 19 Sep 2026 16:58:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

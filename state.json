@@ -2165,14 +2165,14 @@
   "elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ": {
    "impact": "minor",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-06T11:38:21+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-06T12:14:21+00:00"
   },
   "elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y": {
    "impact": "major",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-06T11:21:34+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-06T12:14:40+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
