@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue has been resolved. EU SIP services are operational and stable.",
+  "components": [],
+  "duration": "2h 23m",
+  "headline": "🟢 ElevenLabs lives. Pick your tools back up.",
+  "id": "elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:resolved:resolved:major:2026-10-06T12:51:21+00:00",
+  "impact": "major",
+  "incident_id": "01M48C36FW1EZ6FFQYEXJKMT2Y",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-06T13:01:13.570835+00:00",
+  "started_at": "2026-10-06T10:28:05+00:00",
+  "status": "resolved",
+  "title": "EU Agents disruption in SIP calls",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y"
+ },
+ {
   "body": "We are investigating a service degradation affecting Opus 5.5. More information: https://status.claude.com/incidents/ch27pb90bn85",
   "components": [
    "Automations",
@@ -7647,23 +7665,5 @@
   "title": "Elevated errors for image generation",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M20PYYYGRT9303VHAPA7YNT2"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M20QBACYZMK2PRCJQCBSWTYJ:progress:monitoring:minor:2026-09-08T17:48:38+00:00",
-  "impact": "minor",
-  "incident_id": "01M20QBACYZMK2PRCJQCBSWTYJ",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-08T18:00:28.470982+00:00",
-  "started_at": "2026-09-08T14:39:27+00:00",
-  "status": "monitoring",
-  "title": "File uploads are delayed or failing",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M20QBACYZMK2PRCJQCBSWTYJ"
  }
 ]
