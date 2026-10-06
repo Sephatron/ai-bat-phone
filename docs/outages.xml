@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 06 Oct 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 Replit has found the culprit]]></title>
+<link>https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36</link>
+<guid isPermaLink='false'>replit:264a6aa0-4fde-421a-81cb-71c8ab080e36:opened:identified:minor:2026-10-06T22:00:33.708825+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 22:00:33 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Connection errors affecting some customers</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 06 Oct 2026 21:53:11 +0000</p><p>[Identified] We're currently investigating connection issues affecting some customers. We've identified the root cause and rolling back across all affected customers.</p><p><a href="https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36">Replit status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
 <link>https://stspg.io/w3rcssslq22w</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 21:45:12 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Connectors are not showing as healthy</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 22 Sep 2026 21:44:47 +0000</p><p>[Investigating] We're aware of an issue where some connectors display as "healthy" in the a project while the underlying agent reports them as "not set up." Attempting to remove an affected connection currently returns a 401 error. We're investigating and will post updates here.</p><p><a href="https://status.replit.com/incidents/810fa950-3785-43e9-b51d-7e2f6eda7d1c">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8</link>
-<guid isPermaLink='false'>openai:01M34TAFM9WBGEBE3G1GBH4SE8:resolved:resolved:minor:2026-09-22T15:58:32+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 16:00:19 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: resolved · Duration: 54 min · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

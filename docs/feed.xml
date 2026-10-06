@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 06 Oct 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 Replit has found the culprit]]></title>
+<link>https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36</link>
+<guid isPermaLink='false'>replit:264a6aa0-4fde-421a-81cb-71c8ab080e36:opened:identified:minor:2026-10-06T22:00:33.708825+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 22:00:33 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Connection errors affecting some customers</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 06 Oct 2026 21:53:11 +0000</p><p>[Identified] We're currently investigating connection issues affecting some customers. We've identified the root cause and rolling back across all affected customers.</p><p><a href="https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36">Replit status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
 <link>https://stspg.io/w3rcssslq22w</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 07:45:11 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice) · Opened: Wed, 23 Sep 2026 07:35:33 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7020391134287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 DeepSeek is having a wobble]]></title>
-<link>https://status.deepseek.com/incidents/7020391134287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7020391134287:opened:investigating:minor:2026-09-23T07:41:02.108121+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 07:41:02 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 部分中断（DeepSeek Web/API partially unavailable)</strong></p><p>Impact: minor · Status: investigating · Affects: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service) · Opened: Wed, 23 Sep 2026 07:35:33 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7020391134287">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
