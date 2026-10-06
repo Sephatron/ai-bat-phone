@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
+<link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
+<guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:opened:investigating:minor:2026-10-06T09:09:18+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 09:15:38 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>increase in latency</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 09:09:18 +0000</p><p>We are investigating elevated latency affecting a small percentage of text-to-speech (TTS) requests. We will share an update as soon as we have more information.</p><p><a href="https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 Vercel knows what it did]]></title>
+<link>https://stspg.io/sgzd0v141vpk</link>
+<guid isPermaLink='false'>vercel:xr8lx0kncx0g:opened:identified:minor:2026-10-06T09:12:06.931000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 09:15:38 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Elevated Sandbox error rates in Paris (cdg1)</strong></p><p>Impact: minor · Status: identified · Affects: Sandbox · Opened: Tue, 06 Oct 2026 09:12:06 +0000</p><p>We've identified an issue where some customers may experience elevated error rates with Sandbox in Paris, France (cdg1). We are currently investigating this issue. We will share updates as they become available.</p><p><a href="https://stspg.io/sgzd0v141vpk">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W</link>
 <guid isPermaLink='false'>openai:01M46KED6KQ6PR195KZYYVNY8W:resolved:resolved:none:2026-10-06T08:22:49+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 19 Sep 2026 08:00:23 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: resolved · Duration: 9h 22m · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96</link>
-<guid isPermaLink='false'>fireworks:01M2W0JTY0Z7KNA1TQKKV6EH96:resolved:resolved:minor:2026-09-19T05:08:50+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 05:15:17 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 8 min · Opened: Sat, 19 Sep 2026 05:00:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D</link>
-<guid isPermaLink='false'>openai:01M2VA7X37P1ASADSNZ1CG4N4D:progress:monitoring:none:2026-09-19T05:00:57+00:00</guid>
-<pubDate>Sat, 19 Sep 2026 05:15:17 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Overbilling for OpenAI-hosted containers in the Agent API</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 18 Sep 2026 22:29:53 +0000</p><p>We have applied the mitigation, and any new sessions would not run into this issue. We are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

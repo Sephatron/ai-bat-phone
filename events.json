@@ -1,5 +1,43 @@
 [
  {
+  "body": "We are investigating elevated latency affecting a small percentage of text-to-speech (TTS) requests. We will share an update as soon as we have more information.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is having a wobble",
+  "id": "elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:opened:investigating:minor:2026-10-06T09:09:18+00:00",
+  "impact": "minor",
+  "incident_id": "01M487JY3TE2QWKZRWB4W9ACVJ",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-06T09:15:38.334586+00:00",
+  "started_at": "2026-10-06T09:09:18+00:00",
+  "status": "investigating",
+  "title": "increase in latency",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ"
+ },
+ {
+  "body": "We've identified an issue where some customers may experience elevated error rates with Sandbox in Paris, France (cdg1). We are currently investigating this issue. We will share updates as they become available.",
+  "components": [
+   "Sandbox"
+  ],
+  "duration": "",
+  "headline": "🔍 Vercel knows what it did",
+  "id": "vercel:xr8lx0kncx0g:opened:identified:minor:2026-10-06T09:12:06.931000+00:00",
+  "impact": "minor",
+  "incident_id": "xr8lx0kncx0g",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-10-06T09:15:38.334586+00:00",
+  "started_at": "2026-10-06T09:12:06.674000+00:00",
+  "status": "identified",
+  "title": "Elevated Sandbox error rates in Paris (cdg1)",
+  "transition": "opened",
+  "url": "https://stspg.io/sgzd0v141vpk"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "14h 24m",
@@ -7618,41 +7656,5 @@
   "title": "Grok Bot computers unreachable for some users",
   "transition": "opened",
   "url": "https://stspg.io/2h04kqhqq9jw"
- },
- {
-  "body": "Service has been fully restored to remaining affected areas. We will share further details on the cause.",
-  "components": [],
-  "duration": "4h 03m",
-  "headline": "🟢 ElevenLabs has stopped wobbling",
-  "id": "elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:resolved:resolved:none:2026-09-07T07:20:19+00:00",
-  "impact": "none",
-  "incident_id": "01M1WXXBDAXDYPJNWX21HM96KK",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-07T09:38:56.233682+00:00",
-  "started_at": "2026-09-07T03:17:11+00:00",
-  "status": "resolved",
-  "title": "ElevenReader Elevated Error Rates",
-  "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK"
- },
- {
-  "body": "We're currently investigating an elevated error rate occurring with ElevenReader. Some pages may fail to load, or the app may be inaccessible.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 ElevenLabs has a limp, not a break",
-  "id": "elevenlabs:01M1WXXBDAXDYPJNWX21HM96KK:opened:investigating:none:2026-09-07T03:17:11+00:00",
-  "impact": "none",
-  "incident_id": "01M1WXXBDAXDYPJNWX21HM96KK",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-07T04:25:29.090844+00:00",
-  "started_at": "2026-09-07T03:17:11+00:00",
-  "status": "investigating",
-  "title": "ElevenReader Elevated Error Rates",
-  "transition": "opened",
-  "url": "https://status.elevenlabs.io/incidents/01M1WXXBDAXDYPJNWX21HM96KK"
  }
 ]

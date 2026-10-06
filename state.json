@@ -2162,6 +2162,12 @@
    "status": "resolved",
    "updated_at": "2026-09-30T14:06:07+00:00"
   },
+  "elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-06T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-06T09:09:18+00:00"
+  },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
    "last_seen_at": "2026-09-05T00:00:00+00:00",
@@ -5401,6 +5407,12 @@
    "last_seen_at": "2026-10-06T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-16T09:27:19.511000+00:00"
+  },
+  "vercel:xr8lx0kncx0g": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-06T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-10-06T09:12:06.931000+00:00"
   },
   "vercel:xxfj4qsz4qk6": {
    "impact": "minor",
