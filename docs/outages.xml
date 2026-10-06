@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
+<link>https://stspg.io/w3rcssslq22w</link>
+<guid isPermaLink='false'>github:cjwszcf57bff:escalated:investigating:critical:2026-10-06T21:29:46.920000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 21:30:34 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Several services are degraded</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Pull Requests · Opened: Tue, 06 Oct 2026 19:57:35 +0000</p><p>We are working towards a mitigation that will allow us to resume processing enterprise migrations.</p><p><a href="https://stspg.io/w3rcssslq22w">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub: Several services are degraded]]></title>
 <link>https://stspg.io/w3rcssslq22w</link>
 <guid isPermaLink='false'>github:cjwszcf57bff:progress:investigating:minor:2026-10-06T20:57:19.848000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 22 Sep 2026 16:00:19 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: resolved · Duration: 54 min · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8</link>
-<guid isPermaLink='false'>openai:01M34TAFM9WBGEBE3G1GBH4SE8:progress:monitoring:minor:2026-09-22T15:26:41+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 15:30:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 22 Sep 2026 15:04:05 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1428,7 +1428,7 @@
    "impact": "major",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-06T19:27:23.428000+00:00"
+   "updated_at": "2026-10-06T21:27:39.497000+00:00"
   },
   "cursor:bfcck6qks18q": {
    "impact": "minor",
@@ -2757,10 +2757,10 @@
    "updated_at": "2026-10-05T18:49:35.685000+00:00"
   },
   "github:cjwszcf57bff": {
-   "impact": "minor",
+   "impact": "critical",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-06T20:57:19.848000+00:00"
+   "updated_at": "2026-10-06T21:29:46.920000+00:00"
   },
   "github:cz2k50kvfwsw": {
    "impact": "maintenance",
