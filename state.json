@@ -203,8 +203,8 @@
   "anthropic:ch27pb90bn85": {
    "impact": "major",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-06T12:24:33.005000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-06T12:43:03.020000+00:00"
   },
   "anthropic:ch7k4vh9fr1y": {
    "impact": "minor",
@@ -1687,6 +1687,12 @@
    "last_seen_at": "2026-10-06T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-24T16:33:46.735000+00:00"
+  },
+  "cursor:w865g74p3k6g": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-06T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-06T12:40:52.116000+00:00"
   },
   "cursor:wc6nnyw1pqq9": {
    "impact": "minor",

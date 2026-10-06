@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
+<link>https://stspg.io/qkz3yd9rsm13</link>
+<guid isPermaLink='false'>cursor:w865g74p3k6g:opened:investigating:minor:2026-10-06T12:40:52.116000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 12:45:39 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting Anthropic models</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Tue, 06 Oct 2026 12:40:51 +0000</p><p>We are investigating a service degradation affecting Opus 5.5. More information: https://status.claude.com/incidents/ch27pb90bn85</p><p><a href="https://stspg.io/qkz3yd9rsm13">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Claude is upright again. That took 18 min.]]></title>
+<link>https://stspg.io/bzc81gbv1b99</link>
+<guid isPermaLink='false'>anthropic:ch27pb90bn85:resolved:resolved:major:2026-10-06T12:43:03.020000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 12:45:39 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Opus 5.5</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 18 min · Opened: Tue, 06 Oct 2026 12:24:32 +0000</p><p>The issue affecting Claude Opus 5.5 has been resolved.</p><p><a href="https://stspg.io/bzc81gbv1b99">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/bzc81gbv1b99</link>
 <guid isPermaLink='false'>anthropic:ch27pb90bn85:opened:investigating:major:2026-10-06T12:24:33.005000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Mon, 21 Sep 2026 06:45:16 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Mon, 21 Sep 2026 06:39:00 +0000</p><p>We are investigating degraded performance for requests that use Grok 4.6. Users may see failed or retried requests in Automations, Cloud Agents, the CLI, and the IDE when Grok 4.6 is used. Other models are unaffected.</p><p><a href="https://stspg.io/lfp649kkrqs0">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 1h 08m]]></title>
-<link>https://stspg.io/cx8xcm6k8f9s</link>
-<guid isPermaLink='false'>github:f6yrxnz5f7bs:resolved:resolved:minor:2026-09-20T23:22:16.725000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 23:30:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: minor · Status: resolved · Affects: Pull Requests · Duration: 1h 08m · Opened: Sun, 20 Sep 2026 22:13:37 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/cx8xcm6k8f9s">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/cx8xcm6k8f9s</link>
-<guid isPermaLink='false'>github:f6yrxnz5f7bs:progress:monitoring:minor:2026-09-20T22:27:28.785000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 22:30:15 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: minor · Status: monitoring · Affects: Pull Requests · Opened: Sun, 20 Sep 2026 22:13:37 +0000</p><p>The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/cx8xcm6k8f9s">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
+<link>https://stspg.io/qkz3yd9rsm13</link>
+<guid isPermaLink='false'>cursor:w865g74p3k6g:opened:investigating:minor:2026-10-06T12:40:52.116000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 12:45:39 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting Anthropic models</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Tue, 06 Oct 2026 12:40:51 +0000</p><p>We are investigating a service degradation affecting Opus 5.5. More information: https://status.claude.com/incidents/ch27pb90bn85</p><p><a href="https://stspg.io/qkz3yd9rsm13">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Claude is upright again. That took 18 min.]]></title>
+<link>https://stspg.io/bzc81gbv1b99</link>
+<guid isPermaLink='false'>anthropic:ch27pb90bn85:resolved:resolved:major:2026-10-06T12:43:03.020000+00:00</guid>
+<pubDate>Tue, 06 Oct 2026 12:45:39 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Opus 5.5</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 18 min · Opened: Tue, 06 Oct 2026 12:24:32 +0000</p><p>The issue affecting Claude Opus 5.5 has been resolved.</p><p><a href="https://stspg.io/bzc81gbv1b99">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/bzc81gbv1b99</link>
 <guid isPermaLink='false'>anthropic:ch27pb90bn85:opened:investigating:major:2026-10-06T12:24:33.005000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sun, 20 Sep 2026 22:15:46 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: minor · Status: investigating · Affects: Pull Requests · Opened: Sun, 20 Sep 2026 22:13:37 +0000</p><p>We are investigating reports of degraded performance for Pull Requests</p><p><a href="https://stspg.io/cx8xcm6k8f9s">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/h2pvtp3x3np1</link>
-<guid isPermaLink='false'>baseten:53lh9mv05wmt:resolved:resolved:major:2026-09-20T08:13:44.255000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 08:15:17 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Kimi K3 Model API outage</strong></p><p>Impact: major · Status: resolved · Affects: Model APIs · Duration: 54 min · Opened: Sun, 20 Sep 2026 07:19:01 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/h2pvtp3x3np1">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Baseten knows what it did]]></title>
-<link>https://stspg.io/h2pvtp3x3np1</link>
-<guid isPermaLink='false'>baseten:53lh9mv05wmt:opened:identified:major:2026-09-20T07:19:01.348000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 07:30:29 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Kimi K3 Model API outage</strong></p><p>Impact: major · Status: identified · Affects: Model APIs · Opened: Sun, 20 Sep 2026 07:19:01 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/h2pvtp3x3np1">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
