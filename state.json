@@ -1,21 +1,17 @@
 {
- "heartbeat": "2026-10-06T16:00:00+00:00",
+ "heartbeat": "2026-10-06T17:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-10-06T16:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-10-06T16:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cerebras": {
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "failing_since": "2026-10-06T16:00:00+00:00",
    "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
   },
@@ -47,7 +43,9 @@
    "consecutive_failures": 0
   },
   "moonshot": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-06T17:00:00+00:00",
+   "last_error": "https://status.moonshot.cn/api/v2/incidents.json: The read operation timed out"
   },
   "openai": {
    "consecutive_failures": 0
@@ -64,9 +62,7 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-06T16:00:00+00:00",
-   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "vercel": {
    "consecutive_failures": 0
