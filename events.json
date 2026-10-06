@@ -1,5 +1,26 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Webhooks",
+   "Pull Requests"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:cjwszcf57bff:progress:monitoring:minor:2026-10-06T20:26:46.471000+00:00",
+  "impact": "minor",
+  "incident_id": "cjwszcf57bff",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-06T20:30:32.201991+00:00",
+  "started_at": "2026-10-06T19:57:35.439000+00:00",
+  "status": "monitoring",
+  "title": "Several services are degraded",
+  "transition": "progress",
+  "url": "https://stspg.io/w3rcssslq22w"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "4h 25m",
@@ -7657,24 +7678,6 @@
   "status": "identified",
   "title": "Unable to open shared ChatGPT Project using direct link",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M24HYC9SX2Q4471EVMY6EXQE:opened:investigating:minor:2026-09-10T02:21:57+00:00",
-  "impact": "minor",
-  "incident_id": "01M24HYC9SX2Q4471EVMY6EXQE",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-10T02:30:22.472142+00:00",
-  "started_at": "2026-09-10T02:21:57+00:00",
-  "status": "investigating",
-  "title": "Unable to open shared ChatGPT Project using direct link",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
  }
 ]
