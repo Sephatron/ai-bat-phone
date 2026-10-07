@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M4CBXZ62A9SVH8D74KVYQC8M:opened:investigating:minor:2026-10-07T23:42:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M4CBXZ62A9SVH8D74KVYQC8M",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T23:45:35.413574+00:00",
+  "started_at": "2026-10-07T23:42:12+00:00",
+  "status": "investigating",
+  "title": "Elevated errors with GPT-5.6 Instant in FedRAMP workspaces",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M"
+ },
+ {
   "body": "Affected projects remain stuck on \"Recovering acceptance\" after merging a draft, preventing editing and building. We have identified the issue and prepared a fix. We expect deployment to complete in approximately 35 minutes. Once the fix is fully deployed, retrying should allow affected projects to recover. Projects not using drafts remain unaffected.",
   "components": [],
   "duration": "",
@@ -7699,23 +7717,5 @@
   "title": "Investigating service degradation",
   "transition": "opened",
   "url": "https://stspg.io/0xzq5xg26bwg"
- },
- {
-  "body": "The Lovable desktop app for Windows installed from the Microsoft Store is currently crashing on launch. We have identified the cause and are working on releasing an updated version.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Lovable knows what it did",
-  "id": "lovable:01M281DCXY75N9NESPFVNXKDRN:opened:identified:major:2026-09-11T10:50:02+00:00",
-  "impact": "major",
-  "incident_id": "01M281DCXY75N9NESPFVNXKDRN",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-11T11:00:46.534730+00:00",
-  "started_at": "2026-09-11T10:50:02+00:00",
-  "status": "identified",
-  "title": "Lovable Desktop App for Windows Crashing",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN"
  }
 ]

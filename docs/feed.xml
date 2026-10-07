@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
+<link>https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M</link>
+<guid isPermaLink='false'>openai:01M4CBXZ62A9SVH8D74KVYQC8M:opened:investigating:minor:2026-10-07T23:42:12+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 23:45:35 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with GPT-5.6 Instant in FedRAMP workspaces</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 23:42:12 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Lovable has found the culprit]]></title>
 <link>https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH</link>
 <guid isPermaLink='false'>lovable:01M4C774FXBYXXP85HM2EERXPH:progress:identified:minor:2026-10-07T23:15:26+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 25 Sep 2026 07:00:10 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 34m · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>The service degradation affecting Grok Bot has been resolved.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/96tzymfl733c</link>
-<guid isPermaLink='false'>cursor:n540z31sbqp6:progress:monitoring:minor:2026-09-25T05:52:23.707000+00:00</guid>
-<pubDate>Fri, 25 Sep 2026 06:00:10 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: monitoring · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>We have identified the cause and are deploying a fix. We are monitoring recovery as the fix rolls out. Some Grok Bot computers may remain temporarily unavailable or unable to be created or reset during this time.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
