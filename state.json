@@ -422,6 +422,12 @@
    "status": "resolved",
    "updated_at": "2026-08-24T17:16:02.924000+00:00"
   },
+  "anthropic:wf2v8ms031sx": {
+   "impact": "major",
+   "last_seen_at": "2026-10-07T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-07T01:20:26.960000+00:00"
+  },
   "anthropic:whnd2z49x3xf": {
    "impact": "minor",
    "last_seen_at": "2026-10-07T00:00:00+00:00",

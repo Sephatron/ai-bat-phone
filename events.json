@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating elevated errors loading usage data on the platform.claude.com Usage page and the Admin API usage report endpoint since 5 PM PT. Messages API requests are not affected. We will provide an update as soon as possible.",
+  "components": [
+   "Claude Console (platform.claude.com)"
+  ],
+  "duration": "",
+  "headline": "🔴 Claude is on the floor. Kettle on, grass outside.",
+  "id": "anthropic:wf2v8ms031sx:opened:investigating:major:2026-10-07T01:20:26.960000+00:00",
+  "impact": "major",
+  "incident_id": "wf2v8ms031sx",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-07T01:30:32.404364+00:00",
+  "started_at": "2026-10-07T01:20:26.673000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors loading usage data on platform.claude.com",
+  "transition": "opened",
+  "url": "https://stspg.io/scdhhnplc2jn"
+ },
+ {
   "body": "We are investigating the issue for workspace agents, users may not see the responses during the issue time.",
   "components": [],
   "duration": "",
@@ -7671,23 +7691,5 @@
   "title": "Degraded functionality for Claude Cowork on Windows",
   "transition": "opened",
   "url": "https://stspg.io/5yp3rhhztm30"
- },
- {
-  "body": "Our engineers have deployed a fix that has fully restored Claude MCP functionality.",
-  "components": [],
-  "duration": "1d 2h",
-  "headline": "🟢 ElevenLabs is fine again",
-  "id": "elevenlabs:01M232ZXVNKKRQ0N0G3NJBV4C9:resolved:resolved:minor:2026-09-10T14:58:59+00:00",
-  "impact": "minor",
-  "incident_id": "01M232ZXVNKKRQ0N0G3NJBV4C9",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-10T15:00:42.646003+00:00",
-  "started_at": "2026-09-09T12:41:25+00:00",
-  "status": "resolved",
-  "title": "Claude MCP connection not working",
-  "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9"
  }
 ]
