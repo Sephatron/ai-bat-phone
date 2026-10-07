@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Lovable has found the culprit]]></title>
+<link>https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH</link>
+<guid isPermaLink='false'>lovable:01M4C774FXBYXXP85HM2EERXPH:progress:identified:minor:2026-10-07T23:15:26+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 23:30:32 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Projects stuck in Recovering acceptance after a draft merge</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 07 Oct 2026 22:19:49 +0000</p><p>Affected projects remain stuck on "Recovering acceptance" after merging a draft, preventing editing and building. We have identified the issue and prepared a fix. We expect deployment to complete in approximately 35 minutes. Once the fix is fully deployed, retrying should allow affected projects to recover. Projects not using drafts remain unaffected.</p><p><a href="https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Lovable is having a wobble]]></title>
 <link>https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH</link>
 <guid isPermaLink='false'>lovable:01M4C774FXBYXXP85HM2EERXPH:opened:investigating:minor:2026-10-07T22:19:49+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 25 Sep 2026 06:00:10 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: monitoring · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>We have identified the cause and are deploying a fix. We are monitoring recovery as the fix rolls out. Some Grok Bot computers may remain temporarily unavailable or unable to be created or reset during this time.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://stspg.io/96tzymfl733c</link>
-<guid isPermaLink='false'>cursor:n540z31sbqp6:opened:investigating:minor:2026-09-25T05:17:29.596000+00:00</guid>
-<pubDate>Fri, 25 Sep 2026 05:30:11 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Grok Bot computers may temporarily not be able to be created, reached, or reset.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

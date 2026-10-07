@@ -1,5 +1,23 @@
 [
  {
+  "body": "Affected projects remain stuck on \"Recovering acceptance\" after merging a draft, preventing editing and building. We have identified the issue and prepared a fix. We expect deployment to complete in approximately 35 minutes. Once the fix is fully deployed, retrying should allow affected projects to recover. Projects not using drafts remain unaffected.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Lovable has found the culprit",
+  "id": "lovable:01M4C774FXBYXXP85HM2EERXPH:progress:identified:minor:2026-10-07T23:15:26+00:00",
+  "impact": "minor",
+  "incident_id": "01M4C774FXBYXXP85HM2EERXPH",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-07T23:30:32.747794+00:00",
+  "started_at": "2026-10-07T22:19:49+00:00",
+  "status": "identified",
+  "title": "Projects stuck in Recovering acceptance after a draft merge",
+  "transition": "progress",
+  "url": "https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH"
+ },
+ {
   "body": "Some projects are getting stuck on \"Recovering acceptance\" after merging a draft, preventing the merge from completing. We are investigating the issue.",
   "components": [],
   "duration": "",
@@ -7699,23 +7717,5 @@
   "title": "Lovable Desktop App for Windows Crashing",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "2h 23m",
-  "headline": "🟢 OpenAI sorted itself out after 2h 23m",
-  "id": "openai:01M27Q9GH7WVKNA61ZR3RDMSY5:resolved:resolved:minor:2026-09-11T10:16:32+00:00",
-  "impact": "minor",
-  "incident_id": "01M27Q9GH7WVKNA61ZR3RDMSY5",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-11T10:30:44.596750+00:00",
-  "started_at": "2026-09-11T07:53:08+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for ChatGPT users in Europe",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5"
  }
 ]
