@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some projects are getting stuck on \"Recovering acceptance\" after merging a draft, preventing the merge from completing. We are investigating the issue.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable is having a wobble",
+  "id": "lovable:01M4C774FXBYXXP85HM2EERXPH:opened:investigating:minor:2026-10-07T22:19:49+00:00",
+  "impact": "minor",
+  "incident_id": "01M4C774FXBYXXP85HM2EERXPH",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-07T22:30:35.110548+00:00",
+  "started_at": "2026-10-07T22:19:49+00:00",
+  "status": "investigating",
+  "title": "Projects stuck in Recovering acceptance after a draft merge",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH"
+ },
+ {
   "body": "We've mitigated the errors loading usage data on platform.claude.com and in the Admin API usage report. While we work on a full fix, the most recent ~30 minutes of usage may take longer to appear on the platform.claude.com. API requests are not affected, and we will provide additional updates here.",
   "components": [
    "Claude Console (platform.claude.com)"
@@ -7699,23 +7717,5 @@
   "title": "Elevated errors for ChatGPT users in Europe",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5"
- },
- {
-  "body": "We have brought additional capacity online and are seeing improvements for some GPT-5.6 Sol API traffic. We continue to mitigate elevated errors affecting Chat Completions and Responses and are monitoring recovery",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M27VK1VN54RQJGJEHB5JTQJJ:progress:monitoring:minor:2026-09-11T10:09:47+00:00",
-  "impact": "minor",
-  "incident_id": "01M27VK1VN54RQJGJEHB5JTQJJ",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-11T10:15:41.588903+00:00",
-  "started_at": "2026-09-11T09:08:15+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors for GPT-5.6 Sol on the API",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ"
  }
 ]

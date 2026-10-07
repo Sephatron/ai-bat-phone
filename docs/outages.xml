@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Lovable is having a wobble]]></title>
+<link>https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH</link>
+<guid isPermaLink='false'>lovable:01M4C774FXBYXXP85HM2EERXPH:opened:investigating:minor:2026-10-07T22:19:49+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 22:30:35 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Projects stuck in Recovering acceptance after a draft merge</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 22:19:49 +0000</p><p>Some projects are getting stuck on "Recovering acceptance" after merging a draft, preventing the merge from completing. We are investigating the issue.</p><p><a href="https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/sjkw7njwf0mt</link>
 <guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:monitoring:major:2026-10-07T21:44:41.492000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 20:45:14 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with billing information updates</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 49m · Opened: Thu, 24 Sep 2026 16:51:32 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/g2q4g5kv9frp">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Lovable is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y</link>
-<guid isPermaLink='false'>lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:progress:monitoring:minor:2026-09-24T20:16:38+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 20:30:13 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some .shop domains purchased through Lovable are unavailable</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 24 Sep 2026 19:27:14 +0000</p><p>This issue is related to an outage at the .shop domain registry, affecting .shop domains across all providers. Affected domains are starting to load again, and we're monitoring as service is fully restored.</p><p><a href="https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
