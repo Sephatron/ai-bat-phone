@@ -1,5 +1,23 @@
 [
  {
+  "body": "The problem is resolved, we are monitoring the situation",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Lovable has applied a fix and is holding its breath",
+  "id": "lovable:01M4BAXDR3M18PSS2K23PXPQ94:progress:monitoring:major:2026-10-07T15:44:16+00:00",
+  "impact": "major",
+  "incident_id": "01M4BAXDR3M18PSS2K23PXPQ94",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-07T15:45:29.508134+00:00",
+  "started_at": "2026-10-07T14:05:11+00:00",
+  "status": "monitoring",
+  "title": "Some users may see errors sending messages",
+  "transition": "progress",
+  "url": "https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94"
+ },
+ {
   "body": "Webhooks is experiencing degraded performance. We are continuing to investigate.",
   "components": [
    "Git Operations",
@@ -7675,23 +7693,5 @@
   "title": "EU Residency - Conversation history not showing for recent calls",
   "transition": "resolved",
   "url": "https://status.elevenlabs.io/incidents/01M25B80Q2SCJNXG2PY0Y20PRW"
- },
- {
-  "body": "[Investigating] We are investigating this issue.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is a bit under the weather",
-  "id": "replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd:opened:investigating:minor:2026-09-10T20:45:20.636899+00:00",
-  "impact": "minor",
-  "incident_id": "9a4ef783-f28d-4d30-a100-cb3e140a93dd",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-09-10T20:45:20.636899+00:00",
-  "started_at": "2026-09-10T20:33:51+00:00",
-  "status": "investigating",
-  "title": "Agent experiencing increased errors",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd"
  }
 ]

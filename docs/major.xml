@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Lovable has applied a fix and is holding its breath]]></title>
+<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
+<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:progress:monitoring:major:2026-10-07T15:44:16+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 15:45:29 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: monitoring · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>The problem is resolved, we are monitoring the situation</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
 <link>https://stspg.io/96smrcth8bpg</link>
 <guid isPermaLink='false'>github:djlmxz2zd0j7:opened:investigating:critical:2026-10-07T15:27:28.429000+00:00</guid>
