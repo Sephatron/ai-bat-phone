@@ -1,5 +1,23 @@
 [
  {
+  "body": "> Some users are seeing errors when sending messages in the editor or creating new projects. Our team is investigating and working on a fix.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 Lovable is on the floor. Kettle on, grass outside.",
+  "id": "lovable:01M4BAXDR3M18PSS2K23PXPQ94:opened:investigating:major:2026-10-07T14:05:11+00:00",
+  "impact": "major",
+  "incident_id": "01M4BAXDR3M18PSS2K23PXPQ94",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-07T14:15:32.436982+00:00",
+  "started_at": "2026-10-07T14:05:11+00:00",
+  "status": "investigating",
+  "title": "Some users may see errors sending messages",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94"
+ },
+ {
   "body": "We are investigating elevated errors affecting usage data on the platform.claude.com Usage page and the Admin API usage report. Core functionality is not affected. We will provide an update as soon as possible.",
   "components": [
    "Claude Console (platform.claude.com)"
@@ -7669,23 +7687,5 @@
   "title": "Elevated errors affecting ChatGPT Work",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6"
- },
- {
-  "body": "Connect and Passport have fully recovered. This incident has been resolved.",
-  "components": [],
-  "duration": "1h 33m",
-  "headline": "🟢 Vercel lives. Pick your tools back up.",
-  "id": "vercel:mf04gp4lrfz0:resolved:resolved:major:2026-09-10T19:16:06.454000+00:00",
-  "impact": "major",
-  "incident_id": "mf04gp4lrfz0",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-10T19:30:23.105341+00:00",
-  "started_at": "2026-09-10T17:42:15.867000+00:00",
-  "status": "resolved",
-  "title": "Elevated error rate on Connect and Passport",
-  "transition": "resolved",
-  "url": "https://stspg.io/zbs4ktd26fb0"
  }
 ]

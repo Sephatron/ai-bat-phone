@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
+<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
+<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:opened:investigating:major:2026-10-07T14:05:11+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 14:15:32 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>&gt; Some users are seeing errors when sending messages in the editor or creating new projects. Our team is investigating and working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/sjkw7njwf0mt</link>
 <guid isPermaLink='false'>anthropic:978mjkgw6mh7:opened:investigating:major:2026-10-07T13:25:04.274000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 23:55:04 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Mobile users unable to see Work Mode and the Model Picker</strong></p><p>Impact: minor · Status: resolved · Duration: 24 min · Opened: Wed, 23 Sep 2026 23:25:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S</link>
-<guid isPermaLink='false'>openai:01M389CDQ97B11QPMSRAAYSE5S:progress:monitoring:minor:2026-09-23T23:32:53+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 23:45:12 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Mobile users unable to see Work Mode and the Model Picker</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 23 Sep 2026 23:25:00 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
+<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
+<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:opened:investigating:major:2026-10-07T14:05:11+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 14:15:32 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>&gt; Some users are seeing errors when sending messages in the editor or creating new projects. Our team is investigating and working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/sjkw7njwf0mt</link>
 <guid isPermaLink='false'>anthropic:978mjkgw6mh7:opened:investigating:major:2026-10-07T13:25:04.274000+00:00</guid>
@@ -1040,14 +1048,6 @@
 <pubDate>Thu, 10 Sep 2026 22:00:24 +0000</pubDate>
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/zbs4ktd26fb0</link>
-<guid isPermaLink='false'>vercel:mf04gp4lrfz0:resolved:resolved:major:2026-09-10T19:16:06.454000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 19:30:23 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: resolved · Duration: 1h 33m · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>Connect and Passport have fully recovered. This incident has been resolved.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
