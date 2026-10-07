@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is upright again. That took 6h 21m.]]></title>
+<link>https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM</link>
+<guid isPermaLink='false'>openai:01M4ADHMMBK7K92NJFJ0DXRYJM:resolved:resolved:major:2026-10-07T11:53:35+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 12:00:48 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Unable to create new ChatGPT Work threads in latest version of desktop app</strong></p><p>Impact: major · Status: resolved · Duration: 6h 21m · Opened: Wed, 07 Oct 2026 05:31:56 +0000</p><p>We have released an updated app version with the fix for Linux, macOS and Windows. Affected users should update to the latest version.</p><p><a href="https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 22:45:11 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice) · Opened: Wed, 23 Sep 2026 22:20:46 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7023110499287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 DeepSeek is a bit under the weather]]></title>
-<link>https://status.deepseek.com/incidents/7023110499287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7023110499287:opened:investigating:minor:2026-09-23T22:30:19.363202+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 22:30:19 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: investigating · Affects: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service) · Opened: Wed, 23 Sep 2026 22:20:46 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7023110499287">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

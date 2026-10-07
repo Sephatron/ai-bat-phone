@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is upright again. That took 6h 21m.]]></title>
+<link>https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM</link>
+<guid isPermaLink='false'>openai:01M4ADHMMBK7K92NJFJ0DXRYJM:resolved:resolved:major:2026-10-07T11:53:35+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 12:00:48 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Unable to create new ChatGPT Work threads in latest version of desktop app</strong></p><p>Impact: major · Status: resolved · Duration: 6h 21m · Opened: Wed, 07 Oct 2026 05:31:56 +0000</p><p>We have released an updated app version with the fix for Linux, macOS and Windows. Affected users should update to the latest version.</p><p><a href="https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM</link>

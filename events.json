@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have released an updated app version with the fix for Linux, macOS and Windows. Affected users should update to the latest version.",
+  "components": [],
+  "duration": "6h 21m",
+  "headline": "🟢 OpenAI is upright again. That took 6h 21m.",
+  "id": "openai:01M4ADHMMBK7K92NJFJ0DXRYJM:resolved:resolved:major:2026-10-07T11:53:35+00:00",
+  "impact": "major",
+  "incident_id": "01M4ADHMMBK7K92NJFJ0DXRYJM",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T12:00:48.738277+00:00",
+  "started_at": "2026-10-07T05:31:56+00:00",
+  "status": "resolved",
+  "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
+ },
+ {
   "body": "we have identified the issue, working on rolling back to the previous version.",
   "components": [],
   "duration": "",
@@ -7666,24 +7684,6 @@
   "status": "resolved",
   "title": "Service Degradation for one of our Serverless models",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12"
- },
- {
-  "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is a bit under the weather",
-  "id": "fireworks:01M269613HXXRFAHYMKCW99M12:opened:investigating:none:2026-09-10T18:27:20+00:00",
-  "impact": "none",
-  "incident_id": "01M269613HXXRFAHYMKCW99M12",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-10T18:30:25.241658+00:00",
-  "started_at": "2026-09-10T18:27:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for one of our Serverless models",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12"
  }
 ]
