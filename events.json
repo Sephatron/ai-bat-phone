@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue. Version 26.1002.51308 is affected",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 OpenAI has downed tools — and so, probably, have you",
+  "id": "openai:01M4ADHMMBK7K92NJFJ0DXRYJM:opened:investigating:major:2026-10-07T05:43:44+00:00",
+  "impact": "major",
+  "incident_id": "01M4ADHMMBK7K92NJFJ0DXRYJM",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T05:45:36.427491+00:00",
+  "started_at": "2026-10-07T05:31:56+00:00",
+  "status": "investigating",
+  "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "1h 47m",
@@ -7667,26 +7685,5 @@
   "title": "Elevated error rate on Connect and Passport",
   "transition": "progress",
   "url": "https://stspg.io/zbs4ktd26fb0"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Review Agents",
-   "Cloud Agents"
-  ],
-  "duration": "24 min",
-  "headline": "🟢 Cursor sorted itself out after 24 min",
-  "id": "cursor:8mwzyv0n0jyk:resolved:resolved:minor:2026-09-10T17:32:05.105000+00:00",
-  "impact": "minor",
-  "incident_id": "8mwzyv0n0jyk",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-10T17:45:25.330648+00:00",
-  "started_at": "2026-09-10T17:07:24.476000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Review Agents and Cloud Agents",
-  "transition": "resolved",
-  "url": "https://stspg.io/l9tz2hnfxtvz"
  }
 ]

@@ -4382,6 +4382,12 @@
    "status": "resolved",
    "updated_at": "2026-10-07T03:00:54+00:00"
   },
+  "openai:01M4ADHMMBK7K92NJFJ0DXRYJM": {
+   "impact": "major",
+   "last_seen_at": "2026-10-07T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-07T05:43:44+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",
