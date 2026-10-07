@@ -1,5 +1,29 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Git Operations",
+   "Webhooks",
+   "Issues",
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "1h 10m",
+  "headline": "🟢 GitHub lives. Pick your tools back up.",
+  "id": "github:djlmxz2zd0j7:resolved:resolved:critical:2026-10-07T16:25:14.647000+00:00",
+  "impact": "critical",
+  "incident_id": "djlmxz2zd0j7",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-07T16:30:44.878394+00:00",
+  "started_at": "2026-10-07T15:14:45.606000+00:00",
+  "status": "resolved",
+  "title": "Incident with Git Operations, Pull Requests and Actions",
+  "transition": "resolved",
+  "url": "https://stspg.io/96smrcth8bpg"
+ },
+ {
   "body": "We are seeing full recovery across all systems including Git Operations, Pull Requests and Actions. We are continuing to investigate the root cause of the disruption between 15:06 UTC and 15:16 UTC, and will share another update shortly.",
   "components": [
    "Git Operations",
@@ -7683,23 +7707,5 @@
   "title": "Delays in customer support responses",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF"
- },
- {
-  "body": "[Resolved] We have deployed a fix for increased error in agents. We apologize for any inconvenience.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit sorted itself out after a while",
-  "id": "replit:9a4ef783-f28d-4d30-a100-cb3e140a93dd:resolved:resolved:minor:2026-09-10T21:00:29.537991+00:00",
-  "impact": "minor",
-  "incident_id": "9a4ef783-f28d-4d30-a100-cb3e140a93dd",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-09-10T21:00:29.537991+00:00",
-  "started_at": "2026-09-10T20:58:30+00:00",
-  "status": "resolved",
-  "title": "Resolved: Agent experiencing increased errors",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/96smrcth8bpg</link>
+<guid isPermaLink='false'>github:djlmxz2zd0j7:resolved:resolved:critical:2026-10-07T16:25:14.647000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 16:30:44 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: resolved · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Duration: 1h 10m · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/96smrcth8bpg</link>
 <guid isPermaLink='false'>github:djlmxz2zd0j7:progress:monitoring:critical:2026-10-07T15:58:35.062000+00:00</guid>

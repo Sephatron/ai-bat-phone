@@ -2831,8 +2831,8 @@
   "github:djlmxz2zd0j7": {
    "impact": "critical",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-07T15:58:35.062000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-07T16:25:14.647000+00:00"
   },
   "github:dqn46wtvbdzv": {
    "impact": "minor",
