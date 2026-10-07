@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit is fine again]]></title>
+<link>https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e</link>
+<guid isPermaLink='false'>replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e:resolved:resolved:minor:2026-10-07T20:30:39.420837+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 20:30:39 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>GitHub connector may not be working for users</strong></p><p>Impact: minor · Status: resolved · Opened: Wed, 07 Oct 2026 14:52:30 +0000</p><p>[Resolved] We've identified an issue with GitHub connectors starting Tuesday 1PM PT that prevented users from being able to connect their project source code to GitHub. This issue is recovering and we'll keep you updated here.</p><p><a href="https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 1h 01m]]></title>
 <link>https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2</link>
 <guid isPermaLink='false'>openai:01M4BP5JE7DKJSP3VG2S2DCWF2:resolved:resolved:minor:2026-10-07T18:23:25+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 20:30:13 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with billing information updates</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 24 Sep 2026 16:51:32 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/g2q4g5kv9frp">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
-<link>https://stspg.io/2yvpl6y9sw33</link>
-<guid isPermaLink='false'>baseten:rj514rfwk1y4:resolved:resolved:minor:2026-09-24T19:57:39.586000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 20:00:12 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Intermittent 5xx for a subset of models in 1 US Central cluster</strong></p><p>Impact: minor · Status: resolved · Affects: Dedicated Inference · Duration: 1h 22m · Opened: Thu, 24 Sep 2026 18:35:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/2yvpl6y9sw33">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
