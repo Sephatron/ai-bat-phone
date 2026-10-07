@@ -1025,13 +1025,5 @@
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: identified · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Vercel is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/zbs4ktd26fb0</link>
-<guid isPermaLink='false'>vercel:mf04gp4lrfz0:opened:investigating:major:2026-09-10T17:42:53.494000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 17:45:25 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>We've identified an issue where some customers may experience increased errors from Connect and Passport. We are currently investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
