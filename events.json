@@ -1,5 +1,29 @@
 [
  {
+  "body": "Webhooks is experiencing degraded performance. We are continuing to investigate.",
+  "components": [
+   "Git Operations",
+   "Webhooks",
+   "Issues",
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🔴 Tools down: GitHub is broken",
+  "id": "github:djlmxz2zd0j7:opened:investigating:critical:2026-10-07T15:27:28.429000+00:00",
+  "impact": "critical",
+  "incident_id": "djlmxz2zd0j7",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-07T15:30:31.708829+00:00",
+  "started_at": "2026-10-07T15:14:45.606000+00:00",
+  "status": "investigating",
+  "title": "Incident with Git Operations, Pull Requests and Actions",
+  "transition": "opened",
+  "url": "https://stspg.io/96smrcth8bpg"
+ },
+ {
   "body": "[Investigating] We've identified an issue with GitHub connectors starting Tuesday 1PM PT that prevented users from being able to connect their project source code to GitHub. This issue is recovering and we'll keep you updated here.",
   "components": [],
   "duration": "",
@@ -7669,23 +7693,5 @@
   "title": "Agent experiencing increased errors",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/9a4ef783-f28d-4d30-a100-cb3e140a93dd"
- },
- {
-  "body": "We are investigating technical issues affecting our customer support systems. Customers may experience longer than usual response times. We are working to restore normal operations.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is sulking, mildly",
-  "id": "openai:01M26E3PPAYJMMRHX2MZJCTHMF:opened:investigating:none:2026-09-10T19:53:26+00:00",
-  "impact": "none",
-  "incident_id": "01M26E3PPAYJMMRHX2MZJCTHMF",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-10T20:00:26.580139+00:00",
-  "started_at": "2026-09-10T19:53:26+00:00",
-  "status": "investigating",
-  "title": "Delays in customer support responses",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF"
  }
 ]

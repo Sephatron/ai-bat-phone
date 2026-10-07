@@ -2,7 +2,9 @@
  "heartbeat": "2026-10-07T15:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-07T15:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
   "anthropic": {
    "consecutive_failures": 0
@@ -2821,6 +2823,12 @@
    "last_seen_at": "2026-09-04T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-17T17:53:17.216000+00:00"
+  },
+  "github:djlmxz2zd0j7": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-07T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-07T15:27:28.429000+00:00"
   },
   "github:dqn46wtvbdzv": {
    "impact": "minor",

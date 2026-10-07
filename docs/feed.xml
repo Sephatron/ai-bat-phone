@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
+<link>https://stspg.io/96smrcth8bpg</link>
+<guid isPermaLink='false'>github:djlmxz2zd0j7:opened:investigating:critical:2026-10-07T15:27:28.429000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 15:30:31 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: investigating · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>Webhooks is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is having a wobble]]></title>
 <link>https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e</link>
 <guid isPermaLink='false'>replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e:opened:investigating:minor:2026-10-07T15:00:36.411257+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 07:45:20 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: identified · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fine again]]></title>
-<link>https://stspg.io/m1ps7yrhp4n8</link>
-<guid isPermaLink='false'>github:8zc63m64hy36:resolved:resolved:minor:2026-09-24T04:55:33.964000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 05:00:11 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident across several services</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests · Duration: 18h 44m · Opened: Wed, 23 Sep 2026 10:11:12 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/m1ps7yrhp4n8">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

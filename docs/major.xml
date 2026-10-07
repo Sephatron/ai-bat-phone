@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
+<link>https://stspg.io/96smrcth8bpg</link>
+<guid isPermaLink='false'>github:djlmxz2zd0j7:opened:investigating:critical:2026-10-07T15:27:28.429000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 15:30:31 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: investigating · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>Webhooks is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
 <link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
 <guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:opened:investigating:major:2026-10-07T14:05:11+00:00</guid>
