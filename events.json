@@ -1,5 +1,46 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Git Operations",
+   "Issues",
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "47 min",
+  "headline": "🟢 GitHub lives. Pick your tools back up.",
+  "id": "github:qpfv5p86dmrl:resolved:resolved:critical:2026-10-07T18:04:49.479000+00:00",
+  "impact": "critical",
+  "incident_id": "qpfv5p86dmrl",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-07T18:15:30.741399+00:00",
+  "started_at": "2026-10-07T17:17:05.768000+00:00",
+  "status": "resolved",
+  "title": "Incident with Git Operations, Issues, Actions and Pull Requests",
+  "transition": "resolved",
+  "url": "https://stspg.io/4p8x0jnnsx7m"
+ },
+ {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1h 35m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M4BK9J2M83R4SSC71D9FXW45:resolved:resolved:minor:2026-10-07T18:06:37+00:00",
+  "impact": "minor",
+  "incident_id": "01M4BK9J2M83R4SSC71D9FXW45",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T18:15:30.741399+00:00",
+  "started_at": "2026-10-07T16:31:37+00:00",
+  "status": "resolved",
+  "title": "Dot in Codex may fail to create new threads",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
@@ -7674,44 +7715,5 @@
   "title": "Elevated errors for ChatGPT users in Europe",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5"
- },
- {
-  "body": "https://status.openrouter.ai/incidents.rss returned HTTP 403",
-  "components": [],
-  "duration": "",
-  "headline": "📵 OpenRouter is unreadable — silence here means unknown, not fine",
-  "id": "meta:openrouter:unreachable:2026-09-11T03:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "openrouter",
-  "provider_name": "OpenRouter",
-  "published_at": "2026-09-11T04:00:33.328706+00:00",
-  "started_at": "2026-09-11T03:00:00+00:00",
-  "status": "unreachable",
-  "title": "AI Bat Phone cannot read OpenRouter's status page",
-  "transition": "unreachable",
-  "url": "https://status.openrouter.ai"
- },
- {
-  "body": "The issue affecting Claude services has been mitigated.",
-  "components": [
-   "Claude API (api.anthropic.com)",
-   "Claude Cowork"
-  ],
-  "duration": "1h 40m",
-  "headline": "🟢 Claude has stopped wobbling",
-  "id": "anthropic:2pt83vlkk7x7:resolved:resolved:minor:2026-09-10T23:24:22.994000+00:00",
-  "impact": "minor",
-  "incident_id": "2pt83vlkk7x7",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-10T23:30:23.203839+00:00",
-  "started_at": "2026-09-10T21:43:40.209000+00:00",
-  "status": "resolved",
-  "title": "Elevated latency on the Claude API for some users",
-  "transition": "resolved",
-  "url": "https://stspg.io/hfs7749ykl14"
  }
 ]

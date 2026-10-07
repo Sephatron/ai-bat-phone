@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/4p8x0jnnsx7m</link>
+<guid isPermaLink='false'>github:qpfv5p86dmrl:resolved:resolved:critical:2026-10-07T18:04:49.479000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 18:15:30 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Issues, Actions and Pull Requests</strong></p><p>Impact: critical · Status: resolved · Affects: Git Operations, Issues, Pull Requests, Actions · Duration: 47 min · Opened: Wed, 07 Oct 2026 17:17:05 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/4p8x0jnnsx7m">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude knows what it did]]></title>
 <link>https://stspg.io/sjkw7njwf0mt</link>
 <guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:identified:major:2026-10-07T17:28:02.570000+00:00</guid>
@@ -1088,14 +1096,6 @@
 <pubDate>Fri, 11 Sep 2026 11:00:46 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Lovable Desktop App for Windows Crashing</strong></p><p>Impact: major · Status: identified · Opened: Fri, 11 Sep 2026 10:50:02 +0000</p><p>The Lovable desktop app for Windows installed from the Microsoft Store is currently crashing on launch. We have identified the cause and are working on releasing an updated version.</p><p><a href="https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 OpenRouter is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.openrouter.ai</link>
-<guid isPermaLink='false'>meta:openrouter:unreachable:2026-09-11T03:00:00+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 04:00:33 +0000</pubDate>
-<category>OpenRouter</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read OpenRouter's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.openrouter.ai/incidents.rss returned HTTP 403</p><p><a href="https://status.openrouter.ai">OpenRouter status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

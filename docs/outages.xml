@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/4p8x0jnnsx7m</link>
+<guid isPermaLink='false'>github:qpfv5p86dmrl:resolved:resolved:critical:2026-10-07T18:04:49.479000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 18:15:30 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Issues, Actions and Pull Requests</strong></p><p>Impact: critical · Status: resolved · Affects: Git Operations, Issues, Pull Requests, Actions · Duration: 47 min · Opened: Wed, 07 Oct 2026 17:17:05 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/4p8x0jnnsx7m">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45</link>
+<guid isPermaLink='false'>openai:01M4BK9J2M83R4SSC71D9FXW45:resolved:resolved:minor:2026-10-07T18:06:37+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 18:15:30 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Dot in Codex may fail to create new threads</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 35m · Opened: Wed, 07 Oct 2026 16:31:37 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45</link>
 <guid isPermaLink='false'>openai:01M4BK9J2M83R4SSC71D9FXW45:progress:monitoring:minor:2026-10-07T17:30:28+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 19:30:09 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some .shop domains purchased through Lovable are unavailable</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 19:27:14 +0000</p><p>Some custom domains ending in .shop that were purchased through Lovable are intermittently not loading. We're investigating the cause of this issue.</p><p><a href="https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
-<link>https://stspg.io/2yvpl6y9sw33</link>
-<guid isPermaLink='false'>baseten:rj514rfwk1y4:opened:investigating:minor:2026-09-24T19:09:42.910000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 19:15:11 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Intermittent 5xx for a subset of models in 1 US Central cluster</strong></p><p>Impact: minor · Status: investigating · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 18:35:13 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/2yvpl6y9sw33">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 17 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD</link>
-<guid isPermaLink='false'>fireworks:01M3AC2749JME7F6TVGQ2YM4TD:resolved:resolved:minor:2026-09-24T19:07:58+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 19:15:11 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Nemotron 3.5 Lightning</strong></p><p>Impact: minor · Status: resolved · Duration: 17 min · Opened: Thu, 24 Sep 2026 18:50:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
