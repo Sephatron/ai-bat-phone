@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/sjkw7njwf0mt</link>
+<guid isPermaLink='false'>anthropic:978mjkgw6mh7:opened:investigating:major:2026-10-07T13:25:04.274000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 13:30:37 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We are investigating elevated errors affecting usage data on the platform.claude.com Usage page and the Admin API usage report. Core functionality is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is upright again. That took 6h 21m.]]></title>
 <link>https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM</link>
 <guid isPermaLink='false'>openai:01M4ADHMMBK7K92NJFJ0DXRYJM:resolved:resolved:major:2026-10-07T11:53:35+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 23:45:12 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Mobile users unable to see Work Mode and the Model Picker</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 23 Sep 2026 23:25:00 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S</link>
-<guid isPermaLink='false'>openai:01M389CDQ97B11QPMSRAAYSE5S:opened:investigating:minor:2026-09-23T23:25:00+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 23:30:11 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Mobile users unable to see Work Mode and the Model Picker</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 23 Sep 2026 23:25:00 +0000</p><p>We have identified that mobile users are not able to see work mode or the model picker when using ChatGPT. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
