@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3</link>
+<guid isPermaLink='false'>fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3:opened:investigating:minor:2026-10-07T21:29:20+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 21:30:31 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 21:29:20 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit is fine again]]></title>
 <link>https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e</link>
 <guid isPermaLink='false'>replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e:resolved:resolved:minor:2026-10-07T20:30:39.420837+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 20:30:13 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some .shop domains purchased through Lovable are unavailable</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 24 Sep 2026 19:27:14 +0000</p><p>This issue is related to an outage at the .shop domain registry, affecting .shop domains across all providers. Affected domains are starting to load again, and we're monitoring as service is fully restored.</p><p><a href="https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/g2q4g5kv9frp</link>
-<guid isPermaLink='false'>github:1dk955gg3bvz:progress:monitoring:minor:2026-09-24T20:24:57.892000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 20:30:13 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with billing information updates</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 24 Sep 2026 16:51:32 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/g2q4g5kv9frp">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

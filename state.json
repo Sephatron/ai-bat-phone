@@ -2,22 +2,30 @@
  "heartbeat": "2026-10-07T21:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-07T21:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-07T21:00:00+00:00",
+   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
   },
   "cerebras": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-07T21:00:00+00:00",
+   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
   },
   "cohere": {
    "consecutive_failures": 0
   },
   "cursor": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-07T21:00:00+00:00",
+   "last_error": "https://status.cursor.com/api/v2/incidents.json: The read operation timed out"
   },
   "deepseek": {
    "consecutive_failures": 0
@@ -58,13 +66,19 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-07T21:00:00+00:00",
+   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
   },
   "vercel": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-07T21:00:00+00:00",
+   "last_error": "https://www.vercel-status.com/api/v2/incidents.json: The read operation timed out"
   },
   "windsurf": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-07T21:00:00+00:00",
+   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
   }
  },
  "seen": {
@@ -415,6 +429,12 @@
    "last_seen_at": "2026-10-07T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-24T08:30:47.634000+00:00"
+  },
+  "anthropic:vmys9qn874h4": {
+   "impact": "none",
+   "last_seen_at": "2026-10-07T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-07T21:23:29.665000+00:00"
   },
   "anthropic:vr9tpk8w7zr8": {
    "impact": "major",
@@ -2569,6 +2589,12 @@
    "last_seen_at": "2026-10-07T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-07T19:13:40+00:00"
+  },
+  "fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-07T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-07T21:29:20+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
