@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 05:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 06:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM</link>
+<guid isPermaLink='false'>openai:01M4ADHMMBK7K92NJFJ0DXRYJM:progress:identified:major:2026-10-07T05:54:27+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 06:00:32 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Unable to create new ChatGPT Work threads in latest version of desktop app</strong></p><p>Impact: major · Status: identified · Opened: Wed, 07 Oct 2026 05:31:56 +0000</p><p>we have identified the issue, working on rolling back to the previous version.</p><p><a href="https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 OpenAI has downed tools — and so, probably, have you]]></title>
 <link>https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM</link>
@@ -1024,14 +1032,6 @@
 <pubDate>Thu, 10 Sep 2026 19:30:23 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: resolved · Duration: 1h 33m · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>Connect and Passport have fully recovered. This incident has been resolved.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Vercel has found the culprit]]></title>
-<link>https://stspg.io/zbs4ktd26fb0</link>
-<guid isPermaLink='false'>vercel:mf04gp4lrfz0:progress:identified:major:2026-09-10T18:13:20.245000+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 18:15:20 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated error rate on Connect and Passport</strong></p><p>Impact: major · Status: identified · Opened: Thu, 10 Sep 2026 17:42:15 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/zbs4ktd26fb0">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

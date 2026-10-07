@@ -1,5 +1,23 @@
 [
  {
+  "body": "we have identified the issue, working on rolling back to the previous version.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M4ADHMMBK7K92NJFJ0DXRYJM:progress:identified:major:2026-10-07T05:54:27+00:00",
+  "impact": "major",
+  "incident_id": "01M4ADHMMBK7K92NJFJ0DXRYJM",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T06:00:32.913251+00:00",
+  "started_at": "2026-10-07T05:31:56+00:00",
+  "status": "identified",
+  "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
+ },
+ {
   "body": "We are investigating the issue. Version 26.1002.51308 is affected",
   "components": [],
   "duration": "",
@@ -7667,23 +7685,5 @@
   "title": "Service Degradation for one of our Serverless models",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M269613HXXRFAHYMKCW99M12"
- },
- {
-  "body": "The issue has been identified and a fix is being implemented.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Vercel has found the culprit",
-  "id": "vercel:mf04gp4lrfz0:progress:identified:major:2026-09-10T18:13:20.245000+00:00",
-  "impact": "major",
-  "incident_id": "mf04gp4lrfz0",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-10T18:15:20.784180+00:00",
-  "started_at": "2026-09-10T17:42:15.867000+00:00",
-  "status": "identified",
-  "title": "Elevated error rate on Connect and Passport",
-  "transition": "progress",
-  "url": "https://stspg.io/zbs4ktd26fb0"
  }
 ]
