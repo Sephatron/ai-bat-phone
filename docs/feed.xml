@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
+<link>https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45</link>
+<guid isPermaLink='false'>openai:01M4BK9J2M83R4SSC71D9FXW45:opened:investigating:minor:2026-10-07T16:31:37+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 16:45:39 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Dot in Codex may fail to create new threads</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 16:31:37 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/96smrcth8bpg</link>
 <guid isPermaLink='false'>github:djlmxz2zd0j7:resolved:resolved:critical:2026-10-07T16:25:14.647000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 19:00:15 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Nemotron 3.5 Lightning</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 18:50:20 +0000</p><p>We are seeing impacted performance for Nemotron 3.5 Lightning. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC</link>
-<guid isPermaLink='false'>fireworks:01M3AB4X82NDHSDWYXKR8FCYEC:opened:investigating:minor:2026-09-24T18:34:20+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 18:37:57 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 18:34:20 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

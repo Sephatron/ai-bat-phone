@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for the listed services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M4BK9J2M83R4SSC71D9FXW45:opened:investigating:minor:2026-10-07T16:31:37+00:00",
+  "impact": "minor",
+  "incident_id": "01M4BK9J2M83R4SSC71D9FXW45",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T16:45:39.583445+00:00",
+  "started_at": "2026-10-07T16:31:37+00:00",
+  "status": "investigating",
+  "title": "Dot in Codex may fail to create new threads",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Git Operations",
@@ -7689,23 +7707,5 @@
   "title": "Elevated errors affecting ChatGPT Work",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M26E3PPAYJMMRHX2MZJCTHMF:progress:monitoring:none:2026-09-10T21:20:47+00:00",
-  "impact": "none",
-  "incident_id": "01M26E3PPAYJMMRHX2MZJCTHMF",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-10T21:30:20.359753+00:00",
-  "started_at": "2026-09-10T19:53:26+00:00",
-  "status": "monitoring",
-  "title": "Delays in customer support responses",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF"
  }
 ]
