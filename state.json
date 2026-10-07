@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-07T15:00:00+00:00",
+ "heartbeat": "2026-10-07T16:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -1652,6 +1652,12 @@
    "status": "resolved",
    "updated_at": "2026-09-16T08:42:49.057000+00:00"
   },
+  "cursor:p7fmcg2j968f": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-07T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-07T15:59:33.058000+00:00"
+  },
   "cursor:q3q7y4xympz1": {
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
@@ -2825,8 +2831,8 @@
   "github:djlmxz2zd0j7": {
    "impact": "critical",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-07T15:41:29.817000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-07T15:58:35.062000+00:00"
   },
   "github:dqn46wtvbdzv": {
    "impact": "minor",
@@ -3563,8 +3569,8 @@
   "lovable:01M4BAXDR3M18PSS2K23PXPQ94": {
    "impact": "major",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-07T15:44:16+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-07T15:56:00+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",

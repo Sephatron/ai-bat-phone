@@ -6,9 +6,33 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/96smrcth8bpg</link>
+<guid isPermaLink='false'>github:djlmxz2zd0j7:progress:monitoring:critical:2026-10-07T15:58:35.062000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: monitoring · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>We are seeing full recovery across all systems including Git Operations, Pull Requests and Actions. We are continuing to investigate the root cause of the disruption between 15:06 UTC and 15:16 UTC, and will share another update shortly.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
+<link>https://stspg.io/rh45hf9t61t5</link>
+<guid isPermaLink='false'>cursor:p7fmcg2j968f:opened:investigating:minor:2026-10-07T15:59:33.058000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Wed, 07 Oct 2026 15:59:32 +0000</p><p>We are investigating a service degradation affecting Grok Bot's computers in certain regions.</p><p><a href="https://stspg.io/rh45hf9t61t5">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Lovable lives. Pick your tools back up.]]></title>
+<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
+<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:resolved:resolved:major:2026-10-07T15:56:00+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: resolved · Duration: 1h 50m · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>Some new projects failed to start because one of our providers had a capacity problem. This is now fixed. If your project did not start, please try again.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Lovable has applied a fix and is holding its breath]]></title>
 <link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
@@ -1584,30 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 08:00:12 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: monitoring · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Baseten has identified the problem. Fix pending.]]></title>
-<link>https://stspg.io/l4t4ggz466gx</link>
-<guid isPermaLink='false'>baseten:48qpxdqzvmd2:opened:identified:major:2026-09-24T07:43:41.948000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 07:45:20 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: identified · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fine again]]></title>
-<link>https://stspg.io/m1ps7yrhp4n8</link>
-<guid isPermaLink='false'>github:8zc63m64hy36:resolved:resolved:minor:2026-09-24T04:55:33.964000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 05:00:11 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident across several services</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests · Duration: 18h 44m · Opened: Wed, 23 Sep 2026 10:11:12 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/m1ps7yrhp4n8">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S</link>
-<guid isPermaLink='false'>openai:01M389CDQ97B11QPMSRAAYSE5S:resolved:resolved:minor:2026-09-23T23:49:06+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 23:55:04 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Mobile users unable to see Work Mode and the Model Picker</strong></p><p>Impact: minor · Status: resolved · Duration: 24 min · Opened: Wed, 23 Sep 2026 23:25:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

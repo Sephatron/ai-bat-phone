@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/96smrcth8bpg</link>
+<guid isPermaLink='false'>github:djlmxz2zd0j7:progress:monitoring:critical:2026-10-07T15:58:35.062000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: monitoring · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>We are seeing full recovery across all systems including Git Operations, Pull Requests and Actions. We are continuing to investigate the root cause of the disruption between 15:06 UTC and 15:16 UTC, and will share another update shortly.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Lovable lives. Pick your tools back up.]]></title>
+<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
+<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:resolved:resolved:major:2026-10-07T15:56:00+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: resolved · Duration: 1h 50m · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>Some new projects failed to start because one of our providers had a capacity problem. This is now fixed. If your project did not start, please try again.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Lovable has applied a fix and is holding its breath]]></title>
 <link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
