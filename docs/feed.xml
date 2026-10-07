@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI is a bit under the weather]]></title>
+<link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
+<guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:opened:investigating:minor:2026-10-07T01:12:57+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 01:15:29 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Workspace Agents Degraded and Responses Impacted</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 01:12:57 +0000</p><p>We are investigating the issue for workspace agents, users may not see the responses during the issue time.</p><p><a href="https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is upright again. That took 3h 43m.]]></title>
 <link>https://stspg.io/w3rcssslq22w</link>
 <guid isPermaLink='false'>github:cjwszcf57bff:resolved:resolved:critical:2026-10-06T23:40:44.194000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 18:45:18 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: monitoring · Affects: Cloud Agents · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Cursor has found the culprit]]></title>
-<link>https://stspg.io/gw79dn0n9qf0</link>
-<guid isPermaLink='false'>cursor:lh1fpdkb4kcp:opened:identified:minor:2026-09-23T17:15:30.024000+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 17:15:53 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: identified · Affects: Cloud Agents · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>The root cause has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

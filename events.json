@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for workspace agents, users may not see the responses during the issue time.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is a bit under the weather",
+  "id": "openai:01M49YQE6WZT02WYF0KBXVMQ5G:opened:investigating:minor:2026-10-07T01:12:57+00:00",
+  "impact": "minor",
+  "incident_id": "01M49YQE6WZT02WYF0KBXVMQ5G",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T01:15:29.540354+00:00",
+  "started_at": "2026-10-07T01:12:57+00:00",
+  "status": "investigating",
+  "title": "Workspace Agents Degraded and Responses Impacted",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Webhooks",
@@ -7671,23 +7689,5 @@
   "title": "Claude MCP connection not working",
   "transition": "resolved",
   "url": "https://status.elevenlabs.io/incidents/01M232ZXVNKKRQ0N0G3NJBV4C9"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "12h 06m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M24HYC9SX2Q4471EVMY6EXQE:resolved:resolved:minor:2026-09-10T14:28:15+00:00",
-  "impact": "minor",
-  "incident_id": "01M24HYC9SX2Q4471EVMY6EXQE",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-10T14:30:34.105969+00:00",
-  "started_at": "2026-09-10T02:21:57+00:00",
-  "status": "resolved",
-  "title": "Unable to open shared ChatGPT Project using direct link",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M24HYC9SX2Q4471EVMY6EXQE"
  }
 ]
