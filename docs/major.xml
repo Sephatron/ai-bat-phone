@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from Claude after 1h 13m]]></title>
+<link>https://stspg.io/scdhhnplc2jn</link>
+<guid isPermaLink='false'>anthropic:wf2v8ms031sx:resolved:resolved:major:2026-10-07T02:33:38.847000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 02:45:36 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors loading usage data on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 1h 13m · Opened: Wed, 07 Oct 2026 01:20:26 +0000</p><p>This incident has been resolved. From 17:00 PT on October 6 / 00:00 UTC on October 7 to 18:40 PT on October 6 / 01:40 UTC on October 7, many requests to load usage data on the platform.claude.com Usage page and the Admin API usage report returned errors.</p><p><a href="https://stspg.io/scdhhnplc2jn">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/scdhhnplc2jn</link>
 <guid isPermaLink='false'>anthropic:wf2v8ms031sx:opened:investigating:major:2026-10-07T01:20:26.960000+00:00</guid>

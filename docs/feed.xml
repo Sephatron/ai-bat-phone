@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
+<guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:monitoring:minor:2026-10-07T02:45:26+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 02:45:36 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Workspace Agents Degraded and Responses Impacted</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 07 Oct 2026 01:12:57 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 All clear from Claude after 1h 13m]]></title>
+<link>https://stspg.io/scdhhnplc2jn</link>
+<guid isPermaLink='false'>anthropic:wf2v8ms031sx:resolved:resolved:major:2026-10-07T02:33:38.847000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 02:45:36 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors loading usage data on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 1h 13m · Opened: Wed, 07 Oct 2026 01:20:26 +0000</p><p>This incident has been resolved. From 17:00 PT on October 6 / 00:00 UTC on October 7 to 18:40 PT on October 6 / 01:40 UTC on October 7, many requests to load usage data on the platform.claude.com Usage page and the Admin API usage report returned errors.</p><p><a href="https://stspg.io/scdhhnplc2jn">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
 <link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
 <guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:identified:minor:2026-10-07T01:52:03+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 22:30:19 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: investigating · Affects: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service) · Opened: Wed, 23 Sep 2026 22:20:46 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7023110499287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/jlvlxpp59d7d</link>
-<guid isPermaLink='false'>cursor:wkjw4b51h1yq:resolved:resolved:minor:2026-09-23T20:36:47.192000+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 20:45:11 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation - Grok 4.7</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 8 min · Opened: Wed, 23 Sep 2026 20:28:02 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/jlvlxpp59d7d">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
-<link>https://stspg.io/jlvlxpp59d7d</link>
-<guid isPermaLink='false'>cursor:wkjw4b51h1yq:opened:investigating:minor:2026-09-23T20:28:02.188000+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 20:30:18 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation - Grok 4.7</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Wed, 23 Sep 2026 20:28:02 +0000</p><p>We are investigating degraded performance for requests that use Grok 4.7.</p><p><a href="https://stspg.io/jlvlxpp59d7d">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

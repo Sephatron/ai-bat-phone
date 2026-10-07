@@ -425,8 +425,8 @@
   "anthropic:wf2v8ms031sx": {
    "impact": "major",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-07T01:20:26.960000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-07T02:33:38.847000+00:00"
   },
   "anthropic:whnd2z49x3xf": {
    "impact": "minor",
@@ -4373,8 +4373,8 @@
   "openai:01M49YQE6WZT02WYF0KBXVMQ5G": {
    "impact": "minor",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-07T01:52:03+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-07T02:45:26+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

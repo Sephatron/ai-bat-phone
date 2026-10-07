@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
+<guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:monitoring:minor:2026-10-07T02:45:26+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 02:45:36 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Workspace Agents Degraded and Responses Impacted</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 07 Oct 2026 01:12:57 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 All clear from Claude after 1h 13m]]></title>
+<link>https://stspg.io/scdhhnplc2jn</link>
+<guid isPermaLink='false'>anthropic:wf2v8ms031sx:resolved:resolved:major:2026-10-07T02:33:38.847000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 02:45:36 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors loading usage data on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 1h 13m · Opened: Wed, 07 Oct 2026 01:20:26 +0000</p><p>This incident has been resolved. From 17:00 PT on October 6 / 00:00 UTC on October 7 to 18:40 PT on October 6 / 01:40 UTC on October 7, many requests to load usage data on the platform.claude.com Usage page and the Admin API usage report returned errors.</p><p><a href="https://stspg.io/scdhhnplc2jn">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
 <link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
 <guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:identified:minor:2026-10-07T01:52:03+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 19:00:25 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: resolved · Affects: Cloud Agents · Duration: 1h 29m · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/gw79dn0n9qf0</link>
-<guid isPermaLink='false'>cursor:lh1fpdkb4kcp:progress:monitoring:minor:2026-09-23T18:39:34.660000+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 18:45:18 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: monitoring · Affects: Cloud Agents · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Cursor has found the culprit]]></title>
-<link>https://stspg.io/gw79dn0n9qf0</link>
-<guid isPermaLink='false'>cursor:lh1fpdkb4kcp:opened:identified:minor:2026-09-23T17:15:30.024000+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 17:15:53 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: identified · Affects: Cloud Agents · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>The root cause has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

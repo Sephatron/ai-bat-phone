@@ -1,5 +1,43 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:monitoring:minor:2026-10-07T02:45:26+00:00",
+  "impact": "minor",
+  "incident_id": "01M49YQE6WZT02WYF0KBXVMQ5G",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T02:45:36.399362+00:00",
+  "started_at": "2026-10-07T01:12:57+00:00",
+  "status": "monitoring",
+  "title": "Workspace Agents Degraded and Responses Impacted",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
+ },
+ {
+  "body": "This incident has been resolved. From 17:00 PT on October 6 / 00:00 UTC on October 7 to 18:40 PT on October 6 / 01:40 UTC on October 7, many requests to load usage data on the platform.claude.com Usage page and the Admin API usage report returned errors.",
+  "components": [
+   "Claude Console (platform.claude.com)"
+  ],
+  "duration": "1h 13m",
+  "headline": "🟢 All clear from Claude after 1h 13m",
+  "id": "anthropic:wf2v8ms031sx:resolved:resolved:major:2026-10-07T02:33:38.847000+00:00",
+  "impact": "major",
+  "incident_id": "wf2v8ms031sx",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-07T02:45:36.399362+00:00",
+  "started_at": "2026-10-07T01:20:26.673000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors loading usage data on platform.claude.com",
+  "transition": "resolved",
+  "url": "https://stspg.io/scdhhnplc2jn"
+ },
+ {
   "body": "We are implementing the mitigation.",
   "components": [],
   "duration": "",
@@ -7650,44 +7688,5 @@
   "title": "Elevated error rate on Connect and Passport",
   "transition": "opened",
   "url": "https://stspg.io/zbs4ktd26fb0"
- },
- {
-  "body": "We are investigating a service degradation affecting Review Agents and Cloud Agents. Cloud Agents using \"Privacy Mode\" may experience errors and start delays. For Review Agents, Security Agents and PR Approval agents are impacted.",
-  "components": [
-   "Review Agents",
-   "Cloud Agents"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Cursor",
-  "id": "cursor:8mwzyv0n0jyk:opened:investigating:minor:2026-09-10T17:07:24.582000+00:00",
-  "impact": "minor",
-  "incident_id": "8mwzyv0n0jyk",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-10T17:15:28.123142+00:00",
-  "started_at": "2026-09-10T17:07:24.476000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Review Agents and Cloud Agents",
-  "transition": "opened",
-  "url": "https://stspg.io/l9tz2hnfxtvz"
- },
- {
-  "body": "Map and location search issues in some published projects have been resolved. We have pushed a fix so that projects using location search are guided to the working setup, and if your project is still affected you can ask the Lovable agent to fix it and it will apply the update for you. All systems are operating normally.",
-  "components": [],
-  "duration": "3h 25m",
-  "headline": "🟢 Lovable has stopped wobbling",
-  "id": "lovable:01M25R4X6N20P0J4SX0EZE8HWP:resolved:resolved:minor:2026-09-10T16:54:38+00:00",
-  "impact": "minor",
-  "incident_id": "01M25R4X6N20P0J4SX0EZE8HWP",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-10T17:00:26.396241+00:00",
-  "started_at": "2026-09-10T13:29:37+00:00",
-  "status": "resolved",
-  "title": "Map and location search issues in some published projects",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP"
  }
 ]
