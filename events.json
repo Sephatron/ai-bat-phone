@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] We've identified an issue with GitHub connectors starting Tuesday 1PM PT that prevented users from being able to connect their project source code to GitHub. This issue is recovering and we'll keep you updated here.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Replit is having a wobble",
+  "id": "replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e:opened:investigating:minor:2026-10-07T15:00:36.411257+00:00",
+  "impact": "minor",
+  "incident_id": "edf53552-3bc7-4cc7-a8a8-75a29fba548e",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-07T15:00:36.411257+00:00",
+  "started_at": "2026-10-07T14:52:30+00:00",
+  "status": "investigating",
+  "title": "GitHub connector may not be working for users",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e"
+ },
+ {
   "body": "> Some users are seeing errors when sending messages in the editor or creating new projects. Our team is investigating and working on a fix.",
   "components": [],
   "duration": "",
@@ -7669,23 +7687,5 @@
   "title": "Delays in customer support responses",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M26E3PPAYJMMRHX2MZJCTHMF"
- },
- {
-  "body": "We are investigating elevated errors affecting some ChatGPT Work users. Some users may encounter server errors. We are working to mitigate the issue.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is having a wobble",
-  "id": "openai:01M26DX2PP1AFHGJK5E4M6S2J6:opened:investigating:minor:2026-09-10T19:50:34+00:00",
-  "impact": "minor",
-  "incident_id": "01M26DX2PP1AFHGJK5E4M6S2J6",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-10T20:00:26.580139+00:00",
-  "started_at": "2026-09-10T19:49:49+00:00",
-  "status": "investigating",
-  "title": "Elevated errors affecting ChatGPT Work",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M26DX2PP1AFHGJK5E4M6S2J6"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Replit is having a wobble]]></title>
+<link>https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e</link>
+<guid isPermaLink='false'>replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e:opened:investigating:minor:2026-10-07T15:00:36.411257+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 15:00:36 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>GitHub connector may not be working for users</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 14:52:30 +0000</p><p>[Investigating] We've identified an issue with GitHub connectors starting Tuesday 1PM PT that prevented users from being able to connect their project source code to GitHub. This issue is recovering and we'll keep you updated here.</p><p><a href="https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e">Replit status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
 <link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 05:00:11 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident across several services</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests · Duration: 18h 44m · Opened: Wed, 23 Sep 2026 10:11:12 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/m1ps7yrhp4n8">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S</link>
-<guid isPermaLink='false'>openai:01M389CDQ97B11QPMSRAAYSE5S:resolved:resolved:minor:2026-09-23T23:49:06+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 23:55:04 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Mobile users unable to see Work Mode and the Model Picker</strong></p><p>Impact: minor · Status: resolved · Duration: 24 min · Opened: Wed, 23 Sep 2026 23:25:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
