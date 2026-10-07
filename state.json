@@ -179,8 +179,8 @@
   "anthropic:978mjkgw6mh7": {
    "impact": "major",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-07T16:36:44.791000+00:00"
+   "status": "identified",
+   "updated_at": "2026-10-07T17:28:02.570000+00:00"
   },
   "anthropic:9jrp5rtyzrf6": {
    "impact": "minor",
@@ -1655,8 +1655,8 @@
   "cursor:p7fmcg2j968f": {
    "impact": "minor",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-07T15:59:33.058000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-07T17:25:18.389000+00:00"
   },
   "cursor:q3q7y4xympz1": {
    "impact": "minor",
@@ -3025,6 +3025,12 @@
    "last_seen_at": "2026-10-07T00:00:00+00:00",
    "status": "completed",
    "updated_at": "2022-03-28T15:02:24.127000+00:00"
+  },
+  "github:qpfv5p86dmrl": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-07T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-10-07T17:27:12.668000+00:00"
   },
   "github:qt1dj8v3whg9": {
    "impact": "maintenance",
@@ -4421,8 +4427,14 @@
   "openai:01M4BK9J2M83R4SSC71D9FXW45": {
    "impact": "minor",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-10-07T17:30:28+00:00"
+  },
+  "openai:01M4BP5JE7DKJSP3VG2S2DCWF2": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-07T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-07T16:31:37+00:00"
+   "updated_at": "2026-10-07T17:21:52+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

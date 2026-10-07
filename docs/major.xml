@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Claude knows what it did]]></title>
+<link>https://stspg.io/sjkw7njwf0mt</link>
+<guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:identified:major:2026-10-07T17:28:02.570000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: identified · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We've identified the cause of errors loading usage data. The Admin API usage report has recovered, and fixes for the platform.claude.com Usage and Rate limits pages are in progress. The most recent 30 minutes of usage may be delayed. Core functionality is not affected.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/4p8x0jnnsx7m</link>
+<guid isPermaLink='false'>github:qpfv5p86dmrl:opened:monitoring:critical:2026-10-07T17:27:12.668000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Issues, Actions and Pull Requests</strong></p><p>Impact: critical · Status: monitoring · Affects: Git Operations, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 17:17:05 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/4p8x0jnnsx7m">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/96smrcth8bpg</link>
 <guid isPermaLink='false'>github:djlmxz2zd0j7:resolved:resolved:critical:2026-10-07T16:25:14.647000+00:00</guid>
@@ -1080,14 +1096,6 @@
 <pubDate>Fri, 11 Sep 2026 04:00:33 +0000</pubDate>
 <category>OpenRouter</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read OpenRouter's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.openrouter.ai/incidents.rss returned HTTP 403</p><p><a href="https://status.openrouter.ai">OpenRouter status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Perplexity is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:unreachable:2026-09-10T21:00:00+00:00</guid>
-<pubDate>Thu, 10 Sep 2026 22:00:24 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

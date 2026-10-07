@@ -10,6 +10,46 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45</link>
+<guid isPermaLink='false'>openai:01M4BK9J2M83R4SSC71D9FXW45:progress:monitoring:minor:2026-10-07T17:30:28+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Dot in Codex may fail to create new threads</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 07 Oct 2026 16:31:37 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
+<link>https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2</link>
+<guid isPermaLink='false'>openai:01M4BP5JE7DKJSP3VG2S2DCWF2:opened:investigating:minor:2026-10-07T17:21:52+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 17:21:52 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 Claude knows what it did]]></title>
+<link>https://stspg.io/sjkw7njwf0mt</link>
+<guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:identified:major:2026-10-07T17:28:02.570000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: identified · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We've identified the cause of errors loading usage data. The Admin API usage report has recovered, and fixes for the platform.claude.com Usage and Rate limits pages are in progress. The most recent 30 minutes of usage may be delayed. Core functionality is not affected.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/4p8x0jnnsx7m</link>
+<guid isPermaLink='false'>github:qpfv5p86dmrl:opened:monitoring:critical:2026-10-07T17:27:12.668000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations, Issues, Actions and Pull Requests</strong></p><p>Impact: critical · Status: monitoring · Affects: Git Operations, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 17:17:05 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/4p8x0jnnsx7m">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Cursor sorted itself out after 1h 25m]]></title>
+<link>https://stspg.io/rh45hf9t61t5</link>
+<guid isPermaLink='false'>cursor:p7fmcg2j968f:resolved:resolved:minor:2026-10-07T17:25:18.389000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 25m · Opened: Wed, 07 Oct 2026 15:59:32 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/rh45hf9t61t5">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
 <link>https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45</link>
 <guid isPermaLink='false'>openai:01M4BK9J2M83R4SSC71D9FXW45:opened:investigating:minor:2026-10-07T16:31:37+00:00</guid>
@@ -1568,46 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 19:15:11 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Nemotron 3.5 Lightning</strong></p><p>Impact: minor · Status: resolved · Duration: 17 min · Opened: Thu, 24 Sep 2026 18:50:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC</link>
-<guid isPermaLink='false'>fireworks:01M3AB4X82NDHSDWYXKR8FCYEC:resolved:resolved:minor:2026-09-24T19:04:13+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 19:15:11 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 29 min · Opened: Thu, 24 Sep 2026 18:34:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE</link>
-<guid isPermaLink='false'>openai:01M3ACKDE4GYY67FXXNRRSC0CE:opened:identified:none:2026-09-24T18:59:44+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 19:00:15 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates on GPT-6 Astra Pro</strong></p><p>Impact: unclassified · Status: identified · Opened: Thu, 24 Sep 2026 18:59:44 +0000</p><p>We have identified that users are experiencing elevated errors for GPT-6 Astra Pro. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD</link>
-<guid isPermaLink='false'>fireworks:01M3AC2749JME7F6TVGQ2YM4TD:opened:investigating:minor:2026-09-24T18:50:20+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 19:00:15 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Nemotron 3.5 Lightning</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 18:50:20 +0000</p><p>We are seeing impacted performance for Nemotron 3.5 Lightning. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M3AC2749JME7F6TVGQ2YM4TD">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC</link>
-<guid isPermaLink='false'>fireworks:01M3AB4X82NDHSDWYXKR8FCYEC:opened:investigating:minor:2026-09-24T18:34:20+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 18:37:57 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 18:34:20 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
-<link>https://stspg.io/g2q4g5kv9frp</link>
-<guid isPermaLink='false'>github:1dk955gg3bvz:opened:investigating:minor:2026-09-24T16:51:48.686000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 17:00:12 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with billing information updates</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 24 Sep 2026 16:51:32 +0000</p><p>We are investigating failures on billing information updates. Customers may be unable to create or update their billing information in the meantime.</p><p><a href="https://stspg.io/g2q4g5kv9frp">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
