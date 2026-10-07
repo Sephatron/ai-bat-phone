@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 01:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 02:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
+<guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:identified:minor:2026-10-07T01:52:03+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 02:00:32 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Workspace Agents Degraded and Responses Impacted</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 07 Oct 2026 01:12:57 +0000</p><p>We are implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/scdhhnplc2jn</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 17:15:53 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: identified · Affects: Cloud Agents · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>The root cause has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5</link>
-<guid isPermaLink='false'>fireworks:01M376PSV9XP5X666QF3Y0NYW5:resolved:resolved:minor:2026-09-23T13:50:12+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 14:00:24 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.2 US</strong></p><p>Impact: minor · Status: resolved · Duration: 31 min · Opened: Wed, 23 Sep 2026 13:19:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

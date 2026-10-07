@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 01:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 02:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
+<guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:identified:minor:2026-10-07T01:52:03+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 02:00:32 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Workspace Agents Degraded and Responses Impacted</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 07 Oct 2026 01:12:57 +0000</p><p>We are implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/scdhhnplc2jn</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 23 Sep 2026 20:30:18 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation - Grok 4.7</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Wed, 23 Sep 2026 20:28:02 +0000</p><p>We are investigating degraded performance for requests that use Grok 4.7.</p><p><a href="https://stspg.io/jlvlxpp59d7d">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://stspg.io/gw79dn0n9qf0</link>
-<guid isPermaLink='false'>cursor:lh1fpdkb4kcp:resolved:resolved:minor:2026-09-23T18:43:20.553000+00:00</guid>
-<pubDate>Wed, 23 Sep 2026 19:00:25 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating — Cloud Agent Dockerfile Builds</strong></p><p>Impact: minor · Status: resolved · Affects: Cloud Agents · Duration: 1h 29m · Opened: Wed, 23 Sep 2026 17:14:16 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gw79dn0n9qf0">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

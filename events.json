@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are implementing the mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:identified:minor:2026-10-07T01:52:03+00:00",
+  "impact": "minor",
+  "incident_id": "01M49YQE6WZT02WYF0KBXVMQ5G",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-07T02:00:32.743423+00:00",
+  "started_at": "2026-10-07T01:12:57+00:00",
+  "status": "identified",
+  "title": "Workspace Agents Degraded and Responses Impacted",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
+ },
+ {
   "body": "We are investigating elevated errors loading usage data on the platform.claude.com Usage page and the Admin API usage report endpoint since 5 PM PT. Messages API requests are not affected. We will provide an update as soon as possible.",
   "components": [
    "Claude Console (platform.claude.com)"
@@ -7671,25 +7689,5 @@
   "title": "Map and location search issues in some published projects",
   "transition": "resolved",
   "url": "https://status.lovable.dev/incidents/01M25R4X6N20P0J4SX0EZE8HWP"
- },
- {
-  "body": "A Windows update released September 8 has caused Claude Cowork on Windows is unable to run local commands on your PC, because its workspace can no longer reach your computer’s drive. For most users, chat and reading or editing files still work. We have identified the cause as a change in Windows; Microsoft has developed a fix and is working on releasing it. There’s no in-app workaround yet, and restarting or reinstalling won’t help. We’ll post an update when we have more to share.",
-  "components": [
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔍 Claude has found the culprit",
-  "id": "anthropic:r1pqn1kb4hvk:opened:identified:minor:2026-09-10T15:54:10.203000+00:00",
-  "impact": "minor",
-  "incident_id": "r1pqn1kb4hvk",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-10T16:00:40.285764+00:00",
-  "started_at": "2026-09-10T15:54:10.099000+00:00",
-  "status": "identified",
-  "title": "Degraded functionality for Claude Cowork on Windows",
-  "transition": "opened",
-  "url": "https://stspg.io/5yp3rhhztm30"
  }
 ]
