@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 1h 01m]]></title>
+<link>https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2</link>
+<guid isPermaLink='false'>openai:01M4BP5JE7DKJSP3VG2S2DCWF2:resolved:resolved:minor:2026-10-07T18:23:25+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 18:30:31 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 01m · Opened: Wed, 07 Oct 2026 17:21:52 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/4p8x0jnnsx7m</link>
 <guid isPermaLink='false'>github:qpfv5p86dmrl:resolved:resolved:critical:2026-10-07T18:04:49.479000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 20:00:12 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Intermittent 5xx for a subset of models in 1 US Central cluster</strong></p><p>Impact: minor · Status: resolved · Affects: Dedicated Inference · Duration: 1h 22m · Opened: Thu, 24 Sep 2026 18:35:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/2yvpl6y9sw33">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 46 min]]></title>
-<link>https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE</link>
-<guid isPermaLink='false'>openai:01M3ACKDE4GYY67FXXNRRSC0CE:resolved:resolved:none:2026-09-24T19:46:28+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 20:00:12 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Error Rates on GPT-6 Astra Pro</strong></p><p>Impact: unclassified · Status: resolved · Duration: 46 min · Opened: Thu, 24 Sep 2026 18:59:44 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
