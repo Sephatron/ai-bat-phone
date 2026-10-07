@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/sjkw7njwf0mt</link>
+<guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:monitoring:major:2026-10-07T21:44:41.492000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 21:45:27 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: monitoring · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We've mitigated the errors loading usage data on platform.claude.com and in the Admin API usage report. While we work on a full fix, the most recent ~30 minutes of usage may take longer to appear on the platform.claude.com. API requests are not affected, and we will provide additional updates here.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3</link>
+<guid isPermaLink='false'>fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3:resolved:resolved:minor:2026-10-07T21:40:18+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 21:45:27 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Wed, 07 Oct 2026 21:29:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3</link>
 <guid isPermaLink='false'>fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3:opened:investigating:minor:2026-10-07T21:29:20+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 24 Sep 2026 20:30:13 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some .shop domains purchased through Lovable are unavailable</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 24 Sep 2026 19:27:14 +0000</p><p>This issue is related to an outage at the .shop domain registry, affecting .shop domains across all providers. Affected domains are starting to load again, and we're monitoring as service is fully restored.</p><p><a href="https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/g2q4g5kv9frp</link>
-<guid isPermaLink='false'>github:1dk955gg3bvz:progress:monitoring:minor:2026-09-24T20:24:57.892000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 20:30:13 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with billing information updates</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 24 Sep 2026 16:51:32 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/g2q4g5kv9frp">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
-<link>https://stspg.io/2yvpl6y9sw33</link>
-<guid isPermaLink='false'>baseten:rj514rfwk1y4:resolved:resolved:minor:2026-09-24T19:57:39.586000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 20:00:12 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Intermittent 5xx for a subset of models in 1 US Central cluster</strong></p><p>Impact: minor · Status: resolved · Affects: Dedicated Inference · Duration: 1h 22m · Opened: Thu, 24 Sep 2026 18:35:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/2yvpl6y9sw33">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,43 @@
 [
  {
+  "body": "We've mitigated the errors loading usage data on platform.claude.com and in the Admin API usage report. While we work on a full fix, the most recent ~30 minutes of usage may take longer to appear on the platform.claude.com. API requests are not affected, and we will provide additional updates here.",
+  "components": [
+   "Claude Console (platform.claude.com)"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:978mjkgw6mh7:progress:monitoring:major:2026-10-07T21:44:41.492000+00:00",
+  "impact": "major",
+  "incident_id": "978mjkgw6mh7",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-07T21:45:27.923999+00:00",
+  "started_at": "2026-10-07T13:25:04.155000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors on platform.claude.com",
+  "transition": "progress",
+  "url": "https://stspg.io/sjkw7njwf0mt"
+ },
+ {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "10 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3:resolved:resolved:minor:2026-10-07T21:40:18+00:00",
+  "impact": "minor",
+  "incident_id": "01M4C4AP4HEGH7XXJHRDVCCFB3",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-07T21:45:27.923999+00:00",
+  "started_at": "2026-10-07T21:29:20+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7679,41 +7717,5 @@
   "title": "Elevated errors for GPT-5.6 Sol on the API",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ"
- },
- {
-  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI knows what it did",
-  "id": "openai:01M27VK1VN54RQJGJEHB5JTQJJ:opened:identified:minor:2026-09-11T09:08:15+00:00",
-  "impact": "minor",
-  "incident_id": "01M27VK1VN54RQJGJEHB5JTQJJ",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-11T09:15:40.786215+00:00",
-  "started_at": "2026-09-11T09:08:15+00:00",
-  "status": "identified",
-  "title": "Elevated errors for GPT-5.6 Sol on the API",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M27VK1VN54RQJGJEHB5JTQJJ"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M27Q9GH7WVKNA61ZR3RDMSY5:progress:monitoring:minor:2026-09-11T08:37:26+00:00",
-  "impact": "minor",
-  "incident_id": "01M27Q9GH7WVKNA61ZR3RDMSY5",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-11T08:45:45.889392+00:00",
-  "started_at": "2026-09-11T07:53:08+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors for ChatGPT users in Europe",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M27Q9GH7WVKNA61ZR3RDMSY5"
  }
 ]

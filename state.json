@@ -2,30 +2,22 @@
  "heartbeat": "2026-10-07T21:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-07T21:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-07T21:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cerebras": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-07T21:00:00+00:00",
-   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cohere": {
    "consecutive_failures": 0
   },
   "cursor": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-07T21:00:00+00:00",
-   "last_error": "https://status.cursor.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "deepseek": {
    "consecutive_failures": 0
@@ -66,19 +58,13 @@
    "consecutive_failures": 0
   },
   "sambanova": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-07T21:00:00+00:00",
-   "last_error": "https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "vercel": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-07T21:00:00+00:00",
-   "last_error": "https://www.vercel-status.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-07T21:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
@@ -193,8 +179,8 @@
   "anthropic:978mjkgw6mh7": {
    "impact": "major",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-07T17:28:02.570000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-07T21:44:41.492000+00:00"
   },
   "anthropic:9jrp5rtyzrf6": {
    "impact": "minor",
@@ -2593,8 +2579,8 @@
   "fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3": {
    "impact": "minor",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-07T21:29:20+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-07T21:40:18+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",

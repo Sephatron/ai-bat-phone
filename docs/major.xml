@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/sjkw7njwf0mt</link>
+<guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:monitoring:major:2026-10-07T21:44:41.492000+00:00</guid>
+<pubDate>Wed, 07 Oct 2026 21:45:27 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: monitoring · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We've mitigated the errors loading usage data on platform.claude.com and in the Admin API usage report. While we work on a full fix, the most recent ~30 minutes of usage may take longer to appear on the platform.claude.com. API requests are not affected, and we will provide additional updates here.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/4p8x0jnnsx7m</link>
 <guid isPermaLink='false'>github:qpfv5p86dmrl:resolved:resolved:critical:2026-10-07T18:04:49.479000+00:00</guid>
