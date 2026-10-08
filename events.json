@@ -1,5 +1,23 @@
 [
  {
+  "body": "The performance issue affecting GLM 5.3 Flash has been resolved.",
+  "components": [],
+  "duration": "1h 47m",
+  "headline": "🟢 Fireworks AI sorted itself out after 1h 47m",
+  "id": "fireworks:01M4EME5D6VSR3ZGVXSNVDPSX0:resolved:resolved:minor:2026-10-08T22:36:42+00:00",
+  "impact": "minor",
+  "incident_id": "01M4EME5D6VSR3ZGVXSNVDPSX0",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-08T22:45:33.881664+00:00",
+  "started_at": "2026-10-08T20:49:20+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M4EME5D6VSR3ZGVXSNVDPSX0"
+ },
+ {
   "body": "After several hours of monitoring, our metrics show that error rate has remained at its stable baseline since 17:55 UTC; the increase in Dubbing platform latency and failure rate is now resolved.",
   "components": [],
   "duration": "6h 01m",
@@ -7694,25 +7712,5 @@
   "title": "Actions Larger Runner Jobs for some customers may be slow to start",
   "transition": "progress",
   "url": "https://stspg.io/f2b6fd4l83wy"
- },
- {
-  "body": "This issue has been resolved. Microsoft has released a September 14 Windows update that fixes it: https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129195-windows-11-24h2-25h2-security-update",
-  "components": [
-   "Claude Cowork"
-  ],
-  "duration": "4d 3h",
-  "headline": "🟢 Claude lives. Pick your tools back up.",
-  "id": "anthropic:r1pqn1kb4hvk:resolved:resolved:major:2026-09-14T19:14:45.986000+00:00",
-  "impact": "major",
-  "incident_id": "r1pqn1kb4hvk",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-14T19:15:43.195317+00:00",
-  "started_at": "2026-09-10T15:54:10+00:00",
-  "status": "resolved",
-  "title": "Degraded functionality for Claude Cowork on Windows",
-  "transition": "resolved",
-  "url": "https://stspg.io/5yp3rhhztm30"
  }
 ]

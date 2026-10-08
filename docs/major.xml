@@ -1081,13 +1081,5 @@
 <category>Claude</category>
 <description><![CDATA[<p><strong>Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 15 Sep 2026 09:48:23 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1 and Claude Fable 5.1. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/x1qpycpg6ln7">Claude status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 Claude lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/5yp3rhhztm30</link>
-<guid isPermaLink='false'>anthropic:r1pqn1kb4hvk:resolved:resolved:major:2026-09-14T19:14:45.986000+00:00</guid>
-<pubDate>Mon, 14 Sep 2026 19:15:43 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: major · Status: resolved · Affects: Claude Cowork · Duration: 4d 3h · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>This issue has been resolved. Microsoft has released a September 14 Windows update that fixes it: https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129195-windows-11-24h2-25h2-security-update</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
