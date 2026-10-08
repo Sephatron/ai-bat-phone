@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1h 33m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M4CR8GCAFC1RYQXZDXAZP2VT:resolved:resolved:minor:2026-10-08T04:51:39+00:00",
+  "impact": "minor",
+  "incident_id": "01M4CR8GCAFC1RYQXZDXAZP2VT",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-08T05:00:31.465653+00:00",
+  "started_at": "2026-10-08T03:17:40+00:00",
+  "status": "resolved",
+  "title": "Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT"
+ },
+ {
   "body": "We are investigating the issue for the listed services.",
   "components": [],
   "duration": "",
@@ -7687,25 +7705,5 @@
   "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
   "transition": "opened",
   "url": "https://stspg.io/n9n8kfcxtkfm"
- },
- {
-  "body": "A Windows update released September 8 has left Claude Cowork on Windows unable to run local commands, because its workspace can no longer reach your computer's drive. For most users, chat and file reading and editing still work. There's no in-app workaround yet, and restarting or reinstalling won't help. Microsoft has developed a fix and is working to release it. We'll post an update when we have more to share.",
-  "components": [
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔺 Claude went from annoying to actual",
-  "id": "anthropic:r1pqn1kb4hvk:escalated:identified:major:2026-09-11T14:19:51.617000+00:00",
-  "impact": "major",
-  "incident_id": "r1pqn1kb4hvk",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-11T14:30:45.488534+00:00",
-  "started_at": "2026-09-10T15:54:10+00:00",
-  "status": "identified",
-  "title": "Degraded functionality for Claude Cowork on Windows",
-  "transition": "escalated",
-  "url": "https://stspg.io/5yp3rhhztm30"
  }
 ]
