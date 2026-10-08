@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 ElevenLabs is fixed. You may resume being productive.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6</link>
+<guid isPermaLink='false'>elevenlabs:01M4E4CWPTSJZ9QH0J35V2Q0W6:resolved:resolved:major:2026-10-08T22:10:12+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 22:15:33 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased Dubbing Latency and Failure Rate</strong></p><p>Impact: major · Status: resolved · Duration: 6h 01m · Opened: Thu, 08 Oct 2026 16:09:01 +0000</p><p>After several hours of monitoring, our metrics show that error rate has remained at its stable baseline since 17:55 UTC; the increase in Dubbing platform latency and failure rate is now resolved.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://stspg.io/g415ws29757p</link>
 <guid isPermaLink='false'>cursor:25l5bm6rdrb6:resolved:resolved:minor:2026-10-08T20:51:06.897000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 17:01:18 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 11m · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>Our engineers have confirmed that STT latency has fully recovered.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT</link>
-<guid isPermaLink='false'>elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:progress:monitoring:minor:2026-09-28T16:05:47+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 16:16:06 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>We have traced STT latency metrics as they have improved and are continuing to monitor to ensure full resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

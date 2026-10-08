@@ -1,5 +1,23 @@
 [
  {
+  "body": "After several hours of monitoring, our metrics show that error rate has remained at its stable baseline since 17:55 UTC; the increase in Dubbing platform latency and failure rate is now resolved.",
+  "components": [],
+  "duration": "6h 01m",
+  "headline": "🟢 ElevenLabs is fixed. You may resume being productive.",
+  "id": "elevenlabs:01M4E4CWPTSJZ9QH0J35V2Q0W6:resolved:resolved:major:2026-10-08T22:10:12+00:00",
+  "impact": "major",
+  "incident_id": "01M4E4CWPTSJZ9QH0J35V2Q0W6",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-08T22:15:33.955901+00:00",
+  "started_at": "2026-10-08T16:09:01+00:00",
+  "status": "resolved",
+  "title": "Increased Dubbing Latency and Failure Rate",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",
@@ -7696,23 +7714,5 @@
   "title": "Degraded functionality for Claude Cowork on Windows",
   "transition": "resolved",
   "url": "https://stspg.io/5yp3rhhztm30"
- },
- {
-  "body": "We are investigating reports of impacted performance for some GitHub services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 GitHub is sulking, mildly",
-  "id": "github:kzh5j0mt7qwc:opened:investigating:minor:2026-09-14T18:40:25.137000+00:00",
-  "impact": "minor",
-  "incident_id": "kzh5j0mt7qwc",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-14T18:45:40.552728+00:00",
-  "started_at": "2026-09-14T18:40:25.072000+00:00",
-  "status": "investigating",
-  "title": "Actions Larger Runner Jobs for some customers may be slow to start",
-  "transition": "opened",
-  "url": "https://stspg.io/f2b6fd4l83wy"
  }
 ]
