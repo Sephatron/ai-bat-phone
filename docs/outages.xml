@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4</link>
+<guid isPermaLink='false'>fireworks:01M4EF6AEMPHAR8R6YGFAE6CB4:opened:investigating:minor:2026-10-08T19:17:40+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 19:30:32 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 08 Oct 2026 19:17:40 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
 <link>https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6</link>
 <guid isPermaLink='false'>elevenlabs:01M4E4CWPTSJZ9QH0J35V2Q0W6:opened:monitoring:major:2026-10-08T16:15:46+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 14:16:19 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Build failures and 500 errors for functions using Edge runtime</strong></p><p>Impact: minor · Status: resolved · Affects: Builds · Duration: 26 min · Opened: Mon, 28 Sep 2026 13:44:30 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/p633qkgvpdsy">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 ElevenLabs is having a proper one. This is not your code.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9</link>
-<guid isPermaLink='false'>elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:opened:investigating:major:2026-09-28T13:57:40+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 14:01:48 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: investigating · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We are investigating an issue on EU residency affecting the ElevenAgents platform.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
