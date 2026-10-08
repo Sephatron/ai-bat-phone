@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 08 Oct 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://stspg.io/g415ws29757p</link>
+<guid isPermaLink='false'>cursor:25l5bm6rdrb6:resolved:resolved:minor:2026-10-08T20:51:06.897000+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 21:00:28 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting Opus 5.5</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE, Grok Bot · Duration: 58 min · Opened: Thu, 08 Oct 2026 19:52:44 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/g415ws29757p">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
+<link>https://status.fireworks.ai/incidents/01M4EME5D6VSR3ZGVXSNVDPSX0</link>
+<guid isPermaLink='false'>fireworks:01M4EME5D6VSR3ZGVXSNVDPSX0:opened:investigating:minor:2026-10-08T20:49:20+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 21:00:28 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 08 Oct 2026 20:49:20 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4EME5D6VSR3ZGVXSNVDPSX0">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
 <link>https://stspg.io/g415ws29757p</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 18:46:13 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: Model Management API, Web Application · Opened: Mon, 28 Sep 2026 18:40:33 +0000</p><p>We will be performing a database upgrade between 6:00 PM and 7:00 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour for the web application &amp; management API. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.</p><p><a href="https://stspg.io/6b2703ymtcrn">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs has stopped wobbling]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT</link>
-<guid isPermaLink='false'>elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:resolved:resolved:minor:2026-09-28T16:54:29+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 17:01:18 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 11m · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>Our engineers have confirmed that STT latency has fully recovered.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT</link>
-<guid isPermaLink='false'>elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:progress:monitoring:minor:2026-09-28T16:05:47+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 16:16:06 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>We have traced STT latency metrics as they have improved and are continuing to monitor to ensure full resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

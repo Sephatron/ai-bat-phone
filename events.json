@@ -1,5 +1,47 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE",
+   "Grok Bot"
+  ],
+  "duration": "58 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:25l5bm6rdrb6:resolved:resolved:minor:2026-10-08T20:51:06.897000+00:00",
+  "impact": "minor",
+  "incident_id": "25l5bm6rdrb6",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-08T21:00:28.835060+00:00",
+  "started_at": "2026-10-08T19:52:44.861000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors affecting Opus 5.5",
+  "transition": "resolved",
+  "url": "https://stspg.io/g415ws29757p"
+ },
+ {
+  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M4EME5D6VSR3ZGVXSNVDPSX0:opened:investigating:minor:2026-10-08T20:49:20+00:00",
+  "impact": "minor",
+  "incident_id": "01M4EME5D6VSR3ZGVXSNVDPSX0",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-08T21:00:28.835060+00:00",
+  "started_at": "2026-10-08T20:49:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4EME5D6VSR3ZGVXSNVDPSX0"
+ },
+ {
   "body": "We are investigating a service degradation affecting Opus 5.5. Users may see intermittent errors or failed requests when using Opus 5.5.",
   "components": [
    "Automations",
@@ -7672,45 +7714,5 @@
   "title": "Actions Larger Runner Jobs for some customers may be slow to start",
   "transition": "opened",
   "url": "https://stspg.io/f2b6fd4l83wy"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "41 min",
-  "headline": "🟢 Baseten is fine again",
-  "id": "baseten:bmxpy6vzgc6y:resolved:resolved:minor:2026-09-14T17:03:20.088000+00:00",
-  "impact": "minor",
-  "incident_id": "bmxpy6vzgc6y",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-14T17:15:42.162034+00:00",
-  "started_at": "2026-09-14T16:21:34+00:00",
-  "status": "resolved",
-  "title": "Partial outage on Kimi K3 model API inference (non-US only)",
-  "transition": "resolved",
-  "url": "https://stspg.io/wmt6p7fnt7z0"
- },
- {
-  "body": "We are currently investigating this issue.",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "",
-  "headline": "🟠 Baseten is a bit under the weather",
-  "id": "baseten:bmxpy6vzgc6y:opened:investigating:minor:2026-09-14T16:53:26.546000+00:00",
-  "impact": "minor",
-  "incident_id": "bmxpy6vzgc6y",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-14T17:00:44.656482+00:00",
-  "started_at": "2026-09-14T16:21:34+00:00",
-  "status": "investigating",
-  "title": "Partial outage on Kimi K3 model API inference (non-US only)",
-  "transition": "opened",
-  "url": "https://stspg.io/wmt6p7fnt7z0"
  }
 ]
