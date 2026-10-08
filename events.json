@@ -1,5 +1,30 @@
 [
  {
+  "body": "We are investigating a service degradation with Opus 5.5 being used across all product components.",
+  "components": [
+   "Automations",
+   "Review Agents",
+   "CLI",
+   "Cloud Agents",
+   "IDE",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Cursor",
+  "id": "cursor:x4mnlflpqc4w:opened:investigating:minor:2026-10-08T13:58:18.209000+00:00",
+  "impact": "minor",
+  "incident_id": "x4mnlflpqc4w",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-08T13:59:49.738132+00:00",
+  "started_at": "2026-10-08T13:54:56.859000+00:00",
+  "status": "investigating",
+  "title": "Opus 5.5 is Experiencing 429s",
+  "transition": "opened",
+  "url": "https://stspg.io/4lwl9qsfhlln"
+ },
+ {
   "body": "Creating new projects from workspace chats is working normally again following a fix. Building and editing existing projects was not affected. This issue is now resolved.",
   "components": [],
   "duration": "9 min",
@@ -7676,24 +7701,6 @@
   "status": "monitoring",
   "title": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
- },
- {
-  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M28MEQWTQJDRCRPFD9FWQ0H3:opened:investigating:minor:2026-09-11T16:22:49+00:00",
-  "impact": "minor",
-  "incident_id": "01M28MEQWTQJDRCRPFD9FWQ0H3",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-11T16:30:47.198906+00:00",
-  "started_at": "2026-09-11T16:22:49+00:00",
-  "status": "investigating",
-  "title": "1% of ChatGPT Work (mobile/web) turns are failing",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
  }
 ]

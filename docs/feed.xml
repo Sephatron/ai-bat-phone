@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
+<link>https://stspg.io/4lwl9qsfhlln</link>
+<guid isPermaLink='false'>cursor:x4mnlflpqc4w:opened:investigating:minor:2026-10-08T13:58:18.209000+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 13:59:49 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Opus 5.5 is Experiencing 429s</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Grok Bot · Opened: Thu, 08 Oct 2026 13:54:56 +0000</p><p>We are investigating a service degradation with Opus 5.5 being used across all product components.</p><p><a href="https://stspg.io/4lwl9qsfhlln">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
 <link>https://status.lovable.dev/incidents/01M4DEDWGVCKA54R3QN4AJZHCP</link>
 <guid isPermaLink='false'>lovable:01M4DEDWGVCKA54R3QN4AJZHCP:resolved:resolved:minor:2026-10-08T09:55:03+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 26 Sep 2026 00:30:56 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: monitoring · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 23:47:29 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/m3kgdhh3lx5l">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is upright again. That took 55 min.]]></title>
-<link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
-<guid isPermaLink='false'>openai:01M3DCNWMW57HYK8FJ5FBFPA39:resolved:resolved:critical:2026-09-25T23:54:41+00:00</guid>
-<pubDate>Sat, 26 Sep 2026 00:01:39 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Issues with Codex</strong></p><p>Impact: critical · Status: resolved · Duration: 55 min · Opened: Fri, 25 Sep 2026 22:58:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
