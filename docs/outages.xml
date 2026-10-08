@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4</link>
+<guid isPermaLink='false'>fireworks:01M4EF6AEMPHAR8R6YGFAE6CB4:resolved:resolved:minor:2026-10-08T19:30:48+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 19:45:27 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Thu, 08 Oct 2026 19:17:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4</link>
 <guid isPermaLink='false'>fireworks:01M4EF6AEMPHAR8R6YGFAE6CB4:opened:investigating:minor:2026-10-08T19:17:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 14:31:23 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: monitoring · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We have released a fix, we are continuing to monitor the situation, the platform is operational now.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel sorted itself out after 26 min]]></title>
-<link>https://stspg.io/p633qkgvpdsy</link>
-<guid isPermaLink='false'>vercel:yy1sm6x5l83q:resolved:resolved:minor:2026-09-28T14:11:29.973000+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 14:16:19 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Build failures and 500 errors for functions using Edge runtime</strong></p><p>Impact: minor · Status: resolved · Affects: Builds · Duration: 26 min · Opened: Mon, 28 Sep 2026 13:44:30 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/p633qkgvpdsy">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

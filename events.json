@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "13 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M4EF6AEMPHAR8R6YGFAE6CB4:resolved:resolved:minor:2026-10-08T19:30:48+00:00",
+  "impact": "minor",
+  "incident_id": "01M4EF6AEMPHAR8R6YGFAE6CB4",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-08T19:45:27.989717+00:00",
+  "started_at": "2026-10-08T19:17:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7688,28 +7706,5 @@
   "title": "Elevated errors affecting Work Mode in ChatGPT",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "52 min",
-  "headline": "🟢 Cursor sorted itself out after 52 min",
-  "id": "cursor:bgwm1q5652hy:resolved:resolved:minor:2026-09-14T09:07:24.040000+00:00",
-  "impact": "minor",
-  "incident_id": "bgwm1q5652hy",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-14T09:15:43.297652+00:00",
-  "started_at": "2026-09-14T08:14:46.753000+00:00",
-  "status": "resolved",
-  "title": "Investigating Grok service degradation",
-  "transition": "resolved",
-  "url": "https://stspg.io/czrkjs542qtv"
  }
 ]

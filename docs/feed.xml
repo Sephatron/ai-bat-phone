@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4</link>
+<guid isPermaLink='false'>fireworks:01M4EF6AEMPHAR8R6YGFAE6CB4:resolved:resolved:minor:2026-10-08T19:30:48+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 19:45:27 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Thu, 08 Oct 2026 19:17:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4</link>
 <guid isPermaLink='false'>fireworks:01M4EF6AEMPHAR8R6YGFAE6CB4:opened:investigating:minor:2026-10-08T19:17:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 15:46:21 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>We have identified an issue with increased latency for Speech to Text API requests. We are looking into it and will post updates as they become available.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs lives. Pick your tools back up.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9</link>
-<guid isPermaLink='false'>elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:resolved:resolved:major:2026-09-28T14:39:46+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 14:46:18 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: resolved · Duration: 42 min · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We can confirm that the issue has been fixed and that the service is fully operational.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
