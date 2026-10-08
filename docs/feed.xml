@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Lovable has identified the problem. Fix pending.]]></title>
+<link>https://status.lovable.dev/incidents/01M4DEDWGVCKA54R3QN4AJZHCP</link>
+<guid isPermaLink='false'>lovable:01M4DEDWGVCKA54R3QN4AJZHCP:opened:identified:minor:2026-10-08T09:45:05+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 09:45:30 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Issues creating projects from workspace chats</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 08 Oct 2026 09:45:05 +0000</p><p>Creating new projects from workspace chats is currently not working for some users. Building and editing existing projects is not affected. Our team has identified the cause and is rolling out a fix.</p><p><a href="https://status.lovable.dev/incidents/01M4DEDWGVCKA54R3QN4AJZHCP">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT</link>
 <guid isPermaLink='false'>openai:01M4CR8GCAFC1RYQXZDXAZP2VT:resolved:resolved:minor:2026-10-08T04:51:39+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 26 Sep 2026 00:01:39 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 23:47:29 +0000</p><p>We are investigating a service degradation affecting Grok Bot.</p><p><a href="https://stspg.io/m3kgdhh3lx5l">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
-<guid isPermaLink='false'>openai:01M3DCNWMW57HYK8FJ5FBFPA39:progress:monitoring:critical:2026-09-25T23:45:27+00:00</guid>
-<pubDate>Fri, 25 Sep 2026 23:45:55 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Issues with Codex</strong></p><p>Impact: critical · Status: monitoring · Opened: Fri, 25 Sep 2026 22:58:48 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
