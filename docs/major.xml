@@ -6,7 +6,7 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 08 Oct 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
@@ -1056,14 +1056,6 @@
 <pubDate>Mon, 14 Sep 2026 19:15:43 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded functionality for Claude Cowork on Windows</strong></p><p>Impact: major · Status: resolved · Affects: Claude Cowork · Duration: 4d 3h · Opened: Thu, 10 Sep 2026 15:54:10 +0000</p><p>This issue has been resolved. Microsoft has released a September 14 Windows update that fixes it: https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129195-windows-11-24h2-25h2-security-update</p><p><a href="https://stspg.io/5yp3rhhztm30">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/n9n8kfcxtkfm</link>
-<guid isPermaLink='false'>anthropic:t33dncr5ydvl:resolved:resolved:major:2026-09-11T14:37:11.168000+00:00</guid>
-<pubDate>Fri, 11 Sep 2026 14:45:41 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 17 min · Opened: Fri, 11 Sep 2026 14:19:51 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 13:57 to 14:20 UTC</p><p><a href="https://stspg.io/n9n8kfcxtkfm">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

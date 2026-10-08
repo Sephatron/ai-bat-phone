@@ -1,5 +1,23 @@
 [
  {
+  "body": "Creating new projects from workspace chats is working normally again following a fix. Building and editing existing projects was not affected. This issue is now resolved.",
+  "components": [],
+  "duration": "9 min",
+  "headline": "🟢 Lovable has stopped wobbling",
+  "id": "lovable:01M4DEDWGVCKA54R3QN4AJZHCP:resolved:resolved:minor:2026-10-08T09:55:03+00:00",
+  "impact": "minor",
+  "incident_id": "01M4DEDWGVCKA54R3QN4AJZHCP",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-08T10:00:28.000933+00:00",
+  "started_at": "2026-10-08T09:45:05+00:00",
+  "status": "resolved",
+  "title": "Issues creating projects from workspace chats",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M4DEDWGVCKA54R3QN4AJZHCP"
+ },
+ {
   "body": "Creating new projects from workspace chats is currently not working for some users. Building and editing existing projects is not affected. Our team has identified the cause and is rolling out a fix.",
   "components": [],
   "duration": "",
@@ -7677,28 +7695,5 @@
   "title": "1% of ChatGPT Work (mobile/web) turns are failing",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
- },
- {
-  "body": "The issue affecting Claude services has been resolved. Impact occurred from 13:57 to 14:20 UTC",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "17 min",
-  "headline": "🟢 Claude is fixed. You may resume being productive.",
-  "id": "anthropic:t33dncr5ydvl:resolved:resolved:major:2026-09-11T14:37:11.168000+00:00",
-  "impact": "major",
-  "incident_id": "t33dncr5ydvl",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-11T14:45:41.926711+00:00",
-  "started_at": "2026-09-11T14:19:51.466000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
-  "transition": "resolved",
-  "url": "https://stspg.io/n9n8kfcxtkfm"
  }
 ]
