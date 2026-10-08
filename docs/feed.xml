@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 07 Oct 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Lovable sorted itself out after 1h 27m]]></title>
+<link>https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH</link>
+<guid isPermaLink='false'>lovable:01M4C774FXBYXXP85HM2EERXPH:resolved:resolved:minor:2026-10-07T23:46:55+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:44 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Projects stuck in Recovering acceptance after a draft merge</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 27m · Opened: Wed, 07 Oct 2026 22:19:49 +0000</p><p>We have deployed the fix and resolved the issue that caused projects to get stuck on "Recovering acceptance" after merging a draft. If your project is still stuck, please retry to allow it to recover and resume editing and building.</p><p><a href="https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH">Lovable status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M</link>
+<guid isPermaLink='false'>openai:01M4CBXZ62A9SVH8D74KVYQC8M:progress:monitoring:minor:2026-10-07T23:48:14+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:44 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with GPT-5.6 Instant in FedRAMP workspaces</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 07 Oct 2026 23:42:12 +0000</p><p>We have applied the mitigation and are monitoring the recovery and no longer seeing any errors.</p><p><a href="https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
 <link>https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 25 Sep 2026 13:45:59 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>Issue has beed resolved. We are monitoring the status.</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Cerebras Inference is out. Go and look at a tree.]]></title>
-<link>https://stspg.io/mnkgcr15z19x</link>
-<guid isPermaLink='false'>cerebras:8sc27zfgpkhk:opened:investigating:major:2026-09-25T12:16:49.083000+00:00</guid>
-<pubDate>Fri, 25 Sep 2026 12:30:09 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: investigating · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>Some features may be temporarily unavailable since UTC 10:54. We are currently working to resume normal service performance. We will provide further updates as we make progress.</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/96tzymfl733c</link>
-<guid isPermaLink='false'>cursor:n540z31sbqp6:resolved:resolved:minor:2026-09-25T06:51:32.123000+00:00</guid>
-<pubDate>Fri, 25 Sep 2026 07:00:10 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 34m · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>The service degradation affecting Grok Bot has been resolved.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
