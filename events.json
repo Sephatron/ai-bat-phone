@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for the listed services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is sulking, mildly",
+  "id": "openai:01M4CR8GCAFC1RYQXZDXAZP2VT:opened:investigating:minor:2026-10-08T03:17:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M4CR8GCAFC1RYQXZDXAZP2VT",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-08T03:30:36.065659+00:00",
+  "started_at": "2026-10-08T03:17:40+00:00",
+  "status": "investigating",
+  "title": "Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT"
+ },
+ {
   "body": "[Resolved] We have identified and resolved the connectors platform latency issue.",
   "components": [],
   "duration": "",
@@ -7689,23 +7707,5 @@
   "title": "Degraded functionality for Claude Cowork on Windows",
   "transition": "escalated",
   "url": "https://stspg.io/5yp3rhhztm30"
- },
- {
-  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
-  "components": [],
-  "duration": "",
-  "headline": "📡 Still watching. Nothing to report.",
-  "id": "meta:all:alive:2026-09-11",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "batphone",
-  "provider_name": "AI Bat Phone",
-  "published_at": "2026-09-11T13:45:39.305261+00:00",
-  "started_at": "2026-09-11T13:45:39.305261+00:00",
-  "status": "alive",
-  "title": "Still watching 21 provider status pages",
-  "transition": "alive",
-  "url": "https://sephatron.github.io/ai-bat-phone"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
+<link>https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT</link>
+<guid isPermaLink='false'>openai:01M4CR8GCAFC1RYQXZDXAZP2VT:opened:investigating:minor:2026-10-08T03:17:40+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 03:30:36 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 08 Oct 2026 03:17:40 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit has stopped wobbling]]></title>
 <link>https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432</link>
 <guid isPermaLink='false'>replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:resolved:resolved:minor:2026-10-08T02:30:33.780718+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 25 Sep 2026 23:01:01 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Codex down due to 401 backend key error</strong></p><p>Impact: critical · Status: identified · Opened: Fri, 25 Sep 2026 22:58:48 +0000</p><p>We have identified that users are experiencing a codex outage. We have identified the internal issue and are heading towards a mitigation.</p><p><a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cerebras Inference is upright again. That took 4h 58m.]]></title>
-<link>https://stspg.io/mnkgcr15z19x</link>
-<guid isPermaLink='false'>cerebras:8sc27zfgpkhk:resolved:resolved:major:2026-09-25T17:14:55.156000+00:00</guid>
-<pubDate>Fri, 25 Sep 2026 17:15:54 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: resolved · Affects: GPT-OSS-120B, Qwen-3.8-27b · Duration: 4h 58m · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>The incident has been resolved</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

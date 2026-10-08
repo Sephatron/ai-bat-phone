@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
+<link>https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT</link>
+<guid isPermaLink='false'>openai:01M4CR8GCAFC1RYQXZDXAZP2VT:opened:investigating:minor:2026-10-08T03:17:40+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 03:30:36 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 08 Oct 2026 03:17:40 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit has stopped wobbling]]></title>
 <link>https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432</link>
 <guid isPermaLink='false'>replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:resolved:resolved:minor:2026-10-08T02:30:33.780718+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 25 Sep 2026 14:01:09 +0000</pubDate>
 <category>AI Bat Phone</category>
 <description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cerebras Inference is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/mnkgcr15z19x</link>
-<guid isPermaLink='false'>cerebras:8sc27zfgpkhk:progress:monitoring:major:2026-09-25T13:41:26.888000+00:00</guid>
-<pubDate>Fri, 25 Sep 2026 13:45:59 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>Issue has beed resolved. We are monitoring the status.</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
