@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 21 min]]></title>
+<link>https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M</link>
+<guid isPermaLink='false'>openai:01M4CBXZ62A9SVH8D74KVYQC8M:resolved:resolved:minor:2026-10-08T00:03:19+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 00:16:05 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with GPT-5.6 Instant in FedRAMP workspaces</strong></p><p>Impact: minor · Status: resolved · Duration: 21 min · Opened: Wed, 07 Oct 2026 23:42:12 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable sorted itself out after 1h 27m]]></title>
 <link>https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH</link>
 <guid isPermaLink='false'>lovable:01M4C774FXBYXXP85HM2EERXPH:resolved:resolved:minor:2026-10-07T23:46:55+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 25 Sep 2026 12:30:09 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: investigating · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>Some features may be temporarily unavailable since UTC 10:54. We are currently working to resume normal service performance. We will provide further updates as we make progress.</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/96tzymfl733c</link>
-<guid isPermaLink='false'>cursor:n540z31sbqp6:resolved:resolved:minor:2026-09-25T06:51:32.123000+00:00</guid>
-<pubDate>Fri, 25 Sep 2026 07:00:10 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 34m · Opened: Fri, 25 Sep 2026 05:17:29 +0000</p><p>The service degradation affecting Grok Bot has been resolved.</p><p><a href="https://stspg.io/96tzymfl733c">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
