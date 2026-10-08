@@ -1,5 +1,30 @@
 [
  {
+  "body": "A fix has been implemented and we are monitoring for service restoration.",
+  "components": [
+   "Automations",
+   "Review Agents",
+   "CLI",
+   "Cloud Agents",
+   "IDE",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
+  "id": "cursor:x4mnlflpqc4w:progress:monitoring:minor:2026-10-08T14:08:09.614000+00:00",
+  "impact": "minor",
+  "incident_id": "x4mnlflpqc4w",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-08T14:15:51.137805+00:00",
+  "started_at": "2026-10-08T13:54:56.859000+00:00",
+  "status": "monitoring",
+  "title": "Opus 5.5 is Experiencing 429s",
+  "transition": "progress",
+  "url": "https://stspg.io/4lwl9qsfhlln"
+ },
+ {
   "body": "We are investigating a service degradation with Opus 5.5 being used across all product components.",
   "components": [
    "Automations",
@@ -7683,24 +7708,6 @@
   "status": "resolved",
   "title": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M28MEQWTQJDRCRPFD9FWQ0H3:progress:monitoring:minor:2026-09-11T21:51:56+00:00",
-  "impact": "minor",
-  "incident_id": "01M28MEQWTQJDRCRPFD9FWQ0H3",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-11T22:00:39.955406+00:00",
-  "started_at": "2026-09-11T16:22:49+00:00",
-  "status": "monitoring",
-  "title": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
  }
 ]

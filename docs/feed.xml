@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/4lwl9qsfhlln</link>
+<guid isPermaLink='false'>cursor:x4mnlflpqc4w:progress:monitoring:minor:2026-10-08T14:08:09.614000+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 14:15:51 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Opus 5.5 is Experiencing 429s</strong></p><p>Impact: minor · Status: monitoring · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Grok Bot · Opened: Thu, 08 Oct 2026 13:54:56 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/4lwl9qsfhlln">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
 <link>https://stspg.io/4lwl9qsfhlln</link>
 <guid isPermaLink='false'>cursor:x4mnlflpqc4w:opened:investigating:minor:2026-10-08T13:58:18.209000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 26 Sep 2026 00:45:56 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 45 min · Opened: Fri, 25 Sep 2026 23:47:29 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/m3kgdhh3lx5l">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/m3kgdhh3lx5l</link>
-<guid isPermaLink='false'>cursor:bfcck6qks18q:progress:monitoring:minor:2026-09-26T00:22:53.283000+00:00</guid>
-<pubDate>Sat, 26 Sep 2026 00:30:56 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: monitoring · Affects: Grok Bot · Opened: Fri, 25 Sep 2026 23:47:29 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/m3kgdhh3lx5l">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
