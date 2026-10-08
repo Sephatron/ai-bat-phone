@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are currently investigating an issue causing call failures in Agent conversations using SIP. Non-SIP Agent conversations are unaffected.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 ElevenLabs has downed tools — and so, probably, have you",
+  "id": "elevenlabs:01M4E1HC38AYN544QVC704X0FS:opened:investigating:major:2026-10-08T15:19:02+00:00",
+  "impact": "major",
+  "incident_id": "01M4E1HC38AYN544QVC704X0FS",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-08T15:30:29.445638+00:00",
+  "started_at": "2026-10-08T15:19:02+00:00",
+  "status": "investigating",
+  "title": "Agent SIP Conversation Disruption",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring for service restoration.",
   "components": [
    "Automations",
@@ -7691,23 +7709,5 @@
   "title": "Elevated error rates for Codex and ChatGPT Work",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2EWYR55J47M2BPG9WC76VEG"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "9h 34m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M28MEQWTQJDRCRPFD9FWQ0H3:resolved:resolved:minor:2026-09-12T01:57:37+00:00",
-  "impact": "minor",
-  "incident_id": "01M28MEQWTQJDRCRPFD9FWQ0H3",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-12T02:00:56.125606+00:00",
-  "started_at": "2026-09-11T16:22:49+00:00",
-  "status": "resolved",
-  "title": "1% of ChatGPT Work (mobile/web) turns are failing for existing threads",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M28MEQWTQJDRCRPFD9FWQ0H3"
  }
 ]
