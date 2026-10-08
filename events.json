@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] We have identified and resolved the connectors platform latency issue.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit has stopped wobbling",
+  "id": "replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:resolved:resolved:minor:2026-10-08T02:30:33.780718+00:00",
+  "impact": "minor",
+  "incident_id": "0172bdc7-0453-42d4-bd16-193e9e9ce432",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-08T02:30:33.780718+00:00",
+  "started_at": "2026-10-08T02:22:59+00:00",
+  "status": "resolved",
+  "title": "Connectors platform latency",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "21 min",
@@ -7689,23 +7707,5 @@
   "title": "Still watching 21 provider status pages",
   "transition": "alive",
   "url": "https://sephatron.github.io/ai-bat-phone"
- },
- {
-  "body": "The issue causing the Windows Desktop App to crash has now been resolved and the app is working as normal.",
-  "components": [],
-  "duration": "1h 16m",
-  "headline": "🟢 Lovable lives. Pick your tools back up.",
-  "id": "lovable:01M281DCXY75N9NESPFVNXKDRN:resolved:resolved:major:2026-09-11T12:06:14+00:00",
-  "impact": "major",
-  "incident_id": "01M281DCXY75N9NESPFVNXKDRN",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-11T12:15:41.458369+00:00",
-  "started_at": "2026-09-11T10:50:02+00:00",
-  "status": "resolved",
-  "title": "Lovable Desktop App for Windows Crashing",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M281DCXY75N9NESPFVNXKDRN"
  }
 ]

@@ -4733,8 +4733,8 @@
   "replit:0172bdc7-0453-42d4-bd16-193e9e9ce432": {
    "impact": "minor",
    "last_seen_at": "2026-10-08T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-06T22:08:07+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-08T02:22:59+00:00"
   },
   "replit:0427a9eb-c674-41ec-9731-1a325a89e7de": {
    "impact": "minor",
