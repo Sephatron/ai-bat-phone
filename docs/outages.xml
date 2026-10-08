@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
+<link>https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6</link>
+<guid isPermaLink='false'>elevenlabs:01M4E4CWPTSJZ9QH0J35V2Q0W6:opened:monitoring:major:2026-10-08T16:15:46+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 16:16:47 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased Dubbing Latency and Failure Rate</strong></p><p>Impact: major · Status: monitoring · Opened: Thu, 08 Oct 2026 16:09:01 +0000</p><p>We have traced error metrics as they have returned to baseline. We're currently monitoring to ensure full resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from ElevenLabs after 24 min]]></title>
 <link>https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS</link>
 <guid isPermaLink='false'>elevenlabs:01M4E1HC38AYN544QVC704X0FS:resolved:resolved:major:2026-10-08T15:43:58+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 14:01:48 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: investigating · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We are investigating an issue on EU residency affecting the ElevenAgents platform.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Vercel has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/p633qkgvpdsy</link>
-<guid isPermaLink='false'>vercel:yy1sm6x5l83q:opened:monitoring:major:2026-09-28T13:45:39.632000+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 13:46:15 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Build failures and deployments serving 500s</strong></p><p>Impact: major · Status: monitoring · Affects: Builds · Opened: Mon, 28 Sep 2026 13:44:29 +0000</p><p>Customers who built or deployed between 13:01 and 13:11 UTC experienced elevated rates of build failures due to unexpected error. Some customers builds succeeded but resulted in deployments which failed and served 500s. Any customers experiencing runtime errors should re-deploy their projects.</p><p><a href="https://stspg.io/p633qkgvpdsy">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

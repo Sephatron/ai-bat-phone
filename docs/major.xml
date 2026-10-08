@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
+<link>https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6</link>
+<guid isPermaLink='false'>elevenlabs:01M4E4CWPTSJZ9QH0J35V2Q0W6:opened:monitoring:major:2026-10-08T16:15:46+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 16:16:47 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased Dubbing Latency and Failure Rate</strong></p><p>Impact: major · Status: monitoring · Opened: Thu, 08 Oct 2026 16:09:01 +0000</p><p>We have traced error metrics as they have returned to baseline. We're currently monitoring to ensure full resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from ElevenLabs after 24 min]]></title>
 <link>https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS</link>
 <guid isPermaLink='false'>elevenlabs:01M4E1HC38AYN544QVC704X0FS:resolved:resolved:major:2026-10-08T15:43:58+00:00</guid>
