@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 08 Oct 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
+<link>https://stspg.io/g415ws29757p</link>
+<guid isPermaLink='false'>cursor:25l5bm6rdrb6:opened:investigating:minor:2026-10-08T19:52:45.257000+00:00</guid>
+<pubDate>Thu, 08 Oct 2026 20:00:36 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting Opus 5.5</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE, Grok Bot · Opened: Thu, 08 Oct 2026 19:52:44 +0000</p><p>We are investigating a service degradation affecting Opus 5.5. Users may see intermittent errors or failed requests when using Opus 5.5.</p><p><a href="https://stspg.io/g415ws29757p">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 16:16:06 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>We have traced STT latency metrics as they have improved and are continuing to monitor to ensure full resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT</link>
-<guid isPermaLink='false'>elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:opened:investigating:minor:2026-09-28T15:42:36+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 15:46:21 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Increased latency for Speech to Text API requests</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 28 Sep 2026 15:42:36 +0000</p><p>We have identified an issue with increased latency for Speech to Text API requests. We are looking into it and will post updates as they become available.</p><p><a href="https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

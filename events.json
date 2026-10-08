@@ -1,5 +1,29 @@
 [
  {
+  "body": "We are investigating a service degradation affecting Opus 5.5. Users may see intermittent errors or failed requests when using Opus 5.5.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor has a limp, not a break",
+  "id": "cursor:25l5bm6rdrb6:opened:investigating:minor:2026-10-08T19:52:45.257000+00:00",
+  "impact": "minor",
+  "incident_id": "25l5bm6rdrb6",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-08T20:00:36.581058+00:00",
+  "started_at": "2026-10-08T19:52:44.861000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting Opus 5.5",
+  "transition": "opened",
+  "url": "https://stspg.io/g415ws29757p"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "13 min",
@@ -7688,23 +7712,5 @@
   "title": "Partial outage on Kimi K3 model API inference (non-US only)",
   "transition": "opened",
   "url": "https://stspg.io/wmt6p7fnt7z0"
- },
- {
-  "body": "Earlier today, some ChatGPT Plus users using Work Mode experienced errors starting or resuming tasks, or had limited access to workspace tools and files. We have applied a mitigation and service has recovered. We are monitoring the results.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M2GA8XTS6VB3QCDEGZ0HNAQ5:opened:monitoring:minor:2026-09-14T15:58:48+00:00",
-  "impact": "minor",
-  "incident_id": "01M2GA8XTS6VB3QCDEGZ0HNAQ5",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-14T16:00:45.794582+00:00",
-  "started_at": "2026-09-14T15:58:48+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors affecting Work Mode in ChatGPT",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5"
  }
 ]
