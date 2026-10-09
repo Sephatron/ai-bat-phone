@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-09T21:00:00+00:00",
+ "heartbeat": "2026-10-09T22:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -779,8 +779,8 @@
   "baseten:phnxn3p26gfx": {
    "impact": "minor",
    "last_seen_at": "2026-10-09T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-09T21:29:06.571000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-09T21:57:55.330000+00:00"
   },
   "baseten:pv607pnjmzk7": {
    "impact": "minor",
@@ -2700,7 +2700,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-09T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-01T17:56:54.289000+00:00"
+   "updated_at": "2026-10-09T21:52:10.203000+00:00"
   },
   "github:2kxnqcxcrr7f": {
    "impact": "major",
@@ -4555,6 +4555,12 @@
    "last_seen_at": "2026-10-09T00:00:00+00:00",
    "status": "identified",
    "updated_at": "2026-10-09T21:00:39+00:00"
+  },
+  "openai:01M4HA7BCCXVHTR5DCYMSBQF2H": {
+   "impact": "major",
+   "last_seen_at": "2026-10-09T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-09T21:48:34+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

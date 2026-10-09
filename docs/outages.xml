@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 09 Oct 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Tools down: OpenAI is broken]]></title>
+<link>https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H</link>
+<guid isPermaLink='false'>openai:01M4HA7BCCXVHTR5DCYMSBQF2H:opened:investigating:major:2026-10-09T21:48:34+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 22:00:33 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: investigating · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>We are investigating an issue affecting some ChatGPT workspace administrators’ ability to view and manage plugin availability and settings. Some users may also see plugins as unavailable. We will provide another update as soon as we have more information.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 Baseten has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/s6lwc065drkt</link>
+<guid isPermaLink='false'>baseten:phnxn3p26gfx:progress:monitoring:minor:2026-10-09T21:57:55.330000+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 22:00:33 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors on new model builds. Existing models are not affected</strong></p><p>Impact: minor · Status: monitoring · Affects: Model Management API · Opened: Fri, 09 Oct 2026 21:29:06 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/s6lwc065drkt">Baseten status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Baseten is a bit under the weather]]></title>
 <link>https://stspg.io/s6lwc065drkt</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 01:31:22 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Metrics degradation in UI and API. **Inference not affected**</strong></p><p>Impact: minor · Status: resolved · Affects: Model Management API, Web Application · Duration: 21 min · Opened: Tue, 29 Sep 2026 01:07:54 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/883zgz27m3yn">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
-<link>https://stspg.io/883zgz27m3yn</link>
-<guid isPermaLink='false'>baseten:dfmq82b0t69x:opened:investigating:minor:2026-09-29T01:09:35.944000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 01:16:18 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Metrics degradation in UI and API. **Inference not affected**</strong></p><p>Impact: minor · Status: investigating · Affects: Model Management API, Web Application · Opened: Tue, 29 Sep 2026 01:07:54 +0000</p><p>We are continuing to investigate this issue.</p><p><a href="https://stspg.io/883zgz27m3yn">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 26 min.]]></title>
-<link>https://stspg.io/38rg6zk8nx4d</link>
-<guid isPermaLink='false'>moonshot:b0yb9hljvczz:resolved:resolved:critical:2026-09-29T00:12:13.809000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 00:16:08 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: resolved · Affects: File uploads · Duration: 26 min · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
