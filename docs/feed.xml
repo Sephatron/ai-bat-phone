@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Baseten is a bit under the weather]]></title>
+<link>https://stspg.io/s6lwc065drkt</link>
+<guid isPermaLink='false'>baseten:phnxn3p26gfx:opened:investigating:minor:2026-10-09T21:29:06.571000+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 21:45:29 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors on new model builds. Existing models are not affected</strong></p><p>Impact: minor · Status: investigating · Affects: Model Management API · Opened: Fri, 09 Oct 2026 21:29:06 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/s6lwc065drkt">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Replit knows what it did]]></title>
 <link>https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525</link>
 <guid isPermaLink='false'>replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:opened:identified:minor:2026-10-09T21:30:30.923114+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 01:01:09 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: in progress · Affects: Model Management API, Web Application · Opened: Mon, 28 Sep 2026 18:40:33 +0000</p><p>Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><a href="https://stspg.io/6b2703ymtcrn">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 26 min.]]></title>
-<link>https://stspg.io/38rg6zk8nx4d</link>
-<guid isPermaLink='false'>moonshot:b0yb9hljvczz:resolved:resolved:critical:2026-09-29T00:12:13.809000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 00:16:08 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: resolved · Affects: File uploads · Duration: 26 min · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

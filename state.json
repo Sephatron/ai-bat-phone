@@ -2,17 +2,13 @@
  "heartbeat": "2026-10-09T21:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-09T21:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-09T21:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cerebras": {
    "consecutive_failures": 0
@@ -45,9 +41,7 @@
    "consecutive_failures": 0
   },
   "moonshot": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-09T21:00:00+00:00",
-   "last_error": "https://status.moonshot.cn/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "openai": {
    "consecutive_failures": 0
@@ -70,9 +64,7 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-09T21:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
@@ -783,6 +775,12 @@
    "last_seen_at": "2026-10-09T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-31T16:58:01.295000+00:00"
+  },
+  "baseten:phnxn3p26gfx": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-09T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-09T21:29:06.571000+00:00"
   },
   "baseten:pv607pnjmzk7": {
    "impact": "minor",
@@ -1593,6 +1591,12 @@
    "last_seen_at": "2026-10-09T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-04T00:42:13.554000+00:00"
+  },
+  "cursor:ktfzb72q01z5": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-09T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-09T21:42:56.757000+00:00"
   },
   "cursor:kwxt4c14w1yp": {
    "impact": "minor",

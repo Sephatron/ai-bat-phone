@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are currently investigating this issue.",
+  "components": [
+   "Model Management API"
+  ],
+  "duration": "",
+  "headline": "🟠 Baseten is a bit under the weather",
+  "id": "baseten:phnxn3p26gfx:opened:investigating:minor:2026-10-09T21:29:06.571000+00:00",
+  "impact": "minor",
+  "incident_id": "phnxn3p26gfx",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-10-09T21:45:29.259222+00:00",
+  "started_at": "2026-10-09T21:29:06.449000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors on new model builds. Existing models are not affected",
+  "transition": "opened",
+  "url": "https://stspg.io/s6lwc065drkt"
+ },
+ {
   "body": "[Identified] Some users are unable to top up. We’ve identified the issue and are actively working to resolve it.",
   "components": [],
   "duration": "",
@@ -7691,26 +7711,6 @@
   "status": "monitoring",
   "title": "Elevated errors for models in a single India-based cluster",
   "transition": "progress",
-  "url": "https://stspg.io/zgqtvb6hfnjb"
- },
- {
-  "body": "We are currently investigating this issue.",
-  "components": [
-   "Dedicated Inference"
-  ],
-  "duration": "",
-  "headline": "🟠 Baseten has a limp, not a break",
-  "id": "baseten:hpfyy75qvv4x:opened:investigating:minor:2026-09-15T01:22:38.786000+00:00",
-  "impact": "minor",
-  "incident_id": "hpfyy75qvv4x",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-15T01:30:43.535977+00:00",
-  "started_at": "2026-09-15T01:22:38.717000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors for models in single cluster",
-  "transition": "opened",
   "url": "https://stspg.io/zgqtvb6hfnjb"
  }
 ]
