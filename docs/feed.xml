@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Perplexity is a bit under the weather]]></title>
+<link>https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN</link>
+<guid isPermaLink='false'>perplexity:01M4HD3DNF1K94CR5D51C37RRN:opened:investigating:minor:2026-10-09T22:45:29.902938+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 22:45:29 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>Elevated API errors and timeouts</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 09 Oct 2026 22:38:51 +0000</p><p>Status: Investigating Users may experience errors or timeouts when making API requests. We are investigating elevated API errors and timeouts. Affected components Computer (Degraded performance) API (Degraded performance) Website (Degraded performance) App (Degraded performance)</p><p><a href="https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN">Perplexity status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://stspg.io/zb0nz52c9qjh</link>
+<guid isPermaLink='false'>cursor:gh45ycs0zs0g:opened:investigating:minor:2026-10-09T22:37:52.823000+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 22:45:29 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Fri, 09 Oct 2026 22:37:52 +0000</p><p>We are investigating a service degradation affecting Cloud Agents and Grok Bot. Some new Cloud Agents and Grok Bot sessions may fail to start.</p><p><a href="https://stspg.io/zb0nz52c9qjh">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
 <link>https://stspg.io/s6lwc065drkt</link>
 <guid isPermaLink='false'>baseten:phnxn3p26gfx:resolved:resolved:minor:2026-10-09T22:06:17.834000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 15:01:06 +0000</pubDate>
 <category>AI21</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 SambaNova is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.sambanova.ai</link>
-<guid isPermaLink='false'>meta:sambanova:unreachable:2026-09-29T14:00:00+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 14:46:20 +0000</pubDate>
-<category>SambaNova</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read SambaNova's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
-<link>https://stspg.io/wy1xyqdkppvx</link>
-<guid isPermaLink='false'>cursor:jb59kzth2pwf:opened:investigating:minor:2026-09-29T14:30:51.793000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 14:31:20 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>We are investigating a service degradation affecting Cloud Agents and Grok Bot.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

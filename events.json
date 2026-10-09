@@ -1,5 +1,44 @@
 [
  {
+  "body": "Status: Investigating Users may experience errors or timeouts when making API requests. We are investigating elevated API errors and timeouts. Affected components Computer (Degraded performance) API (Degraded performance) Website (Degraded performance) App (Degraded performance)",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Perplexity is a bit under the weather",
+  "id": "perplexity:01M4HD3DNF1K94CR5D51C37RRN:opened:investigating:minor:2026-10-09T22:45:29.902938+00:00",
+  "impact": "minor",
+  "incident_id": "01M4HD3DNF1K94CR5D51C37RRN",
+  "kind": "incident",
+  "provider_key": "perplexity",
+  "provider_name": "Perplexity",
+  "published_at": "2026-10-09T22:45:29.902938+00:00",
+  "started_at": "2026-10-09T22:38:51+00:00",
+  "status": "investigating",
+  "title": "Elevated API errors and timeouts",
+  "transition": "opened",
+  "url": "https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN"
+ },
+ {
+  "body": "We are investigating a service degradation affecting Cloud Agents and Grok Bot. Some new Cloud Agents and Grok Bot sessions may fail to start.",
+  "components": [
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is having a wobble",
+  "id": "cursor:gh45ycs0zs0g:opened:investigating:minor:2026-10-09T22:37:52.823000+00:00",
+  "impact": "minor",
+  "incident_id": "gh45ycs0zs0g",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-09T22:45:29.902938+00:00",
+  "started_at": "2026-10-09T22:37:52.652000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
+  "transition": "opened",
+  "url": "https://stspg.io/zb0nz52c9qjh"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Model Management API"
@@ -7676,41 +7715,5 @@
   "title": "Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA"
- },
- {
-  "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M2HXY4B0RJ19P2H7VPT3TG5P:opened:investigating:none:2026-09-15T07:01:40+00:00",
-  "impact": "none",
-  "incident_id": "01M2HXY4B0RJ19P2H7VPT3TG5P",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-15T07:15:47.334449+00:00",
-  "started_at": "2026-09-15T07:01:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for one of our Serverless models",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "14 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M2HJCVXAHZ975EXQ6XQD8QXR:resolved:resolved:minor:2026-09-15T03:54:21+00:00",
-  "impact": "minor",
-  "incident_id": "01M2HJCVXAHZ975EXQ6XQD8QXR",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-15T04:00:47.673836+00:00",
-  "started_at": "2026-09-15T03:40:00+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR"
  }
 ]
