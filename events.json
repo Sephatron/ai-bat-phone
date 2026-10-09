@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified an issue causing delays in publishing Costs data through the Compliance API. The API Platform organization costs endpoint and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M4GV1M2A3K38T73JCVCD9G0R:opened:identified:minor:2026-10-09T17:27:49+00:00",
+  "impact": "minor",
+  "incident_id": "01M4GV1M2A3K38T73JCVCD9G0R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-09T17:30:30.304173+00:00",
+  "started_at": "2026-10-09T17:23:18+00:00",
+  "status": "identified",
+  "title": "Delayed Costs data in the Compliance API",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
@@ -7694,23 +7712,5 @@
   "title": "Degraded Performance affecting Agents API",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [],
-  "duration": "55 min",
-  "headline": "🟢 GitHub is fine again",
-  "id": "github:kzh5j0mt7qwc:resolved:resolved:minor:2026-09-14T19:35:48.154000+00:00",
-  "impact": "minor",
-  "incident_id": "kzh5j0mt7qwc",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-14T19:45:39.572082+00:00",
-  "started_at": "2026-09-14T18:40:25.072000+00:00",
-  "status": "resolved",
-  "title": "Actions Larger Runner Jobs for some customers may be slow to start",
-  "transition": "resolved",
-  "url": "https://stspg.io/f2b6fd4l83wy"
  }
 ]

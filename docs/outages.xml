@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R</link>
+<guid isPermaLink='false'>openai:01M4GV1M2A3K38T73JCVCD9G0R:opened:identified:minor:2026-10-09T17:27:49+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 17:30:30 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>We have identified an issue causing delays in publishing Costs data through the Compliance API. The API Platform organization costs endpoint and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <guid isPermaLink='false'>meta:all:alive:2026-10-09</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 21:31:09 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Copilot Code Review is unable to complete reviews</strong></p><p>Impact: critical · Status: investigating · Opened: Mon, 28 Sep 2026 21:16:39 +0000</p><p>Revert of the impacted change is in flight, expect full recovery once the deployment is done.</p><p><a href="https://stspg.io/phqvtmdm3y2m">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 13 min]]></title>
-<link>https://stspg.io/fd5f12qkcsmc</link>
-<guid isPermaLink='false'>cursor:x2g19tzq27sg:resolved:resolved:minor:2026-09-28T20:36:19.974000+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 20:46:16 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 13 min · Opened: Mon, 28 Sep 2026 20:23:05 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/fd5f12qkcsmc">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
