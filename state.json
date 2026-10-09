@@ -4565,8 +4565,8 @@
   "openai:01M4HA7BCCXVHTR5DCYMSBQF2H": {
    "impact": "major",
    "last_seen_at": "2026-10-09T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-09T22:52:35+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-09T23:26:59+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
@@ -4667,8 +4667,8 @@
   "perplexity:01M4HD3DNF1K94CR5D51C37RRN": {
    "impact": "minor",
    "last_seen_at": "2026-10-09T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-09T23:10:27+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-09T23:15:40+00:00"
   },
   "perplexity:cm8t22p39002dg69u0yxplqiq": {
    "impact": "minor",

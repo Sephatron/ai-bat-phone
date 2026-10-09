@@ -1,5 +1,41 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1h 38m",
+  "headline": "🟢 OpenAI is fixed. You may resume being productive.",
+  "id": "openai:01M4HA7BCCXVHTR5DCYMSBQF2H:resolved:resolved:major:2026-10-09T23:26:59+00:00",
+  "impact": "major",
+  "incident_id": "01M4HA7BCCXVHTR5DCYMSBQF2H",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-09T23:30:30.416112+00:00",
+  "started_at": "2026-10-09T21:48:34+00:00",
+  "status": "resolved",
+  "title": "Workspace admins may be unable to manage plugins",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H"
+ },
+ {
+  "body": "Status: Resolved The issue affecting the Website, App, and Computer has been resolved. All services are operational. The API remained operational throughout this incident. Affected components Website (Operational) App (Operational) Computer (Operational) API (Operational)",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Perplexity is fine again",
+  "id": "perplexity:01M4HD3DNF1K94CR5D51C37RRN:resolved:resolved:minor:2026-10-09T23:30:30.416112+00:00",
+  "impact": "minor",
+  "incident_id": "01M4HD3DNF1K94CR5D51C37RRN",
+  "kind": "incident",
+  "provider_key": "perplexity",
+  "provider_name": "Perplexity",
+  "published_at": "2026-10-09T23:30:30.416112+00:00",
+  "started_at": "2026-10-09T23:15:40+00:00",
+  "status": "resolved",
+  "title": "Elevated API errors and timeouts",
+  "transition": "resolved",
+  "url": "https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN"
+ },
+ {
   "body": "Status: Monitoring Correction to our previous updates: we do not believe the API was affected by this incident and it remains operational. Affected components Website (Degraded performance) App (Degraded performance) Computer (Degraded performance) API (Operational)",
   "components": [],
   "duration": "",
@@ -7680,43 +7716,5 @@
   "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
   "transition": "resolved",
   "url": "https://status.deepseek.com/incidents/6985247573287"
- },
- {
-  "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service)",
-  "components": [
-   "DeepSeek V4.1 Flash API服务(API Service)"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from DeepSeek",
-  "id": "deepseek:urn:flashduty:change:6985247573287:opened:investigating:minor:2026-09-15T09:00:51.984997+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:6985247573287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-09-15T09:00:51.984997+00:00",
-  "started_at": "2026-09-15T08:55:34+00:00",
-  "status": "investigating",
-  "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
-  "transition": "opened",
-  "url": "https://status.deepseek.com/incidents/6985247573287"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "41 min",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M2HYH64J2CZMZ63HEV2FCQFA:resolved:resolved:minor:2026-09-15T07:53:36+00:00",
-  "impact": "minor",
-  "incident_id": "01M2HYH64J2CZMZ63HEV2FCQFA",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-15T08:00:48.085328+00:00",
-  "started_at": "2026-09-15T07:12:04+00:00",
-  "status": "resolved",
-  "title": "Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA"
  }
 ]
