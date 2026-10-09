@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing recovery in workspace administrators’ ability to view and manage plugin availability and settings. We are monitoring to ensure service remains stable.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M4HA7BCCXVHTR5DCYMSBQF2H:progress:monitoring:major:2026-10-09T22:52:35+00:00",
+  "impact": "major",
+  "incident_id": "01M4HA7BCCXVHTR5DCYMSBQF2H",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-09T23:00:31.437224+00:00",
+  "started_at": "2026-10-09T21:48:34+00:00",
+  "status": "monitoring",
+  "title": "Workspace admins may be unable to manage plugins",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H"
+ },
+ {
   "body": "Status: Investigating Users may experience errors or timeouts when making API requests. We are investigating elevated API errors and timeouts. Affected components Computer (Degraded performance) API (Degraded performance) Website (Degraded performance) App (Degraded performance)",
   "components": [],
   "duration": "",
@@ -7697,23 +7715,5 @@
   "title": "Service Degradation for one of our Serverless models",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is sulking, mildly",
-  "id": "openai:01M2HYH64J2CZMZ63HEV2FCQFA:opened:investigating:minor:2026-09-15T07:12:04+00:00",
-  "impact": "minor",
-  "incident_id": "01M2HYH64J2CZMZ63HEV2FCQFA",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-15T07:15:47.334449+00:00",
-  "started_at": "2026-09-15T07:12:04+00:00",
-  "status": "investigating",
-  "title": "Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA"
  }
 ]
