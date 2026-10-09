@@ -11,6 +11,14 @@
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3</link>
+<guid isPermaLink='false'>openai:01M4H7FKXDA425TDNP2CRGEYA3:opened:identified:major:2026-10-09T21:00:39+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 21:15:32 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Some ChatGPT content may be unavailable on Android</strong></p><p>Impact: major · Status: identified · Opened: Fri, 09 Oct 2026 21:00:39 +0000</p><p>We have identified an issue affecting the ChatGPT Android app where users may see “This content is unavailable in this version of the app” instead of certain content. A fix is rolling out gradually in the latest Android version. Users can use ChatGPT on the web while we work to restore the experience for older app versions.</p><p><a href="https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R</link>
 <guid isPermaLink='false'>openai:01M4GV1M2A3K38T73JCVCD9G0R:opened:identified:minor:2026-10-09T17:27:49+00:00</guid>
 <pubDate>Fri, 09 Oct 2026 17:30:30 +0000</pubDate>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 28 Sep 2026 23:46:06 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: investigating · Affects: File uploads · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>kimi fs请求失败率过高</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/phqvtmdm3y2m</link>
-<guid isPermaLink='false'>github:169pg72gg9jr:resolved:resolved:critical:2026-09-28T22:08:20.242000+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 22:16:16 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Copilot Code Review is unable to complete reviews</strong></p><p>Impact: critical · Status: resolved · Duration: 51 min · Opened: Mon, 28 Sep 2026 21:16:39 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/phqvtmdm3y2m">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
