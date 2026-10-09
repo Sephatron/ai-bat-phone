@@ -779,8 +779,8 @@
   "baseten:phnxn3p26gfx": {
    "impact": "minor",
    "last_seen_at": "2026-10-09T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-09T21:57:55.330000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-09T22:06:17.834000+00:00"
   },
   "baseten:pv607pnjmzk7": {
    "impact": "minor",
@@ -4547,8 +4547,8 @@
   "openai:01M4GV1M2A3K38T73JCVCD9G0R": {
    "impact": "minor",
    "last_seen_at": "2026-10-09T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-09T18:46:25+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-09T22:03:59+00:00"
   },
   "openai:01M4H7FKXDA425TDNP2CRGEYA3": {
    "impact": "major",

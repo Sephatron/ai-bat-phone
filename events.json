@@ -1,5 +1,43 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Model Management API"
+  ],
+  "duration": "37 min",
+  "headline": "🟢 Baseten has stopped wobbling",
+  "id": "baseten:phnxn3p26gfx:resolved:resolved:minor:2026-10-09T22:06:17.834000+00:00",
+  "impact": "minor",
+  "incident_id": "phnxn3p26gfx",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-10-09T22:15:29.688843+00:00",
+  "started_at": "2026-10-09T21:29:06.449000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors on new model builds. Existing models are not affected",
+  "transition": "resolved",
+  "url": "https://stspg.io/s6lwc065drkt"
+ },
+ {
+  "body": "We have implemented a mitigation, and delayed Costs data is now processing through the Compliance API. Some customers may continue to see incomplete Costs data while the backlog catches up. We expect this catch-up process to continue through Sunday, October 11. ChatGPT usage and API Platform requests remain unaffected. We are monitoring recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M4GV1M2A3K38T73JCVCD9G0R:progress:monitoring:minor:2026-10-09T22:03:59+00:00",
+  "impact": "minor",
+  "incident_id": "01M4GV1M2A3K38T73JCVCD9G0R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-09T22:15:29.688843+00:00",
+  "started_at": "2026-10-09T17:23:18+00:00",
+  "status": "monitoring",
+  "title": "Delayed Costs data in the Compliance API",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R"
+ },
+ {
   "body": "We are investigating an issue affecting some ChatGPT workspace administrators’ ability to view and manage plugin availability and settings. Some users may also see plugins as unavailable. We will provide another update as soon as we have more information.",
   "components": [],
   "duration": "",
@@ -7674,41 +7712,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is a bit under the weather",
-  "id": "fireworks:01M2HJCVXAHZ975EXQ6XQD8QXR:opened:investigating:minor:2026-09-15T03:40:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M2HJCVXAHZ975EXQ6XQD8QXR",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-15T03:45:41.214815+00:00",
-  "started_at": "2026-09-15T03:40:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M2HJCVXAHZ975EXQ6XQD8QXR"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "11h 12m",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M2GA8XTS6VB3QCDEGZ0HNAQ5:resolved:resolved:minor:2026-09-15T03:11:36+00:00",
-  "impact": "minor",
-  "incident_id": "01M2GA8XTS6VB3QCDEGZ0HNAQ5",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-15T03:15:38.537263+00:00",
-  "started_at": "2026-09-14T15:58:48+00:00",
-  "status": "resolved",
-  "title": "Elevated errors affecting Work Mode in ChatGPT",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5"
  }
 ]

@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
+<link>https://stspg.io/s6lwc065drkt</link>
+<guid isPermaLink='false'>baseten:phnxn3p26gfx:resolved:resolved:minor:2026-10-09T22:06:17.834000+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 22:15:29 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors on new model builds. Existing models are not affected</strong></p><p>Impact: minor · Status: resolved · Affects: Model Management API · Duration: 37 min · Opened: Fri, 09 Oct 2026 21:29:06 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/s6lwc065drkt">Baseten status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R</link>
+<guid isPermaLink='false'>openai:01M4GV1M2A3K38T73JCVCD9G0R:progress:monitoring:minor:2026-10-09T22:03:59+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 22:15:29 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>We have implemented a mitigation, and delayed Costs data is now processing through the Compliance API. Some customers may continue to see incomplete Costs data while the backlog catches up. We expect this catch-up process to continue through Sunday, October 11. ChatGPT usage and API Platform requests remain unaffected. We are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: OpenAI is broken]]></title>
 <link>https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H</link>
 <guid isPermaLink='false'>openai:01M4HA7BCCXVHTR5DCYMSBQF2H:opened:investigating:major:2026-10-09T21:48:34+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 14:31:20 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>We are investigating a service degradation affecting Cloud Agents and Grok Bot.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
-<link>https://stspg.io/br61xzj05pp5</link>
-<guid isPermaLink='false'>anthropic:4xvtc2gnq73l:opened:investigating:major:2026-09-29T14:30:19.582000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 14:31:20 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 29 Sep 2026 14:21:37 +0000</p><p>We are investigating reports of degraded performance affecting claude.ai, platform.claude.com, the Claude API, Claude Code, and Claude Cowork. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/br61xzj05pp5">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten is fine again]]></title>
-<link>https://stspg.io/883zgz27m3yn</link>
-<guid isPermaLink='false'>baseten:dfmq82b0t69x:resolved:resolved:minor:2026-09-29T01:28:56.550000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 01:31:22 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Metrics degradation in UI and API. **Inference not affected**</strong></p><p>Impact: minor · Status: resolved · Affects: Model Management API, Web Application · Duration: 21 min · Opened: Tue, 29 Sep 2026 01:07:54 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/883zgz27m3yn">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
