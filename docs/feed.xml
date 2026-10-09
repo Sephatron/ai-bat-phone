@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Replit knows what it did]]></title>
+<link>https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525</link>
+<guid isPermaLink='false'>replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:opened:identified:minor:2026-10-09T21:30:30.923114+00:00</guid>
+<pubDate>Fri, 09 Oct 2026 21:30:30 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Users unable to top-up</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 09 Oct 2026 21:18:13 +0000</p><p>[Identified] Some users are unable to top up. We’ve identified the issue and are actively working to resolve it.</p><p><a href="https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3</link>
 <guid isPermaLink='false'>openai:01M4H7FKXDA425TDNP2CRGEYA3:opened:identified:major:2026-10-09T21:00:39+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 00:16:08 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: resolved · Affects: File uploads · Duration: 26 min · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/38rg6zk8nx4d</link>
-<guid isPermaLink='false'>moonshot:b0yb9hljvczz:opened:investigating:critical:2026-09-28T23:45:14.120000+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 23:46:06 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: investigating · Affects: File uploads · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>kimi fs请求失败率过高</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
