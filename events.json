@@ -1,5 +1,44 @@
 [
  {
+  "body": "Status: Monitoring Correction to our previous updates: we do not believe the API was affected by this incident and it remains operational. Affected components Website (Degraded performance) App (Degraded performance) Computer (Degraded performance) API (Operational)",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Perplexity has applied a fix and is holding its breath",
+  "id": "perplexity:01M4HD3DNF1K94CR5D51C37RRN:progress:monitoring:minor:2026-10-09T23:15:31.682240+00:00",
+  "impact": "minor",
+  "incident_id": "01M4HD3DNF1K94CR5D51C37RRN",
+  "kind": "incident",
+  "provider_key": "perplexity",
+  "provider_name": "Perplexity",
+  "published_at": "2026-10-09T23:15:31.682240+00:00",
+  "started_at": "2026-10-09T23:10:27+00:00",
+  "status": "monitoring",
+  "title": "Elevated API errors and timeouts",
+  "transition": "progress",
+  "url": "https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN"
+ },
+ {
+  "body": "This incident has been resolved. New Cloud Agents and Grok Bot sessions are starting normally again.",
+  "components": [
+   "Cloud Agents",
+   "Grok Bot"
+  ],
+  "duration": "31 min",
+  "headline": "🟢 Cursor sorted itself out after 31 min",
+  "id": "cursor:gh45ycs0zs0g:resolved:resolved:minor:2026-10-09T23:09:17.472000+00:00",
+  "impact": "minor",
+  "incident_id": "gh45ycs0zs0g",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-09T23:15:31.682240+00:00",
+  "started_at": "2026-10-09T22:37:52.652000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
+  "transition": "resolved",
+  "url": "https://stspg.io/zb0nz52c9qjh"
+ },
+ {
   "body": "We are seeing recovery in workspace administrators’ ability to view and manage plugin availability and settings. We are monitoring to ensure service remains stable.",
   "components": [],
   "duration": "",
@@ -7679,41 +7718,5 @@
   "title": "Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M2HYH64J2CZMZ63HEV2FCQFA:progress:monitoring:minor:2026-09-15T07:24:26+00:00",
-  "impact": "minor",
-  "incident_id": "01M2HYH64J2CZMZ63HEV2FCQFA",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-15T07:30:46.917431+00:00",
-  "started_at": "2026-09-15T07:12:04+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors from GPT-5.6 and GPT-5.6 Instant on paid plans",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M2HYH64J2CZMZ63HEV2FCQFA"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "19 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 19 min",
-  "id": "fireworks:01M2HXY4B0RJ19P2H7VPT3TG5P:resolved:resolved:none:2026-09-15T07:21:22+00:00",
-  "impact": "none",
-  "incident_id": "01M2HXY4B0RJ19P2H7VPT3TG5P",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-15T07:30:46.917431+00:00",
-  "started_at": "2026-09-15T07:01:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for one of our Serverless models",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M2HXY4B0RJ19P2H7VPT3TG5P"
  }
 ]
