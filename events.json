@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is a bit under the weather",
+  "id": "fireworks:01M4JZHFSGP0EEDMMRT37E9J2F:opened:investigating:minor:2026-10-10T13:20:21+00:00",
+  "impact": "minor",
+  "incident_id": "01M4JZHFSGP0EEDMMRT37E9J2F",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-10T13:30:35.891775+00:00",
+  "started_at": "2026-10-10T13:20:21+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 Fast",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4JZHFSGP0EEDMMRT37E9J2F"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "1h 45m",
@@ -7700,24 +7718,6 @@
   "status": "resolved",
   "title": "Service Degradation for GLM 5.3",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M2JTEKTGWQ0SMJHZTP6DXZD1"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M2JTEKTGWQ0SMJHZTP6DXZD1:opened:investigating:minor:2026-09-15T15:20:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M2JTEKTGWQ0SMJHZTP6DXZD1",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-15T15:30:45.646667+00:00",
-  "started_at": "2026-09-15T15:20:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M2JTEKTGWQ0SMJHZTP6DXZD1"
  }
 ]
