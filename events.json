@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] Users are able to top up again.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit is fine again",
+  "id": "replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:resolved:resolved:minor:2026-10-10T00:15:29.762167+00:00",
+  "impact": "minor",
+  "incident_id": "8d9ec78f-39c3-4117-a419-a7b49e7f2525",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-10T00:15:29.762167+00:00",
+  "started_at": "2026-10-10T00:02:39+00:00",
+  "status": "resolved",
+  "title": "Users unable to top-up",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "1h 38m",
@@ -7696,25 +7714,5 @@
   "title": "Disruption with some GitHub services",
   "transition": "opened",
   "url": "https://stspg.io/6pn81yd1x4hz"
- },
- {
-  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service)",
-  "components": [
-   "DeepSeek V4.1 Flash API服务(API Service)"
-  ],
-  "duration": "",
-  "headline": "🟢 DeepSeek sorted itself out after a while",
-  "id": "deepseek:urn:flashduty:change:6985247573287:resolved:resolved:minor:2026-09-15T09:30:54.830917+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:6985247573287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-09-15T09:30:54.830917+00:00",
-  "started_at": "2026-09-15T08:55:34+00:00",
-  "status": "resolved",
-  "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
-  "transition": "resolved",
-  "url": "https://status.deepseek.com/incidents/6985247573287"
  }
 ]

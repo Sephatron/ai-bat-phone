@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit is fine again]]></title>
+<link>https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525</link>
+<guid isPermaLink='false'>replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:resolved:resolved:minor:2026-10-10T00:15:29.762167+00:00</guid>
+<pubDate>Sat, 10 Oct 2026 00:15:29 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Users unable to top-up</strong></p><p>Impact: minor · Status: resolved · Opened: Sat, 10 Oct 2026 00:02:39 +0000</p><p>[Resolved] Users are able to top up again.</p><p><a href="https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
 <link>https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H</link>
 <guid isPermaLink='false'>openai:01M4HA7BCCXVHTR5DCYMSBQF2H:resolved:resolved:major:2026-10-09T23:26:59+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 18:01:20 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors across ChatGPT, Codex, and the API</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 29 Sep 2026 17:52:52 +0000</p><p>We’re investigating elevated errors affecting ChatGPT, Codex, and the API. Some users may experience failed requests, difficulty logging in or signing up, and tasks that do not complete. We’ll share updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/br61xzj05pp5</link>
-<guid isPermaLink='false'>anthropic:4xvtc2gnq73l:resolved:resolved:major:2026-09-29T16:27:21.393000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 16:31:10 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 2h 05m · Opened: Tue, 29 Sep 2026 14:21:37 +0000</p><p>The issue affecting Claude.ai, the Claude desktop and mobile apps, Claude Code, Claude Cowork, and the Claude API has been resolved, and services have been operating normally since recovery. Impact occurred from 07:00 PT / 14:00 UTC to 07:59 PT / 14:59 UTC.</p><p><a href="https://stspg.io/br61xzj05pp5">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

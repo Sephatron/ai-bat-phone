@@ -5069,8 +5069,8 @@
   "replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525": {
    "impact": "minor",
    "last_seen_at": "2026-10-10T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-09T21:18:13+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-10T00:02:39+00:00"
   },
   "replit:8ed585d8-2702-483b-a638-89ea6f3e6471": {
    "impact": "minor",
