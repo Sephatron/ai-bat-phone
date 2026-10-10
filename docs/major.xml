@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Groq is back. Grass sufficiently touched.]]></title>
+<link>https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG</link>
+<guid isPermaLink='false'>groq:01M4JMKRA4NHDTCXSE2AYQB7SG:resolved:resolved:major:2026-10-10T16:14:45+00:00</guid>
+<pubDate>Sat, 10 Oct 2026 16:15:31 +0000</pubDate>
+<category>Groq</category>
+<description><![CDATA[<p><strong>Model Performance or Availability Issue - minimaxai/minimax-m2.7</strong></p><p>Impact: major · Status: resolved · Duration: 6h 05m · Opened: Sat, 10 Oct 2026 10:09:21 +0000</p><p>The issues affecting **minimaxai/minimax-m2.7** have been **resolved**. The model is operating normally. Root cause: **Data center hardware issues**. We apologize for the disruption and thank you for your patience.</p><p><a href="https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG">Groq status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Groq has identified the problem. Fix pending.]]></title>
 <link>https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG</link>
 <guid isPermaLink='false'>groq:01M4JMKRA4NHDTCXSE2AYQB7SG:opened:identified:major:2026-10-10T10:09:21+00:00</guid>

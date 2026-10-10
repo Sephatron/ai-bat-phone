@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issues affecting **minimaxai/minimax-m2.7** have been **resolved**. The model is operating normally. Root cause: **Data center hardware issues**. We apologize for the disruption and thank you for your patience.",
+  "components": [],
+  "duration": "6h 05m",
+  "headline": "🟢 Groq is back. Grass sufficiently touched.",
+  "id": "groq:01M4JMKRA4NHDTCXSE2AYQB7SG:resolved:resolved:major:2026-10-10T16:14:45+00:00",
+  "impact": "major",
+  "incident_id": "01M4JMKRA4NHDTCXSE2AYQB7SG",
+  "kind": "incident",
+  "provider_key": "groq",
+  "provider_name": "Groq",
+  "published_at": "2026-10-10T16:15:31.032844+00:00",
+  "started_at": "2026-10-10T10:09:21+00:00",
+  "status": "resolved",
+  "title": "Model Performance or Availability Issue - minimaxai/minimax-m2.7",
+  "transition": "resolved",
+  "url": "https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7701,23 +7719,5 @@
   "title": "Errors signing in and performing account actions",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M2JZ6X8DHVWJFABQNGXD0Q6Z"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "59 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M2JTEKTGWQ0SMJHZTP6DXZD1:resolved:resolved:minor:2026-09-15T16:19:53+00:00",
-  "impact": "minor",
-  "incident_id": "01M2JTEKTGWQ0SMJHZTP6DXZD1",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-15T16:30:48.164522+00:00",
-  "started_at": "2026-09-15T15:20:00+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M2JTEKTGWQ0SMJHZTP6DXZD1"
  }
 ]

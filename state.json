@@ -3449,8 +3449,8 @@
   "groq:01M4JMKRA4NHDTCXSE2AYQB7SG": {
    "impact": "major",
    "last_seen_at": "2026-10-10T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-10T10:09:21+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-10T16:14:45+00:00"
   },
   "lovable:01KWMEB4VS40HM3MSFKJ8HNM3Z": {
    "impact": "none",
