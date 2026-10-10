@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Vercel knows what it did]]></title>
+<link>https://stspg.io/mz4bqspyxvy7</link>
+<guid isPermaLink='false'>vercel:bpzq72pgngc7:progress:identified:major:2026-10-10T00:35:51.214000+00:00</guid>
+<pubDate>Sat, 10 Oct 2026 00:45:33 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: identified · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>A fix has been implemented and delivery has resumed. Delayed Drains deliveries and Observability data are being processed. We are continuing to monitor.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
 <link>https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3</link>
 <guid isPermaLink='false'>openai:01M4H7FKXDA425TDNP2CRGEYA3:resolved:resolved:major:2026-10-10T00:26:44+00:00</guid>
