@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have **identified the problem** affecting the enterprise-only **minimaxai/minimax-m2.7** model. The issue was traced to **hardware issues in our data center**. A fix is in progress. Users may still see **failed requests** until the fix completes.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Groq has identified the problem. Fix pending.",
+  "id": "groq:01M4JMKRA4NHDTCXSE2AYQB7SG:opened:identified:major:2026-10-10T10:09:21+00:00",
+  "impact": "major",
+  "incident_id": "01M4JMKRA4NHDTCXSE2AYQB7SG",
+  "kind": "incident",
+  "provider_key": "groq",
+  "provider_name": "Groq",
+  "published_at": "2026-10-10T10:15:30.963870+00:00",
+  "started_at": "2026-10-10T10:09:21+00:00",
+  "status": "identified",
+  "title": "Model Performance or Availability Issue - minimaxai/minimax-m2.7",
+  "transition": "opened",
+  "url": "https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG"
+ },
+ {
   "body": "All services have recovered.",
   "components": [
    "Drains",
@@ -7701,25 +7719,5 @@
   "title": "Service Degradation for one of our Serverless models",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M2JMD4CSWG5K2Z0FQ0JCP3V3"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Copilot AI Model Providers"
-  ],
-  "duration": "1h 30m",
-  "headline": "🟢 GitHub has stopped wobbling",
-  "id": "github:qwdwmtqghpk5:resolved:resolved:minor:2026-09-15T11:17:22.054000+00:00",
-  "impact": "minor",
-  "incident_id": "qwdwmtqghpk5",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-15T11:30:44.538815+00:00",
-  "started_at": "2026-09-15T09:47:15.085000+00:00",
-  "status": "resolved",
-  "title": "Disruption with some GitHub services",
-  "transition": "resolved",
-  "url": "https://stspg.io/6pn81yd1x4hz"
  }
 ]
