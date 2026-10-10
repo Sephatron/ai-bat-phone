@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
+<link>https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3</link>
+<guid isPermaLink='false'>openai:01M4H7FKXDA425TDNP2CRGEYA3:resolved:resolved:major:2026-10-10T00:26:44+00:00</guid>
+<pubDate>Sat, 10 Oct 2026 00:30:32 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Some ChatGPT content may be unavailable on Android</strong></p><p>Impact: major · Status: resolved · Duration: 3h 26m · Opened: Fri, 09 Oct 2026 21:00:39 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Vercel has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/mz4bqspyxvy7</link>
+<guid isPermaLink='false'>vercel:bpzq72pgngc7:opened:investigating:major:2026-10-10T00:15:50.123000+00:00</guid>
+<pubDate>Sat, 10 Oct 2026 00:30:32 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: investigating · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>We've identified an issue where some customers may experience delayed drain delivery, delayed logs, metrics, and traces, and Workflow runs that remain pending in Washington (iad1). We are investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit is fine again]]></title>
 <link>https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525</link>
 <guid isPermaLink='false'>replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:resolved:resolved:minor:2026-10-10T00:15:29.762167+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 18:01:20 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: monitoring · Affects: Cloud Agents, Grok Bot · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>Fixes are being implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is a bit under the weather]]></title>
-<link>https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4</link>
-<guid isPermaLink='false'>openai:01M3Q4HMNP8SZ27DTZKW6F5BJ4:opened:investigating:none:2026-09-29T17:55:17+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 18:01:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Support chat unavailable</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 29 Sep 2026 17:49:05 +0000</p><p>Our Help Center is available, but support chat remains unavailable. If you need assistance, you can browse the Help Center or email [support@openai.com](mailto:support@openai.com "support@openai.com").</p><p><a href="https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
-<link>https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N</link>
-<guid isPermaLink='false'>openai:01M3Q4RK1SM4EMK445GGPG7C0N:opened:investigating:minor:2026-09-29T17:52:52+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 18:01:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors across ChatGPT, Codex, and the API</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 29 Sep 2026 17:52:52 +0000</p><p>We’re investigating elevated errors affecting ChatGPT, Codex, and the API. Some users may experience failed requests, difficulty logging in or signing up, and tasks that do not complete. We’ll share updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
