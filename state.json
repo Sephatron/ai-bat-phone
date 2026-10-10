@@ -5501,8 +5501,8 @@
   "vercel:bpzq72pgngc7": {
    "impact": "major",
    "last_seen_at": "2026-10-10T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-10T01:12:35.967000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-10T01:37:00.920000+00:00"
   },
   "vercel:bwkmw4hmrgmk": {
    "impact": "major",

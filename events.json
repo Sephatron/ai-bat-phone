@@ -1,5 +1,29 @@
 [
  {
+  "body": "All services have recovered.",
+  "components": [
+   "Drains",
+   "Logs",
+   "Observability",
+   "Queues",
+   "Workflow"
+  ],
+  "duration": "1h 21m",
+  "headline": "🟢 Vercel is upright again. That took 1h 21m.",
+  "id": "vercel:bpzq72pgngc7:resolved:resolved:major:2026-10-10T01:37:00.920000+00:00",
+  "impact": "major",
+  "incident_id": "bpzq72pgngc7",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-10-10T01:45:27.408010+00:00",
+  "started_at": "2026-10-10T00:15:49.916000+00:00",
+  "status": "resolved",
+  "title": "Delays in Drains, Observability, and Workflow in Washington (iad1)",
+  "transition": "resolved",
+  "url": "https://stspg.io/mz4bqspyxvy7"
+ },
+ {
   "body": "Delayed Drains deliveries, Observability data, and Build logs have been processed now. We are continuing to monitor and we will provide additional updates as they become available.",
   "components": [
    "Drains",
@@ -7697,28 +7721,5 @@
   "title": "Disruption with some GitHub services",
   "transition": "resolved",
   "url": "https://stspg.io/6pn81yd1x4hz"
- },
- {
-  "body": "A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "1h 26m",
-  "headline": "🟢 All clear from Claude after 1h 26m",
-  "id": "anthropic:6304r9jjhj34:resolved:resolved:major:2026-09-15T11:14:44.396000+00:00",
-  "impact": "major",
-  "incident_id": "6304r9jjhj34",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-15T11:15:41.913729+00:00",
-  "started_at": "2026-09-15T09:48:23.066000+00:00",
-  "status": "resolved",
-  "title": "Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1",
-  "transition": "resolved",
-  "url": "https://stspg.io/x1qpycpg6ln7"
  }
 ]
