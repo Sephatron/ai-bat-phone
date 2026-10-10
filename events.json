@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M4JQGGFHH63JDV2EZHN4DX84:opened:investigating:minor:2026-10-10T11:00:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M4JQGGFHH63JDV2EZHN4DX84",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-10T11:00:38.768938+00:00",
+  "started_at": "2026-10-10T11:00:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84"
+ },
+ {
   "body": "We have **identified the problem** affecting the enterprise-only **minimaxai/minimax-m2.7** model. The issue was traced to **hardware issues in our data center**. A fix is in progress. Users may still see **failed requests** until the fix completes.",
   "components": [],
   "duration": "",
@@ -7700,24 +7718,6 @@
   "status": "resolved",
   "title": "Service Degradation for one of our Serverless models",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M2JMD4CSWG5K2Z0FQ0JCP3V3"
- },
- {
-  "body": "We are seeing impacted performance for one of our Serverless models. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M2JMD4CSWG5K2Z0FQ0JCP3V3:opened:investigating:none:2026-09-15T13:34:20+00:00",
-  "impact": "none",
-  "incident_id": "01M2JMD4CSWG5K2Z0FQ0JCP3V3",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-15T13:45:42.043152+00:00",
-  "started_at": "2026-09-15T13:34:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for one of our Serverless models",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M2JMD4CSWG5K2Z0FQ0JCP3V3"
  }
 ]

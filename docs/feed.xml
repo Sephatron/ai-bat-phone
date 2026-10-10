@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 10 Oct 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84</link>
+<guid isPermaLink='false'>fireworks:01M4JQGGFHH63JDV2EZHN4DX84:opened:investigating:minor:2026-10-10T11:00:00+00:00</guid>
+<pubDate>Sat, 10 Oct 2026 11:00:38 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 10 Oct 2026 11:00:00 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Groq has identified the problem. Fix pending.]]></title>
 <link>https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 19:46:13 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation - xAI models</strong></p><p>Impact: major · Status: investigating · Affects: CLI, Cloud Agents, IDE, Grok Bot · Opened: Tue, 29 Sep 2026 19:43:08 +0000</p><p>We are investigating a service degradation affecting xAI models. Some Agent requests may fail.</p><p><a href="https://stspg.io/dh24kf0vcpl8">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N</link>
-<guid isPermaLink='false'>openai:01M3Q4RK1SM4EMK445GGPG7C0N:progress:monitoring:minor:2026-09-29T19:39:36+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 19:46:13 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors across ChatGPT, Codex, and the API including the Agents API</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 29 Sep 2026 17:52:52 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
