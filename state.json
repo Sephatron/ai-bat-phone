@@ -49,7 +49,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
   },
   "perplexity": {
    "consecutive_failures": 0
@@ -5501,8 +5501,8 @@
   "vercel:bpzq72pgngc7": {
    "impact": "major",
    "last_seen_at": "2026-10-10T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-10T00:35:51.214000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-10T01:12:35.967000+00:00"
   },
   "vercel:bwkmw4hmrgmk": {
    "impact": "major",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Vercel is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/mz4bqspyxvy7</link>
+<guid isPermaLink='false'>vercel:bpzq72pgngc7:progress:monitoring:major:2026-10-10T01:12:35.967000+00:00</guid>
+<pubDate>Sat, 10 Oct 2026 01:15:41 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: monitoring · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>Delayed Drains deliveries, Observability data, and Build logs have been processed now. We are continuing to monitor and we will provide additional updates as they become available.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Vercel knows what it did]]></title>
 <link>https://stspg.io/mz4bqspyxvy7</link>
 <guid isPermaLink='false'>vercel:bpzq72pgngc7:progress:identified:major:2026-10-10T00:35:51.214000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 19:01:21 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agents and STT: Increased Latency, Conversation Failures, and STT Failures</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 29 Sep 2026 18:49:26 +0000</p><p>We are currently investigating increased latency, conversation failures, and API request failures currently known to affect Agents and STT. These failures may manifest as delays in agent conversations, 429s to STT requests, or conversation failures with the error: "START node generated a response after progressing".</p><p><a href="https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://stspg.io/wy1xyqdkppvx</link>
-<guid isPermaLink='false'>cursor:jb59kzth2pwf:resolved:resolved:minor:2026-09-29T18:05:31.514000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 18:16:11 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 3h 40m · Opened: Tue, 29 Sep 2026 14:25:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/wy1xyqdkppvx">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

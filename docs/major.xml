@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Vercel is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/mz4bqspyxvy7</link>
+<guid isPermaLink='false'>vercel:bpzq72pgngc7:progress:monitoring:major:2026-10-10T01:12:35.967000+00:00</guid>
+<pubDate>Sat, 10 Oct 2026 01:15:41 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: monitoring · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>Delayed Drains deliveries, Observability data, and Build logs have been processed now. We are continuing to monitor and we will provide additional updates as they become available.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Vercel knows what it did]]></title>
 <link>https://stspg.io/mz4bqspyxvy7</link>
 <guid isPermaLink='false'>vercel:bpzq72pgngc7:progress:identified:major:2026-10-10T00:35:51.214000+00:00</guid>
@@ -1128,14 +1136,6 @@
 <pubDate>Tue, 15 Sep 2026 11:15:41 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 26m · Opened: Tue, 15 Sep 2026 09:48:23 +0000</p><p>A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.</p><p><a href="https://stspg.io/x1qpycpg6ln7">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/x1qpycpg6ln7</link>
-<guid isPermaLink='false'>anthropic:6304r9jjhj34:progress:monitoring:major:2026-09-15T10:50:26.414000+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 11:00:53 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 15 Sep 2026 09:48:23 +0000</p><p>A fix has been deployed for Claude Mythos 5.1 and Claude Fable 5.1 and we are monitoring to ensure it has resolved the issue.</p><p><a href="https://stspg.io/x1qpycpg6ln7">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
