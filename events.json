@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M4NJQ6PZ1DHM48TZVX1KCV6A:opened:investigating:minor:2026-10-11T13:34:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M4NJQ6PZ1DHM48TZVX1KCV6A",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-11T13:45:46.926996+00:00",
+  "started_at": "2026-10-11T13:34:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A"
+ },
+ {
   "body": "The issues affecting **minimaxai/minimax-m2.7** have been **resolved**. The model is operating normally. Root cause: **Data center hardware issues**. We apologize for the disruption and thank you for your patience.",
   "components": [],
   "duration": "6h 05m",
@@ -7701,23 +7719,5 @@
   "title": "Errors signing in and performing account actions",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88"
- },
- {
-  "body": "Some users are currently experiencing errors when signing in or signing up, and when performing account actions such as creating or sharing a project, creating API keys, changing workspace members, and setting up SMS two-factor authentication. Existing sessions and published projects are not affected. Our team is investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Tools down: Lovable is broken",
-  "id": "lovable:01M2JZ6X8DHVWJFABQNGXD0Q6Z:opened:investigating:major:2026-09-15T16:43:10+00:00",
-  "impact": "major",
-  "incident_id": "01M2JZ6X8DHVWJFABQNGXD0Q6Z",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-15T16:45:45.931178+00:00",
-  "started_at": "2026-09-15T16:43:10+00:00",
-  "status": "investigating",
-  "title": "Errors signing in and performing account actions",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M2JZ6X8DHVWJFABQNGXD0Q6Z"
  }
 ]

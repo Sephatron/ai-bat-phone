@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A</link>
+<guid isPermaLink='false'>fireworks:01M4NJQ6PZ1DHM48TZVX1KCV6A:opened:investigating:minor:2026-10-11T13:34:00+00:00</guid>
+<pubDate>Sun, 11 Oct 2026 13:45:46 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 11 Oct 2026 13:34:00 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Groq is back. Grass sufficiently touched.]]></title>
 <link>https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG</link>
 <guid isPermaLink='false'>groq:01M4JMKRA4NHDTCXSE2AYQB7SG:resolved:resolved:major:2026-10-10T16:14:45+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 20:31:08 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures</strong></p><p>Impact: major · Status: resolved · Duration: 1h 33m · Opened: Tue, 29 Sep 2026 18:49:26 +0000</p><p>We have not seen any further errors after the fix was applied. All services are fully operational and stable. We will post an RCA on our status page after further investigation.</p><p><a href="https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Cursor after 34 min]]></title>
-<link>https://stspg.io/dh24kf0vcpl8</link>
-<guid isPermaLink='false'>cursor:dk1g1h4q8yf8:resolved:resolved:major:2026-09-29T20:18:00.885000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 20:31:08 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation - xAI models</strong></p><p>Impact: major · Status: resolved · Affects: CLI, Cloud Agents, IDE, Grok Bot · Duration: 34 min · Opened: Tue, 29 Sep 2026 19:43:08 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/dh24kf0vcpl8">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
