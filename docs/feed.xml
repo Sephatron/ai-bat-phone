@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A</link>
+<guid isPermaLink='false'>fireworks:01M4NJQ6PZ1DHM48TZVX1KCV6A:resolved:resolved:minor:2026-10-11T14:04:31+00:00</guid>
+<pubDate>Sun, 11 Oct 2026 14:15:44 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 30 min · Opened: Sun, 11 Oct 2026 13:34:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A</link>
 <guid isPermaLink='false'>fireworks:01M4NJQ6PZ1DHM48TZVX1KCV6A:opened:investigating:minor:2026-10-11T13:34:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 29 Sep 2026 22:01:09 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Support available via email</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Tue, 29 Sep 2026 17:49:05 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs is fixed. You may resume being productive.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462</link>
-<guid isPermaLink='false'>elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:resolved:resolved:major:2026-09-29T20:23:14+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 20:31:08 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures</strong></p><p>Impact: major · Status: resolved · Duration: 1h 33m · Opened: Tue, 29 Sep 2026 18:49:26 +0000</p><p>We have not seen any further errors after the fix was applied. All services are fully operational and stable. We will post an RCA on our status page after further investigation.</p><p><a href="https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

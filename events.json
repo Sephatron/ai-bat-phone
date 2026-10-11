@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "30 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M4NJQ6PZ1DHM48TZVX1KCV6A:resolved:resolved:minor:2026-10-11T14:04:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M4NJQ6PZ1DHM48TZVX1KCV6A",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-11T14:15:44.323097+00:00",
+  "started_at": "2026-10-11T13:34:00+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7700,24 +7718,6 @@
   "status": "resolved",
   "title": "Errors signing in and performing account actions",
   "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88"
- },
- {
-  "body": "Some users are currently experiencing errors when signing in or signing up, and when performing account actions such as creating or sharing a project, creating API keys, changing workspace members, and setting up SMS two-factor authentication. Existing sessions and published projects are not affected. Our team is investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Lovable has downed tools — and so, probably, have you",
-  "id": "lovable:01M2JZB5PE7Z97RG0PCE7EZN88:opened:investigating:major:2026-09-15T16:45:30+00:00",
-  "impact": "major",
-  "incident_id": "01M2JZB5PE7Z97RG0PCE7EZN88",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-15T16:45:45.931178+00:00",
-  "started_at": "2026-09-15T16:45:30+00:00",
-  "status": "investigating",
-  "title": "Errors signing in and performing account actions",
-  "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88"
  }
 ]

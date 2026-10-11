@@ -1137,13 +1137,5 @@
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Errors signing in and performing account actions</strong></p><p>Impact: major · Status: resolved · Duration: 1h 12m · Opened: Tue, 15 Sep 2026 16:45:30 +0000</p><p>This issue has been resolved and sign-in, publishing, and other account actions are working normally again. If you were affected, reload the page to pick up the fix.</p><p><a href="https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88">Lovable status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Lovable has downed tools — and so, probably, have you]]></title>
-<link>https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88</link>
-<guid isPermaLink='false'>lovable:01M2JZB5PE7Z97RG0PCE7EZN88:opened:investigating:major:2026-09-15T16:45:30+00:00</guid>
-<pubDate>Tue, 15 Sep 2026 16:45:45 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Errors signing in and performing account actions</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 15 Sep 2026 16:45:30 +0000</p><p>Some users are currently experiencing errors when signing in or signing up, and when performing account actions such as creating or sharing a project, creating API keys, changing workspace members, and setting up SMS two-factor authentication. Existing sessions and published projects are not affected. Our team is investigating.</p><p><a href="https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88">Lovable status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
