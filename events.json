@@ -1,5 +1,27 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Actions, Issues and Pull Requests",
+  "components": [
+   "Issues",
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from GitHub",
+  "id": "github:93njd414rpbx:opened:investigating:minor:2026-10-12T12:21:48.118000+00:00",
+  "impact": "minor",
+  "incident_id": "93njd414rpbx",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-12T12:30:37.561317+00:00",
+  "started_at": "2026-10-12T12:21:47.965000+00:00",
+  "status": "investigating",
+  "title": "Incident with Actions, Pull Requests and Issues",
+  "transition": "opened",
+  "url": "https://stspg.io/flldq0dn2wdz"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "23 min",
@@ -7681,27 +7703,6 @@
   "status": "resolved",
   "title": "Investigating service degradation",
   "transition": "resolved",
-  "url": "https://stspg.io/j2xb74dqwdrx"
- },
- {
-  "body": "A fix has been implemented. We are monitoring recovery and will provide another update once the incident is fully resolved.",
-  "components": [
-   "CLI",
-   "IDE"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor is on the mend. Don't get comfortable yet.",
-  "id": "cursor:p463n7yf5fq9:opened:monitoring:minor:2026-09-16T08:09:29.308000+00:00",
-  "impact": "minor",
-  "incident_id": "p463n7yf5fq9",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-16T08:15:43.120372+00:00",
-  "started_at": "2026-09-16T08:03:00.210000+00:00",
-  "status": "monitoring",
-  "title": "Investigating service degradation",
-  "transition": "opened",
   "url": "https://stspg.io/j2xb74dqwdrx"
  }
 ]
