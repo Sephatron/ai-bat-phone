@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 DeepSeek is sulking, mildly]]></title>
+<link>https://status.deepseek.com/incidents/7104277696287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7104277696287:opened:investigating:minor:2026-10-12T06:45:34.598517+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 06:45:34 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: investigating · Affects: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice) · Opened: Mon, 12 Oct 2026 06:42:23 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7104277696287">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
 <link>https://status.deepseek.com/incidents/7103794822287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7103794822287:resolved:resolved:minor:2026-10-12T04:30:35.441276+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 30 Sep 2026 17:16:15 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated latency for some API requests</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 30 Sep 2026 17:05:46 +0000</p><p>We have identified that users are experiencing elevated latency for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 7h 35m]]></title>
-<link>https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K</link>
-<guid isPermaLink='false'>openai:01M3RDNY37CAPQGRKPBVMNRT4K:resolved:resolved:minor:2026-09-30T13:23:37+00:00</guid>
-<pubDate>Wed, 30 Sep 2026 13:31:05 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for ChatGPT Pro and Plus users</strong></p><p>Impact: minor · Status: resolved · Duration: 7h 35m · Opened: Wed, 30 Sep 2026 05:47:57 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
