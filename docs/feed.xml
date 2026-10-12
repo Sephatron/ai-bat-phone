@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 23 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M4QRT81D2BD09R1X6YF4Q5TY</link>
+<guid isPermaLink='false'>fireworks:01M4QRT81D2BD09R1X6YF4Q5TY:resolved:resolved:minor:2026-10-12T10:22:37+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 10:30:43 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 23 min · Opened: Mon, 12 Oct 2026 09:59:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4QRT81D2BD09R1X6YF4Q5TY">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M4QRT81D2BD09R1X6YF4Q5TY</link>
 <guid isPermaLink='false'>fireworks:01M4QRT81D2BD09R1X6YF4Q5TY:opened:investigating:minor:2026-10-12T09:59:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 06:01:21 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 05:57:00 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
-<guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:resolved:resolved:minor:2026-09-30T20:35:46+00:00</guid>
-<pubDate>Wed, 30 Sep 2026 20:46:11 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated latency for some API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 30m · Opened: Wed, 30 Sep 2026 17:05:46 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
