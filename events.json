@@ -1,5 +1,25 @@
 [
  {
+  "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: 对话服务(Chatservice)",
+  "components": [
+   "对话服务(Chatservice)"
+  ],
+  "duration": "",
+  "headline": "🟠 DeepSeek is having a wobble",
+  "id": "deepseek:urn:flashduty:change:7103794822287:opened:investigating:minor:2026-10-12T04:15:42.208384+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7103794822287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-10-12T04:15:42.208384+00:00",
+  "started_at": "2026-10-12T04:05:12+00:00",
+  "status": "investigating",
+  "title": "- DeepSeek 网页=部分中断（DeepSeek Web Partially Unavailable）",
+  "transition": "opened",
+  "url": "https://status.deepseek.com/incidents/7103794822287"
+ },
+ {
   "body": "The **Groqcloud console issue has been resolved**. All services are operating normally. We apologize for the disruption and **appreciate your patience**.",
   "components": [],
   "duration": "23 min",
@@ -7692,32 +7712,6 @@
   "status": "monitoring",
   "title": "Investigating service degradation",
   "transition": "progress",
-  "url": "https://stspg.io/wph5l6zb4lz7"
- },
- {
-  "body": "We are investigating a service degradation. Affected agent surfaces: Composer and xAI.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "CLI",
-   "Cloud Agents",
-   "IDE",
-   "Origin",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Cursor is having a proper one. This is not your code.",
-  "id": "cursor:2bw21tcjqzg6:opened:investigating:critical:2026-09-15T21:28:14.546000+00:00",
-  "impact": "critical",
-  "incident_id": "2bw21tcjqzg6",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-15T21:30:42.782776+00:00",
-  "started_at": "2026-09-15T21:26:49.060000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation",
-  "transition": "opened",
   "url": "https://stspg.io/wph5l6zb4lz7"
  }
 ]

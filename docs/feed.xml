@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 DeepSeek is having a wobble]]></title>
+<link>https://status.deepseek.com/incidents/7103794822287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7103794822287:opened:investigating:minor:2026-10-12T04:15:42.208384+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 04:15:42 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>- DeepSeek 网页=部分中断（DeepSeek Web Partially Unavailable）</strong></p><p>Impact: minor · Status: investigating · Affects: 对话服务(Chatservice) · Opened: Mon, 12 Oct 2026 04:05:12 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7103794822287">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Groq has stopped wobbling]]></title>
 <link>https://groqstatus.com/incidents/01M4Q2YY67TVYM451RE835DJAK</link>
 <guid isPermaLink='false'>groq:01M4Q2YY67TVYM451RE835DJAK:resolved:resolved:minor:2026-10-12T04:00:32+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 30 Sep 2026 06:16:17 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors in ChatGPT Space Pages</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 30 Sep 2026 02:20:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K</link>
-<guid isPermaLink='false'>openai:01M3RDNY37CAPQGRKPBVMNRT4K:opened:monitoring:minor:2026-09-30T05:56:48+00:00</guid>
-<pubDate>Wed, 30 Sep 2026 06:01:22 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for ChatGPT Pro and Plus users</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 30 Sep 2026 05:47:57 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
