@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-12T14:00:00+00:00",
+ "heartbeat": "2026-10-12T15:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -5748,7 +5748,7 @@
    "impact": "major",
    "last_seen_at": "2026-10-12T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-10-12T14:08:54.969000+00:00"
+   "updated_at": "2026-10-12T14:57:41.587000+00:00"
   },
   "vercel:ttqhd2v8dq3p": {
    "impact": "none",
