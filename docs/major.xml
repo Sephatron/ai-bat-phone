@@ -1105,13 +1105,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: identified · Affects: Grok Bot · Opened: Wed, 16 Sep 2026 14:27:16 +0000</p><p>The root cause has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/d92scb2t3t41">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 All clear from GitHub after 10h 27m]]></title>
-<link>https://stspg.io/hsjy12f57b24</link>
-<guid isPermaLink='false'>github:nlxnbqnkdzdl:resolved:resolved:major:2026-09-16T17:48:49.262000+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 18:00:44 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: resolved · Affects: Copilot AI Model Providers · Duration: 10h 27m · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
