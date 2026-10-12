@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 12 Oct 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
+<link>https://status.deepseek.com/incidents/7104277696287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7104277696287:resolved:resolved:minor:2026-10-12T07:00:49.103702+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 07:00:49 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice) · Opened: Mon, 12 Oct 2026 06:42:23 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7104277696287">DeepSeek status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 DeepSeek is sulking, mildly]]></title>
 <link>https://status.deepseek.com/incidents/7104277696287</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 30 Sep 2026 18:24:14 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated latency for some API requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 30 Sep 2026 17:05:46 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI knows what it did]]></title>
-<link>https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR</link>
-<guid isPermaLink='false'>openai:01M3SMF1Q0TDCQVNYSXYG37QMR:opened:identified:minor:2026-09-30T17:13:13+00:00</guid>
-<pubDate>Wed, 30 Sep 2026 17:16:15 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated latency for some API requests</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 30 Sep 2026 17:05:46 +0000</p><p>We have identified that users are experiencing elevated latency for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

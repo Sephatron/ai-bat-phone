@@ -1,5 +1,26 @@
 [
  {
+  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)",
+  "components": [
+   "DeepSeek V4.1 Flash API服务(API Service)",
+   "对话服务(Chatservice)"
+  ],
+  "duration": "",
+  "headline": "🟢 DeepSeek sorted itself out after a while",
+  "id": "deepseek:urn:flashduty:change:7104277696287:resolved:resolved:minor:2026-10-12T07:00:49.103702+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7104277696287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-10-12T07:00:49.103702+00:00",
+  "started_at": "2026-10-12T06:42:23+00:00",
+  "status": "resolved",
+  "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
+  "transition": "resolved",
+  "url": "https://status.deepseek.com/incidents/7104277696287"
+ },
+ {
   "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)",
   "components": [
    "DeepSeek V4.1 Flash API服务(API Service)",
@@ -7683,24 +7704,6 @@
   "status": "resolved",
   "title": "Elevated errors with gpt-image-2.5-flare",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M2KQNE5C42NEZPX6V01NHH5W:opened:monitoring:major:2026-09-15T23:58:30+00:00",
-  "impact": "major",
-  "incident_id": "01M2KQNE5C42NEZPX6V01NHH5W",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-16T00:00:42.092373+00:00",
-  "started_at": "2026-09-15T23:50:32+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors with gpt-image-2.5-flare",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W"
  }
 ]
