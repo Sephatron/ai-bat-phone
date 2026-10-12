@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issues affecting **minimaxai/minimax-m2.7** have been **resolved**. The model is operating normally. Root cause: **hardware connectivity issues**. We apologize for the disruption and thank you for your patience.",
+  "components": [],
+  "duration": "18 min",
+  "headline": "🟢 Groq is fixed. You may resume being productive.",
+  "id": "groq:01M4RNBH8R850TCY7FTW0VBJ1T:resolved:resolved:major:2026-10-12T18:36:13+00:00",
+  "impact": "major",
+  "incident_id": "01M4RNBH8R850TCY7FTW0VBJ1T",
+  "kind": "incident",
+  "provider_key": "groq",
+  "provider_name": "Groq",
+  "published_at": "2026-10-12T18:45:31.650994+00:00",
+  "started_at": "2026-10-12T18:17:47+00:00",
+  "status": "resolved",
+  "title": "Model Performance or Availability Issue",
+  "transition": "resolved",
+  "url": "https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T"
+ },
+ {
   "body": "We have **identified the problem** affecting the **minimaxai/minimax-m2.7** service. The issue was traced to **hardware connectivity issues**. A fix is in progress. Users may still see **API failures** until the fix completes.",
   "components": [],
   "duration": "",
@@ -7685,25 +7703,5 @@
   "title": "Issues with Google Play subscriptions",
   "transition": "opened",
   "url": "https://stspg.io/wzwyxh4x9t39"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Tools down: Cursor is broken",
-  "id": "cursor:37hs7jj05wkx:opened:investigating:major:2026-09-16T14:27:16.878000+00:00",
-  "impact": "major",
-  "incident_id": "37hs7jj05wkx",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-16T14:30:59.930243+00:00",
-  "started_at": "2026-09-16T14:27:16.790000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "opened",
-  "url": "https://stspg.io/d92scb2t3t41"
  }
 ]

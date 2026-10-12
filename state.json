@@ -3515,8 +3515,8 @@
   "groq:01M4RNBH8R850TCY7FTW0VBJ1T": {
    "impact": "major",
    "last_seen_at": "2026-10-12T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-12T18:17:47+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-12T18:36:13+00:00"
   },
   "lovable:01KWMEB4VS40HM3MSFKJ8HNM3Z": {
    "impact": "none",
@@ -5754,7 +5754,7 @@
    "impact": "major",
    "last_seen_at": "2026-10-12T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-10-12T16:11:18.411000+00:00"
+   "updated_at": "2026-10-12T18:33:36.007000+00:00"
   },
   "vercel:ttqhd2v8dq3p": {
    "impact": "none",
