@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M4QRT81D2BD09R1X6YF4Q5TY:opened:investigating:minor:2026-10-12T09:59:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M4QRT81D2BD09R1X6YF4Q5TY",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-12T10:00:39.350469+00:00",
+  "started_at": "2026-10-12T09:59:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4QRT81D2BD09R1X6YF4Q5TY"
+ },
+ {
   "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)",
   "components": [
    "DeepSeek V4.1 Flash API服务(API Service)",
@@ -7687,23 +7705,5 @@
   "title": "Degradation with Gemini 3.8 Flash",
   "transition": "opened",
   "url": "https://stspg.io/hsjy12f57b24"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "40 min",
-  "headline": "🟢 OpenAI is upright again. That took 40 min.",
-  "id": "openai:01M2KQNE5C42NEZPX6V01NHH5W:resolved:resolved:major:2026-09-16T00:30:48+00:00",
-  "impact": "major",
-  "incident_id": "01M2KQNE5C42NEZPX6V01NHH5W",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-16T00:45:39.278568+00:00",
-  "started_at": "2026-09-15T23:50:32+00:00",
-  "status": "resolved",
-  "title": "Elevated errors with gpt-image-2.5-flare",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2KQNE5C42NEZPX6V01NHH5W"
  }
 ]
