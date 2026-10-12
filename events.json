@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M4PSZA1YVX6D57JY35FZGTX8:opened:investigating:minor:2026-10-12T01:00:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M4PSZA1YVX6D57JY35FZGTX8",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-12T01:00:53.980345+00:00",
+  "started_at": "2026-10-12T01:00:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4PSZA1YVX6D57JY35FZGTX8"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "30 min",
@@ -7701,23 +7719,5 @@
   "title": "Disruption with some GitHub services",
   "transition": "opened",
   "url": "https://stspg.io/tbh60vgxfxj6"
- },
- {
-  "body": "This issue has been resolved and sign-in, publishing, and other account actions are working normally again. If you were affected, reload the page to pick up the fix.",
-  "components": [],
-  "duration": "1h 12m",
-  "headline": "🟢 Lovable lives. Pick your tools back up.",
-  "id": "lovable:01M2JZB5PE7Z97RG0PCE7EZN88:resolved:resolved:major:2026-09-15T17:57:42+00:00",
-  "impact": "major",
-  "incident_id": "01M2JZB5PE7Z97RG0PCE7EZN88",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-15T18:00:47.649177+00:00",
-  "started_at": "2026-09-15T16:45:30+00:00",
-  "status": "resolved",
-  "title": "Errors signing in and performing account actions",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M2JZB5PE7Z97RG0PCE7EZN88"
  }
 ]
