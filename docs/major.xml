@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Vercel has found the culprit]]></title>
+<link>https://stspg.io/cfrfjg8fqxfr</link>
+<guid isPermaLink='false'>vercel:sps6n39gm4sg:progress:identified:major:2026-10-12T14:08:54.969000+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 14:15:29 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: identified · Affects: Builds, Git Integrations · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>We have identified the issue and are working on a fix. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Vercel has downed tools — and so, probably, have you]]></title>
 <link>https://stspg.io/cfrfjg8fqxfr</link>
 <guid isPermaLink='false'>vercel:sps6n39gm4sg:opened:investigating:major:2026-10-12T13:35:07.542000+00:00</guid>
@@ -1088,14 +1096,6 @@
 <pubDate>Wed, 16 Sep 2026 12:01:00 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degradation with Gemini 3.8 Flash</strong></p><p>Impact: major · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Wed, 16 Sep 2026 07:20:59 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/hsjy12f57b24">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Lovable after 25 min]]></title>
-<link>https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K</link>
-<guid isPermaLink='false'>lovable:01M2MP2K6Q2BCS3BNZ2BCBP91K:resolved:resolved:major:2026-09-16T09:07:55+00:00</guid>
-<pubDate>Wed, 16 Sep 2026 09:15:42 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Previews and builds failing to start</strong></p><p>Impact: major · Status: resolved · Duration: 25 min · Opened: Wed, 16 Sep 2026 08:42:01 +0000</p><p>The issue has been resolved and Lovable is fully functional again.</p><p><a href="https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

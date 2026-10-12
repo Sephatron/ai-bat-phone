@@ -5747,8 +5747,8 @@
   "vercel:sps6n39gm4sg": {
    "impact": "major",
    "last_seen_at": "2026-10-12T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-12T13:35:07.542000+00:00"
+   "status": "identified",
+   "updated_at": "2026-10-12T14:08:54.969000+00:00"
   },
   "vercel:ttqhd2v8dq3p": {
    "impact": "none",
