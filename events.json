@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "5h 18m",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M4R2G9TQKNY1RTGRKZQ5CA19:resolved:resolved:minor:2026-10-12T18:06:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M4R2G9TQKNY1RTGRKZQ5CA19",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-12T18:15:38.430762+00:00",
+  "started_at": "2026-10-12T12:48:20+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M4R2G9TQKNY1RTGRKZQ5CA19"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "2d 22h",
@@ -7687,25 +7705,5 @@
   "title": "Builds failing for some users",
   "transition": "resolved",
   "url": "https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13"
- },
- {
-  "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.",
-  "components": [
-   "Copilot AI Model Providers"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub has applied a fix and is holding its breath",
-  "id": "github:nlxnbqnkdzdl:progress:monitoring:major:2026-09-16T11:45:34.383000+00:00",
-  "impact": "major",
-  "incident_id": "nlxnbqnkdzdl",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-16T12:01:00.311755+00:00",
-  "started_at": "2026-09-16T07:20:59.972000+00:00",
-  "status": "monitoring",
-  "title": "Degradation with Gemini 3.8 Flash",
-  "transition": "progress",
-  "url": "https://stspg.io/hsjy12f57b24"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M4R2G9TQKNY1RTGRKZQ5CA19</link>
+<guid isPermaLink='false'>fireworks:01M4R2G9TQKNY1RTGRKZQ5CA19:resolved:resolved:minor:2026-10-12T18:06:28+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 18:15:38 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 5h 18m · Opened: Mon, 12 Oct 2026 12:48:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4R2G9TQKNY1RTGRKZQ5CA19">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R</link>
 <guid isPermaLink='false'>openai:01M4GV1M2A3K38T73JCVCD9G0R:resolved:resolved:minor:2026-10-12T16:02:47+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 14:01:07 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Elevated request latency</strong></p><p>Impact: minor · Status: resolved · Duration: 20 min · Opened: Thu, 01 Oct 2026 13:37:33 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/cz0ngh11q0tf">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is a bit under the weather]]></title>
-<link>https://stspg.io/cz0ngh11q0tf</link>
-<guid isPermaLink='false'>github:c8466lzvnmsv:opened:investigating:minor:2026-10-01T13:39:10.097000+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 13:46:10 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Elevated request latency</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 13:37:33 +0000</p><p>We are investigating recurrent periods of elevated latency affecting web requests. We’ll share updates as more information becomes available.</p><p><a href="https://stspg.io/cz0ngh11q0tf">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
