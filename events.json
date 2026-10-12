@@ -1,5 +1,25 @@
 [
  {
+  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: 对话服务(Chatservice)",
+  "components": [
+   "对话服务(Chatservice)"
+  ],
+  "duration": "",
+  "headline": "🟢 DeepSeek sorted itself out after a while",
+  "id": "deepseek:urn:flashduty:change:7103794822287:resolved:resolved:minor:2026-10-12T04:30:35.441276+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7103794822287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-10-12T04:30:35.441276+00:00",
+  "started_at": "2026-10-12T04:05:12+00:00",
+  "status": "resolved",
+  "title": "- DeepSeek 网页=部分中断（DeepSeek Web Partially Unavailable）",
+  "transition": "resolved",
+  "url": "https://status.deepseek.com/incidents/7103794822287"
+ },
+ {
   "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: 对话服务(Chatservice)",
   "components": [
    "对话服务(Chatservice)"
@@ -7686,32 +7706,6 @@
   "status": "resolved",
   "title": "Investigating service degradation",
   "transition": "resolved",
-  "url": "https://stspg.io/wph5l6zb4lz7"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration. Only Grok 4.6 (non-fast) is affected in Cursor.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "CLI",
-   "Cloud Agents",
-   "IDE",
-   "Origin",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
-  "id": "cursor:2bw21tcjqzg6:progress:monitoring:minor:2026-09-15T21:44:37.065000+00:00",
-  "impact": "minor",
-  "incident_id": "2bw21tcjqzg6",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-15T21:45:37.567650+00:00",
-  "started_at": "2026-09-15T21:26:49.060000+00:00",
-  "status": "monitoring",
-  "title": "Investigating service degradation",
-  "transition": "progress",
   "url": "https://stspg.io/wph5l6zb4lz7"
  }
 ]
