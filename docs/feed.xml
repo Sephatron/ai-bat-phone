@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 12 Oct 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 Vercel thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/cfrfjg8fqxfr</link>
+<guid isPermaLink='false'>vercel:sps6n39gm4sg:progress:monitoring:major:2026-10-12T19:56:56.028000+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 20:00:37 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: monitoring · Affects: Builds, Git Integrations · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>The backlog of deployment events has been processed. We will continue to monitor and provide additional updates as they become available.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Groq is fixed. You may resume being productive.]]></title>
 <link>https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 15:16:13 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Actions Job Delays</strong></p><p>Impact: minor · Status: monitoring · Affects: Actions · Opened: Thu, 01 Oct 2026 14:47:48 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/kdqxfjn5qg6q">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
-<link>https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4</link>
-<guid isPermaLink='false'>replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:resolved:resolved:minor:2026-10-01T15:16:13.463720+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 15:16:13 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Issue loading integrations page</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 01 Oct 2026 15:11:55 +0000</p><p>[Resolved] The issue affecting loading of the integrations page has been resolved. Integrations should be functional again. If you are still seeing issues loading or using integrations, please contact support and we will help investigate.</p><p><a href="https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
