@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Groq has identified the problem. Fix pending.]]></title>
+<link>https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T</link>
+<guid isPermaLink='false'>groq:01M4RNBH8R850TCY7FTW0VBJ1T:opened:identified:major:2026-10-12T18:17:47+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 18:30:37 +0000</pubDate>
+<category>Groq</category>
+<description><![CDATA[<p><strong>Model Performance or Availability Issue</strong></p><p>Impact: major · Status: identified · Opened: Mon, 12 Oct 2026 18:17:47 +0000</p><p>We have **identified the problem** affecting the **minimaxai/minimax-m2.7** service. The issue was traced to **hardware connectivity issues**. A fix is in progress. Users may still see **API failures** until the fix completes.</p><p><a href="https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T">Groq status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M4R2G9TQKNY1RTGRKZQ5CA19</link>
 <guid isPermaLink='false'>fireworks:01M4R2G9TQKNY1RTGRKZQ5CA19:resolved:resolved:minor:2026-10-12T18:06:28+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 15:01:05 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Actions Job Delays</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Thu, 01 Oct 2026 14:47:48 +0000</p><p>We have identified the cause of increased Actions run start delays on Ubuntu runners and are actively deploying a fix. Customers may continue to experience intermittent delays while the mitigation rolls out and service metrics return to normal.</p><p><a href="https://stspg.io/kdqxfjn5qg6q">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fine again]]></title>
-<link>https://stspg.io/cz0ngh11q0tf</link>
-<guid isPermaLink='false'>github:c8466lzvnmsv:resolved:resolved:minor:2026-10-01T13:57:59.355000+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 14:01:07 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Elevated request latency</strong></p><p>Impact: minor · Status: resolved · Duration: 20 min · Opened: Thu, 01 Oct 2026 13:37:33 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/cz0ngh11q0tf">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

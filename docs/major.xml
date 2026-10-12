@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Groq has identified the problem. Fix pending.]]></title>
+<link>https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T</link>
+<guid isPermaLink='false'>groq:01M4RNBH8R850TCY7FTW0VBJ1T:opened:identified:major:2026-10-12T18:17:47+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 18:30:37 +0000</pubDate>
+<category>Groq</category>
+<description><![CDATA[<p><strong>Model Performance or Availability Issue</strong></p><p>Impact: major · Status: identified · Opened: Mon, 12 Oct 2026 18:17:47 +0000</p><p>We have **identified the problem** affecting the **minimaxai/minimax-m2.7** service. The issue was traced to **hardware connectivity issues**. A fix is in progress. Users may still see **API failures** until the fix completes.</p><p><a href="https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T">Groq status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Vercel has found the culprit]]></title>
 <link>https://stspg.io/cfrfjg8fqxfr</link>
 <guid isPermaLink='false'>vercel:sps6n39gm4sg:progress:identified:major:2026-10-12T14:08:54.969000+00:00</guid>
