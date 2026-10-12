@@ -1,5 +1,23 @@
 [
  {
+  "body": "The **Groqcloud console issue has been resolved**. All services are operating normally. We apologize for the disruption and **appreciate your patience**.",
+  "components": [],
+  "duration": "23 min",
+  "headline": "🟢 Groq has stopped wobbling",
+  "id": "groq:01M4Q2YY67TVYM451RE835DJAK:resolved:resolved:minor:2026-10-12T04:00:32+00:00",
+  "impact": "minor",
+  "incident_id": "01M4Q2YY67TVYM451RE835DJAK",
+  "kind": "incident",
+  "provider_key": "groq",
+  "provider_name": "Groq",
+  "published_at": "2026-10-12T04:00:43.722483+00:00",
+  "started_at": "2026-10-12T03:37:05+00:00",
+  "status": "resolved",
+  "title": "GroqCloud Console Errors Affecting Multiple Regions",
+  "transition": "resolved",
+  "url": "https://groqstatus.com/incidents/01M4Q2YY67TVYM451RE835DJAK"
+ },
+ {
   "body": "We are currently investigating **increased error rates** on our GroqCloud console (including metrics, /models API endpoints, and API key creation). **Users may receive 500 errors** when making requests to **console.groq.com**. Our engineers are isolating the issue.",
   "components": [],
   "duration": "",
@@ -7701,23 +7719,5 @@
   "title": "Investigating service degradation",
   "transition": "opened",
   "url": "https://stspg.io/wph5l6zb4lz7"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [],
-  "duration": "49 min",
-  "headline": "🟢 GitHub has stopped wobbling",
-  "id": "github:bk7zgdcq7s9t:resolved:resolved:minor:2026-09-15T20:00:50.530000+00:00",
-  "impact": "minor",
-  "incident_id": "bk7zgdcq7s9t",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-15T20:15:39.634659+00:00",
-  "started_at": "2026-09-15T19:11:31.334000+00:00",
-  "status": "resolved",
-  "title": "Disruption with some GitHub services",
-  "transition": "resolved",
-  "url": "https://stspg.io/tbh60vgxfxj6"
  }
 ]
