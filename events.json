@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are currently investigating **increased error rates** on our GroqCloud console (including metrics, /models API endpoints, and API key creation). **Users may receive 500 errors** when making requests to **console.groq.com**. Our engineers are isolating the issue.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Groq has a limp, not a break",
+  "id": "groq:01M4Q2YY67TVYM451RE835DJAK:opened:investigating:minor:2026-10-12T03:37:05+00:00",
+  "impact": "minor",
+  "incident_id": "01M4Q2YY67TVYM451RE835DJAK",
+  "kind": "incident",
+  "provider_key": "groq",
+  "provider_name": "Groq",
+  "published_at": "2026-10-12T03:45:36.652738+00:00",
+  "started_at": "2026-10-12T03:37:05+00:00",
+  "status": "investigating",
+  "title": "GroqCloud Console Errors Affecting Multiple Regions",
+  "transition": "opened",
+  "url": "https://groqstatus.com/incidents/01M4Q2YY67TVYM451RE835DJAK"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "8 min",
@@ -7700,24 +7718,6 @@
   "status": "resolved",
   "title": "Disruption with some GitHub services",
   "transition": "resolved",
-  "url": "https://stspg.io/tbh60vgxfxj6"
- },
- {
-  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
-  "id": "github:bk7zgdcq7s9t:progress:monitoring:minor:2026-09-15T19:48:02.830000+00:00",
-  "impact": "minor",
-  "incident_id": "bk7zgdcq7s9t",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-15T20:00:46.824342+00:00",
-  "started_at": "2026-09-15T19:11:31.334000+00:00",
-  "status": "monitoring",
-  "title": "Disruption with some GitHub services",
-  "transition": "progress",
   "url": "https://stspg.io/tbh60vgxfxj6"
  }
 ]

@@ -3464,6 +3464,12 @@
    "status": "resolved",
    "updated_at": "2026-10-10T16:14:45+00:00"
   },
+  "groq:01M4Q2YY67TVYM451RE835DJAK": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-12T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-12T03:37:05+00:00"
+  },
   "lovable:01KWMEB4VS40HM3MSFKJ8HNM3Z": {
    "impact": "none",
    "last_seen_at": "2026-09-05T00:00:00+00:00",
