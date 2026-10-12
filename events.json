@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Builds",
+   "Git Integrations"
+  ],
+  "duration": "6h 36m",
+  "headline": "🟢 All clear from Vercel after 6h 36m",
+  "id": "vercel:sps6n39gm4sg:resolved:resolved:major:2026-10-12T20:11:12.802000+00:00",
+  "impact": "major",
+  "incident_id": "sps6n39gm4sg",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-10-12T20:15:37.603983+00:00",
+  "started_at": "2026-10-12T13:35:07.383000+00:00",
+  "status": "resolved",
+  "title": "Increased build and deployment failures",
+  "transition": "resolved",
+  "url": "https://stspg.io/cfrfjg8fqxfr"
+ },
+ {
   "body": "The backlog of deployment events has been processed. We will continue to monitor and provide additional updates as they become available.",
   "components": [
    "Builds",
@@ -7688,23 +7709,5 @@
   "title": "Degradation with Gemini 3.8 Flash",
   "transition": "resolved",
   "url": "https://stspg.io/hsjy12f57b24"
- },
- {
-  "body": "This issue has been resolved.",
-  "components": [],
-  "duration": "32 min",
-  "headline": "🟢 Claude has stopped wobbling",
-  "id": "anthropic:t8fpw9vcshl9:resolved:resolved:none:2026-09-16T16:51:09.034000+00:00",
-  "impact": "none",
-  "incident_id": "t8fpw9vcshl9",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-16T17:01:00.392743+00:00",
-  "started_at": "2026-09-16T16:18:10.728000+00:00",
-  "status": "resolved",
-  "title": "Issues with Google Play subscriptions",
-  "transition": "resolved",
-  "url": "https://stspg.io/wzwyxh4x9t39"
  }
 ]
