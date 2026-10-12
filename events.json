@@ -1,5 +1,26 @@
 [
  {
+  "body": "We've identified an issue where some customers may experience build failures or deployments that fail to start. We are investigating this issue. We will provide additional updates as they become available.",
+  "components": [
+   "Builds",
+   "Git Integrations"
+  ],
+  "duration": "",
+  "headline": "🔴 Vercel has downed tools — and so, probably, have you",
+  "id": "vercel:sps6n39gm4sg:opened:investigating:major:2026-10-12T13:35:07.542000+00:00",
+  "impact": "major",
+  "incident_id": "sps6n39gm4sg",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-10-12T13:45:29.259007+00:00",
+  "started_at": "2026-10-12T13:35:07.383000+00:00",
+  "status": "investigating",
+  "title": "Increased build and deployment failures",
+  "transition": "opened",
+  "url": "https://stspg.io/cfrfjg8fqxfr"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7682,24 +7703,6 @@
   "status": "resolved",
   "title": "Previews and builds failing to start",
   "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K"
- },
- {
-  "body": "Some users are seeing previews and builds fail to start. Retrying usually works, but it may take longer than normal. Our team is working on restoring full capacity.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Lovable has downed tools — and so, probably, have you",
-  "id": "lovable:01M2MP2K6Q2BCS3BNZ2BCBP91K:opened:investigating:major:2026-09-16T08:42:01+00:00",
-  "impact": "major",
-  "incident_id": "01M2MP2K6Q2BCS3BNZ2BCBP91K",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-16T08:45:42.956443+00:00",
-  "started_at": "2026-09-16T08:42:01+00:00",
-  "status": "investigating",
-  "title": "Previews and builds failing to start",
-  "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M2MP2K6Q2BCS3BNZ2BCBP91K"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Vercel has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/cfrfjg8fqxfr</link>
+<guid isPermaLink='false'>vercel:sps6n39gm4sg:opened:investigating:major:2026-10-12T13:35:07.542000+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 13:45:29 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: investigating · Affects: Builds, Git Integrations · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>We've identified an issue where some customers may experience build failures or deployments that fail to start. We are investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M4R2G9TQKNY1RTGRKZQ5CA19</link>
 <guid isPermaLink='false'>fireworks:01M4R2G9TQKNY1RTGRKZQ5CA19:opened:investigating:minor:2026-10-12T12:48:20+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 10:46:15 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Issues with image generation and editing</strong></p><p>Impact: minor · Status: resolved · Duration: 57 min · Opened: Thu, 01 Oct 2026 09:47:22 +0000</p><p>This incident has been resolved. Image generation and editing works as normal again.</p><p><a href="https://status.lovable.dev/incidents/01M3VDS1P1660F615AGEYJAQGH">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Lovable]]></title>
-<link>https://status.lovable.dev/incidents/01M3VDS1P1660F615AGEYJAQGH</link>
-<guid isPermaLink='false'>lovable:01M3VDS1P1660F615AGEYJAQGH:opened:investigating:minor:2026-10-01T09:47:22+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 10:01:20 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Issues with image generation and editing</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 09:47:22 +0000</p><p>Image generation and image editing in the Lovable chat are failing for some users. Image features in apps built with Lovable are not affected. We're working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M3VDS1P1660F615AGEYJAQGH">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
