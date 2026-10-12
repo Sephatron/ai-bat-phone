@@ -4637,8 +4637,8 @@
   "openai:01M4GV1M2A3K38T73JCVCD9G0R": {
    "impact": "minor",
    "last_seen_at": "2026-10-12T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-09T22:03:59+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-12T16:02:47+00:00"
   },
   "openai:01M4H7FKXDA425TDNP2CRGEYA3": {
    "impact": "major",
@@ -5748,7 +5748,7 @@
    "impact": "major",
    "last_seen_at": "2026-10-12T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-10-12T14:57:41.587000+00:00"
+   "updated_at": "2026-10-12T16:11:18.411000+00:00"
   },
   "vercel:ttqhd2v8dq3p": {
    "impact": "none",

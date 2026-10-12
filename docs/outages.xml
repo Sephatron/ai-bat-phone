@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R</link>
+<guid isPermaLink='false'>openai:01M4GV1M2A3K38T73JCVCD9G0R:resolved:resolved:minor:2026-10-12T16:02:47+00:00</guid>
+<pubDate>Mon, 12 Oct 2026 16:15:40 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: resolved · Duration: 2d 22h · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Vercel has found the culprit]]></title>
 <link>https://stspg.io/cfrfjg8fqxfr</link>
 <guid isPermaLink='false'>vercel:sps6n39gm4sg:progress:identified:major:2026-10-12T14:08:54.969000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 13:46:10 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Elevated request latency</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 13:37:33 +0000</p><p>We are investigating recurrent periods of elevated latency affecting web requests. We’ll share updates as more information becomes available.</p><p><a href="https://stspg.io/cz0ngh11q0tf">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Replit is having a wobble]]></title>
-<link>https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4</link>
-<guid isPermaLink='false'>replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:opened:investigating:minor:2026-10-01T13:31:07.861677+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 13:31:07 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Issue loading integrations page</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 01 Oct 2026 13:30:55 +0000</p><p>[Investigating] Some users are unable to load their integrations page to access their connections. Our engineers are investigating, and we’ll share an update as more information becomes available.</p><p><a href="https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

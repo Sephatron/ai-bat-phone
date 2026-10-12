@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "2d 22h",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M4GV1M2A3K38T73JCVCD9G0R:resolved:resolved:minor:2026-10-12T16:02:47+00:00",
+  "impact": "minor",
+  "incident_id": "01M4GV1M2A3K38T73JCVCD9G0R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-12T16:15:40.430867+00:00",
+  "started_at": "2026-10-09T17:23:18+00:00",
+  "status": "resolved",
+  "title": "Delayed Costs data in the Compliance API",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R"
+ },
+ {
   "body": "We have identified the issue and are working on a fix. We will provide additional updates as they become available.",
   "components": [
    "Builds",
@@ -7689,23 +7707,5 @@
   "title": "Degradation with Gemini 3.8 Flash",
   "transition": "progress",
   "url": "https://stspg.io/hsjy12f57b24"
- },
- {
-  "body": "> Some users are currently seeing errors when building or editing their projects. We have identified the issue and our team is actively working on a fix. We will post an update as soon as more information is available.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Lovable has a limp, not a break",
-  "id": "lovable:01M2N0PMC65HT3W99GQGYYZM13:opened:investigating:minor:2026-09-16T11:47:43+00:00",
-  "impact": "minor",
-  "incident_id": "01M2N0PMC65HT3W99GQGYYZM13",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-16T12:01:00.311755+00:00",
-  "started_at": "2026-09-16T11:47:43+00:00",
-  "status": "investigating",
-  "title": "Builds failing for some users",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M2N0PMC65HT3W99GQGYYZM13"
  }
 ]
