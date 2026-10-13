@@ -1,5 +1,32 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "Review Agents",
+   "CLI",
+   "Cloud Agents",
+   "cursor.com",
+   "IDE",
+   "Origin",
+   "Grok Bot"
+  ],
+  "duration": "2h 45m",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:8nlyd6t95xjm:resolved:resolved:minor:2026-10-13T03:07:41.223000+00:00",
+  "impact": "minor",
+  "incident_id": "8nlyd6t95xjm",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-13T03:15:44.885036+00:00",
+  "started_at": "2026-10-13T00:22:00+00:00",
+  "status": "resolved",
+  "title": "Degraded performance and errors across Cursor services",
+  "transition": "resolved",
+  "url": "https://stspg.io/wb9c5pzxfnz6"
+ },
+ {
   "body": "A fix has been implemented and services are recovering. Some users may still see intermittent errors while we monitor for full restoration.",
   "components": [
    "Automations",
@@ -7709,23 +7736,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "progress",
   "url": "https://stspg.io/d92scb2t3t41"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "50 min",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M2NRHTYAM3K3M93X1D068MCY:resolved:resolved:minor:2026-09-16T19:34:36+00:00",
-  "impact": "minor",
-  "incident_id": "01M2NRHTYAM3K3M93X1D068MCY",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-16T19:45:28.236071+00:00",
-  "started_at": "2026-09-16T18:44:32+00:00",
-  "status": "resolved",
-  "title": "Elevated errors in ChatGPT Work",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://stspg.io/wb9c5pzxfnz6</link>
+<guid isPermaLink='false'>cursor:8nlyd6t95xjm:resolved:resolved:minor:2026-10-13T03:07:41.223000+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 03:15:44 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded performance and errors across Cursor services</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, CLI, Cloud Agents, cursor.com, IDE, Origin, Grok Bot · Duration: 2h 45m · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/wb9c5pzxfnz6</link>
 <guid isPermaLink='false'>cursor:8nlyd6t95xjm:progress:monitoring:critical:2026-10-13T00:53:06.797000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 19:00:46 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Issues with login and signup</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 01 Oct 2026 18:46:17 +0000</p><p>We are investigating an issue affecting login and signup. We will share further updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/jg26d0skzh27</link>
-<guid isPermaLink='false'>anthropic:k0h22tsvnydg:progress:monitoring:minor:2026-10-01T18:23:02.751000+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 18:30:40 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Delayed credits on the Claude Platform</strong></p><p>Impact: minor · Status: monitoring · Affects: Claude Console (platform.claude.com), Claude API (api.anthropic.com) · Opened: Thu, 01 Oct 2026 16:20:40 +0000</p><p>We have resolved the issue causing delays in credits being applied after purchase. We are monitoring closely to ensure no further issues.</p><p><a href="https://stspg.io/jg26d0skzh27">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
