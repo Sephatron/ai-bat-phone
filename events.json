@@ -1,5 +1,23 @@
 [
  {
+  "body": "Error rates are back to normal. We are monitoring the affected endpoints to confirm stability and are working with our data provider on a root cause analysis.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs has applied a fix and is holding its breath",
+  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T10:38:27+00:00",
+  "impact": "major",
+  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-13T10:45:27.129036+00:00",
+  "started_at": "2026-10-13T09:21:00+00:00",
+  "status": "monitoring",
+  "title": "Multiple US endpoints experiencing timeouts and latency",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
+ },
+ {
   "body": "We’re seeing error rates rise again, so calls may still fail or experience increased latency.",
   "components": [],
   "duration": "",
@@ -7703,27 +7721,5 @@
   "title": "Elevated errors affecting ChatGPT Work mode",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "Cloud Agents"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
-  "id": "cursor:jdm0j510q78b:progress:monitoring:critical:2026-09-17T18:12:05.080000+00:00",
-  "impact": "critical",
-  "incident_id": "jdm0j510q78b",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-17T18:15:27.162852+00:00",
-  "started_at": "2026-09-17T15:20:00+00:00",
-  "status": "monitoring",
-  "title": "Investigating service degradation — Cloud Agents and Automations",
-  "transition": "progress",
-  "url": "https://stspg.io/tvp74wjvjbgg"
  }
 ]
