@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 ElevenLabs has identified the problem. Fix pending.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
+<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:identified:major:2026-10-13T11:42:02+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 11:45:32 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: identified · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We are still seeing elevated errors and timeouts on the affected endpoints, and requests may continue to fail. We are actively working with our data provider to restore full service and bring the endpoints back online.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
 <link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
 <guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T10:38:27+00:00</guid>
@@ -1088,14 +1096,6 @@
 <pubDate>Thu, 17 Sep 2026 20:00:34 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work mode</strong></p><p>Impact: major · Status: identified · Opened: Thu, 17 Sep 2026 19:03:17 +0000</p><p>We are still implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 OpenAI has downed tools — and so, probably, have you]]></title>
-<link>https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC</link>
-<guid isPermaLink='false'>openai:01M2RC0WHGTX8EHDH7D60JJ7FC:opened:investigating:major:2026-09-17T19:03:17+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 19:13:35 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work mode</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 17 Sep 2026 19:03:17 +0000</p><p>We are investigating the issue for the listed services. Some users may experience failures when starting or running Work tasks.</p><p><a href="https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

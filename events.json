@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are still seeing elevated errors and timeouts on the affected endpoints, and requests may continue to fail. We are actively working with our data provider to restore full service and bring the endpoints back online.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 ElevenLabs has identified the problem. Fix pending.",
+  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:identified:major:2026-10-13T11:42:02+00:00",
+  "impact": "major",
+  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-13T11:45:32.487567+00:00",
+  "started_at": "2026-10-13T09:21:00+00:00",
+  "status": "identified",
+  "title": "Multiple US endpoints experiencing timeouts and latency",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
+ },
+ {
   "body": "Error rates are back to normal. We are monitoring the affected endpoints to confirm stability and are working with our data provider on a root cause analysis.",
   "components": [],
   "duration": "",
@@ -7702,24 +7720,6 @@
   "status": "identified",
   "title": "Elevated errors affecting ChatGPT Work mode",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
- },
- {
-  "body": "We are investigating the issue for the listed services. Some users may experience failures when starting or running Work tasks.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 OpenAI has downed tools — and so, probably, have you",
-  "id": "openai:01M2RC0WHGTX8EHDH7D60JJ7FC:opened:investigating:major:2026-09-17T19:03:17+00:00",
-  "impact": "major",
-  "incident_id": "01M2RC0WHGTX8EHDH7D60JJ7FC",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-17T19:13:35.863156+00:00",
-  "started_at": "2026-09-17T19:03:17+00:00",
-  "status": "investigating",
-  "title": "Elevated errors affecting ChatGPT Work mode",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
  }
 ]

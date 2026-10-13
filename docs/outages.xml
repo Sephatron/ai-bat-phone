@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 ElevenLabs has identified the problem. Fix pending.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
+<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:identified:major:2026-10-13T11:42:02+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 11:45:32 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: identified · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We are still seeing elevated errors and timeouts on the affected endpoints, and requests may continue to fail. We are actively working with our data provider to restore full service and bring the endpoints back online.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
 <link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
 <guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T10:38:27+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 22:45:34 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Delayed credits on the Claude Platform</strong></p><p>Impact: minor · Status: resolved · Affects: Claude Console (platform.claude.com), Claude API (api.anthropic.com) · Duration: 6h 15m · Opened: Thu, 01 Oct 2026 16:20:40 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/jg26d0skzh27">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 DeepSeek has stopped wobbling]]></title>
-<link>https://status.deepseek.com/incidents/7058006316287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7058006316287:resolved:resolved:minor:2026-10-01T21:45:35.207014+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 21:45:35 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service) · Opened: Thu, 01 Oct 2026 19:40:05 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7058006316287">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
