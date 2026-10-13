@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 Perplexity is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.perplexity.com</link>
+<guid isPermaLink='false'>meta:perplexity:unreachable:2026-10-13T22:00:00+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 22:30:36 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is upright again. That took 6d 4h.]]></title>
 <link>https://stspg.io/sjkw7njwf0mt</link>
 <guid isPermaLink='false'>anthropic:978mjkgw6mh7:resolved:resolved:major:2026-10-13T18:00:04.390000+00:00</guid>

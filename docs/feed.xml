@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 Perplexity is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.perplexity.com</link>
+<guid isPermaLink='false'>meta:perplexity:unreachable:2026-10-13T22:00:00+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 22:30:36 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔧 Planned works at Perplexity]]></title>
 <link>https://status.perplexity.com//incidents/01M4VBQY9921W0JWATY7NGPZ0A</link>
 <guid isPermaLink='false'>perplexity:01M4VBQY9921W0JWATY7NGPZ0A:opened:scheduled:none:2026-10-13T19:30:33.170557+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 02 Oct 2026 22:30:35 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 1 min · Opened: Fri, 02 Oct 2026 22:15:12 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/853mgz04gbdm">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
-<link>https://stspg.io/853mgz04gbdm</link>
-<guid isPermaLink='false'>moonshot:77krbnnlj7sp:opened:investigating:critical:2026-10-02T22:15:13.073000+00:00</guid>
-<pubDate>Fri, 02 Oct 2026 22:15:29 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Fri, 02 Oct 2026 22:15:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/853mgz04gbdm">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
