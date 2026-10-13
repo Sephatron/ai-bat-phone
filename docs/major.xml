@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Cursor is having a proper one. This is not your code.]]></title>
+<link>https://stspg.io/wb9c5pzxfnz6</link>
+<guid isPermaLink='false'>cursor:8nlyd6t95xjm:opened:investigating:critical:2026-10-13T00:28:16.532000+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 00:30:45 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot, IDE, and Cloud Agents</strong></p><p>Impact: critical · Status: investigating · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>We are investigating a widespread issue affecting Cursor. Users may see errors or failed requests across the IDE, Cloud Agents, Automations, Grok Bot, and Origin. Our team is actively working to restore service.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Vercel after 6h 36m]]></title>
 <link>https://stspg.io/cfrfjg8fqxfr</link>
 <guid isPermaLink='false'>vercel:sps6n39gm4sg:resolved:resolved:major:2026-10-12T20:11:12.802000+00:00</guid>
