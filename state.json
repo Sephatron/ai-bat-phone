@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-13T04:00:00+00:00",
+ "heartbeat": "2026-10-13T05:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -2311,6 +2311,12 @@
    "last_seen_at": "2026-10-13T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-12T20:56:50+00:00"
+  },
+  "elevenlabs:01M4SSZATF0RG1536979BS4R63": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-13T04:57:44+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
