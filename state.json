@@ -1478,6 +1478,12 @@
    "status": "resolved",
    "updated_at": "2026-09-26T00:32:45.781000+00:00"
   },
+  "cursor:bg1b759jsjqf": {
+   "impact": "major",
+   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-13T21:13:09.594000+00:00"
+  },
   "cursor:bgwm1q5652hy": {
    "impact": "minor",
    "last_seen_at": "2026-10-13T00:00:00+00:00",
