@@ -1,5 +1,25 @@
 [
  {
+  "body": "This issue has been resolved.",
+  "components": [
+   "Claude Console (platform.claude.com)"
+  ],
+  "duration": "6d 4h",
+  "headline": "🟢 Claude is upright again. That took 6d 4h.",
+  "id": "anthropic:978mjkgw6mh7:resolved:resolved:major:2026-10-13T18:00:04.390000+00:00",
+  "impact": "major",
+  "incident_id": "978mjkgw6mh7",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-13T18:00:28.198153+00:00",
+  "started_at": "2026-10-07T13:25:04.155000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors on platform.claude.com",
+  "transition": "resolved",
+  "url": "https://stspg.io/sjkw7njwf0mt"
+ },
+ {
   "body": "We have resolved the issue causing degraded performance with GPT-6.1 Sol in Codex and ChatGPT Work.",
   "components": [],
   "duration": "8h 26m",
@@ -7698,23 +7718,5 @@
   "title": "Elevated rate of errors for OpenAI models provided by Copilot",
   "transition": "opened",
   "url": "https://stspg.io/t938cy7649sn"
- },
- {
-  "body": "[Investigating] We are investigating degraded agent performance due to increase in errors from our upstream model providers.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is a bit under the weather",
-  "id": "replit:30f07068-73ff-46d7-8ac5-3fffed771fb8:opened:investigating:minor:2026-09-17T20:45:27.890579+00:00",
-  "impact": "minor",
-  "incident_id": "30f07068-73ff-46d7-8ac5-3fffed771fb8",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-09-17T20:45:27.890579+00:00",
-  "started_at": "2026-09-17T20:41:35+00:00",
-  "status": "investigating",
-  "title": "Degraded Agent Performance Due to Upstream Model Provider Errors",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8"
  }
 ]
