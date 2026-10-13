@@ -4683,10 +4683,10 @@
    "updated_at": "2026-10-09T23:26:59+00:00"
   },
   "openai:01M4T4ZCM54D3ZPTQXRSWFG0XS": {
-   "impact": "none",
+   "impact": "minor",
    "last_seen_at": "2026-10-13T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-13T08:10:00+00:00"
+   "updated_at": "2026-10-13T08:18:33+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
