@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re seeing error rates rise again, so calls may still fail or experience increased latency.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 ElevenLabs has identified the problem. Fix pending.",
+  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:identified:major:2026-10-13T09:57:40+00:00",
+  "impact": "major",
+  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-13T10:00:32.443509+00:00",
+  "started_at": "2026-10-13T09:21:00+00:00",
+  "status": "identified",
+  "title": "Multiple US endpoints experiencing timeouts and latency",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
@@ -7706,27 +7724,6 @@
   "status": "monitoring",
   "title": "Investigating service degradation — Cloud Agents and Automations",
   "transition": "progress",
-  "url": "https://stspg.io/tvp74wjvjbgg"
- },
- {
-  "body": "We are investigating a service degradation affecting Cloud Agents and Grok Bot.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Cursor is out. Go and look at a tree.",
-  "id": "cursor:jdm0j510q78b:opened:investigating:critical:2026-09-17T15:20:59.594000+00:00",
-  "impact": "critical",
-  "incident_id": "jdm0j510q78b",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-17T15:30:46.888386+00:00",
-  "started_at": "2026-09-17T15:20:59.475000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
-  "transition": "opened",
   "url": "https://stspg.io/tvp74wjvjbgg"
  }
 ]

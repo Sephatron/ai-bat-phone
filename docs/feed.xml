@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 13 Oct 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 ElevenLabs has identified the problem. Fix pending.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
+<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:identified:major:2026-10-13T09:57:40+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 10:00:32 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: identified · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We’re seeing error rates rise again, so calls may still fail or experience increased latency.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 01 Oct 2026 21:15:37 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Issues with previews, remix, and static asset serving</strong></p><p>Impact: unclassified · Status: resolved · Duration: 22 min · Opened: Thu, 01 Oct 2026 20:46:09 +0000</p><p>The issues affecting previews, remix, and static asset serving have been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 DeepSeek is readable again, so silence here means quiet once more]]></title>
-<link>https://status.deepseek.com</link>
-<guid isPermaLink='false'>meta:deepseek:recovered:2026-10-01T20:00:00+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 21:00:44 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read DeepSeek's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
