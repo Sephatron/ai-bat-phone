@@ -1,5 +1,41 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:progress:monitoring:minor:2026-10-13T09:30:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M4T4ZCM54D3ZPTQXRSWFG0XS",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-13T09:30:31.887737+00:00",
+  "started_at": "2026-10-13T08:10:00+00:00",
+  "status": "monitoring",
+  "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
+ },
+ {
+  "body": "We are investigating elevated latency and timeouts affecting multiple endpoints, including some Elevenagents endpoints. Some requests may be slow or fail. Our team is actively looking into the cause.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 ElevenLabs has gone dark. Nothing you did. Probably.",
+  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:opened:investigating:major:2026-10-13T09:21:00+00:00",
+  "impact": "major",
+  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-13T09:30:31.887737+00:00",
+  "started_at": "2026-10-13T09:21:00+00:00",
+  "status": "investigating",
+  "title": "Multiple endpoints experiencing timeouts and latency",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
+ },
+ {
   "body": "Degraded performance on GPT 6.1 Sol Codex and Work mode",
   "components": [],
   "duration": "",
@@ -7692,45 +7728,5 @@
   "title": "Investigating service degradation — Cloud Agents and Grok Bot",
   "transition": "opened",
   "url": "https://stspg.io/tvp74wjvjbgg"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "2h 03m",
-  "headline": "🟢 Cursor is back. Grass sufficiently touched.",
-  "id": "cursor:lqp75t47dvpm:resolved:resolved:major:2026-09-17T14:34:44.105000+00:00",
-  "impact": "major",
-  "incident_id": "lqp75t47dvpm",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-17T14:45:32.546906+00:00",
-  "started_at": "2026-09-17T12:30:56.755000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/46vyl26p4fbz"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Cursor has gone dark. Nothing you did. Probably.",
-  "id": "cursor:lqp75t47dvpm:opened:investigating:major:2026-09-17T12:30:56.863000+00:00",
-  "impact": "major",
-  "incident_id": "lqp75t47dvpm",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-17T12:45:34.897907+00:00",
-  "started_at": "2026-09-17T12:30:56.755000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "opened",
-  "url": "https://stspg.io/46vyl26p4fbz"
  }
 ]
