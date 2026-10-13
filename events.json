@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M4STMJGTARGF3FM095HVYP4S:opened:investigating:minor:2026-10-13T05:09:20+00:00",
+  "impact": "minor",
+  "incident_id": "01M4STMJGTARGF3FM095HVYP4S",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-13T05:15:32.193086+00:00",
+  "started_at": "2026-10-13T05:09:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4STMJGTARGF3FM095HVYP4S"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",
@@ -7715,26 +7733,6 @@
   "status": "resolved",
   "title": "Investigating service degradation — Grok Bot",
   "transition": "resolved",
-  "url": "https://stspg.io/d92scb2t3t41"
- },
- {
-  "body": "The root cause has been identified and a fix is being implemented.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔍 Cursor has found the culprit",
-  "id": "cursor:37hs7jj05wkx:progress:identified:major:2026-09-16T19:51:37.205000+00:00",
-  "impact": "major",
-  "incident_id": "37hs7jj05wkx",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-16T20:00:32.698894+00:00",
-  "started_at": "2026-09-16T14:27:16.790000+00:00",
-  "status": "identified",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "progress",
   "url": "https://stspg.io/d92scb2t3t41"
  }
 ]
