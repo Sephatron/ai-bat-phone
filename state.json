@@ -52,7 +52,7 @@
    "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
   },
   "perplexity": {
-   "consecutive_failures": 1,
+   "consecutive_failures": 2,
    "failing_since": "2026-10-13T22:00:00+00:00",
    "last_error": "https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format"
   },
