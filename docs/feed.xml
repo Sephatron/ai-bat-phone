@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 8h 26m]]></title>
+<link>https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS</link>
+<guid isPermaLink='false'>openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:resolved:resolved:minor:2026-10-13T16:36:42+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 16:45:39 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Degraded performance in GPT-6.1 Sol Codex and Work mode</strong></p><p>Impact: minor · Status: resolved · Duration: 8h 26m · Opened: Tue, 13 Oct 2026 08:10:00 +0000</p><p>We have resolved the issue causing degraded performance with GPT-6.1 Sol in Codex and ChatGPT Work.</p><p><a href="https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 ElevenLabs is back. Grass sufficiently touched.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
 <guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:resolved:resolved:major:2026-10-13T14:18:43+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 02 Oct 2026 16:15:41 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Issues with data analysis and file creation in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 02 Oct 2026 16:03:10 +0000</p><p>Some users experienced errors when running code, analyzing data or creating files in ChatGPT. We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-10-02</guid>
-<pubDate>Fri, 02 Oct 2026 14:15:39 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

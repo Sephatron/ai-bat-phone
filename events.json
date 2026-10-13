@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have resolved the issue causing degraded performance with GPT-6.1 Sol in Codex and ChatGPT Work.",
+  "components": [],
+  "duration": "8h 26m",
+  "headline": "🟢 OpenAI sorted itself out after 8h 26m",
+  "id": "openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:resolved:resolved:minor:2026-10-13T16:36:42+00:00",
+  "impact": "minor",
+  "incident_id": "01M4T4ZCM54D3ZPTQXRSWFG0XS",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-13T16:45:39.135782+00:00",
+  "started_at": "2026-10-13T08:10:00+00:00",
+  "status": "resolved",
+  "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
+ },
+ {
   "body": "The incident is resolved. Error rates are back to normal, and stable service has been confirmed. We will publish a Root cause analysis once our review of the incident is complete.",
   "components": [],
   "duration": "4h 57m",
@@ -7698,23 +7716,5 @@
   "title": "Degraded Agent Performance Due to Upstream Model Provider Errors",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "1h 21m",
-  "headline": "🟢 OpenAI lives. Pick your tools back up.",
-  "id": "openai:01M2RC0WHGTX8EHDH7D60JJ7FC:resolved:resolved:major:2026-09-17T20:24:45+00:00",
-  "impact": "major",
-  "incident_id": "01M2RC0WHGTX8EHDH7D60JJ7FC",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-17T20:30:24.516241+00:00",
-  "started_at": "2026-09-17T19:03:17+00:00",
-  "status": "resolved",
-  "title": "Elevated errors affecting ChatGPT Work mode",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
  }
 ]

@@ -1097,13 +1097,5 @@
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 OpenAI lives. Pick your tools back up.]]></title>
-<link>https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC</link>
-<guid isPermaLink='false'>openai:01M2RC0WHGTX8EHDH7D60JJ7FC:resolved:resolved:major:2026-09-17T20:24:45+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 20:30:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting ChatGPT Work mode</strong></p><p>Impact: major · Status: resolved · Duration: 1h 21m · Opened: Thu, 17 Sep 2026 19:03:17 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC">OpenAI status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
