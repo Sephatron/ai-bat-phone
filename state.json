@@ -4802,6 +4802,12 @@
    "status": "resolved",
    "updated_at": "2026-10-09T23:15:40+00:00"
   },
+  "perplexity:01M4VBQY9921W0JWATY7NGPZ0A": {
+   "impact": "none",
+   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "status": "scheduled",
+   "updated_at": "2026-10-13T19:27:31+00:00"
+  },
   "perplexity:cm8t22p39002dg69u0yxplqiq": {
    "impact": "minor",
    "last_seen_at": "2026-09-10T00:00:00+00:00",

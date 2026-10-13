@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 Planned works at Perplexity]]></title>
+<link>https://status.perplexity.com//incidents/01M4VBQY9921W0JWATY7NGPZ0A</link>
+<guid isPermaLink='false'>perplexity:01M4VBQY9921W0JWATY7NGPZ0A:opened:scheduled:none:2026-10-13T19:30:33.170557+00:00</guid>
+<pubDate>Tue, 13 Oct 2026 19:30:33 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>Maintenance: Scheduled Computer Maintenance</strong></p><p>Scheduled maintenance · Status: scheduled · Opened: Tue, 13 Oct 2026 19:27:31 +0000</p><p>Status: Scheduled We’ll perform scheduled maintenance on Computer on October 13 at around 2:30 PM Pacific. We expect a brief interruption of approximately one to two minutes during the maintenance window. Some Computer operations may encounter errors or require a retry. We’ll update this page when maintenance is complete. Affected components Computer (Under maintenance)</p><p><a href="https://status.perplexity.com//incidents/01M4VBQY9921W0JWATY7NGPZ0A">Perplexity status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is upright again. That took 6d 4h.]]></title>
 <link>https://stspg.io/sjkw7njwf0mt</link>
 <guid isPermaLink='false'>anthropic:978mjkgw6mh7:resolved:resolved:major:2026-10-13T18:00:04.390000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 02 Oct 2026 22:15:29 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Fri, 02 Oct 2026 22:15:12 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/853mgz04gbdm">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 48 min]]></title>
-<link>https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE</link>
-<guid isPermaLink='false'>openai:01M3YNNVTSCXS8YM2V1YMHMVSE:resolved:resolved:minor:2026-10-02T16:51:13+00:00</guid>
-<pubDate>Fri, 02 Oct 2026 17:00:37 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Issues with data analysis and file creation in ChatGPT</strong></p><p>Impact: minor · Status: resolved · Duration: 48 min · Opened: Fri, 02 Oct 2026 16:03:10 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

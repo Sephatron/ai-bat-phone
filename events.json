@@ -1,5 +1,23 @@
 [
  {
+  "body": "Status: Scheduled We’ll perform scheduled maintenance on Computer on October 13 at around 2:30 PM Pacific. We expect a brief interruption of approximately one to two minutes during the maintenance window. Some Computer operations may encounter errors or require a retry. We’ll update this page when maintenance is complete. Affected components Computer (Under maintenance)",
+  "components": [],
+  "duration": "",
+  "headline": "🔧 Planned works at Perplexity",
+  "id": "perplexity:01M4VBQY9921W0JWATY7NGPZ0A:opened:scheduled:none:2026-10-13T19:30:33.170557+00:00",
+  "impact": "none",
+  "incident_id": "01M4VBQY9921W0JWATY7NGPZ0A",
+  "kind": "maintenance",
+  "provider_key": "perplexity",
+  "provider_name": "Perplexity",
+  "published_at": "2026-10-13T19:30:33.170557+00:00",
+  "started_at": "2026-10-13T19:27:31+00:00",
+  "status": "scheduled",
+  "title": "Maintenance: Scheduled Computer Maintenance",
+  "transition": "opened",
+  "url": "https://status.perplexity.com//incidents/01M4VBQY9921W0JWATY7NGPZ0A"
+ },
+ {
   "body": "This issue has been resolved.",
   "components": [
    "Claude Console (platform.claude.com)"
@@ -7698,25 +7716,5 @@
   "title": "We are seeing elevated error rates across API models",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA"
- },
- {
-  "body": "We are investigating reports of degraded performance for Copilot AI Model Providers",
-  "components": [
-   "Copilot AI Model Providers"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from GitHub",
-  "id": "github:nvy2q96mcmyg:opened:investigating:minor:2026-09-17T20:59:02.131000+00:00",
-  "impact": "minor",
-  "incident_id": "nvy2q96mcmyg",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-17T21:00:28.754813+00:00",
-  "started_at": "2026-09-17T20:59:02.067000+00:00",
-  "status": "investigating",
-  "title": "Elevated rate of errors for OpenAI models provided by Copilot",
-  "transition": "opened",
-  "url": "https://stspg.io/t938cy7649sn"
  }
 ]
