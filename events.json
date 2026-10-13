@@ -1,5 +1,23 @@
 [
  {
+  "body": "The incident is resolved. Error rates are back to normal, and stable service has been confirmed. We will publish a Root cause analysis once our review of the incident is complete.",
+  "components": [],
+  "duration": "4h 57m",
+  "headline": "🟢 ElevenLabs is back. Grass sufficiently touched.",
+  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:resolved:resolved:major:2026-10-13T14:18:43+00:00",
+  "impact": "major",
+  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-13T14:30:43.766369+00:00",
+  "started_at": "2026-10-13T09:21:00+00:00",
+  "status": "resolved",
+  "title": "Multiple US endpoints experiencing timeouts and latency",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
+ },
+ {
   "body": "Error rates have continued to stabilize. We are continuing to monitor the affected endpoints to ensure service remains steady.",
   "components": [],
   "duration": "",
@@ -7698,28 +7716,5 @@
   "title": "Elevated errors affecting ChatGPT Work mode",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "4h 44m",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:jdm0j510q78b:resolved:resolved:minor:2026-09-17T20:04:04.933000+00:00",
-  "impact": "minor",
-  "incident_id": "jdm0j510q78b",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-17T20:15:30.254604+00:00",
-  "started_at": "2026-09-17T15:20:00+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Cloud Agents and Automations",
-  "transition": "resolved",
-  "url": "https://stspg.io/tvp74wjvjbgg"
  }
 ]
