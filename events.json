@@ -1,5 +1,23 @@
 [
  {
+  "body": "Error rates have continued to stabilize. We are continuing to monitor the affected endpoints to ensure service remains steady.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs has applied a fix and is holding its breath",
+  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T13:42:07+00:00",
+  "impact": "major",
+  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-13T13:45:27.770763+00:00",
+  "started_at": "2026-10-13T09:21:00+00:00",
+  "status": "monitoring",
+  "title": "Multiple US endpoints experiencing timeouts and latency",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
+ },
+ {
   "body": "We are still seeing elevated errors and timeouts on the affected endpoints, and requests may continue to fail. We are actively working with our data provider to restore full service and bring the endpoints back online.",
   "components": [],
   "duration": "",
@@ -7703,23 +7721,5 @@
   "title": "Investigating service degradation — Cloud Agents and Automations",
   "transition": "resolved",
   "url": "https://stspg.io/tvp74wjvjbgg"
- },
- {
-  "body": "We are still implementing the mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
-  "id": "openai:01M2RC0WHGTX8EHDH7D60JJ7FC:progress:identified:major:2026-09-17T19:57:22+00:00",
-  "impact": "major",
-  "incident_id": "01M2RC0WHGTX8EHDH7D60JJ7FC",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-17T20:00:34.218340+00:00",
-  "started_at": "2026-09-17T19:03:17+00:00",
-  "status": "identified",
-  "title": "Elevated errors affecting ChatGPT Work mode",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M2RC0WHGTX8EHDH7D60JJ7FC"
  }
 ]
