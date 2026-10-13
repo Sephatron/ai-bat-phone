@@ -1,5 +1,31 @@
 [
  {
+  "body": "A fix has been implemented and services are recovering. Some users may still see intermittent errors while we monitor for full restoration.",
+  "components": [
+   "Automations",
+   "Review Agents",
+   "CLI",
+   "Cloud Agents",
+   "IDE",
+   "Origin",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor has applied a fix and is holding its breath",
+  "id": "cursor:8nlyd6t95xjm:progress:monitoring:critical:2026-10-13T00:53:06.797000+00:00",
+  "impact": "critical",
+  "incident_id": "8nlyd6t95xjm",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-13T01:00:49.646655+00:00",
+  "started_at": "2026-10-13T00:22:00+00:00",
+  "status": "monitoring",
+  "title": "Investigating service degradation — Grok Bot, IDE, and Cloud Agents",
+  "transition": "progress",
+  "url": "https://stspg.io/wb9c5pzxfnz6"
+ },
+ {
   "body": "We are investigating a widespread issue affecting Cursor. Users may see errors or failed requests across the IDE, Cloud Agents, Automations, Grok Bot, and Origin. Our team is actively working to restore service.",
   "components": [
    "Automations",
@@ -7700,24 +7726,6 @@
   "status": "resolved",
   "title": "Elevated errors in ChatGPT Work",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M2NRHTYAM3K3M93X1D068MCY:progress:monitoring:minor:2026-09-16T19:20:27+00:00",
-  "impact": "minor",
-  "incident_id": "01M2NRHTYAM3K3M93X1D068MCY",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-16T19:30:28.367131+00:00",
-  "started_at": "2026-09-16T18:44:32+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors in ChatGPT Work",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M2NRHTYAM3K3M93X1D068MCY"
  }
 ]
