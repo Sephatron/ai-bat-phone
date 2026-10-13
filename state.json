@@ -2322,7 +2322,7 @@
    "impact": "major",
    "last_seen_at": "2026-10-13T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-13T09:21:00+00:00"
+   "updated_at": "2026-10-13T09:31:01+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -2743,6 +2743,12 @@
    "last_seen_at": "2026-10-13T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-13T07:54:02+00:00"
+  },
+  "fireworks:01M4T9Z9FRT5Y8M1FR9GD9BTPZ": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-13T09:40:29+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
