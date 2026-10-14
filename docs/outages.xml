@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 14 Oct 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8</link>
+<guid isPermaLink='false'>openai:01M4WYPP5QA0CJ3JV76KH285K8:resolved:resolved:minor:2026-10-14T10:58:07+00:00</guid>
+<pubDate>Wed, 14 Oct 2026 11:00:33 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst</strong></p><p>Impact: minor · Status: resolved · Duration: 40 min · Opened: Wed, 14 Oct 2026 10:18:07 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 03 Oct 2026 07:30:36 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot and Review Agents</strong></p><p>Impact: minor · Status: resolved · Affects: Review Agents, Grok Bot · Duration: 35 min · Opened: Sat, 03 Oct 2026 06:50:57 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/v2hkwpxcb9j8">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
-<link>https://stspg.io/v2hkwpxcb9j8</link>
-<guid isPermaLink='false'>cursor:tjs10pzx9qxg:opened:investigating:minor:2026-10-03T06:50:57.323000+00:00</guid>
-<pubDate>Sat, 03 Oct 2026 07:00:39 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot and Review Agents</strong></p><p>Impact: minor · Status: investigating · Affects: Review Agents, Grok Bot · Opened: Sat, 03 Oct 2026 06:50:57 +0000</p><p>We are investigating a service degradation affecting Grok Bot and Review Agents.</p><p><a href="https://stspg.io/v2hkwpxcb9j8">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
