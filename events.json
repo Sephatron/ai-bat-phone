@@ -1,5 +1,25 @@
 [
  {
+  "body": "We've identified the issue impacting Grok Bot for some users and are working on a fix.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🔍 Cursor knows what it did",
+  "id": "cursor:6y0yq43mvwg2:progress:identified:minor:2026-10-14T20:08:28.560000+00:00",
+  "impact": "minor",
+  "incident_id": "6y0yq43mvwg2",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-14T20:15:15.935559+00:00",
+  "started_at": "2026-10-14T15:46:23.651000+00:00",
+  "status": "identified",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "progress",
+  "url": "https://stspg.io/tp05ff30h17j"
+ },
+ {
   "body": "We have identified an issue causing delays in publishing organization cost data through the Costs API. API and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.",
   "components": [],
   "duration": "",
@@ -7692,25 +7712,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "opened",
   "url": "https://stspg.io/k5db4cd96jlz"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "2h 56m",
-  "headline": "🟢 All clear from Cursor after 2h 56m",
-  "id": "cursor:3slwgs0612sc:resolved:resolved:major:2026-09-18T14:34:00.003000+00:00",
-  "impact": "major",
-  "incident_id": "3slwgs0612sc",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-18T14:45:57.208494+00:00",
-  "started_at": "2026-09-18T11:37:50.827000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/bqcp7r92qcps"
  }
 ]

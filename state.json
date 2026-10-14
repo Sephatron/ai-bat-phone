@@ -1429,8 +1429,8 @@
   "cursor:6y0yq43mvwg2": {
    "impact": "minor",
    "last_seen_at": "2026-10-14T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-14T15:46:23.758000+00:00"
+   "status": "identified",
+   "updated_at": "2026-10-14T20:08:28.560000+00:00"
   },
   "cursor:8gb6fb4lkbn9": {
    "impact": "minor",
@@ -4742,7 +4742,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-14T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-10-14T17:02:47+00:00"
+   "updated_at": "2026-10-14T20:00:36+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
