@@ -1105,13 +1105,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: investigating · Affects: Grok Bot · Opened: Fri, 18 Sep 2026 11:37:50 +0000</p><p>We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.</p><p><a href="https://stspg.io/bqcp7r92qcps">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:recovered:2026-09-10T21:00:00+00:00</guid>
-<pubDate>Thu, 17 Sep 2026 21:45:21 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8</link>
+<guid isPermaLink='false'>openai:01M4WYPP5QA0CJ3JV76KH285K8:progress:monitoring:minor:2026-10-14T10:40:11+00:00</guid>
+<pubDate>Wed, 14 Oct 2026 10:45:21 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 14 Oct 2026 10:18:07 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
 <link>https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8</link>
 <guid isPermaLink='false'>openai:01M4WYPP5QA0CJ3JV76KH285K8:opened:investigating:minor:2026-10-14T10:18:07+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 03 Oct 2026 07:00:39 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot and Review Agents</strong></p><p>Impact: minor · Status: investigating · Affects: Review Agents, Grok Bot · Opened: Sat, 03 Oct 2026 06:50:57 +0000</p><p>We are investigating a service degradation affecting Grok Bot and Review Agents.</p><p><a href="https://stspg.io/v2hkwpxcb9j8">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 13 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R</link>
-<guid isPermaLink='false'>fireworks:01M3ZC4HVRY7QFHWQF3ZP0XQ0R:resolved:resolved:minor:2026-10-02T22:49:23+00:00</guid>
-<pubDate>Fri, 02 Oct 2026 23:00:38 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Fri, 02 Oct 2026 22:35:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
