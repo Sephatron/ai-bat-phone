@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI knows what it did",
+  "id": "openai:01M4WKPE1EY48ZB4RZJ80YH7ES:opened:identified:minor:2026-10-14T07:05:44+00:00",
+  "impact": "minor",
+  "incident_id": "01M4WKPE1EY48ZB4RZJ80YH7ES",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-14T07:15:22.069206+00:00",
+  "started_at": "2026-10-14T07:05:44+00:00",
+  "status": "identified",
+  "title": "Degraded performance in Codex and ChatGPT Work",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES"
+ },
+ {
   "body": "https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format",
   "components": [],
   "duration": "",
@@ -7698,23 +7716,5 @@
   "title": "We are seeing elevated error rates across API models",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA"
- },
- {
-  "body": "[Resolved] We have resolved the incident related to degraded agent performance due to increase in errors from our upstream model providers.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit sorted itself out after a while",
-  "id": "replit:30f07068-73ff-46d7-8ac5-3fffed771fb8:resolved:resolved:minor:2026-09-17T21:45:21.584937+00:00",
-  "impact": "minor",
-  "incident_id": "30f07068-73ff-46d7-8ac5-3fffed771fb8",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-09-17T21:45:21.584937+00:00",
-  "started_at": "2026-09-17T21:31:52+00:00",
-  "status": "resolved",
-  "title": "Resolved: Degraded Agent Performance Due to Upstream Model Provider Errors",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/30f07068-73ff-46d7-8ac5-3fffed771fb8"
  }
 ]
