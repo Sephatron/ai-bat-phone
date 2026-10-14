@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are experiencing a cloud service provider (CSP) outage affecting multiple serverless models. Requests to affected models may fail. We are investigating the impact.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M4YAMVS2260M80QZMQHBPZPY:opened:investigating:minor:2026-10-14T23:06:04+00:00",
+  "impact": "minor",
+  "incident_id": "01M4YAMVS2260M80QZMQHBPZPY",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-14T23:08:32.300502+00:00",
+  "started_at": "2026-10-14T23:06:04+00:00",
+  "status": "investigating",
+  "title": "CSP outage affecting multiple serverless models",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4YAMVS2260M80QZMQHBPZPY"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "13 min",
@@ -7687,26 +7705,6 @@
   "status": "identified",
   "title": "Elevated Errors Triggering Deployments",
   "transition": "progress",
-  "url": "https://stspg.io/6c79t86c2xrr"
- },
- {
-  "body": "We are currently investigating an issue causing increased errors triggering deployments. We'll provide additional updates as they become available.",
-  "components": [
-   "Builds"
-  ],
-  "duration": "",
-  "headline": "🔴 Vercel has gone dark. Nothing you did. Probably.",
-  "id": "vercel:bwkmw4hmrgmk:opened:investigating:major:2026-09-18T20:32:37.014000+00:00",
-  "impact": "major",
-  "incident_id": "bwkmw4hmrgmk",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-18T20:45:31.259863+00:00",
-  "started_at": "2026-09-18T20:32:36.888000+00:00",
-  "status": "investigating",
-  "title": "Elevated Errors Triggering Deployments",
-  "transition": "opened",
   "url": "https://stspg.io/6c79t86c2xrr"
  }
 ]
