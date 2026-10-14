@@ -1089,13 +1089,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 2h 56m · Opened: Fri, 18 Sep 2026 11:37:50 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/bqcp7r92qcps">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-09-18</guid>
-<pubDate>Fri, 18 Sep 2026 14:00:45 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified an issue causing delays in publishing organization cost data through the Costs API. API and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M4XNQX7C6RCBNGX9H711WFSG:opened:identified:minor:2026-10-14T17:02:47+00:00",
+  "impact": "minor",
+  "incident_id": "01M4XNQX7C6RCBNGX9H711WFSG",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-14T17:15:20.976313+00:00",
+  "started_at": "2026-10-14T17:00:44+00:00",
+  "status": "identified",
+  "title": "Delayed Costs data in the Compliance API",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
+ },
+ {
   "body": "[Investigating] We are investigating an issue affecting Agent’s access to saved personal memory and preferences. Some users may experience delays or find that previously saved preferences are temporarily unavailable to Agent. We are working to mitigate the issue and will provide an update as we learn more.",
   "components": [],
   "duration": "",
@@ -7694,23 +7712,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "resolved",
   "url": "https://stspg.io/bqcp7r92qcps"
- },
- {
-  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
-  "components": [],
-  "duration": "",
-  "headline": "📡 Still watching. Nothing to report.",
-  "id": "meta:all:alive:2026-09-18",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "batphone",
-  "provider_name": "AI Bat Phone",
-  "published_at": "2026-09-18T14:00:45.007485+00:00",
-  "started_at": "2026-09-18T14:00:45.007485+00:00",
-  "status": "alive",
-  "title": "Still watching 21 provider status pages",
-  "transition": "alive",
-  "url": "https://sephatron.github.io/ai-bat-phone"
  }
 ]
