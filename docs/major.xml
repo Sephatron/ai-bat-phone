@@ -6,7 +6,7 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 14 Oct 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
@@ -1056,14 +1056,6 @@
 <pubDate>Fri, 18 Sep 2026 20:45:31 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: investigating · Affects: Builds · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>We are currently investigating an issue causing increased errors triggering deployments. We'll provide additional updates as they become available.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/k5db4cd96jlz</link>
-<guid isPermaLink='false'>cursor:14xbn0wxbpdb:progress:monitoring:major:2026-09-18T19:53:41.450000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 20:00:45 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: monitoring · Affects: Grok Bot · Opened: Fri, 18 Sep 2026 17:19:03 +0000</p><p>A fix has been implemented and we are monitoring for service restoration. Grok Bot should be responding normally again.</p><p><a href="https://stspg.io/k5db4cd96jlz">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

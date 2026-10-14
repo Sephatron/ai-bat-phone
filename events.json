@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "13 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M4Y8R9SYHNJK4SBJWZT2K43C:resolved:resolved:minor:2026-10-14T22:46:19+00:00",
+  "impact": "minor",
+  "incident_id": "01M4Y8R9SYHNJK4SBJWZT2K43C",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-14T23:01:06.125090+00:00",
+  "started_at": "2026-10-14T22:33:00+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Deepseek V4.1 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C"
+ },
+ {
   "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7690,25 +7708,5 @@
   "title": "Elevated Errors Triggering Deployments",
   "transition": "opened",
   "url": "https://stspg.io/6c79t86c2xrr"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration. Grok Bot should be responding normally again.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
-  "id": "cursor:14xbn0wxbpdb:progress:monitoring:major:2026-09-18T19:53:41.450000+00:00",
-  "impact": "major",
-  "incident_id": "14xbn0wxbpdb",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-18T20:00:45.096120+00:00",
-  "started_at": "2026-09-18T17:19:03.587000+00:00",
-  "status": "monitoring",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "progress",
-  "url": "https://stspg.io/k5db4cd96jlz"
  }
 ]

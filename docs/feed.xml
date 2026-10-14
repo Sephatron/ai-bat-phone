@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 14 Oct 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C</link>
+<guid isPermaLink='false'>fireworks:01M4Y8R9SYHNJK4SBJWZT2K43C:resolved:resolved:minor:2026-10-14T22:46:19+00:00</guid>
+<pubDate>Wed, 14 Oct 2026 23:01:06 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Wed, 14 Oct 2026 22:33:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
 <link>https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 05 Oct 2026 17:00:36 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors in ChatGPT conversations</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 05 Oct 2026 16:58:56 +0000</p><p>We are investigating elevated error rates affecting some ChatGPT conversations. Error rates are improving, and our team is continuing to assess recovery. We will share further updates as they become available.</p><p><a href="https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1</link>
-<guid isPermaLink='false'>openai:01M46C47WYYD9NMZVGH83X3ZR1:opened:investigating:none:2026-10-05T15:50:11+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 15:54:05 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Admin Console Intermittently Inaccessible</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 05 Oct 2026 15:50:11 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
