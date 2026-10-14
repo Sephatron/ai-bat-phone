@@ -1065,13 +1065,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: monitoring · Affects: Grok Bot · Opened: Fri, 18 Sep 2026 17:19:03 +0000</p><p>A fix has been implemented and we are monitoring for service restoration. Grok Bot should be responding normally again.</p><p><a href="https://stspg.io/k5db4cd96jlz">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔍 Cursor has found the culprit]]></title>
-<link>https://stspg.io/k5db4cd96jlz</link>
-<guid isPermaLink='false'>cursor:14xbn0wxbpdb:progress:identified:major:2026-09-18T19:01:17.644000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 19:15:31 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: identified · Affects: Grok Bot · Opened: Fri, 18 Sep 2026 17:19:03 +0000</p><p>The root cause has been identified and a fix is being rolled out. Some users may see Grok Bot respond slowly or not respond at all. We will provide another update shortly.</p><p><a href="https://stspg.io/k5db4cd96jlz">Cursor status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

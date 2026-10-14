@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
+<link>https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C</link>
+<guid isPermaLink='false'>fireworks:01M4Y8R9SYHNJK4SBJWZT2K43C:opened:investigating:minor:2026-10-14T22:33:00+00:00</guid>
+<pubDate>Wed, 14 Oct 2026 22:46:04 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 14 Oct 2026 22:33:00 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor sorted itself out after 5h 18m]]></title>
 <link>https://stspg.io/tp05ff30h17j</link>
 <guid isPermaLink='false'>cursor:6y0yq43mvwg2:resolved:resolved:minor:2026-10-14T21:04:46.631000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 05 Oct 2026 15:54:05 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Admin Console Intermittently Inaccessible</strong></p><p>Impact: unclassified · Status: investigating · Opened: Mon, 05 Oct 2026 15:50:11 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/wdqhxt8xt574</link>
-<guid isPermaLink='false'>anthropic:bhphxz3vr58g:resolved:resolved:major:2026-10-05T13:21:37.638000+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 13:30:34 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 15 min · Opened: Mon, 05 Oct 2026 13:05:44 +0000</p><p>The issue affecting Claude Mythos 5.1 and Claude Fable 5.1 has been resolved. Impact occurred from 05:40 PT / 12:40 UTC to 06:10 PT / 13:10 UTC.</p><p><a href="https://stspg.io/wdqhxt8xt574">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
