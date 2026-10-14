@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating limited availability when using gpt-image-2.5-flare and gpt-image-2.5-sunburst in the API.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M4WYPP5QA0CJ3JV76KH285K8:opened:investigating:minor:2026-10-14T10:18:07+00:00",
+  "impact": "minor",
+  "incident_id": "01M4WYPP5QA0CJ3JV76KH285K8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-14T10:30:24.075490+00:00",
+  "started_at": "2026-10-14T10:18:07+00:00",
+  "status": "investigating",
+  "title": "Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "2h 47m",
@@ -7696,25 +7714,5 @@
   "title": "AI Bat Phone can read Perplexity's status page again",
   "transition": "recovered",
   "url": "https://status.perplexity.com"
- },
- {
-  "body": "We are experiencing degraded availability for GPT-5.6 Luna, GPT-5.6 Terra, GPT-5.6 Sol, GPT-6 Astra, GPT-5.3-Codex in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. The provider is working to mitigate the problem and we are monitoring recovery. We recommend choosing another model or selecting 'Auto' to continue using Copilot.",
-  "components": [
-   "Copilot AI Model Providers"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub has applied a fix and is holding its breath",
-  "id": "github:nvy2q96mcmyg:progress:monitoring:minor:2026-09-17T21:39:28.950000+00:00",
-  "impact": "minor",
-  "incident_id": "nvy2q96mcmyg",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-17T21:45:21.584937+00:00",
-  "started_at": "2026-09-17T20:59:02.067000+00:00",
-  "status": "monitoring",
-  "title": "Elevated rate of errors for OpenAI models provided by Copilot",
-  "transition": "progress",
-  "url": "https://stspg.io/t938cy7649sn"
  }
 ]
