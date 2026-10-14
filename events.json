@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] We are investigating an issue affecting Agent’s access to saved personal memory and preferences. Some users may experience delays or find that previously saved preferences are temporarily unavailable to Agent. We are working to mitigate the issue and will provide an update as we learn more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Replit is a bit under the weather",
+  "id": "replit:6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f:opened:investigating:minor:2026-10-14T16:15:18.853739+00:00",
+  "impact": "minor",
+  "incident_id": "6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-14T16:15:18.853739+00:00",
+  "started_at": "2026-10-14T16:01:44+00:00",
+  "status": "investigating",
+  "title": "Degraded access to Agent personal memory",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f"
+ },
+ {
   "body": "We are investigating a service degradation affecting Grok Bot and preventing some users from reaching their computers",
   "components": [
    "Grok Bot"
@@ -7694,25 +7712,5 @@
   "title": "Still watching 21 provider status pages",
   "transition": "alive",
   "url": "https://sephatron.github.io/ai-bat-phone"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot. Users may experience degraded performance or bots that don't respond.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Cursor is on the floor. Kettle on, grass outside.",
-  "id": "cursor:3slwgs0612sc:opened:investigating:major:2026-09-18T11:37:50.926000+00:00",
-  "impact": "major",
-  "incident_id": "3slwgs0612sc",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-18T11:45:25.681000+00:00",
-  "started_at": "2026-09-18T11:37:50.827000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "opened",
-  "url": "https://stspg.io/bqcp7r92qcps"
  }
 ]

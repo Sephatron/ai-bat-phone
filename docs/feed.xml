@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Replit is a bit under the weather]]></title>
+<link>https://status.replit.com/incidents/6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f</link>
+<guid isPermaLink='false'>replit:6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f:opened:investigating:minor:2026-10-14T16:15:18.853739+00:00</guid>
+<pubDate>Wed, 14 Oct 2026 16:15:18 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Degraded access to Agent personal memory</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 14 Oct 2026 16:01:44 +0000</p><p>[Investigating] We are investigating an issue affecting Agent’s access to saved personal memory and preferences. Some users may experience delays or find that previously saved preferences are temporarily unavailable to Agent. We are working to mitigate the issue and will provide an update as we learn more.</p><p><a href="https://status.replit.com/incidents/6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
 <link>https://stspg.io/tp05ff30h17j</link>
 <guid isPermaLink='false'>cursor:6y0yq43mvwg2:opened:investigating:minor:2026-10-14T15:46:23.758000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 05 Oct 2026 12:46:09 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Issues saving and editing Pages</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 05 Oct 2026 12:44:53 +0000</p><p>We are investigating the issue for the listed services. Some users may be unable to save changes or reconnect to live editing sessions.</p><p><a href="https://status.openai.com/incidents/01M461GYDMCVJJK8330PVCH42C">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z</link>
-<guid isPermaLink='false'>openai:01M45E0JFFJZ6EQ3BWYPW74R2Z:progress:monitoring:minor:2026-10-05T09:50:38+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 10:00:33 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Work Mode errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 05 Oct 2026 07:03:53 +0000</p><p>We have mitigated the issue, and are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
