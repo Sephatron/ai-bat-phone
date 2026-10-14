@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "5h 18m",
+  "headline": "🟢 Cursor sorted itself out after 5h 18m",
+  "id": "cursor:6y0yq43mvwg2:resolved:resolved:minor:2026-10-14T21:04:46.631000+00:00",
+  "impact": "minor",
+  "incident_id": "6y0yq43mvwg2",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-14T21:16:07.016620+00:00",
+  "started_at": "2026-10-14T15:46:23.651000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "resolved",
+  "url": "https://stspg.io/tp05ff30h17j"
+ },
+ {
   "body": "We've identified the issue impacting Grok Bot for some users and are working on a fix.",
   "components": [
    "Grok Bot"
@@ -7691,26 +7711,6 @@
   "status": "identified",
   "title": "Investigating service degradation — Grok Bot",
   "transition": "progress",
-  "url": "https://stspg.io/k5db4cd96jlz"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Cursor is on the floor. Kettle on, grass outside.",
-  "id": "cursor:14xbn0wxbpdb:opened:investigating:major:2026-09-18T17:19:03.682000+00:00",
-  "impact": "major",
-  "incident_id": "14xbn0wxbpdb",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-18T17:30:33.516627+00:00",
-  "started_at": "2026-09-18T17:19:03.587000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "opened",
   "url": "https://stspg.io/k5db4cd96jlz"
  }
 ]
