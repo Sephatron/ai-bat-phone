@@ -2890,6 +2890,12 @@
    "status": "completed",
    "updated_at": "2022-10-05T05:00:40.151000+00:00"
   },
+  "github:6yk962mhlr3h": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-14T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-14T00:13:11.803000+00:00"
+  },
   "github:75g5xmzptjqb": {
    "impact": "major",
    "last_seen_at": "2026-10-07T00:00:00+00:00",
