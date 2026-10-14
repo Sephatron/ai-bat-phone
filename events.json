@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "2h 47m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M4WKPE1EY48ZB4RZJ80YH7ES:resolved:resolved:minor:2026-10-14T09:53:11+00:00",
+  "impact": "minor",
+  "incident_id": "01M4WKPE1EY48ZB4RZJ80YH7ES",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-14T10:00:27.597206+00:00",
+  "started_at": "2026-10-14T07:05:44+00:00",
+  "status": "resolved",
+  "title": "Degraded performance in Codex and ChatGPT Work",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
@@ -7698,23 +7716,5 @@
   "title": "Elevated rate of errors for OpenAI models provided by Copilot",
   "transition": "progress",
   "url": "https://stspg.io/t938cy7649sn"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M2RMCS2HVBXGBFKEZ9RZR4FA:progress:monitoring:minor:2026-09-17T21:31:05+00:00",
-  "impact": "minor",
-  "incident_id": "01M2RMCS2HVBXGBFKEZ9RZR4FA",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-17T21:45:21.584937+00:00",
-  "started_at": "2026-09-17T21:29:35+00:00",
-  "status": "monitoring",
-  "title": "We are seeing elevated error rates across API models",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M2RMCS2HVBXGBFKEZ9RZR4FA"
  }
 ]
