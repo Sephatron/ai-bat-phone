@@ -1,5 +1,23 @@
 [
  {
+  "body": "Error rates for affected serverless models are beginning to recover. We are monitoring the recovery; some requests may still fail.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Fireworks AI thinks it's fixed and is watching nervously",
+  "id": "fireworks:01M4YAMVS2260M80QZMQHBPZPY:progress:monitoring:minor:2026-10-14T23:15:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M4YAMVS2260M80QZMQHBPZPY",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-14T23:16:05.848180+00:00",
+  "started_at": "2026-10-14T23:06:04+00:00",
+  "status": "monitoring",
+  "title": "CSP outage affecting multiple serverless models",
+  "transition": "progress",
+  "url": "https://status.fireworks.ai/incidents/01M4YAMVS2260M80QZMQHBPZPY"
+ },
+ {
   "body": "We are experiencing a cloud service provider (CSP) outage affecting multiple serverless models. Requests to affected models may fail. We are investigating the impact.",
   "components": [],
   "duration": "",
@@ -7683,26 +7701,6 @@
   "published_at": "2026-09-18T21:15:14.201189+00:00",
   "started_at": "2026-09-18T20:32:36.888000+00:00",
   "status": "monitoring",
-  "title": "Elevated Errors Triggering Deployments",
-  "transition": "progress",
-  "url": "https://stspg.io/6c79t86c2xrr"
- },
- {
-  "body": "The issue has been identified and a fix is being implemented.",
-  "components": [
-   "Builds"
-  ],
-  "duration": "",
-  "headline": "🔍 Vercel knows what it did",
-  "id": "vercel:bwkmw4hmrgmk:progress:identified:major:2026-09-18T21:07:13.426000+00:00",
-  "impact": "major",
-  "incident_id": "bwkmw4hmrgmk",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-18T21:11:27.906905+00:00",
-  "started_at": "2026-09-18T20:32:36.888000+00:00",
-  "status": "identified",
   "title": "Elevated Errors Triggering Deployments",
   "transition": "progress",
   "url": "https://stspg.io/6c79t86c2xrr"
