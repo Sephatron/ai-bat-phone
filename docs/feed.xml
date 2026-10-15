@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7</link>
+<guid isPermaLink='false'>fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:resolved:resolved:minor:2026-10-15T09:05:34+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 09:16:01 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 17 min · Opened: Thu, 15 Oct 2026 08:48:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7</link>
 <guid isPermaLink='false'>fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:opened:investigating:minor:2026-10-15T08:48:20+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 00:15:30 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors in ChatGPT conversations</strong></p><p>Impact: minor · Status: resolved · Duration: 7h 02m · Opened: Mon, 05 Oct 2026 16:58:56 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 GitHub is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/pjcfc4c3pm7g</link>
-<guid isPermaLink='false'>github:2kxnqcxcrr7f:opened:investigating:major:2026-10-05T23:47:45.257000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 00:00:36 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: major · Status: investigating · Opened: Mon, 05 Oct 2026 23:47:45 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/pjcfc4c3pm7g">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

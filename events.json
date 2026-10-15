@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "17 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:resolved:resolved:minor:2026-10-15T09:05:34+00:00",
+  "impact": "minor",
+  "incident_id": "01M4ZBZ09ARYY7745HM7YCZHW7",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-15T09:16:01.325555+00:00",
+  "started_at": "2026-10-15T08:48:20+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7689,23 +7707,5 @@
   "title": "Some ElevenAgents calls failed to start (resolved)",
   "transition": "opened",
   "url": "https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "18 min",
-  "headline": "🟢 OpenAI sorted itself out after 18 min",
-  "id": "openai:01M2VBZB1RYSMXHZNRA25ZJ36X:resolved:resolved:none:2026-09-18T23:18:55+00:00",
-  "impact": "none",
-  "incident_id": "01M2VBZB1RYSMXHZNRA25ZJ36X",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-18T23:30:19.029199+00:00",
-  "started_at": "2026-09-18T23:00:09+00:00",
-  "status": "resolved",
-  "title": "SSO sign-in and SCIM provisioning issues",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X"
  }
 ]
