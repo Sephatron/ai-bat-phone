@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
+<link>https://stspg.io/nbsrtgp6pr7p</link>
+<guid isPermaLink='false'>cursor:h76w09vs1vqq:opened:investigating:minor:2026-10-15T22:25:11.823000+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 22:31:01 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting Grok models</strong></p><p>Impact: minor · Status: investigating · Affects: CLI, Cloud Agents, IDE · Opened: Thu, 15 Oct 2026 22:25:11 +0000</p><p>We are investigating elevated errors affecting Grok models in Cursor. Some requests may fail with a capacity error. Retrying the request or switching to another model may help.</p><p><a href="https://stspg.io/nbsrtgp6pr7p">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub sorted itself out after 28 min]]></title>
 <link>https://stspg.io/vk8t78vtswmg</link>
 <guid isPermaLink='false'>github:vlxrztp88101:resolved:resolved:minor:2026-10-15T19:00:06.028000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 08:30:32 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates in Codex Cloud</strong></p><p>Impact: unclassified · Status: resolved · Duration: 14h 24m · Opened: Mon, 05 Oct 2026 17:58:04 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z</link>
-<guid isPermaLink='false'>openai:01M45E0JFFJZ6EQ3BWYPW74R2Z:resolved:resolved:minor:2026-10-06T08:29:05+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 08:30:32 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Work Mode errors</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 1h · Opened: Mon, 05 Oct 2026 07:03:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

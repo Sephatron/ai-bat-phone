@@ -1,5 +1,27 @@
 [
  {
+  "body": "We are investigating elevated errors affecting Grok models in Cursor. Some requests may fail with a capacity error. Retrying the request or switching to another model may help.",
+  "components": [
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is sulking, mildly",
+  "id": "cursor:h76w09vs1vqq:opened:investigating:minor:2026-10-15T22:25:11.823000+00:00",
+  "impact": "minor",
+  "incident_id": "h76w09vs1vqq",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-15T22:31:01.276461+00:00",
+  "started_at": "2026-10-15T22:25:11.662000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting Grok models",
+  "transition": "opened",
+  "url": "https://stspg.io/nbsrtgp6pr7p"
+ },
+ {
   "body": "We suspected that CCA Automations were experiencing delays when users start an Automation, but further investigation found that there was no delay or impact to CCA Automations.",
   "components": [],
   "duration": "28 min",
@@ -7689,23 +7711,5 @@
   "title": "Overbilling for OpenAI-hosted containers in the Agent API",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "8 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M2W0JTY0Z7KNA1TQKKV6EH96:resolved:resolved:minor:2026-09-19T05:08:50+00:00",
-  "impact": "minor",
-  "incident_id": "01M2W0JTY0Z7KNA1TQKKV6EH96",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-19T05:15:17.864647+00:00",
-  "started_at": "2026-09-19T05:00:20+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3 Fast",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96"
  }
 ]

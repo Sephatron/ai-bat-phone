@@ -1552,6 +1552,12 @@
    "status": "resolved",
    "updated_at": "2026-10-09T23:09:17.472000+00:00"
   },
+  "cursor:h76w09vs1vqq": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-15T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-15T22:25:11.823000+00:00"
+  },
   "cursor:hmd3mww247rn": {
    "impact": "minor",
    "last_seen_at": "2026-09-25T00:00:00+00:00",
@@ -4793,7 +4799,7 @@
    "updated_at": "2026-10-14T20:00:36+00:00"
   },
   "openai:01M506BA4XRSWH7THR53HQGN3Z": {
-   "impact": "none",
+   "impact": "major",
    "last_seen_at": "2026-10-15T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-15T18:56:00+00:00"
