@@ -1,5 +1,23 @@
 [
  {
+  "body": "We suspected that CCA Automations were experiencing delays when users start an Automation, but further investigation found that there was no delay or impact to CCA Automations.",
+  "components": [],
+  "duration": "28 min",
+  "headline": "🟢 GitHub sorted itself out after 28 min",
+  "id": "github:vlxrztp88101:resolved:resolved:minor:2026-10-15T19:00:06.028000+00:00",
+  "impact": "minor",
+  "incident_id": "vlxrztp88101",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-15T19:01:02.483272+00:00",
+  "started_at": "2026-10-15T18:31:49.832000+00:00",
+  "status": "resolved",
+  "title": "CCA Automations are delayed when starting an Automation",
+  "transition": "resolved",
+  "url": "https://stspg.io/vk8t78vtswmg"
+ },
+ {
   "body": "CCA Automations are experiencing delays when users start an Automation",
   "components": [],
   "duration": "",
@@ -7689,23 +7707,5 @@
   "title": "Service Degradation for GLM 5.3 Fast",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M2W0JTY0Z7KNA1TQKKV6EH96"
- },
- {
-  "body": "We have applied the mitigation, and any new sessions would not run into this issue. We are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M2VA7X37P1ASADSNZ1CG4N4D:progress:monitoring:none:2026-09-19T05:00:57+00:00",
-  "impact": "none",
-  "incident_id": "01M2VA7X37P1ASADSNZ1CG4N4D",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-19T05:15:17.864647+00:00",
-  "started_at": "2026-09-18T22:29:53+00:00",
-  "status": "monitoring",
-  "title": "Overbilling for OpenAI-hosted containers in the Agent API",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
  }
 ]

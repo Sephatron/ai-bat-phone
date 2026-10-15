@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 15 Oct 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub sorted itself out after 28 min]]></title>
+<link>https://stspg.io/vk8t78vtswmg</link>
+<guid isPermaLink='false'>github:vlxrztp88101:resolved:resolved:minor:2026-10-15T19:00:06.028000+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 19:01:02 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>CCA Automations are delayed when starting an Automation</strong></p><p>Impact: minor · Status: resolved · Duration: 28 min · Opened: Thu, 15 Oct 2026 18:31:49 +0000</p><p>We suspected that CCA Automations were experiencing delays when users start an Automation, but further investigation found that there was no delay or impact to CCA Automations.</p><p><a href="https://stspg.io/vk8t78vtswmg">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 GitHub is having a wobble]]></title>
 <link>https://stspg.io/vk8t78vtswmg</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 03:30:32 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.</strong></p><p>Impact: minor · Status: resolved · Duration: 36 min · Opened: Tue, 06 Oct 2026 02:41:12 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ</link>
-<guid isPermaLink='false'>openai:01M47HC9SGHGFPBN44KGC6SKAQ:opened:monitoring:minor:2026-10-06T02:44:03+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 02:45:38 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 02:41:12 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
