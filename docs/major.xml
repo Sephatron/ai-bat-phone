@@ -6,7 +6,7 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 15 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
@@ -1032,14 +1032,6 @@
 <pubDate>Sat, 19 Sep 2026 00:45:22 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Some ElevenAgents calls failed to start (resolved)</strong></p><p>Impact: major · Status: monitoring · Opened: Sat, 19 Sep 2026 00:34:11 +0000</p><p>The calls are working now.</p><p><a href="https://status.elevenlabs.io/incidents/01M2VHBGDK805SSRGAEZ6Q6TF0">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Cursor after 5h 43m]]></title>
-<link>https://stspg.io/k5db4cd96jlz</link>
-<guid isPermaLink='false'>cursor:14xbn0wxbpdb:resolved:resolved:major:2026-09-18T23:02:23.136000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 23:15:14 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 5h 43m · Opened: Fri, 18 Sep 2026 17:19:03 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/k5db4cd96jlz">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

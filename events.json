@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:opened:investigating:minor:2026-10-15T08:48:20+00:00",
+  "impact": "minor",
+  "incident_id": "01M4ZBZ09ARYY7745HM7YCZHW7",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-15T09:01:14.396593+00:00",
+  "started_at": "2026-10-15T08:48:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7"
+ },
+ {
   "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7689,25 +7707,5 @@
   "title": "SSO sign-in and SCIM provisioning issues",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "5h 43m",
-  "headline": "🟢 All clear from Cursor after 5h 43m",
-  "id": "cursor:14xbn0wxbpdb:resolved:resolved:major:2026-09-18T23:02:23.136000+00:00",
-  "impact": "major",
-  "incident_id": "14xbn0wxbpdb",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-18T23:15:14.190020+00:00",
-  "started_at": "2026-09-18T17:19:03.587000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/k5db4cd96jlz"
  }
 ]

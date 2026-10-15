@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 15 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7</link>
+<guid isPermaLink='false'>fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:opened:investigating:minor:2026-10-15T08:48:20+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 09:01:14 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 15 Oct 2026 08:48:20 +0000</p><p>We are seeing impacted performance for Kimi K3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M4Z9QK2TA2WWB04KWSXHQDEG</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 05 Oct 2026 23:00:41 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: critical · Status: resolved · Affects: Actions, Pages · Duration: 3h 37m · Opened: Mon, 05 Oct 2026 19:11:58 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/c11dc9nb1zdq">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 Upgrade your concern: GitHub is now critical]]></title>
-<link>https://stspg.io/c11dc9nb1zdq</link>
-<guid isPermaLink='false'>github:3q1yb5m7ltvb:escalated:investigating:critical:2026-10-05T21:22:39.019000+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 21:25:43 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: critical · Status: investigating · Affects: Actions, Pages · Opened: Mon, 05 Oct 2026 19:11:58 +0000</p><p>Pages is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/c11dc9nb1zdq">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
