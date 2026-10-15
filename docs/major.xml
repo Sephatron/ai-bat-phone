@@ -1033,13 +1033,5 @@
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: resolved · Affects: Builds · Duration: 49 min · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[👀 Vercel is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/6c79t86c2xrr</link>
-<guid isPermaLink='false'>vercel:bwkmw4hmrgmk:progress:monitoring:major:2026-09-18T21:13:28.355000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 21:15:14 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: monitoring · Affects: Builds · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
