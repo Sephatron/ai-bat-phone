@@ -8,9 +8,7 @@
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-15T08:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cerebras": {
    "consecutive_failures": 0
@@ -2799,8 +2797,14 @@
   "fireworks:01M4Z4XSABKWG52NRT1VW5ZX4A": {
    "impact": "minor",
    "last_seen_at": "2026-10-15T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-15T08:05:29+00:00"
+  },
+  "fireworks:01M4Z9QK2TA2WWB04KWSXHQDEG": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-15T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-15T06:45:20+00:00"
+   "updated_at": "2026-10-15T08:09:20+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
