@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M4Z4XSABKWG52NRT1VW5ZX4A:opened:investigating:minor:2026-10-15T06:45:20+00:00",
+  "impact": "minor",
+  "incident_id": "01M4Z4XSABKWG52NRT1VW5ZX4A",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-15T06:46:01.506265+00:00",
+  "started_at": "2026-10-15T06:45:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M4Z4XSABKWG52NRT1VW5ZX4A"
+ },
+ {
   "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)",
   "components": [
    "对话服务(Chatservice)",
@@ -7691,25 +7709,5 @@
   "title": "SSO sign-in and SCIM provisioning issues",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2VBZB1RYSMXHZNRA25ZJ36X"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Builds"
-  ],
-  "duration": "55 min",
-  "headline": "🟢 Vercel is fine again",
-  "id": "vercel:5c1lswm68bkg:resolved:resolved:minor:2026-09-18T22:31:22.780000+00:00",
-  "impact": "minor",
-  "incident_id": "5c1lswm68bkg",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-18T22:45:14.261692+00:00",
-  "started_at": "2026-09-18T21:36:09.869000+00:00",
-  "status": "resolved",
-  "title": "Deployment stuck in initializing state",
-  "transition": "resolved",
-  "url": "https://stspg.io/fx0fjwcpvdqr"
  }
 ]
