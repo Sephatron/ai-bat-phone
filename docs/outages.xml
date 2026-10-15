@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 DeepSeek is readable again, so silence here means quiet once more]]></title>
+<link>https://status.deepseek.com</link>
+<guid isPermaLink='false'>meta:deepseek:recovered:2026-10-15T01:00:00+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 02:16:00 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read DeepSeek's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 DeepSeek is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.deepseek.com</link>
 <guid isPermaLink='false'>meta:deepseek:unreachable:2026-10-15T01:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 05 Oct 2026 19:00:38 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 05 Oct 2026 18:51:40 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M46PGHWSZ51Y87R23495R122">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W</link>
-<guid isPermaLink='false'>openai:01M46KED6KQ6PR195KZYYVNY8W:progress:monitoring:none:2026-10-05T18:07:03+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 18:15:31 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates in Codex Cloud</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Mon, 05 Oct 2026 17:58:04 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
