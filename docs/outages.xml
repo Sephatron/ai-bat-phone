@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 15 Oct 2026 01:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 02:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📵 DeepSeek is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.deepseek.com</link>
+<guid isPermaLink='false'>meta:deepseek:unreachable:2026-10-15T01:00:00+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 02:01:05 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read DeepSeek's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.deepseek.com/history.rss returned HTTP 502</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M4YAMVS2260M80QZMQHBPZPY</link>
+<guid isPermaLink='false'>fireworks:01M4YAMVS2260M80QZMQHBPZPY:resolved:resolved:minor:2026-10-15T01:53:05+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 02:01:05 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>CSP outage affecting multiple serverless models</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 47m · Opened: Wed, 14 Oct 2026 23:06:04 +0000</p><p>Service has been restored for all affected serverless models. This incident is resolved.</p><p><a href="https://status.fireworks.ai/incidents/01M4YAMVS2260M80QZMQHBPZPY">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 DeepSeek has found the culprit]]></title>
 <link>https://status.deepseek.com/incidents/7116348214287</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Mon, 05 Oct 2026 18:15:31 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates in Codex Cloud</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Mon, 05 Oct 2026 17:58:04 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W</link>
-<guid isPermaLink='false'>openai:01M46KED6KQ6PR195KZYYVNY8W:opened:identified:none:2026-10-05T17:58:04+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 18:00:35 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates in Codex Cloud</strong></p><p>Impact: unclassified · Status: identified · Opened: Mon, 05 Oct 2026 17:58:04 +0000</p><p>We have identified that users are experiencing elevated errors within Codex Cloud. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X</link>
-<guid isPermaLink='false'>openai:01M46G248GGHV9RSAJE82BZY1X:progress:monitoring:minor:2026-10-05T17:55:04+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 18:00:35 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors in ChatGPT conversations</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 05 Oct 2026 16:58:56 +0000</p><p>We have mitigated the issue affecting ChatGPT conversations and are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
