@@ -1025,13 +1025,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 5h 43m · Opened: Fri, 18 Sep 2026 17:19:03 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/k5db4cd96jlz">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 Vercel is upright again. That took 49 min.]]></title>
-<link>https://stspg.io/6c79t86c2xrr</link>
-<guid isPermaLink='false'>vercel:bwkmw4hmrgmk:resolved:resolved:major:2026-09-18T21:22:27.111000+00:00</guid>
-<pubDate>Fri, 18 Sep 2026 21:30:32 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated Errors Triggering Deployments</strong></p><p>Impact: major · Status: resolved · Affects: Builds · Duration: 49 min · Opened: Fri, 18 Sep 2026 20:32:36 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/6c79t86c2xrr">Vercel status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

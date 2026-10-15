@@ -66,7 +66,9 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-15T01:00:00+00:00",
+   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
   }
  },
  "seen": {
@@ -2089,7 +2091,7 @@
   "deepseek:urn:flashduty:change:7116348214287": {
    "impact": "minor",
    "last_seen_at": "2026-10-15T00:00:00+00:00",
-   "status": "investigating",
+   "status": "identified",
    "updated_at": "2026-10-15T00:11:35+00:00"
   },
   "elevenlabs:01KRNEHFTPMY0HWNAYGWZAM5X3": {

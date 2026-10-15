@@ -1,5 +1,27 @@
 [
  {
+  "body": "Status: identified 已定位原因，正在实施修复。 The cause has been identified and a fix is being implemented. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)",
+  "components": [
+   "对话服务(Chatservice)",
+   "DeepSeek V4.1 Flash API服务(API Service)",
+   "DeepSeek V4 Pro API服务(API Service)"
+  ],
+  "duration": "",
+  "headline": "🔍 DeepSeek has found the culprit",
+  "id": "deepseek:urn:flashduty:change:7116348214287:progress:identified:minor:2026-10-15T01:16:01.031360+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7116348214287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-10-15T01:16:01.031360+00:00",
+  "started_at": "2026-10-15T00:11:35+00:00",
+  "status": "identified",
+  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
+  "transition": "progress",
+  "url": "https://status.deepseek.com/incidents/7116348214287"
+ },
+ {
   "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)",
   "components": [
    "DeepSeek V4.1 Flash API服务(API Service)",
@@ -7685,25 +7707,5 @@
   "title": "Delayed support responses",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Builds"
-  ],
-  "duration": "49 min",
-  "headline": "🟢 Vercel is upright again. That took 49 min.",
-  "id": "vercel:bwkmw4hmrgmk:resolved:resolved:major:2026-09-18T21:22:27.111000+00:00",
-  "impact": "major",
-  "incident_id": "bwkmw4hmrgmk",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-18T21:30:32.552616+00:00",
-  "started_at": "2026-09-18T20:32:36.888000+00:00",
-  "status": "resolved",
-  "title": "Elevated Errors Triggering Deployments",
-  "transition": "resolved",
-  "url": "https://stspg.io/6c79t86c2xrr"
  }
 ]
