@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have deployed a fix and are monitoring recovery. Costs data in the Compliance API remains delayed while we process the backlog. We will provide further updates as processing catches up.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M4XNQX7C6RCBNGX9H711WFSG:progress:monitoring:minor:2026-10-15T22:36:42+00:00",
+  "impact": "minor",
+  "incident_id": "01M4XNQX7C6RCBNGX9H711WFSG",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-15T22:45:58.190257+00:00",
+  "started_at": "2026-10-14T17:00:44+00:00",
+  "status": "monitoring",
+  "title": "Delayed Costs data in the Compliance API",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
+ },
+ {
   "body": "We are investigating elevated errors affecting Grok models in Cursor. Some requests may fail with a capacity error. Retrying the request or switching to another model may help.",
   "components": [
    "CLI",
@@ -7693,23 +7711,5 @@
   "title": "搜索请求出现大量报错",
   "transition": "opened",
   "url": "https://stspg.io/tkxhwsx13k4w"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "9h 22m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M2VA7X37P1ASADSNZ1CG4N4D:resolved:resolved:none:2026-09-19T07:52:40+00:00",
-  "impact": "none",
-  "incident_id": "01M2VA7X37P1ASADSNZ1CG4N4D",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-19T08:00:23.038335+00:00",
-  "started_at": "2026-09-18T22:29:53+00:00",
-  "status": "resolved",
-  "title": "Overbilling for OpenAI-hosted containers in the Agent API",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
  }
 ]
