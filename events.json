@@ -1,5 +1,27 @@
 [
  {
+  "body": "Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)",
+  "components": [
+   "对话服务(Chatservice)",
+   "DeepSeek V4.1 Flash API服务(API Service)",
+   "DeepSeek V4 Pro API服务(API Service)"
+  ],
+  "duration": "",
+  "headline": "👀 DeepSeek thinks it's fixed and is watching nervously",
+  "id": "deepseek:urn:flashduty:change:7116348214287:progress:monitoring:minor:2026-10-15T05:01:06.403599+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7116348214287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-10-15T05:01:06.403599+00:00",
+  "started_at": "2026-10-15T00:11:35+00:00",
+  "status": "monitoring",
+  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
+  "transition": "progress",
+  "url": "https://status.deepseek.com/incidents/7116348214287"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",
@@ -7685,25 +7707,5 @@
   "title": "Overbilling for OpenAI-hosted containers in the Agent API",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
- },
- {
-  "body": "We have identified an issue causing deployments to get stuck in an initialized state, applied a fix, and are seeing signs of recovery for new deployments. We are continuing to monitor.",
-  "components": [
-   "Builds"
-  ],
-  "duration": "",
-  "headline": "👀 Vercel has applied a fix and is holding its breath",
-  "id": "vercel:5c1lswm68bkg:progress:monitoring:minor:2026-09-18T22:14:37.857000+00:00",
-  "impact": "minor",
-  "incident_id": "5c1lswm68bkg",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-18T22:15:36.356186+00:00",
-  "started_at": "2026-09-18T21:36:09.869000+00:00",
-  "status": "monitoring",
-  "title": "Deployment stuck in initializing state",
-  "transition": "progress",
-  "url": "https://stspg.io/fx0fjwcpvdqr"
  }
 ]

@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-15T04:00:00+00:00",
+ "heartbeat": "2026-10-15T05:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -2089,7 +2089,7 @@
   "deepseek:urn:flashduty:change:7116348214287": {
    "impact": "minor",
    "last_seen_at": "2026-10-15T00:00:00+00:00",
-   "status": "identified",
+   "status": "monitoring",
    "updated_at": "2026-10-15T00:11:35+00:00"
   },
   "elevenlabs:01KRNEHFTPMY0HWNAYGWZAM5X3": {
