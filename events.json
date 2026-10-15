@@ -1,5 +1,27 @@
 [
  {
+  "body": "A fix has been implemented and we are monitoring for service restoration.",
+  "components": [
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor is on the mend. Don't get comfortable yet.",
+  "id": "cursor:h76w09vs1vqq:progress:monitoring:minor:2026-10-15T22:58:01.363000+00:00",
+  "impact": "minor",
+  "incident_id": "h76w09vs1vqq",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-15T23:01:07.652457+00:00",
+  "started_at": "2026-10-15T22:25:11.662000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors affecting Grok models",
+  "transition": "progress",
+  "url": "https://stspg.io/nbsrtgp6pr7p"
+ },
+ {
   "body": "We have deployed a fix and are monitoring recovery. Costs data in the Compliance API remains delayed while we process the backlog. We will provide further updates as processing catches up.",
   "components": [],
   "duration": "",
@@ -7690,26 +7712,6 @@
   "status": "resolved",
   "title": "搜索请求出现大量报错",
   "transition": "resolved",
-  "url": "https://stspg.io/tkxhwsx13k4w"
- },
- {
-  "body": "搜索请求报错率超过20%，持续超过1分钟",
-  "components": [
-   "Search"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.",
-  "id": "moonshot:h4rhhrm6nwbp:opened:investigating:critical:2026-09-19T10:36:12.149000+00:00",
-  "impact": "critical",
-  "incident_id": "h4rhhrm6nwbp",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-09-19T10:45:30.298713+00:00",
-  "started_at": "2026-09-19T10:36:12.045000+00:00",
-  "status": "investigating",
-  "title": "搜索请求出现大量报错",
-  "transition": "opened",
   "url": "https://stspg.io/tkxhwsx13k4w"
  }
 ]
