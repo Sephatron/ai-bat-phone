@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Replit]]></title>
+<link>https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e</link>
+<guid isPermaLink='false'>replit:442878ac-c661-46ed-a604-1ded8508240e:opened:investigating:minor:2026-10-15T23:30:58.560644+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 23:30:58 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Billing issue</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 15 Oct 2026 23:20:51 +0000</p><p>[Investigating] We are investigating a billing issue that affects database usage</p><p><a href="https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/nbsrtgp6pr7p</link>
 <guid isPermaLink='false'>cursor:h76w09vs1vqq:progress:monitoring:minor:2026-10-15T22:58:01.363000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 09:45:37 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Elevated Sandbox error rates in Paris (cdg1)</strong></p><p>Impact: minor · Status: resolved · Affects: Sandbox · Duration: 24 min · Opened: Tue, 06 Oct 2026 09:12:06 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/sgzd0v141vpk">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
-<link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
-<guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:opened:investigating:minor:2026-10-06T09:09:18+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 09:15:38 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>increase in latency</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 09:09:18 +0000</p><p>We are investigating elevated latency affecting a small percentage of text-to-speech (TTS) requests. We will share an update as soon as we have more information.</p><p><a href="https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

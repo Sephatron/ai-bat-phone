@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] We are investigating a billing issue that affects database usage",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Replit",
+  "id": "replit:442878ac-c661-46ed-a604-1ded8508240e:opened:investigating:minor:2026-10-15T23:30:58.560644+00:00",
+  "impact": "minor",
+  "incident_id": "442878ac-c661-46ed-a604-1ded8508240e",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-15T23:30:58.560644+00:00",
+  "started_at": "2026-10-15T23:20:51+00:00",
+  "status": "investigating",
+  "title": "Billing issue",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring for service restoration.",
   "components": [
    "CLI",
@@ -7693,25 +7711,5 @@
   "title": "Service Degradation for Kimi K3 Fast",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Search"
-  ],
-  "duration": "15 min",
-  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
-  "id": "moonshot:h4rhhrm6nwbp:resolved:resolved:critical:2026-09-19T10:51:12.486000+00:00",
-  "impact": "critical",
-  "incident_id": "h4rhhrm6nwbp",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-09-19T11:00:45.026751+00:00",
-  "started_at": "2026-09-19T10:36:12.045000+00:00",
-  "status": "resolved",
-  "title": "搜索请求出现大量报错",
-  "transition": "resolved",
-  "url": "https://stspg.io/tkxhwsx13k4w"
  }
 ]
