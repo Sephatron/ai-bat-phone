@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 DeepSeek has stopped wobbling]]></title>
+<link>https://status.deepseek.com/incidents/7116348214287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7116348214287:resolved:resolved:minor:2026-10-15T05:16:02.592974+00:00</guid>
+<pubDate>Thu, 15 Oct 2026 05:16:02 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）</strong></p><p>Impact: minor · Status: resolved · Affects: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service) · Opened: Thu, 15 Oct 2026 00:11:35 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7116348214287">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 DeepSeek thinks it's fixed and is watching nervously]]></title>
 <link>https://status.deepseek.com/incidents/7116348214287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7116348214287:progress:monitoring:minor:2026-10-15T05:01:06.403599+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 05 Oct 2026 19:46:11 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Mon, 05 Oct 2026 19:11:58 +0000</p><p>We’re investigating an issue causing delays when assigning GitHub-hosted runners to Actions jobs. Some workflows may take longer to start across runner configurations. Our teams are working to mitigate the issue, and we’ll provide an update as we learn more.</p><p><a href="https://stspg.io/c11dc9nb1zdq">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 23 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M46PGHWSZ51Y87R23495R122</link>
-<guid isPermaLink='false'>fireworks:01M46PGHWSZ51Y87R23495R122:resolved:resolved:minor:2026-10-05T19:15:31+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 19:46:11 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 23 min · Opened: Mon, 05 Oct 2026 18:51:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M46PGHWSZ51Y87R23495R122">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
