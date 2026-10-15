@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating an issue affecting logins and signups in the ChatGPT iOS app. We will provide updates as we learn more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is having a wobble",
+  "id": "openai:01M506BA4XRSWH7THR53HQGN3Z:opened:investigating:none:2026-10-15T16:29:26+00:00",
+  "impact": "none",
+  "incident_id": "01M506BA4XRSWH7THR53HQGN3Z",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-15T16:31:11.267891+00:00",
+  "started_at": "2026-10-15T16:29:26+00:00",
+  "status": "investigating",
+  "title": "Issues logging in and signing up for ChatGPT on iOS",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "1h 16m",
@@ -7689,23 +7707,5 @@
   "title": "Delayed support responses",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M2V76GEPJB0HQGRA0QERRZ3T"
- },
- {
-  "body": "We are still implementing the mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has found the culprit",
-  "id": "openai:01M2VA7X37P1ASADSNZ1CG4N4D:progress:identified:none:2026-09-19T01:08:42+00:00",
-  "impact": "none",
-  "incident_id": "01M2VA7X37P1ASADSNZ1CG4N4D",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-19T01:15:16.513783+00:00",
-  "started_at": "2026-09-18T22:29:53+00:00",
-  "status": "identified",
-  "title": "Overbilling for OpenAI-hosted containers in the Agent API",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
  }
 ]

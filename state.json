@@ -2,9 +2,7 @@
  "heartbeat": "2026-10-15T16:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-15T16:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "anthropic": {
    "consecutive_failures": 0
@@ -4787,6 +4785,12 @@
    "last_seen_at": "2026-10-15T00:00:00+00:00",
    "status": "identified",
    "updated_at": "2026-10-14T20:00:36+00:00"
+  },
+  "openai:01M506BA4XRSWH7THR53HQGN3Z": {
+   "impact": "none",
+   "last_seen_at": "2026-10-15T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-15T16:29:26+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
