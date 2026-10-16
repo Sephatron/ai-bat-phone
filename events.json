@@ -1,5 +1,27 @@
 [
  {
+  "body": "This incident has been resolved. Grok models in Cursor are working normally again.",
+  "components": [
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "6h 55m",
+  "headline": "🟢 Cursor is fine again",
+  "id": "cursor:h76w09vs1vqq:resolved:resolved:minor:2026-10-16T05:20:54.462000+00:00",
+  "impact": "minor",
+  "incident_id": "h76w09vs1vqq",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-16T05:31:00.775132+00:00",
+  "started_at": "2026-10-15T22:25:11.662000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors affecting Grok models",
+  "transition": "resolved",
+  "url": "https://stspg.io/nbsrtgp6pr7p"
+ },
+ {
   "body": "[Resolved] The issue has been fixed.",
   "components": [],
   "duration": "",
@@ -7693,23 +7715,5 @@
   "title": "Degraded performance enabling Lovable Cloud",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "5 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 5 min",
-  "id": "fireworks:01M2X9P4QGG4V22SVWTEACW1D0:resolved:resolved:minor:2026-09-19T17:04:04+00:00",
-  "impact": "minor",
-  "incident_id": "01M2X9P4QGG4V22SVWTEACW1D0",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-19T17:15:12.440066+00:00",
-  "started_at": "2026-09-19T16:58:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3 Fast",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0"
  }
 ]
