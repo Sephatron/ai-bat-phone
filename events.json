@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] The issue has been fixed.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit sorted itself out after a while",
+  "id": "replit:442878ac-c661-46ed-a604-1ded8508240e:resolved:resolved:minor:2026-10-16T03:45:59.155402+00:00",
+  "impact": "minor",
+  "incident_id": "442878ac-c661-46ed-a604-1ded8508240e",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-16T03:45:59.155402+00:00",
+  "started_at": "2026-10-16T03:35:58+00:00",
+  "status": "resolved",
+  "title": "Billing issue",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e"
+ },
+ {
   "body": "[Investigating] We are investigating a billing issue that affects database usage",
   "components": [],
   "duration": "",
@@ -7692,24 +7710,6 @@
   "status": "resolved",
   "title": "Service Degradation for Kimi K3 Fast",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M2X9P4QGG4V22SVWTEACW1D0:opened:investigating:minor:2026-09-19T16:58:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M2X9P4QGG4V22SVWTEACW1D0",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-19T17:00:24.543735+00:00",
-  "started_at": "2026-09-19T16:58:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3 Fast",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M2X9P4QGG4V22SVWTEACW1D0"
  }
 ]

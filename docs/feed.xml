@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
+<link>https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e</link>
+<guid isPermaLink='false'>replit:442878ac-c661-46ed-a604-1ded8508240e:resolved:resolved:minor:2026-10-16T03:45:59.155402+00:00</guid>
+<pubDate>Fri, 16 Oct 2026 03:45:59 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Billing issue</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 16 Oct 2026 03:35:58 +0000</p><p>[Resolved] The issue has been fixed.</p><p><a href="https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Replit]]></title>
 <link>https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e</link>
 <guid isPermaLink='false'>replit:442878ac-c661-46ed-a604-1ded8508240e:opened:investigating:minor:2026-10-15T23:30:58.560644+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 10:30:37 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>We're currently investigating disruptions in SIP calls in our EU residency.</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel has stopped wobbling]]></title>
-<link>https://stspg.io/sgzd0v141vpk</link>
-<guid isPermaLink='false'>vercel:xr8lx0kncx0g:resolved:resolved:minor:2026-10-06T09:36:55.249000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 09:45:37 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Elevated Sandbox error rates in Paris (cdg1)</strong></p><p>Impact: minor · Status: resolved · Affects: Sandbox · Duration: 24 min · Opened: Tue, 06 Oct 2026 09:12:06 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/sgzd0v141vpk">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
