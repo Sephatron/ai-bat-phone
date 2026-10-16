@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1d 17h",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M4XNQX7C6RCBNGX9H711WFSG:resolved:resolved:minor:2026-10-16T10:44:58+00:00",
+  "impact": "minor",
+  "incident_id": "01M4XNQX7C6RCBNGX9H711WFSG",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-16T10:45:59.510174+00:00",
+  "started_at": "2026-10-14T17:00:44+00:00",
+  "status": "resolved",
+  "title": "Delayed Costs data in the Compliance API",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
+ },
+ {
   "body": "This incident has been resolved. Grok models in Cursor are working normally again.",
   "components": [
    "CLI",
@@ -7696,24 +7714,6 @@
   "status": "resolved",
   "title": "Degraded performance enabling Lovable Cloud",
   "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M"
- },
- {
-  "body": "We're seeing signs of recovery and will continue to monitor. Success rates for enabling Lovable Cloud are returning to normal levels.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Lovable thinks it's fixed and is watching nervously",
-  "id": "lovable:01M2XKAPSA07Z05BYHS0J8MN1M:opened:monitoring:minor:2026-09-19T19:54:59+00:00",
-  "impact": "minor",
-  "incident_id": "01M2XKAPSA07Z05BYHS0J8MN1M",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-19T20:00:19.112207+00:00",
-  "started_at": "2026-09-19T19:47:11+00:00",
-  "status": "monitoring",
-  "title": "Degraded performance enabling Lovable Cloud",
-  "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M2XKAPSA07Z05BYHS0J8MN1M"
  }
 ]

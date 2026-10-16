@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG</link>
+<guid isPermaLink='false'>openai:01M4XNQX7C6RCBNGX9H711WFSG:resolved:resolved:minor:2026-10-16T10:44:58+00:00</guid>
+<pubDate>Fri, 16 Oct 2026 10:45:59 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 17h · Opened: Wed, 14 Oct 2026 17:00:44 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is fine again]]></title>
 <link>https://stspg.io/nbsrtgp6pr7p</link>
 <guid isPermaLink='false'>cursor:h76w09vs1vqq:resolved:resolved:minor:2026-10-16T05:20:54.462000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 11:45:33 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>increase in latency</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 09:09:18 +0000</p><p>A fix has been implemented for the elevated latency affecting some TTS requests. We are currently monitoring the results to confirm the issue is resolved.</p><p><a href="https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 It got worse: ElevenLabs is now a major outage]]></title>
-<link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
-<guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:escalated:investigating:major:2026-10-06T10:28:05+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 11:15:40 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>We're currently investigating disruptions in SIP calls in our EU residency.</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
