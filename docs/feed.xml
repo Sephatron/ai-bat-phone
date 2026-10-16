@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-10-16</guid>
+<pubDate>Fri, 16 Oct 2026 14:31:05 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG</link>
 <guid isPermaLink='false'>openai:01M4XNQX7C6RCBNGX9H711WFSG:resolved:resolved:minor:2026-10-16T10:44:58+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 12:15:32 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>increase in latency</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 05m · Opened: Tue, 06 Oct 2026 09:09:18 +0000</p><p>The issue has been resolved, latency is back to normal.</p><p><a href="https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ</link>
-<guid isPermaLink='false'>elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:progress:monitoring:minor:2026-10-06T11:38:21+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 11:45:33 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>increase in latency</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 09:09:18 +0000</p><p>A fix has been implemented for the elevated latency affecting some TTS requests. We are currently monitoring the results to confirm the issue is resolved.</p><p><a href="https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
