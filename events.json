@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "32 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M54F9EG8M9562BWBV44KQQ4D:resolved:resolved:minor:2026-10-17T08:55:08+00:00",
+  "impact": "minor",
+  "incident_id": "01M54F9EG8M9562BWBV44KQQ4D",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-17T09:00:13.259922+00:00",
+  "started_at": "2026-10-17T08:22:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M54F9EG8M9562BWBV44KQQ4D"
+ },
+ {
   "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7688,26 +7706,6 @@
   "status": "resolved",
   "title": "Incident with Pull Requests",
   "transition": "resolved",
-  "url": "https://stspg.io/cx8xcm6k8f9s"
- },
- {
-  "body": "The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.",
-  "components": [
-   "Pull Requests"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
-  "id": "github:f6yrxnz5f7bs:progress:monitoring:minor:2026-09-20T22:27:28.785000+00:00",
-  "impact": "minor",
-  "incident_id": "f6yrxnz5f7bs",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-20T22:30:15.200868+00:00",
-  "started_at": "2026-09-20T22:13:37.880000+00:00",
-  "status": "monitoring",
-  "title": "Incident with Pull Requests",
-  "transition": "progress",
   "url": "https://stspg.io/cx8xcm6k8f9s"
  }
 ]
