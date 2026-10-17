@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M54F9EG8M9562BWBV44KQQ4D:opened:investigating:minor:2026-10-17T08:22:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M54F9EG8M9562BWBV44KQQ4D",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-17T08:30:14.414932+00:00",
+  "started_at": "2026-10-17T08:22:40+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M54F9EG8M9562BWBV44KQQ4D"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "14 min",
@@ -7690,26 +7708,6 @@
   "status": "monitoring",
   "title": "Incident with Pull Requests",
   "transition": "progress",
-  "url": "https://stspg.io/cx8xcm6k8f9s"
- },
- {
-  "body": "We are investigating reports of degraded performance for Pull Requests",
-  "components": [
-   "Pull Requests"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from GitHub",
-  "id": "github:f6yrxnz5f7bs:opened:investigating:minor:2026-09-20T22:13:37.972000+00:00",
-  "impact": "minor",
-  "incident_id": "f6yrxnz5f7bs",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-20T22:15:46.836673+00:00",
-  "started_at": "2026-09-20T22:13:37.880000+00:00",
-  "status": "investigating",
-  "title": "Incident with Pull Requests",
-  "transition": "opened",
   "url": "https://stspg.io/cx8xcm6k8f9s"
  }
 ]
