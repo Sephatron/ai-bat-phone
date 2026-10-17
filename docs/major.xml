@@ -993,13 +993,5 @@
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 Baseten lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/h2pvtp3x3np1</link>
-<guid isPermaLink='false'>baseten:53lh9mv05wmt:resolved:resolved:major:2026-09-20T08:13:44.255000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 08:15:17 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Kimi K3 Model API outage</strong></p><p>Impact: major · Status: resolved · Affects: Model APIs · Duration: 54 min · Opened: Sun, 20 Sep 2026 07:19:01 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/h2pvtp3x3np1">Baseten status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "14 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 14 min",
+  "id": "fireworks:01M54BVJXV2EMSGH9XP2J44DQF:resolved:resolved:minor:2026-10-17T07:37:13+00:00",
+  "impact": "minor",
+  "incident_id": "01M54BVJXV2EMSGH9XP2J44DQF",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-17T07:45:14.511489+00:00",
+  "started_at": "2026-10-17T07:22:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF"
+ },
+ {
   "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7693,25 +7711,5 @@
   "title": "Incident with Pull Requests",
   "transition": "opened",
   "url": "https://stspg.io/cx8xcm6k8f9s"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "54 min",
-  "headline": "🟢 Baseten lives. Pick your tools back up.",
-  "id": "baseten:53lh9mv05wmt:resolved:resolved:major:2026-09-20T08:13:44.255000+00:00",
-  "impact": "major",
-  "incident_id": "53lh9mv05wmt",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-20T08:15:17.064678+00:00",
-  "started_at": "2026-09-20T07:19:01.245000+00:00",
-  "status": "resolved",
-  "title": "Kimi K3 Model API outage",
-  "transition": "resolved",
-  "url": "https://stspg.io/h2pvtp3x3np1"
  }
 ]
