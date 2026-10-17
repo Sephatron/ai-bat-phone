@@ -1001,13 +1001,5 @@
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Kimi K3 Model API outage</strong></p><p>Impact: major · Status: resolved · Affects: Model APIs · Duration: 54 min · Opened: Sun, 20 Sep 2026 07:19:01 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/h2pvtp3x3np1">Baseten status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔍 Baseten knows what it did]]></title>
-<link>https://stspg.io/h2pvtp3x3np1</link>
-<guid isPermaLink='false'>baseten:53lh9mv05wmt:opened:identified:major:2026-09-20T07:19:01.348000+00:00</guid>
-<pubDate>Sun, 20 Sep 2026 07:30:29 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Kimi K3 Model API outage</strong></p><p>Impact: major · Status: identified · Affects: Model APIs · Opened: Sun, 20 Sep 2026 07:19:01 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/h2pvtp3x3np1">Baseten status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
