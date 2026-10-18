@@ -2833,8 +2833,8 @@
   "fireworks:01M56G5VSCQ5YHGSQAJP1GRCA8": {
    "impact": "minor",
    "last_seen_at": "2026-10-18T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-18T03:16:40+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-18T03:33:03+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",

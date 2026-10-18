@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8</link>
+<guid isPermaLink='false'>fireworks:01M56G5VSCQ5YHGSQAJP1GRCA8:resolved:resolved:minor:2026-10-18T03:33:03+00:00</guid>
+<pubDate>Sun, 18 Oct 2026 03:45:14 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 16 min · Opened: Sun, 18 Oct 2026 03:16:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8</link>
 <guid isPermaLink='false'>fireworks:01M56G5VSCQ5YHGSQAJP1GRCA8:opened:investigating:minor:2026-10-18T03:16:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 13:01:13 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: major · Status: resolved · Duration: 2h 23m · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>The issue has been resolved. EU SIP services are operational and stable.</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
-<link>https://stspg.io/qkz3yd9rsm13</link>
-<guid isPermaLink='false'>cursor:w865g74p3k6g:opened:investigating:minor:2026-10-06T12:40:52.116000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 12:45:39 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors affecting Anthropic models</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Tue, 06 Oct 2026 12:40:51 +0000</p><p>We are investigating a service degradation affecting Opus 5.5. More information: https://status.claude.com/incidents/ch27pb90bn85</p><p><a href="https://stspg.io/qkz3yd9rsm13">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
