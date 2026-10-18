@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M56WY68RB5PA9NA4DQ2JSHTZ:opened:investigating:minor:2026-10-18T06:59:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M56WY68RB5PA9NA4DQ2JSHTZ",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-18T07:00:14.047309+00:00",
+  "started_at": "2026-10-18T06:59:40+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M56WY68RB5PA9NA4DQ2JSHTZ"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "16 min",
@@ -7677,28 +7695,5 @@
   "title": "Some users are seeing web search fail when the agent uses it",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "21 min",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:9lzqc8vy6jjj:resolved:resolved:minor:2026-09-21T07:00:48.290000+00:00",
-  "impact": "minor",
-  "incident_id": "9lzqc8vy6jjj",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-21T07:04:52.091393+00:00",
-  "started_at": "2026-09-21T06:39:00+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation",
-  "transition": "resolved",
-  "url": "https://stspg.io/lfp649kkrqs0"
  }
 ]

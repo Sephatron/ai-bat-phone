@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 18 Oct 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
+<link>https://status.fireworks.ai/incidents/01M56WY68RB5PA9NA4DQ2JSHTZ</link>
+<guid isPermaLink='false'>fireworks:01M56WY68RB5PA9NA4DQ2JSHTZ:opened:investigating:minor:2026-10-18T06:59:40+00:00</guid>
+<pubDate>Sun, 18 Oct 2026 07:00:14 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 18 Oct 2026 06:59:40 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M56WY68RB5PA9NA4DQ2JSHTZ">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 14:00:34 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates in ChatGPT Go conversations</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 13:35:25 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
-<link>https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0</link>
-<guid isPermaLink='false'>openai:01M48PT6B8SDTW023NC9XZTBC0:opened:investigating:minor:2026-10-06T13:35:25+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 13:45:46 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates in ChatGPT Go conversations</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 13:35:25 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
