@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M5B6JFNCWZMTM8MB8JCP1F90:opened:investigating:minor:2026-10-19T23:05:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M5B6JFNCWZMTM8MB8JCP1F90",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-19T23:15:16.170664+00:00",
+  "started_at": "2026-10-19T23:05:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5B6JFNCWZMTM8MB8JCP1F90"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "2h 40m",
@@ -7675,24 +7693,6 @@
   "status": "resolved",
   "title": "Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M34TAFM9WBGEBE3G1GBH4SE8:progress:monitoring:minor:2026-09-22T15:26:41+00:00",
-  "impact": "minor",
-  "incident_id": "01M34TAFM9WBGEBE3G1GBH4SE8",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-22T15:30:24.170712+00:00",
-  "started_at": "2026-09-22T15:04:05+00:00",
-  "status": "monitoring",
-  "title": "Elevated Error Rates for ChatGPT Work, across Plus, Pro, Business, Enterprise and Education plans.",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M34TAFM9WBGEBE3G1GBH4SE8"
  }
 ]
