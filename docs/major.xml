@@ -961,13 +961,5 @@
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: identified · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 All clear from Lovable after 14 min]]></title>
-<link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
-<guid isPermaLink='false'>lovable:01M341NK7X6TQ8MP0FH9NM93HK:resolved:resolved:major:2026-09-22T08:07:28+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 08:15:18 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: resolved · Duration: 14 min · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>Enabling Lovable Cloud is back to normal operational levels.</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
