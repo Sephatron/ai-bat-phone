@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M58V86R7FY1HB8YQF12TP0WY:opened:investigating:minor:2026-10-19T01:08:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M58V86R7FY1HB8YQF12TP0WY",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-19T01:15:16.623855+00:00",
+  "started_at": "2026-10-19T01:08:40+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M58V86R7FY1HB8YQF12TP0WY"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "21 min",
@@ -7677,23 +7695,5 @@
   "title": "ElevenReader Elevated Error Rates",
   "transition": "opened",
   "url": "https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G"
- },
- {
-  "body": "This issue has been resolved.",
-  "components": [],
-  "duration": "1h 21m",
-  "headline": "🟢 Lovable has stopped wobbling",
-  "id": "lovable:01M324TRMEC1SE7YZSPNE9TTVJ:resolved:resolved:minor:2026-09-21T15:31:12+00:00",
-  "impact": "minor",
-  "incident_id": "01M324TRMEC1SE7YZSPNE9TTVJ",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-21T15:45:18.826700+00:00",
-  "started_at": "2026-09-21T14:10:00+00:00",
-  "status": "resolved",
-  "title": "Some users are seeing web search fail when the agent uses it",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M324TRMEC1SE7YZSPNE9TTVJ"
  }
 ]
