@@ -1549,8 +1549,8 @@
   "cursor:fhvjq1tr18sl": {
    "impact": "minor",
    "last_seen_at": "2026-10-19T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-19T13:24:52.565000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-19T13:35:14.306000+00:00"
   },
   "cursor:gh45ycs0zs0g": {
    "impact": "minor",
@@ -4845,6 +4845,12 @@
    "last_seen_at": "2026-10-19T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-15T18:56:00+00:00"
+  },
+  "openai:01M5A5S1ATN3QB2WCHQ3VDZC81": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-19T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-10-19T13:31:52+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
