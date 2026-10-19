@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5B6JFNCWZMTM8MB8JCP1F90</link>
+<guid isPermaLink='false'>fireworks:01M5B6JFNCWZMTM8MB8JCP1F90:resolved:resolved:minor:2026-10-19T23:23:20+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 23:30:13 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 18 min · Opened: Mon, 19 Oct 2026 23:05:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5B6JFNCWZMTM8MB8JCP1F90">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M5B6JFNCWZMTM8MB8JCP1F90</link>
 <guid isPermaLink='false'>fireworks:01M5B6JFNCWZMTM8MB8JCP1F90:opened:investigating:minor:2026-10-19T23:05:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 21:00:33 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Several services are degraded</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks, Pull Requests · Opened: Tue, 06 Oct 2026 19:57:35 +0000</p><p>All services are functioning normally except for enterprise migrations, which are still paused. They will resume soon.</p><p><a href="https://stspg.io/w3rcssslq22w">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/w3rcssslq22w</link>
-<guid isPermaLink='false'>github:cjwszcf57bff:progress:monitoring:minor:2026-10-06T20:26:46.471000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 20:30:32 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Several services are degraded</strong></p><p>Impact: minor · Status: monitoring · Affects: Webhooks, Pull Requests · Opened: Tue, 06 Oct 2026 19:57:35 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/w3rcssslq22w">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
