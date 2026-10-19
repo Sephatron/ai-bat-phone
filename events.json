@@ -1,5 +1,25 @@
 [
  {
+  "body": "A fix has been implemented and we are monitoring for service restoration.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor is on the mend. Don't get comfortable yet.",
+  "id": "cursor:48bg6xqptq72:progress:monitoring:minor:2026-10-19T17:10:56.479000+00:00",
+  "impact": "minor",
+  "incident_id": "48bg6xqptq72",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-19T17:15:16.016932+00:00",
+  "started_at": "2026-10-19T16:15:04.442000+00:00",
+  "status": "monitoring",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "progress",
+  "url": "https://stspg.io/0s6t57vsg1nl"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Webhooks",
@@ -7673,24 +7693,6 @@
   "status": "resolved",
   "title": "Elevated errors when Enabling Lovable Cloud",
   "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK"
- },
- {
-  "body": "We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Tools down: Lovable is broken",
-  "id": "lovable:01M341NK7X6TQ8MP0FH9NM93HK:opened:investigating:major:2026-09-22T07:54:25+00:00",
-  "impact": "major",
-  "incident_id": "01M341NK7X6TQ8MP0FH9NM93HK",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-22T08:00:15.663916+00:00",
-  "started_at": "2026-09-22T07:53:14+00:00",
-  "status": "investigating",
-  "title": "Elevated errors when Enabling Lovable Cloud",
-  "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK"
  }
 ]

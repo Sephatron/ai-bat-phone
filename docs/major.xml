@@ -969,13 +969,5 @@
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: resolved · Duration: 14 min · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>Enabling Lovable Cloud is back to normal operational levels.</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Tools down: Lovable is broken]]></title>
-<link>https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK</link>
-<guid isPermaLink='false'>lovable:01M341NK7X6TQ8MP0FH9NM93HK:opened:investigating:major:2026-09-22T07:54:25+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 08:00:15 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

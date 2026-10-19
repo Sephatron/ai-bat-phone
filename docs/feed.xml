@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/0s6t57vsg1nl</link>
+<guid isPermaLink='false'>cursor:48bg6xqptq72:progress:monitoring:minor:2026-10-19T17:10:56.479000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 17:15:16 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: monitoring · Affects: Grok Bot · Opened: Mon, 19 Oct 2026 16:15:04 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/0s6t57vsg1nl">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/nrv2k8s68bwn</link>
 <guid isPermaLink='false'>github:8tzbpcnl75jp:resolved:resolved:critical:2026-10-19T16:56:58.422000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 18:00:31 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Security Reviewer Agents</strong></p><p>Impact: major · Status: investigating · Affects: Review Agents · Opened: Tue, 06 Oct 2026 17:49:30 +0000</p><p>We are investigating a service degradation affecting Security Reviewer agents.</p><p><a href="https://stspg.io/rq2dy7v7jg96">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 Cerebras Inference is readable again, so silence here means quiet once more]]></title>
-<link>https://status.cerebras.ai</link>
-<guid isPermaLink='false'>meta:cerebras:recovered:2026-10-06T16:00:00+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 17:30:29 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read Cerebras Inference's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
