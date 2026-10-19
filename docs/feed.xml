@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M5APTB2MB411VCQMH1FCKC08</link>
+<guid isPermaLink='false'>fireworks:01M5APTB2MB411VCQMH1FCKC08:resolved:resolved:minor:2026-10-19T21:10:27+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 21:15:15 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 40m · Opened: Mon, 19 Oct 2026 18:29:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5APTB2MB411VCQMH1FCKC08">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M5AWN3HZ4Y95J3C4EQQC1NV2</link>
 <guid isPermaLink='false'>fireworks:01M5AWN3HZ4Y95J3C4EQQC1NV2:opened:investigating:minor:2026-10-19T20:11:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 20:15:37 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Errors processing large PDFs in the Responses API</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 25m · Opened: Tue, 06 Oct 2026 15:45:31 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB</link>
-<guid isPermaLink='false'>openai:01M493CZ0CB14KPC0EER83MNVB:resolved:resolved:minor:2026-10-06T20:00:46+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 20:15:37 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Computer Use Is Experiencing Issues</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 45m · Opened: Tue, 06 Oct 2026 17:15:23 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
