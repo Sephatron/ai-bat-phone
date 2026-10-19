@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://stspg.io/0s6t57vsg1nl</link>
+<guid isPermaLink='false'>cursor:48bg6xqptq72:opened:investigating:minor:2026-10-19T16:15:04.574000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 16:30:13 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Mon, 19 Oct 2026 16:15:04 +0000</p><p>We are investigating a service degradation affecting Grok Bot where routines may be delayed.</p><p><a href="https://stspg.io/0s6t57vsg1nl">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
 <link>https://stspg.io/nrv2k8s68bwn</link>
 <guid isPermaLink='false'>github:8tzbpcnl75jp:opened:investigating:critical:2026-10-19T15:56:34.100000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 16:45:29 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Errors processing large PDFs in the Responses API</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 06 Oct 2026 15:45:31 +0000</p><p>We are implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/l76txmwrzdcp</link>
-<guid isPermaLink='false'>vercel:1dp8c0nfchtg:resolved:resolved:major:2026-10-06T16:26:49.403000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 16:30:33 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: resolved · Affects: Routing Middleware · Duration: 15 min · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

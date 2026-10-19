@@ -2,17 +2,13 @@
  "heartbeat": "2026-10-19T16:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-19T16:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-19T16:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cerebras": {
    "consecutive_failures": 0
@@ -70,9 +66,7 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-19T16:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
@@ -1401,6 +1395,12 @@
    "last_seen_at": "2026-10-06T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-17T13:40:26.907000+00:00"
+  },
+  "cursor:48bg6xqptq72": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-19T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-19T16:15:04.574000+00:00"
   },
   "cursor:5rrkh2hs18q1": {
    "impact": "minor",

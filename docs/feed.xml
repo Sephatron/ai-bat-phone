@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://stspg.io/0s6t57vsg1nl</link>
+<guid isPermaLink='false'>cursor:48bg6xqptq72:opened:investigating:minor:2026-10-19T16:15:04.574000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 16:30:13 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Mon, 19 Oct 2026 16:15:04 +0000</p><p>We are investigating a service degradation affecting Grok Bot where routines may be delayed.</p><p><a href="https://stspg.io/0s6t57vsg1nl">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
 <link>https://stspg.io/nrv2k8s68bwn</link>
 <guid isPermaLink='false'>github:8tzbpcnl75jp:opened:investigating:critical:2026-10-19T15:56:34.100000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 17:15:38 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Cerebras Inference's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
-<link>https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB</link>
-<guid isPermaLink='false'>openai:01M493CZ0CB14KPC0EER83MNVB:opened:investigating:minor:2026-10-06T17:15:23+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 17:15:38 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Computer Use Is Experiencing Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 17:15:23 +0000</p><p>We are investigating issues for agents api and computer use.</p><p><a href="https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

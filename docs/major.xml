@@ -969,13 +969,5 @@
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Elevated errors when Enabling Lovable Cloud</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 22 Sep 2026 07:53:14 +0000</p><p>We're experiencing problems enabling Lovable Cloud in all regions for Lovable projects. Existing Lovable Cloud projects are not impacted</p><p><a href="https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK">Lovable status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 Claude is upright again. That took 1h 37m.]]></title>
-<link>https://stspg.io/90s4l9yywzbk</link>
-<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:resolved:resolved:major:2026-09-22T02:35:23.858000+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 02:45:12 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 37m · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

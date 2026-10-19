@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating a service degradation affecting Grok Bot where routines may be delayed.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is having a wobble",
+  "id": "cursor:48bg6xqptq72:opened:investigating:minor:2026-10-19T16:15:04.574000+00:00",
+  "impact": "minor",
+  "incident_id": "48bg6xqptq72",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-19T16:30:13.699085+00:00",
+  "started_at": "2026-10-19T16:15:04.442000+00:00",
+  "status": "investigating",
+  "title": "Investigating service degradation — Grok Bot",
+  "transition": "opened",
+  "url": "https://stspg.io/0s6t57vsg1nl"
+ },
+ {
   "body": "We’re are currently investigating degraded availability affecting GitHub Actions, GitHub Pages and Webhooks. Customers may experience delays in workflow processing, site builds and webhook delivery.",
   "components": [
    "Webhooks",
@@ -7668,28 +7688,5 @@
   "title": "ElevenReader Elevated Error Rates",
   "transition": "resolved",
   "url": "https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G"
- },
- {
-  "body": "This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "1h 37m",
-  "headline": "🟢 Claude is upright again. That took 1h 37m.",
-  "id": "anthropic:7g1qpkyz5gxh:resolved:resolved:major:2026-09-22T02:35:23.858000+00:00",
-  "impact": "major",
-  "incident_id": "7g1qpkyz5gxh",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-22T02:45:12.626286+00:00",
-  "started_at": "2026-09-22T00:57:26.117000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for multiple models",
-  "transition": "resolved",
-  "url": "https://stspg.io/90s4l9yywzbk"
  }
 ]
