@@ -1,5 +1,27 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "1h 07m",
+  "headline": "🟢 GitHub lives. Pick your tools back up.",
+  "id": "github:8tzbpcnl75jp:resolved:resolved:critical:2026-10-19T16:56:58.422000+00:00",
+  "impact": "critical",
+  "incident_id": "8tzbpcnl75jp",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-19T17:00:14.362205+00:00",
+  "started_at": "2026-10-19T15:49:25.822000+00:00",
+  "status": "resolved",
+  "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+  "transition": "resolved",
+  "url": "https://stspg.io/nrv2k8s68bwn"
+ },
+ {
   "body": "We are investigating a service degradation affecting Grok Bot where routines may be delayed.",
   "components": [
    "Grok Bot"
@@ -7670,23 +7692,5 @@
   "title": "Elevated errors when Enabling Lovable Cloud",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M341NK7X6TQ8MP0FH9NM93HK"
- },
- {
-  "body": "The elevated error rate has been resolved and we're following up internally to prevent future occurrences.",
-  "components": [],
-  "duration": "3h 31m",
-  "headline": "🟢 ElevenLabs is fine again",
-  "id": "elevenlabs:01M334KC2AAWJREYT5BSCNF50G:resolved:resolved:none:2026-09-22T02:56:28+00:00",
-  "impact": "none",
-  "incident_id": "01M334KC2AAWJREYT5BSCNF50G",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-22T03:00:18.037623+00:00",
-  "started_at": "2026-09-21T23:25:13+00:00",
-  "status": "resolved",
-  "title": "ElevenReader Elevated Error Rates",
-  "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M334KC2AAWJREYT5BSCNF50G"
  }
 ]

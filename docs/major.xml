@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 19 Oct 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/nrv2k8s68bwn</link>
+<guid isPermaLink='false'>github:8tzbpcnl75jp:resolved:resolved:critical:2026-10-19T16:56:58.422000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 17:00:14 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 1h 07m · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
 <link>https://stspg.io/nrv2k8s68bwn</link>

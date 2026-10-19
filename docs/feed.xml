@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 19 Oct 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/nrv2k8s68bwn</link>
+<guid isPermaLink='false'>github:8tzbpcnl75jp:resolved:resolved:critical:2026-10-19T16:56:58.422000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 17:00:14 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 1h 07m · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Cursor is having a wobble]]></title>
 <link>https://stspg.io/0s6t57vsg1nl</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 17:30:29 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read Cerebras Inference's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Cerebras Inference is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.cerebras.ai</link>
-<guid isPermaLink='false'>meta:cerebras:unreachable:2026-10-06T16:00:00+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 17:15:38 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Cerebras Inference's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-19T16:00:00+00:00",
+ "heartbeat": "2026-10-19T17:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -1400,7 +1400,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-19T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-19T16:15:04.574000+00:00"
+   "updated_at": "2026-10-19T16:52:56.297000+00:00"
   },
   "cursor:5rrkh2hs18q1": {
    "impact": "minor",
@@ -3037,8 +3037,8 @@
   "github:8tzbpcnl75jp": {
    "impact": "critical",
    "last_seen_at": "2026-10-19T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-19T16:30:29.646000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-19T16:56:58.422000+00:00"
   },
   "github:8vfyvq16hzh9": {
    "impact": "critical",
