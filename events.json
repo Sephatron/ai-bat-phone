@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "42 min",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M5A5S1ATN3QB2WCHQ3VDZC81:resolved:resolved:minor:2026-10-19T14:14:03+00:00",
+  "impact": "minor",
+  "incident_id": "01M5A5S1ATN3QB2WCHQ3VDZC81",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-19T14:15:13.643497+00:00",
+  "started_at": "2026-10-19T13:31:52+00:00",
+  "status": "resolved",
+  "title": "File Download errors",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience!",
   "components": [
    "CLI",
@@ -7674,28 +7692,5 @@
   "title": "Elevated errors for multiple models",
   "transition": "progress",
   "url": "https://stspg.io/90s4l9yywzbk"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "35 min",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:ymdqwbhcc85q:resolved:resolved:minor:2026-09-22T01:42:57.948000+00:00",
-  "impact": "minor",
-  "incident_id": "ymdqwbhcc85q",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-22T01:45:12.869975+00:00",
-  "started_at": "2026-09-22T01:07:24.687000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation",
-  "transition": "resolved",
-  "url": "https://stspg.io/vf4s5548f6d8"
  }
 ]
