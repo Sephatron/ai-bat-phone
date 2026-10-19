@@ -1510,6 +1510,12 @@
    "status": "resolved",
    "updated_at": "2026-07-27T09:50:11.005000+00:00"
   },
+  "cursor:c30f94k6rtrp": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-19T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-19T18:09:58.093000+00:00"
+  },
   "cursor:d8whvf5gt6jm": {
    "impact": "minor",
    "last_seen_at": "2026-09-14T00:00:00+00:00",
