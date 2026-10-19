@@ -1,5 +1,25 @@
 [
  {
+  "body": "Starting October 26, Cursor status updates will be published on https://status.x.ai and status.cursor.com will stop sending notifications. How to keep getting notifications: Email: your subscription moves over automatically, so you don't need to do anything. You can unsubscribe from any email, emails will be sent from status@email.api.x.ai Slack: run /feed subscribe https://status.x.ai/feed.xml in a channel to keep getting updates there. RSS: https://status.x.ai/feed.xml SMS, Microsoft Teams, and webhooks: these stop on October 26. You can subscribe by email or RSS on status.x.ai. Incidents f…",
+  "components": [
+   "cursor.com"
+  ],
+  "duration": "",
+  "headline": "🔧 Cursor is booking time off: Cursor status updates are moving to status.x.ai",
+  "id": "cursor:hnh7j4gwv771:opened:scheduled:maintenance:2026-10-19T12:04:07.028000+00:00",
+  "impact": "maintenance",
+  "incident_id": "hnh7j4gwv771",
+  "kind": "maintenance",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-19T12:15:14.040926+00:00",
+  "started_at": "2026-10-19T12:04:06.924000+00:00",
+  "status": "scheduled",
+  "title": "Cursor status updates are moving to status.x.ai",
+  "transition": "opened",
+  "url": "https://stspg.io/x7nspq96xvck"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "17 min",
@@ -7676,24 +7696,6 @@
   "status": "resolved",
   "title": "Service Degradation for Deepseek V4.1 Flash",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M3366VWWP8AY12Q1D50EFCSS"
- },
- {
-  "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M3366VWWP8AY12Q1D50EFCSS:opened:investigating:minor:2026-09-21T23:53:20+00:00",
-  "impact": "minor",
-  "incident_id": "01M3366VWWP8AY12Q1D50EFCSS",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-22T00:00:32.492016+00:00",
-  "started_at": "2026-09-21T23:53:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Deepseek V4.1 Flash",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M3366VWWP8AY12Q1D50EFCSS"
  }
 ]

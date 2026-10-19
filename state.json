@@ -1564,6 +1564,12 @@
    "status": "resolved",
    "updated_at": "2026-08-05T18:47:49.980000+00:00"
   },
+  "cursor:hnh7j4gwv771": {
+   "impact": "maintenance",
+   "last_seen_at": "2026-10-19T00:00:00+00:00",
+   "status": "scheduled",
+   "updated_at": "2026-10-19T12:04:07.028000+00:00"
+  },
   "cursor:htxx9vp5s24f": {
    "impact": "minor",
    "last_seen_at": "2026-09-07T00:00:00+00:00",

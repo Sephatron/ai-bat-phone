@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 Cursor is booking time off: Cursor status updates are moving to status.x.ai]]></title>
+<link>https://stspg.io/x7nspq96xvck</link>
+<guid isPermaLink='false'>cursor:hnh7j4gwv771:opened:scheduled:maintenance:2026-10-19T12:04:07.028000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 12:15:14 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Cursor status updates are moving to status.x.ai</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: cursor.com · Opened: Mon, 19 Oct 2026 12:04:06 +0000</p><p>Starting October 26, Cursor status updates will be published on https://status.x.ai and status.cursor.com will stop sending notifications. How to keep getting notifications: Email: your subscription moves over automatically, so you don't need to do anything. You can unsubscribe from any email, emails will be sent from status@email.api.x.ai Slack: run /feed subscribe https://status.x.ai/feed.xml in a channel to keep getting updates there. RSS: https://status.x.ai/feed.xml SMS, Microsoft Teams, and webhooks: these stop on October 26. You can subscribe by email or RSS on status.x.ai. Incidents f…</p><p><a href="https://stspg.io/x7nspq96xvck">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 17 min]]></title>
 <link>https://status.fireworks.ai/incidents/01M58V86R7FY1HB8YQF12TP0WY</link>
 <guid isPermaLink='false'>fireworks:01M58V86R7FY1HB8YQF12TP0WY:resolved:resolved:minor:2026-10-19T01:26:05+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 15:45:37 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Errors processing large PDFs in the Responses API</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 06 Oct 2026 15:45:31 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
-<link>https://status.ai21.com</link>
-<guid isPermaLink='false'>meta:ai21:recovered:2026-10-06T13:00:00+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 14:45:29 +0000</pubDate>
-<category>AI21</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
