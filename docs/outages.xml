@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 19 Oct 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor is fine again]]></title>
+<link>https://stspg.io/zf1tvrpck8sj</link>
+<guid isPermaLink='false'>cursor:fhvjq1tr18sl:resolved:resolved:minor:2026-10-19T13:52:07.400000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 14:00:15 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: CLI, Cloud Agents, cursor.com, IDE · Duration: 27 min · Opened: Mon, 19 Oct 2026 13:24:52 +0000</p><p>This incident has been resolved. Thank you for your patience!</p><p><a href="https://stspg.io/zf1tvrpck8sj">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/zf1tvrpck8sj</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 16:13:37 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors affecting Anthropic models</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 3h 20m · Opened: Tue, 06 Oct 2026 12:40:51 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/qkz3yd9rsm13">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Vercel is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/l76txmwrzdcp</link>
-<guid isPermaLink='false'>vercel:1dp8c0nfchtg:opened:investigating:major:2026-10-06T16:10:59.135000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 16:13:37 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: investigating · Affects: Routing Middleware · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>We are investigating an issue causing Vercel Auth login failures for pages with Deployment Protection enabled. We will provide an update as more information becomes available.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

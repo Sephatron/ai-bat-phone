@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience!",
+  "components": [
+   "CLI",
+   "Cloud Agents",
+   "cursor.com",
+   "IDE"
+  ],
+  "duration": "27 min",
+  "headline": "🟢 Cursor is fine again",
+  "id": "cursor:fhvjq1tr18sl:resolved:resolved:minor:2026-10-19T13:52:07.400000+00:00",
+  "impact": "minor",
+  "incident_id": "fhvjq1tr18sl",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-19T14:00:15.528745+00:00",
+  "started_at": "2026-10-19T13:24:52.403000+00:00",
+  "status": "resolved",
+  "title": "Investigating service degradation",
+  "transition": "resolved",
+  "url": "https://stspg.io/zf1tvrpck8sj"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring for service restoration.",
   "components": [
    "CLI",
@@ -7674,28 +7697,5 @@
   "title": "Investigating service degradation",
   "transition": "resolved",
   "url": "https://stspg.io/vf4s5548f6d8"
- },
- {
-  "body": "We have identified the cause of elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5 and are working on a fix. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔍 Claude has identified the problem. Fix pending.",
-  "id": "anthropic:7g1qpkyz5gxh:progress:identified:major:2026-09-22T01:17:33.002000+00:00",
-  "impact": "major",
-  "incident_id": "7g1qpkyz5gxh",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-22T01:30:19.637545+00:00",
-  "started_at": "2026-09-22T00:57:26.117000+00:00",
-  "status": "identified",
-  "title": "Elevated errors for multiple models",
-  "transition": "progress",
-  "url": "https://stspg.io/90s4l9yywzbk"
  }
 ]
