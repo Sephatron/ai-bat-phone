@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 19 Oct 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
+<link>https://stspg.io/nrv2k8s68bwn</link>
+<guid isPermaLink='false'>github:8tzbpcnl75jp:opened:investigating:critical:2026-10-19T15:56:34.100000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 16:00:14 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>We’re are currently investigating degraded availability affecting GitHub Actions, GitHub Pages and Webhooks. Customers may experience delays in workflow processing, site builds and webhook delivery.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 16:30:33 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: resolved · Affects: Routing Middleware · Duration: 15 min · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Vercel knows what it did]]></title>
-<link>https://stspg.io/l76txmwrzdcp</link>
-<guid isPermaLink='false'>vercel:1dp8c0nfchtg:progress:identified:major:2026-10-06T16:14:08.646000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 16:15:39 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: identified · Affects: Routing Middleware · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

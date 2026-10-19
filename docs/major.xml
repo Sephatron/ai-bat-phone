@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 19 Oct 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
+<link>https://stspg.io/nrv2k8s68bwn</link>
+<guid isPermaLink='false'>github:8tzbpcnl75jp:opened:investigating:critical:2026-10-19T15:56:34.100000+00:00</guid>
+<pubDate>Mon, 19 Oct 2026 16:00:14 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>We’re are currently investigating degraded availability affecting GitHub Actions, GitHub Pages and Webhooks. Customers may experience delays in workflow processing, site builds and webhook delivery.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
@@ -968,14 +976,6 @@
 <pubDate>Tue, 22 Sep 2026 02:45:12 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 37m · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/90s4l9yywzbk</link>
-<guid isPermaLink='false'>anthropic:7g1qpkyz5gxh:progress:monitoring:major:2026-09-22T02:11:43.778000+00:00</guid>
-<pubDate>Tue, 22 Sep 2026 02:15:14 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 22 Sep 2026 00:57:26 +0000</p><p>We have seen success rates return to normal across affected models, and are monitoring closely to ensure no further issues.</p><p><a href="https://stspg.io/90s4l9yywzbk">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
