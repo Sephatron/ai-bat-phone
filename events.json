@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some serverless models are experiencing elevated response latency. We are investigating network degradation with one of our cloud service providers that is causing these delays.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is a bit under the weather",
+  "id": "fireworks:01M5BETDK0RJV5DGC9Z1AF1RRN:opened:investigating:none:2026-10-20T01:29:08+00:00",
+  "impact": "none",
+  "incident_id": "01M5BETDK0RJV5DGC9Z1AF1RRN",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-20T01:30:13.930650+00:00",
+  "started_at": "2026-10-20T01:29:08+00:00",
+  "status": "investigating",
+  "title": "Elevated latency on some serverless models",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "18 min",
@@ -7675,24 +7693,6 @@
   "status": "resolved",
   "title": "Connector status mismatch and removal errors",
   "transition": "resolved",
-  "url": "https://status.replit.com/incidents/810fa950-3785-43e9-b51d-7e2f6eda7d1c"
- },
- {
-  "body": "[Investigating] We're aware of an issue where some connectors display as \"healthy\" in the a project while the underlying agent reports them as \"not set up.\" Attempting to remove an affected connection currently returns a 401 error. We're investigating and will post updates here.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is having a wobble",
-  "id": "replit:810fa950-3785-43e9-b51d-7e2f6eda7d1c:opened:investigating:minor:2026-09-22T21:45:12.349586+00:00",
-  "impact": "minor",
-  "incident_id": "810fa950-3785-43e9-b51d-7e2f6eda7d1c",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-09-22T21:45:12.349586+00:00",
-  "started_at": "2026-09-22T21:44:47+00:00",
-  "status": "investigating",
-  "title": "Connectors are not showing as healthy",
-  "transition": "opened",
   "url": "https://status.replit.com/incidents/810fa950-3785-43e9-b51d-7e2f6eda7d1c"
  }
 ]
