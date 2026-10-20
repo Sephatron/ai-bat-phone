@@ -26,7 +26,9 @@
    "consecutive_failures": 0
   },
   "fireworks": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-20T07:00:00+00:00",
+   "last_error": "https://status.fireworks.ai/api/v2/incidents.json returned HTTP 500"
   },
   "github": {
    "consecutive_failures": 0
