@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 20 Oct 2026 02:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 03:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN</link>
+<guid isPermaLink='false'>fireworks:01M5BETDK0RJV5DGC9Z1AF1RRN:resolved:resolved:none:2026-10-20T02:50:16+00:00</guid>
+<pubDate>Tue, 20 Oct 2026 03:00:13 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Elevated latency on some serverless models</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 21m · Opened: Tue, 20 Oct 2026 01:29:08 +0000</p><p>The elevated response latency affecting some serverless models has been resolved. Response latency has returned to normal.</p><p><a href="https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
 <link>https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 22:00:33 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Connection errors affecting some customers</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 06 Oct 2026 21:53:11 +0000</p><p>[Identified] We're currently investigating connection issues affecting some customers. We've identified the root cause and rolling back across all affected customers.</p><p><a href="https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
-<link>https://stspg.io/w3rcssslq22w</link>
-<guid isPermaLink='false'>github:cjwszcf57bff:escalated:investigating:critical:2026-10-06T21:29:46.920000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 21:30:34 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Several services are degraded</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Pull Requests · Opened: Tue, 06 Oct 2026 19:57:35 +0000</p><p>We are working towards a mitigation that will allow us to resume processing enterprise migrations.</p><p><a href="https://stspg.io/w3rcssslq22w">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

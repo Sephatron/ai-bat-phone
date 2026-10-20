@@ -1,5 +1,23 @@
 [
  {
+  "body": "The elevated response latency affecting some serverless models has been resolved. Response latency has returned to normal.",
+  "components": [],
+  "duration": "1h 21m",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M5BETDK0RJV5DGC9Z1AF1RRN:resolved:resolved:none:2026-10-20T02:50:16+00:00",
+  "impact": "none",
+  "incident_id": "01M5BETDK0RJV5DGC9Z1AF1RRN",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-20T03:00:13.730440+00:00",
+  "started_at": "2026-10-20T01:29:08+00:00",
+  "status": "resolved",
+  "title": "Elevated latency on some serverless models",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN"
+ },
+ {
   "body": "Some serverless models are experiencing elevated response latency. We are investigating network degradation with one of our cloud service providers that is causing these delays.",
   "components": [],
   "duration": "",
@@ -7676,23 +7694,5 @@
   "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API partially unavailable)",
   "transition": "opened",
   "url": "https://status.deepseek.com/incidents/7020391134287"
- },
- {
-  "body": "[Resolved] The issue affecting existing connector connections has been resolved. Previously connected integrations should now appear again without reconnecting. If a connection still appears unavailable or you see a setup or removal error, please contact support with the affected connector and project so we can investigate.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit sorted itself out after a while",
-  "id": "replit:810fa950-3785-43e9-b51d-7e2f6eda7d1c:resolved:resolved:minor:2026-09-22T23:45:11.007266+00:00",
-  "impact": "minor",
-  "incident_id": "810fa950-3785-43e9-b51d-7e2f6eda7d1c",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-09-22T23:45:11.007266+00:00",
-  "started_at": "2026-09-22T23:42:05+00:00",
-  "status": "resolved",
-  "title": "Connector status mismatch and removal errors",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/810fa950-3785-43e9-b51d-7e2f6eda7d1c"
  }
 ]
