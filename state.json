@@ -49,7 +49,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
   },
   "perplexity": {
    "consecutive_failures": 3,
@@ -66,9 +66,7 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-20T19:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
@@ -2931,8 +2929,8 @@
   "fireworks:01M5DCDKG8B2SBP96NM50D2DYQ": {
    "impact": "minor",
    "last_seen_at": "2026-10-20T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-20T19:25:40+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-20T19:36:31+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",

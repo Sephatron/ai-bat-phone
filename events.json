@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "10 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M5DCDKG8B2SBP96NM50D2DYQ:resolved:resolved:minor:2026-10-20T19:36:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M5DCDKG8B2SBP96NM50D2DYQ",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-20T19:45:15.904383+00:00",
+  "started_at": "2026-10-20T19:25:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5DCDKG8B2SBP96NM50D2DYQ"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7666,25 +7684,5 @@
   "title": "Service Degradation for GLM 5.2 US",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5"
- },
- {
-  "body": "We are investigating reports of degraded performance for API Requests",
-  "components": [
-   "API Requests"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from GitHub",
-  "id": "github:8zc63m64hy36:opened:investigating:minor:2026-09-23T10:13:42.117000+00:00",
-  "impact": "minor",
-  "incident_id": "8zc63m64hy36",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-23T10:15:13.093335+00:00",
-  "started_at": "2026-09-23T10:11:12.836000+00:00",
-  "status": "investigating",
-  "title": "Incident with API Requests and Projects",
-  "transition": "opened",
-  "url": "https://stspg.io/m1ps7yrhp4n8"
  }
 ]
