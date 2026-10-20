@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 20 Oct 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 27 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M5D8MR9P42K116V6D8SZH4PC</link>
+<guid isPermaLink='false'>fireworks:01M5D8MR9P42K116V6D8SZH4PC:resolved:resolved:minor:2026-10-20T18:47:30+00:00</guid>
+<pubDate>Tue, 20 Oct 2026 19:00:15 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 27 min · Opened: Tue, 20 Oct 2026 18:19:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5D8MR9P42K116V6D8SZH4PC">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M5D8MR9P42K116V6D8SZH4PC</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 22:15:30 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: major · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 2h 39m · Opened: Tue, 06 Oct 2026 19:27:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/s72y0jp0bgtt">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Replit thinks it's fixed and is watching nervously]]></title>
-<link>https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432</link>
-<guid isPermaLink='false'>replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:progress:monitoring:minor:2026-10-06T22:15:30.221811+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 22:15:30 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Connectors platform latency</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 06 Oct 2026 22:08:07 +0000</p><p>[Monitoring] We have identified and resolved the latency issue, now monitoring to make sure it's completely resolved.</p><p><a href="https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

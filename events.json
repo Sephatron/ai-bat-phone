@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "27 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 27 min",
+  "id": "fireworks:01M5D8MR9P42K116V6D8SZH4PC:resolved:resolved:minor:2026-10-20T18:47:30+00:00",
+  "impact": "minor",
+  "incident_id": "01M5D8MR9P42K116V6D8SZH4PC",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-20T19:00:15.054677+00:00",
+  "started_at": "2026-10-20T18:19:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5D8MR9P42K116V6D8SZH4PC"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7668,27 +7686,5 @@
   "title": "Elevated Error Rates for ChatGPT across Plus and Pro plans.",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M36RMC01ZFWQ861WYJKC4XE1"
- },
- {
-  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)",
-  "components": [
-   "DeepSeek V4.1 Flash API服务(API Service)",
-   "DeepSeek V4 Pro API服务(API Service)",
-   "对话服务(Chatservice)"
-  ],
-  "duration": "",
-  "headline": "🟢 DeepSeek sorted itself out after a while",
-  "id": "deepseek:urn:flashduty:change:7020391134287:resolved:resolved:minor:2026-09-23T07:45:11.827744+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:7020391134287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-09-23T07:45:11.827744+00:00",
-  "started_at": "2026-09-23T07:35:33+00:00",
-  "status": "resolved",
-  "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
-  "transition": "resolved",
-  "url": "https://status.deepseek.com/incidents/7020391134287"
  }
 ]
