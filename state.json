@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-20T21:00:00+00:00",
+ "heartbeat": "2026-10-20T22:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -52,9 +52,7 @@
    "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
   },
   "perplexity": {
-   "consecutive_failures": 3,
-   "failing_since": "2026-10-13T22:00:00+00:00",
-   "last_error": "https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format"
+   "consecutive_failures": 0
   },
   "replit": {
    "consecutive_failures": 0
@@ -4962,7 +4960,7 @@
   },
   "perplexity:01KZSFE8PTRGPH9T2SKNKX5FGT": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-11T22:40:45+00:00"
   },
@@ -4980,43 +4978,43 @@
   },
   "perplexity:01M0V29ZJNEY4QTWMR93NMCJGM": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-23T18:14:10+00:00"
   },
   "perplexity:01M0V2A0ZV5E7818HE6ZX33DQC": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-06T18:03:00+00:00"
   },
   "perplexity:01M0V2A2E9M6AY9KFAJQMEHYA2": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-13T01:49:15+00:00"
   },
   "perplexity:01M0V2A3TRYVSMNKGZVW0QK4CZ": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-14T11:43:00+00:00"
   },
   "perplexity:01M1D3PMXBYD8HKDG7MAR3NE8Q": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-01T00:06:56+00:00"
   },
   "perplexity:01M1Z156F1RJBNJ6JWZ8KHRS43": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-03T21:10:35+00:00"
   },
   "perplexity:01M1Z156VYPETMR4QRNMQMF3AM": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-05T07:09:00+00:00"
   },
@@ -5028,7 +5026,7 @@
   },
   "perplexity:01M4HD3DNF1K94CR5D51C37RRN": {
    "impact": "minor",
-   "last_seen_at": "2026-10-13T00:00:00+00:00",
+   "last_seen_at": "2026-10-20T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-09T23:15:40+00:00"
   },

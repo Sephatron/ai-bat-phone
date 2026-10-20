@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 20 Oct 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
+<link>https://status.perplexity.com</link>
+<guid isPermaLink='false'>meta:perplexity:recovered:2026-10-13T22:00:00+00:00</guid>
+<pubDate>Tue, 20 Oct 2026 22:00:14 +0000</pubDate>
+<category>Perplexity</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 23:15:35 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents</strong></p><p>Impact: major · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 16 min · Opened: Tue, 06 Oct 2026 22:48:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/d264y501jym3">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
-<link>https://stspg.io/d264y501jym3</link>
-<guid isPermaLink='false'>cursor:lft9b2dfmfsy:opened:investigating:major:2026-10-06T22:54:59.230000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 23:00:33 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents</strong></p><p>Impact: major · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Tue, 06 Oct 2026 22:48:00 +0000</p><p>We are currently investigating this issue. We will provide updates as more information becomes available.</p><p><a href="https://stspg.io/d264y501jym3">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
