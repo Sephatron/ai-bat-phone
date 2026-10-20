@@ -2,6 +2,24 @@
  {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
+  "duration": "32 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M5DC9Y4VP3PMP8T1GBFYRRB2:resolved:resolved:minor:2026-10-20T19:56:19+00:00",
+  "impact": "minor",
+  "incident_id": "01M5DC9Y4VP3PMP8T1GBFYRRB2",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-20T20:00:14.933003+00:00",
+  "started_at": "2026-10-20T19:23:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Deepseek V4.1 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2"
+ },
+ {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
   "duration": "10 min",
   "headline": "🟢 Fireworks AI has stopped wobbling",
   "id": "fireworks:01M5DCDKG8B2SBP96NM50D2DYQ:resolved:resolved:minor:2026-10-20T19:36:31+00:00",
@@ -7665,24 +7683,6 @@
   "status": "resolved",
   "title": "Service Degradation for GLM 5.2 US",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.2 US. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is a bit under the weather",
-  "id": "fireworks:01M376PSV9XP5X666QF3Y0NYW5:opened:investigating:minor:2026-09-23T13:19:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M376PSV9XP5X666QF3Y0NYW5",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-09-23T13:30:14.144580+00:00",
-  "started_at": "2026-09-23T13:19:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.2 US",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M376PSV9XP5X666QF3Y0NYW5"
  }
 ]
