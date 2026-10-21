@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Baseten is a bit under the weather]]></title>
+<link>https://stspg.io/ll791598g9tx</link>
+<guid isPermaLink='false'>baseten:3d8t4dnndtbv:opened:investigating:minor:2026-10-21T01:48:01.847000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 01:57:15 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors on DeepSeek V4 Flash on Model APIs</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 21 Oct 2026 01:48:01 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/ll791598g9tx">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten is fine again]]></title>
 <link>https://stspg.io/t5r9t8qz850b</link>
 <guid isPermaLink='false'>baseten:6j87tp9dhf4t:resolved:resolved:minor:2026-10-21T01:26:02.483000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 05:45:36 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Unable to create new ChatGPT Work threads in latest version of desktop app</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 07 Oct 2026 05:31:56 +0000</p><p>We are investigating the issue. Version 26.1002.51308 is affected</p><p><a href="https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 1h 47m]]></title>
-<link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
-<guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:resolved:resolved:minor:2026-10-07T03:00:54+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 03:15:29 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Workspace Agents Degraded and Responses Impacted</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 47m · Opened: Wed, 07 Oct 2026 01:12:57 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
