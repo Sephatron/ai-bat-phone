@@ -1,5 +1,27 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Actions, Pull Requests and Webhooks",
+  "components": [
+   "Webhooks",
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from GitHub",
+  "id": "github:nms1dpzmh9d9:opened:investigating:minor:2026-10-21T14:52:50.124000+00:00",
+  "impact": "minor",
+  "incident_id": "nms1dpzmh9d9",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-21T15:00:24.346886+00:00",
+  "started_at": "2026-10-21T14:52:49.969000+00:00",
+  "status": "investigating",
+  "title": "Delays for Pull Requests and Webhook deliveries",
+  "transition": "opened",
+  "url": "https://stspg.io/gnnt0tx9nxmk"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
@@ -7634,25 +7656,5 @@
   "title": "Database Upgrade. Inference will not be affected",
   "transition": "opened",
   "url": "https://stspg.io/cvn1v4jgybrg"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Dedicated Inference"
-  ],
-  "duration": "46 min",
-  "headline": "🟢 Baseten is back. Grass sufficiently touched.",
-  "id": "baseten:48qpxdqzvmd2:resolved:resolved:major:2026-09-24T08:30:05.837000+00:00",
-  "impact": "major",
-  "incident_id": "48qpxdqzvmd2",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-24T08:30:52.801827+00:00",
-  "started_at": "2026-09-24T07:43:41.868000+00:00",
-  "status": "resolved",
-  "title": "Elevated inference 500s for a subset of models deployed in 1 US-East cluster",
-  "transition": "resolved",
-  "url": "https://stspg.io/l4t4ggz466gx"
  }
 ]

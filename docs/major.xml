@@ -6,7 +6,7 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 21 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
@@ -952,14 +952,6 @@
 <pubDate>Fri, 25 Sep 2026 12:30:09 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: major · Status: investigating · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Fri, 25 Sep 2026 12:16:49 +0000</p><p>Some features may be temporarily unavailable since UTC 10:54. We are currently working to resume normal service performance. We will provide further updates as we make progress.</p><p><a href="https://stspg.io/mnkgcr15z19x">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/l4t4ggz466gx</link>
-<guid isPermaLink='false'>baseten:48qpxdqzvmd2:resolved:resolved:major:2026-09-24T08:30:05.837000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 08:30:52 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: resolved · Affects: Dedicated Inference · Duration: 46 min · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

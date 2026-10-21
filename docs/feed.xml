@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 21 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
+<link>https://stspg.io/gnnt0tx9nxmk</link>
+<guid isPermaLink='false'>github:nms1dpzmh9d9:opened:investigating:minor:2026-10-21T14:52:50.124000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 15:00:24 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks, Pull Requests, Actions · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>We are investigating reports of degraded performance for Actions, Pull Requests and Webhooks</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: monitoring · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>We are seeing full recovery across all systems including Git Operations, Pull Requests and Actions. We are continuing to investigate the root cause of the disruption between 15:06 UTC and 15:16 UTC, and will share another update shortly.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
-<link>https://stspg.io/rh45hf9t61t5</link>
-<guid isPermaLink='false'>cursor:p7fmcg2j968f:opened:investigating:minor:2026-10-07T15:59:33.058000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Wed, 07 Oct 2026 15:59:32 +0000</p><p>We are investigating a service degradation affecting Grok Bot's computers in certain regions.</p><p><a href="https://stspg.io/rh45hf9t61t5">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

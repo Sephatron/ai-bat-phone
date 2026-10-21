@@ -1,8 +1,10 @@
 {
- "heartbeat": "2026-10-21T14:00:00+00:00",
+ "heartbeat": "2026-10-21T15:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-21T15:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
   "anthropic": {
    "consecutive_failures": 0
@@ -3404,6 +3406,12 @@
    "status": "resolved",
    "updated_at": "2026-09-22T09:37:08.386000+00:00"
   },
+  "github:nms1dpzmh9d9": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-21T14:52:50.124000+00:00"
+  },
   "github:nvy2q96mcmyg": {
    "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
@@ -4983,7 +4991,7 @@
    "updated_at": "2026-10-21T02:48:17+00:00"
   },
   "openai:01M5FD63HHDRPQPM5YMQWJ5HTN": {
-   "impact": "major",
+   "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
    "status": "identified",
    "updated_at": "2026-10-21T14:17:32+00:00"
