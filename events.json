@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "1h 01m",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M5ETTK0ZCA6HPC1S1JV6YFJE:resolved:resolved:minor:2026-10-21T09:58:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M5ETTK0ZCA6HPC1S1JV6YFJE",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-21T10:00:15.204553+00:00",
+  "started_at": "2026-10-21T08:56:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE"
+ },
+ {
   "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7637,26 +7655,6 @@
   "status": "monitoring",
   "title": "Elevated inference 500s for a subset of models deployed in 1 US-East cluster",
   "transition": "progress",
-  "url": "https://stspg.io/l4t4ggz466gx"
- },
- {
-  "body": "The issue has been identified and a fix is being implemented.",
-  "components": [
-   "Dedicated Inference"
-  ],
-  "duration": "",
-  "headline": "🔍 Baseten has identified the problem. Fix pending.",
-  "id": "baseten:48qpxdqzvmd2:opened:identified:major:2026-09-24T07:43:41.948000+00:00",
-  "impact": "major",
-  "incident_id": "48qpxdqzvmd2",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-24T07:45:20.052765+00:00",
-  "started_at": "2026-09-24T07:43:41.868000+00:00",
-  "status": "identified",
-  "title": "Elevated inference 500s for a subset of models deployed in 1 US-East cluster",
-  "transition": "opened",
   "url": "https://stspg.io/l4t4ggz466gx"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 21 Oct 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE</link>
+<guid isPermaLink='false'>fireworks:01M5ETTK0ZCA6HPC1S1JV6YFJE:resolved:resolved:minor:2026-10-21T09:58:31+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 10:00:15 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 01m · Opened: Wed, 21 Oct 2026 08:56:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: resolved · Duration: 1h 50m · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>Some new projects failed to start because one of our providers had a capacity problem. This is now fixed. If your project did not start, please try again.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Lovable has applied a fix and is holding its breath]]></title>
-<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
-<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:progress:monitoring:major:2026-10-07T15:44:16+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 15:45:29 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: monitoring · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>The problem is resolved, we are monitoring the situation</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
