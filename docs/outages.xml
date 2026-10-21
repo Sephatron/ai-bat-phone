@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 21 Oct 2026 05:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 06:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 29 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K</link>
+<guid isPermaLink='false'>fireworks:01M5EEXQ8Z0FG35R8E9R0D8E6K:resolved:resolved:minor:2026-10-21T05:58:30+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 06:00:15 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 29 min · Opened: Wed, 21 Oct 2026 05:28:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 14:15:32 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>&gt; Some users are seeing errors when sending messages in the editor or creating new projects. Our team is investigating and working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
-<link>https://stspg.io/sjkw7njwf0mt</link>
-<guid isPermaLink='false'>anthropic:978mjkgw6mh7:opened:investigating:major:2026-10-07T13:25:04.274000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 13:30:37 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We are investigating elevated errors affecting usage data on the platform.claude.com Usage page and the Admin API usage report. Core functionality is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
