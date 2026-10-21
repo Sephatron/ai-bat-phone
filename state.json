@@ -3570,7 +3570,7 @@
    "impact": "critical",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-21T17:09:35.309000+00:00"
+   "updated_at": "2026-10-21T18:18:11.381000+00:00"
   },
   "github:nvy2q96mcmyg": {
    "impact": "minor",
@@ -4217,8 +4217,8 @@
   "lovable:01M5FSSFG3FMTR4FRTTQ00S88Y": {
    "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-21T17:57:50+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-21T18:20:44+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",

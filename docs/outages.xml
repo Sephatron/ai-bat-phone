@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Lovable sorted itself out after 22 min]]></title>
+<link>https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y</link>
+<guid isPermaLink='false'>lovable:01M5FSSFG3FMTR4FRTTQ00S88Y:resolved:resolved:minor:2026-10-21T18:20:44+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 18:30:24 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Lovable is slow at answering</strong></p><p>Impact: minor · Status: resolved · Duration: 22 min · Opened: Wed, 21 Oct 2026 17:57:50 +0000</p><p>Service is returning to normal. Any delayed messages should be handled within 10-20 minutes at most.</p><p><a href="https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://stspg.io/fh455gbmxf9q</link>
 <guid isPermaLink='false'>cursor:691lnxhmwgs6:resolved:resolved:minor:2026-10-21T17:53:46.938000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 23:30:32 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Projects stuck in Recovering acceptance after a draft merge</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 07 Oct 2026 22:19:49 +0000</p><p>Affected projects remain stuck on "Recovering acceptance" after merging a draft, preventing editing and building. We have identified the issue and prepared a fix. We expect deployment to complete in approximately 35 minutes. Once the fix is fully deployed, retrying should allow affected projects to recover. Projects not using drafts remain unaffected.</p><p><a href="https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Lovable is having a wobble]]></title>
-<link>https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH</link>
-<guid isPermaLink='false'>lovable:01M4C774FXBYXXP85HM2EERXPH:opened:investigating:minor:2026-10-07T22:19:49+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 22:30:35 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Projects stuck in Recovering acceptance after a draft merge</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 22:19:49 +0000</p><p>Some projects are getting stuck on "Recovering acceptance" after merging a draft, preventing the merge from completing. We are investigating the issue.</p><p><a href="https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
