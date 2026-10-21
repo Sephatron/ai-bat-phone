@@ -533,8 +533,8 @@
   "baseten:3d8t4dnndtbv": {
    "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-21T01:48:01.847000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-21T02:28:17.222000+00:00"
   },
   "baseten:3pzhd7v5qybt": {
    "impact": "minor",
@@ -4951,6 +4951,12 @@
    "last_seen_at": "2026-10-21T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-19T14:14:03+00:00"
+  },
+  "openai:01M5E4G39TD1BW1QWHZG6RFA5H": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-10-21T02:27:42+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
