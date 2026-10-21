@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 01:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 Lovable knows what it did]]></title>
+<link>https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3</link>
+<guid isPermaLink='false'>lovable:01M5DZAPZAKVN0ZYHD9SXXXVK3:opened:identified:minor:2026-10-21T00:56:08+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 01:00:15 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Lovable backends stuck after restart</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 21 Oct 2026 00:56:08 +0000</p><p>Some Lovable backends (Lovable Cloud) aren’t coming back after a restart. If yours is affected, your app may be down, and sign-in or data may not load. The cause is an issue at one of our upstream vendors. We’re monitoring it and will post an update here as soon as we have one.</p><p><a href="https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
 <link>https://status.perplexity.com</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 06 Oct 2026 23:45:31 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Several services are degraded</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Pull Requests · Duration: 3h 43m · Opened: Tue, 06 Oct 2026 19:57:35 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/w3rcssslq22w">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is upright again. That took 16 min.]]></title>
-<link>https://stspg.io/d264y501jym3</link>
-<guid isPermaLink='false'>cursor:lft9b2dfmfsy:resolved:resolved:major:2026-10-06T23:04:57.505000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 23:15:35 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents</strong></p><p>Impact: major · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 16 min · Opened: Tue, 06 Oct 2026 22:48:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/d264y501jym3">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

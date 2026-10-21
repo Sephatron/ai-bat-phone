@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some Lovable backends (Lovable Cloud) aren’t coming back after a restart. If yours is affected, your app may be down, and sign-in or data may not load. The cause is an issue at one of our upstream vendors. We’re monitoring it and will post an update here as soon as we have one.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Lovable knows what it did",
+  "id": "lovable:01M5DZAPZAKVN0ZYHD9SXXXVK3:opened:identified:minor:2026-10-21T00:56:08+00:00",
+  "impact": "minor",
+  "incident_id": "01M5DZAPZAKVN0ZYHD9SXXXVK3",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-21T01:00:15.477557+00:00",
+  "started_at": "2026-10-21T00:56:08+00:00",
+  "status": "identified",
+  "title": "Lovable backends stuck after restart",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",
@@ -7663,26 +7681,6 @@
   "status": "monitoring",
   "title": "Investigating — Cloud Agent Dockerfile Builds",
   "transition": "progress",
-  "url": "https://stspg.io/gw79dn0n9qf0"
- },
- {
-  "body": "The root cause has been identified and a fix is being implemented.",
-  "components": [
-   "Cloud Agents"
-  ],
-  "duration": "",
-  "headline": "🔍 Cursor has found the culprit",
-  "id": "cursor:lh1fpdkb4kcp:opened:identified:minor:2026-09-23T17:15:30.024000+00:00",
-  "impact": "minor",
-  "incident_id": "lh1fpdkb4kcp",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-23T17:15:53.463099+00:00",
-  "started_at": "2026-09-23T17:14:16.478000+00:00",
-  "status": "identified",
-  "title": "Investigating — Cloud Agent Dockerfile Builds",
-  "transition": "opened",
   "url": "https://stspg.io/gw79dn0n9qf0"
  }
 ]
