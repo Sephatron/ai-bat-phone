@@ -2420,6 +2420,156 @@
    "status": "resolved",
    "updated_at": "2026-10-13T23:59:23+00:00"
   },
+  "elevenlabs:01M5FR78DNK85Q9P6QXV1MWA1E": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:24+00:00"
+  },
+  "elevenlabs:01M5FR78GKXKJ9A1D3KBCZPKNT": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:24+00:00"
+  },
+  "elevenlabs:01M5FR78P7BXXJJFHHVQ863JQN": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:24+00:00"
+  },
+  "elevenlabs:01M5FR78PSCBDVPPNEZS4CN3WW": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:24+00:00"
+  },
+  "elevenlabs:01M5FR78SCB0TY2CS23KN964BH": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:24+00:00"
+  },
+  "elevenlabs:01M5FR78VKSSE313TCDQTE53GV": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR78Y6BR33J1KXN5JG7GDR": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR792KM1Q7CSQW1KVYVD56": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR7954FJ1QXSFT7YZKPRE2": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR797CPZ917TD6JZQZ84G1": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR79AYVAB64C6ZJB1H2KW7": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR79G6RHYTHM2SGMB52GFS": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR79NGW4EEPJRZXD3F81MQ": {
+   "impact": "none",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR79NTD0295NF24GCNFKFY": {
+   "impact": "none",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR79P975RGRJ8NT8FWWXMQ": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR79RJB4X5ZFN89DE6HEVC": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:25+00:00"
+  },
+  "elevenlabs:01M5FR7ACV2CH44EC74NBDHDNX": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:26+00:00"
+  },
+  "elevenlabs:01M5FR7AGSCS1YV8JJF54R6XN6": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:26+00:00"
+  },
+  "elevenlabs:01M5FR7AS6WSNHC2FFAW0VMWTJ": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:26+00:00"
+  },
+  "elevenlabs:01M5FR7ASGJ840AK01TFPZTWWE": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:26+00:00"
+  },
+  "elevenlabs:01M5FR7AVMZNBSWQDS7DCVYAJN": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:27+00:00"
+  },
+  "elevenlabs:01M5FR7B3YWQBJZP5K3EYJW1QQ": {
+   "impact": "none",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:27+00:00"
+  },
+  "elevenlabs:01M5FR7B4B29VJ7GVX5WB621EM": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:27+00:00"
+  },
+  "elevenlabs:01M5FR7B743AB9QZANJCBT86PW": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:27+00:00"
+  },
+  "elevenlabs:01M5FR7BB223FC1Y72H8VF6XK0": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:30:27+00:00"
+  },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
    "last_seen_at": "2026-09-05T00:00:00+00:00",
