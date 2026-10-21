@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting other Claude models has been resolved.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "40 min",
+  "headline": "🟢 Claude has stopped wobbling",
+  "id": "anthropic:njk29r81v3wg:resolved:resolved:minor:2026-10-21T20:29:17.877000+00:00",
+  "impact": "minor",
+  "incident_id": "njk29r81v3wg",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-21T20:30:24.581716+00:00",
+  "started_at": "2026-10-21T19:49:06.486000+00:00",
+  "status": "resolved",
+  "title": "Degraded performance for Claude Fable 5",
+  "transition": "resolved",
+  "url": "https://stspg.io/cgklr4v2sgkh"
+ },
+ {
   "body": "We are investigating elevated errors on requests to Claude Fable 5. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7641,26 +7664,5 @@
   "title": "Codex down due to 401 backend key error",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"
- },
- {
-  "body": "The incident has been resolved",
-  "components": [
-   "GPT-OSS-120B",
-   "Qwen-3.8-27b"
-  ],
-  "duration": "4h 58m",
-  "headline": "🟢 Cerebras Inference is upright again. That took 4h 58m.",
-  "id": "cerebras:8sc27zfgpkhk:resolved:resolved:major:2026-09-25T17:14:55.156000+00:00",
-  "impact": "major",
-  "incident_id": "8sc27zfgpkhk",
-  "kind": "incident",
-  "provider_key": "cerebras",
-  "provider_name": "Cerebras Inference",
-  "published_at": "2026-09-25T17:15:54.936602+00:00",
-  "started_at": "2026-09-25T12:16:49.013000+00:00",
-  "status": "resolved",
-  "title": "Partial Service Disruption",
-  "transition": "resolved",
-  "url": "https://stspg.io/mnkgcr15z19x"
  }
 ]

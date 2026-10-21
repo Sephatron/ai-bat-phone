@@ -341,8 +341,8 @@
   "anthropic:njk29r81v3wg": {
    "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-21T19:49:06.662000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-21T20:29:17.877000+00:00"
   },
   "anthropic:nlg5hjdfphmb": {
    "impact": "minor",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude has stopped wobbling]]></title>
+<link>https://stspg.io/cgklr4v2sgkh</link>
+<guid isPermaLink='false'>anthropic:njk29r81v3wg:resolved:resolved:minor:2026-10-21T20:29:17.877000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 20:30:24 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 40 min · Opened: Wed, 21 Oct 2026 19:49:06 +0000</p><p>The issue affecting other Claude models has been resolved.</p><p><a href="https://stspg.io/cgklr4v2sgkh">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Claude is having a wobble]]></title>
 <link>https://stspg.io/cgklr4v2sgkh</link>
 <guid isPermaLink='false'>anthropic:njk29r81v3wg:opened:investigating:minor:2026-10-21T19:49:06.662000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 02:30:33 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Connectors platform latency</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 08 Oct 2026 02:22:59 +0000</p><p>[Resolved] We have identified and resolved the connectors platform latency issue.</p><p><a href="https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 21 min]]></title>
-<link>https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M</link>
-<guid isPermaLink='false'>openai:01M4CBXZ62A9SVH8D74KVYQC8M:resolved:resolved:minor:2026-10-08T00:03:19+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 00:16:05 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with GPT-5.6 Instant in FedRAMP workspaces</strong></p><p>Impact: minor · Status: resolved · Duration: 21 min · Opened: Wed, 07 Oct 2026 23:42:12 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
