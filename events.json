@@ -1,5 +1,43 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "20 min",
+  "headline": "🟢 Baseten is fine again",
+  "id": "baseten:6j87tp9dhf4t:resolved:resolved:minor:2026-10-21T01:26:02.483000+00:00",
+  "impact": "minor",
+  "incident_id": "6j87tp9dhf4t",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-10-21T01:30:14.626585+00:00",
+  "started_at": "2026-10-21T01:05:09.698000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for image requests on multiple Model APIs",
+  "transition": "resolved",
+  "url": "https://stspg.io/t5r9t8qz850b"
+ },
+ {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "6 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 6 min",
+  "id": "fireworks:01M5E0BD82NP5SMPEQKW0X1AAX:resolved:resolved:minor:2026-10-21T01:20:14+00:00",
+  "impact": "minor",
+  "incident_id": "01M5E0BD82NP5SMPEQKW0X1AAX",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-21T01:30:14.626585+00:00",
+  "started_at": "2026-10-21T01:14:00+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX"
+ },
+ {
   "body": "There are elevated errors for image requests on Deepseek V4 Flash and GLM 5.3 Flash",
   "components": [
    "Model APIs"
@@ -7634,51 +7672,5 @@
   "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
   "transition": "opened",
   "url": "https://status.deepseek.com/incidents/7023110499287"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "8 min",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:wkjw4b51h1yq:resolved:resolved:minor:2026-09-23T20:36:47.192000+00:00",
-  "impact": "minor",
-  "incident_id": "wkjw4b51h1yq",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-23T20:45:11.710143+00:00",
-  "started_at": "2026-09-23T20:28:02.033000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation - Grok 4.7",
-  "transition": "resolved",
-  "url": "https://stspg.io/jlvlxpp59d7d"
- },
- {
-  "body": "We are investigating degraded performance for requests that use Grok 4.7.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is sulking, mildly",
-  "id": "cursor:wkjw4b51h1yq:opened:investigating:minor:2026-09-23T20:28:02.188000+00:00",
-  "impact": "minor",
-  "incident_id": "wkjw4b51h1yq",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-23T20:30:18.831927+00:00",
-  "started_at": "2026-09-23T20:28:02.033000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation - Grok 4.7",
-  "transition": "opened",
-  "url": "https://stspg.io/jlvlxpp59d7d"
  }
 ]
