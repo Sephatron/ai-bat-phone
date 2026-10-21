@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M5FHKHPQJMSHCE2B2WDPZW2N:opened:identified:minor:2026-10-21T15:34:47+00:00",
+  "impact": "minor",
+  "incident_id": "01M5FHKHPQJMSHCE2B2WDPZW2N",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-21T15:45:25.872286+00:00",
+  "started_at": "2026-10-21T15:34:47+00:00",
+  "status": "identified",
+  "title": "Elevated error rates for gpt-5.6-luna API requests",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N"
+ },
+ {
   "body": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out",
   "components": [],
   "duration": "",
@@ -7635,23 +7653,5 @@
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M3AB4X82NDHSDWYXKR8FCYEC"
- },
- {
-  "body": "We are investigating failures on billing information updates. Customers may be unable to create or update their billing information in the meantime.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 GitHub has a limp, not a break",
-  "id": "github:1dk955gg3bvz:opened:investigating:minor:2026-09-24T16:51:48.686000+00:00",
-  "impact": "minor",
-  "incident_id": "1dk955gg3bvz",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-24T17:00:12.535358+00:00",
-  "started_at": "2026-09-24T16:51:32.611000+00:00",
-  "status": "investigating",
-  "title": "Disruption with billing information updates",
-  "transition": "opened",
-  "url": "https://stspg.io/g2q4g5kv9frp"
  }
 ]

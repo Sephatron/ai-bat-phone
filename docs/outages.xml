@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N</link>
+<guid isPermaLink='false'>openai:01M5FHKHPQJMSHCE2B2WDPZW2N:opened:identified:minor:2026-10-21T15:34:47+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 15:45:25 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for gpt-5.6-luna API requests</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 21 Oct 2026 15:34:47 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.ai21.com</link>
 <guid isPermaLink='false'>meta:ai21:unreachable:2026-10-21T15:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: monitoring · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>We are seeing full recovery across all systems including Git Operations, Pull Requests and Actions. We are continuing to investigate the root cause of the disruption between 15:06 UTC and 15:16 UTC, and will share another update shortly.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
-<link>https://stspg.io/rh45hf9t61t5</link>
-<guid isPermaLink='false'>cursor:p7fmcg2j968f:opened:investigating:minor:2026-10-07T15:59:33.058000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Wed, 07 Oct 2026 15:59:32 +0000</p><p>We are investigating a service degradation affecting Grok Bot's computers in certain regions.</p><p><a href="https://stspg.io/rh45hf9t61t5">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
