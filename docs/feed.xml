@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
+<link>https://stspg.io/t5r9t8qz850b</link>
+<guid isPermaLink='false'>baseten:6j87tp9dhf4t:opened:investigating:minor:2026-10-21T01:05:09.804000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 01:15:14 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for image requests on multiple Model APIs</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 21 Oct 2026 01:05:09 +0000</p><p>There are elevated errors for image requests on Deepseek V4 Flash and GLM 5.3 Flash</p><p><a href="https://stspg.io/t5r9t8qz850b">Baseten status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX</link>
+<guid isPermaLink='false'>fireworks:01M5E0BD82NP5SMPEQKW0X1AAX:opened:investigating:minor:2026-10-21T01:14:00+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 01:15:14 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 01:14:00 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Lovable knows what it did]]></title>
 <link>https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3</link>
 <guid isPermaLink='false'>lovable:01M5DZAPZAKVN0ZYHD9SXXXVK3:opened:identified:minor:2026-10-21T00:56:08+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 02:45:36 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors loading usage data on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 1h 13m · Opened: Wed, 07 Oct 2026 01:20:26 +0000</p><p>This incident has been resolved. From 17:00 PT on October 6 / 00:00 UTC on October 7 to 18:40 PT on October 6 / 01:40 UTC on October 7, many requests to load usage data on the platform.claude.com Usage page and the Admin API usage report returned errors.</p><p><a href="https://stspg.io/scdhhnplc2jn">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G</link>
-<guid isPermaLink='false'>openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:identified:minor:2026-10-07T01:52:03+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 02:00:32 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Workspace Agents Degraded and Responses Impacted</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 07 Oct 2026 01:12:57 +0000</p><p>We are implementing the mitigation.</p><p><a href="https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/scdhhnplc2jn</link>
-<guid isPermaLink='false'>anthropic:wf2v8ms031sx:opened:investigating:major:2026-10-07T01:20:26.960000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 01:30:32 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors loading usage data on platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 01:20:26 +0000</p><p>We are investigating elevated errors loading usage data on the platform.claude.com Usage page and the Admin API usage report endpoint since 5 PM PT. Messages API requests are not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/scdhhnplc2jn">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

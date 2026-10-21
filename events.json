@@ -1,5 +1,43 @@
 [
  {
+  "body": "There are elevated errors for image requests on Deepseek V4 Flash and GLM 5.3 Flash",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "",
+  "headline": "🟠 Baseten has a limp, not a break",
+  "id": "baseten:6j87tp9dhf4t:opened:investigating:minor:2026-10-21T01:05:09.804000+00:00",
+  "impact": "minor",
+  "incident_id": "6j87tp9dhf4t",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-10-21T01:15:14.710921+00:00",
+  "started_at": "2026-10-21T01:05:09.698000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors for image requests on multiple Model APIs",
+  "transition": "opened",
+  "url": "https://stspg.io/t5r9t8qz850b"
+ },
+ {
+  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M5E0BD82NP5SMPEQKW0X1AAX:opened:investigating:minor:2026-10-21T01:14:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M5E0BD82NP5SMPEQKW0X1AAX",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-21T01:15:14.710921+00:00",
+  "started_at": "2026-10-21T01:14:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX"
+ },
+ {
   "body": "Some Lovable backends (Lovable Cloud) aren’t coming back after a restart. If yours is affected, your app may be down, and sign-in or data may not load. The cause is an issue at one of our upstream vendors. We’re monitoring it and will post an update here as soon as we have one.",
   "components": [],
   "duration": "",
@@ -7642,45 +7680,5 @@
   "title": "Investigating service degradation - Grok 4.7",
   "transition": "opened",
   "url": "https://stspg.io/jlvlxpp59d7d"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Cloud Agents"
-  ],
-  "duration": "1h 29m",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:lh1fpdkb4kcp:resolved:resolved:minor:2026-09-23T18:43:20.553000+00:00",
-  "impact": "minor",
-  "incident_id": "lh1fpdkb4kcp",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-23T19:00:25.616803+00:00",
-  "started_at": "2026-09-23T17:14:16.478000+00:00",
-  "status": "resolved",
-  "title": "Investigating — Cloud Agent Dockerfile Builds",
-  "transition": "resolved",
-  "url": "https://stspg.io/gw79dn0n9qf0"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration.",
-  "components": [
-   "Cloud Agents"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
-  "id": "cursor:lh1fpdkb4kcp:progress:monitoring:minor:2026-09-23T18:39:34.660000+00:00",
-  "impact": "minor",
-  "incident_id": "lh1fpdkb4kcp",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-23T18:45:18.597148+00:00",
-  "started_at": "2026-09-23T17:14:16.478000+00:00",
-  "status": "monitoring",
-  "title": "Investigating — Cloud Agent Dockerfile Builds",
-  "transition": "progress",
-  "url": "https://stspg.io/gw79dn0n9qf0"
  }
 ]
