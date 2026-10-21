@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K</link>
+<guid isPermaLink='false'>fireworks:01M5EEXQ8Z0FG35R8E9R0D8E6K:opened:investigating:minor:2026-10-21T05:28:40+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 05:30:14 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 05:28:40 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H</link>
 <guid isPermaLink='false'>openai:01M5E4G39TD1BW1QWHZG6RFA5H:resolved:resolved:minor:2026-10-21T02:48:17+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 15:00:36 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>GitHub connector may not be working for users</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 14:52:30 +0000</p><p>[Investigating] We've identified an issue with GitHub connectors starting Tuesday 1PM PT that prevented users from being able to connect their project source code to GitHub. This issue is recovering and we'll keep you updated here.</p><p><a href="https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
-<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
-<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:opened:investigating:major:2026-10-07T14:05:11+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 14:15:32 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>&gt; Some users are seeing errors when sending messages in the editor or creating new projects. Our team is investigating and working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

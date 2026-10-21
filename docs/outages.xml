@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K</link>
+<guid isPermaLink='false'>fireworks:01M5EEXQ8Z0FG35R8E9R0D8E6K:opened:investigating:minor:2026-10-21T05:28:40+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 05:30:14 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 05:28:40 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H</link>
 <guid isPermaLink='false'>openai:01M5E4G39TD1BW1QWHZG6RFA5H:resolved:resolved:minor:2026-10-21T02:48:17+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 13:30:37 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We are investigating elevated errors affecting usage data on the platform.claude.com Usage page and the Admin API usage report. Core functionality is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is upright again. That took 6h 21m.]]></title>
-<link>https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM</link>
-<guid isPermaLink='false'>openai:01M4ADHMMBK7K92NJFJ0DXRYJM:resolved:resolved:major:2026-10-07T11:53:35+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 12:00:48 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Unable to create new ChatGPT Work threads in latest version of desktop app</strong></p><p>Impact: major · Status: resolved · Duration: 6h 21m · Opened: Wed, 07 Oct 2026 05:31:56 +0000</p><p>We have released an updated app version with the fix for Linux, macOS and Windows. Affected users should update to the latest version.</p><p><a href="https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
