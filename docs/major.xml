@@ -6,9 +6,33 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 21 Oct 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.windsurf.com</link>
+<guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-21T15:00:00+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
+<category>Windsurf</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Windsurf's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.windsurf.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[📵 Cerebras Inference is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.cerebras.ai</link>
+<guid isPermaLink='false'>meta:cerebras:unreachable:2026-10-21T15:00:00+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Cerebras Inference's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔺 Upgrade your concern: GitHub is now critical]]></title>
+<link>https://stspg.io/gnnt0tx9nxmk</link>
+<guid isPermaLink='false'>github:nms1dpzmh9d9:escalated:investigating:critical:2026-10-21T15:58:38.769000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Pull Requests, Actions · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>We continue to see delays affecting pull request updates, webhook deliveries, and audit log events. The event streaming platform is showing signs of recovery, and we are monitoring as the impact continues.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.ai21.com</link>
