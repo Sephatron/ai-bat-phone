@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
+<link>https://status.windsurf.com</link>
+<guid isPermaLink='false'>meta:windsurf:recovered:2026-10-21T15:00:00+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:15:24 +0000</pubDate>
+<category>Windsurf</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Windsurf's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[📶 Cerebras Inference is readable again, so silence here means quiet once more]]></title>
+<link>https://status.cerebras.ai</link>
+<guid isPermaLink='false'>meta:cerebras:recovered:2026-10-21T15:00:00+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:15:24 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Cerebras Inference's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:recovered:2026-10-21T15:00:00+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:15:24 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.windsurf.com</link>
 <guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-21T15:00:00+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 18:15:30 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Dot in Codex may fail to create new threads</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 35m · Opened: Wed, 07 Oct 2026 16:31:37 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45</link>
-<guid isPermaLink='false'>openai:01M4BK9J2M83R4SSC71D9FXW45:progress:monitoring:minor:2026-10-07T17:30:28+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Dot in Codex may fail to create new threads</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 07 Oct 2026 16:31:37 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2</link>
-<guid isPermaLink='false'>openai:01M4BP5JE7DKJSP3VG2S2DCWF2:opened:investigating:minor:2026-10-07T17:21:52+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 17:21:52 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Claude knows what it did]]></title>
-<link>https://stspg.io/sjkw7njwf0mt</link>
-<guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:identified:major:2026-10-07T17:28:02.570000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 17:30:36 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: identified · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We've identified the cause of errors loading usage data. The Admin API usage report has recovered, and fixes for the platform.claude.com Usage and Rate limits pages are in progress. The most recent 30 minutes of usage may be delayed. Core functionality is not affected.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
