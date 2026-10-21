@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/gnnt0tx9nxmk</link>
+<guid isPermaLink='false'>github:nms1dpzmh9d9:resolved:resolved:critical:2026-10-21T19:22:52.663000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 19:30:23 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Pull Requests, Actions · Duration: 4h 30m · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable is upright again. That took 2h 09m.]]></title>
 <link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
 <guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:resolved:resolved:major:2026-10-21T18:42:41+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 00:00:44 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors with GPT-5.6 Instant in FedRAMP workspaces</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 07 Oct 2026 23:42:12 +0000</p><p>We have applied the mitigation and are monitoring the recovery and no longer seeing any errors.</p><p><a href="https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M</link>
-<guid isPermaLink='false'>openai:01M4CBXZ62A9SVH8D74KVYQC8M:opened:investigating:minor:2026-10-07T23:42:12+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 23:45:35 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with GPT-5.6 Instant in FedRAMP workspaces</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 23:42:12 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

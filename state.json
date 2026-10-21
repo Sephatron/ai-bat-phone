@@ -3569,8 +3569,8 @@
   "github:nms1dpzmh9d9": {
    "impact": "critical",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-21T18:52:50.077000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-21T19:22:52.663000+00:00"
   },
   "github:nvy2q96mcmyg": {
    "impact": "minor",

@@ -1,5 +1,27 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Webhooks",
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "4h 30m",
+  "headline": "🟢 GitHub is fixed. You may resume being productive.",
+  "id": "github:nms1dpzmh9d9:resolved:resolved:critical:2026-10-21T19:22:52.663000+00:00",
+  "impact": "critical",
+  "incident_id": "nms1dpzmh9d9",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-21T19:30:23.763056+00:00",
+  "started_at": "2026-10-21T14:52:49.969000+00:00",
+  "status": "resolved",
+  "title": "Delays for Pull Requests and Webhook deliveries",
+  "transition": "resolved",
+  "url": "https://stspg.io/gnnt0tx9nxmk"
+ },
+ {
   "body": "The delays syncing changes between Lovable and GitHub have been resolved. Syncing is operating normally again.",
   "components": [],
   "duration": "2h 09m",
@@ -7637,27 +7659,6 @@
   "status": "monitoring",
   "title": "Partial Service Disruption",
   "transition": "progress",
-  "url": "https://stspg.io/mnkgcr15z19x"
- },
- {
-  "body": "Some features may be temporarily unavailable since UTC 10:54. We are currently working to resume normal service performance. We will provide further updates as we make progress.",
-  "components": [
-   "GPT-OSS-120B",
-   "Qwen-3.8-27b"
-  ],
-  "duration": "",
-  "headline": "🔴 Cerebras Inference is out. Go and look at a tree.",
-  "id": "cerebras:8sc27zfgpkhk:opened:investigating:major:2026-09-25T12:16:49.083000+00:00",
-  "impact": "major",
-  "incident_id": "8sc27zfgpkhk",
-  "kind": "incident",
-  "provider_key": "cerebras",
-  "provider_name": "Cerebras Inference",
-  "published_at": "2026-09-25T12:30:09.693248+00:00",
-  "started_at": "2026-09-25T12:16:49.013000+00:00",
-  "status": "investigating",
-  "title": "Partial Service Disruption",
-  "transition": "opened",
   "url": "https://stspg.io/mnkgcr15z19x"
  }
 ]
