@@ -1,5 +1,23 @@
 [
  {
+  "body": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out",
+  "components": [],
+  "duration": "",
+  "headline": "📵 AI21 is unreadable — silence here means unknown, not fine",
+  "id": "meta:ai21:unreachable:2026-10-21T15:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "ai21",
+  "provider_name": "AI21",
+  "published_at": "2026-10-21T15:30:26.541944+00:00",
+  "started_at": "2026-10-21T15:00:00+00:00",
+  "status": "unreachable",
+  "title": "AI Bat Phone cannot read AI21's status page",
+  "transition": "unreachable",
+  "url": "https://status.ai21.com"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Actions, Pull Requests and Webhooks",
   "components": [
    "Webhooks",
@@ -7635,26 +7653,5 @@
   "title": "Disruption with billing information updates",
   "transition": "opened",
   "url": "https://stspg.io/g2q4g5kv9frp"
- },
- {
-  "body": "We will be performing a database upgrade between 6:00 PM and 7:00 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour for the web application & management API. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.",
-  "components": [
-   "Model Management API",
-   "Web Application"
-  ],
-  "duration": "",
-  "headline": "🔧 Planned works at Baseten",
-  "id": "baseten:grfq44rzjt0y:opened:scheduled:maintenance:2026-09-24T15:11:04.855000+00:00",
-  "impact": "maintenance",
-  "incident_id": "grfq44rzjt0y",
-  "kind": "maintenance",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-24T15:15:22.726332+00:00",
-  "started_at": "2026-09-24T15:11:04.755000+00:00",
-  "status": "scheduled",
-  "title": "Database Upgrade. Inference will not be affected",
-  "transition": "opened",
-  "url": "https://stspg.io/cvn1v4jgybrg"
  }
 ]
