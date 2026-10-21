@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are investigating elevated errors on requests to Claude Fable 5. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🟠 Claude is having a wobble",
+  "id": "anthropic:njk29r81v3wg:opened:investigating:minor:2026-10-21T19:49:06.662000+00:00",
+  "impact": "minor",
+  "incident_id": "njk29r81v3wg",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-21T20:00:24.105016+00:00",
+  "started_at": "2026-10-21T19:49:06.486000+00:00",
+  "status": "investigating",
+  "title": "Degraded performance for Claude Fable 5",
+  "transition": "opened",
+  "url": "https://stspg.io/cgklr4v2sgkh"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "5h 17m",
@@ -7639,23 +7662,5 @@
   "title": "Partial Service Disruption",
   "transition": "resolved",
   "url": "https://stspg.io/mnkgcr15z19x"
- },
- {
-  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
-  "components": [],
-  "duration": "",
-  "headline": "📡 Still watching. Nothing to report.",
-  "id": "meta:all:alive:2026-09-25",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "batphone",
-  "provider_name": "AI Bat Phone",
-  "published_at": "2026-09-25T14:01:09.137997+00:00",
-  "started_at": "2026-09-25T14:01:09.137997+00:00",
-  "status": "alive",
-  "title": "Still watching 21 provider status pages",
-  "transition": "alive",
-  "url": "https://sephatron.github.io/ai-bat-phone"
  }
 ]

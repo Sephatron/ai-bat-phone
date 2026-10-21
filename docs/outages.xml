@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 21 Oct 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Claude is having a wobble]]></title>
+<link>https://stspg.io/cgklr4v2sgkh</link>
+<guid isPermaLink='false'>anthropic:njk29r81v3wg:opened:investigating:minor:2026-10-21T19:49:06.662000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 20:00:24 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Wed, 21 Oct 2026 19:49:06 +0000</p><p>We are investigating elevated errors on requests to Claude Fable 5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/cgklr4v2sgkh">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 00:16:05 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors with GPT-5.6 Instant in FedRAMP workspaces</strong></p><p>Impact: minor · Status: resolved · Duration: 21 min · Opened: Wed, 07 Oct 2026 23:42:12 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable sorted itself out after 1h 27m]]></title>
-<link>https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH</link>
-<guid isPermaLink='false'>lovable:01M4C774FXBYXXP85HM2EERXPH:resolved:resolved:minor:2026-10-07T23:46:55+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:44 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Projects stuck in Recovering acceptance after a draft merge</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 27m · Opened: Wed, 07 Oct 2026 22:19:49 +0000</p><p>We have deployed the fix and resolved the issue that caused projects to get stuck on "Recovering acceptance" after merging a draft. If your project is still stuck, please retry to allow it to recover and resume editing and building.</p><p><a href="https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
