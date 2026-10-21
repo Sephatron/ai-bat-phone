@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
+<guid isPermaLink='false'>openai:01M5FD63HHDRPQPM5YMQWJ5HTN:resolved:resolved:minor:2026-10-21T19:34:58+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 19:45:24 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated FedRAMP API error rates for Astra and Sol</strong></p><p>Impact: minor · Status: resolved · Duration: 5h 17m · Opened: Wed, 21 Oct 2026 14:17:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/gnnt0tx9nxmk</link>
 <guid isPermaLink='false'>github:nms1dpzmh9d9:resolved:resolved:critical:2026-10-21T19:22:52.663000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 00:00:44 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Projects stuck in Recovering acceptance after a draft merge</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 27m · Opened: Wed, 07 Oct 2026 22:19:49 +0000</p><p>We have deployed the fix and resolved the issue that caused projects to get stuck on "Recovering acceptance" after merging a draft. If your project is still stuck, please retry to allow it to recover and resume editing and building.</p><p><a href="https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M</link>
-<guid isPermaLink='false'>openai:01M4CBXZ62A9SVH8D74KVYQC8M:progress:monitoring:minor:2026-10-07T23:48:14+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:44 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with GPT-5.6 Instant in FedRAMP workspaces</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 07 Oct 2026 23:42:12 +0000</p><p>We have applied the mitigation and are monitoring the recovery and no longer seeing any errors.</p><p><a href="https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

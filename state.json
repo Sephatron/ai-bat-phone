@@ -5165,8 +5165,8 @@
   "openai:01M5FD63HHDRPQPM5YMQWJ5HTN": {
    "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-21T17:04:07+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-21T19:34:58+00:00"
   },
   "openai:01M5FHKHPQJMSHCE2B2WDPZW2N": {
    "impact": "minor",

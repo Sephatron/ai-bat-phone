@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "5h 17m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M5FD63HHDRPQPM5YMQWJ5HTN:resolved:resolved:minor:2026-10-21T19:34:58+00:00",
+  "impact": "minor",
+  "incident_id": "01M5FD63HHDRPQPM5YMQWJ5HTN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-21T19:45:24.217430+00:00",
+  "started_at": "2026-10-21T14:17:32+00:00",
+  "status": "resolved",
+  "title": "Elevated FedRAMP API error rates for Astra and Sol",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Webhooks",
@@ -7639,26 +7657,5 @@
   "title": "Still watching 21 provider status pages",
   "transition": "alive",
   "url": "https://sephatron.github.io/ai-bat-phone"
- },
- {
-  "body": "Issue has beed resolved. We are monitoring the status.",
-  "components": [
-   "GPT-OSS-120B",
-   "Qwen-3.8-27b"
-  ],
-  "duration": "",
-  "headline": "👀 Cerebras Inference is on the mend. Don't get comfortable yet.",
-  "id": "cerebras:8sc27zfgpkhk:progress:monitoring:major:2026-09-25T13:41:26.888000+00:00",
-  "impact": "major",
-  "incident_id": "8sc27zfgpkhk",
-  "kind": "incident",
-  "provider_key": "cerebras",
-  "provider_name": "Cerebras Inference",
-  "published_at": "2026-09-25T13:45:59.366429+00:00",
-  "started_at": "2026-09-25T12:16:49.013000+00:00",
-  "status": "monitoring",
-  "title": "Partial Service Disruption",
-  "transition": "progress",
-  "url": "https://stspg.io/mnkgcr15z19x"
  }
 ]
