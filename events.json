@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M5FD63HHDRPQPM5YMQWJ5HTN:opened:identified:major:2026-10-21T14:17:32+00:00",
+  "impact": "major",
+  "incident_id": "01M5FD63HHDRPQPM5YMQWJ5HTN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-21T14:30:27.477590+00:00",
+  "started_at": "2026-10-21T14:17:32+00:00",
+  "status": "identified",
+  "title": "Elevated FedRAMP API error rates for Astra and Sol",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "1h 01m",
@@ -7635,26 +7653,6 @@
   "status": "resolved",
   "title": "Elevated inference 500s for a subset of models deployed in 1 US-East cluster",
   "transition": "resolved",
-  "url": "https://stspg.io/l4t4ggz466gx"
- },
- {
-  "body": "A fix has been implemented and we are monitoring the results.",
-  "components": [
-   "Dedicated Inference"
-  ],
-  "duration": "",
-  "headline": "👀 Baseten has applied a fix and is holding its breath",
-  "id": "baseten:48qpxdqzvmd2:progress:monitoring:major:2026-09-24T07:48:41.270000+00:00",
-  "impact": "major",
-  "incident_id": "48qpxdqzvmd2",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-24T08:00:12.991786+00:00",
-  "started_at": "2026-09-24T07:43:41.868000+00:00",
-  "status": "monitoring",
-  "title": "Elevated inference 500s for a subset of models deployed in 1 US-East cluster",
-  "transition": "progress",
   "url": "https://stspg.io/l4t4ggz466gx"
  }
 ]

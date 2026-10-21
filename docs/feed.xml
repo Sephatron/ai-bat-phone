@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
+<guid isPermaLink='false'>openai:01M5FD63HHDRPQPM5YMQWJ5HTN:opened:identified:major:2026-10-21T14:17:32+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 14:30:27 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated FedRAMP API error rates for Astra and Sol</strong></p><p>Impact: major · Status: identified · Opened: Wed, 21 Oct 2026 14:17:32 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE</link>
 <guid isPermaLink='false'>fireworks:01M5ETTK0ZCA6HPC1S1JV6YFJE:resolved:resolved:minor:2026-10-21T09:58:31+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Wed, 07 Oct 2026 15:59:32 +0000</p><p>We are investigating a service degradation affecting Grok Bot's computers in certain regions.</p><p><a href="https://stspg.io/rh45hf9t61t5">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable lives. Pick your tools back up.]]></title>
-<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
-<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:resolved:resolved:major:2026-10-07T15:56:00+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 16:00:50 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: resolved · Duration: 1h 50m · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>Some new projects failed to start because one of our providers had a capacity problem. This is now fixed. If your project did not start, please try again.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

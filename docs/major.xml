@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
+<guid isPermaLink='false'>openai:01M5FD63HHDRPQPM5YMQWJ5HTN:opened:identified:major:2026-10-21T14:17:32+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 14:30:27 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated FedRAMP API error rates for Astra and Sol</strong></p><p>Impact: major · Status: identified · Opened: Wed, 21 Oct 2026 14:17:32 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
 <link>https://status.perplexity.com</link>
 <guid isPermaLink='false'>meta:perplexity:recovered:2026-10-13T22:00:00+00:00</guid>
@@ -952,14 +960,6 @@
 <pubDate>Thu, 24 Sep 2026 08:30:52 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: resolved · Affects: Dedicated Inference · Duration: 46 min · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Baseten has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/l4t4ggz466gx</link>
-<guid isPermaLink='false'>baseten:48qpxdqzvmd2:progress:monitoring:major:2026-09-24T07:48:41.270000+00:00</guid>
-<pubDate>Thu, 24 Sep 2026 08:00:12 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated inference 500s for a subset of models deployed in 1 US-East cluster</strong></p><p>Impact: major · Status: monitoring · Affects: Dedicated Inference · Opened: Thu, 24 Sep 2026 07:43:41 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/l4t4ggz466gx">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
