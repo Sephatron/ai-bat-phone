@@ -5180,6 +5180,12 @@
    "status": "resolved",
    "updated_at": "2026-10-21T16:44:09+00:00"
   },
+  "openai:01M5G9QQ9V4CYDWFRYF9BWZ5GG": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-21T22:36:29+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",
