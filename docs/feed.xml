@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 21 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE</link>
+<guid isPermaLink='false'>fireworks:01M5ETTK0ZCA6HPC1S1JV6YFJE:opened:investigating:minor:2026-10-21T08:56:40+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 09:00:15 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 08:56:40 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 29 min]]></title>
 <link>https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 15:45:29 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: monitoring · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>The problem is resolved, we are monitoring the situation</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
-<link>https://stspg.io/96smrcth8bpg</link>
-<guid isPermaLink='false'>github:djlmxz2zd0j7:opened:investigating:critical:2026-10-07T15:27:28.429000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 15:30:31 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: investigating · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>Webhooks is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
