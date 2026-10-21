@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M5FD63HHDRPQPM5YMQWJ5HTN:progress:monitoring:minor:2026-10-21T17:04:07+00:00",
+  "impact": "minor",
+  "incident_id": "01M5FD63HHDRPQPM5YMQWJ5HTN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-21T17:15:24.684604+00:00",
+  "started_at": "2026-10-21T14:17:32+00:00",
+  "status": "monitoring",
+  "title": "Elevated FedRAMP API error rates for Astra and Sol",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "1h 09m",
@@ -7638,23 +7656,5 @@
   "title": "Some .shop domains purchased through Lovable are unavailable",
   "transition": "progress",
   "url": "https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y"
- },
- {
-  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
-  "id": "github:1dk955gg3bvz:progress:monitoring:minor:2026-09-24T20:24:57.892000+00:00",
-  "impact": "minor",
-  "incident_id": "1dk955gg3bvz",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-24T20:30:13.734348+00:00",
-  "started_at": "2026-09-24T16:51:32.611000+00:00",
-  "status": "monitoring",
-  "title": "Disruption with billing information updates",
-  "transition": "progress",
-  "url": "https://stspg.io/g2q4g5kv9frp"
  }
 ]
