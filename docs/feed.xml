@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://stspg.io/jythbn6wf94k</link>
+<guid isPermaLink='false'>cursor:qy67qt0s4n18:resolved:resolved:minor:2026-10-21T17:40:30.167000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 17:45:26 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: cursor.com, Grok Bot · Duration: 1h 54m · Opened: Wed, 21 Oct 2026 15:46:15 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/jythbn6wf94k">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://stspg.io/fh455gbmxf9q</link>
+<guid isPermaLink='false'>cursor:691lnxhmwgs6:opened:investigating:minor:2026-10-21T17:40:17.361000+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 17:45:26 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors for Bitbucket Cloud integrations</strong></p><p>Impact: minor · Status: investigating · Affects: Review Agents, Cloud Agents · Opened: Wed, 21 Oct 2026 17:40:17 +0000</p><p>We are investigating an issue affecting Cursor's Bitbucket Cloud integration. More information: https://bitbucket.status.atlassian.com/incidents/ldlx0fdgls28.</p><p><a href="https://stspg.io/fh455gbmxf9q">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
 <guid isPermaLink='false'>openai:01M5FD63HHDRPQPM5YMQWJ5HTN:progress:monitoring:minor:2026-10-21T17:04:07+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 22:30:35 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Projects stuck in Recovering acceptance after a draft merge</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 22:19:49 +0000</p><p>Some projects are getting stuck on "Recovering acceptance" after merging a draft, preventing the merge from completing. We are investigating the issue.</p><p><a href="https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/sjkw7njwf0mt</link>
-<guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:monitoring:major:2026-10-07T21:44:41.492000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 21:45:27 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: monitoring · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We've mitigated the errors loading usage data on platform.claude.com and in the Admin API usage report. While we work on a full fix, the most recent ~30 minutes of usage may take longer to appear on the platform.claude.com. API requests are not affected, and we will provide additional updates here.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3</link>
-<guid isPermaLink='false'>fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3:resolved:resolved:minor:2026-10-07T21:40:18+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 21:45:27 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Wed, 07 Oct 2026 21:29:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

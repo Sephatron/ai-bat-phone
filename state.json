@@ -1454,6 +1454,12 @@
    "status": "resolved",
    "updated_at": "2026-08-21T10:07:54.952000+00:00"
   },
+  "cursor:691lnxhmwgs6": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-21T17:40:17.361000+00:00"
+  },
   "cursor:6y0yq43mvwg2": {
    "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
@@ -1769,8 +1775,8 @@
   "cursor:qy67qt0s4n18": {
    "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-21T15:56:59.793000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-21T17:40:30.167000+00:00"
   },
   "cursor:r44l5qk34kj1": {
    "impact": "minor",
