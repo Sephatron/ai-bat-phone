@@ -1,5 +1,44 @@
 [
  {
+  "body": "Atlassian has reported the issue as resolved and they are continuing to monitor for service restoration.",
+  "components": [
+   "Review Agents",
+   "Cloud Agents"
+  ],
+  "duration": "13 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:691lnxhmwgs6:resolved:resolved:minor:2026-10-21T17:53:46.938000+00:00",
+  "impact": "minor",
+  "incident_id": "691lnxhmwgs6",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-21T18:00:25.046909+00:00",
+  "started_at": "2026-10-21T17:40:17.211000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Bitbucket Cloud integrations",
+  "transition": "resolved",
+  "url": "https://stspg.io/fh455gbmxf9q"
+ },
+ {
+  "body": "Lovable may take minutes to answer messages in the chat. We are investigating and will try to restore full functionality as soon as possible.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable is sulking, mildly",
+  "id": "lovable:01M5FSSFG3FMTR4FRTTQ00S88Y:opened:investigating:minor:2026-10-21T17:57:50+00:00",
+  "impact": "minor",
+  "incident_id": "01M5FSSFG3FMTR4FRTTQ00S88Y",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-21T18:00:25.046909+00:00",
+  "started_at": "2026-10-21T17:57:50+00:00",
+  "status": "investigating",
+  "title": "Lovable is slow at answering",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "cursor.com",
@@ -7624,43 +7663,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "progress",
   "url": "https://stspg.io/96tzymfl733c"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot. Grok Bot computers may temporarily not be able to be created, reached, or reset.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is having a wobble",
-  "id": "cursor:n540z31sbqp6:opened:investigating:minor:2026-09-25T05:17:29.596000+00:00",
-  "impact": "minor",
-  "incident_id": "n540z31sbqp6",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-25T05:30:11.519882+00:00",
-  "started_at": "2026-09-25T05:17:29.478000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "opened",
-  "url": "https://stspg.io/96tzymfl733c"
- },
- {
-  "body": "This incident has been resolved, and .shop domains should function as normal again.",
-  "components": [],
-  "duration": "1h 35m",
-  "headline": "🟢 Lovable has stopped wobbling",
-  "id": "lovable:01M3AE5SD49CVXRD5RPVRN1K9Y:resolved:resolved:minor:2026-09-24T21:02:51+00:00",
-  "impact": "minor",
-  "incident_id": "01M3AE5SD49CVXRD5RPVRN1K9Y",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-09-24T21:15:17.256108+00:00",
-  "started_at": "2026-09-24T19:27:14+00:00",
-  "status": "resolved",
-  "title": "Some .shop domains purchased through Lovable are unavailable",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M3AE5SD49CVXRD5RPVRN1K9Y"
  }
 ]
