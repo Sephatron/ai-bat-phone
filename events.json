@@ -1,5 +1,41 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "21 min",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M5E4G39TD1BW1QWHZG6RFA5H:resolved:resolved:minor:2026-10-21T02:48:17+00:00",
+  "impact": "minor",
+  "incident_id": "01M5E4G39TD1BW1QWHZG6RFA5H",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-21T03:00:13.984274+00:00",
+  "started_at": "2026-10-21T02:26:28+00:00",
+  "status": "resolved",
+  "title": "Degraded performance in ChatGPT, Codex, and APIs",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H"
+ },
+ {
+  "body": "A fix is being rolled out and users should no longer experience issues with backend stuck after restart.",
+  "components": [],
+  "duration": "1h 51m",
+  "headline": "🟢 Lovable sorted itself out after 1h 51m",
+  "id": "lovable:01M5DZAPZAKVN0ZYHD9SXXXVK3:resolved:resolved:minor:2026-10-21T02:47:55+00:00",
+  "impact": "minor",
+  "incident_id": "01M5DZAPZAKVN0ZYHD9SXXXVK3",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-21T03:00:13.984274+00:00",
+  "started_at": "2026-10-21T00:56:08+00:00",
+  "status": "resolved",
+  "title": "Lovable backends stuck after restart",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Model APIs"
@@ -7624,45 +7660,5 @@
   "title": "Mobile users unable to see Work Mode and the Model Picker",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S"
- },
- {
-  "body": "We have identified that mobile users are not able to see work mode or the model picker when using ChatGPT. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M389CDQ97B11QPMSRAAYSE5S:opened:investigating:minor:2026-09-23T23:25:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M389CDQ97B11QPMSRAAYSE5S",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-23T23:30:11.936879+00:00",
-  "started_at": "2026-09-23T23:25:00+00:00",
-  "status": "investigating",
-  "title": "Mobile users unable to see Work Mode and the Model Picker",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M389CDQ97B11QPMSRAAYSE5S"
- },
- {
-  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice)",
-  "components": [
-   "DeepSeek V4.1 Flash API服务(API Service)",
-   "DeepSeek V4 Pro API服务(API Service)",
-   "对话服务(Chatservice)"
-  ],
-  "duration": "",
-  "headline": "🟢 DeepSeek has stopped wobbling",
-  "id": "deepseek:urn:flashduty:change:7023110499287:resolved:resolved:minor:2026-09-23T23:15:14.680160+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:7023110499287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-09-23T23:15:14.680160+00:00",
-  "started_at": "2026-09-23T22:20:46+00:00",
-  "status": "resolved",
-  "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
-  "transition": "resolved",
-  "url": "https://status.deepseek.com/incidents/7023110499287"
  }
 ]
