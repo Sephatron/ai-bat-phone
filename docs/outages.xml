@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 1h 09m]]></title>
+<link>https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N</link>
+<guid isPermaLink='false'>openai:01M5FHKHPQJMSHCE2B2WDPZW2N:resolved:resolved:minor:2026-10-21T16:44:09+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for gpt-5.6-luna API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Wed, 21 Oct 2026 15:34:47 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 Lovable has identified the problem. Fix pending.]]></title>
+<link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
+<guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:opened:identified:major:2026-10-21T16:33:16+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: identified · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>Changes syncing between Lovable and GitHub may be delayed for some users. This is caused by an issue at one of our providers, and things are starting to recover. We are monitoring closely.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
 <link>https://status.windsurf.com</link>
 <guid isPermaLink='false'>meta:windsurf:recovered:2026-10-21T15:00:00+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 18:30:31 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 01m · Opened: Wed, 07 Oct 2026 17:21:52 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/4p8x0jnnsx7m</link>
-<guid isPermaLink='false'>github:qpfv5p86dmrl:resolved:resolved:critical:2026-10-07T18:04:49.479000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 18:15:30 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Git Operations, Issues, Actions and Pull Requests</strong></p><p>Impact: critical · Status: resolved · Affects: Git Operations, Issues, Pull Requests, Actions · Duration: 47 min · Opened: Wed, 07 Oct 2026 17:17:05 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/4p8x0jnnsx7m">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45</link>
-<guid isPermaLink='false'>openai:01M4BK9J2M83R4SSC71D9FXW45:resolved:resolved:minor:2026-10-07T18:06:37+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 18:15:30 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Dot in Codex may fail to create new threads</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 35m · Opened: Wed, 07 Oct 2026 16:31:37 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -3414,7 +3414,7 @@
    "impact": "critical",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-21T16:25:30.233000+00:00"
+   "updated_at": "2026-10-21T16:34:49.135000+00:00"
   },
   "github:nvy2q96mcmyg": {
    "impact": "minor",
@@ -4051,6 +4051,12 @@
    "last_seen_at": "2026-10-21T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-21T02:47:55+00:00"
+  },
+  "lovable:01M5FMYN5WN99KFCDS5E4K09M9": {
+   "impact": "major",
+   "last_seen_at": "2026-10-21T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-10-21T16:33:16+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",
@@ -5003,8 +5009,8 @@
   "openai:01M5FHKHPQJMSHCE2B2WDPZW2N": {
    "impact": "minor",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-21T15:47:26+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-21T16:44:09+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

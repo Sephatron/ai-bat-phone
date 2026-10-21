@@ -1,5 +1,41 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "1h 09m",
+  "headline": "🟢 OpenAI sorted itself out after 1h 09m",
+  "id": "openai:01M5FHKHPQJMSHCE2B2WDPZW2N:resolved:resolved:minor:2026-10-21T16:44:09+00:00",
+  "impact": "minor",
+  "incident_id": "01M5FHKHPQJMSHCE2B2WDPZW2N",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-21T16:45:26.873625+00:00",
+  "started_at": "2026-10-21T15:34:47+00:00",
+  "status": "resolved",
+  "title": "Elevated error rates for gpt-5.6-luna API requests",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N"
+ },
+ {
+  "body": "Changes syncing between Lovable and GitHub may be delayed for some users. This is caused by an issue at one of our providers, and things are starting to recover. We are monitoring closely.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Lovable has identified the problem. Fix pending.",
+  "id": "lovable:01M5FMYN5WN99KFCDS5E4K09M9:opened:identified:major:2026-10-21T16:33:16+00:00",
+  "impact": "major",
+  "incident_id": "01M5FMYN5WN99KFCDS5E4K09M9",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-21T16:45:26.873625+00:00",
+  "started_at": "2026-10-21T16:33:16+00:00",
+  "status": "identified",
+  "title": "Delays syncing with GitHub",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",
@@ -7620,43 +7656,5 @@
   "title": "Disruption with billing information updates",
   "transition": "progress",
   "url": "https://stspg.io/g2q4g5kv9frp"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Dedicated Inference"
-  ],
-  "duration": "1h 22m",
-  "headline": "🟢 Baseten has stopped wobbling",
-  "id": "baseten:rj514rfwk1y4:resolved:resolved:minor:2026-09-24T19:57:39.586000+00:00",
-  "impact": "minor",
-  "incident_id": "rj514rfwk1y4",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-24T20:00:12.260333+00:00",
-  "started_at": "2026-09-24T18:35:13+00:00",
-  "status": "resolved",
-  "title": "Intermittent 5xx for a subset of models in 1 US Central cluster",
-  "transition": "resolved",
-  "url": "https://stspg.io/2yvpl6y9sw33"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "46 min",
-  "headline": "🟢 OpenAI sorted itself out after 46 min",
-  "id": "openai:01M3ACKDE4GYY67FXXNRRSC0CE:resolved:resolved:none:2026-09-24T19:46:28+00:00",
-  "impact": "none",
-  "incident_id": "01M3ACKDE4GYY67FXXNRRSC0CE",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-24T20:00:12.260333+00:00",
-  "started_at": "2026-09-24T18:59:44+00:00",
-  "status": "resolved",
-  "title": "Elevated Error Rates on GPT-6 Astra Pro",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M3ACKDE4GYY67FXXNRRSC0CE"
  }
 ]

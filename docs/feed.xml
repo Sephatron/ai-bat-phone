@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI sorted itself out after 1h 09m]]></title>
+<link>https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N</link>
+<guid isPermaLink='false'>openai:01M5FHKHPQJMSHCE2B2WDPZW2N:resolved:resolved:minor:2026-10-21T16:44:09+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for gpt-5.6-luna API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Wed, 21 Oct 2026 15:34:47 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 Lovable has identified the problem. Fix pending.]]></title>
+<link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
+<guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:opened:identified:major:2026-10-21T16:33:16+00:00</guid>
+<pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: identified · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>Changes syncing between Lovable and GitHub may be delayed for some users. This is caused by an issue at one of our providers, and things are starting to recover. We are monitoring closely.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
 <link>https://status.windsurf.com</link>
 <guid isPermaLink='false'>meta:windsurf:recovered:2026-10-21T15:00:00+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 07 Oct 2026 21:30:31 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 07 Oct 2026 21:29:20 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit is fine again]]></title>
-<link>https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e</link>
-<guid isPermaLink='false'>replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e:resolved:resolved:minor:2026-10-07T20:30:39.420837+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 20:30:39 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>GitHub connector may not be working for users</strong></p><p>Impact: minor · Status: resolved · Opened: Wed, 07 Oct 2026 14:52:30 +0000</p><p>[Resolved] We've identified an issue with GitHub connectors starting Tuesday 1PM PT that prevented users from being able to connect their project source code to GitHub. This issue is recovering and we'll keep you updated here.</p><p><a href="https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 1h 01m]]></title>
-<link>https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2</link>
-<guid isPermaLink='false'>openai:01M4BP5JE7DKJSP3VG2S2DCWF2:resolved:resolved:minor:2026-10-07T18:23:25+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 18:30:31 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 01m · Opened: Wed, 07 Oct 2026 17:21:52 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
