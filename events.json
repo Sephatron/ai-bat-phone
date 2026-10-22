@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "2h 04m",
+  "headline": "🟢 OpenAI sorted itself out after 2h 04m",
+  "id": "openai:01M5JF8DR3EGQJNTXPZ24AKX2G:resolved:resolved:minor:2026-10-22T20:55:48+00:00",
+  "impact": "minor",
+  "incident_id": "01M5JF8DR3EGQJNTXPZ24AKX2G",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-22T21:00:24.273071+00:00",
+  "started_at": "2026-10-22T18:51:28+00:00",
+  "status": "resolved",
+  "title": "Degraded Performance of Dots on Enterprise",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G"
+ },
+ {
   "body": "We have identified that new ad accounts are failing to assign their creator admin. We are investigating the issue.",
   "components": [],
   "duration": "",
@@ -7643,26 +7661,6 @@
   "status": "resolved",
   "title": "kimi fs服务异常",
   "transition": "resolved",
-  "url": "https://stspg.io/38rg6zk8nx4d"
- },
- {
-  "body": "kimi fs请求失败率过高",
-  "components": [
-   "File uploads"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.",
-  "id": "moonshot:b0yb9hljvczz:opened:investigating:critical:2026-09-28T23:45:14.120000+00:00",
-  "impact": "critical",
-  "incident_id": "b0yb9hljvczz",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-09-28T23:46:06.055522+00:00",
-  "started_at": "2026-09-28T23:45:13.977000+00:00",
-  "status": "investigating",
-  "title": "kimi fs服务异常",
-  "transition": "opened",
   "url": "https://stspg.io/38rg6zk8nx4d"
  }
 ]

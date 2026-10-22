@@ -6,7 +6,7 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 22 Oct 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
@@ -952,14 +952,6 @@
 <pubDate>Tue, 29 Sep 2026 00:16:08 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: resolved · Affects: File uploads · Duration: 26 min · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/38rg6zk8nx4d</link>
-<guid isPermaLink='false'>moonshot:b0yb9hljvczz:opened:investigating:critical:2026-09-28T23:45:14.120000+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 23:46:06 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>kimi fs服务异常</strong></p><p>Impact: critical · Status: investigating · Affects: File uploads · Opened: Mon, 28 Sep 2026 23:45:13 +0000</p><p>kimi fs请求失败率过高</p><p><a href="https://stspg.io/38rg6zk8nx4d">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
