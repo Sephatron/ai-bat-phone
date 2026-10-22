@@ -5252,6 +5252,12 @@
    "status": "identified",
    "updated_at": "2026-10-22T18:59:18+00:00"
   },
+  "openai:01M5JHVJVC8WAXB4WRYFMKG6HP": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-22T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-10-22T19:36:53+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",

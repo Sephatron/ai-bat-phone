@@ -11,6 +11,14 @@
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
 <title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP</link>
+<guid isPermaLink='false'>openai:01M5JHVJVC8WAXB4WRYFMKG6HP:opened:identified:minor:2026-10-22T19:36:53+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 19:45:25 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>We have identified that new ad accounts are failing to assign their creator admin. We are investigating the issue.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
 <link>https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G</link>
 <guid isPermaLink='false'>openai:01M5JF8DR3EGQJNTXPZ24AKX2G:opened:identified:minor:2026-10-22T18:59:18+00:00</guid>
 <pubDate>Thu, 22 Oct 2026 19:00:27 +0000</pubDate>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 17:30:30 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>We have identified an issue causing delays in publishing Costs data through the Compliance API. The API Platform organization costs endpoint and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-10-09</guid>
-<pubDate>Fri, 09 Oct 2026 14:18:29 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

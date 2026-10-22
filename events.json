@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that new ad accounts are failing to assign their creator admin. We are investigating the issue.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M5JHVJVC8WAXB4WRYFMKG6HP:opened:identified:minor:2026-10-22T19:36:53+00:00",
+  "impact": "minor",
+  "incident_id": "01M5JHVJVC8WAXB4WRYFMKG6HP",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-22T19:45:25.163818+00:00",
+  "started_at": "2026-10-22T19:36:53+00:00",
+  "status": "identified",
+  "title": "New Ad Accounts failing to provision admins",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP"
+ },
+ {
   "body": "We are still implementing the mitigation. Only enterprise users have observed to have been affected at this point.",
   "components": [],
   "duration": "",
@@ -7646,23 +7664,5 @@
   "title": "kimi fs服务异常",
   "transition": "opened",
   "url": "https://stspg.io/38rg6zk8nx4d"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [],
-  "duration": "51 min",
-  "headline": "🟢 GitHub is fixed. You may resume being productive.",
-  "id": "github:169pg72gg9jr:resolved:resolved:critical:2026-09-28T22:08:20.242000+00:00",
-  "impact": "critical",
-  "incident_id": "169pg72gg9jr",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-28T22:16:16.971608+00:00",
-  "started_at": "2026-09-28T21:16:39.006000+00:00",
-  "status": "resolved",
-  "title": "Copilot Code Review is unable to complete reviews",
-  "transition": "resolved",
-  "url": "https://stspg.io/phqvtmdm3y2m"
  }
 ]
