@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [],
+  "duration": "27 min",
+  "headline": "🟢 All clear from Lovable after 27 min",
+  "id": "lovable:01M5HNMH9D2A4GTQCDDZY7GG1S:resolved:resolved:major:2026-10-22T11:50:44+00:00",
+  "impact": "major",
+  "incident_id": "01M5HNMH9D2A4GTQCDDZY7GG1S",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-22T12:00:26.532388+00:00",
+  "started_at": "2026-10-22T11:23:42+00:00",
+  "status": "resolved",
+  "title": "Enabling Lovable Cloud on projects is currently failing for some users",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S"
+ },
+ {
   "body": "Enabling Lovable Cloud on projects is currently failing for some users. Existing projects and apps already using Lovable Cloud are not affected. Our team is investigating.",
   "components": [],
   "duration": "",
@@ -7644,24 +7662,6 @@
   "status": "resolved",
   "title": "Agents - EU Residency",
   "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9"
- },
- {
-  "body": "We have released a fix, we are continuing to monitor the situation, the platform is operational now.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 ElevenLabs has applied a fix and is holding its breath",
-  "id": "elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:progress:monitoring:major:2026-09-28T14:20:35+00:00",
-  "impact": "major",
-  "incident_id": "01M3M4X6PEC0JQZFKAH0KEHTG9",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-28T14:31:23.837414+00:00",
-  "started_at": "2026-09-28T13:57:40+00:00",
-  "status": "monitoring",
-  "title": "Agents - EU Residency",
-  "transition": "progress",
   "url": "https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9"
  }
 ]

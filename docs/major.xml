@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 22 Oct 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from Lovable after 27 min]]></title>
+<link>https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S</link>
+<guid isPermaLink='false'>lovable:01M5HNMH9D2A4GTQCDDZY7GG1S:resolved:resolved:major:2026-10-22T11:50:44+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 12:00:26 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Enabling Lovable Cloud on projects is currently failing for some users</strong></p><p>Impact: major · Status: resolved · Duration: 27 min · Opened: Thu, 22 Oct 2026 11:23:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Lovable has gone dark. Nothing you did. Probably.]]></title>
 <link>https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S</link>
@@ -960,14 +968,6 @@
 <pubDate>Mon, 28 Sep 2026 14:46:18 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: resolved · Duration: 42 min · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We can confirm that the issue has been fixed and that the service is fully operational.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9</link>
-<guid isPermaLink='false'>elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:progress:monitoring:major:2026-09-28T14:20:35+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 14:31:23 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: monitoring · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We have released a fix, we are continuing to monitor the situation, the platform is operational now.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

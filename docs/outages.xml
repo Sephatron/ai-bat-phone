@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 22 Oct 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from Lovable after 27 min]]></title>
+<link>https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S</link>
+<guid isPermaLink='false'>lovable:01M5HNMH9D2A4GTQCDDZY7GG1S:resolved:resolved:major:2026-10-22T11:50:44+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 12:00:26 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Enabling Lovable Cloud on projects is currently failing for some users</strong></p><p>Impact: major · Status: resolved · Duration: 27 min · Opened: Thu, 22 Oct 2026 11:23:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Lovable has gone dark. Nothing you did. Probably.]]></title>
 <link>https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 16:16:47 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Increased Dubbing Latency and Failure Rate</strong></p><p>Impact: major · Status: monitoring · Opened: Thu, 08 Oct 2026 16:09:01 +0000</p><p>We have traced error metrics as they have returned to baseline. We're currently monitoring to ensure full resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E4CWPTSJZ9QH0J35V2Q0W6">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from ElevenLabs after 24 min]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS</link>
-<guid isPermaLink='false'>elevenlabs:01M4E1HC38AYN544QVC704X0FS:resolved:resolved:major:2026-10-08T15:43:58+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 15:45:42 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Agent SIP Conversation Disruption</strong></p><p>Impact: major · Status: resolved · Duration: 24 min · Opened: Thu, 08 Oct 2026 15:19:02 +0000</p><p>We have monitored error metrics and have confirmed that as of 15:15 UTC, we do not see continuing Agent SIP conversation failures. We will conduct an internal investigation and post a full Root Cause Analysis upon conclusion.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
