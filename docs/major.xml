@@ -977,13 +977,5 @@
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Build failures and deployments serving 500s</strong></p><p>Impact: major · Status: monitoring · Affects: Builds · Opened: Mon, 28 Sep 2026 13:44:29 +0000</p><p>Customers who built or deployed between 13:01 and 13:11 UTC experienced elevated rates of build failures due to unexpected error. Some customers builds succeeded but resulted in deployments which failed and served 500s. Any customers experiencing runtime errors should re-deploy their projects.</p><p><a href="https://stspg.io/p633qkgvpdsy">Vercel status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 OpenAI is upright again. That took 55 min.]]></title>
-<link>https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39</link>
-<guid isPermaLink='false'>openai:01M3DCNWMW57HYK8FJ5FBFPA39:resolved:resolved:critical:2026-09-25T23:54:41+00:00</guid>
-<pubDate>Sat, 26 Sep 2026 00:01:39 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Issues with Codex</strong></p><p>Impact: critical · Status: resolved · Duration: 55 min · Opened: Fri, 25 Sep 2026 22:58:48 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39">OpenAI status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M5GPE9C4E19HE461P8JAMYXD:progress:monitoring:minor:2026-10-22T02:42:24+00:00",
+  "impact": "minor",
+  "incident_id": "01M5GPE9C4E19HE461P8JAMYXD",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-22T02:45:24.256981+00:00",
+  "started_at": "2026-10-22T02:18:32+00:00",
+  "status": "monitoring",
+  "title": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD"
+ },
+ {
   "body": "We are investigating the issue for the listed services.",
   "components": [],
   "duration": "",
@@ -7644,23 +7662,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "progress",
   "url": "https://stspg.io/m3kgdhh3lx5l"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "55 min",
-  "headline": "🟢 OpenAI is upright again. That took 55 min.",
-  "id": "openai:01M3DCNWMW57HYK8FJ5FBFPA39:resolved:resolved:critical:2026-09-25T23:54:41+00:00",
-  "impact": "critical",
-  "incident_id": "01M3DCNWMW57HYK8FJ5FBFPA39",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-26T00:01:39.910840+00:00",
-  "started_at": "2026-09-25T22:58:48+00:00",
-  "status": "resolved",
-  "title": "Issues with Codex",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"
  }
 ]

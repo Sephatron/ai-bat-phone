@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD</link>
+<guid isPermaLink='false'>openai:01M5GPE9C4E19HE461P8JAMYXD:progress:monitoring:minor:2026-10-22T02:42:24+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 02:45:24 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>ChatGPT conversion failures in India, Japan and Korea. And Response API errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 22 Oct 2026 02:18:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from OpenAI]]></title>
 <link>https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD</link>
 <guid isPermaLink='false'>openai:01M5GPE9C4E19HE461P8JAMYXD:opened:investigating:minor:2026-10-22T02:18:32+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 14:15:51 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Opus 5.5 is Experiencing 429s</strong></p><p>Impact: minor · Status: monitoring · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Grok Bot · Opened: Thu, 08 Oct 2026 13:54:56 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/4lwl9qsfhlln">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
-<link>https://stspg.io/4lwl9qsfhlln</link>
-<guid isPermaLink='false'>cursor:x4mnlflpqc4w:opened:investigating:minor:2026-10-08T13:58:18.209000+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 13:59:49 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Opus 5.5 is Experiencing 429s</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Grok Bot · Opened: Thu, 08 Oct 2026 13:54:56 +0000</p><p>We are investigating a service degradation with Opus 5.5 being used across all product components.</p><p><a href="https://stspg.io/4lwl9qsfhlln">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
