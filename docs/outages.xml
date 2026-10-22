@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 22 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD</link>
+<guid isPermaLink='false'>openai:01M5GPE9C4E19HE461P8JAMYXD:resolved:resolved:minor:2026-10-22T08:50:43+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 09:00:24 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated ChatGPT conversation and Responses API errors</strong></p><p>Impact: minor · Status: resolved · Duration: 6h 32m · Opened: Thu, 22 Oct 2026 02:18:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Claude sorted itself out after 4h 16m]]></title>
 <link>https://stspg.io/4dcr8c005yxc</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 15:45:42 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Opus 5.5 is Experiencing 429s</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Grok Bot · Duration: 1h 36m · Opened: Thu, 08 Oct 2026 13:54:56 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/4lwl9qsfhlln">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 ElevenLabs has downed tools — and so, probably, have you]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS</link>
-<guid isPermaLink='false'>elevenlabs:01M4E1HC38AYN544QVC704X0FS:opened:investigating:major:2026-10-08T15:19:02+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 15:30:29 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Agent SIP Conversation Disruption</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 08 Oct 2026 15:19:02 +0000</p><p>We are currently investigating an issue causing call failures in Agent conversations using SIP. Non-SIP Agent conversations are unaffected.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

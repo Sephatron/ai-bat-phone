@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "6h 32m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M5GPE9C4E19HE461P8JAMYXD:resolved:resolved:minor:2026-10-22T08:50:43+00:00",
+  "impact": "minor",
+  "incident_id": "01M5GPE9C4E19HE461P8JAMYXD",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-22T09:00:24.224802+00:00",
+  "started_at": "2026-10-22T02:18:32+00:00",
+  "status": "resolved",
+  "title": "Elevated ChatGPT conversation and Responses API errors",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD"
+ },
+ {
   "body": "The issue affecting claude.ai and Claude Cowork has been resolved.",
   "components": [
    "claude.ai",
@@ -7647,23 +7665,5 @@
   "title": "Build failures and 500 errors for functions using Edge runtime",
   "transition": "resolved",
   "url": "https://stspg.io/p633qkgvpdsy"
- },
- {
-  "body": "We are investigating an issue on EU residency affecting the ElevenAgents platform.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 ElevenLabs is having a proper one. This is not your code.",
-  "id": "elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:opened:investigating:major:2026-09-28T13:57:40+00:00",
-  "impact": "major",
-  "incident_id": "01M3M4X6PEC0JQZFKAH0KEHTG9",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-28T14:01:48.693371+00:00",
-  "started_at": "2026-09-28T13:57:40+00:00",
-  "status": "investigating",
-  "title": "Agents - EU Residency",
-  "transition": "opened",
-  "url": "https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9"
  }
 ]
