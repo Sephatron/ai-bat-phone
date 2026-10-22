@@ -1,5 +1,26 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting claude.ai and Claude Cowork and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:wj6r4t6mxq1r:progress:monitoring:minor:2026-10-22T07:28:22.829000+00:00",
+  "impact": "minor",
+  "incident_id": "wj6r4t6mxq1r",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-22T07:30:25.523365+00:00",
+  "started_at": "2026-10-22T03:50:12.621000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors affecting Connectors",
+  "transition": "progress",
+  "url": "https://stspg.io/4dcr8c005yxc"
+ },
+ {
   "body": "We are investigating elevated errors affecting connectors. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7643,25 +7664,5 @@
   "title": "Build failures and deployments serving 500s",
   "transition": "opened",
   "url": "https://stspg.io/p633qkgvpdsy"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "45 min",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:bfcck6qks18q:resolved:resolved:minor:2026-09-26T00:32:45.781000+00:00",
-  "impact": "minor",
-  "incident_id": "bfcck6qks18q",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-26T00:45:56.962928+00:00",
-  "started_at": "2026-09-25T23:47:29.429000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/m3kgdhh3lx5l"
  }
 ]
