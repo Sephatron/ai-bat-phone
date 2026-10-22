@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project. Our team is investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 Lovable is out. Go and look at a tree.",
+  "id": "lovable:01M5J9AWZKX27E7GKGC1EC1826:opened:investigating:major:2026-10-22T17:12:05+00:00",
+  "impact": "major",
+  "incident_id": "01M5J9AWZKX27E7GKGC1EC1826",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-22T17:15:28.602802+00:00",
+  "started_at": "2026-10-22T17:07:58+00:00",
+  "status": "investigating",
+  "title": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project.",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M5J9AWZKX27E7GKGC1EC1826"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Actions, Issues and Pull Requests",
   "components": [
    "Issues",
@@ -7653,23 +7671,5 @@
   "title": "Database Upgrade. Inference will not be affected",
   "transition": "opened",
   "url": "https://stspg.io/6b2703ymtcrn"
- },
- {
-  "body": "Our engineers have confirmed that STT latency has fully recovered.",
-  "components": [],
-  "duration": "1h 11m",
-  "headline": "🟢 ElevenLabs has stopped wobbling",
-  "id": "elevenlabs:01M3MAXAR2W2YTZ9Q9A6XAH3GT:resolved:resolved:minor:2026-09-28T16:54:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M3MAXAR2W2YTZ9Q9A6XAH3GT",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-28T17:01:18.145235+00:00",
-  "started_at": "2026-09-28T15:42:36+00:00",
-  "status": "resolved",
-  "title": "Increased latency for Speech to Text API requests",
-  "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M3MAXAR2W2YTZ9Q9A6XAH3GT"
  }
 ]
