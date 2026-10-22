@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are still implementing the mitigation. Only enterprise users have observed to have been affected at this point.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M5JF8DR3EGQJNTXPZ24AKX2G:opened:identified:minor:2026-10-22T18:59:18+00:00",
+  "impact": "minor",
+  "incident_id": "01M5JF8DR3EGQJNTXPZ24AKX2G",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-22T19:00:27.076327+00:00",
+  "started_at": "2026-10-22T18:51:28+00:00",
+  "status": "identified",
+  "title": "Degraded Performance of Dots on Enterprise",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "24 min",
@@ -7645,24 +7663,6 @@
   "status": "resolved",
   "title": "Copilot Code Review is unable to complete reviews",
   "transition": "resolved",
-  "url": "https://stspg.io/phqvtmdm3y2m"
- },
- {
-  "body": "Revert of the impacted change is in flight, expect full recovery once the deployment is done.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 GitHub is having a proper one. This is not your code.",
-  "id": "github:169pg72gg9jr:opened:investigating:critical:2026-09-28T21:23:59.229000+00:00",
-  "impact": "critical",
-  "incident_id": "169pg72gg9jr",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-09-28T21:31:09.208825+00:00",
-  "started_at": "2026-09-28T21:16:39.006000+00:00",
-  "status": "investigating",
-  "title": "Copilot Code Review is unable to complete reviews",
-  "transition": "opened",
   "url": "https://stspg.io/phqvtmdm3y2m"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 22 Oct 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G</link>
+<guid isPermaLink='false'>openai:01M5JF8DR3EGQJNTXPZ24AKX2G:opened:identified:minor:2026-10-22T18:59:18+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 19:00:27 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Degraded Performance of Dots on Enterprise</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 22 Oct 2026 18:51:28 +0000</p><p>We are still implementing the mitigation. Only enterprise users have observed to have been affected at this point.</p><p><a href="https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M5JABXN0A6HGJ813BK4R14CY</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 21:15:32 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Some ChatGPT content may be unavailable on Android</strong></p><p>Impact: major · Status: identified · Opened: Fri, 09 Oct 2026 21:00:39 +0000</p><p>We have identified an issue affecting the ChatGPT Android app where users may see “This content is unavailable in this version of the app” instead of certain content. A fix is rolling out gradually in the latest Android version. Users can use ChatGPT on the web while we work to restore the experience for older app versions.</p><p><a href="https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R</link>
-<guid isPermaLink='false'>openai:01M4GV1M2A3K38T73JCVCD9G0R:opened:identified:minor:2026-10-09T17:27:49+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 17:30:30 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>We have identified an issue causing delays in publishing Costs data through the Compliance API. The API Platform organization costs endpoint and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
