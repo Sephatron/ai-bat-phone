@@ -49,7 +49,7 @@
   "openrouter": {
    "consecutive_failures": 3,
    "failing_since": "2026-09-11T03:00:00+00:00",
-   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 403"
+   "last_error": "https://status.openrouter.ai/incidents.rss returned HTTP 503"
   },
   "perplexity": {
    "consecutive_failures": 0
@@ -3635,8 +3635,8 @@
   "github:q29p76qtnkyk": {
    "impact": "minor",
    "last_seen_at": "2026-10-22T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-22T15:06:35.477000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-22T15:18:46.315000+00:00"
   },
   "github:qcvjkzcs7j74": {
    "impact": "critical",
@@ -3751,6 +3751,12 @@
    "last_seen_at": "2026-10-22T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-24T07:19:23.053000+00:00"
+  },
+  "github:wq8305lppdc2": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-22T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-22T15:28:04.260000+00:00"
   },
   "github:wt3hjqcrczfg": {
    "impact": "major",

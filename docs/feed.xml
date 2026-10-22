@@ -11,6 +11,22 @@
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
 <title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
+<link>https://stspg.io/sx51v1tlpqjc</link>
+<guid isPermaLink='false'>github:wq8305lppdc2:opened:investigating:minor:2026-10-22T15:28:04.260000+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 15:30:26 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Errors loading Issues, Pull Requests, and search results</strong></p><p>Impact: minor · Status: investigating · Affects: Issues, Pull Requests, Actions · Opened: Thu, 22 Oct 2026 15:28:03 +0000</p><p>We are investigating reports of degraded performance for Actions, Issues and Pull Requests</p><p><a href="https://stspg.io/sx51v1tlpqjc">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 GitHub is fine again]]></title>
+<link>https://stspg.io/44w94j036yc8</link>
+<guid isPermaLink='false'>github:q29p76qtnkyk:resolved:resolved:minor:2026-10-22T15:18:46.315000+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 15:30:26 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions Results</strong></p><p>Impact: minor · Status: resolved · Affects: Actions · Duration: 1h 00m · Opened: Thu, 22 Oct 2026 14:18:15 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/44w94j036yc8">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
 <link>https://stspg.io/44w94j036yc8</link>
 <guid isPermaLink='false'>github:q29p76qtnkyk:opened:investigating:minor:2026-10-22T14:19:32.591000+00:00</guid>
 <pubDate>Thu, 22 Oct 2026 14:30:23 +0000</pubDate>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 21:00:28 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors affecting Opus 5.5</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE, Grok Bot · Duration: 58 min · Opened: Thu, 08 Oct 2026 19:52:44 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/g415ws29757p">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M4EME5D6VSR3ZGVXSNVDPSX0</link>
-<guid isPermaLink='false'>fireworks:01M4EME5D6VSR3ZGVXSNVDPSX0:opened:investigating:minor:2026-10-08T20:49:20+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 21:00:28 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 08 Oct 2026 20:49:20 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4EME5D6VSR3ZGVXSNVDPSX0">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
-<link>https://stspg.io/g415ws29757p</link>
-<guid isPermaLink='false'>cursor:25l5bm6rdrb6:opened:investigating:minor:2026-10-08T19:52:45.257000+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 20:00:36 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors affecting Opus 5.5</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE, Grok Bot · Opened: Thu, 08 Oct 2026 19:52:44 +0000</p><p>We are investigating a service degradation affecting Opus 5.5. Users may see intermittent errors or failed requests when using Opus 5.5.</p><p><a href="https://stspg.io/g415ws29757p">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
