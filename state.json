@@ -455,8 +455,8 @@
   "anthropic:wj6r4t6mxq1r": {
    "impact": "minor",
    "last_seen_at": "2026-10-22T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-22T07:28:22.829000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-22T08:07:03.892000+00:00"
   },
   "anthropic:x017628t2rl5": {
    "impact": "maintenance",

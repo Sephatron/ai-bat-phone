@@ -969,13 +969,5 @@
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: investigating · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We are investigating an issue on EU residency affecting the ElevenAgents platform.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[👀 Vercel has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/p633qkgvpdsy</link>
-<guid isPermaLink='false'>vercel:yy1sm6x5l83q:opened:monitoring:major:2026-09-28T13:45:39.632000+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 13:46:15 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Build failures and deployments serving 500s</strong></p><p>Impact: major · Status: monitoring · Affects: Builds · Opened: Mon, 28 Sep 2026 13:44:29 +0000</p><p>Customers who built or deployed between 13:01 and 13:11 UTC experienced elevated rates of build failures due to unexpected error. Some customers builds succeeded but resulted in deployments which failed and served 500s. Any customers experiencing runtime errors should re-deploy their projects.</p><p><a href="https://stspg.io/p633qkgvpdsy">Vercel status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

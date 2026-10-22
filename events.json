@@ -1,5 +1,26 @@
 [
  {
+  "body": "The issue affecting claude.ai and Claude Cowork has been resolved.",
+  "components": [
+   "claude.ai",
+   "Claude Cowork"
+  ],
+  "duration": "4h 16m",
+  "headline": "🟢 Claude sorted itself out after 4h 16m",
+  "id": "anthropic:wj6r4t6mxq1r:resolved:resolved:minor:2026-10-22T08:07:03.892000+00:00",
+  "impact": "minor",
+  "incident_id": "wj6r4t6mxq1r",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-22T08:15:24.195030+00:00",
+  "started_at": "2026-10-22T03:50:12.621000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors affecting Connectors",
+  "transition": "resolved",
+  "url": "https://stspg.io/4dcr8c005yxc"
+ },
+ {
   "body": "A fix has been deployed for the issue affecting claude.ai and Claude Cowork and we are monitoring for recovery.",
   "components": [
    "claude.ai",
@@ -7644,25 +7665,5 @@
   "title": "Agents - EU Residency",
   "transition": "opened",
   "url": "https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9"
- },
- {
-  "body": "Customers who built or deployed between 13:01 and 13:11 UTC experienced elevated rates of build failures due to unexpected error. Some customers builds succeeded but resulted in deployments which failed and served 500s. Any customers experiencing runtime errors should re-deploy their projects.",
-  "components": [
-   "Builds"
-  ],
-  "duration": "",
-  "headline": "👀 Vercel has applied a fix and is holding its breath",
-  "id": "vercel:yy1sm6x5l83q:opened:monitoring:major:2026-09-28T13:45:39.632000+00:00",
-  "impact": "major",
-  "incident_id": "yy1sm6x5l83q",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-28T13:46:15.706391+00:00",
-  "started_at": "2026-09-28T13:44:29.826000+00:00",
-  "status": "monitoring",
-  "title": "Build failures and deployments serving 500s",
-  "transition": "opened",
-  "url": "https://stspg.io/p633qkgvpdsy"
  }
 ]

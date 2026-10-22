@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude sorted itself out after 4h 16m]]></title>
+<link>https://stspg.io/4dcr8c005yxc</link>
+<guid isPermaLink='false'>anthropic:wj6r4t6mxq1r:resolved:resolved:minor:2026-10-22T08:07:03.892000+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 08:15:24 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting Connectors</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude Cowork · Duration: 4h 16m · Opened: Thu, 22 Oct 2026 03:50:12 +0000</p><p>The issue affecting claude.ai and Claude Cowork has been resolved.</p><p><a href="https://stspg.io/4dcr8c005yxc">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/4dcr8c005yxc</link>
 <guid isPermaLink='false'>anthropic:wj6r4t6mxq1r:progress:monitoring:minor:2026-10-22T07:28:22.829000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 15:45:42 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agent SIP Conversation Disruption</strong></p><p>Impact: major · Status: resolved · Duration: 24 min · Opened: Thu, 08 Oct 2026 15:19:02 +0000</p><p>We have monitored error metrics and have confirmed that as of 15:15 UTC, we do not see continuing Agent SIP conversation failures. We will conduct an internal investigation and post a full Root Cause Analysis upon conclusion.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 1h 36m]]></title>
-<link>https://stspg.io/4lwl9qsfhlln</link>
-<guid isPermaLink='false'>cursor:x4mnlflpqc4w:resolved:resolved:minor:2026-10-08T15:31:30.018000+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 15:45:42 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Opus 5.5 is Experiencing 429s</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Grok Bot · Duration: 1h 36m · Opened: Thu, 08 Oct 2026 13:54:56 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/4lwl9qsfhlln">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
