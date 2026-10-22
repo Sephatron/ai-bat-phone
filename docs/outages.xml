@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 22 Oct 2026 03:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 04:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Claude has a limp, not a break]]></title>
+<link>https://stspg.io/4dcr8c005yxc</link>
+<guid isPermaLink='false'>anthropic:wj6r4t6mxq1r:opened:investigating:minor:2026-10-22T03:50:12.763000+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 04:00:22 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting Connectors</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Cowork · Opened: Thu, 22 Oct 2026 03:50:12 +0000</p><p>We are investigating elevated errors affecting connectors. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/4dcr8c005yxc">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 13:59:49 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Opus 5.5 is Experiencing 429s</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Grok Bot · Opened: Thu, 08 Oct 2026 13:54:56 +0000</p><p>We are investigating a service degradation with Opus 5.5 being used across all product components.</p><p><a href="https://stspg.io/4lwl9qsfhlln">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
-<link>https://status.lovable.dev/incidents/01M4DEDWGVCKA54R3QN4AJZHCP</link>
-<guid isPermaLink='false'>lovable:01M4DEDWGVCKA54R3QN4AJZHCP:resolved:resolved:minor:2026-10-08T09:55:03+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 10:00:28 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Issues creating projects from workspace chats</strong></p><p>Impact: minor · Status: resolved · Duration: 9 min · Opened: Thu, 08 Oct 2026 09:45:05 +0000</p><p>Creating new projects from workspace chats is working normally again following a fix. Building and editing existing projects was not affected. This issue is now resolved.</p><p><a href="https://status.lovable.dev/incidents/01M4DEDWGVCKA54R3QN4AJZHCP">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are investigating elevated errors affecting connectors. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🟠 Claude has a limp, not a break",
+  "id": "anthropic:wj6r4t6mxq1r:opened:investigating:minor:2026-10-22T03:50:12.763000+00:00",
+  "impact": "minor",
+  "incident_id": "wj6r4t6mxq1r",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-22T04:00:22.886158+00:00",
+  "started_at": "2026-10-22T03:50:12.621000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting Connectors",
+  "transition": "opened",
+  "url": "https://stspg.io/4dcr8c005yxc"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
@@ -7641,26 +7662,6 @@
   "status": "resolved",
   "title": "Investigating service degradation — Grok Bot",
   "transition": "resolved",
-  "url": "https://stspg.io/m3kgdhh3lx5l"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor has applied a fix and is holding its breath",
-  "id": "cursor:bfcck6qks18q:progress:monitoring:minor:2026-09-26T00:22:53.283000+00:00",
-  "impact": "minor",
-  "incident_id": "bfcck6qks18q",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-26T00:30:56.496660+00:00",
-  "started_at": "2026-09-25T23:47:29.429000+00:00",
-  "status": "monitoring",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "progress",
   "url": "https://stspg.io/m3kgdhh3lx5l"
  }
 ]
