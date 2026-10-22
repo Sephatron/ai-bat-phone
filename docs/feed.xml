@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M</link>
+<guid isPermaLink='false'>fireworks:01M5GGG3JZ27XS2DMPG2YCXX2M:opened:investigating:minor:2026-10-22T00:34:40+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 00:36:58 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 22 Oct 2026 00:34:40 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude has stopped wobbling]]></title>
 <link>https://stspg.io/cgklr4v2sgkh</link>
 <guid isPermaLink='false'>anthropic:njk29r81v3wg:resolved:resolved:minor:2026-10-21T20:29:17.877000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 09:45:30 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Issues creating projects from workspace chats</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 08 Oct 2026 09:45:05 +0000</p><p>Creating new projects from workspace chats is currently not working for some users. Building and editing existing projects is not affected. Our team has identified the cause and is rolling out a fix.</p><p><a href="https://status.lovable.dev/incidents/01M4DEDWGVCKA54R3QN4AJZHCP">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT</link>
-<guid isPermaLink='false'>openai:01M4CR8GCAFC1RYQXZDXAZP2VT:resolved:resolved:minor:2026-10-08T04:51:39+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 05:00:31 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 33m · Opened: Thu, 08 Oct 2026 03:17:40 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

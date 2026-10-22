@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M5GGG3JZ27XS2DMPG2YCXX2M:opened:investigating:minor:2026-10-22T00:34:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M5GGG3JZ27XS2DMPG2YCXX2M",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-22T00:36:58.386582+00:00",
+  "started_at": "2026-10-22T00:34:40+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Deepseek V4.1 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M"
+ },
+ {
   "body": "The issue affecting other Claude models has been resolved.",
   "components": [
    "claude.ai",
@@ -7645,24 +7663,6 @@
   "status": "monitoring",
   "title": "Issues with Codex",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"
- },
- {
-  "body": "We have identified that users are experiencing a codex outage. We have identified the internal issue and are heading towards a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has found the culprit",
-  "id": "openai:01M3DCNWMW57HYK8FJ5FBFPA39:opened:identified:critical:2026-09-25T22:58:48+00:00",
-  "impact": "critical",
-  "incident_id": "01M3DCNWMW57HYK8FJ5FBFPA39",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-25T23:01:01.892549+00:00",
-  "started_at": "2026-09-25T22:58:48+00:00",
-  "status": "identified",
-  "title": "Codex down due to 401 backend key error",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"
  }
 ]
