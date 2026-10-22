@@ -3632,6 +3632,12 @@
    "status": "resolved",
    "updated_at": "2026-07-30T18:41:47.898000+00:00"
   },
+  "github:q29p76qtnkyk": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-22T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-22T14:19:32.591000+00:00"
+  },
   "github:qcvjkzcs7j74": {
    "impact": "critical",
    "last_seen_at": "2026-10-22T00:00:00+00:00",

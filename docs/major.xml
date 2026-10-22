@@ -961,13 +961,5 @@
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Copilot Code Review is unable to complete reviews</strong></p><p>Impact: critical · Status: investigating · Opened: Mon, 28 Sep 2026 21:16:39 +0000</p><p>Revert of the impacted change is in flight, expect full recovery once the deployment is done.</p><p><a href="https://stspg.io/phqvtmdm3y2m">GitHub status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 ElevenLabs lives. Pick your tools back up.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9</link>
-<guid isPermaLink='false'>elevenlabs:01M3M4X6PEC0JQZFKAH0KEHTG9:resolved:resolved:major:2026-09-28T14:39:46+00:00</guid>
-<pubDate>Mon, 28 Sep 2026 14:46:18 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Agents - EU Residency</strong></p><p>Impact: major · Status: resolved · Duration: 42 min · Opened: Mon, 28 Sep 2026 13:57:40 +0000</p><p>We can confirm that the issue has been fixed and that the service is fully operational.</p><p><a href="https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9">ElevenLabs status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

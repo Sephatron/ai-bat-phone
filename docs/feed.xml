@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
+<link>https://stspg.io/44w94j036yc8</link>
+<guid isPermaLink='false'>github:q29p76qtnkyk:opened:investigating:minor:2026-10-22T14:19:32.591000+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 14:30:23 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions Results</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Thu, 22 Oct 2026 14:18:15 +0000</p><p>We’re investigating delays in processing GitHub Actions workflow and step results, along with some repository updates.</p><p><a href="https://stspg.io/44w94j036yc8">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Lovable after 27 min]]></title>
 <link>https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S</link>
 <guid isPermaLink='false'>lovable:01M5HNMH9D2A4GTQCDDZY7GG1S:resolved:resolved:major:2026-10-22T11:50:44+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 20:00:36 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors affecting Opus 5.5</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE, Grok Bot · Opened: Thu, 08 Oct 2026 19:52:44 +0000</p><p>We are investigating a service degradation affecting Opus 5.5. Users may see intermittent errors or failed requests when using Opus 5.5.</p><p><a href="https://stspg.io/g415ws29757p">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4</link>
-<guid isPermaLink='false'>fireworks:01M4EF6AEMPHAR8R6YGFAE6CB4:resolved:resolved:minor:2026-10-08T19:30:48+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 19:45:27 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Thu, 08 Oct 2026 19:17:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4EF6AEMPHAR8R6YGFAE6CB4">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
