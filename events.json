@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project. Our team is investigating.",
+  "components": [],
+  "duration": "36 min",
+  "headline": "🟢 Lovable lives. Pick your tools back up.",
+  "id": "lovable:01M5J9AWZKX27E7GKGC1EC1826:resolved:resolved:major:2026-10-22T17:44:02+00:00",
+  "impact": "major",
+  "incident_id": "01M5J9AWZKX27E7GKGC1EC1826",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-22T17:45:23.797074+00:00",
+  "started_at": "2026-10-22T17:07:58+00:00",
+  "status": "resolved",
+  "title": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project.",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M5J9AWZKX27E7GKGC1EC1826"
+ },
+ {
   "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7647,26 +7665,6 @@
   "status": "resolved",
   "title": "Investigating service degradation — Grok Bot",
   "transition": "resolved",
-  "url": "https://stspg.io/fd5f12qkcsmc"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor has a limp, not a break",
-  "id": "cursor:x2g19tzq27sg:opened:investigating:minor:2026-09-28T20:23:06.085000+00:00",
-  "impact": "minor",
-  "incident_id": "x2g19tzq27sg",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-28T20:31:13.628408+00:00",
-  "started_at": "2026-09-28T20:23:05.963000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "opened",
   "url": "https://stspg.io/fd5f12qkcsmc"
  }
 ]
