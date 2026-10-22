@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M5JABXN0A6HGJ813BK4R14CY:opened:investigating:minor:2026-10-22T17:26:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M5JABXN0A6HGJ813BK4R14CY",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-22T17:30:24.231875+00:00",
+  "started_at": "2026-10-22T17:26:00+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5JABXN0A6HGJ813BK4R14CY"
+ },
+ {
   "body": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project. Our team is investigating.",
   "components": [],
   "duration": "",
@@ -7650,26 +7668,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "opened",
   "url": "https://stspg.io/fd5f12qkcsmc"
- },
- {
-  "body": "We will be performing a database upgrade between 6:00 PM and 7:00 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour for the web application & management API. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.",
-  "components": [
-   "Model Management API",
-   "Web Application"
-  ],
-  "duration": "",
-  "headline": "🔧 Baseten is booking time off: Database Upgrade. Inference will not be affected",
-  "id": "baseten:kxjy1q8tj1l9:opened:scheduled:maintenance:2026-09-28T18:40:33.180000+00:00",
-  "impact": "maintenance",
-  "incident_id": "kxjy1q8tj1l9",
-  "kind": "maintenance",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-28T18:46:13.881079+00:00",
-  "started_at": "2026-09-28T18:40:33.086000+00:00",
-  "status": "scheduled",
-  "title": "Database Upgrade. Inference will not be affected",
-  "transition": "opened",
-  "url": "https://stspg.io/6b2703ymtcrn"
  }
 ]
