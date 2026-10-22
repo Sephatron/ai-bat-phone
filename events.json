@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "55 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M5GGG3JZ27XS2DMPG2YCXX2M:resolved:resolved:minor:2026-10-22T01:30:23+00:00",
+  "impact": "minor",
+  "incident_id": "01M5GGG3JZ27XS2DMPG2YCXX2M",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-22T01:30:25.636859+00:00",
+  "started_at": "2026-10-22T00:34:40+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Deepseek V4.1 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M"
+ },
+ {
   "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7646,23 +7664,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "opened",
   "url": "https://stspg.io/m3kgdhh3lx5l"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M3DCNWMW57HYK8FJ5FBFPA39:progress:monitoring:critical:2026-09-25T23:45:27+00:00",
-  "impact": "critical",
-  "incident_id": "01M3DCNWMW57HYK8FJ5FBFPA39",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-25T23:45:55.176348+00:00",
-  "started_at": "2026-09-25T22:58:48+00:00",
-  "status": "monitoring",
-  "title": "Issues with Codex",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M3DCNWMW57HYK8FJ5FBFPA39"
  }
 ]

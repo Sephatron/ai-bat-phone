@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M</link>
+<guid isPermaLink='false'>fireworks:01M5GGG3JZ27XS2DMPG2YCXX2M:resolved:resolved:minor:2026-10-22T01:30:23+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 01:30:25 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 55 min · Opened: Thu, 22 Oct 2026 00:34:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M</link>
 <guid isPermaLink='false'>fireworks:01M5GGG3JZ27XS2DMPG2YCXX2M:opened:investigating:minor:2026-10-22T00:34:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 05:00:31 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 33m · Opened: Thu, 08 Oct 2026 03:17:40 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is sulking, mildly]]></title>
-<link>https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT</link>
-<guid isPermaLink='false'>openai:01M4CR8GCAFC1RYQXZDXAZP2VT:opened:investigating:minor:2026-10-08T03:17:40+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 03:30:36 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 08 Oct 2026 03:17:40 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
