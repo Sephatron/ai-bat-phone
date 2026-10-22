@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Lovable has gone dark. Nothing you did. Probably.]]></title>
+<link>https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S</link>
+<guid isPermaLink='false'>lovable:01M5HNMH9D2A4GTQCDDZY7GG1S:opened:investigating:major:2026-10-22T11:23:42+00:00</guid>
+<pubDate>Thu, 22 Oct 2026 11:30:23 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Enabling Lovable Cloud on projects is currently failing for some users</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 22 Oct 2026 11:23:42 +0000</p><p>Enabling Lovable Cloud on projects is currently failing for some users. Existing projects and apps already using Lovable Cloud are not affected. Our team is investigating.</p><p><a href="https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD</link>
 <guid isPermaLink='false'>openai:01M5GPE9C4E19HE461P8JAMYXD:resolved:resolved:minor:2026-10-22T08:50:43+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 08 Oct 2026 15:45:42 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agent SIP Conversation Disruption</strong></p><p>Impact: major · Status: resolved · Duration: 24 min · Opened: Thu, 08 Oct 2026 15:19:02 +0000</p><p>We have monitored error metrics and have confirmed that as of 15:15 UTC, we do not see continuing Agent SIP conversation failures. We will conduct an internal investigation and post a full Root Cause Analysis upon conclusion.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 1h 36m]]></title>
-<link>https://stspg.io/4lwl9qsfhlln</link>
-<guid isPermaLink='false'>cursor:x4mnlflpqc4w:resolved:resolved:minor:2026-10-08T15:31:30.018000+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 15:45:42 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Opus 5.5 is Experiencing 429s</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Grok Bot · Duration: 1h 36m · Opened: Thu, 08 Oct 2026 13:54:56 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/4lwl9qsfhlln">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

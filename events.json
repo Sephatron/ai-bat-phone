@@ -1,5 +1,23 @@
 [
  {
+  "body": "Enabling Lovable Cloud on projects is currently failing for some users. Existing projects and apps already using Lovable Cloud are not affected. Our team is investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 Lovable has gone dark. Nothing you did. Probably.",
+  "id": "lovable:01M5HNMH9D2A4GTQCDDZY7GG1S:opened:investigating:major:2026-10-22T11:23:42+00:00",
+  "impact": "major",
+  "incident_id": "01M5HNMH9D2A4GTQCDDZY7GG1S",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-22T11:30:23.455812+00:00",
+  "started_at": "2026-10-22T11:23:42+00:00",
+  "status": "investigating",
+  "title": "Enabling Lovable Cloud on projects is currently failing for some users",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "6h 32m",
@@ -7645,25 +7663,5 @@
   "title": "Agents - EU Residency",
   "transition": "progress",
   "url": "https://status.elevenlabs.io/incidents/01M3M4X6PEC0JQZFKAH0KEHTG9"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Builds"
-  ],
-  "duration": "26 min",
-  "headline": "🟢 Vercel sorted itself out after 26 min",
-  "id": "vercel:yy1sm6x5l83q:resolved:resolved:minor:2026-09-28T14:11:29.973000+00:00",
-  "impact": "minor",
-  "incident_id": "yy1sm6x5l83q",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-09-28T14:16:19.603398+00:00",
-  "started_at": "2026-09-28T13:44:30+00:00",
-  "status": "resolved",
-  "title": "Build failures and 500 errors for functions using Edge runtime",
-  "transition": "resolved",
-  "url": "https://stspg.io/p633qkgvpdsy"
  }
 ]
