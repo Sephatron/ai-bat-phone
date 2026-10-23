@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 22 Oct 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP</link>
+<guid isPermaLink='false'>openai:01M5JHVJVC8WAXB4WRYFMKG6HP:progress:monitoring:minor:2026-10-22T23:45:37+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:25 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 2h 04m]]></title>
 <link>https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 22:00:33 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors on new model builds. Existing models are not affected</strong></p><p>Impact: minor · Status: monitoring · Affects: Model Management API · Opened: Fri, 09 Oct 2026 21:29:06 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/s6lwc065drkt">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Baseten is a bit under the weather]]></title>
-<link>https://stspg.io/s6lwc065drkt</link>
-<guid isPermaLink='false'>baseten:phnxn3p26gfx:opened:investigating:minor:2026-10-09T21:29:06.571000+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 21:45:29 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors on new model builds. Existing models are not affected</strong></p><p>Impact: minor · Status: investigating · Affects: Model Management API · Opened: Fri, 09 Oct 2026 21:29:06 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/s6lwc065drkt">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
