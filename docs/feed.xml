@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 23 Oct 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/zdk3zqt69fnz</link>
+<guid isPermaLink='false'>github:71y513kjvbzh:resolved:resolved:minor:2026-10-23T18:51:24.517000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 19:00:21 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 52m · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/zdk3zqt69fnz</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 10:15:30 +0000</pubDate>
 <category>Groq</category>
 <description><![CDATA[<p><strong>Model Performance or Availability Issue - minimaxai/minimax-m2.7</strong></p><p>Impact: major · Status: identified · Opened: Sat, 10 Oct 2026 10:09:21 +0000</p><p>We have **identified the problem** affecting the enterprise-only **minimaxai/minimax-m2.7** model. The issue was traced to **hardware issues in our data center**. A fix is in progress. Users may still see **failed requests** until the fix completes.</p><p><a href="https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG">Groq status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel is upright again. That took 1h 21m.]]></title>
-<link>https://stspg.io/mz4bqspyxvy7</link>
-<guid isPermaLink='false'>vercel:bpzq72pgngc7:resolved:resolved:major:2026-10-10T01:37:00.920000+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 01:45:27 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: resolved · Affects: Drains, Logs, Observability, Queues, Workflow · Duration: 1h 21m · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>All services have recovered.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

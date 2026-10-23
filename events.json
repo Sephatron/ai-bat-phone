@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "3h 52m",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:71y513kjvbzh:resolved:resolved:minor:2026-10-23T18:51:24.517000+00:00",
+  "impact": "minor",
+  "incident_id": "71y513kjvbzh",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-23T19:00:21.248344+00:00",
+  "started_at": "2026-10-23T14:58:48.741000+00:00",
+  "status": "resolved",
+  "title": "Disruption with Dependabot Alerts",
+  "transition": "resolved",
+  "url": "https://stspg.io/zdk3zqt69fnz"
+ },
+ {
   "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
   "components": [],
   "duration": "",
@@ -7626,24 +7644,6 @@
   "status": "identified",
   "title": "Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures",
   "transition": "progress",
-  "url": "https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462"
- },
- {
-  "body": "We are currently investigating increased latency, conversation failures, and API request failures currently known to affect Agents and STT. These failures may manifest as delays in agent conversations, 429s to STT requests, or conversation failures with the error: \"START node generated a response after progressing\".",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Tools down: ElevenLabs is broken",
-  "id": "elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:opened:investigating:major:2026-09-29T18:49:26+00:00",
-  "impact": "major",
-  "incident_id": "01M3Q8059VPFGJ7QM1C41NN462",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-29T19:01:21.594616+00:00",
-  "started_at": "2026-09-29T18:49:26+00:00",
-  "status": "investigating",
-  "title": "Agents and STT: Increased Latency, Conversation Failures, and STT Failures",
-  "transition": "opened",
   "url": "https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462"
  }
 ]
