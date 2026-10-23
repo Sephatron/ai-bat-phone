@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-23T21:00:00+00:00",
+ "heartbeat": "2026-10-23T22:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -5303,8 +5303,8 @@
   "openai:01M5NAR5GZC5M7D0S7AQ6CGEEN": {
    "impact": "none",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-23T21:30:25+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-23T21:52:07+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
@@ -5891,8 +5891,8 @@
   "replit:ccbb7918-9d81-4c45-914b-5a4d6c24052d": {
    "impact": "minor",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-23T21:17:02+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-23T21:45:52+00:00"
   },
   "replit:ce75d841-d811-4c15-a995-39353b5c3a07": {
    "impact": "minor",

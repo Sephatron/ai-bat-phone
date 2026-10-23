@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 23 Oct 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN</link>
+<guid isPermaLink='false'>openai:01M5NAR5GZC5M7D0S7AQ6CGEEN:progress:monitoring:none:2026-10-23T21:52:07+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 22:00:26 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Help Center Chat Support Degraded</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 23 Oct 2026 21:30:25 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Replit has stopped wobbling]]></title>
+<link>https://status.replit.com/incidents/ccbb7918-9d81-4c45-914b-5a4d6c24052d</link>
+<guid isPermaLink='false'>replit:ccbb7918-9d81-4c45-914b-5a4d6c24052d:resolved:resolved:minor:2026-10-23T22:00:26.325095+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 22:00:26 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Users can't access privately deployed apps</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 23 Oct 2026 21:45:52 +0000</p><p>[Resolved] Users are able to access their private apps again.</p><p><a href="https://status.replit.com/incidents/ccbb7918-9d81-4c45-914b-5a4d6c24052d">Replit status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 OpenAI is having a wobble]]></title>
 <link>https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 13:00:55 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 45m · Opened: Sat, 10 Oct 2026 11:00:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84</link>
-<guid isPermaLink='false'>fireworks:01M4JQGGFHH63JDV2EZHN4DX84:opened:investigating:minor:2026-10-10T11:00:00+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 11:00:38 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 10 Oct 2026 11:00:00 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Groq has identified the problem. Fix pending.]]></title>
-<link>https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG</link>
-<guid isPermaLink='false'>groq:01M4JMKRA4NHDTCXSE2AYQB7SG:opened:identified:major:2026-10-10T10:09:21+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 10:15:30 +0000</pubDate>
-<category>Groq</category>
-<description><![CDATA[<p><strong>Model Performance or Availability Issue - minimaxai/minimax-m2.7</strong></p><p>Impact: major · Status: identified · Opened: Sat, 10 Oct 2026 10:09:21 +0000</p><p>We have **identified the problem** affecting the enterprise-only **minimaxai/minimax-m2.7** model. The issue was traced to **hardware issues in our data center**. A fix is in progress. Users may still see **failed requests** until the fix completes.</p><p><a href="https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG">Groq status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
