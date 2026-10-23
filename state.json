@@ -3626,6 +3626,12 @@
    "status": "resolved",
    "updated_at": "2026-10-21T19:22:52.663000+00:00"
   },
+  "github:ntrfd2jqldn6": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-23T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-23T07:29:03.323000+00:00"
+  },
   "github:nvy2q96mcmyg": {
    "impact": "minor",
    "last_seen_at": "2026-10-23T00:00:00+00:00",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
+<link>https://stspg.io/kmk42jg3v1sm</link>
+<guid isPermaLink='false'>github:ntrfd2jqldn6:opened:investigating:minor:2026-10-23T07:29:03.323000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 07:30:23 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Delayed Actions status check results</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Fri, 23 Oct 2026 07:29:03 +0000</p><p>We are investigating reports of degraded performance for Actions</p><p><a href="https://stspg.io/kmk42jg3v1sm">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H</link>
 <guid isPermaLink='false'>openai:01M5KDJ4079XQTZDSRX40NMN6H:resolved:resolved:none:2026-10-23T05:58:06+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 22:45:29 +0000</pubDate>
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>Elevated API errors and timeouts</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 09 Oct 2026 22:38:51 +0000</p><p>Status: Investigating Users may experience errors or timeouts when making API requests. We are investigating elevated API errors and timeouts. Affected components Computer (Degraded performance) API (Degraded performance) Website (Degraded performance) App (Degraded performance)</p><p><a href="https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://stspg.io/zb0nz52c9qjh</link>
-<guid isPermaLink='false'>cursor:gh45ycs0zs0g:opened:investigating:minor:2026-10-09T22:37:52.823000+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 22:45:29 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Fri, 09 Oct 2026 22:37:52 +0000</p><p>We are investigating a service degradation affecting Cloud Agents and Grok Bot. Some new Cloud Agents and Grok Bot sessions may fail to start.</p><p><a href="https://stspg.io/zb0nz52c9qjh">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

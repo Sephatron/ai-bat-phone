@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Actions",
+  "components": [
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub is sulking, mildly",
+  "id": "github:ntrfd2jqldn6:opened:investigating:minor:2026-10-23T07:29:03.323000+00:00",
+  "impact": "minor",
+  "incident_id": "ntrfd2jqldn6",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-23T07:30:23.050176+00:00",
+  "started_at": "2026-10-23T07:29:03.074000+00:00",
+  "status": "investigating",
+  "title": "Delayed Actions status check results",
+  "transition": "opened",
+  "url": "https://stspg.io/kmk42jg3v1sm"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "2h 17m",
@@ -7636,23 +7656,5 @@
   "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
   "transition": "progress",
   "url": "https://stspg.io/br61xzj05pp5"
- },
- {
-  "body": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out",
-  "components": [],
-  "duration": "",
-  "headline": "📵 AI21 is unreadable — silence here means unknown, not fine",
-  "id": "meta:ai21:unreachable:2026-09-29T14:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "ai21",
-  "provider_name": "AI21",
-  "published_at": "2026-09-29T15:01:06.810479+00:00",
-  "started_at": "2026-09-29T14:00:00+00:00",
-  "status": "unreachable",
-  "title": "AI Bat Phone cannot read AI21's status page",
-  "transition": "unreachable",
-  "url": "https://status.ai21.com"
  }
 ]
