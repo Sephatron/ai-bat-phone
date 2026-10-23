@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "4h 31m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M5JHVJVC8WAXB4WRYFMKG6HP:resolved:resolved:minor:2026-10-23T00:07:55+00:00",
+  "impact": "minor",
+  "incident_id": "01M5JHVJVC8WAXB4WRYFMKG6HP",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-23T00:15:23.756872+00:00",
+  "started_at": "2026-10-22T19:36:53+00:00",
+  "status": "resolved",
+  "title": "New Ad Accounts failing to provision admins",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
@@ -7639,26 +7657,5 @@
   "title": "Metrics degradation in UI and API. **Inference not affected**",
   "transition": "opened",
   "url": "https://stspg.io/883zgz27m3yn"
- },
- {
-  "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
-  "components": [
-   "Model Management API",
-   "Web Application"
-  ],
-  "duration": "",
-  "headline": "🔧 Maintenance underway at Baseten",
-  "id": "baseten:kxjy1q8tj1l9:progress:in_progress:maintenance:2026-09-29T01:00:08.324000+00:00",
-  "impact": "maintenance",
-  "incident_id": "kxjy1q8tj1l9",
-  "kind": "maintenance",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-09-29T01:01:09.594151+00:00",
-  "started_at": "2026-09-28T18:40:33.086000+00:00",
-  "status": "in_progress",
-  "title": "Database Upgrade. Inference will not be affected",
-  "transition": "progress",
-  "url": "https://stspg.io/6b2703ymtcrn"
  }
 ]

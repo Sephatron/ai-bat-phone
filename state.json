@@ -5267,8 +5267,8 @@
   "openai:01M5JHVJVC8WAXB4WRYFMKG6HP": {
    "impact": "minor",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-22T23:45:37+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-23T00:07:55+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

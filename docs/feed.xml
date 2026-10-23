@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP</link>
+<guid isPermaLink='false'>openai:01M5JHVJVC8WAXB4WRYFMKG6HP:resolved:resolved:minor:2026-10-23T00:07:55+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 00:15:23 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 31m · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP</link>
 <guid isPermaLink='false'>openai:01M5JHVJVC8WAXB4WRYFMKG6HP:progress:monitoring:minor:2026-10-22T23:45:37+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 22:00:33 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: investigating · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>We are investigating an issue affecting some ChatGPT workspace administrators’ ability to view and manage plugin availability and settings. Some users may also see plugins as unavailable. We will provide another update as soon as we have more information.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Baseten has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/s6lwc065drkt</link>
-<guid isPermaLink='false'>baseten:phnxn3p26gfx:progress:monitoring:minor:2026-10-09T21:57:55.330000+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 22:00:33 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors on new model builds. Existing models are not affected</strong></p><p>Impact: minor · Status: monitoring · Affects: Model Management API · Opened: Fri, 09 Oct 2026 21:29:06 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/s6lwc065drkt">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
