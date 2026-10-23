@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "36 min",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:ntrfd2jqldn6:resolved:resolved:minor:2026-10-23T08:05:27.388000+00:00",
+  "impact": "minor",
+  "incident_id": "ntrfd2jqldn6",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-23T08:15:25.339061+00:00",
+  "started_at": "2026-10-23T07:29:03.074000+00:00",
+  "status": "resolved",
+  "title": "Delayed Actions status check results",
+  "transition": "resolved",
+  "url": "https://stspg.io/kmk42jg3v1sm"
+ },
+ {
   "body": "As of 07:27 UTC, Actions results are delivering within normal SLOs again. Thank you for this patience during this period of delayed Actions results delivery. Our team continues to monitor system health and explore refinements to reduce impact to customers in the future.",
   "components": [
    "Actions"
@@ -7631,26 +7651,5 @@
   "title": "AI Bat Phone can read AI21's status page again",
   "transition": "recovered",
   "url": "https://status.ai21.com"
- },
- {
-  "body": "The root cause has been identified and a fix is being implemented.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔍 Cursor has found the culprit",
-  "id": "cursor:jb59kzth2pwf:progress:identified:minor:2026-09-29T15:26:33.751000+00:00",
-  "impact": "minor",
-  "incident_id": "jb59kzth2pwf",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-29T15:46:07.550264+00:00",
-  "started_at": "2026-09-29T14:25:00+00:00",
-  "status": "identified",
-  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
-  "transition": "progress",
-  "url": "https://stspg.io/wy1xyqdkppvx"
  }
 ]

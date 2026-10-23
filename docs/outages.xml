@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/kmk42jg3v1sm</link>
+<guid isPermaLink='false'>github:ntrfd2jqldn6:resolved:resolved:minor:2026-10-23T08:05:27.388000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 08:15:25 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Delayed Actions status check results</strong></p><p>Impact: minor · Status: resolved · Affects: Actions · Duration: 36 min · Opened: Fri, 23 Oct 2026 07:29:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/kmk42jg3v1sm">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/kmk42jg3v1sm</link>
 <guid isPermaLink='false'>github:ntrfd2jqldn6:progress:monitoring:minor:2026-10-23T07:56:35.641000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 23:15:31 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 31 min · Opened: Fri, 09 Oct 2026 22:37:52 +0000</p><p>This incident has been resolved. New Cloud Agents and Grok Bot sessions are starting normally again.</p><p><a href="https://stspg.io/zb0nz52c9qjh">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H</link>
-<guid isPermaLink='false'>openai:01M4HA7BCCXVHTR5DCYMSBQF2H:progress:monitoring:major:2026-10-09T22:52:35+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 23:00:31 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: monitoring · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>We are seeing recovery in workspace administrators’ ability to view and manage plugin availability and settings. We are monitoring to ensure service remains stable.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
