@@ -254,6 +254,12 @@
    "status": "resolved",
    "updated_at": "2026-08-14T10:28:22.909000+00:00"
   },
+  "anthropic:h101vcmhnfky": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-23T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-10-23T23:39:22.610000+00:00"
+  },
   "anthropic:hdynq1pc0fn8": {
    "impact": "major",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
@@ -1916,6 +1922,12 @@
    "status": "resolved",
    "updated_at": "2026-10-21T10:37:17.623000+00:00"
   },
+  "cursor:z1rz4fcd48j6": {
+   "impact": "major",
+   "last_seen_at": "2026-10-23T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-23T23:39:03.700000+00:00"
+  },
   "cursor:zsvdfz3gdmk3": {
    "impact": "minor",
    "last_seen_at": "2026-10-06T00:00:00+00:00",
@@ -3571,6 +3583,12 @@
    "last_seen_at": "2026-10-23T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-28T22:10:28.404000+00:00"
+  },
+  "github:khv5nj9qy2kk": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-23T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-23T23:42:06.103000+00:00"
   },
   "github:kk183dslzdzd": {
    "impact": "minor",
@@ -5309,8 +5327,8 @@
   "openai:01M5NFF94XCJ6CGTD4S78A9BEB": {
    "impact": "minor",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-23T23:17:36+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-23T23:43:22+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
