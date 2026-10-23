@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 23 Oct 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 01:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/sx51v1tlpqjc</link>
+<guid isPermaLink='false'>github:wq8305lppdc2:progress:monitoring:minor:2026-10-23T00:55:18.059000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 01:00:24 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Project updates delayed</strong></p><p>Impact: minor · Status: monitoring · Affects: API Requests, Issues, Pull Requests, Actions, Packages · Opened: Thu, 22 Oct 2026 15:28:03 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/sx51v1tlpqjc">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 22:15:29 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>We have implemented a mitigation, and delayed Costs data is now processing through the Compliance API. Some customers may continue to see incomplete Costs data while the backlog catches up. We expect this catch-up process to continue through Sunday, October 11. ChatGPT usage and API Platform requests remain unaffected. We are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: OpenAI is broken]]></title>
-<link>https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H</link>
-<guid isPermaLink='false'>openai:01M4HA7BCCXVHTR5DCYMSBQF2H:opened:investigating:major:2026-10-09T21:48:34+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 22:00:33 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: investigating · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>We are investigating an issue affecting some ChatGPT workspace administrators’ ability to view and manage plugin availability and settings. Some users may also see plugins as unavailable. We will provide another update as soon as we have more information.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
