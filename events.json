@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating the issue for the listed services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is having a wobble",
+  "id": "openai:01M5NFF94XCJ6CGTD4S78A9BEB:opened:investigating:minor:2026-10-23T22:52:56+00:00",
+  "impact": "minor",
+  "incident_id": "01M5NFF94XCJ6CGTD4S78A9BEB",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-23T23:00:19.727206+00:00",
+  "started_at": "2026-10-23T22:52:56+00:00",
+  "status": "investigating",
+  "title": "Degraded experience with ChatGPT app connections using CIMD",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
+ },
+ {
   "body": "[Identified] HubSpot connectors that use Replit’s default configuration are not working. We’ve identified the root cause and are currently working on a fix.",
   "components": [],
   "duration": "",
@@ -7612,23 +7630,5 @@
   "title": "Support available via email",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
- },
- {
-  "body": "We have not seen any further errors after the fix was applied. All services are fully operational and stable. We will post an RCA on our status page after further investigation.",
-  "components": [],
-  "duration": "1h 33m",
-  "headline": "🟢 ElevenLabs is fixed. You may resume being productive.",
-  "id": "elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:resolved:resolved:major:2026-09-29T20:23:14+00:00",
-  "impact": "major",
-  "incident_id": "01M3Q8059VPFGJ7QM1C41NN462",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-29T20:31:08.695893+00:00",
-  "started_at": "2026-09-29T18:49:26+00:00",
-  "status": "resolved",
-  "title": "Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures",
-  "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462"
  }
 ]
