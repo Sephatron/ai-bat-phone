@@ -3773,8 +3773,8 @@
   "github:wq8305lppdc2": {
    "impact": "minor",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-23T00:55:18.059000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-23T02:30:25.279000+00:00"
   },
   "github:wt3hjqcrczfg": {
    "impact": "major",

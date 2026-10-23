@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is fine again]]></title>
+<link>https://stspg.io/sx51v1tlpqjc</link>
+<guid isPermaLink='false'>github:wq8305lppdc2:resolved:resolved:minor:2026-10-23T02:30:25.279000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 02:45:23 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Project updates delayed</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests, Issues, Pull Requests, Actions, Packages · Duration: 11h 02m · Opened: Thu, 22 Oct 2026 15:28:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/sx51v1tlpqjc">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/sx51v1tlpqjc</link>
 <guid isPermaLink='false'>github:wq8305lppdc2:progress:monitoring:minor:2026-10-23T00:55:18.059000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 22:15:29 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors on new model builds. Existing models are not affected</strong></p><p>Impact: minor · Status: resolved · Affects: Model Management API · Duration: 37 min · Opened: Fri, 09 Oct 2026 21:29:06 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/s6lwc065drkt">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R</link>
-<guid isPermaLink='false'>openai:01M4GV1M2A3K38T73JCVCD9G0R:progress:monitoring:minor:2026-10-09T22:03:59+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 22:15:29 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>We have implemented a mitigation, and delayed Costs data is now processing through the Compliance API. Some customers may continue to see incomplete Costs data while the backlog catches up. We expect this catch-up process to continue through Sunday, October 11. ChatGPT usage and API Platform requests remain unaffected. We are monitoring recovery.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
