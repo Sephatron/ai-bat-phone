@@ -857,13 +857,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation - xAI models</strong></p><p>Impact: major · Status: resolved · Affects: CLI, Cloud Agents, IDE, Grok Bot · Duration: 34 min · Opened: Tue, 29 Sep 2026 19:43:08 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/dh24kf0vcpl8">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔍 Cursor has identified the problem. Fix pending.]]></title>
-<link>https://stspg.io/dh24kf0vcpl8</link>
-<guid isPermaLink='false'>cursor:dk1g1h4q8yf8:progress:identified:major:2026-09-29T20:05:09.556000+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 20:16:49 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation - xAI models</strong></p><p>Impact: major · Status: identified · Affects: CLI, Cloud Agents, IDE, Grok Bot · Opened: Tue, 29 Sep 2026 19:43:08 +0000</p><p>We have identified the cause of degraded performance affecting xAI models and are working to restore full capacity. Users may see errors, slow responses, or rate limiting on these models, and some Cloud Agent tasks may fail. We will post another update shortly.</p><p><a href="https://stspg.io/dh24kf0vcpl8">Cursor status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

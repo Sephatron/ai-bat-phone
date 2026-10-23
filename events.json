@@ -1,5 +1,23 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "32 min",
+  "headline": "🟢 OpenAI sorted itself out after 32 min",
+  "id": "openai:01M5NAR5GZC5M7D0S7AQ6CGEEN:resolved:resolved:none:2026-10-23T22:02:57+00:00",
+  "impact": "none",
+  "incident_id": "01M5NAR5GZC5M7D0S7AQ6CGEEN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-23T22:15:20.976901+00:00",
+  "started_at": "2026-10-23T21:30:25+00:00",
+  "status": "resolved",
+  "title": "Help Center Chat Support Degraded",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
@@ -7616,29 +7634,6 @@
   "status": "resolved",
   "title": "Investigating service degradation - xAI models",
   "transition": "resolved",
-  "url": "https://stspg.io/dh24kf0vcpl8"
- },
- {
-  "body": "We have identified the cause of degraded performance affecting xAI models and are working to restore full capacity. Users may see errors, slow responses, or rate limiting on these models, and some Cloud Agent tasks may fail. We will post another update shortly.",
-  "components": [
-   "CLI",
-   "Cloud Agents",
-   "IDE",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔍 Cursor has identified the problem. Fix pending.",
-  "id": "cursor:dk1g1h4q8yf8:progress:identified:major:2026-09-29T20:05:09.556000+00:00",
-  "impact": "major",
-  "incident_id": "dk1g1h4q8yf8",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-29T20:16:49.728520+00:00",
-  "started_at": "2026-09-29T19:43:08.676000+00:00",
-  "status": "identified",
-  "title": "Investigating service degradation - xAI models",
-  "transition": "progress",
   "url": "https://stspg.io/dh24kf0vcpl8"
  }
 ]
