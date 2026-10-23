@@ -1,5 +1,25 @@
 [
  {
+  "body": "As of 07:27 UTC, Actions results are delivering within normal SLOs again. Thank you for this patience during this period of delayed Actions results delivery. Our team continues to monitor system health and explore refinements to reduce impact to customers in the future.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub is on the mend. Don't get comfortable yet.",
+  "id": "github:ntrfd2jqldn6:progress:monitoring:minor:2026-10-23T07:56:35.641000+00:00",
+  "impact": "minor",
+  "incident_id": "ntrfd2jqldn6",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-23T08:00:24.377907+00:00",
+  "started_at": "2026-10-23T07:29:03.074000+00:00",
+  "status": "monitoring",
+  "title": "Delayed Actions status check results",
+  "transition": "progress",
+  "url": "https://stspg.io/kmk42jg3v1sm"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Actions",
   "components": [
    "Actions"
@@ -7632,29 +7652,5 @@
   "title": "Investigating service degradation — Cloud Agents and Grok Bot",
   "transition": "progress",
   "url": "https://stspg.io/wy1xyqdkppvx"
- },
- {
-  "body": "Most services have recovered as of 14:59 UTC. Signing in, starting new chats, voice conversations, Claude Code and Cowork sessions, purchases and file uploads are working again. Some messages sent between 14:00 and 14:59 UTC may not have been saved. We are monitoring closely and will post another update within 30 minutes.",
-  "components": [
-   "claude.ai",
-   "Claude Console (platform.claude.com)",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "👀 Claude has applied a fix and is holding its breath",
-  "id": "anthropic:4xvtc2gnq73l:progress:monitoring:major:2026-09-29T15:11:27.478000+00:00",
-  "impact": "major",
-  "incident_id": "4xvtc2gnq73l",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-29T15:16:06.148924+00:00",
-  "started_at": "2026-09-29T14:21:37.180000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
-  "transition": "progress",
-  "url": "https://stspg.io/br61xzj05pp5"
  }
 ]

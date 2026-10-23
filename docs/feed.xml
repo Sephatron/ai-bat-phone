@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 23 Oct 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/kmk42jg3v1sm</link>
+<guid isPermaLink='false'>github:ntrfd2jqldn6:progress:monitoring:minor:2026-10-23T07:56:35.641000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 08:00:24 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Delayed Actions status check results</strong></p><p>Impact: minor · Status: monitoring · Affects: Actions · Opened: Fri, 23 Oct 2026 07:29:03 +0000</p><p>As of 07:27 UTC, Actions results are delivering within normal SLOs again. Thank you for this patience during this period of delayed Actions results delivery. Our team continues to monitor system health and explore refinements to reduce impact to customers in the future.</p><p><a href="https://stspg.io/kmk42jg3v1sm">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
 <link>https://stspg.io/kmk42jg3v1sm</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 23:15:31 +0000</pubDate>
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>Elevated API errors and timeouts</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 09 Oct 2026 23:10:27 +0000</p><p>Status: Monitoring Correction to our previous updates: we do not believe the API was affected by this incident and it remains operational. Affected components Website (Degraded performance) App (Degraded performance) Computer (Degraded performance) API (Operational)</p><p><a href="https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 31 min]]></title>
-<link>https://stspg.io/zb0nz52c9qjh</link>
-<guid isPermaLink='false'>cursor:gh45ycs0zs0g:resolved:resolved:minor:2026-10-09T23:09:17.472000+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 23:15:31 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents and Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 31 min · Opened: Fri, 09 Oct 2026 22:37:52 +0000</p><p>This incident has been resolved. New Cloud Agents and Grok Bot sessions are starting normally again.</p><p><a href="https://stspg.io/zb0nz52c9qjh">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
