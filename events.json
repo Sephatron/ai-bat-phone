@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re investigating delays in some Dependabot alerts closing after affected repositories have been updated to address a vulnerability. Alert processing is backed up. We’ll share more information as it becomes available.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is having a wobble",
+  "id": "github:71y513kjvbzh:opened:investigating:minor:2026-10-23T15:00:01.748000+00:00",
+  "impact": "minor",
+  "incident_id": "71y513kjvbzh",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-23T15:00:20.652867+00:00",
+  "started_at": "2026-10-23T14:58:48.741000+00:00",
+  "status": "investigating",
+  "title": "Disruption with Dependabot Alerts",
+  "transition": "opened",
+  "url": "https://stspg.io/zdk3zqt69fnz"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
@@ -7627,29 +7645,5 @@
   "title": "Elevated errors across ChatGPT, Codex, and the API",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
- },
- {
-  "body": "The issue affecting Claude.ai, the Claude desktop and mobile apps, Claude Code, Claude Cowork, and the Claude API has been resolved, and services have been operating normally since recovery. Impact occurred from 07:00 PT / 14:00 UTC to 07:59 PT / 14:59 UTC.",
-  "components": [
-   "claude.ai",
-   "Claude Console (platform.claude.com)",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "2h 05m",
-  "headline": "🟢 Claude is fixed. You may resume being productive.",
-  "id": "anthropic:4xvtc2gnq73l:resolved:resolved:major:2026-09-29T16:27:21.393000+00:00",
-  "impact": "major",
-  "incident_id": "4xvtc2gnq73l",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-29T16:31:10.621557+00:00",
-  "started_at": "2026-09-29T14:21:37.180000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
-  "transition": "resolved",
-  "url": "https://stspg.io/br61xzj05pp5"
  }
 ]

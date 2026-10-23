@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 23 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub is having a wobble]]></title>
+<link>https://stspg.io/zdk3zqt69fnz</link>
+<guid isPermaLink='false'>github:71y513kjvbzh:opened:investigating:minor:2026-10-23T15:00:01.748000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 15:00:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>We’re investigating delays in some Dependabot alerts closing after affected repositories have been updated to address a vulnerability. Alert processing is backed up. We’ll share more information as it becomes available.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 09 Oct 2026 23:30:30 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: resolved · Duration: 1h 38m · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Perplexity is fine again]]></title>
-<link>https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN</link>
-<guid isPermaLink='false'>perplexity:01M4HD3DNF1K94CR5D51C37RRN:resolved:resolved:minor:2026-10-09T23:30:30.416112+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 23:30:30 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>Elevated API errors and timeouts</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 09 Oct 2026 23:15:40 +0000</p><p>Status: Resolved The issue affecting the Website, App, and Computer has been resolved. All services are operational. The API remained operational throughout this incident. Affected components Website (Operational) App (Operational) Computer (Operational) API (Operational)</p><p><a href="https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN">Perplexity status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

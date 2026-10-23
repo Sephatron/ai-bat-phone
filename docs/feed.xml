@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 23 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub is having a wobble]]></title>
+<link>https://stspg.io/zdk3zqt69fnz</link>
+<guid isPermaLink='false'>github:71y513kjvbzh:opened:investigating:minor:2026-10-23T15:00:01.748000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 15:00:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>We’re investigating delays in some Dependabot alerts closing after affected repositories have been updated to address a vulnerability. Alert processing is backed up. We’ll share more information as it becomes available.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 00:30:32 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: investigating · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>We've identified an issue where some customers may experience delayed drain delivery, delayed logs, metrics, and traces, and Workflow runs that remain pending in Washington (iad1). We are investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit is fine again]]></title>
-<link>https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525</link>
-<guid isPermaLink='false'>replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:resolved:resolved:minor:2026-10-10T00:15:29.762167+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 00:15:29 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Users unable to top-up</strong></p><p>Impact: minor · Status: resolved · Opened: Sat, 10 Oct 2026 00:02:39 +0000</p><p>[Resolved] Users are able to top up again.</p><p><a href="https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
