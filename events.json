@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Identified] HubSpot connectors that use Replit’s default configuration are not working. We’ve identified the root cause and are currently working on a fix.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Replit knows what it did",
+  "id": "replit:1ae29807-c657-4f26-b194-21f6c7c8ffee:opened:identified:minor:2026-10-23T22:45:18.207248+00:00",
+  "impact": "minor",
+  "incident_id": "1ae29807-c657-4f26-b194-21f6c7c8ffee",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-23T22:45:18.207248+00:00",
+  "started_at": "2026-10-23T22:30:46+00:00",
+  "status": "identified",
+  "title": "Hubspot Connectors is not working",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/1ae29807-c657-4f26-b194-21f6c7c8ffee"
+ },
+ {
   "body": "All impacted services have now fully recovered.",
   "components": [],
   "duration": "32 min",
@@ -7612,28 +7630,5 @@
   "title": "Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures",
   "transition": "resolved",
   "url": "https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "CLI",
-   "Cloud Agents",
-   "IDE",
-   "Grok Bot"
-  ],
-  "duration": "34 min",
-  "headline": "🟢 All clear from Cursor after 34 min",
-  "id": "cursor:dk1g1h4q8yf8:resolved:resolved:major:2026-09-29T20:18:00.885000+00:00",
-  "impact": "major",
-  "incident_id": "dk1g1h4q8yf8",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-29T20:31:08.695893+00:00",
-  "started_at": "2026-09-29T19:43:08.676000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation - xAI models",
-  "transition": "resolved",
-  "url": "https://stspg.io/dh24kf0vcpl8"
  }
 ]
