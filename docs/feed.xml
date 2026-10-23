@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Vercel has stopped wobbling]]></title>
+<link>https://stspg.io/ywxtzgsnw6dn</link>
+<guid isPermaLink='false'>vercel:4lgcbsr7l8xn:resolved:resolved:minor:2026-10-23T17:32:46.920000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 17:45:17 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in Logs and Observability data</strong></p><p>Impact: minor · Status: resolved · Affects: Logs, Observability · Duration: 1h 01m · Opened: Fri, 23 Oct 2026 16:31:02 +0000</p><p>The issue causing delays in Logs and Observability data has been resolved.</p><p><a href="https://stspg.io/ywxtzgsnw6dn">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Vercel has identified the problem. Fix pending.]]></title>
 <link>https://stspg.io/ywxtzgsnw6dn</link>
 <guid isPermaLink='false'>vercel:4lgcbsr7l8xn:opened:identified:minor:2026-10-23T16:31:02.500000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 01:15:41 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: monitoring · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>Delayed Drains deliveries, Observability data, and Build logs have been processed now. We are continuing to monitor and we will provide additional updates as they become available.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Vercel knows what it did]]></title>
-<link>https://stspg.io/mz4bqspyxvy7</link>
-<guid isPermaLink='false'>vercel:bpzq72pgngc7:progress:identified:major:2026-10-10T00:35:51.214000+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 00:45:33 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: identified · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>A fix has been implemented and delivery has resumed. Delayed Drains deliveries and Observability data are being processed. We are continuing to monitor.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
