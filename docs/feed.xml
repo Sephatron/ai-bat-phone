@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/zdk3zqt69fnz</link>
+<guid isPermaLink='false'>github:71y513kjvbzh:progress:monitoring:minor:2026-10-23T18:36:15.079000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 18:45:15 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Vercel has stopped wobbling]]></title>
 <link>https://stspg.io/ywxtzgsnw6dn</link>
 <guid isPermaLink='false'>vercel:4lgcbsr7l8xn:resolved:resolved:minor:2026-10-23T17:32:46.920000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 01:45:27 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: resolved · Affects: Drains, Logs, Observability, Queues, Workflow · Duration: 1h 21m · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>All services have recovered.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Vercel is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/mz4bqspyxvy7</link>
-<guid isPermaLink='false'>vercel:bpzq72pgngc7:progress:monitoring:major:2026-10-10T01:12:35.967000+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 01:15:41 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: monitoring · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>Delayed Drains deliveries, Observability data, and Build logs have been processed now. We are continuing to monitor and we will provide additional updates as they become available.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/zdk3zqt69fnz</link>
+<guid isPermaLink='false'>github:71y513kjvbzh:progress:monitoring:minor:2026-10-23T18:36:15.079000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 18:45:15 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Vercel has stopped wobbling]]></title>
 <link>https://stspg.io/ywxtzgsnw6dn</link>
 <guid isPermaLink='false'>vercel:4lgcbsr7l8xn:resolved:resolved:minor:2026-10-23T17:32:46.920000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 00:45:33 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: identified · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>A fix has been implemented and delivery has resumed. Delayed Drains deliveries and Observability data are being processed. We are continuing to monitor.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
-<link>https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3</link>
-<guid isPermaLink='false'>openai:01M4H7FKXDA425TDNP2CRGEYA3:resolved:resolved:major:2026-10-10T00:26:44+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 00:30:32 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Some ChatGPT content may be unavailable on Android</strong></p><p>Impact: major · Status: resolved · Duration: 3h 26m · Opened: Fri, 09 Oct 2026 21:00:39 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

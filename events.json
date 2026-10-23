@@ -1,5 +1,23 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:71y513kjvbzh:progress:monitoring:minor:2026-10-23T18:36:15.079000+00:00",
+  "impact": "minor",
+  "incident_id": "71y513kjvbzh",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-23T18:45:15.838032+00:00",
+  "started_at": "2026-10-23T14:58:48.741000+00:00",
+  "status": "monitoring",
+  "title": "Disruption with Dependabot Alerts",
+  "transition": "progress",
+  "url": "https://stspg.io/zdk3zqt69fnz"
+ },
+ {
   "body": "The issue causing delays in Logs and Observability data has been resolved.",
   "components": [
    "Logs",
@@ -7627,26 +7645,5 @@
   "title": "Agents and STT: Increased Latency, Conversation Failures, and STT Failures",
   "transition": "opened",
   "url": "https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "3h 40m",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:jb59kzth2pwf:resolved:resolved:minor:2026-09-29T18:05:31.514000+00:00",
-  "impact": "minor",
-  "incident_id": "jb59kzth2pwf",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-09-29T18:16:11.210711+00:00",
-  "started_at": "2026-09-29T14:25:00+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/wy1xyqdkppvx"
  }
 ]
