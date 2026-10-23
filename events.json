@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] Reports of users unable to access private deployments. We are investigating and will provide updates shortly.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Replit is having a wobble",
+  "id": "replit:ccbb7918-9d81-4c45-914b-5a4d6c24052d:opened:investigating:minor:2026-10-23T21:30:19.270695+00:00",
+  "impact": "minor",
+  "incident_id": "ccbb7918-9d81-4c45-914b-5a4d6c24052d",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-23T21:30:19.270695+00:00",
+  "started_at": "2026-10-23T21:17:02+00:00",
+  "status": "investigating",
+  "title": "Users can't access privately deployed apps",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/ccbb7918-9d81-4c45-914b-5a4d6c24052d"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [],
   "duration": "3h 52m",
@@ -7627,23 +7645,5 @@
   "title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
- },
- {
-  "body": "We have isolated the cause of the increased latency and errors, and are working to resolve it. Current evidence suggests that the Sound Effects product and other Creative Platform products may also be affected, but scope and severity of impact to these products remains unclear.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 ElevenLabs knows what it did",
-  "id": "elevenlabs:01M3Q8059VPFGJ7QM1C41NN462:progress:identified:major:2026-09-29T19:39:05+00:00",
-  "impact": "major",
-  "incident_id": "01M3Q8059VPFGJ7QM1C41NN462",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-09-29T19:46:13.296134+00:00",
-  "started_at": "2026-09-29T18:49:26+00:00",
-  "status": "identified",
-  "title": "Agents, STT, and Creative Platform: Increased Latency, Conversation Failures, and STT Failures",
-  "transition": "progress",
-  "url": "https://status.elevenlabs.io/incidents/01M3Q8059VPFGJ7QM1C41NN462"
  }
 ]
