@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M5NFF94XCJ6CGTD4S78A9BEB:progress:monitoring:minor:2026-10-23T23:10:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M5NFF94XCJ6CGTD4S78A9BEB",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-23T23:15:16.597108+00:00",
+  "started_at": "2026-10-23T22:52:56+00:00",
+  "status": "monitoring",
+  "title": "Degraded experience with ChatGPT app connections using CIMD",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
+ },
+ {
   "body": "We are investigating the issue for the listed services.",
   "components": [],
   "duration": "",
@@ -7612,23 +7630,5 @@
   "title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M3Q4HMNP8SZ27DTZKW6F5BJ4:progress:monitoring:none:2026-09-29T21:50:57+00:00",
-  "impact": "none",
-  "incident_id": "01M3Q4HMNP8SZ27DTZKW6F5BJ4",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-29T22:01:09.925708+00:00",
-  "started_at": "2026-09-29T17:49:05+00:00",
-  "status": "monitoring",
-  "title": "Support available via email",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
  }
 ]
