@@ -905,13 +905,5 @@
 <category>SambaNova</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read SambaNova's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
-<link>https://status.ai21.com</link>
-<guid isPermaLink='false'>meta:ai21:recovered:2026-09-29T14:00:00+00:00</guid>
-<pubDate>Tue, 29 Sep 2026 15:46:07 +0000</pubDate>
-<category>AI21</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
