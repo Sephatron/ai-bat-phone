@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating technical issues affecting our customer support systems. Customers may experience longer than usual response times. We are working to restore normal operations.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M5KDJ4079XQTZDSRX40NMN6H:opened:investigating:none:2026-10-23T03:41:03+00:00",
+  "impact": "none",
+  "incident_id": "01M5KDJ4079XQTZDSRX40NMN6H",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-23T03:45:23.833563+00:00",
+  "started_at": "2026-10-23T03:41:03+00:00",
+  "status": "investigating",
+  "title": "Delays in customer support responses",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "API Requests",
@@ -7639,29 +7657,5 @@
   "title": "Investigating service degradation — Cloud Agents and Grok Bot",
   "transition": "opened",
   "url": "https://stspg.io/wy1xyqdkppvx"
- },
- {
-  "body": "We are investigating reports of degraded performance affecting claude.ai, platform.claude.com, the Claude API, Claude Code, and Claude Cowork. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude Console (platform.claude.com)",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔴 Claude has gone dark. Nothing you did. Probably.",
-  "id": "anthropic:4xvtc2gnq73l:opened:investigating:major:2026-09-29T14:30:19.582000+00:00",
-  "impact": "major",
-  "incident_id": "4xvtc2gnq73l",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-09-29T14:31:20.435794+00:00",
-  "started_at": "2026-09-29T14:21:37.180000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
-  "transition": "opened",
-  "url": "https://stspg.io/br61xzj05pp5"
  }
 ]
