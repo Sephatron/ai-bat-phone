@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-10-23</guid>
+<pubDate>Fri, 23 Oct 2026 14:45:17 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D</link>
 <guid isPermaLink='false'>fireworks:01M5MFEKQ7RP38XW628P4ZXZ3D:opened:investigating:minor:2026-10-23T13:33:20+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 00:15:29 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Users unable to top-up</strong></p><p>Impact: minor · Status: resolved · Opened: Sat, 10 Oct 2026 00:02:39 +0000</p><p>[Resolved] Users are able to top up again.</p><p><a href="https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
-<link>https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H</link>
-<guid isPermaLink='false'>openai:01M4HA7BCCXVHTR5DCYMSBQF2H:resolved:resolved:major:2026-10-09T23:26:59+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 23:30:30 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: resolved · Duration: 1h 38m · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

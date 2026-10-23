@@ -1,5 +1,23 @@
 [
  {
+  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
+  "components": [],
+  "duration": "",
+  "headline": "📡 Still watching. Nothing to report.",
+  "id": "meta:all:alive:2026-10-23",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "batphone",
+  "provider_name": "AI Bat Phone",
+  "published_at": "2026-10-23T14:45:17.621955+00:00",
+  "started_at": "2026-10-23T14:45:17.621955+00:00",
+  "status": "alive",
+  "title": "Still watching 21 provider status pages",
+  "transition": "alive",
+  "url": "https://sephatron.github.io/ai-bat-phone"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7633,23 +7651,5 @@
   "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
   "transition": "resolved",
   "url": "https://stspg.io/br61xzj05pp5"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 SambaNova is readable again, so silence here means quiet once more",
-  "id": "meta:sambanova:recovered:2026-09-29T14:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "sambanova",
-  "provider_name": "SambaNova",
-  "published_at": "2026-09-29T15:46:07.550264+00:00",
-  "started_at": "2026-09-29T14:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read SambaNova's status page again",
-  "transition": "recovered",
-  "url": "https://status.sambanova.ai"
  }
 ]
