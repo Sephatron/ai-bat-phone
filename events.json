@@ -1,5 +1,44 @@
 [
  {
+  "body": "We have identified the issue causing delays in Logs and Observability data and are working on a fix. We will provide additional updates as they become available.",
+  "components": [
+   "Logs",
+   "Observability"
+  ],
+  "duration": "",
+  "headline": "🔍 Vercel has identified the problem. Fix pending.",
+  "id": "vercel:4lgcbsr7l8xn:opened:identified:minor:2026-10-23T16:31:02.500000+00:00",
+  "impact": "minor",
+  "incident_id": "4lgcbsr7l8xn",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-10-23T16:45:18.826633+00:00",
+  "started_at": "2026-10-23T16:31:02.346000+00:00",
+  "status": "identified",
+  "title": "Delays in Logs and Observability data",
+  "transition": "opened",
+  "url": "https://stspg.io/ywxtzgsnw6dn"
+ },
+ {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "3h 05m",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M5MFEKQ7RP38XW628P4ZXZ3D:resolved:resolved:minor:2026-10-23T16:38:45+00:00",
+  "impact": "minor",
+  "incident_id": "01M5MFEKQ7RP38XW628P4ZXZ3D",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-23T16:45:18.826633+00:00",
+  "started_at": "2026-10-23T13:33:20+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D"
+ },
+ {
   "body": "We’re investigating delays in some Dependabot alerts closing after affected repositories have been updated to address a vulnerability. Alert processing is backed up. We’ll share more information as it becomes available.",
   "components": [],
   "duration": "",
@@ -7609,41 +7648,5 @@
   "title": "Investigating service degradation — Cloud Agents and Grok Bot",
   "transition": "progress",
   "url": "https://stspg.io/wy1xyqdkppvx"
- },
- {
-  "body": "Our Help Center is available, but support chat remains unavailable. If you need assistance, you can browse the Help Center or email [support@openai.com](mailto:support@openai.com \"support@openai.com\").",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is a bit under the weather",
-  "id": "openai:01M3Q4HMNP8SZ27DTZKW6F5BJ4:opened:investigating:none:2026-09-29T17:55:17+00:00",
-  "impact": "none",
-  "incident_id": "01M3Q4HMNP8SZ27DTZKW6F5BJ4",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-29T18:01:20.581149+00:00",
-  "started_at": "2026-09-29T17:49:05+00:00",
-  "status": "investigating",
-  "title": "Support chat unavailable",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M3Q4HMNP8SZ27DTZKW6F5BJ4"
- },
- {
-  "body": "We’re investigating elevated errors affecting ChatGPT, Codex, and the API. Some users may experience failed requests, difficulty logging in or signing up, and tasks that do not complete. We’ll share updates as we learn more.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is sulking, mildly",
-  "id": "openai:01M3Q4RK1SM4EMK445GGPG7C0N:opened:investigating:minor:2026-09-29T17:52:52+00:00",
-  "impact": "minor",
-  "incident_id": "01M3Q4RK1SM4EMK445GGPG7C0N",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-29T18:01:20.581149+00:00",
-  "started_at": "2026-09-29T17:52:52+00:00",
-  "status": "investigating",
-  "title": "Elevated errors across ChatGPT, Codex, and the API",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
  }
 ]

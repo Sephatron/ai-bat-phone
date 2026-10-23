@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Vercel has identified the problem. Fix pending.]]></title>
+<link>https://stspg.io/ywxtzgsnw6dn</link>
+<guid isPermaLink='false'>vercel:4lgcbsr7l8xn:opened:identified:minor:2026-10-23T16:31:02.500000+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 16:45:18 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in Logs and Observability data</strong></p><p>Impact: minor · Status: identified · Affects: Logs, Observability · Opened: Fri, 23 Oct 2026 16:31:02 +0000</p><p>We have identified the issue causing delays in Logs and Observability data and are working on a fix. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/ywxtzgsnw6dn">Vercel status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D</link>
+<guid isPermaLink='false'>fireworks:01M5MFEKQ7RP38XW628P4ZXZ3D:resolved:resolved:minor:2026-10-23T16:38:45+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 16:45:18 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 05m · Opened: Fri, 23 Oct 2026 13:33:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub is having a wobble]]></title>
 <link>https://stspg.io/zdk3zqt69fnz</link>
 <guid isPermaLink='false'>github:71y513kjvbzh:opened:investigating:minor:2026-10-23T15:00:01.748000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 00:30:32 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: investigating · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>We've identified an issue where some customers may experience delayed drain delivery, delayed logs, metrics, and traces, and Workflow runs that remain pending in Washington (iad1). We are investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit is fine again]]></title>
-<link>https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525</link>
-<guid isPermaLink='false'>replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:resolved:resolved:minor:2026-10-10T00:15:29.762167+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 00:15:29 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Users unable to top-up</strong></p><p>Impact: minor · Status: resolved · Opened: Sat, 10 Oct 2026 00:02:39 +0000</p><p>[Resolved] Users are able to top up again.</p><p><a href="https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
-<link>https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H</link>
-<guid isPermaLink='false'>openai:01M4HA7BCCXVHTR5DCYMSBQF2H:resolved:resolved:major:2026-10-09T23:26:59+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 23:30:30 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: resolved · Duration: 1h 38m · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -3185,8 +3185,8 @@
   "fireworks:01M5MFEKQ7RP38XW628P4ZXZ3D": {
    "impact": "minor",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-23T13:33:20+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-23T16:38:45+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
@@ -3330,7 +3330,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-23T16:11:18.503000+00:00"
+   "updated_at": "2026-10-23T16:43:03.825000+00:00"
   },
   "github:75g5xmzptjqb": {
    "impact": "major",
@@ -6205,6 +6205,12 @@
    "last_seen_at": "2026-10-23T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-10T22:36:10.399000+00:00"
+  },
+  "vercel:4lgcbsr7l8xn": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-23T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-10-23T16:31:02.500000+00:00"
   },
   "vercel:4pv662qvyqhv": {
    "impact": "minor",
