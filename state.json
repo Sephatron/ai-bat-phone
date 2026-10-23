@@ -5300,6 +5300,12 @@
    "status": "resolved",
    "updated_at": "2026-10-23T05:58:06+00:00"
   },
+  "openai:01M5NAR5GZC5M7D0S7AQ6CGEEN": {
+   "impact": "none",
+   "last_seen_at": "2026-10-23T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-23T21:30:25+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",

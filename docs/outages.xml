@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
+<link>https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN</link>
+<guid isPermaLink='false'>openai:01M5NAR5GZC5M7D0S7AQ6CGEEN:opened:investigating:none:2026-10-23T21:30:25+00:00</guid>
+<pubDate>Fri, 23 Oct 2026 21:45:21 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Help Center Chat Support Degraded</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 23 Oct 2026 21:30:25 +0000</p><p>We’re currently experiencing degraded performance with the Help Center chat support experience. While we work to resolve the issue, we recommend contacting our Support team via email at [support@openai.com](mailto:support@openai.com "support@openai.com") for assistance. We apologize for the inconvenience and will provide updates as they become available.</p><p><a href="https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is having a wobble]]></title>
 <link>https://status.replit.com/incidents/ccbb7918-9d81-4c45-914b-5a4d6c24052d</link>
 <guid isPermaLink='false'>replit:ccbb7918-9d81-4c45-914b-5a4d6c24052d:opened:investigating:minor:2026-10-23T21:30:19.270695+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 10 Oct 2026 10:15:30 +0000</pubDate>
 <category>Groq</category>
 <description><![CDATA[<p><strong>Model Performance or Availability Issue - minimaxai/minimax-m2.7</strong></p><p>Impact: major · Status: identified · Opened: Sat, 10 Oct 2026 10:09:21 +0000</p><p>We have **identified the problem** affecting the enterprise-only **minimaxai/minimax-m2.7** model. The issue was traced to **hardware issues in our data center**. A fix is in progress. Users may still see **failed requests** until the fix completes.</p><p><a href="https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG">Groq status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel is upright again. That took 1h 21m.]]></title>
-<link>https://stspg.io/mz4bqspyxvy7</link>
-<guid isPermaLink='false'>vercel:bpzq72pgngc7:resolved:resolved:major:2026-10-10T01:37:00.920000+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 01:45:27 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: resolved · Affects: Drains, Logs, Observability, Queues, Workflow · Duration: 1h 21m · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>All services have recovered.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

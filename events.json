@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re currently experiencing degraded performance with the Help Center chat support experience. While we work to resolve the issue, we recommend contacting our Support team via email at [support@openai.com](mailto:support@openai.com \"support@openai.com\") for assistance. We apologize for the inconvenience and will provide updates as they become available.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is having a wobble",
+  "id": "openai:01M5NAR5GZC5M7D0S7AQ6CGEEN:opened:investigating:none:2026-10-23T21:30:25+00:00",
+  "impact": "none",
+  "incident_id": "01M5NAR5GZC5M7D0S7AQ6CGEEN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-23T21:45:21.607304+00:00",
+  "started_at": "2026-10-23T21:30:25+00:00",
+  "status": "investigating",
+  "title": "Help Center Chat Support Degraded",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN"
+ },
+ {
   "body": "[Investigating] Reports of users unable to access private deployments. We are investigating and will provide updates shortly.",
   "components": [],
   "duration": "",
@@ -7627,23 +7645,5 @@
   "title": "Investigating service degradation - xAI models",
   "transition": "opened",
   "url": "https://stspg.io/dh24kf0vcpl8"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M3Q4RK1SM4EMK445GGPG7C0N:progress:monitoring:minor:2026-09-29T19:39:36+00:00",
-  "impact": "minor",
-  "incident_id": "01M3Q4RK1SM4EMK445GGPG7C0N",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-29T19:46:13.296134+00:00",
-  "started_at": "2026-09-29T17:52:52+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
  }
 ]
