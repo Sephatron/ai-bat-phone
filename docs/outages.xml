@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 23 Oct 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/gqp288t3qzpt</link>
+<guid isPermaLink='false'>anthropic:h101vcmhnfky:progress:monitoring:critical:2026-10-23T23:54:14.825000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:21 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5</strong></p><p>Impact: critical · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Fri, 23 Oct 2026 23:37:42 +0000</p><p>We are seeing success rates return to normal for all affected models, and are continuing to monitor to ensure no further issues.</p><p><a href="https://stspg.io/gqp288t3qzpt">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/gr52z37rn6l2</link>
+<guid isPermaLink='false'>cursor:z1rz4fcd48j6:progress:monitoring:major:2026-10-23T23:50:35.507000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:21 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service outage - Grok models unavailable</strong></p><p>Impact: major · Status: monitoring · Affects: Automations, CLI, Cloud Agents, cursor.com, IDE, Grok Bot · Opened: Fri, 23 Oct 2026 23:39:03 +0000</p><p>A fix has been implemented and Grok models are recovering. We're monitoring to confirm full service restoration.</p><p><a href="https://stspg.io/gr52z37rn6l2">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Claude knows what it did]]></title>
 <link>https://stspg.io/gqp288t3qzpt</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Mon, 12 Oct 2026 04:30:35 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>- DeepSeek 网页=部分中断（DeepSeek Web Partially Unavailable）</strong></p><p>Impact: minor · Status: resolved · Affects: 对话服务(Chatservice) · Opened: Mon, 12 Oct 2026 04:05:12 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7103794822287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 DeepSeek is having a wobble]]></title>
-<link>https://status.deepseek.com/incidents/7103794822287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7103794822287:opened:investigating:minor:2026-10-12T04:15:42.208384+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 04:15:42 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>- DeepSeek 网页=部分中断（DeepSeek Web Partially Unavailable）</strong></p><p>Impact: minor · Status: investigating · Affects: 对话服务(Chatservice) · Opened: Mon, 12 Oct 2026 04:05:12 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7103794822287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Groq has stopped wobbling]]></title>
-<link>https://groqstatus.com/incidents/01M4Q2YY67TVYM451RE835DJAK</link>
-<guid isPermaLink='false'>groq:01M4Q2YY67TVYM451RE835DJAK:resolved:resolved:minor:2026-10-12T04:00:32+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 04:00:43 +0000</pubDate>
-<category>Groq</category>
-<description><![CDATA[<p><strong>GroqCloud Console Errors Affecting Multiple Regions</strong></p><p>Impact: minor · Status: resolved · Duration: 23 min · Opened: Mon, 12 Oct 2026 03:37:05 +0000</p><p>The **Groqcloud console issue has been resolved**. All services are operating normally. We apologize for the disruption and **appreciate your patience**.</p><p><a href="https://groqstatus.com/incidents/01M4Q2YY67TVYM451RE835DJAK">Groq status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

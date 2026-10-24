@@ -1,5 +1,53 @@
 [
  {
+  "body": "We are seeing success rates return to normal for all affected models, and are continuing to monitor to ensure no further issues.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:h101vcmhnfky:progress:monitoring:critical:2026-10-23T23:54:14.825000+00:00",
+  "impact": "critical",
+  "incident_id": "h101vcmhnfky",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-24T00:00:21.893551+00:00",
+  "started_at": "2026-10-23T23:37:42.659000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
+  "transition": "progress",
+  "url": "https://stspg.io/gqp288t3qzpt"
+ },
+ {
+  "body": "A fix has been implemented and Grok models are recovering. We're monitoring to confirm full service restoration.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "cursor.com",
+   "IDE",
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
+  "id": "cursor:z1rz4fcd48j6:progress:monitoring:major:2026-10-23T23:50:35.507000+00:00",
+  "impact": "major",
+  "incident_id": "z1rz4fcd48j6",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-24T00:00:21.893551+00:00",
+  "started_at": "2026-10-23T23:39:03.345000+00:00",
+  "status": "monitoring",
+  "title": "Investigating service outage - Grok models unavailable",
+  "transition": "progress",
+  "url": "https://stspg.io/gr52z37rn6l2"
+ },
+ {
   "body": "We have identified the cause of elevated errors on requests to Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5, as well as fast mode requests to Opus 5.5 and are working on a fix. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7608,41 +7656,5 @@
   "title": "Elevated latency for some API requests",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "7h 35m",
-  "headline": "🟢 OpenAI sorted itself out after 7h 35m",
-  "id": "openai:01M3RDNY37CAPQGRKPBVMNRT4K:resolved:resolved:minor:2026-09-30T13:23:37+00:00",
-  "impact": "minor",
-  "incident_id": "01M3RDNY37CAPQGRKPBVMNRT4K",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-30T13:31:05.436117+00:00",
-  "started_at": "2026-09-30T05:47:57+00:00",
-  "status": "resolved",
-  "title": "Elevated error rates for ChatGPT Pro and Plus users",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M3RDNY37CAPQGRKPBVMNRT4K"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M3R1T4FCR1337FBBYY9K2RPB:progress:monitoring:minor:2026-09-30T06:03:10+00:00",
-  "impact": "minor",
-  "incident_id": "01M3R1T4FCR1337FBBYY9K2RPB",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-30T06:16:17.593626+00:00",
-  "started_at": "2026-09-30T02:20:32+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors in ChatGPT Space Pages",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB"
  }
 ]

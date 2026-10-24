@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 23 Oct 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/gqp288t3qzpt</link>
+<guid isPermaLink='false'>anthropic:h101vcmhnfky:progress:monitoring:critical:2026-10-23T23:54:14.825000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:21 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5</strong></p><p>Impact: critical · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Fri, 23 Oct 2026 23:37:42 +0000</p><p>We are seeing success rates return to normal for all affected models, and are continuing to monitor to ensure no further issues.</p><p><a href="https://stspg.io/gqp288t3qzpt">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/gr52z37rn6l2</link>
+<guid isPermaLink='false'>cursor:z1rz4fcd48j6:progress:monitoring:major:2026-10-23T23:50:35.507000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:21 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service outage - Grok models unavailable</strong></p><p>Impact: major · Status: monitoring · Affects: Automations, CLI, Cloud Agents, cursor.com, IDE, Grok Bot · Opened: Fri, 23 Oct 2026 23:39:03 +0000</p><p>A fix has been implemented and Grok models are recovering. We're monitoring to confirm full service restoration.</p><p><a href="https://stspg.io/gr52z37rn6l2">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Claude knows what it did]]></title>
 <link>https://stspg.io/gqp288t3qzpt</link>
