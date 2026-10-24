@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved",
+  "components": [],
+  "duration": "18 min",
+  "headline": "🟢 All clear from Lovable after 18 min",
+  "id": "lovable:01M5Q303XS2X2S2K2RAV6PQYK5:resolved:resolved:major:2026-10-24T14:12:05+00:00",
+  "impact": "major",
+  "incident_id": "01M5Q303XS2X2S2K2RAV6PQYK5",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-24T14:15:16.977596+00:00",
+  "started_at": "2026-10-24T13:53:25+00:00",
+  "status": "resolved",
+  "title": "Chat and project changes are currently failing for some users",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5"
+ },
+ {
   "body": "Chat and project changes are currently failing for some users. Our team has identified the cause and is working on a fix.",
   "components": [],
   "duration": "",
@@ -7666,24 +7684,6 @@
   "status": "resolved",
   "title": "Elevated request latency",
   "transition": "resolved",
-  "url": "https://stspg.io/cz0ngh11q0tf"
- },
- {
-  "body": "We are investigating recurrent periods of elevated latency affecting web requests. We’ll share updates as more information becomes available.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 GitHub is a bit under the weather",
-  "id": "github:c8466lzvnmsv:opened:investigating:minor:2026-10-01T13:39:10.097000+00:00",
-  "impact": "minor",
-  "incident_id": "c8466lzvnmsv",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-01T13:46:10.915090+00:00",
-  "started_at": "2026-10-01T13:37:33.060000+00:00",
-  "status": "investigating",
-  "title": "Elevated request latency",
-  "transition": "opened",
   "url": "https://stspg.io/cz0ngh11q0tf"
  }
 ]

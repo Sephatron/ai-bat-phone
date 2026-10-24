@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from Lovable after 18 min]]></title>
+<link>https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5</link>
+<guid isPermaLink='false'>lovable:01M5Q303XS2X2S2K2RAV6PQYK5:resolved:resolved:major:2026-10-24T14:12:05+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 14:15:16 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Chat and project changes are currently failing for some users</strong></p><p>Impact: major · Status: resolved · Duration: 18 min · Opened: Sat, 24 Oct 2026 13:53:25 +0000</p><p>This incident has been resolved</p><p><a href="https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
 <link>https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5</link>
 <guid isPermaLink='false'>lovable:01M5Q303XS2X2S2K2RAV6PQYK5:opened:investigating:major:2026-10-24T13:53:25+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 12 Oct 2026 16:15:40 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: resolved · Duration: 2d 22h · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Vercel has found the culprit]]></title>
-<link>https://stspg.io/cfrfjg8fqxfr</link>
-<guid isPermaLink='false'>vercel:sps6n39gm4sg:progress:identified:major:2026-10-12T14:08:54.969000+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 14:15:29 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: identified · Affects: Builds, Git Integrations · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>We have identified the issue and are working on a fix. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
