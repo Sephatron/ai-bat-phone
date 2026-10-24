@@ -122,6 +122,12 @@
    "status": "resolved",
    "updated_at": "2026-09-10T23:24:22.994000+00:00"
   },
+  "anthropic:3cqf3pmlnr96": {
+   "impact": "major",
+   "last_seen_at": "2026-10-24T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-24T00:37:17.836000+00:00"
+  },
   "anthropic:3g3d55q6vk3h": {
    "impact": "minor",
    "last_seen_at": "2026-10-24T00:00:00+00:00",
