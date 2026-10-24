@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Claude knows what it did]]></title>
+<link>https://stspg.io/7n1wgb6qsfly</link>
+<guid isPermaLink='false'>anthropic:0ns5clsk8p2x:opened:identified:major:2026-10-24T05:24:53.032000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 05:30:18 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for other Claude models</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sat, 24 Oct 2026 05:16:50 +0000</p><p>We have identified the cause of elevated errors on requests to other Claude models and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/7n1wgb6qsfly">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/gr52z37rn6l2</link>
 <guid isPermaLink='false'>cursor:z1rz4fcd48j6:resolved:resolved:major:2026-10-24T00:20:25.053000+00:00</guid>
