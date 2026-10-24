@@ -1,5 +1,23 @@
 [
  {
+  "body": "Chat and project changes are currently failing for some users. Our team has identified the cause and is working on a fix.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 Lovable is on the floor. Kettle on, grass outside.",
+  "id": "lovable:01M5Q303XS2X2S2K2RAV6PQYK5:opened:investigating:major:2026-10-24T13:53:25+00:00",
+  "impact": "major",
+  "incident_id": "01M5Q303XS2X2S2K2RAV6PQYK5",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-10-24T14:00:16.806236+00:00",
+  "started_at": "2026-10-24T13:53:25+00:00",
+  "status": "investigating",
+  "title": "Chat and project changes are currently failing for some users",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5"
+ },
+ {
   "body": "The issue affecting Claude services has been resolved. Impact occurred from 22:00 PT on October 23 / 05:00 UTC on October 24 to 22:35 PT on October 23 / 05:35 UTC on October 24.",
   "components": [
    "claude.ai",
@@ -7667,23 +7685,5 @@
   "title": "Elevated request latency",
   "transition": "opened",
   "url": "https://stspg.io/cz0ngh11q0tf"
- },
- {
-  "body": "[Investigating] Some users are unable to load their integrations page to access their connections. Our engineers are investigating, and we’ll share an update as more information becomes available.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is having a wobble",
-  "id": "replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:opened:investigating:minor:2026-10-01T13:31:07.861677+00:00",
-  "impact": "minor",
-  "incident_id": "c82b0c1b-6a67-48ab-ba9a-4544ae038cc4",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-01T13:31:07.861677+00:00",
-  "started_at": "2026-10-01T13:30:55+00:00",
-  "status": "investigating",
-  "title": "Issue loading integrations page",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4"
  }
 ]

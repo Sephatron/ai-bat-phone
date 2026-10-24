@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 24 Oct 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
+<link>https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5</link>
+<guid isPermaLink='false'>lovable:01M5Q303XS2X2S2K2RAV6PQYK5:opened:investigating:major:2026-10-24T13:53:25+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 14:00:16 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Chat and project changes are currently failing for some users</strong></p><p>Impact: major · Status: investigating · Opened: Sat, 24 Oct 2026 13:53:25 +0000</p><p>Chat and project changes are currently failing for some users. Our team has identified the cause and is working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Claude lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/7n1wgb6qsfly</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 12 Oct 2026 18:15:38 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 5h 18m · Opened: Mon, 12 Oct 2026 12:48:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4R2G9TQKNY1RTGRKZQ5CA19">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R</link>
-<guid isPermaLink='false'>openai:01M4GV1M2A3K38T73JCVCD9G0R:resolved:resolved:minor:2026-10-12T16:02:47+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 16:15:40 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: resolved · Duration: 2d 22h · Opened: Fri, 09 Oct 2026 17:23:18 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
