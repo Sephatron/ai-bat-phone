@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/gqp288t3qzpt</link>
+<guid isPermaLink='false'>anthropic:h101vcmhnfky:resolved:resolved:critical:2026-10-24T00:11:20.902000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 00:15:18 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5</strong></p><p>Impact: critical · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 33 min · Opened: Fri, 23 Oct 2026 23:37:42 +0000</p><p>The issue affecting Claude models has been resolved. Impact occurred from 16:28 PT / 23:28 UTC on October 23 to 16:59 PT / 23:59 UTC on October 23.</p><p><a href="https://stspg.io/gqp288t3qzpt">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/gqp288t3qzpt</link>
 <guid isPermaLink='false'>anthropic:h101vcmhnfky:progress:monitoring:critical:2026-10-23T23:54:14.825000+00:00</guid>

@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting Claude models has been resolved. Impact occurred from 16:28 PT / 23:28 UTC on October 23 to 16:59 PT / 23:59 UTC on October 23.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "33 min",
+  "headline": "🟢 Claude is back. Grass sufficiently touched.",
+  "id": "anthropic:h101vcmhnfky:resolved:resolved:critical:2026-10-24T00:11:20.902000+00:00",
+  "impact": "critical",
+  "incident_id": "h101vcmhnfky",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-24T00:15:18.806505+00:00",
+  "started_at": "2026-10-23T23:37:42.659000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
+  "transition": "resolved",
+  "url": "https://stspg.io/gqp288t3qzpt"
+ },
+ {
   "body": "We are seeing success rates return to normal for all affected models, and are continuing to monitor to ensure no further issues.",
   "components": [
    "claude.ai",
@@ -7637,24 +7660,6 @@
   "status": "monitoring",
   "title": "Elevated latency for some API requests",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR"
- },
- {
-  "body": "We have identified that users are experiencing elevated latency for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI knows what it did",
-  "id": "openai:01M3SMF1Q0TDCQVNYSXYG37QMR:opened:identified:minor:2026-09-30T17:13:13+00:00",
-  "impact": "minor",
-  "incident_id": "01M3SMF1Q0TDCQVNYSXYG37QMR",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-30T17:16:15.912134+00:00",
-  "started_at": "2026-09-30T17:05:46+00:00",
-  "status": "identified",
-  "title": "Elevated latency for some API requests",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR"
  }
 ]

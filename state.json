@@ -257,8 +257,8 @@
   "anthropic:h101vcmhnfky": {
    "impact": "critical",
    "last_seen_at": "2026-10-24T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-23T23:54:14.825000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-24T00:11:20.902000+00:00"
   },
   "anthropic:hdynq1pc0fn8": {
    "impact": "major",
