@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub sorted itself out after 41 min]]></title>
+<link>https://stspg.io/9hysn9g59lpg</link>
+<guid isPermaLink='false'>github:khv5nj9qy2kk:resolved:resolved:minor:2026-10-24T00:23:32.714000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 00:30:17 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Grok 4.6 and Grok 4.7 Service Issues</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 41 min · Opened: Fri, 23 Oct 2026 23:41:54 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/9hysn9g59lpg">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Cursor is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/gr52z37rn6l2</link>
+<guid isPermaLink='false'>cursor:z1rz4fcd48j6:resolved:resolved:major:2026-10-24T00:20:25.053000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 00:30:17 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating service outage - Grok models unavailable</strong></p><p>Impact: major · Status: resolved · Affects: Automations, CLI, Cloud Agents, cursor.com, IDE, Grok Bot · Duration: 41 min · Opened: Fri, 23 Oct 2026 23:39:03 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gr52z37rn6l2">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/gqp288t3qzpt</link>
 <guid isPermaLink='false'>anthropic:h101vcmhnfky:resolved:resolved:critical:2026-10-24T00:11:20.902000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Mon, 12 Oct 2026 10:00:39 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 12 Oct 2026 09:59:00 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4QRT81D2BD09R1X6YF4Q5TY">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
-<link>https://status.deepseek.com/incidents/7104277696287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7104277696287:resolved:resolved:minor:2026-10-12T07:00:49.103702+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 07:00:49 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice) · Opened: Mon, 12 Oct 2026 06:42:23 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7104277696287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 DeepSeek is sulking, mildly]]></title>
-<link>https://status.deepseek.com/incidents/7104277696287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7104277696287:opened:investigating:minor:2026-10-12T06:45:34.598517+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 06:45:34 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: investigating · Affects: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice) · Opened: Mon, 12 Oct 2026 06:42:23 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7104277696287">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

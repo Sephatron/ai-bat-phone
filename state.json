@@ -1925,8 +1925,8 @@
   "cursor:z1rz4fcd48j6": {
    "impact": "major",
    "last_seen_at": "2026-10-24T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-23T23:50:35.507000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-24T00:20:25.053000+00:00"
   },
   "cursor:zsvdfz3gdmk3": {
    "impact": "minor",
@@ -3587,8 +3587,8 @@
   "github:khv5nj9qy2kk": {
    "impact": "minor",
    "last_seen_at": "2026-10-24T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-23T23:42:06.103000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-24T00:23:32.714000+00:00"
   },
   "github:kk183dslzdzd": {
    "impact": "minor",

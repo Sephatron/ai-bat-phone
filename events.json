@@ -1,5 +1,50 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "41 min",
+  "headline": "🟢 GitHub sorted itself out after 41 min",
+  "id": "github:khv5nj9qy2kk:resolved:resolved:minor:2026-10-24T00:23:32.714000+00:00",
+  "impact": "minor",
+  "incident_id": "khv5nj9qy2kk",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-24T00:30:17.338876+00:00",
+  "started_at": "2026-10-23T23:41:54.214000+00:00",
+  "status": "resolved",
+  "title": "Grok 4.6 and Grok 4.7 Service Issues",
+  "transition": "resolved",
+  "url": "https://stspg.io/9hysn9g59lpg"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "cursor.com",
+   "IDE",
+   "Grok Bot"
+  ],
+  "duration": "41 min",
+  "headline": "🟢 Cursor is fixed. You may resume being productive.",
+  "id": "cursor:z1rz4fcd48j6:resolved:resolved:major:2026-10-24T00:20:25.053000+00:00",
+  "impact": "major",
+  "incident_id": "z1rz4fcd48j6",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-24T00:30:17.338876+00:00",
+  "started_at": "2026-10-23T23:39:03.345000+00:00",
+  "status": "resolved",
+  "title": "Investigating service outage - Grok models unavailable",
+  "transition": "resolved",
+  "url": "https://stspg.io/gr52z37rn6l2"
+ },
+ {
   "body": "The issue affecting Claude models has been resolved. Impact occurred from 16:28 PT / 23:28 UTC on October 23 to 16:59 PT / 23:59 UTC on October 23.",
   "components": [
    "claude.ai",
@@ -7625,41 +7670,5 @@
   "title": "Service Degradation for Deepseek V4.1 Flash",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M3V0K7EY3S7XWB112GR1V0D9"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "3h 30m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M3SMF1Q0TDCQVNYSXYG37QMR:resolved:resolved:minor:2026-09-30T20:35:46+00:00",
-  "impact": "minor",
-  "incident_id": "01M3SMF1Q0TDCQVNYSXYG37QMR",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-30T20:46:11.425148+00:00",
-  "started_at": "2026-09-30T17:05:46+00:00",
-  "status": "resolved",
-  "title": "Elevated latency for some API requests",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M3SMF1Q0TDCQVNYSXYG37QMR:progress:monitoring:minor:2026-09-30T18:21:53+00:00",
-  "impact": "minor",
-  "incident_id": "01M3SMF1Q0TDCQVNYSXYG37QMR",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-09-30T18:24:14.945697+00:00",
-  "started_at": "2026-09-30T17:05:46+00:00",
-  "status": "monitoring",
-  "title": "Elevated latency for some API requests",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M3SMF1Q0TDCQVNYSXYG37QMR"
  }
 ]
