@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/7n1wgb6qsfly</link>
+<guid isPermaLink='false'>anthropic:0ns5clsk8p2x:progress:monitoring:major:2026-10-24T05:41:17.492000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 05:45:18 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5 and Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sat, 24 Oct 2026 05:16:50 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/7n1wgb6qsfly">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude knows what it did]]></title>
 <link>https://stspg.io/7n1wgb6qsfly</link>
 <guid isPermaLink='false'>anthropic:0ns5clsk8p2x:opened:identified:major:2026-10-24T05:24:53.032000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 12 Oct 2026 13:00:36 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 12 Oct 2026 12:48:20 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4R2G9TQKNY1RTGRKZQ5CA19">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
-<link>https://stspg.io/flldq0dn2wdz</link>
-<guid isPermaLink='false'>github:93njd414rpbx:opened:investigating:minor:2026-10-12T12:21:48.118000+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 12:30:37 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions, Pull Requests and Issues</strong></p><p>Impact: minor · Status: investigating · Affects: Issues, Pull Requests, Actions · Opened: Mon, 12 Oct 2026 12:21:47 +0000</p><p>We are investigating reports of degraded performance for Actions, Issues and Pull Requests</p><p><a href="https://stspg.io/flldq0dn2wdz">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

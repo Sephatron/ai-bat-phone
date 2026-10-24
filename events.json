@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:0ns5clsk8p2x:progress:monitoring:major:2026-10-24T05:41:17.492000+00:00",
+  "impact": "major",
+  "incident_id": "0ns5clsk8p2x",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-24T05:45:18.182998+00:00",
+  "started_at": "2026-10-24T05:16:50.579000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Fable 5 and Claude Fable 5.1",
+  "transition": "progress",
+  "url": "https://stspg.io/7n1wgb6qsfly"
+ },
+ {
   "body": "We have identified the cause of elevated errors on requests to other Claude models and are working on a fix. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7656,24 +7679,6 @@
   "status": "resolved",
   "title": "Issues with image generation and editing",
   "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M3VDS1P1660F615AGEYJAQGH"
- },
- {
-  "body": "Image generation and image editing in the Lovable chat are failing for some users. Image features in apps built with Lovable are not affected. We're working on a fix.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Lovable",
-  "id": "lovable:01M3VDS1P1660F615AGEYJAQGH:opened:investigating:minor:2026-10-01T09:47:22+00:00",
-  "impact": "minor",
-  "incident_id": "01M3VDS1P1660F615AGEYJAQGH",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-01T10:01:20.776236+00:00",
-  "started_at": "2026-10-01T09:47:22+00:00",
-  "status": "investigating",
-  "title": "Issues with image generation and editing",
-  "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M3VDS1P1660F615AGEYJAQGH"
  }
 ]

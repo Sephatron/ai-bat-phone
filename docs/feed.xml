@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/7n1wgb6qsfly</link>
+<guid isPermaLink='false'>anthropic:0ns5clsk8p2x:progress:monitoring:major:2026-10-24T05:41:17.492000+00:00</guid>
+<pubDate>Sat, 24 Oct 2026 05:45:18 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5 and Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sat, 24 Oct 2026 05:16:50 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/7n1wgb6qsfly">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude knows what it did]]></title>
 <link>https://stspg.io/7n1wgb6qsfly</link>
 <guid isPermaLink='false'>anthropic:0ns5clsk8p2x:opened:identified:major:2026-10-24T05:24:53.032000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 12 Oct 2026 14:15:29 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: identified · Affects: Builds, Git Integrations · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>We have identified the issue and are working on a fix. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Vercel has downed tools — and so, probably, have you]]></title>
-<link>https://stspg.io/cfrfjg8fqxfr</link>
-<guid isPermaLink='false'>vercel:sps6n39gm4sg:opened:investigating:major:2026-10-12T13:35:07.542000+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 13:45:29 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: investigating · Affects: Builds, Git Integrations · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>We've identified an issue where some customers may experience build failures or deployments that fail to start. We are investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
