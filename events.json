@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting Claude services has been resolved. Impact occurred from 23:05 PT on October 24 / 06:05 UTC on October 25 to 23:35 PT on October 24 / 06:35 UTC on October 25.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "1h 39m",
+  "headline": "🟢 All clear from Claude after 1h 39m",
+  "id": "anthropic:334jvgbrc4ff:resolved:resolved:major:2026-10-25T07:53:39.036000+00:00",
+  "impact": "major",
+  "incident_id": "334jvgbrc4ff",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-25T08:00:22.735526+00:00",
+  "started_at": "2026-10-25T06:14:18.088000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Claude Sonnet 5.5 and other models",
+  "transition": "resolved",
+  "url": "https://stspg.io/s3wd6gmdsdhn"
+ },
+ {
   "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
   "components": [
    "claude.ai",
@@ -7675,26 +7698,6 @@
   "published_at": "2026-10-01T15:23:12.061831+00:00",
   "started_at": "2026-10-01T14:47:48.132000+00:00",
   "status": "investigating",
-  "title": "Actions Job Delays",
-  "transition": "progress",
-  "url": "https://stspg.io/kdqxfjn5qg6q"
- },
- {
-  "body": "The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.",
-  "components": [
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
-  "id": "github:2dpbcq5j165n:progress:monitoring:minor:2026-10-01T15:10:52.250000+00:00",
-  "impact": "minor",
-  "incident_id": "2dpbcq5j165n",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-01T15:16:13.463720+00:00",
-  "started_at": "2026-10-01T14:47:48.132000+00:00",
-  "status": "monitoring",
   "title": "Actions Job Delays",
   "transition": "progress",
   "url": "https://stspg.io/kdqxfjn5qg6q"
