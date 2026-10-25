@@ -1,5 +1,28 @@
 [
  {
+  "body": "We have identified the cause of elevated errors on requests to Claude Sonnet 5.5 and are working on a fix. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔍 Claude has identified the problem. Fix pending.",
+  "id": "anthropic:334jvgbrc4ff:progress:identified:major:2026-10-25T06:27:52.090000+00:00",
+  "impact": "major",
+  "incident_id": "334jvgbrc4ff",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-25T06:30:20.289897+00:00",
+  "started_at": "2026-10-25T06:14:18.088000+00:00",
+  "status": "identified",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "progress",
+  "url": "https://stspg.io/s3wd6gmdsdhn"
+ },
+ {
   "body": "We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, Claude Opus 5.5, Claude Sonnet 5.5, and Claude Haiku 5.5. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7670,25 +7693,5 @@
   "title": "Issue loading integrations page",
   "transition": "resolved",
   "url": "https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4"
- },
- {
-  "body": "We have identified the cause of increased Actions run start delays on Ubuntu runners and are actively deploying a fix. Customers may continue to experience intermittent delays while the mitigation rolls out and service metrics return to normal.",
-  "components": [
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub has a limp, not a break",
-  "id": "github:2dpbcq5j165n:opened:investigating:minor:2026-10-01T14:54:13.104000+00:00",
-  "impact": "minor",
-  "incident_id": "2dpbcq5j165n",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-01T15:01:05.237150+00:00",
-  "started_at": "2026-10-01T14:47:48.132000+00:00",
-  "status": "investigating",
-  "title": "Actions Job Delays",
-  "transition": "opened",
-  "url": "https://stspg.io/kdqxfjn5qg6q"
  }
 ]
