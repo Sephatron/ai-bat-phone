@@ -1,5 +1,28 @@
 [
  {
+  "body": "We have identified the cause of elevated errors on requests to Claude Fable 5.1 and are working on a fix. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔍 Claude has identified the problem. Fix pending.",
+  "id": "anthropic:vx06kp8wfpq2:opened:identified:major:2026-10-25T08:17:18.956000+00:00",
+  "impact": "major",
+  "incident_id": "vx06kp8wfpq2",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-25T08:30:21.252347+00:00",
+  "started_at": "2026-10-25T08:17:08.277000+00:00",
+  "status": "identified",
+  "title": "Elevated errors for Claude Fable 5.1",
+  "transition": "opened",
+  "url": "https://stspg.io/y0gkl12ztjst"
+ },
+ {
   "body": "The issue affecting Claude services has been resolved. Impact occurred from 23:05 PT on October 24 / 06:05 UTC on October 25 to 23:35 PT on October 24 / 06:35 UTC on October 25.",
   "components": [
    "claude.ai",
@@ -7681,25 +7704,5 @@
   "title": "Degraded performance on the Claude API and platform.claude.com",
   "transition": "opened",
   "url": "https://stspg.io/jg26d0skzh27"
- },
- {
-  "body": "Actions is experiencing degraded performance. We are continuing to investigate.",
-  "components": [
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub: Actions Job Delays",
-  "id": "github:2dpbcq5j165n:progress:investigating:minor:2026-10-01T15:20:46.092000+00:00",
-  "impact": "minor",
-  "incident_id": "2dpbcq5j165n",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-01T15:23:12.061831+00:00",
-  "started_at": "2026-10-01T14:47:48.132000+00:00",
-  "status": "investigating",
-  "title": "Actions Job Delays",
-  "transition": "progress",
-  "url": "https://stspg.io/kdqxfjn5qg6q"
  }
 ]
