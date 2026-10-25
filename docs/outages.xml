@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/y0gkl12ztjst</link>
+<guid isPermaLink='false'>anthropic:vx06kp8wfpq2:progress:monitoring:major:2026-10-25T08:30:47.090000+00:00</guid>
+<pubDate>Sun, 25 Oct 2026 08:45:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 08:17:08 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/y0gkl12ztjst">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude has identified the problem. Fix pending.]]></title>
 <link>https://stspg.io/y0gkl12ztjst</link>
 <guid isPermaLink='false'>anthropic:vx06kp8wfpq2:opened:identified:major:2026-10-25T08:17:18.956000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 12 Oct 2026 20:30:38 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions, Pull Requests and Issues</strong></p><p>Impact: minor · Status: resolved · Affects: Issues, Pull Requests, Actions · Duration: 7h 54m · Opened: Mon, 12 Oct 2026 12:21:47 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/flldq0dn2wdz">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Vercel after 6h 36m]]></title>
-<link>https://stspg.io/cfrfjg8fqxfr</link>
-<guid isPermaLink='false'>vercel:sps6n39gm4sg:resolved:resolved:major:2026-10-12T20:11:12.802000+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 20:15:37 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: resolved · Affects: Builds, Git Integrations · Duration: 6h 36m · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

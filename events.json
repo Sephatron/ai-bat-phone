@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:vx06kp8wfpq2:progress:monitoring:major:2026-10-25T08:30:47.090000+00:00",
+  "impact": "major",
+  "incident_id": "vx06kp8wfpq2",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-25T08:45:20.323824+00:00",
+  "started_at": "2026-10-25T08:17:08.277000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Fable 5.1",
+  "transition": "progress",
+  "url": "https://stspg.io/y0gkl12ztjst"
+ },
+ {
   "body": "We have identified the cause of elevated errors on requests to Claude Fable 5.1 and are working on a fix. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7683,26 +7706,5 @@
   "title": "Actions Job Delays",
   "transition": "resolved",
   "url": "https://stspg.io/kdqxfjn5qg6q"
- },
- {
-  "body": "We are investigating delays in credit purchases being reflected in account balances, resulting in some requests failing for insufficient credit balance. We will provide an additional update as soon as possible.",
-  "components": [
-   "Claude Console (platform.claude.com)",
-   "Claude API (api.anthropic.com)"
-  ],
-  "duration": "",
-  "headline": "🟠 Claude is a bit under the weather",
-  "id": "anthropic:k0h22tsvnydg:opened:investigating:minor:2026-10-01T16:20:40.930000+00:00",
-  "impact": "minor",
-  "incident_id": "k0h22tsvnydg",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-01T16:31:09.707577+00:00",
-  "started_at": "2026-10-01T16:20:40.767000+00:00",
-  "status": "investigating",
-  "title": "Degraded performance on the Claude API and platform.claude.com",
-  "transition": "opened",
-  "url": "https://stspg.io/jg26d0skzh27"
  }
 ]

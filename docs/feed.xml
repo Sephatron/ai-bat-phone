@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/y0gkl12ztjst</link>
+<guid isPermaLink='false'>anthropic:vx06kp8wfpq2:progress:monitoring:major:2026-10-25T08:30:47.090000+00:00</guid>
+<pubDate>Sun, 25 Oct 2026 08:45:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 08:17:08 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/y0gkl12ztjst">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude has identified the problem. Fix pending.]]></title>
 <link>https://stspg.io/y0gkl12ztjst</link>
 <guid isPermaLink='false'>anthropic:vx06kp8wfpq2:opened:identified:major:2026-10-25T08:17:18.956000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 01:00:49 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot, IDE, and Cloud Agents</strong></p><p>Impact: critical · Status: monitoring · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>A fix has been implemented and services are recovering. Some users may still see intermittent errors while we monitor for full restoration.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Cursor is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/wb9c5pzxfnz6</link>
-<guid isPermaLink='false'>cursor:8nlyd6t95xjm:opened:investigating:critical:2026-10-13T00:28:16.532000+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 00:30:45 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot, IDE, and Cloud Agents</strong></p><p>Impact: critical · Status: investigating · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>We are investigating a widespread issue affecting Cursor. Users may see errors or failed requests across the IDE, Cloud Agents, Automations, Grok Bot, and Origin. Our team is actively working to restore service.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
