@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 25 Oct 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude is upright again. That took 32 min.]]></title>
+<link>https://stspg.io/y0gkl12ztjst</link>
+<guid isPermaLink='false'>anthropic:vx06kp8wfpq2:resolved:resolved:major:2026-10-25T08:49:29.528000+00:00</guid>
+<pubDate>Sun, 25 Oct 2026 09:00:15 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 32 min · Opened: Sun, 25 Oct 2026 08:17:08 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 01:08 PT / 08:08 UTC to 01:29 PT / 08:29 UTC.</p><p><a href="https://stspg.io/y0gkl12ztjst">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/y0gkl12ztjst</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 00:30:45 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot, IDE, and Cloud Agents</strong></p><p>Impact: critical · Status: investigating · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>We are investigating a widespread issue affecting Cursor. Users may see errors or failed requests across the IDE, Cloud Agents, Automations, Grok Bot, and Origin. Our team is actively working to restore service.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
-<link>https://stspg.io/flldq0dn2wdz</link>
-<guid isPermaLink='false'>github:93njd414rpbx:resolved:resolved:minor:2026-10-12T20:16:07.472000+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 20:30:38 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions, Pull Requests and Issues</strong></p><p>Impact: minor · Status: resolved · Affects: Issues, Pull Requests, Actions · Duration: 7h 54m · Opened: Mon, 12 Oct 2026 12:21:47 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/flldq0dn2wdz">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
