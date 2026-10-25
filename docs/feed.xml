@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M5TPBBGFN3S829YAFE40YB33</link>
+<guid isPermaLink='false'>fireworks:01M5TPBBGFN3S829YAFE40YB33:opened:investigating:minor:2026-10-25T23:29:20+00:00</guid>
+<pubDate>Sun, 25 Oct 2026 23:30:21 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 25 Oct 2026 23:29:20 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5TPBBGFN3S829YAFE40YB33">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is upright again. That took 32 min.]]></title>
 <link>https://stspg.io/y0gkl12ztjst</link>
 <guid isPermaLink='false'>anthropic:vx06kp8wfpq2:resolved:resolved:major:2026-10-25T08:49:29.528000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 05:15:32 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 13 Oct 2026 05:09:20 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4STMJGTARGF3FM095HVYP4S">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/wb9c5pzxfnz6</link>
-<guid isPermaLink='false'>cursor:8nlyd6t95xjm:resolved:resolved:minor:2026-10-13T03:07:41.223000+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 03:15:44 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Degraded performance and errors across Cursor services</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, CLI, Cloud Agents, cursor.com, IDE, Origin, Grok Bot · Duration: 2h 45m · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

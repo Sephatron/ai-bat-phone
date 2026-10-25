@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M5TPBBGFN3S829YAFE40YB33:opened:investigating:minor:2026-10-25T23:29:20+00:00",
+  "impact": "minor",
+  "incident_id": "01M5TPBBGFN3S829YAFE40YB33",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-25T23:30:21.110948+00:00",
+  "started_at": "2026-10-25T23:29:20+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5TPBBGFN3S829YAFE40YB33"
+ },
+ {
   "body": "The issue affecting Claude services has been resolved. Impact occurred from 01:08 PT / 08:08 UTC to 01:29 PT / 08:29 UTC.",
   "components": [
    "claude.ai",
@@ -7688,26 +7706,5 @@
   "title": "Issues with login and signup",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM"
- },
- {
-  "body": "We have resolved the issue causing delays in credits being applied after purchase. We are monitoring closely to ensure no further issues.",
-  "components": [
-   "Claude Console (platform.claude.com)",
-   "Claude API (api.anthropic.com)"
-  ],
-  "duration": "",
-  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
-  "id": "anthropic:k0h22tsvnydg:progress:monitoring:minor:2026-10-01T18:23:02.751000+00:00",
-  "impact": "minor",
-  "incident_id": "k0h22tsvnydg",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-01T18:30:40.393804+00:00",
-  "started_at": "2026-10-01T16:20:40.767000+00:00",
-  "status": "monitoring",
-  "title": "Delayed credits on the Claude Platform",
-  "transition": "progress",
-  "url": "https://stspg.io/jg26d0skzh27"
  }
 ]
