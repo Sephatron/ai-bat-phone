@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/s3wd6gmdsdhn</link>
+<guid isPermaLink='false'>anthropic:334jvgbrc4ff:progress:monitoring:major:2026-10-25T06:35:59.318000+00:00</guid>
+<pubDate>Sun, 25 Oct 2026 06:45:16 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5 and other models</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude has identified the problem. Fix pending.]]></title>
 <link>https://stspg.io/s3wd6gmdsdhn</link>
 <guid isPermaLink='false'>anthropic:334jvgbrc4ff:progress:identified:major:2026-10-25T06:27:52.090000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 12 Oct 2026 20:15:37 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: resolved · Affects: Builds, Git Integrations · Duration: 6h 36m · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Vercel thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/cfrfjg8fqxfr</link>
-<guid isPermaLink='false'>vercel:sps6n39gm4sg:progress:monitoring:major:2026-10-12T19:56:56.028000+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 20:00:37 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: monitoring · Affects: Builds, Git Integrations · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>The backlog of deployment events has been processed. We will continue to monitor and provide additional updates as they become available.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

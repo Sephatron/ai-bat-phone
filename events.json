@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:334jvgbrc4ff:progress:monitoring:major:2026-10-25T06:35:59.318000+00:00",
+  "impact": "major",
+  "incident_id": "334jvgbrc4ff",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-25T06:45:16.637833+00:00",
+  "started_at": "2026-10-25T06:14:18.088000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Sonnet 5.5 and other models",
+  "transition": "progress",
+  "url": "https://stspg.io/s3wd6gmdsdhn"
+ },
+ {
   "body": "We have identified the cause of elevated errors on requests to Claude Sonnet 5.5 and are working on a fix. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7675,23 +7698,5 @@
   "title": "Actions Job Delays",
   "transition": "progress",
   "url": "https://stspg.io/kdqxfjn5qg6q"
- },
- {
-  "body": "[Resolved] The issue affecting loading of the integrations page has been resolved. Integrations should be functional again. If you are still seeing issues loading or using integrations, please contact support and we will help investigate.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit sorted itself out after a while",
-  "id": "replit:c82b0c1b-6a67-48ab-ba9a-4544ae038cc4:resolved:resolved:minor:2026-10-01T15:16:13.463720+00:00",
-  "impact": "minor",
-  "incident_id": "c82b0c1b-6a67-48ab-ba9a-4544ae038cc4",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-01T15:16:13.463720+00:00",
-  "started_at": "2026-10-01T15:11:55+00:00",
-  "status": "resolved",
-  "title": "Issue loading integrations page",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/c82b0c1b-6a67-48ab-ba9a-4544ae038cc4"
  }
 ]
