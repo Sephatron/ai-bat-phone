@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/s3wd6gmdsdhn</link>
+<guid isPermaLink='false'>anthropic:334jvgbrc4ff:opened:investigating:major:2026-10-25T06:14:18.254000+00:00</guid>
+<pubDate>Sun, 25 Oct 2026 06:15:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, Claude Opus 5.5, Claude Sonnet 5.5, and Claude Haiku 5.5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Lovable after 18 min]]></title>
 <link>https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5</link>
 <guid isPermaLink='false'>lovable:01M5Q303XS2X2S2K2RAV6PQYK5:resolved:resolved:major:2026-10-24T14:12:05+00:00</guid>
