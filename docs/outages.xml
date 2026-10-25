@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 4 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M5TPBBGFN3S829YAFE40YB33</link>
+<guid isPermaLink='false'>fireworks:01M5TPBBGFN3S829YAFE40YB33:resolved:resolved:minor:2026-10-25T23:33:38+00:00</guid>
+<pubDate>Sun, 25 Oct 2026 23:45:16 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 4 min · Opened: Sun, 25 Oct 2026 23:29:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5TPBBGFN3S829YAFE40YB33">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M5TPBBGFN3S829YAFE40YB33</link>
 <guid isPermaLink='false'>fireworks:01M5TPBBGFN3S829YAFE40YB33:opened:investigating:minor:2026-10-25T23:29:20+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 03:15:44 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Degraded performance and errors across Cursor services</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Review Agents, CLI, Cloud Agents, cursor.com, IDE, Origin, Grok Bot · Duration: 2h 45m · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/wb9c5pzxfnz6</link>
-<guid isPermaLink='false'>cursor:8nlyd6t95xjm:progress:monitoring:critical:2026-10-13T00:53:06.797000+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 01:00:49 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot, IDE, and Cloud Agents</strong></p><p>Impact: critical · Status: monitoring · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>A fix has been implemented and services are recovering. Some users may still see intermittent errors while we monitor for full restoration.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
