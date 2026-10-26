@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "1h 23m",
+  "headline": "🟢 Cursor is fine again",
+  "id": "cursor:tf5vxc32161d:resolved:resolved:minor:2026-10-26T15:25:50.979000+00:00",
+  "impact": "minor",
+  "incident_id": "tf5vxc32161d",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-26T15:30:19.196284+00:00",
+  "started_at": "2026-10-26T14:02:00+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "resolved",
+  "url": "https://stspg.io/3sw5fzxzhp8l"
+ },
+ {
   "body": "We are seeing improvement for Claude Sonnet 5.5 requests. We are continuing to monitor the situation. Some users may still see occasional errors when using this model.",
   "components": [
    "Automations",
@@ -7699,23 +7722,5 @@
   "title": "AI Bat Phone can read DeepSeek's status page again",
   "transition": "recovered",
   "url": "https://status.deepseek.com"
- },
- {
-  "body": "We are experiencing issues with previews, remix, and static asset serving.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Lovable is having a wobble",
-  "id": "lovable:01M3WKFAGB34V0ND7B9HZ3VZ18:opened:investigating:none:2026-10-01T20:46:09+00:00",
-  "impact": "none",
-  "incident_id": "01M3WKFAGB34V0ND7B9HZ3VZ18",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-01T21:00:44.099336+00:00",
-  "started_at": "2026-10-01T20:46:09+00:00",
-  "status": "investigating",
-  "title": "Issues with previews, remix, and static asset serving",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18"
  }
 ]
