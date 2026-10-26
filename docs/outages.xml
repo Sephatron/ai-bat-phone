@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 26 Oct 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK</link>
+<guid isPermaLink='false'>fireworks:01M5WR71465BVJ7XASAA2T2CRK:resolved:resolved:minor:2026-10-26T18:47:40+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 19:00:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 7 min · Opened: Mon, 26 Oct 2026 18:40:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 14:30:43 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: resolved · Duration: 4h 57m · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>The incident is resolved. Error rates are back to normal, and stable service has been confirmed. We will publish a Root cause analysis once our review of the incident is complete.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
-<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T13:42:07+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 13:45:27 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>Error rates have continued to stabilize. We are continuing to monitor the affected endpoints to ensure service remains steady.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
