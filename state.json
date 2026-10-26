@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-26T21:00:00+00:00",
+ "heartbeat": "2026-10-26T22:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -17,9 +17,7 @@
    "consecutive_failures": 0
   },
   "cursor": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-26T21:00:00+00:00",
-   "last_error": "https://status.cursor.com/api/v2/incidents.json: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'status.cursor.com'. (_ssl.c:1010)>"
+   "consecutive_failures": 0
   },
   "deepseek": {
    "consecutive_failures": 0
@@ -1406,13 +1404,13 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-22T13:45:43.155000+00:00"
+   "updated_at": "2026-09-22T13:45:43.138000+00:00"
   },
   "cursor:0h8jlvzfp1jr": {
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-03T16:31:46.538000+00:00"
+   "updated_at": "2026-09-03T16:31:46.525000+00:00"
   },
   "cursor:0rjgb6y1mf5p": {
    "impact": "major",
@@ -1424,37 +1422,37 @@
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-18T23:02:23.136000+00:00"
+   "updated_at": "2026-09-18T23:02:23.121000+00:00"
   },
   "cursor:22xs8yq5d2pf": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-03T19:21:13.907000+00:00"
+   "updated_at": "2026-09-03T19:21:13.894000+00:00"
   },
   "cursor:25l5bm6rdrb6": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-08T20:51:06.897000+00:00"
+   "updated_at": "2026-10-08T20:51:06.871000+00:00"
   },
   "cursor:2bw21tcjqzg6": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-15T22:00:04.391000+00:00"
+   "updated_at": "2026-09-15T22:00:04.375000+00:00"
   },
   "cursor:37hs7jj05wkx": {
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-16T20:57:14.443000+00:00"
+   "updated_at": "2026-09-16T20:57:14.427000+00:00"
   },
   "cursor:3slwgs0612sc": {
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-18T14:34:00.003000+00:00"
+   "updated_at": "2026-09-18T14:33:59.979000+00:00"
   },
   "cursor:3tkszvmnqz7c": {
    "impact": "minor",
@@ -1472,7 +1470,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-19T17:21:36.794000+00:00"
+   "updated_at": "2026-10-19T17:21:36.769000+00:00"
   },
   "cursor:5rrkh2hs18q1": {
    "impact": "minor",
@@ -1508,13 +1506,13 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-21T17:53:46.938000+00:00"
+   "updated_at": "2026-10-21T17:53:46.902000+00:00"
   },
   "cursor:6y0yq43mvwg2": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-14T21:04:46.631000+00:00"
+   "updated_at": "2026-10-14T21:04:46.605000+00:00"
   },
   "cursor:8gb6fb4lkbn9": {
    "impact": "minor",
@@ -1532,19 +1530,19 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-10T17:32:05.105000+00:00"
+   "updated_at": "2026-09-10T17:32:05.087000+00:00"
   },
   "cursor:8nlyd6t95xjm": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-13T03:07:41.223000+00:00"
+   "updated_at": "2026-10-13T03:07:41.189000+00:00"
   },
   "cursor:9lzqc8vy6jjj": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-21T07:00:48.290000+00:00"
+   "updated_at": "2026-09-21T07:00:48.273000+00:00"
   },
   "cursor:9wc9210xpc2l": {
    "impact": "minor",
@@ -1562,25 +1560,25 @@
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-06T22:06:44.656000+00:00"
+   "updated_at": "2026-10-06T22:06:44.625000+00:00"
   },
   "cursor:bfcck6qks18q": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-26T00:32:45.781000+00:00"
+   "updated_at": "2026-09-26T00:32:45.766000+00:00"
   },
   "cursor:bg1b759jsjqf": {
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-13T21:13:09.594000+00:00"
+   "updated_at": "2026-10-13T20:29:00+00:00"
   },
   "cursor:bgwm1q5652hy": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-14T09:07:24.040000+00:00"
+   "updated_at": "2026-09-14T09:07:24.027000+00:00"
   },
   "cursor:bx8qt9d38cxd": {
    "impact": "minor",
@@ -1592,7 +1590,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-19T18:28:33.771000+00:00"
+   "updated_at": "2026-10-19T18:28:33.749000+00:00"
   },
   "cursor:d8whvf5gt6jm": {
    "impact": "minor",
@@ -1622,7 +1620,7 @@
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-29T20:18:00.885000+00:00"
+   "updated_at": "2026-09-29T20:18:00.855000+00:00"
   },
   "cursor:dwdfpbhv6zl7": {
    "impact": "major",
@@ -1640,19 +1638,19 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-19T13:52:07.400000+00:00"
+   "updated_at": "2026-10-19T13:52:07.370000+00:00"
   },
   "cursor:gh45ycs0zs0g": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-09T23:09:17.472000+00:00"
+   "updated_at": "2026-10-09T23:09:17.451000+00:00"
   },
   "cursor:h76w09vs1vqq": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-16T05:20:54.462000+00:00"
+   "updated_at": "2026-10-16T05:20:54.441000+00:00"
   },
   "cursor:hmd3mww247rn": {
    "impact": "minor",
@@ -1688,13 +1686,13 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-29T18:05:31.514000+00:00"
+   "updated_at": "2026-09-29T18:05:31.489000+00:00"
   },
   "cursor:jdm0j510q78b": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-17T20:04:04.933000+00:00"
+   "updated_at": "2026-09-17T20:04:04.911000+00:00"
   },
   "cursor:jvn3tt2zcqkw": {
    "impact": "minor",
@@ -1706,7 +1704,7 @@
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-07T21:37:45.321000+00:00"
+   "updated_at": "2026-09-07T21:37:45.304000+00:00"
   },
   "cursor:kdn6bp1p66zp": {
    "impact": "minor",
@@ -1724,13 +1722,13 @@
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-04T00:42:13.554000+00:00"
+   "updated_at": "2026-09-04T00:42:13.540000+00:00"
   },
   "cursor:ktfzb72q01z5": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-09T21:42:56.757000+00:00"
+   "updated_at": "2026-10-09T21:42:56.729000+00:00"
   },
   "cursor:kwxt4c14w1yp": {
    "impact": "minor",
@@ -1754,19 +1752,19 @@
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-06T23:04:57.505000+00:00"
+   "updated_at": "2026-10-06T23:04:57.468000+00:00"
   },
   "cursor:lh1fpdkb4kcp": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-23T18:43:20.553000+00:00"
+   "updated_at": "2026-09-23T18:43:20.536000+00:00"
   },
   "cursor:lqp75t47dvpm": {
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-17T14:34:44.105000+00:00"
+   "updated_at": "2026-09-17T14:34:44.089000+00:00"
   },
   "cursor:mb61dpg4nfk0": {
    "impact": "minor",
@@ -1790,13 +1788,13 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-25T06:51:32.123000+00:00"
+   "updated_at": "2026-09-25T06:51:32.108000+00:00"
   },
   "cursor:nk7ln2sb6n6q": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-07T13:36:19.900000+00:00"
+   "updated_at": "2026-09-07T13:08:00+00:00"
   },
   "cursor:nrg1x0mmzhwq": {
    "impact": "minor",
@@ -1808,13 +1806,19 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-16T08:42:49.057000+00:00"
+   "updated_at": "2026-09-16T08:42:49.044000+00:00"
   },
   "cursor:p7fmcg2j968f": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-07T17:25:18.389000+00:00"
+   "updated_at": "2026-10-07T17:25:18.361000+00:00"
+  },
+  "cursor:ps_1bf7caceaa5f7a94": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-26T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-24T00:04:21+00:00"
   },
   "cursor:q3q7y4xympz1": {
    "impact": "minor",
@@ -1826,13 +1830,13 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-21T17:40:30.167000+00:00"
+   "updated_at": "2026-10-21T17:40:30.133000+00:00"
   },
   "cursor:r44l5qk34kj1": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-18T23:13:29.926000+00:00"
+   "updated_at": "2026-09-18T23:13:29.911000+00:00"
   },
   "cursor:rl1xj0xgtrqx": {
    "impact": "major",
@@ -1856,19 +1860,19 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-03T17:05:20.377000+00:00"
+   "updated_at": "2026-09-03T17:05:20.359000+00:00"
   },
   "cursor:tf5vxc32161d": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-26T15:25:50.979000+00:00"
+   "updated_at": "2026-10-26T15:25:50.951000+00:00"
   },
   "cursor:tjs10pzx9qxg": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-03T07:26:51.966000+00:00"
+   "updated_at": "2026-10-03T07:26:51.937000+00:00"
   },
   "cursor:tp690gjy8prx": {
    "impact": "minor",
@@ -1886,7 +1890,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-11T11:36:00.255000+00:00"
+   "updated_at": "2026-09-11T11:36:00.241000+00:00"
   },
   "cursor:vwdtvk9w7d6g": {
    "impact": "minor",
@@ -1898,7 +1902,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-06T16:00:55.477000+00:00"
+   "updated_at": "2026-10-06T16:00:55.449000+00:00"
   },
   "cursor:wc6nnyw1pqq9": {
    "impact": "minor",
@@ -1916,25 +1920,25 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-23T20:36:47.192000+00:00"
+   "updated_at": "2026-09-23T20:36:47.177000+00:00"
   },
   "cursor:x2g19tzq27sg": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-28T20:36:19.974000+00:00"
+   "updated_at": "2026-09-28T20:36:19.950000+00:00"
   },
   "cursor:x4mnlflpqc4w": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-08T15:31:30.018000+00:00"
+   "updated_at": "2026-10-08T15:31:29.993000+00:00"
   },
   "cursor:xgj4x58k55dx": {
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-06T18:56:35.298000+00:00"
+   "updated_at": "2026-10-06T18:56:35.265000+00:00"
   },
   "cursor:ycdk0g2rlkt1": {
    "impact": "minor",
@@ -1946,19 +1950,19 @@
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-09-22T01:42:57.948000+00:00"
+   "updated_at": "2026-09-22T01:42:57.929000+00:00"
   },
   "cursor:ysjcf4lrs5y0": {
    "impact": "minor",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-21T10:37:17.623000+00:00"
+   "updated_at": "2026-10-21T10:21:00+00:00"
   },
   "cursor:z1rz4fcd48j6": {
    "impact": "major",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-24T00:20:25.053000+00:00"
+   "updated_at": "2026-10-24T00:20:24.927000+00:00"
   },
   "cursor:zsvdfz3gdmk3": {
    "impact": "minor",
