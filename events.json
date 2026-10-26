@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are investigating elevated errors affecting requests to Sonnet 5.5. Some users may see failed or rate-limited responses when using this model.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is having a wobble",
+  "id": "cursor:tf5vxc32161d:opened:investigating:minor:2026-10-26T14:04:53.990000+00:00",
+  "impact": "minor",
+  "incident_id": "tf5vxc32161d",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-26T14:15:17.896548+00:00",
+  "started_at": "2026-10-26T14:02:00+00:00",
+  "status": "investigating",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "opened",
+  "url": "https://stspg.io/3sw5fzxzhp8l"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "K3"
@@ -7689,23 +7712,5 @@
   "title": "AI Bat Phone cannot read DeepSeek's status page",
   "transition": "unreachable",
   "url": "https://status.deepseek.com"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "53 min",
-  "headline": "🟢 OpenAI is upright again. That took 53 min.",
-  "id": "openai:01M3WCKTAN41RZ01SBRRTY4AYM:resolved:resolved:major:2026-10-01T19:39:30+00:00",
-  "impact": "major",
-  "incident_id": "01M3WCKTAN41RZ01SBRRTY4AYM",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-01T19:45:31.507144+00:00",
-  "started_at": "2026-10-01T18:46:17+00:00",
-  "status": "resolved",
-  "title": "Issues with login, signup, and ads",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M3WCKTAN41RZ01SBRRTY4AYM"
  }
 ]

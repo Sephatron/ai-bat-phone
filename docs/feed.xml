@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://stspg.io/3sw5fzxzhp8l</link>
+<guid isPermaLink='false'>cursor:tf5vxc32161d:opened:investigating:minor:2026-10-26T14:04:53.990000+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 14:15:17 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Mon, 26 Oct 2026 14:02:00 +0000</p><p>We are investigating elevated errors affecting requests to Sonnet 5.5. Some users may see failed or rate-limited responses when using this model.</p><p><a href="https://stspg.io/3sw5fzxzhp8l">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/5hx1kxfh3bl7</link>
 <guid isPermaLink='false'>moonshot:ll8x75r56c3p:resolved:resolved:critical:2026-10-26T09:50:47.216000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 09:30:31 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Multiple endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We are investigating elevated latency and timeouts affecting multiple endpoints, including some Elevenagents endpoints. Some requests may be slow or fail. Our team is actively looking into the cause.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 OpenAI went from annoying to actual]]></title>
-<link>https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS</link>
-<guid isPermaLink='false'>openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:escalated:investigating:minor:2026-10-13T08:18:33+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 08:22:13 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in GPT-6.1 Sol Work mode</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 13 Oct 2026 08:10:00 +0000</p><p>Degraded performance on GPT 6.1 Sol Codex and Work mode</p><p><a href="https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
