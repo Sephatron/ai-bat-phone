@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 26 Oct 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/5hx1kxfh3bl7</link>
+<guid isPermaLink='false'>moonshot:ll8x75r56c3p:resolved:resolved:critical:2026-10-26T09:50:47.216000+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 10:00:16 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 模型服务持续波动</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 29 min · Opened: Mon, 26 Oct 2026 09:21:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/5hx1kxfh3bl7">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is having a proper one. This is not your code.]]></title>
 <link>https://stspg.io/5hx1kxfh3bl7</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 08:22:13 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Degraded performance in GPT-6.1 Sol Work mode</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 13 Oct 2026 08:10:00 +0000</p><p>Degraded performance on GPT 6.1 Sol Codex and Work mode</p><p><a href="https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS</link>
-<guid isPermaLink='false'>openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:opened:investigating:none:2026-10-13T08:10:00+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 08:15:43 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in GPT-6.1 Sol Work mode</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 13 Oct 2026 08:10:00 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
