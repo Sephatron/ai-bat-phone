@@ -17,7 +17,9 @@
    "consecutive_failures": 0
   },
   "cursor": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-26T21:00:00+00:00",
+   "last_error": "https://status.cursor.com/api/v2/incidents.json: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'status.cursor.com'. (_ssl.c:1010)>"
   },
   "deepseek": {
    "consecutive_failures": 0
