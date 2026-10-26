@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "14 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M5WNVZ2R60QBF4P2S5NXKSZW:resolved:resolved:minor:2026-10-26T18:13:26+00:00",
+  "impact": "minor",
+  "incident_id": "01M5WNVZ2R60QBF4P2S5NXKSZW",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-26T18:15:19.716472+00:00",
+  "started_at": "2026-10-26T17:59:25+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5WNVZ2R60QBF4P2S5NXKSZW"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7704,23 +7722,5 @@
   "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
   "transition": "resolved",
   "url": "https://status.deepseek.com/incidents/7058006316287"
- },
- {
-  "body": "The issues affecting previews, remix, and static asset serving have been resolved.",
-  "components": [],
-  "duration": "22 min",
-  "headline": "🟢 Lovable is fine again",
-  "id": "lovable:01M3WKFAGB34V0ND7B9HZ3VZ18:resolved:resolved:none:2026-10-01T21:08:55+00:00",
-  "impact": "none",
-  "incident_id": "01M3WKFAGB34V0ND7B9HZ3VZ18",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-01T21:15:37.412148+00:00",
-  "started_at": "2026-10-01T20:46:09+00:00",
-  "status": "resolved",
-  "title": "Issues with previews, remix, and static asset serving",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18"
  }
 ]
