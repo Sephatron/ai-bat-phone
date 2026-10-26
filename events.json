@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are seeing improvement for Claude Sonnet 5.5 requests. We are continuing to monitor the situation. Some users may still see occasional errors when using this model.",
+  "components": [
+   "Automations",
+   "CLI",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor has applied a fix and is holding its breath",
+  "id": "cursor:tf5vxc32161d:progress:monitoring:minor:2026-10-26T14:36:54.428000+00:00",
+  "impact": "minor",
+  "incident_id": "tf5vxc32161d",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-26T14:45:19.407296+00:00",
+  "started_at": "2026-10-26T14:02:00+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "progress",
+  "url": "https://stspg.io/3sw5fzxzhp8l"
+ },
+ {
   "body": "We are investigating elevated errors affecting requests to Sonnet 5.5. Some users may see failed or rate-limited responses when using this model.",
   "components": [
    "Automations",
@@ -7694,23 +7717,5 @@
   "title": "Issues with previews, remix, and static asset serving",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18"
- },
- {
-  "body": "https://status.deepseek.com/history.rss returned HTTP 502",
-  "components": [],
-  "duration": "",
-  "headline": "📵 DeepSeek is unreadable — silence here means unknown, not fine",
-  "id": "meta:deepseek:unreachable:2026-10-01T20:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-01T20:30:42.619907+00:00",
-  "started_at": "2026-10-01T20:00:00+00:00",
-  "status": "unreachable",
-  "title": "AI Bat Phone cannot read DeepSeek's status page",
-  "transition": "unreachable",
-  "url": "https://status.deepseek.com"
  }
 ]

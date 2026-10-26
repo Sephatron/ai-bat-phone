@@ -969,13 +969,5 @@
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read DeepSeek's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[📵 DeepSeek is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.deepseek.com</link>
-<guid isPermaLink='false'>meta:deepseek:unreachable:2026-10-01T20:00:00+00:00</guid>
-<pubDate>Thu, 01 Oct 2026 20:30:42 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read DeepSeek's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.deepseek.com/history.rss returned HTTP 502</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
