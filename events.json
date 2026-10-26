@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied the mitigation and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M5WPZTT0385GMEV1353ZC4AM:opened:monitoring:minor:2026-10-26T18:25:32+00:00",
+  "impact": "minor",
+  "incident_id": "01M5WPZTT0385GMEV1353ZC4AM",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-26T18:30:23.032808+00:00",
+  "started_at": "2026-10-26T18:19:00+00:00",
+  "status": "monitoring",
+  "title": "Ads POST /ads/* endpoints elevated error rates",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "14 min",
@@ -7700,27 +7718,5 @@
   "title": "Delayed credits on the Claude Platform",
   "transition": "resolved",
   "url": "https://stspg.io/jg26d0skzh27"
- },
- {
-  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service), 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service)",
-  "components": [
-   "DeepSeek V4 Pro API服务(API Service)",
-   "对话服务(Chatservice)",
-   "DeepSeek V4.1 Flash API服务(API Service)"
-  ],
-  "duration": "",
-  "headline": "🟢 DeepSeek has stopped wobbling",
-  "id": "deepseek:urn:flashduty:change:7058006316287:resolved:resolved:minor:2026-10-01T21:45:35.207014+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:7058006316287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-01T21:45:35.207014+00:00",
-  "started_at": "2026-10-01T19:40:05+00:00",
-  "status": "resolved",
-  "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
-  "transition": "resolved",
-  "url": "https://status.deepseek.com/incidents/7058006316287"
  }
 ]
