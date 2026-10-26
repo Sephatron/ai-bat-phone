@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "2h 34m",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M5WW1Q8NZ7FN5JVEYJ9G7NP2:resolved:resolved:minor:2026-10-26T22:21:30+00:00",
+  "impact": "minor",
+  "incident_id": "01M5WW1Q8NZ7FN5JVEYJ9G7NP2",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-26T22:30:17.833395+00:00",
+  "started_at": "2026-10-26T19:47:25+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2"
+ },
+ {
   "body": "We're investigating an issue affecting codebase indexing and saved rules and memories. Codebase indexes may not update, and agents may respond without your saved rules or memories. Chat, agents, and Tab are otherwise available. We're working with our infrastructure provider and will share updates as we learn more.",
   "components": [
    "Automations",
@@ -7701,25 +7719,5 @@
   "title": "Service Degradation for GLM 5.3 Fast",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M3ZC4HVRY7QFHWQF3ZP0XQ0R"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Search"
-  ],
-  "duration": "1 min",
-  "headline": "🟢 All clear from Moonshot AI (Kimi) after 1 min",
-  "id": "moonshot:77krbnnlj7sp:resolved:resolved:critical:2026-10-02T22:17:12.803000+00:00",
-  "impact": "critical",
-  "incident_id": "77krbnnlj7sp",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-02T22:30:35.418408+00:00",
-  "started_at": "2026-10-02T22:15:12.974000+00:00",
-  "status": "resolved",
-  "title": "搜索请求出现大量报错",
-  "transition": "resolved",
-  "url": "https://stspg.io/853mgz04gbdm"
  }
 ]

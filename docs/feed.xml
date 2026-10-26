@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2</link>
+<guid isPermaLink='false'>fireworks:01M5WW1Q8NZ7FN5JVEYJ9G7NP2:resolved:resolved:minor:2026-10-26T22:21:30+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 22:30:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 34m · Opened: Mon, 26 Oct 2026 19:47:25 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3</link>
 <guid isPermaLink='false'>cursor:ps_67a789782eda77b3:opened:investigating:minor:2026-10-26T22:02:31+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 10:00:27 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Degraded performance in Codex and ChatGPT Work</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 47m · Opened: Wed, 14 Oct 2026 07:05:44 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI knows what it did]]></title>
-<link>https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES</link>
-<guid isPermaLink='false'>openai:01M4WKPE1EY48ZB4RZJ80YH7ES:opened:identified:minor:2026-10-14T07:05:44+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 07:15:22 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in Codex and ChatGPT Work</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 14 Oct 2026 07:05:44 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

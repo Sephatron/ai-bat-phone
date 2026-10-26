@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2</link>
+<guid isPermaLink='false'>fireworks:01M5WW1Q8NZ7FN5JVEYJ9G7NP2:resolved:resolved:minor:2026-10-26T22:21:30+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 22:30:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 34m · Opened: Mon, 26 Oct 2026 19:47:25 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3</link>
 <guid isPermaLink='false'>cursor:ps_67a789782eda77b3:opened:investigating:minor:2026-10-26T22:02:31+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 22:30:36 +0000</pubDate>
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is upright again. That took 6d 4h.]]></title>
-<link>https://stspg.io/sjkw7njwf0mt</link>
-<guid isPermaLink='false'>anthropic:978mjkgw6mh7:resolved:resolved:major:2026-10-13T18:00:04.390000+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 18:00:28 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 6d 4h · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
