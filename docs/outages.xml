@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM</link>
+<guid isPermaLink='false'>openai:01M5WPZTT0385GMEV1353ZC4AM:resolved:resolved:minor:2026-10-26T18:30:19+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 18:45:21 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Ads POST /ads/* endpoints elevated error rates</strong></p><p>Impact: minor · Status: resolved · Duration: 11 min · Opened: Mon, 26 Oct 2026 18:19:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK</link>
+<guid isPermaLink='false'>fireworks:01M5WR71465BVJ7XASAA2T2CRK:opened:investigating:minor:2026-10-26T18:40:24+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 18:45:21 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 26 Oct 2026 18:40:24 +0000</p><p>We are seeing impacted performance for Kimi K3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM</link>
 <guid isPermaLink='false'>openai:01M5WPZTT0385GMEV1353ZC4AM:opened:monitoring:minor:2026-10-26T18:25:32+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 13:45:27 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>Error rates have continued to stabilize. We are continuing to monitor the affected endpoints to ensure service remains steady.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 ElevenLabs has identified the problem. Fix pending.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
-<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:identified:major:2026-10-13T11:42:02+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 11:45:32 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: identified · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We are still seeing elevated errors and timeouts on the affected endpoints, and requests may continue to fail. We are actively working with our data provider to restore full service and bring the endpoints back online.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
-<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T10:38:27+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 10:45:27 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>Error rates are back to normal. We are monitoring the affected endpoints to confirm stability and are working with our data provider on a root cause analysis.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

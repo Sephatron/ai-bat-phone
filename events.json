@@ -1,5 +1,41 @@
 [
  {
+  "body": "All impacted services have now fully recovered.",
+  "components": [],
+  "duration": "11 min",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M5WPZTT0385GMEV1353ZC4AM:resolved:resolved:minor:2026-10-26T18:30:19+00:00",
+  "impact": "minor",
+  "incident_id": "01M5WPZTT0385GMEV1353ZC4AM",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-26T18:45:21.445158+00:00",
+  "started_at": "2026-10-26T18:19:00+00:00",
+  "status": "resolved",
+  "title": "Ads POST /ads/* endpoints elevated error rates",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM"
+ },
+ {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M5WR71465BVJ7XASAA2T2CRK:opened:investigating:minor:2026-10-26T18:40:24+00:00",
+  "impact": "minor",
+  "incident_id": "01M5WR71465BVJ7XASAA2T2CRK",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-26T18:45:21.445158+00:00",
+  "started_at": "2026-10-26T18:40:24+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK"
+ },
+ {
   "body": "We have applied the mitigation and are monitoring the recovery.",
   "components": [],
   "duration": "",
@@ -7679,44 +7715,5 @@
   "title": "Still watching 21 provider status pages",
   "transition": "alive",
   "url": "https://sephatron.github.io/ai-bat-phone"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "1d 21h",
-  "headline": "🟢 OpenAI sorted itself out after 1d 21h",
-  "id": "openai:01M3R1T4FCR1337FBBYY9K2RPB:resolved:resolved:minor:2026-10-01T23:44:57+00:00",
-  "impact": "minor",
-  "incident_id": "01M3R1T4FCR1337FBBYY9K2RPB",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-01T23:45:34.424201+00:00",
-  "started_at": "2026-09-30T02:20:32+00:00",
-  "status": "resolved",
-  "title": "Elevated errors in ChatGPT Space Pages",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M3R1T4FCR1337FBBYY9K2RPB"
- },
- {
-  "body": "This issue has been resolved.",
-  "components": [
-   "Claude Console (platform.claude.com)",
-   "Claude API (api.anthropic.com)"
-  ],
-  "duration": "6h 15m",
-  "headline": "🟢 Claude sorted itself out after 6h 15m",
-  "id": "anthropic:k0h22tsvnydg:resolved:resolved:minor:2026-10-01T22:36:22.239000+00:00",
-  "impact": "minor",
-  "incident_id": "k0h22tsvnydg",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-01T22:45:34.724038+00:00",
-  "started_at": "2026-10-01T16:20:40.767000+00:00",
-  "status": "resolved",
-  "title": "Delayed credits on the Claude Platform",
-  "transition": "resolved",
-  "url": "https://stspg.io/jg26d0skzh27"
  }
 ]
