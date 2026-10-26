@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M5WNVZ2R60QBF4P2S5NXKSZW:opened:investigating:minor:2026-10-26T17:59:25+00:00",
+  "impact": "minor",
+  "incident_id": "01M5WNVZ2R60QBF4P2S5NXKSZW",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-26T18:00:17.373565+00:00",
+  "started_at": "2026-10-26T17:59:25+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5WNVZ2R60QBF4P2S5NXKSZW"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",
@@ -7704,23 +7722,5 @@
   "title": "Issues with previews, remix, and static asset serving",
   "transition": "resolved",
   "url": "https://status.lovable.dev/incidents/01M3WKFAGB34V0ND7B9HZ3VZ18"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 DeepSeek is readable again, so silence here means quiet once more",
-  "id": "meta:deepseek:recovered:2026-10-01T20:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-01T21:00:44.099336+00:00",
-  "started_at": "2026-10-01T20:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read DeepSeek's status page again",
-  "transition": "recovered",
-  "url": "https://status.deepseek.com"
  }
 ]
