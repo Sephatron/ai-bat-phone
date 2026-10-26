@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M5WW1Q8NZ7FN5JVEYJ9G7NP2:opened:investigating:minor:2026-10-26T19:47:25+00:00",
+  "impact": "minor",
+  "incident_id": "01M5WW1Q8NZ7FN5JVEYJ9G7NP2",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-26T20:00:19.590289+00:00",
+  "started_at": "2026-10-26T19:47:25+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "7 min",
@@ -7696,24 +7714,6 @@
   "status": "resolved",
   "title": "Issues with data analysis and file creation in ChatGPT",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE"
- },
- {
-  "body": "Some users experienced errors when running code, analyzing data or creating files in ChatGPT. We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M3YNNVTSCXS8YM2V1YMHMVSE:opened:monitoring:minor:2026-10-02T16:03:10+00:00",
-  "impact": "minor",
-  "incident_id": "01M3YNNVTSCXS8YM2V1YMHMVSE",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-02T16:15:41.446366+00:00",
-  "started_at": "2026-10-02T16:03:10+00:00",
-  "status": "monitoring",
-  "title": "Issues with data analysis and file creation in ChatGPT",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE"
  }
 ]

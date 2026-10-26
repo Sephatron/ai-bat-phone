@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 26 Oct 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2</link>
+<guid isPermaLink='false'>fireworks:01M5WW1Q8NZ7FN5JVEYJ9G7NP2:opened:investigating:minor:2026-10-26T19:47:25+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 20:00:19 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 26 Oct 2026 19:47:25 +0000</p><p>We are seeing impacted performance for Kimi K3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 19:30:33 +0000</pubDate>
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>Maintenance: Scheduled Computer Maintenance</strong></p><p>Scheduled maintenance · Status: scheduled · Opened: Tue, 13 Oct 2026 19:27:31 +0000</p><p>Status: Scheduled We’ll perform scheduled maintenance on Computer on October 13 at around 2:30 PM Pacific. We expect a brief interruption of approximately one to two minutes during the maintenance window. Some Computer operations may encounter errors or require a retry. We’ll update this page when maintenance is complete. Affected components Computer (Under maintenance)</p><p><a href="https://status.perplexity.com//incidents/01M4VBQY9921W0JWATY7NGPZ0A">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is upright again. That took 6d 4h.]]></title>
-<link>https://stspg.io/sjkw7njwf0mt</link>
-<guid isPermaLink='false'>anthropic:978mjkgw6mh7:resolved:resolved:major:2026-10-13T18:00:04.390000+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 18:00:28 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 6d 4h · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
