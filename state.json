@@ -626,6 +626,12 @@
    "status": "completed",
    "updated_at": "2026-08-04T03:30:07.298000+00:00"
   },
+  "baseten:5m8bp9gdvlqz": {
+   "impact": "maintenance",
+   "last_seen_at": "2026-10-26T00:00:00+00:00",
+   "status": "scheduled",
+   "updated_at": "2026-10-26T22:06:05.733000+00:00"
+  },
   "baseten:63qnlbxt5sd1": {
    "impact": "none",
    "last_seen_at": "2026-09-24T00:00:00+00:00",
@@ -1819,6 +1825,12 @@
    "last_seen_at": "2026-10-26T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-24T00:04:21+00:00"
+  },
+  "cursor:ps_67a789782eda77b3": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-26T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-26T22:02:31+00:00"
   },
   "cursor:q3q7y4xympz1": {
    "impact": "minor",

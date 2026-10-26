@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3</link>
+<guid isPermaLink='false'>cursor:ps_67a789782eda77b3:opened:investigating:minor:2026-10-26T22:02:31+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 22:15:22 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded codebase indexing and agent personalization</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, CLI, IDE · Opened: Mon, 26 Oct 2026 22:02:31 +0000</p><p>We're investigating an issue affecting codebase indexing and saved rules and memories. Codebase indexes may not update, and agents may respond without your saved rules or memories. Chat, agents, and Tab are otherwise available. We're working with our infrastructure provider and will share updates as we learn more.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2</link>
 <guid isPermaLink='false'>fireworks:01M5WW1Q8NZ7FN5JVEYJ9G7NP2:opened:investigating:minor:2026-10-26T19:47:25+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 13 Oct 2026 18:00:28 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 6d 4h · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 8h 26m]]></title>
-<link>https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS</link>
-<guid isPermaLink='false'>openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:resolved:resolved:minor:2026-10-13T16:36:42+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 16:45:39 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in GPT-6.1 Sol Codex and Work mode</strong></p><p>Impact: minor · Status: resolved · Duration: 8h 26m · Opened: Tue, 13 Oct 2026 08:10:00 +0000</p><p>We have resolved the issue causing degraded performance with GPT-6.1 Sol in Codex and ChatGPT Work.</p><p><a href="https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

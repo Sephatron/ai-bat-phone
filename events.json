@@ -1,5 +1,49 @@
 [
  {
+  "body": "We're investigating an issue affecting codebase indexing and saved rules and memories. Codebase indexes may not update, and agents may respond without your saved rules or memories. Chat, agents, and Tab are otherwise available. We're working with our infrastructure provider and will share updates as we learn more.",
+  "components": [
+   "Automations",
+   "Cloud Agents",
+   "CLI",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is a bit under the weather",
+  "id": "cursor:ps_67a789782eda77b3:opened:investigating:minor:2026-10-26T22:02:31+00:00",
+  "impact": "minor",
+  "incident_id": "ps_67a789782eda77b3",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-26T22:15:22.248378+00:00",
+  "started_at": "2026-10-26T22:02:31+00:00",
+  "status": "investigating",
+  "title": "Degraded codebase indexing and agent personalization",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3"
+ },
+ {
+  "body": "We will be performing a database upgrade between 9:00 PM and 10:00 PM PDT. During this window, you may experience a brief interruption of approximately 5-10 minutes at some point during this hour, impacting new model deploys along with some pages in the application and REST API endpoints. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "",
+  "headline": "🔧 Baseten has scheduled a lie-down",
+  "id": "baseten:5m8bp9gdvlqz:opened:scheduled:maintenance:2026-10-26T22:06:05.733000+00:00",
+  "impact": "maintenance",
+  "incident_id": "5m8bp9gdvlqz",
+  "kind": "maintenance",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-10-26T22:15:22.248378+00:00",
+  "started_at": "2026-10-26T22:06:05.631000+00:00",
+  "status": "scheduled",
+  "title": "Database Upgrade. Inference will not be affected",
+  "transition": "opened",
+  "url": "https://stspg.io/0rvb1mr214kw"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7677,43 +7721,5 @@
   "title": "搜索请求出现大量报错",
   "transition": "resolved",
   "url": "https://stspg.io/853mgz04gbdm"
- },
- {
-  "body": "搜索请求报错率超过20%，持续超过1分钟",
-  "components": [
-   "Search"
-  ],
-  "duration": "",
-  "headline": "🔴 Tools down: Moonshot AI (Kimi) is broken",
-  "id": "moonshot:77krbnnlj7sp:opened:investigating:critical:2026-10-02T22:15:13.073000+00:00",
-  "impact": "critical",
-  "incident_id": "77krbnnlj7sp",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-02T22:15:29.933512+00:00",
-  "started_at": "2026-10-02T22:15:12.974000+00:00",
-  "status": "investigating",
-  "title": "搜索请求出现大量报错",
-  "transition": "opened",
-  "url": "https://stspg.io/853mgz04gbdm"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "48 min",
-  "headline": "🟢 OpenAI sorted itself out after 48 min",
-  "id": "openai:01M3YNNVTSCXS8YM2V1YMHMVSE:resolved:resolved:minor:2026-10-02T16:51:13+00:00",
-  "impact": "minor",
-  "incident_id": "01M3YNNVTSCXS8YM2V1YMHMVSE",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-02T17:00:37.342086+00:00",
-  "started_at": "2026-10-02T16:03:10+00:00",
-  "status": "resolved",
-  "title": "Issues with data analysis and file creation in ChatGPT",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M3YNNVTSCXS8YM2V1YMHMVSE"
  }
 ]

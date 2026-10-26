@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3</link>
+<guid isPermaLink='false'>cursor:ps_67a789782eda77b3:opened:investigating:minor:2026-10-26T22:02:31+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 22:15:22 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded codebase indexing and agent personalization</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, CLI, IDE · Opened: Mon, 26 Oct 2026 22:02:31 +0000</p><p>We're investigating an issue affecting codebase indexing and saved rules and memories. Codebase indexes may not update, and agents may respond without your saved rules or memories. Chat, agents, and Tab are otherwise available. We're working with our infrastructure provider and will share updates as we learn more.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔧 Baseten has scheduled a lie-down]]></title>
+<link>https://stspg.io/0rvb1mr214kw</link>
+<guid isPermaLink='false'>baseten:5m8bp9gdvlqz:opened:scheduled:maintenance:2026-10-26T22:06:05.733000+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 22:15:22 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: Model Management API, Web Application · Opened: Mon, 26 Oct 2026 22:06:05 +0000</p><p>We will be performing a database upgrade between 9:00 PM and 10:00 PM PDT. During this window, you may experience a brief interruption of approximately 5-10 minutes at some point during this hour, impacting new model deploys along with some pages in the application and REST API endpoints. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.</p><p><a href="https://stspg.io/0rvb1mr214kw">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2</link>
 <guid isPermaLink='false'>fireworks:01M5WW1Q8NZ7FN5JVEYJ9G7NP2:opened:investigating:minor:2026-10-26T19:47:25+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 07:15:22 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Degraded performance in Codex and ChatGPT Work</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 14 Oct 2026 07:05:44 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Perplexity is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:unreachable:2026-10-13T22:00:00+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 22:30:36 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 Planned works at Perplexity]]></title>
-<link>https://status.perplexity.com//incidents/01M4VBQY9921W0JWATY7NGPZ0A</link>
-<guid isPermaLink='false'>perplexity:01M4VBQY9921W0JWATY7NGPZ0A:opened:scheduled:none:2026-10-13T19:30:33.170557+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 19:30:33 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>Maintenance: Scheduled Computer Maintenance</strong></p><p>Scheduled maintenance · Status: scheduled · Opened: Tue, 13 Oct 2026 19:27:31 +0000</p><p>Status: Scheduled We’ll perform scheduled maintenance on Computer on October 13 at around 2:30 PM Pacific. We expect a brief interruption of approximately one to two minutes during the maintenance window. Some Computer operations may encounter errors or require a retry. We’ll update this page when maintenance is complete. Affected components Computer (Under maintenance)</p><p><a href="https://status.perplexity.com//incidents/01M4VBQY9921W0JWATY7NGPZ0A">Perplexity status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
