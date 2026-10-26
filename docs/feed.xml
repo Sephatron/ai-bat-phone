@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M5X78V6A284K8HS7EBR6SNN9</link>
+<guid isPermaLink='false'>fireworks:01M5X78V6A284K8HS7EBR6SNN9:resolved:resolved:minor:2026-10-26T23:26:35+00:00</guid>
+<pubDate>Mon, 26 Oct 2026 23:30:15 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 23 min · Opened: Mon, 26 Oct 2026 23:03:32 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5X78V6A284K8HS7EBR6SNN9">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M5X78V6A284K8HS7EBR6SNN9</link>
 <guid isPermaLink='false'>fireworks:01M5X78V6A284K8HS7EBR6SNN9:opened:investigating:minor:2026-10-26T23:03:32+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 10:45:21 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 14 Oct 2026 10:18:07 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8</link>
-<guid isPermaLink='false'>openai:01M4WYPP5QA0CJ3JV76KH285K8:opened:investigating:minor:2026-10-14T10:18:07+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 10:30:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 14 Oct 2026 10:18:07 +0000</p><p>We are investigating limited availability when using gpt-image-2.5-flare and gpt-image-2.5-sunburst in the API.</p><p><a href="https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
