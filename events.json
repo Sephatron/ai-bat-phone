@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from OpenAI",
+  "id": "openai:01M5Y60NQGGN514EB3943V94EN:opened:investigating:none:2026-10-27T08:00:50+00:00",
+  "impact": "none",
+  "incident_id": "01M5Y60NQGGN514EB3943V94EN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-27T08:15:18.183396+00:00",
+  "started_at": "2026-10-27T08:00:50+00:00",
+  "status": "investigating",
+  "title": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
+ },
+ {
   "body": "We are investigating elevated errors affecting some repository integrations. Features that rely on repository access, including review agents and cloud agents, may fail or be delayed. We are working to restore normal service.",
   "components": [
    "Automations",
@@ -7704,29 +7722,6 @@
   "status": "resolved",
   "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
   "transition": "resolved",
-  "url": "https://stspg.io/wdqhxt8xt574"
- },
- {
-  "body": "We are investigating elevated errors on requests to Claude Mythos 5.1 and Claude Fable 5.1. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔴 Claude is having a proper one. This is not your code.",
-  "id": "anthropic:bhphxz3vr58g:opened:investigating:major:2026-10-05T13:05:44.789000+00:00",
-  "impact": "major",
-  "incident_id": "bhphxz3vr58g",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-05T13:15:33.485162+00:00",
-  "started_at": "2026-10-05T13:05:44.480000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
-  "transition": "opened",
   "url": "https://stspg.io/wdqhxt8xt574"
  }
 ]
