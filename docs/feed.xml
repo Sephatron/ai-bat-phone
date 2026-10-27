@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M5XEBN3XAQDA3W9WD4GATWCC</link>
+<guid isPermaLink='false'>fireworks:01M5XEBN3XAQDA3W9WD4GATWCC:resolved:resolved:minor:2026-10-27T01:37:30+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 01:45:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 30 min · Opened: Tue, 27 Oct 2026 01:07:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5XEBN3XAQDA3W9WD4GATWCC">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor sorted itself out after 3h 16m]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3</link>
 <guid isPermaLink='false'>cursor:ps_67a789782eda77b3:resolved:resolved:minor:2026-10-27T01:19:29+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 16:15:18 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Degraded access to Agent personal memory</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 14 Oct 2026 16:01:44 +0000</p><p>[Investigating] We are investigating an issue affecting Agent’s access to saved personal memory and preferences. Some users may experience delays or find that previously saved preferences are temporarily unavailable to Agent. We are working to mitigate the issue and will provide an update as we learn more.</p><p><a href="https://status.replit.com/incidents/6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
-<link>https://stspg.io/tp05ff30h17j</link>
-<guid isPermaLink='false'>cursor:6y0yq43mvwg2:opened:investigating:minor:2026-10-14T15:46:23.758000+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 16:00:20 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Wed, 14 Oct 2026 15:46:23 +0000</p><p>We are investigating a service degradation affecting Grok Bot and preventing some users from reaching their computers</p><p><a href="https://stspg.io/tp05ff30h17j">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
