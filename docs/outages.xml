@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is fine again]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30</link>
+<guid isPermaLink='false'>cursor:ps_7e6bd6bbd3e53c30:resolved:resolved:none:2026-10-27T08:18:40+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 08:19:47 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting repository integrations</strong></p><p>Impact: unclassified · Status: resolved · Affects: Automations, BugBot, Cloud Agents, Origin, Review Agents · Duration: 45 min · Opened: Tue, 27 Oct 2026 07:33:08 +0000</p><p>This incident has been resolved. Affected services returned to normal operation at approximately 08:02 UTC.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from OpenAI]]></title>
 <link>https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN</link>
 <guid isPermaLink='false'>openai:01M5Y60NQGGN514EB3943V94EN:opened:investigating:none:2026-10-27T08:00:50+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 21:16:07 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 5h 18m · Opened: Wed, 14 Oct 2026 15:46:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/tp05ff30h17j">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Cursor knows what it did]]></title>
-<link>https://stspg.io/tp05ff30h17j</link>
-<guid isPermaLink='false'>cursor:6y0yq43mvwg2:progress:identified:minor:2026-10-14T20:08:28.560000+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 20:15:15 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: identified · Affects: Grok Bot · Opened: Wed, 14 Oct 2026 15:46:23 +0000</p><p>We've identified the issue impacting Grok Bot for some users and are working on a fix.</p><p><a href="https://stspg.io/tp05ff30h17j">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
