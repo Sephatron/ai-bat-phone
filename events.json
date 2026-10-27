@@ -1,5 +1,48 @@
 [
  {
+  "body": "K3 部分请求的 TTFT 延迟可能升高",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
+  "headline": "🔴 Tools down: Moonshot AI (Kimi) is broken",
+  "id": "moonshot:8t39g5pdw52b:opened:investigating:critical:2026-10-27T09:09:42.325000+00:00",
+  "impact": "critical",
+  "incident_id": "8t39g5pdw52b",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-27T09:15:17.722112+00:00",
+  "started_at": "2026-10-27T09:09:42.187000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 TTFT 响应延迟升高",
+  "transition": "opened",
+  "url": "https://stspg.io/6n1mdmbwq9jy"
+ },
+ {
+  "body": "We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔴 Claude is on the floor. Kettle on, grass outside.",
+  "id": "anthropic:0q89dylg9vjk:opened:investigating:major:2026-10-27T09:14:35.343000+00:00",
+  "impact": "major",
+  "incident_id": "0q89dylg9vjk",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-27T09:15:17.722112+00:00",
+  "started_at": "2026-10-27T09:14:35.040000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "opened",
+  "url": "https://stspg.io/rql9h590npxd"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7688,41 +7731,5 @@
   "title": "Service Degradation for Kimi K3 US",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is a bit under the weather",
-  "id": "fireworks:01M46H0RX8S9S8FGAXCXY1CYJM:opened:investigating:minor:2026-10-05T17:15:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M46H0RX8S9S8FGAXCXY1CYJM",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-05T17:30:32.620238+00:00",
-  "started_at": "2026-10-05T17:15:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM"
- },
- {
-  "body": "We are investigating elevated error rates affecting some ChatGPT conversations. Error rates are improving, and our team is continuing to assess recovery. We will share further updates as they become available.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is having a wobble",
-  "id": "openai:01M46G248GGHV9RSAJE82BZY1X:opened:investigating:minor:2026-10-05T16:58:56+00:00",
-  "impact": "minor",
-  "incident_id": "01M46G248GGHV9RSAJE82BZY1X",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-05T17:00:36.457661+00:00",
-  "started_at": "2026-10-05T16:58:56+00:00",
-  "status": "investigating",
-  "title": "Elevated errors in ChatGPT conversations",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
  }
 ]

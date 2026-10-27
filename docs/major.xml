@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/6n1mdmbwq9jy</link>
+<guid isPermaLink='false'>moonshot:8t39g5pdw52b:opened:investigating:critical:2026-10-27T09:09:42.325000+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 09:15:17 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Tue, 27 Oct 2026 09:09:42 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/6n1mdmbwq9jy">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/rql9h590npxd</link>
+<guid isPermaLink='false'>anthropic:0q89dylg9vjk:opened:investigating:major:2026-10-27T09:14:35.343000+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 09:15:17 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 27 Oct 2026 09:14:35 +0000</p><p>We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/rql9h590npxd">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/5hx1kxfh3bl7</link>
 <guid isPermaLink='false'>moonshot:ll8x75r56c3p:resolved:resolved:critical:2026-10-26T09:50:47.216000+00:00</guid>
