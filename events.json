@@ -1,5 +1,29 @@
 [
  {
+  "body": "We are investigating elevated errors affecting some repository integrations. Features that rely on repository access, including review agents and cloud agents, may fail or be delayed. We are working to restore normal service.",
+  "components": [
+   "Automations",
+   "BugBot",
+   "Cloud Agents",
+   "Origin",
+   "Review Agents"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor has a limp, not a break",
+  "id": "cursor:ps_7e6bd6bbd3e53c30:opened:investigating:none:2026-10-27T07:33:08+00:00",
+  "impact": "none",
+  "incident_id": "ps_7e6bd6bbd3e53c30",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-27T07:45:20.338250+00:00",
+  "started_at": "2026-10-27T07:33:08+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting repository integrations",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30"
+ },
+ {
   "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service)",
   "components": [
    "DeepSeek V4 Pro API服务(API Service)"
@@ -7704,23 +7728,5 @@
   "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
   "transition": "opened",
   "url": "https://stspg.io/wdqhxt8xt574"
- },
- {
-  "body": "The issue affecting saving and live editing in Pages has been resolved",
-  "components": [],
-  "duration": "19 min",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M461GYDMCVJJK8330PVCH42C:resolved:resolved:minor:2026-10-05T13:04:30+00:00",
-  "impact": "minor",
-  "incident_id": "01M461GYDMCVJJK8330PVCH42C",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-05T13:15:33.485162+00:00",
-  "started_at": "2026-10-05T12:44:53+00:00",
-  "status": "resolved",
-  "title": "Issues saving and editing Pages",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M461GYDMCVJJK8330PVCH42C"
  }
 ]

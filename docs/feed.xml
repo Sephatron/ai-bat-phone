@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30</link>
+<guid isPermaLink='false'>cursor:ps_7e6bd6bbd3e53c30:opened:investigating:none:2026-10-27T07:33:08+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 07:45:20 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting repository integrations</strong></p><p>Impact: unclassified · Status: investigating · Affects: Automations, BugBot, Cloud Agents, Origin, Review Agents · Opened: Tue, 27 Oct 2026 07:33:08 +0000</p><p>We are investigating elevated errors affecting some repository integrations. Features that rely on repository access, including review agents and cloud agents, may fail or be delayed. We are working to restore normal service.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
 <link>https://status.deepseek.com/incidents/7170710513287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7170710513287:resolved:resolved:minor:2026-10-27T07:30:21.905480+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 21:16:07 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 5h 18m · Opened: Wed, 14 Oct 2026 15:46:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/tp05ff30h17j">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Cursor knows what it did]]></title>
-<link>https://stspg.io/tp05ff30h17j</link>
-<guid isPermaLink='false'>cursor:6y0yq43mvwg2:progress:identified:minor:2026-10-14T20:08:28.560000+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 20:15:15 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: identified · Affects: Grok Bot · Opened: Wed, 14 Oct 2026 15:46:23 +0000</p><p>We've identified the issue impacting Grok Bot for some users and are working on a fix.</p><p><a href="https://stspg.io/tp05ff30h17j">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

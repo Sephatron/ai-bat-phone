@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30</link>
+<guid isPermaLink='false'>cursor:ps_7e6bd6bbd3e53c30:opened:investigating:none:2026-10-27T07:33:08+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 07:45:20 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting repository integrations</strong></p><p>Impact: unclassified · Status: investigating · Affects: Automations, BugBot, Cloud Agents, Origin, Review Agents · Opened: Tue, 27 Oct 2026 07:33:08 +0000</p><p>We are investigating elevated errors affecting some repository integrations. Features that rely on repository access, including review agents and cloud agents, may fail or be delayed. We are working to restore normal service.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
 <link>https://status.deepseek.com/incidents/7170710513287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7170710513287:resolved:resolved:minor:2026-10-27T07:30:21.905480+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 17:15:20 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 14 Oct 2026 17:00:44 +0000</p><p>We have identified an issue causing delays in publishing organization cost data through the Costs API. API and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.</p><p><a href="https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Replit is a bit under the weather]]></title>
-<link>https://status.replit.com/incidents/6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f</link>
-<guid isPermaLink='false'>replit:6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f:opened:investigating:minor:2026-10-14T16:15:18.853739+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 16:15:18 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Degraded access to Agent personal memory</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 14 Oct 2026 16:01:44 +0000</p><p>[Investigating] We are investigating an issue affecting Agent’s access to saved personal memory and preferences. Some users may experience delays or find that previously saved preferences are temporarily unavailable to Agent. We are working to mitigate the issue and will provide an update as we learn more.</p><p><a href="https://status.replit.com/incidents/6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
