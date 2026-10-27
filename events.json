@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "1h 17m",
+  "headline": "🟢 OpenAI sorted itself out after 1h 17m",
+  "id": "openai:01M5YY4A3TQETEQ53DVSK8SW10:resolved:resolved:minor:2026-10-27T16:20:06+00:00",
+  "impact": "minor",
+  "incident_id": "01M5YY4A3TQETEQ53DVSK8SW10",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-27T16:30:24.688630+00:00",
+  "started_at": "2026-10-27T15:02:15+00:00",
+  "status": "resolved",
+  "title": "6.1 Sol Degraded Model Performance",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
+ },
+ {
   "body": "The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 07:42 PT / 14:42 UTC to 08:17 PT / 15:17 UTC.",
   "components": [
    "claude.ai",
@@ -7727,26 +7745,5 @@
   "title": "Disruption with some GitHub services",
   "transition": "opened",
   "url": "https://stspg.io/pjcfc4c3pm7g"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Actions",
-   "Pages"
-  ],
-  "duration": "3h 37m",
-  "headline": "🟢 GitHub is back. Grass sufficiently touched.",
-  "id": "github:3q1yb5m7ltvb:resolved:resolved:critical:2026-10-05T22:49:42.685000+00:00",
-  "impact": "critical",
-  "incident_id": "3q1yb5m7ltvb",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-05T23:00:41.841660+00:00",
-  "started_at": "2026-10-05T19:11:58.373000+00:00",
-  "status": "resolved",
-  "title": "Incident with Actions",
-  "transition": "resolved",
-  "url": "https://stspg.io/c11dc9nb1zdq"
  }
 ]
