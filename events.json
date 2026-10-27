@@ -1,5 +1,28 @@
 [
  {
+  "body": "This has been resolved.",
+  "components": [
+   "Automations",
+   "Cloud Agents",
+   "CLI",
+   "IDE"
+  ],
+  "duration": "3h 16m",
+  "headline": "🟢 Cursor sorted itself out after 3h 16m",
+  "id": "cursor:ps_67a789782eda77b3:resolved:resolved:minor:2026-10-27T01:19:29+00:00",
+  "impact": "minor",
+  "incident_id": "ps_67a789782eda77b3",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-27T01:30:18.525688+00:00",
+  "started_at": "2026-10-26T22:02:31+00:00",
+  "status": "resolved",
+  "title": "Degraded agent personalization and codebase sync",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7695,26 +7718,5 @@
   "title": "Elevated Work Mode errors",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Review Agents",
-   "Grok Bot"
-  ],
-  "duration": "35 min",
-  "headline": "🟢 Cursor sorted itself out after 35 min",
-  "id": "cursor:tjs10pzx9qxg:resolved:resolved:minor:2026-10-03T07:26:51.966000+00:00",
-  "impact": "minor",
-  "incident_id": "tjs10pzx9qxg",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-03T07:30:36.236138+00:00",
-  "started_at": "2026-10-03T06:50:57.172000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot and Review Agents",
-  "transition": "resolved",
-  "url": "https://stspg.io/v2hkwpxcb9j8"
  }
 ]

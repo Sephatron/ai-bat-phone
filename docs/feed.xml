@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor sorted itself out after 3h 16m]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3</link>
+<guid isPermaLink='false'>cursor:ps_67a789782eda77b3:resolved:resolved:minor:2026-10-27T01:19:29+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 01:30:18 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded agent personalization and codebase sync</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Cloud Agents, CLI, IDE · Duration: 3h 16m · Opened: Mon, 26 Oct 2026 22:02:31 +0000</p><p>This has been resolved.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M5XEBN3XAQDA3W9WD4GATWCC</link>
 <guid isPermaLink='false'>fireworks:01M5XEBN3XAQDA3W9WD4GATWCC:opened:investigating:minor:2026-10-27T01:07:24+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 16:00:20 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Wed, 14 Oct 2026 15:46:23 +0000</p><p>We are investigating a service degradation affecting Grok Bot and preventing some users from reaching their computers</p><p><a href="https://stspg.io/tp05ff30h17j">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8</link>
-<guid isPermaLink='false'>openai:01M4WYPP5QA0CJ3JV76KH285K8:resolved:resolved:minor:2026-10-14T10:58:07+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 11:00:33 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst</strong></p><p>Impact: minor · Status: resolved · Duration: 40 min · Opened: Wed, 14 Oct 2026 10:18:07 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
