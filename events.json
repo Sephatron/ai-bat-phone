@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 07:42 PT / 14:42 UTC to 08:17 PT / 15:17 UTC.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "41 min",
+  "headline": "🟢 All clear from Claude after 41 min",
+  "id": "anthropic:lqhknfdjrcst:resolved:resolved:major:2026-10-27T15:50:17.725000+00:00",
+  "impact": "major",
+  "incident_id": "lqhknfdjrcst",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-27T16:00:20.247064+00:00",
+  "started_at": "2026-10-27T15:09:08.926000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "resolved",
+  "url": "https://stspg.io/39x7qh3sd7bd"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7724,27 +7747,6 @@
   "status": "resolved",
   "title": "Incident with Actions",
   "transition": "resolved",
-  "url": "https://stspg.io/c11dc9nb1zdq"
- },
- {
-  "body": "Pages is experiencing degraded performance. We are continuing to investigate.",
-  "components": [
-   "Actions",
-   "Pages"
-  ],
-  "duration": "",
-  "headline": "🔺 Upgrade your concern: GitHub is now critical",
-  "id": "github:3q1yb5m7ltvb:escalated:investigating:critical:2026-10-05T21:22:39.019000+00:00",
-  "impact": "critical",
-  "incident_id": "3q1yb5m7ltvb",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-05T21:25:43.122970+00:00",
-  "started_at": "2026-10-05T19:11:58.373000+00:00",
-  "status": "investigating",
-  "title": "Incident with Actions",
-  "transition": "escalated",
   "url": "https://stspg.io/c11dc9nb1zdq"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 27 Oct 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from Claude after 41 min]]></title>
+<link>https://stspg.io/39x7qh3sd7bd</link>
+<guid isPermaLink='false'>anthropic:lqhknfdjrcst:resolved:resolved:major:2026-10-27T15:50:17.725000+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 16:00:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 41 min · Opened: Tue, 27 Oct 2026 15:09:08 +0000</p><p>The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 07:42 PT / 14:42 UTC to 08:17 PT / 15:17 UTC.</p><p><a href="https://stspg.io/39x7qh3sd7bd">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Claude has found the culprit]]></title>
 <link>https://stspg.io/39x7qh3sd7bd</link>
@@ -960,14 +968,6 @@
 <pubDate>Mon, 05 Oct 2026 23:00:41 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: critical · Status: resolved · Affects: Actions, Pages · Duration: 3h 37m · Opened: Mon, 05 Oct 2026 19:11:58 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/c11dc9nb1zdq">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 Upgrade your concern: GitHub is now critical]]></title>
-<link>https://stspg.io/c11dc9nb1zdq</link>
-<guid isPermaLink='false'>github:3q1yb5m7ltvb:escalated:investigating:critical:2026-10-05T21:22:39.019000+00:00</guid>
-<pubDate>Mon, 05 Oct 2026 21:25:43 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: critical · Status: investigating · Affects: Actions, Pages · Opened: Mon, 05 Oct 2026 19:11:58 +0000</p><p>Pages is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/c11dc9nb1zdq">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
