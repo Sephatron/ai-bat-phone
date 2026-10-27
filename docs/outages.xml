@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN</link>
+<guid isPermaLink='false'>openai:01M5Y60NQGGN514EB3943V94EN:progress:monitoring:none:2026-10-27T08:21:10+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 08:30:19 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Tue, 27 Oct 2026 08:00:50 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is fine again]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30</link>
 <guid isPermaLink='false'>cursor:ps_7e6bd6bbd3e53c30:resolved:resolved:none:2026-10-27T08:18:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 22:46:04 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 14 Oct 2026 22:33:00 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 5h 18m]]></title>
-<link>https://stspg.io/tp05ff30h17j</link>
-<guid isPermaLink='false'>cursor:6y0yq43mvwg2:resolved:resolved:minor:2026-10-14T21:04:46.631000+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 21:16:07 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 5h 18m · Opened: Wed, 14 Oct 2026 15:46:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/tp05ff30h17j">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M5Y60NQGGN514EB3943V94EN:progress:monitoring:none:2026-10-27T08:21:10+00:00",
+  "impact": "none",
+  "incident_id": "01M5Y60NQGGN514EB3943V94EN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-27T08:30:19.719390+00:00",
+  "started_at": "2026-10-27T08:00:50+00:00",
+  "status": "monitoring",
+  "title": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
+ },
+ {
   "body": "This incident has been resolved. Affected services returned to normal operation at approximately 08:02 UTC.",
   "components": [
    "Automations",
@@ -7706,23 +7724,5 @@
   "title": "Elevated errors in ChatGPT conversations",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M46C47WYYD9NMZVGH83X3ZR1:opened:investigating:none:2026-10-05T15:50:11+00:00",
-  "impact": "none",
-  "incident_id": "01M46C47WYYD9NMZVGH83X3ZR1",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-05T15:54:05.185185+00:00",
-  "started_at": "2026-10-05T15:50:11+00:00",
-  "status": "investigating",
-  "title": "Admin Console Intermittently Inaccessible",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
  }
 ]
