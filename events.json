@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting Claude services has been resolved.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "42 min",
+  "headline": "🟢 Claude is fixed. You may resume being productive.",
+  "id": "anthropic:0q89dylg9vjk:resolved:resolved:major:2026-10-27T09:56:46.404000+00:00",
+  "impact": "major",
+  "incident_id": "0q89dylg9vjk",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-27T10:00:20.690525+00:00",
+  "started_at": "2026-10-27T09:14:35.040000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "resolved",
+  "url": "https://stspg.io/rql9h590npxd"
+ },
+ {
   "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
   "components": [
    "claude.ai",
@@ -7718,23 +7741,5 @@
   "title": "Elevated error rates in Codex Cloud",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W"
- },
- {
-  "body": "We have mitigated the issue affecting ChatGPT conversations and are monitoring recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M46G248GGHV9RSAJE82BZY1X:progress:monitoring:minor:2026-10-05T17:55:04+00:00",
-  "impact": "minor",
-  "incident_id": "01M46G248GGHV9RSAJE82BZY1X",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-05T18:00:35.501287+00:00",
-  "started_at": "2026-10-05T16:58:56+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors in ChatGPT conversations",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
  }
 ]
