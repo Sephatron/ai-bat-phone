@@ -1,5 +1,25 @@
 [
  {
+  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service)",
+  "components": [
+   "DeepSeek V4 Pro API服务(API Service)"
+  ],
+  "duration": "",
+  "headline": "🟢 DeepSeek sorted itself out after a while",
+  "id": "deepseek:urn:flashduty:change:7170710513287:resolved:resolved:minor:2026-10-27T07:30:21.905480+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7170710513287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-10-27T07:30:21.905480+00:00",
+  "started_at": "2026-10-27T07:07:39+00:00",
+  "status": "resolved",
+  "title": "DeepSeek API 性能下降（DeepSeek API Degraded Performance）",
+  "transition": "resolved",
+  "url": "https://status.deepseek.com/incidents/7170710513287"
+ },
+ {
   "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4 Pro API服务(API Service)",
   "components": [
    "DeepSeek V4 Pro API服务(API Service)"
@@ -7701,24 +7721,6 @@
   "status": "resolved",
   "title": "Issues saving and editing Pages",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M461GYDMCVJJK8330PVCH42C"
- },
- {
-  "body": "We are investigating the issue for the listed services. Some users may be unable to save changes or reconnect to live editing sessions.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from OpenAI",
-  "id": "openai:01M461GYDMCVJJK8330PVCH42C:opened:investigating:minor:2026-10-05T12:44:53+00:00",
-  "impact": "minor",
-  "incident_id": "01M461GYDMCVJJK8330PVCH42C",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-05T12:46:09.302635+00:00",
-  "started_at": "2026-10-05T12:44:53+00:00",
-  "status": "investigating",
-  "title": "Issues saving and editing Pages",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M461GYDMCVJJK8330PVCH42C"
  }
 ]

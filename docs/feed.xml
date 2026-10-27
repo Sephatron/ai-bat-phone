@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
+<link>https://status.deepseek.com/incidents/7170710513287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7170710513287:resolved:resolved:minor:2026-10-27T07:30:21.905480+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 07:30:21 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek API 性能下降（DeepSeek API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4 Pro API服务(API Service) · Opened: Tue, 27 Oct 2026 07:07:39 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7170710513287">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 DeepSeek has a limp, not a break]]></title>
 <link>https://status.deepseek.com/incidents/7170710513287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7170710513287:opened:investigating:minor:2026-10-27T07:15:18.140066+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 14 Oct 2026 20:15:15 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: identified · Affects: Grok Bot · Opened: Wed, 14 Oct 2026 15:46:23 +0000</p><p>We've identified the issue impacting Grok Bot for some users and are working on a fix.</p><p><a href="https://stspg.io/tp05ff30h17j">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG</link>
-<guid isPermaLink='false'>openai:01M4XNQX7C6RCBNGX9H711WFSG:opened:identified:minor:2026-10-14T17:02:47+00:00</guid>
-<pubDate>Wed, 14 Oct 2026 17:15:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 14 Oct 2026 17:00:44 +0000</p><p>We have identified an issue causing delays in publishing organization cost data through the Costs API. API and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.</p><p><a href="https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
