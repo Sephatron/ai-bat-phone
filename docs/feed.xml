@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 27 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 13:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q</link>
+<guid isPermaLink='false'>fireworks:01M5YN72RQ4WTP7264PMEPFG2Q:resolved:resolved:minor:2026-10-27T12:50:28+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 13:00:21 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 23 min · Opened: Tue, 27 Oct 2026 12:26:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 05:01:06 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）</strong></p><p>Impact: minor · Status: monitoring · Affects: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service) · Opened: Thu, 15 Oct 2026 00:11:35 +0000</p><p>Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7116348214287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 DeepSeek is readable again, so silence here means quiet once more]]></title>
-<link>https://status.deepseek.com</link>
-<guid isPermaLink='false'>meta:deepseek:recovered:2026-10-15T01:00:00+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 02:16:00 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read DeepSeek's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
