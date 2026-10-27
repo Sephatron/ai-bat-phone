@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M5YY4A3TQETEQ53DVSK8SW10:progress:monitoring:minor:2026-10-27T15:40:14+00:00",
+  "impact": "minor",
+  "incident_id": "01M5YY4A3TQETEQ53DVSK8SW10",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-27T15:45:18.133614+00:00",
+  "started_at": "2026-10-27T15:02:15+00:00",
+  "status": "monitoring",
+  "title": "6.1 Sol Degraded Model Performance",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
+ },
+ {
   "body": "We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7728,23 +7746,5 @@
   "title": "Incident with Actions",
   "transition": "escalated",
   "url": "https://stspg.io/c11dc9nb1zdq"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "5h 17m",
-  "headline": "🟢 OpenAI sorted itself out after 5h 17m",
-  "id": "openai:01M46C47WYYD9NMZVGH83X3ZR1:resolved:resolved:none:2026-10-05T21:07:22+00:00",
-  "impact": "none",
-  "incident_id": "01M46C47WYYD9NMZVGH83X3ZR1",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-05T21:25:43.122970+00:00",
-  "started_at": "2026-10-05T15:50:11+00:00",
-  "status": "resolved",
-  "title": "Admin Console Intermittently Inaccessible",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
  }
 ]
