@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:0q89dylg9vjk:progress:monitoring:major:2026-10-27T09:38:11.556000+00:00",
+  "impact": "major",
+  "incident_id": "0q89dylg9vjk",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-27T09:45:19.900614+00:00",
+  "started_at": "2026-10-27T09:14:35.040000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "progress",
+  "url": "https://stspg.io/rql9h590npxd"
+ },
+ {
   "body": "K3 部分请求的 TTFT 延迟可能升高",
   "components": [
    "K3"
@@ -7713,23 +7736,5 @@
   "title": "Elevated errors in ChatGPT conversations",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "26 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M46H0RX8S9S8FGAXCXY1CYJM:resolved:resolved:minor:2026-10-05T17:41:43+00:00",
-  "impact": "minor",
-  "incident_id": "01M46H0RX8S9S8FGAXCXY1CYJM",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-05T17:45:29.978421+00:00",
-  "started_at": "2026-10-05T17:15:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M46H0RX8S9S8FGAXCXY1CYJM"
  }
 ]
