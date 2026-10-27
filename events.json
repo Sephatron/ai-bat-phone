@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue is now resolved.",
+  "components": [],
+  "duration": "5h 53m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M5Y60NQGGN514EB3943V94EN:resolved:resolved:none:2026-10-27T13:54:35+00:00",
+  "impact": "none",
+  "incident_id": "01M5Y60NQGGN514EB3943V94EN",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-27T14:00:21.748511+00:00",
+  "started_at": "2026-10-27T08:00:50+00:00",
+  "status": "resolved",
+  "title": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "23 min",
@@ -7725,23 +7743,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M46PGHWSZ51Y87R23495R122"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M46C47WYYD9NMZVGH83X3ZR1:progress:monitoring:none:2026-10-05T19:33:08+00:00",
-  "impact": "none",
-  "incident_id": "01M46C47WYYD9NMZVGH83X3ZR1",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-05T19:46:11.714617+00:00",
-  "started_at": "2026-10-05T15:50:11+00:00",
-  "status": "monitoring",
-  "title": "Admin Console Intermittently Inaccessible",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
  }
 ]
