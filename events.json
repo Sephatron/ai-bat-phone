@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M5XEBN3XAQDA3W9WD4GATWCC:opened:investigating:minor:2026-10-27T01:07:24+00:00",
+  "impact": "minor",
+  "incident_id": "01M5XEBN3XAQDA3W9WD4GATWCC",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-27T01:15:17.648238+00:00",
+  "started_at": "2026-10-27T01:07:24+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M5XEBN3XAQDA3W9WD4GATWCC"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "23 min",
@@ -7697,27 +7715,6 @@
   "status": "resolved",
   "title": "Investigating service degradation — Grok Bot and Review Agents",
   "transition": "resolved",
-  "url": "https://stspg.io/v2hkwpxcb9j8"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot and Review Agents.",
-  "components": [
-   "Review Agents",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is a bit under the weather",
-  "id": "cursor:tjs10pzx9qxg:opened:investigating:minor:2026-10-03T06:50:57.323000+00:00",
-  "impact": "minor",
-  "incident_id": "tjs10pzx9qxg",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-03T07:00:39.008637+00:00",
-  "started_at": "2026-10-03T06:50:57.172000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot and Review Agents",
-  "transition": "opened",
   "url": "https://stspg.io/v2hkwpxcb9j8"
  }
 ]
