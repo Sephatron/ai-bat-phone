@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Claude has found the culprit]]></title>
+<link>https://stspg.io/39x7qh3sd7bd</link>
+<guid isPermaLink='false'>anthropic:lqhknfdjrcst:opened:identified:major:2026-10-27T15:09:09.162000+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 15:15:17 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 27 Oct 2026 15:09:08 +0000</p><p>We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/39x7qh3sd7bd">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 OpenAI is a bit under the weather]]></title>
+<link>https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10</link>
+<guid isPermaLink='false'>openai:01M5YY4A3TQETEQ53DVSK8SW10:opened:investigating:minor:2026-10-27T15:02:15+00:00</guid>
+<pubDate>Tue, 27 Oct 2026 15:15:17 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>6.1 Sol Degraded Model Performance</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 27 Oct 2026 15:02:15 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN</link>
 <guid isPermaLink='false'>openai:01M5Y60NQGGN514EB3943V94EN:resolved:resolved:none:2026-10-27T13:54:35+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 08:16:01 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 20m · Opened: Thu, 15 Oct 2026 06:45:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4Z4XSABKWG52NRT1VW5ZX4A">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M4Z4XSABKWG52NRT1VW5ZX4A</link>
-<guid isPermaLink='false'>fireworks:01M4Z4XSABKWG52NRT1VW5ZX4A:opened:investigating:minor:2026-10-15T06:45:20+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 06:46:01 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 15 Oct 2026 06:45:20 +0000</p><p>We are seeing impacted performance for Kimi K3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4Z4XSABKWG52NRT1VW5ZX4A">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 DeepSeek has stopped wobbling]]></title>
-<link>https://status.deepseek.com/incidents/7116348214287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7116348214287:resolved:resolved:minor:2026-10-15T05:16:02.592974+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 05:16:02 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）</strong></p><p>Impact: minor · Status: resolved · Affects: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service) · Opened: Thu, 15 Oct 2026 00:11:35 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7116348214287">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,46 @@
 [
  {
+  "body": "We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔍 Claude has found the culprit",
+  "id": "anthropic:lqhknfdjrcst:opened:identified:major:2026-10-27T15:09:09.162000+00:00",
+  "impact": "major",
+  "incident_id": "lqhknfdjrcst",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-27T15:15:17.067693+00:00",
+  "started_at": "2026-10-27T15:09:08.926000+00:00",
+  "status": "identified",
+  "title": "Elevated errors for Claude Sonnet 5.5",
+  "transition": "opened",
+  "url": "https://stspg.io/39x7qh3sd7bd"
+ },
+ {
+  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is a bit under the weather",
+  "id": "openai:01M5YY4A3TQETEQ53DVSK8SW10:opened:investigating:minor:2026-10-27T15:02:15+00:00",
+  "impact": "minor",
+  "incident_id": "01M5YY4A3TQETEQ53DVSK8SW10",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-27T15:15:17.067693+00:00",
+  "started_at": "2026-10-27T15:02:15+00:00",
+  "status": "investigating",
+  "title": "6.1 Sol Degraded Model Performance",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
+ },
+ {
   "body": "The issue is now resolved.",
   "components": [],
   "duration": "5h 53m",
@@ -7705,43 +7746,5 @@
   "title": "Admin Console Intermittently Inaccessible",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M46C47WYYD9NMZVGH83X3ZR1"
- },
- {
-  "body": "We’re investigating an issue causing delays when assigning GitHub-hosted runners to Actions jobs. Some workflows may take longer to start across runner configurations. Our teams are working to mitigate the issue, and we’ll provide an update as we learn more.",
-  "components": [
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub is sulking, mildly",
-  "id": "github:3q1yb5m7ltvb:opened:investigating:minor:2026-10-05T19:15:17.488000+00:00",
-  "impact": "minor",
-  "incident_id": "3q1yb5m7ltvb",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-05T19:46:11.714617+00:00",
-  "started_at": "2026-10-05T19:11:58.373000+00:00",
-  "status": "investigating",
-  "title": "Incident with Actions",
-  "transition": "opened",
-  "url": "https://stspg.io/c11dc9nb1zdq"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "23 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 23 min",
-  "id": "fireworks:01M46PGHWSZ51Y87R23495R122:resolved:resolved:minor:2026-10-05T19:15:31+00:00",
-  "impact": "minor",
-  "incident_id": "01M46PGHWSZ51Y87R23495R122",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-05T19:46:11.714617+00:00",
-  "started_at": "2026-10-05T18:51:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M46PGHWSZ51Y87R23495R122"
  }
 ]
