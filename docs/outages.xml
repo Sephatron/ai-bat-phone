@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/b4jwhh6s5rvs</link>
+<guid isPermaLink='false'>moonshot:8vbxpnq9x9jk:opened:investigating:critical:2026-10-28T09:06:43.513000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 09:15:17 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 09:06:43 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/b4jwhh6s5rvs">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G</link>
 <guid isPermaLink='false'>fireworks:01M60NPPKTAY600ZVQWVTR230G:resolved:resolved:minor:2026-10-28T08:10:39+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 22:31:01 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors affecting Grok models</strong></p><p>Impact: minor · Status: investigating · Affects: CLI, Cloud Agents, IDE · Opened: Thu, 15 Oct 2026 22:25:11 +0000</p><p>We are investigating elevated errors affecting Grok models in Cursor. Some requests may fail with a capacity error. Retrying the request or switching to another model may help.</p><p><a href="https://stspg.io/nbsrtgp6pr7p">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 28 min]]></title>
-<link>https://stspg.io/vk8t78vtswmg</link>
-<guid isPermaLink='false'>github:vlxrztp88101:resolved:resolved:minor:2026-10-15T19:00:06.028000+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 19:01:02 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>CCA Automations are delayed when starting an Automation</strong></p><p>Impact: minor · Status: resolved · Duration: 28 min · Opened: Thu, 15 Oct 2026 18:31:49 +0000</p><p>We suspected that CCA Automations were experiencing delays when users start an Automation, but further investigation found that there was no delay or impact to CCA Automations.</p><p><a href="https://stspg.io/vk8t78vtswmg">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
