@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 28 Oct 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📵 Baseten is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.baseten.co</link>
+<guid isPermaLink='false'>meta:baseten:unreachable:2026-10-28T15:00:00+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 16:00:55 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Baseten's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.baseten.co/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.baseten.co">Baseten status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub is upright again. That took 1h 15m.]]></title>
 <link>https://stspg.io/bwcyq078jzms</link>
