@@ -1001,13 +1001,5 @@
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: identified · Affects: Routing Middleware · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Vercel is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/l76txmwrzdcp</link>
-<guid isPermaLink='false'>vercel:1dp8c0nfchtg:opened:investigating:major:2026-10-06T16:10:59.135000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 16:13:37 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: investigating · Affects: Routing Middleware · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>We are investigating an issue causing Vercel Auth login failures for pages with Deployment Protection enabled. We will provide an update as more information becomes available.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

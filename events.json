@@ -1,5 +1,27 @@
 [
  {
+  "body": "The issue affecting the Google Calendar connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 04:07 PT / 11:07 UTC on October 26 to 11:52 PT / 18:52 UTC on October 28.",
+  "components": [
+   "claude.ai",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "3h 46m",
+  "headline": "🟢 Claude is fine again",
+  "id": "anthropic:phg1y2yh07n2:resolved:resolved:minor:2026-10-28T20:05:18.230000+00:00",
+  "impact": "minor",
+  "incident_id": "phg1y2yh07n2",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-28T20:15:55.765764+00:00",
+  "started_at": "2026-10-28T16:19:09.935000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors affecting the Google Calendar connector",
+  "transition": "resolved",
+  "url": "https://stspg.io/75qq31h8672d"
+ },
+ {
   "body": "We are seeing recovery for errors affecting the Google Calendar connector, and error rates have returned to normal levels. We are continuing to monitor with our upstream provider.",
   "components": [
    "claude.ai",
@@ -7746,25 +7768,5 @@
   "title": "Elevated errors affecting Anthropic models",
   "transition": "resolved",
   "url": "https://stspg.io/qkz3yd9rsm13"
- },
- {
-  "body": "We are investigating an issue causing Vercel Auth login failures for pages with Deployment Protection enabled. We will provide an update as more information becomes available.",
-  "components": [
-   "Routing Middleware"
-  ],
-  "duration": "",
-  "headline": "🔴 Vercel is on the floor. Kettle on, grass outside.",
-  "id": "vercel:1dp8c0nfchtg:opened:investigating:major:2026-10-06T16:10:59.135000+00:00",
-  "impact": "major",
-  "incident_id": "1dp8c0nfchtg",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-06T16:13:37.379991+00:00",
-  "started_at": "2026-10-06T16:10:59.031000+00:00",
-  "status": "investigating",
-  "title": "Vercel Auth login failures for pages with Deployment Protection enabled",
-  "transition": "opened",
-  "url": "https://stspg.io/l76txmwrzdcp"
  }
 ]
