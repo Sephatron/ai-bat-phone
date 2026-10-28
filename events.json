@@ -1,5 +1,48 @@
 [
  {
+  "body": "We are investigating elevated errors when searching and reading email with the Gmail connector. This issue does not affect other connectors. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Claude",
+  "id": "anthropic:9ftx658xtd5z:opened:investigating:minor:2026-10-28T03:59:32.385000+00:00",
+  "impact": "minor",
+  "incident_id": "9ftx658xtd5z",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-28T04:00:20.710749+00:00",
+  "started_at": "2026-10-28T03:59:32.227000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting the Gmail connector",
+  "transition": "opened",
+  "url": "https://stspg.io/j86c100s8tqm"
+ },
+ {
+  "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "",
+  "headline": "🔧 Baseten is under the bonnet right now",
+  "id": "baseten:5m8bp9gdvlqz:progress:in_progress:maintenance:2026-10-28T04:00:09.884000+00:00",
+  "impact": "maintenance",
+  "incident_id": "5m8bp9gdvlqz",
+  "kind": "maintenance",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-10-28T04:00:20.710749+00:00",
+  "started_at": "2026-10-26T22:06:05.631000+00:00",
+  "status": "in_progress",
+  "title": "Database Upgrade. Inference will not be affected",
+  "transition": "progress",
+  "url": "https://stspg.io/0rvb1mr214kw"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "K3"
@@ -7713,41 +7756,5 @@
   "title": "Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [],
-  "duration": "1h 44m",
-  "headline": "🟢 All clear from GitHub after 1h 44m",
-  "id": "github:2kxnqcxcrr7f:resolved:resolved:major:2026-10-06T01:32:43.705000+00:00",
-  "impact": "major",
-  "incident_id": "2kxnqcxcrr7f",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-06T01:45:29.968396+00:00",
-  "started_at": "2026-10-05T23:47:45.195000+00:00",
-  "status": "resolved",
-  "title": "Disruption with some GitHub services",
-  "transition": "resolved",
-  "url": "https://stspg.io/pjcfc4c3pm7g"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "55 min",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M47AFBNRNXKJWN549T3PMYV8:resolved:resolved:minor:2026-10-06T01:35:53+00:00",
-  "impact": "minor",
-  "incident_id": "01M47AFBNRNXKJWN549T3PMYV8",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T01:45:29.968396+00:00",
-  "started_at": "2026-10-06T00:40:32+00:00",
-  "status": "resolved",
-  "title": "Elevated errors in API Platform login and administration APIs.",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8"
  }
 ]

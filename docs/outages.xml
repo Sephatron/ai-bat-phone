@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 28 Oct 2026 03:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 04:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Claude]]></title>
+<link>https://stspg.io/j86c100s8tqm</link>
+<guid isPermaLink='false'>anthropic:9ftx658xtd5z:opened:investigating:minor:2026-10-28T03:59:32.385000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 04:00:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Gmail connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Code, Claude Cowork · Opened: Wed, 28 Oct 2026 03:59:32 +0000</p><p>We are investigating elevated errors when searching and reading email with the Gmail connector. This issue does not affect other connectors. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/j86c100s8tqm">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/w9sby180qxln</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 16:31:11 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Issues logging in and signing up for ChatGPT on iOS</strong></p><p>Impact: unclassified · Status: investigating · Opened: Thu, 15 Oct 2026 16:29:26 +0000</p><p>We are investigating an issue affecting logins and signups in the ChatGPT iOS app. We will provide updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M4Z9QK2TA2WWB04KWSXHQDEG</link>
-<guid isPermaLink='false'>fireworks:01M4Z9QK2TA2WWB04KWSXHQDEG:resolved:resolved:minor:2026-10-15T09:25:22+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 09:31:05 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 16m · Opened: Thu, 15 Oct 2026 08:09:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4Z9QK2TA2WWB04KWSXHQDEG">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
