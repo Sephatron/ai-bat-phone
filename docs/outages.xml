@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/rxvmygw9cpzj</link>
+<guid isPermaLink='false'>moonshot:jhxzhgblv183:opened:investigating:critical:2026-10-28T12:09:48.919000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 12:15:55 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 12:09:48 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/rxvmygw9cpzj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/b4jwhh6s5rvs</link>
 <guid isPermaLink='false'>moonshot:8vbxpnq9x9jk:resolved:resolved:critical:2026-10-28T10:05:44.512000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 23:30:58 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Billing issue</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 15 Oct 2026 23:20:51 +0000</p><p>[Investigating] We are investigating a billing issue that affects database usage</p><p><a href="https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/nbsrtgp6pr7p</link>
-<guid isPermaLink='false'>cursor:h76w09vs1vqq:progress:monitoring:minor:2026-10-15T22:58:01.363000+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 23:01:07 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors affecting Grok models</strong></p><p>Impact: minor · Status: monitoring · Affects: CLI, Cloud Agents, IDE · Opened: Thu, 15 Oct 2026 22:25:11 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/nbsrtgp6pr7p">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

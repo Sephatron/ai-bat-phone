@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/rxvmygw9cpzj</link>
+<guid isPermaLink='false'>moonshot:jhxzhgblv183:opened:investigating:critical:2026-10-28T12:09:48.919000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 12:15:55 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 12:09:48 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/rxvmygw9cpzj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/b4jwhh6s5rvs</link>
 <guid isPermaLink='false'>moonshot:8vbxpnq9x9jk:resolved:resolved:critical:2026-10-28T10:05:44.512000+00:00</guid>
@@ -984,14 +992,6 @@
 <pubDate>Tue, 06 Oct 2026 12:15:32 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>Error rates have returned to normal. We're currently monitoring the situation to confirm that the issue has been resolved</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 It got worse: ElevenLabs is now a major outage]]></title>
-<link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
-<guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:escalated:investigating:major:2026-10-06T10:28:05+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 11:15:40 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>We're currently investigating disruptions in SIP calls in our EU residency.</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
