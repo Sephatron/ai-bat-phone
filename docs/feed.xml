@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G</link>
+<guid isPermaLink='false'>fireworks:01M60NPPKTAY600ZVQWVTR230G:resolved:resolved:minor:2026-10-28T08:10:39+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 08:15:18 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 57 min · Opened: Wed, 28 Oct 2026 07:13:30 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/fdrjc7y071pz</link>
+<guid isPermaLink='false'>moonshot:k0b8n9l0fgph:opened:investigating:critical:2026-10-28T08:06:42.347000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 08:15:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 08:06:42 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/fdrjc7y071pz">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G</link>
 <guid isPermaLink='false'>fireworks:01M60NPPKTAY600ZVQWVTR230G:opened:investigating:minor:2026-10-28T07:13:30+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 23:30:58 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Billing issue</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 15 Oct 2026 23:20:51 +0000</p><p>[Investigating] We are investigating a billing issue that affects database usage</p><p><a href="https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/nbsrtgp6pr7p</link>
-<guid isPermaLink='false'>cursor:h76w09vs1vqq:progress:monitoring:minor:2026-10-15T22:58:01.363000+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 23:01:07 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors affecting Grok models</strong></p><p>Impact: minor · Status: monitoring · Affects: CLI, Cloud Agents, IDE · Opened: Thu, 15 Oct 2026 22:25:11 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/nbsrtgp6pr7p">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG</link>
-<guid isPermaLink='false'>openai:01M4XNQX7C6RCBNGX9H711WFSG:progress:monitoring:minor:2026-10-15T22:36:42+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 22:45:58 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 14 Oct 2026 17:00:44 +0000</p><p>We have deployed a fix and are monitoring recovery. Costs data in the Compliance API remains delayed while we process the backlog. We will provide further updates as processing catches up.</p><p><a href="https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

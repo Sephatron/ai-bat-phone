@@ -1,5 +1,43 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "57 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M60NPPKTAY600ZVQWVTR230G:resolved:resolved:minor:2026-10-28T08:10:39+00:00",
+  "impact": "minor",
+  "incident_id": "01M60NPPKTAY600ZVQWVTR230G",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-28T08:15:18.459424+00:00",
+  "started_at": "2026-10-28T07:13:30+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G"
+ },
+ {
+  "body": "K3 部分请求的 TTFT 延迟可能升高",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you",
+  "id": "moonshot:k0b8n9l0fgph:opened:investigating:critical:2026-10-28T08:06:42.347000+00:00",
+  "impact": "critical",
+  "incident_id": "k0b8n9l0fgph",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-28T08:15:18.459424+00:00",
+  "started_at": "2026-10-28T08:06:42.229000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 TTFT 响应延迟升高",
+  "transition": "opened",
+  "url": "https://stspg.io/fdrjc7y071pz"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7725,43 +7763,5 @@
   "title": "increase in latency",
   "transition": "opened",
   "url": "https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ"
- },
- {
-  "body": "We've identified an issue where some customers may experience elevated error rates with Sandbox in Paris, France (cdg1). We are currently investigating this issue. We will share updates as they become available.",
-  "components": [
-   "Sandbox"
-  ],
-  "duration": "",
-  "headline": "🔍 Vercel knows what it did",
-  "id": "vercel:xr8lx0kncx0g:opened:identified:minor:2026-10-06T09:12:06.931000+00:00",
-  "impact": "minor",
-  "incident_id": "xr8lx0kncx0g",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-06T09:15:38.334586+00:00",
-  "started_at": "2026-10-06T09:12:06.674000+00:00",
-  "status": "identified",
-  "title": "Elevated Sandbox error rates in Paris (cdg1)",
-  "transition": "opened",
-  "url": "https://stspg.io/sgzd0v141vpk"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "14h 24m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M46KED6KQ6PR195KZYYVNY8W:resolved:resolved:none:2026-10-06T08:22:49+00:00",
-  "impact": "none",
-  "incident_id": "01M46KED6KQ6PR195KZYYVNY8W",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T08:30:32.012370+00:00",
-  "started_at": "2026-10-05T17:58:04+00:00",
-  "status": "resolved",
-  "title": "Elevated error rates in Codex Cloud",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W"
  }
 ]
