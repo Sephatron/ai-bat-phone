@@ -1,5 +1,43 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "7 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M61GWFB0MBR778JRMPDGYBNV:resolved:resolved:minor:2026-10-28T15:16:23+00:00",
+  "impact": "minor",
+  "incident_id": "01M61GWFB0MBR778JRMPDGYBNV",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-28T15:30:55.005719+00:00",
+  "started_at": "2026-10-28T15:08:30+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M61GWFB0MBR778JRMPDGYBNV"
+ },
+ {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Copilot"
+  ],
+  "duration": "1h 15m",
+  "headline": "🟢 GitHub is upright again. That took 1h 15m.",
+  "id": "github:l7ycmglmykgg:resolved:resolved:critical:2026-10-28T15:28:19.266000+00:00",
+  "impact": "critical",
+  "incident_id": "l7ycmglmykgg",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-28T15:30:55.005719+00:00",
+  "started_at": "2026-10-28T14:12:53.814000+00:00",
+  "status": "resolved",
+  "title": "Disruption with some Copilot services",
+  "transition": "resolved",
+  "url": "https://stspg.io/bwcyq078jzms"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7720,46 +7758,5 @@
   "title": "Elevated error rates in ChatGPT Go conversations",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M48PT6B8SDTW023NC9XZTBC0"
- },
- {
-  "body": "The issue has been resolved. EU SIP services are operational and stable.",
-  "components": [],
-  "duration": "2h 23m",
-  "headline": "🟢 ElevenLabs lives. Pick your tools back up.",
-  "id": "elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:resolved:resolved:major:2026-10-06T12:51:21+00:00",
-  "impact": "major",
-  "incident_id": "01M48C36FW1EZ6FFQYEXJKMT2Y",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-06T13:01:13.570835+00:00",
-  "started_at": "2026-10-06T10:28:05+00:00",
-  "status": "resolved",
-  "title": "EU Agents disruption in SIP calls",
-  "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y"
- },
- {
-  "body": "We are investigating a service degradation affecting Opus 5.5. More information: https://status.claude.com/incidents/ch27pb90bn85",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor has a limp, not a break",
-  "id": "cursor:w865g74p3k6g:opened:investigating:minor:2026-10-06T12:40:52.116000+00:00",
-  "impact": "minor",
-  "incident_id": "w865g74p3k6g",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-06T12:45:39.670567+00:00",
-  "started_at": "2026-10-06T12:40:51.881000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors affecting Anthropic models",
-  "transition": "opened",
-  "url": "https://stspg.io/qkz3yd9rsm13"
  }
 ]

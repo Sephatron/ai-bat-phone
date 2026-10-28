@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is upright again. That took 1h 15m.]]></title>
+<link>https://stspg.io/bwcyq078jzms</link>
+<guid isPermaLink='false'>github:l7ycmglmykgg:resolved:resolved:critical:2026-10-28T15:28:19.266000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 15:30:55 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some Copilot services</strong></p><p>Impact: critical · Status: resolved · Affects: Copilot · Duration: 1h 15m · Opened: Wed, 28 Oct 2026 14:12:53 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/bwcyq078jzms">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
 <link>https://status.windsurf.com</link>
 <guid isPermaLink='false'>meta:windsurf:recovered:2026-10-28T13:00:00+00:00</guid>
@@ -984,14 +992,6 @@
 <pubDate>Tue, 06 Oct 2026 14:15:47 +0000</pubDate>
 <category>AI21</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs lives. Pick your tools back up.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y</link>
-<guid isPermaLink='false'>elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:resolved:resolved:major:2026-10-06T12:51:21+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 13:01:13 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>EU Agents disruption in SIP calls</strong></p><p>Impact: major · Status: resolved · Duration: 2h 23m · Opened: Tue, 06 Oct 2026 10:28:05 +0000</p><p>The issue has been resolved. EU SIP services are operational and stable.</p><p><a href="https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
