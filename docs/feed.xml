@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G</link>
+<guid isPermaLink='false'>fireworks:01M60NPPKTAY600ZVQWVTR230G:opened:investigating:minor:2026-10-28T07:13:30+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 07:15:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 28 Oct 2026 07:13:30 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude has stopped wobbling]]></title>
 <link>https://stspg.io/j86c100s8tqm</link>
 <guid isPermaLink='false'>anthropic:9ftx658xtd5z:resolved:resolved:minor:2026-10-28T05:48:13.158000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 22:45:58 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 14 Oct 2026 17:00:44 +0000</p><p>We have deployed a fix and are monitoring recovery. Costs data in the Compliance API remains delayed while we process the backlog. We will provide further updates as processing catches up.</p><p><a href="https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
-<link>https://stspg.io/nbsrtgp6pr7p</link>
-<guid isPermaLink='false'>cursor:h76w09vs1vqq:opened:investigating:minor:2026-10-15T22:25:11.823000+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 22:31:01 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors affecting Grok models</strong></p><p>Impact: minor · Status: investigating · Affects: CLI, Cloud Agents, IDE · Opened: Thu, 15 Oct 2026 22:25:11 +0000</p><p>We are investigating elevated errors affecting Grok models in Cursor. Some requests may fail with a capacity error. Retrying the request or switching to another model may help.</p><p><a href="https://stspg.io/nbsrtgp6pr7p">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

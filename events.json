@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M60NPPKTAY600ZVQWVTR230G:opened:investigating:minor:2026-10-28T07:13:30+00:00",
+  "impact": "minor",
+  "incident_id": "01M60NPPKTAY600ZVQWVTR230G",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-28T07:15:20.715117+00:00",
+  "started_at": "2026-10-28T07:13:30+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G"
+ },
+ {
   "body": "The issue affecting the Gmail connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:00 PT / 23:00 UTC on October 27 to 22:29 PT on October 27 / 05:29 UTC on October 28.",
   "components": [
    "claude.ai",
@@ -7745,23 +7763,5 @@
   "title": "Elevated error rates in Codex Cloud",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M46KED6KQ6PR195KZYYVNY8W"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "1d 1h",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M45E0JFFJZ6EQ3BWYPW74R2Z:resolved:resolved:minor:2026-10-06T08:29:05+00:00",
-  "impact": "minor",
-  "incident_id": "01M45E0JFFJZ6EQ3BWYPW74R2Z",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T08:30:32.012370+00:00",
-  "started_at": "2026-10-05T07:03:53+00:00",
-  "status": "resolved",
-  "title": "Elevated Work Mode errors",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
  }
 ]

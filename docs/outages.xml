@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G</link>
+<guid isPermaLink='false'>fireworks:01M60NPPKTAY600ZVQWVTR230G:opened:investigating:minor:2026-10-28T07:13:30+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 07:15:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 28 Oct 2026 07:13:30 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude has stopped wobbling]]></title>
 <link>https://stspg.io/j86c100s8tqm</link>
 <guid isPermaLink='false'>anthropic:9ftx658xtd5z:resolved:resolved:minor:2026-10-28T05:48:13.158000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 17:43:21 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Widespread feature degradation</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 12m · Opened: Thu, 15 Oct 2026 16:29:26 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z</link>
-<guid isPermaLink='false'>openai:01M506BA4XRSWH7THR53HQGN3Z:progress:monitoring:none:2026-10-15T17:13:05+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 17:15:59 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Widespread feature degradation</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Thu, 15 Oct 2026 16:29:26 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
