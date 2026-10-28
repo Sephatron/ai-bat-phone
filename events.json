@@ -1,5 +1,27 @@
 [
  {
+  "body": "The issue affecting the Gmail connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:00 PT / 23:00 UTC on October 27 to 22:29 PT on October 27 / 05:29 UTC on October 28.",
+  "components": [
+   "claude.ai",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "1h 48m",
+  "headline": "🟢 Claude has stopped wobbling",
+  "id": "anthropic:9ftx658xtd5z:resolved:resolved:minor:2026-10-28T05:48:13.158000+00:00",
+  "impact": "minor",
+  "incident_id": "9ftx658xtd5z",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-28T06:00:18.265593+00:00",
+  "started_at": "2026-10-28T03:59:32.227000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors affecting the Gmail connector",
+  "transition": "resolved",
+  "url": "https://stspg.io/j86c100s8tqm"
+ },
+ {
   "body": "The scheduled maintenance has been completed.",
   "components": [
    "Model Management API",
@@ -7741,23 +7763,5 @@
   "title": "Elevated Work Mode errors",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "36 min",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M47HC9SGHGFPBN44KGC6SKAQ:resolved:resolved:minor:2026-10-06T03:17:12+00:00",
-  "impact": "minor",
-  "incident_id": "01M47HC9SGHGFPBN44KGC6SKAQ",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T03:30:32.530290+00:00",
-  "started_at": "2026-10-06T02:41:12+00:00",
-  "status": "resolved",
-  "title": "Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ"
  }
 ]

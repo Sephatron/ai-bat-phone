@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 06:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude has stopped wobbling]]></title>
+<link>https://stspg.io/j86c100s8tqm</link>
+<guid isPermaLink='false'>anthropic:9ftx658xtd5z:resolved:resolved:minor:2026-10-28T05:48:13.158000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 06:00:18 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Gmail connector</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude Code, Claude Cowork · Duration: 1h 48m · Opened: Wed, 28 Oct 2026 03:59:32 +0000</p><p>The issue affecting the Gmail connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:00 PT / 23:00 UTC on October 27 to 22:29 PT on October 27 / 05:29 UTC on October 28.</p><p><a href="https://stspg.io/j86c100s8tqm">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Minor grumbles from Claude]]></title>
 <link>https://stspg.io/j86c100s8tqm</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 17:15:59 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Widespread feature degradation</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Thu, 15 Oct 2026 16:29:26 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
-<link>https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z</link>
-<guid isPermaLink='false'>openai:01M506BA4XRSWH7THR53HQGN3Z:opened:investigating:none:2026-10-15T16:29:26+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 16:31:11 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Issues logging in and signing up for ChatGPT on iOS</strong></p><p>Impact: unclassified · Status: investigating · Opened: Thu, 15 Oct 2026 16:29:26 +0000</p><p>We are investigating an issue affecting logins and signups in the ChatGPT iOS app. We will provide updates as we learn more.</p><p><a href="https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 28 Oct 2026 05:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 06:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude has stopped wobbling]]></title>
+<link>https://stspg.io/j86c100s8tqm</link>
+<guid isPermaLink='false'>anthropic:9ftx658xtd5z:resolved:resolved:minor:2026-10-28T05:48:13.158000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 06:00:18 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Gmail connector</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude Code, Claude Cowork · Duration: 1h 48m · Opened: Wed, 28 Oct 2026 03:59:32 +0000</p><p>The issue affecting the Gmail connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:00 PT / 23:00 UTC on October 27 to 22:29 PT on October 27 / 05:29 UTC on October 28.</p><p><a href="https://stspg.io/j86c100s8tqm">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔧 Baseten has put the tools away]]></title>
 <link>https://stspg.io/0rvb1mr214kw</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 22:31:01 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors affecting Grok models</strong></p><p>Impact: minor · Status: investigating · Affects: CLI, Cloud Agents, IDE · Opened: Thu, 15 Oct 2026 22:25:11 +0000</p><p>We are investigating elevated errors affecting Grok models in Cursor. Some requests may fail with a capacity error. Retrying the request or switching to another model may help.</p><p><a href="https://stspg.io/nbsrtgp6pr7p">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 28 min]]></title>
-<link>https://stspg.io/vk8t78vtswmg</link>
-<guid isPermaLink='false'>github:vlxrztp88101:resolved:resolved:minor:2026-10-15T19:00:06.028000+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 19:01:02 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>CCA Automations are delayed when starting an Automation</strong></p><p>Impact: minor · Status: resolved · Duration: 28 min · Opened: Thu, 15 Oct 2026 18:31:49 +0000</p><p>We suspected that CCA Automations were experiencing delays when users start an Automation, but further investigation found that there was no delay or impact to CCA Automations.</p><p><a href="https://stspg.io/vk8t78vtswmg">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
