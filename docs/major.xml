@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/b4jwhh6s5rvs</link>
+<guid isPermaLink='false'>moonshot:8vbxpnq9x9jk:resolved:resolved:critical:2026-10-28T10:05:44.512000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 10:15:17 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 59 min · Opened: Wed, 28 Oct 2026 09:06:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/b4jwhh6s5rvs">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/fdrjc7y071pz</link>
+<guid isPermaLink='false'>moonshot:k0b8n9l0fgph:resolved:resolved:critical:2026-10-28T10:05:42.531000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 10:15:17 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 59m · Opened: Wed, 28 Oct 2026 08:06:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/fdrjc7y071pz">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
 <link>https://stspg.io/b4jwhh6s5rvs</link>
 <guid isPermaLink='false'>moonshot:8vbxpnq9x9jk:opened:investigating:critical:2026-10-28T09:06:43.513000+00:00</guid>
