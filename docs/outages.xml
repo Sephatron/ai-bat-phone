@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/w9sby180qxln</link>
+<guid isPermaLink='false'>moonshot:1g6myg5cjckm:resolved:resolved:critical:2026-10-28T03:42:41.828000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 03:45:20 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 08m · Opened: Wed, 28 Oct 2026 02:33:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/w9sby180qxln">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Minor grumbles from OpenAI]]></title>
+<link>https://status.openai.com/incidents/01M609FPNJF29J5GDH979ZDYYK</link>
+<guid isPermaLink='false'>openai:01M609FPNJF29J5GDH979ZDYYK:opened:investigating:minor:2026-10-28T03:39:58+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 03:45:20 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Degraded Performace on ChatGPT Work</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 28 Oct 2026 03:39:58 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M609FPNJF29J5GDH979ZDYYK">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/w9sby180qxln</link>
 <guid isPermaLink='false'>moonshot:1g6myg5cjckm:opened:investigating:critical:2026-10-28T02:33:41.954000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 09:31:05 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 16m · Opened: Thu, 15 Oct 2026 08:09:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4Z9QK2TA2WWB04KWSXHQDEG">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7</link>
-<guid isPermaLink='false'>fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:resolved:resolved:minor:2026-10-15T09:05:34+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 09:16:01 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 17 min · Opened: Thu, 15 Oct 2026 08:48:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
-<link>https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7</link>
-<guid isPermaLink='false'>fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:opened:investigating:minor:2026-10-15T08:48:20+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 09:01:14 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 15 Oct 2026 08:48:20 +0000</p><p>We are seeing impacted performance for Kimi K3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

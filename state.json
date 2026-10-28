@@ -4511,8 +4511,8 @@
   "moonshot:1g6myg5cjckm": {
    "impact": "critical",
    "last_seen_at": "2026-10-28T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-28T02:33:41.954000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-28T03:42:41.828000+00:00"
   },
   "moonshot:20fbgyv9v8mz": {
    "impact": "critical",
@@ -4579,6 +4579,12 @@
    "last_seen_at": "2026-10-28T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-12T21:23:13.363000+00:00"
+  },
+  "moonshot:6l5hwd33fngl": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-28T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-10-28T03:42:42.664000+00:00"
   },
   "moonshot:77krbnnlj7sp": {
    "impact": "critical",
@@ -5527,6 +5533,12 @@
    "last_seen_at": "2026-10-28T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-27T16:20:06+00:00"
+  },
+  "openai:01M609FPNJF29J5GDH979ZDYYK": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-28T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-28T03:39:58+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

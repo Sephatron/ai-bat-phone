@@ -1,5 +1,43 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "1h 08m",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:1g6myg5cjckm:resolved:resolved:critical:2026-10-28T03:42:41.828000+00:00",
+  "impact": "critical",
+  "incident_id": "1g6myg5cjckm",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-28T03:45:20.987048+00:00",
+  "started_at": "2026-10-28T02:33:41.835000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 TTFT 响应延迟升高",
+  "transition": "resolved",
+  "url": "https://stspg.io/w9sby180qxln"
+ },
+ {
+  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from OpenAI",
+  "id": "openai:01M609FPNJF29J5GDH979ZDYYK:opened:investigating:minor:2026-10-28T03:39:58+00:00",
+  "impact": "minor",
+  "incident_id": "01M609FPNJF29J5GDH979ZDYYK",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-28T03:45:20.987048+00:00",
+  "started_at": "2026-10-28T03:39:58+00:00",
+  "status": "investigating",
+  "title": "Degraded Performace on ChatGPT Work",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M609FPNJF29J5GDH979ZDYYK"
+ },
+ {
   "body": "K3 部分请求的 TTFT 延迟可能升高",
   "components": [
    "K3"
@@ -7711,41 +7749,5 @@
   "title": "Elevated errors in API Platform login and administration APIs.",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M47AFBNRNXKJWN549T3PMYV8:opened:monitoring:minor:2026-10-06T00:40:57+00:00",
-  "impact": "minor",
-  "incident_id": "01M47AFBNRNXKJWN549T3PMYV8",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T00:45:28.884076+00:00",
-  "started_at": "2026-10-06T00:40:32+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors in API Platform login and administration APIs.",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M47AFBNRNXKJWN549T3PMYV8"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "7h 02m",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M46G248GGHV9RSAJE82BZY1X:resolved:resolved:minor:2026-10-06T00:01:05+00:00",
-  "impact": "minor",
-  "incident_id": "01M46G248GGHV9RSAJE82BZY1X",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T00:15:30.976294+00:00",
-  "started_at": "2026-10-05T16:58:56+00:00",
-  "status": "resolved",
-  "title": "Elevated errors in ChatGPT conversations",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M46G248GGHV9RSAJE82BZY1X"
  }
 ]
