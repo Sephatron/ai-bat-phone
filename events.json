@@ -1,5 +1,23 @@
 [
  {
+  "body": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out",
+  "components": [],
+  "duration": "",
+  "headline": "📵 Windsurf is unreadable — silence here means unknown, not fine",
+  "id": "meta:windsurf:unreachable:2026-10-28T13:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "windsurf",
+  "provider_name": "Windsurf",
+  "published_at": "2026-10-28T13:45:57.847220+00:00",
+  "started_at": "2026-10-28T13:00:00+00:00",
+  "status": "unreachable",
+  "title": "AI Bat Phone cannot read Windsurf's status page",
+  "transition": "unreachable",
+  "url": "https://status.windsurf.com"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "K3"
@@ -7753,23 +7771,5 @@
   "title": "EU Agents disruption in SIP calls",
   "transition": "progress",
   "url": "https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y"
- },
- {
-  "body": "The issue has been resolved, latency is back to normal.",
-  "components": [],
-  "duration": "3h 05m",
-  "headline": "🟢 ElevenLabs sorted itself out after 3h 05m",
-  "id": "elevenlabs:01M487JY3TE2QWKZRWB4W9ACVJ:resolved:resolved:minor:2026-10-06T12:14:21+00:00",
-  "impact": "minor",
-  "incident_id": "01M487JY3TE2QWKZRWB4W9ACVJ",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-06T12:15:32.302566+00:00",
-  "started_at": "2026-10-06T09:09:18+00:00",
-  "status": "resolved",
-  "title": "increase in latency",
-  "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M487JY3TE2QWKZRWB4W9ACVJ"
  }
 ]

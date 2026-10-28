@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.windsurf.com</link>
+<guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-28T13:00:00+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 13:45:57 +0000</pubDate>
+<category>Windsurf</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Windsurf's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.windsurf.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/rxvmygw9cpzj</link>
 <guid isPermaLink='false'>moonshot:jhxzhgblv183:resolved:resolved:critical:2026-10-28T12:37:48.878000+00:00</guid>

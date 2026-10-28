@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.windsurf.com</link>
+<guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-28T13:00:00+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 13:45:57 +0000</pubDate>
+<category>Windsurf</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Windsurf's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.windsurf.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/rxvmygw9cpzj</link>
 <guid isPermaLink='false'>moonshot:jhxzhgblv183:resolved:resolved:critical:2026-10-28T12:37:48.878000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 17 Oct 2026 07:45:14 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Sat, 17 Oct 2026 07:22:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF</link>
-<guid isPermaLink='false'>fireworks:01M54BVJXV2EMSGH9XP2J44DQF:opened:investigating:minor:2026-10-17T07:22:40+00:00</guid>
-<pubDate>Sat, 17 Oct 2026 07:30:14 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 17 Oct 2026 07:22:40 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
