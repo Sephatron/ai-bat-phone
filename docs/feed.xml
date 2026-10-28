@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
+<link>https://status.windsurf.com</link>
+<guid isPermaLink='false'>meta:windsurf:recovered:2026-10-28T16:00:00+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 16:45:55 +0000</pubDate>
+<category>Windsurf</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Windsurf's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.windsurf.com</link>
 <guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-28T16:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 13:30:17 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: CLI, Cloud Agents, cursor.com, IDE · Opened: Mon, 19 Oct 2026 13:24:52 +0000</p><p>We are investigating elevated errors for Anthropic Opus 5.5.</p><p><a href="https://stspg.io/zf1tvrpck8sj">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 Cursor is booking time off: Cursor status updates are moving to status.x.ai]]></title>
-<link>https://stspg.io/x7nspq96xvck</link>
-<guid isPermaLink='false'>cursor:hnh7j4gwv771:opened:scheduled:maintenance:2026-10-19T12:04:07.028000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 12:15:14 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Cursor status updates are moving to status.x.ai</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: cursor.com · Opened: Mon, 19 Oct 2026 12:04:06 +0000</p><p>Starting October 26, Cursor status updates will be published on https://status.x.ai and status.cursor.com will stop sending notifications. How to keep getting notifications: Email: your subscription moves over automatically, so you don't need to do anything. You can unsubscribe from any email, emails will be sent from status@email.api.x.ai Slack: run /feed subscribe https://status.x.ai/feed.xml in a channel to keep getting updates there. RSS: https://status.x.ai/feed.xml SMS, Microsoft Teams, and webhooks: these stop on October 26. You can subscribe by email or RSS on status.x.ai. Incidents f…</p><p><a href="https://stspg.io/x7nspq96xvck">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

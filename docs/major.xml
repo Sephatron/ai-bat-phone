@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
+<link>https://status.windsurf.com</link>
+<guid isPermaLink='false'>meta:windsurf:recovered:2026-10-28T16:00:00+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 16:45:55 +0000</pubDate>
+<category>Windsurf</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Windsurf's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.windsurf.com</link>
 <guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-28T16:00:00+00:00</guid>
@@ -1000,14 +1008,6 @@
 <pubDate>Tue, 06 Oct 2026 16:13:37 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: investigating · Affects: Routing Middleware · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>We are investigating an issue causing Vercel Auth login failures for pages with Deployment Protection enabled. We will provide an update as more information becomes available.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
-<link>https://status.ai21.com</link>
-<guid isPermaLink='false'>meta:ai21:recovered:2026-10-06T13:00:00+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 14:45:29 +0000</pubDate>
-<category>AI21</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
