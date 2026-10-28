@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is a bit under the weather]]></title>
+<link>https://stspg.io/bwcyq078jzms</link>
+<guid isPermaLink='false'>github:l7ycmglmykgg:opened:investigating:minor:2026-10-28T14:12:53.894000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 14:15:56 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some Copilot services</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 28 Oct 2026 14:12:53 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/bwcyq078jzms">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
 <link>https://status.windsurf.com</link>
 <guid isPermaLink='false'>meta:windsurf:recovered:2026-10-28T13:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 16 Oct 2026 14:31:05 +0000</pubDate>
 <category>AI Bat Phone</category>
 <description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG</link>
-<guid isPermaLink='false'>openai:01M4XNQX7C6RCBNGX9H711WFSG:resolved:resolved:minor:2026-10-16T10:44:58+00:00</guid>
-<pubDate>Fri, 16 Oct 2026 10:45:59 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 17h · Opened: Wed, 14 Oct 2026 17:00:44 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
