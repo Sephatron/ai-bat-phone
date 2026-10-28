@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/rxvmygw9cpzj</link>
+<guid isPermaLink='false'>moonshot:jhxzhgblv183:resolved:resolved:critical:2026-10-28T12:37:48.878000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 12:45:56 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 28 min · Opened: Wed, 28 Oct 2026 12:09:48 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/rxvmygw9cpzj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/rxvmygw9cpzj</link>
 <guid isPermaLink='false'>moonshot:jhxzhgblv183:opened:investigating:critical:2026-10-28T12:09:48.919000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 17 Oct 2026 07:30:14 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 17 Oct 2026 07:22:40 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-10-16</guid>
-<pubDate>Fri, 16 Oct 2026 14:31:05 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
