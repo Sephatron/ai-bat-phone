@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
+<link>https://status.fireworks.ai/incidents/01M61GWFB0MBR778JRMPDGYBNV</link>
+<guid isPermaLink='false'>fireworks:01M61GWFB0MBR778JRMPDGYBNV:opened:investigating:minor:2026-10-28T15:08:30+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 15:15:55 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 28 Oct 2026 15:08:30 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M61GWFB0MBR778JRMPDGYBNV">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub is a bit under the weather]]></title>
 <link>https://stspg.io/bwcyq078jzms</link>
 <guid isPermaLink='false'>github:l7ycmglmykgg:opened:investigating:minor:2026-10-28T14:12:53.894000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 18 Oct 2026 03:30:15 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 18 Oct 2026 03:16:40 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M54F9EG8M9562BWBV44KQQ4D</link>
-<guid isPermaLink='false'>fireworks:01M54F9EG8M9562BWBV44KQQ4D:resolved:resolved:minor:2026-10-17T08:55:08+00:00</guid>
-<pubDate>Sat, 17 Oct 2026 09:00:13 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 32 min · Opened: Sat, 17 Oct 2026 08:22:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M54F9EG8M9562BWBV44KQQ4D">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
