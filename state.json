@@ -4508,6 +4508,12 @@
    "status": "resolved",
    "updated_at": "2026-09-12T07:39:12.190000+00:00"
   },
+  "moonshot:1g6myg5cjckm": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-28T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-28T02:33:41.954000+00:00"
+  },
   "moonshot:20fbgyv9v8mz": {
    "impact": "critical",
    "last_seen_at": "2026-10-28T00:00:00+00:00",
