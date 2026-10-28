@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 28 Oct 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
+<link>https://status.windsurf.com</link>
+<guid isPermaLink='false'>meta:windsurf:recovered:2026-10-28T13:00:00+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 14:00:56 +0000</pubDate>
+<category>Windsurf</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Windsurf's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.windsurf.com</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 16 Oct 2026 10:45:59 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed Costs data in the Compliance API</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 17h · Opened: Wed, 14 Oct 2026 17:00:44 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://stspg.io/nbsrtgp6pr7p</link>
-<guid isPermaLink='false'>cursor:h76w09vs1vqq:resolved:resolved:minor:2026-10-16T05:20:54.462000+00:00</guid>
-<pubDate>Fri, 16 Oct 2026 05:31:00 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors affecting Grok models</strong></p><p>Impact: minor · Status: resolved · Affects: CLI, Cloud Agents, IDE · Duration: 6h 55m · Opened: Thu, 15 Oct 2026 22:25:11 +0000</p><p>This incident has been resolved. Grok models in Cursor are working normally again.</p><p><a href="https://stspg.io/nbsrtgp6pr7p">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

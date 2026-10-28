@@ -1,5 +1,23 @@
 [
  {
+  "body": "",
+  "components": [],
+  "duration": "",
+  "headline": "📶 Windsurf is readable again, so silence here means quiet once more",
+  "id": "meta:windsurf:recovered:2026-10-28T13:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "windsurf",
+  "provider_name": "Windsurf",
+  "published_at": "2026-10-28T14:00:56.499922+00:00",
+  "started_at": "2026-10-28T13:00:00+00:00",
+  "status": "recovered",
+  "title": "AI Bat Phone can read Windsurf's status page again",
+  "transition": "recovered",
+  "url": "https://status.windsurf.com"
+ },
+ {
   "body": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out",
   "components": [],
   "duration": "",
@@ -7753,23 +7771,5 @@
   "title": "Elevated errors for Claude Opus 5.5",
   "transition": "opened",
   "url": "https://stspg.io/bzc81gbv1b99"
- },
- {
-  "body": "Error rates have returned to normal. We're currently monitoring the situation to confirm that the issue has been resolved",
-  "components": [],
-  "duration": "",
-  "headline": "👀 ElevenLabs thinks it's fixed and is watching nervously",
-  "id": "elevenlabs:01M48C36FW1EZ6FFQYEXJKMT2Y:progress:monitoring:major:2026-10-06T12:14:40+00:00",
-  "impact": "major",
-  "incident_id": "01M48C36FW1EZ6FFQYEXJKMT2Y",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-06T12:15:32.302566+00:00",
-  "started_at": "2026-10-06T10:28:05+00:00",
-  "status": "monitoring",
-  "title": "EU Agents disruption in SIP calls",
-  "transition": "progress",
-  "url": "https://status.elevenlabs.io/incidents/01M48C36FW1EZ6FFQYEXJKMT2Y"
  }
 ]
