@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 Baseten has put the tools away]]></title>
+<link>https://stspg.io/0rvb1mr214kw</link>
+<guid isPermaLink='false'>baseten:5m8bp9gdvlqz:resolved:completed:maintenance:2026-10-28T04:07:36.964000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 04:15:16 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: completed · Affects: Model Management API, Web Application · Duration: 1d 6h · Opened: Mon, 26 Oct 2026 22:06:05 +0000</p><p>The scheduled maintenance has been completed.</p><p><a href="https://stspg.io/0rvb1mr214kw">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Claude]]></title>
 <link>https://stspg.io/j86c100s8tqm</link>
 <guid isPermaLink='false'>anthropic:9ftx658xtd5z:opened:investigating:minor:2026-10-28T03:59:32.385000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 15 Oct 2026 19:01:02 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>CCA Automations are delayed when starting an Automation</strong></p><p>Impact: minor · Status: resolved · Duration: 28 min · Opened: Thu, 15 Oct 2026 18:31:49 +0000</p><p>We suspected that CCA Automations were experiencing delays when users start an Automation, but further investigation found that there was no delay or impact to CCA Automations.</p><p><a href="https://stspg.io/vk8t78vtswmg">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is having a wobble]]></title>
-<link>https://stspg.io/vk8t78vtswmg</link>
-<guid isPermaLink='false'>github:vlxrztp88101:opened:investigating:minor:2026-10-15T18:34:34.715000+00:00</guid>
-<pubDate>Thu, 15 Oct 2026 18:45:59 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>CCA Automations are delayed when starting an Automation</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 15 Oct 2026 18:31:49 +0000</p><p>CCA Automations are experiencing delays when users start an Automation</p><p><a href="https://stspg.io/vk8t78vtswmg">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

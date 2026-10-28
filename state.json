@@ -210,7 +210,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-28T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-28T03:59:32.385000+00:00"
+   "updated_at": "2026-10-28T04:06:55.352000+00:00"
   },
   "anthropic:9jrp5rtyzrf6": {
    "impact": "minor",
@@ -647,8 +647,8 @@
   "baseten:5m8bp9gdvlqz": {
    "impact": "maintenance",
    "last_seen_at": "2026-10-28T00:00:00+00:00",
-   "status": "in_progress",
-   "updated_at": "2026-10-28T04:00:09.884000+00:00"
+   "status": "completed",
+   "updated_at": "2026-10-28T04:07:36.964000+00:00"
   },
   "baseten:63qnlbxt5sd1": {
    "impact": "none",

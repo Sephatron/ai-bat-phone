@@ -1,5 +1,26 @@
 [
  {
+  "body": "The scheduled maintenance has been completed.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "1d 6h",
+  "headline": "🔧 Baseten has put the tools away",
+  "id": "baseten:5m8bp9gdvlqz:resolved:completed:maintenance:2026-10-28T04:07:36.964000+00:00",
+  "impact": "maintenance",
+  "incident_id": "5m8bp9gdvlqz",
+  "kind": "maintenance",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-10-28T04:15:16.011399+00:00",
+  "started_at": "2026-10-26T22:06:05.631000+00:00",
+  "status": "completed",
+  "title": "Database Upgrade. Inference will not be affected",
+  "transition": "resolved",
+  "url": "https://stspg.io/0rvb1mr214kw"
+ },
+ {
   "body": "We are investigating elevated errors when searching and reading email with the Gmail connector. This issue does not affect other connectors. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7737,24 +7758,6 @@
   "status": "resolved",
   "title": "Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M47HC9SGHGFPBN44KGC6SKAQ:opened:monitoring:minor:2026-10-06T02:44:03+00:00",
-  "impact": "minor",
-  "incident_id": "01M47HC9SGHGFPBN44KGC6SKAQ",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T02:45:38.579147+00:00",
-  "started_at": "2026-10-06T02:41:12+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors affecting multiple products including ChatGPT (conversations), Image generations, Spaces and Pages, API rehydration, and Dots.",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M47HC9SGHGFPBN44KGC6SKAQ"
  }
 ]
