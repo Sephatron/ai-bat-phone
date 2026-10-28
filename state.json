@@ -1,8 +1,10 @@
 {
- "heartbeat": "2026-10-28T17:00:00+00:00",
+ "heartbeat": "2026-10-28T18:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-28T18:00:00+00:00",
+   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
   },
   "anthropic": {
    "consecutive_failures": 0
@@ -41,7 +43,9 @@
    "consecutive_failures": 0
   },
   "moonshot": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-28T18:00:00+00:00",
+   "last_error": "https://status.moonshot.cn/api/v2/incidents.json: The read operation timed out"
   },
   "openai": {
    "consecutive_failures": 0
@@ -64,7 +68,9 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-10-28T18:00:00+00:00",
+   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
   }
  },
  "seen": {
@@ -402,7 +408,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-28T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-28T16:19:10.243000+00:00"
+   "updated_at": "2026-10-28T17:59:30.066000+00:00"
   },
   "anthropic:q2kg8n613kr3": {
    "impact": "critical",
