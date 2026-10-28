@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Cursor is out. Go and look at a tree.]]></title>
+<link>https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283</link>
+<guid isPermaLink='false'>cursor:ps_d25569b21cabd283:opened:investigating:major:2026-10-28T21:15:10+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 21:15:55 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Multiple services degraded: Cloud Agents, Grok Bot, Origin</strong></p><p>Impact: major · Status: investigating · Affects: Cloud Agents, Grok Bot, Origin · Opened: Wed, 28 Oct 2026 21:15:10 +0000</p><p>We are investigating service degradation for multiple services. Users may see failures across Cloud Agents, Grok Bot, and Origin. Apologies for the trouble.</p><p><a href="https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
 <link>https://status.windsurf.com</link>
 <guid isPermaLink='false'>meta:windsurf:recovered:2026-10-28T16:00:00+00:00</guid>
