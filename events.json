@@ -1,5 +1,27 @@
 [
  {
+  "body": "We are seeing recovery for errors affecting the Google Calendar connector, and error rates have returned to normal levels. We are continuing to monitor with our upstream provider.",
+  "components": [
+   "claude.ai",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:phg1y2yh07n2:progress:monitoring:minor:2026-10-28T19:47:31.741000+00:00",
+  "impact": "minor",
+  "incident_id": "phg1y2yh07n2",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-10-28T20:00:56.024238+00:00",
+  "started_at": "2026-10-28T16:19:09.935000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors affecting the Google Calendar connector",
+  "transition": "progress",
+  "url": "https://stspg.io/75qq31h8672d"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",
@@ -7744,23 +7766,5 @@
   "title": "Vercel Auth login failures for pages with Deployment Protection enabled",
   "transition": "opened",
   "url": "https://stspg.io/l76txmwrzdcp"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M48Y8E81QAFF9XKVGE118E6X:opened:investigating:minor:2026-10-06T15:45:31+00:00",
-  "impact": "minor",
-  "incident_id": "01M48Y8E81QAFF9XKVGE118E6X",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T15:45:37.777540+00:00",
-  "started_at": "2026-10-06T15:45:31+00:00",
-  "status": "investigating",
-  "title": "Errors processing large PDFs in the Responses API",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X"
  }
 ]

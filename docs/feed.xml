@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 28 Oct 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/75qq31h8672d</link>
+<guid isPermaLink='false'>anthropic:phg1y2yh07n2:progress:monitoring:minor:2026-10-28T19:47:31.741000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 20:00:56 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Google Calendar connector</strong></p><p>Impact: minor · Status: monitoring · Affects: claude.ai, Claude Code, Claude Cowork · Opened: Wed, 28 Oct 2026 16:19:09 +0000</p><p>We are seeing recovery for errors affecting the Google Calendar connector, and error rates have returned to normal levels. We are continuing to monitor with our upstream provider.</p><p><a href="https://stspg.io/75qq31h8672d">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
 <link>https://status.windsurf.com</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 13:45:16 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>File Download errors</strong></p><p>Impact: minor · Status: identified · Opened: Mon, 19 Oct 2026 13:31:52 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
-<link>https://stspg.io/zf1tvrpck8sj</link>
-<guid isPermaLink='false'>cursor:fhvjq1tr18sl:opened:investigating:minor:2026-10-19T13:24:52.565000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 13:30:17 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: investigating · Affects: CLI, Cloud Agents, cursor.com, IDE · Opened: Mon, 19 Oct 2026 13:24:52 +0000</p><p>We are investigating elevated errors for Anthropic Opus 5.5.</p><p><a href="https://stspg.io/zf1tvrpck8sj">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-28T19:00:00+00:00",
+ "heartbeat": "2026-10-28T20:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -401,8 +401,8 @@
   "anthropic:phg1y2yh07n2": {
    "impact": "minor",
    "last_seen_at": "2026-10-28T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-28T17:59:30.066000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-28T19:47:31.741000+00:00"
   },
   "anthropic:q2kg8n613kr3": {
    "impact": "critical",
