@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.windsurf.com</link>
+<guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-28T16:00:00+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 16:30:56 +0000</pubDate>
+<category>Windsurf</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read Windsurf's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.windsurf.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[📶 Baseten is readable again, so silence here means quiet once more]]></title>
+<link>https://status.baseten.co</link>
+<guid isPermaLink='false'>meta:baseten:recovered:2026-10-28T15:00:00+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 16:30:56 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read Baseten's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.baseten.co">Baseten status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Claude is having a wobble]]></title>
+<link>https://stspg.io/75qq31h8672d</link>
+<guid isPermaLink='false'>anthropic:phg1y2yh07n2:opened:investigating:minor:2026-10-28T16:19:10.243000+00:00</guid>
+<pubDate>Wed, 28 Oct 2026 16:30:56 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Google Calendar connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Code, Claude Cowork · Opened: Wed, 28 Oct 2026 16:19:09 +0000</p><p>We are investigating elevated errors affecting the Google Calendar connector. Some requests to list or search calendar events have been failing since October 26. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/75qq31h8672d">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 Baseten is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.baseten.co</link>
 <guid isPermaLink='false'>meta:baseten:unreachable:2026-10-28T15:00:00+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Sun, 18 Oct 2026 07:00:14 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 18 Oct 2026 06:59:40 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M56WY68RB5PA9NA4DQ2JSHTZ">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8</link>
-<guid isPermaLink='false'>fireworks:01M56G5VSCQ5YHGSQAJP1GRCA8:resolved:resolved:minor:2026-10-18T03:33:03+00:00</guid>
-<pubDate>Sun, 18 Oct 2026 03:45:14 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 16 min · Opened: Sun, 18 Oct 2026 03:16:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8</link>
-<guid isPermaLink='false'>fireworks:01M56G5VSCQ5YHGSQAJP1GRCA8:opened:investigating:minor:2026-10-18T03:16:40+00:00</guid>
-<pubDate>Sun, 18 Oct 2026 03:30:15 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 18 Oct 2026 03:16:40 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M56G5VSCQ5YHGSQAJP1GRCA8">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M54F9EG8M9562BWBV44KQQ4D</link>
-<guid isPermaLink='false'>fireworks:01M54F9EG8M9562BWBV44KQQ4D:resolved:resolved:minor:2026-10-17T08:55:08+00:00</guid>
-<pubDate>Sat, 17 Oct 2026 09:00:13 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 32 min · Opened: Sat, 17 Oct 2026 08:22:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M54F9EG8M9562BWBV44KQQ4D">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
