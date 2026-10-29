@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating a degradation in Auto Review functionality",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Cursor",
+  "id": "cursor:ps_e5eb22a9954466c4:opened:investigating:minor:2026-10-29T23:44:42+00:00",
+  "impact": "minor",
+  "incident_id": "ps_e5eb22a9954466c4",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-29T23:45:20.352621+00:00",
+  "started_at": "2026-10-29T23:44:42+00:00",
+  "status": "investigating",
+  "title": "Auto Review Degradation",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4"
+ },
+ {
   "body": "We are investigation a degradation to Cloud Agents",
   "components": [
    "Automations",
@@ -7752,26 +7772,5 @@
   "title": "Connection errors affecting some customers",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36"
- },
- {
-  "body": "We are working towards a mitigation that will allow us to resume processing enterprise migrations.",
-  "components": [
-   "Webhooks",
-   "Pull Requests"
-  ],
-  "duration": "",
-  "headline": "🔺 It got worse: GitHub is now a critical outage",
-  "id": "github:cjwszcf57bff:escalated:investigating:critical:2026-10-06T21:29:46.920000+00:00",
-  "impact": "critical",
-  "incident_id": "cjwszcf57bff",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-06T21:30:34.608202+00:00",
-  "started_at": "2026-10-06T19:57:35.439000+00:00",
-  "status": "investigating",
-  "title": "Several services are degraded",
-  "transition": "escalated",
-  "url": "https://stspg.io/w3rcssslq22w"
  }
 ]
