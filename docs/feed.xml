@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is fine again]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452</link>
+<guid isPermaLink='false'>cursor:ps_95a4f0b2be913452:resolved:resolved:minor:2026-10-29T09:18:22+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 09:30:19 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded performance — Origin and Cloud Agents</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, BugBot, Cloud Agents, Grok Bot, Origin, Review Agents · Duration: 16 min · Opened: Thu, 29 Oct 2026 09:01:50 +0000</p><p>This incident has been resolved. Cloud Agents and Origin have returned to normal performance.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor is having a wobble]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452</link>
 <guid isPermaLink='false'>cursor:ps_95a4f0b2be913452:opened:investigating:minor:2026-10-29T09:01:50+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 18:15:14 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Mon, 19 Oct 2026 18:09:57 +0000</p><p>We are investigating a service degradation affecting Grok Bot and grok.com. You may notice errors related to billing, plans, and usage.</p><p><a href="https://stspg.io/m85mb3fzh2nh">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 1h 06m]]></title>
-<link>https://stspg.io/0s6t57vsg1nl</link>
-<guid isPermaLink='false'>cursor:48bg6xqptq72:resolved:resolved:minor:2026-10-19T17:21:36.794000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 17:30:15 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 06m · Opened: Mon, 19 Oct 2026 16:15:04 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/0s6t57vsg1nl">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
