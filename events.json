@@ -1,5 +1,30 @@
 [
  {
+  "body": "We are investigating degraded performance affecting Cloud Agents and Origin. Users may see slow responses, timeouts, or retried requests. Our team is actively working to restore normal performance.",
+  "components": [
+   "Automations",
+   "BugBot",
+   "Cloud Agents",
+   "Grok Bot",
+   "Origin",
+   "Review Agents"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is having a wobble",
+  "id": "cursor:ps_95a4f0b2be913452:opened:investigating:minor:2026-10-29T09:01:50+00:00",
+  "impact": "minor",
+  "incident_id": "ps_95a4f0b2be913452",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-29T09:15:20.325392+00:00",
+  "started_at": "2026-10-29T09:01:50+00:00",
+  "status": "investigating",
+  "title": "Degraded performance — Origin and Cloud Agents",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452"
+ },
+ {
   "body": "",
   "components": [],
   "duration": "",
@@ -7751,23 +7776,5 @@
   "title": "Investigating service degradation — Security Reviewer Agents",
   "transition": "opened",
   "url": "https://stspg.io/rq2dy7v7jg96"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 Cerebras Inference is readable again, so silence here means quiet once more",
-  "id": "meta:cerebras:recovered:2026-10-06T16:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "cerebras",
-  "provider_name": "Cerebras Inference",
-  "published_at": "2026-10-06T17:30:29.854680+00:00",
-  "started_at": "2026-10-06T16:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read Cerebras Inference's status page again",
-  "transition": "recovered",
-  "url": "https://status.cerebras.ai"
  }
 ]
