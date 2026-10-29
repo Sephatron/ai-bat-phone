@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:recovered:2026-10-29T01:00:00+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 03:45:19 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📶 SambaNova is readable again, so silence here means quiet once more]]></title>
 <link>https://status.sambanova.ai</link>
 <guid isPermaLink='false'>meta:sambanova:recovered:2026-10-29T02:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 16:00:14 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>We’re are currently investigating degraded availability affecting GitHub Actions, GitHub Pages and Webhooks. Customers may experience delays in workflow processing, site builds and webhook delivery.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81</link>
-<guid isPermaLink='false'>openai:01M5A5S1ATN3QB2WCHQ3VDZC81:resolved:resolved:minor:2026-10-19T14:14:03+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 14:15:13 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File Download errors</strong></p><p>Impact: minor · Status: resolved · Duration: 42 min · Opened: Mon, 19 Oct 2026 13:31:52 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

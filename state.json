@@ -2,17 +2,13 @@
  "heartbeat": "2026-10-29T03:00:00+00:00",
  "providers": {
   "ai21": {
-   "consecutive_failures": 3,
-   "failing_since": "2026-10-29T01:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json returned HTTP 503"
+   "consecutive_failures": 0
   },
   "anthropic": {
    "consecutive_failures": 0
   },
   "baseten": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-10-29T03:00:00+00:00",
-   "last_error": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cerebras": {
    "consecutive_failures": 0
