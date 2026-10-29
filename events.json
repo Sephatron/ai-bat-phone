@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Identified] We have identified the issue preventing Enterprise customers from publishing apps hosted on Azure and are working on a fix. Impacted: Publishing",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Replit has identified the problem. Fix pending.",
+  "id": "replit:2ce43e6f-b516-43fa-b65f-3bf6376082ca:opened:identified:minor:2026-10-29T13:30:19.352179+00:00",
+  "impact": "minor",
+  "incident_id": "2ce43e6f-b516-43fa-b65f-3bf6376082ca",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-29T13:30:19.352179+00:00",
+  "started_at": "2026-10-29T13:18:48+00:00",
+  "status": "identified",
+  "title": "Publishing failures for Enterprise apps hosted on Azure",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [],
   "duration": "2h 29m",
@@ -7755,26 +7773,5 @@
   "title": "Computer Use Is Experiencing Issues",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB"
- },
- {
-  "body": "We are investigating reports of degraded performance for Pull Requests and Webhooks",
-  "components": [
-   "Webhooks",
-   "Pull Requests"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub is having a wobble",
-  "id": "github:cjwszcf57bff:opened:investigating:minor:2026-10-06T19:57:35.582000+00:00",
-  "impact": "minor",
-  "incident_id": "cjwszcf57bff",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-06T20:00:32.945550+00:00",
-  "started_at": "2026-10-06T19:57:35.439000+00:00",
-  "status": "investigating",
-  "title": "Several services are degraded",
-  "transition": "opened",
-  "url": "https://stspg.io/w3rcssslq22w"
  }
 ]
