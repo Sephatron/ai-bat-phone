@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] The issue affecting publishing for Enterprise apps hosted on Azure has been resolved. Affected users who have not yet republished can do so now. Impacted: Publishing",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit is fine again",
+  "id": "replit:2ce43e6f-b516-43fa-b65f-3bf6376082ca:resolved:resolved:minor:2026-10-29T14:45:19.674293+00:00",
+  "impact": "minor",
+  "incident_id": "2ce43e6f-b516-43fa-b65f-3bf6376082ca",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-29T14:45:19.674293+00:00",
+  "started_at": "2026-10-29T14:32:33+00:00",
+  "status": "resolved",
+  "title": "Publishing failures for Enterprise apps hosted on Azure",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca"
+ },
+ {
   "body": "[Monitoring] We have applied a fix and are monitoring to confirm that publishing apps hosted on Azure is working as expected for Enterprise customers. Affected users can try republishing their apps now. Impacted: Publishing",
   "components": [],
   "duration": "",
@@ -7755,23 +7773,5 @@
   "title": "Several services are degraded",
   "transition": "progress",
   "url": "https://stspg.io/w3rcssslq22w"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "4h 25m",
-  "headline": "🟢 OpenAI sorted itself out after 4h 25m",
-  "id": "openai:01M48Y8E81QAFF9XKVGE118E6X:resolved:resolved:minor:2026-10-06T20:11:27+00:00",
-  "impact": "minor",
-  "incident_id": "01M48Y8E81QAFF9XKVGE118E6X",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T20:15:37.074228+00:00",
-  "started_at": "2026-10-06T15:45:31+00:00",
-  "status": "resolved",
-  "title": "Errors processing large PDFs in the Responses API",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X"
  }
 ]
