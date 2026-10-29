@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📶 SambaNova is readable again, so silence here means quiet once more]]></title>
+<link>https://status.sambanova.ai</link>
+<guid isPermaLink='false'>meta:sambanova:recovered:2026-10-29T02:00:00+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 03:15:19 +0000</pubDate>
+<category>SambaNova</category>
+<description><![CDATA[<p><strong>AI Bat Phone can read SambaNova's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 SambaNova is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.sambanova.ai</link>
 <guid isPermaLink='false'>meta:sambanova:unreachable:2026-10-29T02:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 17:00:14 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 1h 07m · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://stspg.io/0s6t57vsg1nl</link>
-<guid isPermaLink='false'>cursor:48bg6xqptq72:opened:investigating:minor:2026-10-19T16:15:04.574000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 16:30:13 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Mon, 19 Oct 2026 16:15:04 +0000</p><p>We are investigating a service degradation affecting Grok Bot where routines may be delayed.</p><p><a href="https://stspg.io/0s6t57vsg1nl">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
