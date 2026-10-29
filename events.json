@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are experiencing increased failures and latency on our agent sessions service, including creating and listing sessions. This can impact cloud based agent sessions on web, mobile, VS Code, CLI and the GitHub Copilot app.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:rn76zdy367m2:opened:investigating:minor:2026-10-29T10:22:18.215000+00:00",
+  "impact": "minor",
+  "incident_id": "rn76zdy367m2",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-29T10:30:20.271415+00:00",
+  "started_at": "2026-10-29T10:19:55.313000+00:00",
+  "status": "investigating",
+  "title": "Disruption with Copilot Cloud services",
+  "transition": "opened",
+  "url": "https://stspg.io/22p3vp78z20q"
+ },
+ {
   "body": "This incident has been resolved. Cloud Agents and Origin have returned to normal performance.",
   "components": [
    "Automations",
@@ -7761,25 +7779,5 @@
   "title": "Investigating service degradation — Cloud Agents and Grok Bot",
   "transition": "opened",
   "url": "https://stspg.io/s72y0jp0bgtt"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Review Agents"
-  ],
-  "duration": "1h 07m",
-  "headline": "🟢 Cursor is upright again. That took 1h 07m.",
-  "id": "cursor:xgj4x58k55dx:resolved:resolved:major:2026-10-06T18:56:35.298000+00:00",
-  "impact": "major",
-  "incident_id": "xgj4x58k55dx",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-06T19:00:33.417273+00:00",
-  "started_at": "2026-10-06T17:49:30.422000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Security Reviewer Agents",
-  "transition": "resolved",
-  "url": "https://stspg.io/rq2dy7v7jg96"
  }
 ]

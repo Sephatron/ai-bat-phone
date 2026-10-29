@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
+<link>https://stspg.io/22p3vp78z20q</link>
+<guid isPermaLink='false'>github:rn76zdy367m2:opened:investigating:minor:2026-10-29T10:22:18.215000+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 10:30:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>We are experiencing increased failures and latency on our agent sessions service, including creating and listing sessions. This can impact cloud based agent sessions on web, mobile, VS Code, CLI and the GitHub Copilot app.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor is fine again]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452</link>
 <guid isPermaLink='false'>cursor:ps_95a4f0b2be913452:resolved:resolved:minor:2026-10-29T09:18:22+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 18:30:14 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 19 Oct 2026 18:29:40 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5APTB2MB411VCQMH1FCKC08">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://stspg.io/m85mb3fzh2nh</link>
-<guid isPermaLink='false'>cursor:c30f94k6rtrp:opened:investigating:minor:2026-10-19T18:09:58.093000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 18:15:14 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Mon, 19 Oct 2026 18:09:57 +0000</p><p>We are investigating a service degradation affecting Grok Bot and grok.com. You may notice errors related to billing, plans, and usage.</p><p><a href="https://stspg.io/m85mb3fzh2nh">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

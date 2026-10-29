@@ -3944,6 +3944,12 @@
    "status": "resolved",
    "updated_at": "2026-09-15T23:34:38.045000+00:00"
   },
+  "github:rn76zdy367m2": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-29T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-29T10:22:18.215000+00:00"
+  },
   "github:rw3k5dz04rqj": {
    "impact": "maintenance",
    "last_seen_at": "2026-10-29T00:00:00+00:00",
