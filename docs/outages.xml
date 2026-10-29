@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
+<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9</link>
+<guid isPermaLink='false'>cursor:ps_ad31c985bfc193b9:opened:investigating:minor:2026-10-29T21:38:10+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 21:45:20 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating Service Degradation with VS Code Extensions</strong></p><p>Impact: minor · Status: investigating · Affects: IDE · Opened: Thu, 29 Oct 2026 21:38:10 +0000</p><p>We are investigating a service degradation with VS Code extensions</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit is fine again]]></title>
 <link>https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca</link>
 <guid isPermaLink='false'>replit:2ce43e6f-b516-43fa-b65f-3bf6376082ca:resolved:resolved:minor:2026-10-29T14:45:19.674293+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 21:15:15 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 40m · Opened: Mon, 19 Oct 2026 18:29:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5APTB2MB411VCQMH1FCKC08">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M5AWN3HZ4Y95J3C4EQQC1NV2</link>
-<guid isPermaLink='false'>fireworks:01M5AWN3HZ4Y95J3C4EQQC1NV2:opened:investigating:minor:2026-10-19T20:11:40+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 20:15:15 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 19 Oct 2026 20:11:40 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5AWN3HZ4Y95J3C4EQQC1NV2">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

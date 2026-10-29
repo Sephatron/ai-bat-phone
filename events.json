@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating a service degradation with VS Code extensions",
+  "components": [
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is a bit under the weather",
+  "id": "cursor:ps_ad31c985bfc193b9:opened:investigating:minor:2026-10-29T21:38:10+00:00",
+  "impact": "minor",
+  "incident_id": "ps_ad31c985bfc193b9",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-29T21:45:20.036630+00:00",
+  "started_at": "2026-10-29T21:38:10+00:00",
+  "status": "investigating",
+  "title": "Investigating Service Degradation with VS Code Extensions",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9"
+ },
+ {
   "body": "[Resolved] The issue affecting publishing for Enterprise apps hosted on Azure has been resolved. Affected users who have not yet republished can do so now. Impacted: Publishing",
   "components": [],
   "duration": "",
@@ -7749,27 +7769,6 @@
   "published_at": "2026-10-06T21:00:33.166756+00:00",
   "started_at": "2026-10-06T19:57:35.439000+00:00",
   "status": "investigating",
-  "title": "Several services are degraded",
-  "transition": "progress",
-  "url": "https://stspg.io/w3rcssslq22w"
- },
- {
-  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
-  "components": [
-   "Webhooks",
-   "Pull Requests"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub has applied a fix and is holding its breath",
-  "id": "github:cjwszcf57bff:progress:monitoring:minor:2026-10-06T20:26:46.471000+00:00",
-  "impact": "minor",
-  "incident_id": "cjwszcf57bff",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-06T20:30:32.201991+00:00",
-  "started_at": "2026-10-06T19:57:35.439000+00:00",
-  "status": "monitoring",
   "title": "Several services are degraded",
   "transition": "progress",
   "url": "https://stspg.io/w3rcssslq22w"
