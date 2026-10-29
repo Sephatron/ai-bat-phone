@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 29 Oct 2026 01:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 02:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.ai21.com</link>
+<guid isPermaLink='false'>meta:ai21:unreachable:2026-10-29T01:00:00+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 02:00:22 +0000</pubDate>
+<category>AI21</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cursor lives. Pick your tools back up.]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_d25569b21cabd283</link>
@@ -1000,14 +1008,6 @@
 <pubDate>Tue, 06 Oct 2026 17:15:38 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Cerebras Inference's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/l76txmwrzdcp</link>
-<guid isPermaLink='false'>vercel:1dp8c0nfchtg:resolved:resolved:major:2026-10-06T16:26:49.403000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 16:30:33 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Vercel Auth login failures for pages with Deployment Protection enabled</strong></p><p>Impact: major · Status: resolved · Affects: Routing Middleware · Duration: 15 min · Opened: Tue, 06 Oct 2026 16:10:59 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l76txmwrzdcp">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

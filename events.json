@@ -1,5 +1,23 @@
 [
  {
+  "body": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out",
+  "components": [],
+  "duration": "",
+  "headline": "📵 AI21 is unreadable — silence here means unknown, not fine",
+  "id": "meta:ai21:unreachable:2026-10-29T01:00:00+00:00",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "ai21",
+  "provider_name": "AI21",
+  "published_at": "2026-10-29T02:00:22.115616+00:00",
+  "started_at": "2026-10-29T01:00:00+00:00",
+  "status": "unreachable",
+  "title": "AI Bat Phone cannot read AI21's status page",
+  "transition": "unreachable",
+  "url": "https://status.ai21.com"
+ },
+ {
   "body": "This incident has been resolved. All services have returned to normal operation.",
   "components": [
    "Automations",
@@ -7751,25 +7769,5 @@
   "title": "Errors processing large PDFs in the Responses API",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Routing Middleware"
-  ],
-  "duration": "15 min",
-  "headline": "🟢 Vercel is back. Grass sufficiently touched.",
-  "id": "vercel:1dp8c0nfchtg:resolved:resolved:major:2026-10-06T16:26:49.403000+00:00",
-  "impact": "major",
-  "incident_id": "1dp8c0nfchtg",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-06T16:30:33.455293+00:00",
-  "started_at": "2026-10-06T16:10:59.031000+00:00",
-  "status": "resolved",
-  "title": "Vercel Auth login failures for pages with Deployment Protection enabled",
-  "transition": "resolved",
-  "url": "https://stspg.io/l76txmwrzdcp"
  }
 ]
