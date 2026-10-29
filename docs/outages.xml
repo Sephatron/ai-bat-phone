@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📵 SambaNova is unreadable — silence here means unknown, not fine]]></title>
+<link>https://status.sambanova.ai</link>
+<guid isPermaLink='false'>meta:sambanova:unreachable:2026-10-29T02:00:00+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 02:45:20 +0000</pubDate>
+<category>SambaNova</category>
+<description><![CDATA[<p><strong>AI Bat Phone cannot read SambaNova's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
 <link>https://status.ai21.com</link>
 <guid isPermaLink='false'>meta:ai21:unreachable:2026-10-29T01:00:00+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 14:00:15 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: CLI, Cloud Agents, cursor.com, IDE · Duration: 27 min · Opened: Mon, 19 Oct 2026 13:24:52 +0000</p><p>This incident has been resolved. Thank you for your patience!</p><p><a href="https://stspg.io/zf1tvrpck8sj">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/zf1tvrpck8sj</link>
-<guid isPermaLink='false'>cursor:fhvjq1tr18sl:progress:monitoring:minor:2026-10-19T13:35:14.306000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 13:45:16 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: CLI, Cloud Agents, cursor.com, IDE · Opened: Mon, 19 Oct 2026 13:24:52 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/zf1tvrpck8sj">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
