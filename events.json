@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Monitoring] We have applied a fix and are monitoring to confirm that publishing apps hosted on Azure is working as expected for Enterprise customers. Affected users can try republishing their apps now. Impacted: Publishing",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Replit thinks it's fixed and is watching nervously",
+  "id": "replit:2ce43e6f-b516-43fa-b65f-3bf6376082ca:progress:monitoring:minor:2026-10-29T14:15:19.677454+00:00",
+  "impact": "minor",
+  "incident_id": "2ce43e6f-b516-43fa-b65f-3bf6376082ca",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-29T14:15:19.677454+00:00",
+  "started_at": "2026-10-29T14:03:11+00:00",
+  "status": "monitoring",
+  "title": "Publishing failures for Enterprise apps hosted on Azure",
+  "transition": "progress",
+  "url": "https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca"
+ },
+ {
   "body": "[Identified] We have identified the issue preventing Enterprise customers from publishing apps hosted on Azure and are working on a fix. Impacted: Publishing",
   "components": [],
   "duration": "",
@@ -7755,23 +7773,5 @@
   "title": "Errors processing large PDFs in the Responses API",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M48Y8E81QAFF9XKVGE118E6X"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "2h 45m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M493CZ0CB14KPC0EER83MNVB:resolved:resolved:minor:2026-10-06T20:00:46+00:00",
-  "impact": "minor",
-  "incident_id": "01M493CZ0CB14KPC0EER83MNVB",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-06T20:15:37.074228+00:00",
-  "started_at": "2026-10-06T17:15:23+00:00",
-  "status": "resolved",
-  "title": "Computer Use Is Experiencing Issues",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M493CZ0CB14KPC0EER83MNVB"
  }
 ]
