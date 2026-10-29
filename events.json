@@ -1,5 +1,23 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:rn76zdy367m2:progress:monitoring:minor:2026-10-29T12:33:32.205000+00:00",
+  "impact": "minor",
+  "incident_id": "rn76zdy367m2",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-29T12:45:19.985681+00:00",
+  "started_at": "2026-10-29T10:19:55.313000+00:00",
+  "status": "monitoring",
+  "title": "Disruption with Copilot Cloud services",
+  "transition": "progress",
+  "url": "https://stspg.io/22p3vp78z20q"
+ },
+ {
   "body": "We are experiencing increased failures and latency on our agent sessions service, including creating and listing sessions. This can impact cloud based agent sessions on web, mobile, VS Code, CLI and the GitHub Copilot app.",
   "components": [],
   "duration": "",
@@ -7758,26 +7776,5 @@
   "title": "Connectors platform latency",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432"
- },
- {
-  "body": "We are investigating a service degradation affecting some Cloud Agents and Grok Bot features.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Cursor is on the floor. Kettle on, grass outside.",
-  "id": "cursor:bccntkmymws0:opened:investigating:major:2026-10-06T19:27:23.428000+00:00",
-  "impact": "major",
-  "incident_id": "bccntkmymws0",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-06T19:30:34.525750+00:00",
-  "started_at": "2026-10-06T19:27:23.287000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
-  "transition": "opened",
-  "url": "https://stspg.io/s72y0jp0bgtt"
  }
 ]

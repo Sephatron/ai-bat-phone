@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/22p3vp78z20q</link>
+<guid isPermaLink='false'>github:rn76zdy367m2:progress:monitoring:minor:2026-10-29T12:33:32.205000+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 12:45:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
 <link>https://stspg.io/22p3vp78z20q</link>
 <guid isPermaLink='false'>github:rn76zdy367m2:opened:investigating:minor:2026-10-29T10:22:18.215000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 17:30:15 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 06m · Opened: Mon, 19 Oct 2026 16:15:04 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/0s6t57vsg1nl">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/0s6t57vsg1nl</link>
-<guid isPermaLink='false'>cursor:48bg6xqptq72:progress:monitoring:minor:2026-10-19T17:10:56.479000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 17:15:16 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: monitoring · Affects: Grok Bot · Opened: Mon, 19 Oct 2026 16:15:04 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/0s6t57vsg1nl">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
