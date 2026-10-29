@@ -1,10 +1,10 @@
 {
- "heartbeat": "2026-10-29T02:00:00+00:00",
+ "heartbeat": "2026-10-29T03:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 3,
    "failing_since": "2026-10-29T01:00:00+00:00",
-   "last_error": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out"
+   "last_error": "https://status.ai21.com/api/v2/incidents.json returned HTTP 503"
   },
   "anthropic": {
    "consecutive_failures": 0
@@ -13,9 +13,7 @@
    "consecutive_failures": 0
   },
   "cerebras": {
-   "consecutive_failures": 1,
-   "failing_since": "2026-10-29T02:00:00+00:00",
-   "last_error": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "cohere": {
    "consecutive_failures": 0
@@ -45,9 +43,7 @@
    "consecutive_failures": 0
   },
   "moonshot": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-10-29T02:00:00+00:00",
-   "last_error": "https://status.moonshot.cn/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   },
   "openai": {
    "consecutive_failures": 0
@@ -72,9 +68,7 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 2,
-   "failing_since": "2026-10-29T02:00:00+00:00",
-   "last_error": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out"
+   "consecutive_failures": 0
   }
  },
  "seen": {
