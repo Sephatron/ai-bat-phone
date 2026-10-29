@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 29 Oct 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 13:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/22p3vp78z20q</link>
+<guid isPermaLink='false'>github:rn76zdy367m2:resolved:resolved:minor:2026-10-29T12:49:52.175000+00:00</guid>
+<pubDate>Thu, 29 Oct 2026 13:00:21 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 29m · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/22p3vp78z20q</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 19 Oct 2026 18:15:14 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Mon, 19 Oct 2026 18:09:57 +0000</p><p>We are investigating a service degradation affecting Grok Bot and grok.com. You may notice errors related to billing, plans, and usage.</p><p><a href="https://stspg.io/m85mb3fzh2nh">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 1h 06m]]></title>
-<link>https://stspg.io/0s6t57vsg1nl</link>
-<guid isPermaLink='false'>cursor:48bg6xqptq72:resolved:resolved:minor:2026-10-19T17:21:36.794000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 17:30:15 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 06m · Opened: Mon, 19 Oct 2026 16:15:04 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/0s6t57vsg1nl">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "2h 29m",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:rn76zdy367m2:resolved:resolved:minor:2026-10-29T12:49:52.175000+00:00",
+  "impact": "minor",
+  "incident_id": "rn76zdy367m2",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-29T13:00:21.272480+00:00",
+  "started_at": "2026-10-29T10:19:55.313000+00:00",
+  "status": "resolved",
+  "title": "Disruption with Copilot Cloud services",
+  "transition": "resolved",
+  "url": "https://stspg.io/22p3vp78z20q"
+ },
+ {
   "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
   "components": [],
   "duration": "",
@@ -7758,23 +7776,5 @@
   "title": "Several services are degraded",
   "transition": "opened",
   "url": "https://stspg.io/w3rcssslq22w"
- },
- {
-  "body": "[Investigating] We are currently seeing increased latency for connectors requests.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Replit",
-  "id": "replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:opened:investigating:minor:2026-10-06T19:30:34.525750+00:00",
-  "impact": "minor",
-  "incident_id": "0172bdc7-0453-42d4-bd16-193e9e9ce432",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-06T19:30:34.525750+00:00",
-  "started_at": "2026-10-06T19:16:13+00:00",
-  "status": "investigating",
-  "title": "Connectors platform latency",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432"
  }
 ]

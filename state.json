@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-10-29T12:00:00+00:00",
+ "heartbeat": "2026-10-29T13:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -3947,8 +3947,8 @@
   "github:rn76zdy367m2": {
    "impact": "minor",
    "last_seen_at": "2026-10-29T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-29T12:33:32.205000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-29T12:49:52.175000+00:00"
   },
   "github:rw3k5dz04rqj": {
    "impact": "maintenance",
