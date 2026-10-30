@@ -5663,8 +5663,8 @@
   "openai:01M66KSDH67V5BQ73PE8AD2W8S": {
    "impact": "minor",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-30T14:35:28+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-30T16:06:34+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S</link>
+<guid isPermaLink='false'>openai:01M66KSDH67V5BQ73PE8AD2W8S:progress:monitoring:minor:2026-10-30T16:06:34+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 16:15:20 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for GPT Image 2 API image edits</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 30 Oct 2026 14:35:28 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from GitHub after 31 min]]></title>
 <link>https://stspg.io/6p81rf34z4nc</link>
 <guid isPermaLink='false'>github:nxy2l0ssxm10:resolved:resolved:critical:2026-10-30T15:02:51.029000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 02:30:14 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors on DeepSeek V4 Flash on Model APIs</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 40 min · Opened: Wed, 21 Oct 2026 01:48:01 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/ll791598g9tx">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H</link>
-<guid isPermaLink='false'>openai:01M5E4G39TD1BW1QWHZG6RFA5H:opened:monitoring:minor:2026-10-21T02:27:42+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 02:30:14 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in ChatGPT, Codex, and APIs</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 21 Oct 2026 02:26:28 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
