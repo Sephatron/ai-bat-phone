@@ -3914,6 +3914,12 @@
    "status": "completed",
    "updated_at": "2025-05-31T04:30:21.150000+00:00"
   },
+  "github:nxy2l0ssxm10": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-30T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-30T14:39:42.883000+00:00"
+  },
   "github:pf25whpq58hh": {
    "impact": "minor",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
@@ -5653,6 +5659,12 @@
    "last_seen_at": "2026-10-28T00:00:00+00:00",
    "status": "investigating",
    "updated_at": "2026-10-28T03:39:58+00:00"
+  },
+  "openai:01M66KSDH67V5BQ73PE8AD2W8S": {
+   "impact": "minor",
+   "last_seen_at": "2026-10-30T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-10-30T14:35:28+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

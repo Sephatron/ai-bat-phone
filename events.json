@@ -1,5 +1,62 @@
 [
  {
+  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
+  "components": [],
+  "duration": "",
+  "headline": "📡 Still watching. Nothing to report.",
+  "id": "meta:all:alive:2026-10-30",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "batphone",
+  "provider_name": "AI Bat Phone",
+  "published_at": "2026-10-30T14:45:19.934441+00:00",
+  "started_at": "2026-10-30T14:45:19.934441+00:00",
+  "status": "alive",
+  "title": "Still watching 21 provider status pages",
+  "transition": "alive",
+  "url": "https://sephatron.github.io/ai-bat-phone"
+ },
+ {
+  "body": "We are experiencing elevated errors for some GPT Image 2 API image edit requests. We have identified the issue and are working on a fix",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M66KSDH67V5BQ73PE8AD2W8S:opened:identified:minor:2026-10-30T14:35:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M66KSDH67V5BQ73PE8AD2W8S",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-30T14:45:19.934441+00:00",
+  "started_at": "2026-10-30T14:35:28+00:00",
+  "status": "identified",
+  "title": "Elevated errors for GPT Image 2 API image edits",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S"
+ },
+ {
+  "body": "Pages is experiencing degraded performance. We are continuing to investigate.",
+  "components": [
+   "Issues",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "🔴 GitHub is having a proper one. This is not your code.",
+  "id": "github:nxy2l0ssxm10:opened:investigating:critical:2026-10-30T14:39:42.883000+00:00",
+  "impact": "critical",
+  "incident_id": "nxy2l0ssxm10",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T14:45:19.934441+00:00",
+  "started_at": "2026-10-30T14:31:16.529000+00:00",
+  "status": "investigating",
+  "title": "Disruption with GitHub services",
+  "transition": "opened",
+  "url": "https://stspg.io/6p81rf34z4nc"
+ },
+ {
   "body": "The issue affecting image and video generation, Flows, and MCP in ElevenCreative has been resolved. Generations are completing normally.",
   "components": [],
   "duration": "1h 42m",
@@ -7710,63 +7767,5 @@
   "title": "Workspace Agents Degraded and Responses Impacted",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
- },
- {
-  "body": "This incident has been resolved. From 17:00 PT on October 6 / 00:00 UTC on October 7 to 18:40 PT on October 6 / 01:40 UTC on October 7, many requests to load usage data on the platform.claude.com Usage page and the Admin API usage report returned errors.",
-  "components": [
-   "Claude Console (platform.claude.com)"
-  ],
-  "duration": "1h 13m",
-  "headline": "🟢 All clear from Claude after 1h 13m",
-  "id": "anthropic:wf2v8ms031sx:resolved:resolved:major:2026-10-07T02:33:38.847000+00:00",
-  "impact": "major",
-  "incident_id": "wf2v8ms031sx",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-07T02:45:36.399362+00:00",
-  "started_at": "2026-10-07T01:20:26.673000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors loading usage data on platform.claude.com",
-  "transition": "resolved",
-  "url": "https://stspg.io/scdhhnplc2jn"
- },
- {
-  "body": "We are implementing the mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
-  "id": "openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:identified:minor:2026-10-07T01:52:03+00:00",
-  "impact": "minor",
-  "incident_id": "01M49YQE6WZT02WYF0KBXVMQ5G",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T02:00:32.743423+00:00",
-  "started_at": "2026-10-07T01:12:57+00:00",
-  "status": "identified",
-  "title": "Workspace Agents Degraded and Responses Impacted",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
- },
- {
-  "body": "We are investigating elevated errors loading usage data on the platform.claude.com Usage page and the Admin API usage report endpoint since 5 PM PT. Messages API requests are not affected. We will provide an update as soon as possible.",
-  "components": [
-   "Claude Console (platform.claude.com)"
-  ],
-  "duration": "",
-  "headline": "🔴 Claude is on the floor. Kettle on, grass outside.",
-  "id": "anthropic:wf2v8ms031sx:opened:investigating:major:2026-10-07T01:20:26.960000+00:00",
-  "impact": "major",
-  "incident_id": "wf2v8ms031sx",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-07T01:30:32.404364+00:00",
-  "started_at": "2026-10-07T01:20:26.673000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors loading usage data on platform.claude.com",
-  "transition": "opened",
-  "url": "https://stspg.io/scdhhnplc2jn"
  }
 ]

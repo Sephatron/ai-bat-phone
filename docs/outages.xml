@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-10-30</guid>
+<pubDate>Fri, 30 Oct 2026 14:45:19 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S</link>
+<guid isPermaLink='false'>openai:01M66KSDH67V5BQ73PE8AD2W8S:opened:identified:minor:2026-10-30T14:35:28+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 14:45:19 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for GPT Image 2 API image edits</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 30 Oct 2026 14:35:28 +0000</p><p>We are experiencing elevated errors for some GPT Image 2 API image edit requests. We have identified the issue and are working on a fix</p><p><a href="https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 GitHub is having a proper one. This is not your code.]]></title>
+<link>https://stspg.io/6p81rf34z4nc</link>
+<guid isPermaLink='false'>github:nxy2l0ssxm10:opened:investigating:critical:2026-10-30T14:39:42.883000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 14:45:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: investigating · Affects: Issues, Pages · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>Pages is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 ElevenLabs is fine again]]></title>
 <link>https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D</link>
 <guid isPermaLink='false'>elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:resolved:resolved:minor:2026-10-30T11:01:22+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 01:15:14 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 01:14:00 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Lovable knows what it did]]></title>
-<link>https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3</link>
-<guid isPermaLink='false'>lovable:01M5DZAPZAKVN0ZYHD9SXXXVK3:opened:identified:minor:2026-10-21T00:56:08+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 01:00:15 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Lovable backends stuck after restart</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 21 Oct 2026 00:56:08 +0000</p><p>Some Lovable backends (Lovable Cloud) aren’t coming back after a restart. If yours is affected, your app may be down, and sign-in or data may not load. The cause is an issue at one of our upstream vendors. We’re monitoring it and will post an update here as soon as we have one.</p><p><a href="https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:recovered:2026-10-13T22:00:00+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 22:00:14 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2</link>
-<guid isPermaLink='false'>fireworks:01M5DC9Y4VP3PMP8T1GBFYRRB2:resolved:resolved:minor:2026-10-20T19:56:19+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 20:00:14 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 32 min · Opened: Tue, 20 Oct 2026 19:23:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
