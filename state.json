@@ -3917,8 +3917,8 @@
   "github:nxy2l0ssxm10": {
    "impact": "critical",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-30T14:49:46.415000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-30T15:02:51.029000+00:00"
   },
   "github:pf25whpq58hh": {
    "impact": "minor",

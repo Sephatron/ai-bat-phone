@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from GitHub after 31 min]]></title>
+<link>https://stspg.io/6p81rf34z4nc</link>
+<guid isPermaLink='false'>github:nxy2l0ssxm10:resolved:resolved:critical:2026-10-30T15:02:51.029000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 15:15:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: resolved · Affects: Issues, Pages · Duration: 31 min · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/6p81rf34z4nc</link>
 <guid isPermaLink='false'>github:nxy2l0ssxm10:progress:monitoring:critical:2026-10-30T14:49:46.415000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 01:30:14 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 6 min · Opened: Wed, 21 Oct 2026 01:14:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
-<link>https://stspg.io/t5r9t8qz850b</link>
-<guid isPermaLink='false'>baseten:6j87tp9dhf4t:opened:investigating:minor:2026-10-21T01:05:09.804000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 01:15:14 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors for image requests on multiple Model APIs</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 21 Oct 2026 01:05:09 +0000</p><p>There are elevated errors for image requests on Deepseek V4 Flash and GLM 5.3 Flash</p><p><a href="https://stspg.io/t5r9t8qz850b">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

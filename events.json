@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Issues",
+   "Pages"
+  ],
+  "duration": "31 min",
+  "headline": "🟢 All clear from GitHub after 31 min",
+  "id": "github:nxy2l0ssxm10:resolved:resolved:critical:2026-10-30T15:02:51.029000+00:00",
+  "impact": "critical",
+  "incident_id": "nxy2l0ssxm10",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T15:15:20.283887+00:00",
+  "started_at": "2026-10-30T14:31:16.529000+00:00",
+  "status": "resolved",
+  "title": "Disruption with GitHub services",
+  "transition": "resolved",
+  "url": "https://stspg.io/6p81rf34z4nc"
+ },
+ {
   "body": "The degradation affecting Pages has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Issues",
@@ -7752,23 +7773,5 @@
   "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "1h 47m",
-  "headline": "🟢 OpenAI sorted itself out after 1h 47m",
-  "id": "openai:01M49YQE6WZT02WYF0KBXVMQ5G:resolved:resolved:minor:2026-10-07T03:00:54+00:00",
-  "impact": "minor",
-  "incident_id": "01M49YQE6WZT02WYF0KBXVMQ5G",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T03:15:29.038920+00:00",
-  "started_at": "2026-10-07T01:12:57+00:00",
-  "status": "resolved",
-  "title": "Workspace Agents Degraded and Responses Impacted",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
  }
 ]
