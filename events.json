@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue affecting image and video generation, Flows, and MCP in ElevenCreative has been resolved. Generations are completing normally.",
+  "components": [],
+  "duration": "1h 42m",
+  "headline": "🟢 ElevenLabs is fine again",
+  "id": "elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:resolved:resolved:minor:2026-10-30T11:01:22+00:00",
+  "impact": "minor",
+  "incident_id": "01M661PASVTZR2HZ6B8CY5XB3D",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-30T11:15:20.678032+00:00",
+  "started_at": "2026-10-30T09:19:13+00:00",
+  "status": "resolved",
+  "title": "ElevenCreative - Image & Video - Degraded performance",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "31 min",
@@ -7750,23 +7768,5 @@
   "title": "Elevated errors loading usage data on platform.claude.com",
   "transition": "opened",
   "url": "https://stspg.io/scdhhnplc2jn"
- },
- {
-  "body": "We are investigating the issue for workspace agents, users may not see the responses during the issue time.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is a bit under the weather",
-  "id": "openai:01M49YQE6WZT02WYF0KBXVMQ5G:opened:investigating:minor:2026-10-07T01:12:57+00:00",
-  "impact": "minor",
-  "incident_id": "01M49YQE6WZT02WYF0KBXVMQ5G",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T01:15:29.540354+00:00",
-  "started_at": "2026-10-07T01:12:57+00:00",
-  "status": "investigating",
-  "title": "Workspace Agents Degraded and Responses Impacted",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
  }
 ]

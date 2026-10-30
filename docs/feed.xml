@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
+<link>https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D</link>
+<guid isPermaLink='false'>elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:resolved:resolved:minor:2026-10-30T11:01:22+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 11:15:20 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>ElevenCreative - Image &amp; Video - Degraded performance</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 42m · Opened: Fri, 30 Oct 2026 09:19:13 +0000</p><p>The issue affecting image and video generation, Flows, and MCP in ElevenCreative has been resolved. Generations are completing normally.</p><p><a href="https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX</link>
 <guid isPermaLink='false'>fireworks:01M665N15B8YK2VT3T27S9NQQX:resolved:resolved:minor:2026-10-30T11:00:12+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 01:15:14 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 01:14:00 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Lovable knows what it did]]></title>
-<link>https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3</link>
-<guid isPermaLink='false'>lovable:01M5DZAPZAKVN0ZYHD9SXXXVK3:opened:identified:minor:2026-10-21T00:56:08+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 01:00:15 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Lovable backends stuck after restart</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 21 Oct 2026 00:56:08 +0000</p><p>Some Lovable backends (Lovable Cloud) aren’t coming back after a restart. If yours is affected, your app may be down, and sign-in or data may not load. The cause is an issue at one of our upstream vendors. We’re monitoring it and will post an update here as soon as we have one.</p><p><a href="https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
