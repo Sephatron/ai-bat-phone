@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Actions and Webhooks",
+  "components": [
+   "Webhooks",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from GitHub",
+  "id": "github:pwxsjgnvrk6b:opened:investigating:minor:2026-10-30T17:50:54.787000+00:00",
+  "impact": "minor",
+  "incident_id": "pwxsjgnvrk6b",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T18:00:20.055198+00:00",
+  "started_at": "2026-10-30T17:50:54.670000+00:00",
+  "status": "investigating",
+  "title": "Incident with Actions, Pages, and Webhooks",
+  "transition": "opened",
+  "url": "https://stspg.io/5cd2m4n59spv"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7754,24 +7775,6 @@
   "status": "resolved",
   "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
- },
- {
-  "body": "we have identified the issue, working on rolling back to the previous version.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has found the culprit",
-  "id": "openai:01M4ADHMMBK7K92NJFJ0DXRYJM:progress:identified:major:2026-10-07T05:54:27+00:00",
-  "impact": "major",
-  "incident_id": "01M4ADHMMBK7K92NJFJ0DXRYJM",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T06:00:32.913251+00:00",
-  "started_at": "2026-10-07T05:31:56+00:00",
-  "status": "identified",
-  "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
  }
 ]

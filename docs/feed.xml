@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 30 Oct 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
+<link>https://stspg.io/5cd2m4n59spv</link>
+<guid isPermaLink='false'>github:pwxsjgnvrk6b:opened:investigating:minor:2026-10-30T17:50:54.787000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 18:00:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks, Actions · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>We are investigating reports of degraded performance for Actions and Webhooks</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 03:00:13 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Lovable backends stuck after restart</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 51m · Opened: Wed, 21 Oct 2026 00:56:08 +0000</p><p>A fix is being rolled out and users should no longer experience issues with backend stuck after restart.</p><p><a href="https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
-<link>https://stspg.io/ll791598g9tx</link>
-<guid isPermaLink='false'>baseten:3d8t4dnndtbv:resolved:resolved:minor:2026-10-21T02:28:17.222000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 02:30:14 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors on DeepSeek V4 Flash on Model APIs</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 40 min · Opened: Wed, 21 Oct 2026 01:48:01 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/ll791598g9tx">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
