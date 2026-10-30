@@ -1,5 +1,27 @@
 [
  {
+  "body": "We continue to investigate delays affecting Actions workflows, Pages deployments, and webhook events, along with errors affecting code search and live updates. We have taken mitigation steps. Actions processing and Pages deployments are showing signs of recovery, but impact has not fully resolved. We are monitoring recovery and investigating the underlying cause.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "🔺 GitHub went from annoying to actual",
+  "id": "github:pwxsjgnvrk6b:escalated:investigating:major:2026-10-30T18:06:21.714000+00:00",
+  "impact": "major",
+  "incident_id": "pwxsjgnvrk6b",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T18:15:19.354242+00:00",
+  "started_at": "2026-10-30T17:50:54.670000+00:00",
+  "status": "investigating",
+  "title": "Incident with Actions, Pages, and Webhooks",
+  "transition": "escalated",
+  "url": "https://stspg.io/5cd2m4n59spv"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Actions and Webhooks",
   "components": [
    "Webhooks",
@@ -7758,23 +7780,5 @@
   "title": "Elevated errors on platform.claude.com",
   "transition": "opened",
   "url": "https://stspg.io/sjkw7njwf0mt"
- },
- {
-  "body": "We have released an updated app version with the fix for Linux, macOS and Windows. Affected users should update to the latest version.",
-  "components": [],
-  "duration": "6h 21m",
-  "headline": "🟢 OpenAI is upright again. That took 6h 21m.",
-  "id": "openai:01M4ADHMMBK7K92NJFJ0DXRYJM:resolved:resolved:major:2026-10-07T11:53:35+00:00",
-  "impact": "major",
-  "incident_id": "01M4ADHMMBK7K92NJFJ0DXRYJM",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T12:00:48.738277+00:00",
-  "started_at": "2026-10-07T05:31:56+00:00",
-  "status": "resolved",
-  "title": "Unable to create new ChatGPT Work threads in latest version of desktop app",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4ADHMMBK7K92NJFJ0DXRYJM"
  }
 ]
