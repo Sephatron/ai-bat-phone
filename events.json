@@ -1,5 +1,25 @@
 [
  {
+  "body": "This has been resolved",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "1h 35m",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_e5eb22a9954466c4:resolved:resolved:minor:2026-10-30T01:20:15+00:00",
+  "impact": "minor",
+  "incident_id": "ps_e5eb22a9954466c4",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-30T01:30:20.833426+00:00",
+  "started_at": "2026-10-29T23:44:42+00:00",
+  "status": "resolved",
+  "title": "Auto Review Degradation",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4"
+ },
+ {
   "body": "We are investigating a degradation in Auto Review functionality",
   "components": [
    "Grok Bot"
@@ -7754,23 +7774,5 @@
   "title": "Connectors platform latency",
   "transition": "progress",
   "url": "https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432"
- },
- {
-  "body": "[Identified] We're currently investigating connection issues affecting some customers. We've identified the root cause and rolling back across all affected customers.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Replit has found the culprit",
-  "id": "replit:264a6aa0-4fde-421a-81cb-71c8ab080e36:opened:identified:minor:2026-10-06T22:00:33.708825+00:00",
-  "impact": "minor",
-  "incident_id": "264a6aa0-4fde-421a-81cb-71c8ab080e36",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-06T22:00:33.708825+00:00",
-  "started_at": "2026-10-06T21:53:11+00:00",
-  "status": "identified",
-  "title": "Connection errors affecting some customers",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36"
  }
 ]

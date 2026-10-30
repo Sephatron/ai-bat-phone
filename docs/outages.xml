@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4</link>
+<guid isPermaLink='false'>cursor:ps_e5eb22a9954466c4:resolved:resolved:minor:2026-10-30T01:20:15+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 01:30:20 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Auto Review Degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 35m · Opened: Thu, 29 Oct 2026 23:44:42 +0000</p><p>This has been resolved</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
 <link>https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4</link>
 <guid isPermaLink='false'>cursor:ps_e5eb22a9954466c4:opened:investigating:minor:2026-10-29T23:44:42+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 20 Oct 2026 01:30:13 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Elevated latency on some serverless models</strong></p><p>Impact: unclassified · Status: investigating · Opened: Tue, 20 Oct 2026 01:29:08 +0000</p><p>Some serverless models are experiencing elevated response latency. We are investigating network degradation with one of our cloud service providers that is causing these delays.</p><p><a href="https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M5B6JFNCWZMTM8MB8JCP1F90</link>
-<guid isPermaLink='false'>fireworks:01M5B6JFNCWZMTM8MB8JCP1F90:resolved:resolved:minor:2026-10-19T23:23:20+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 23:30:13 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 18 min · Opened: Mon, 19 Oct 2026 23:05:00 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5B6JFNCWZMTM8MB8JCP1F90">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
