@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
+<link>https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7</link>
+<guid isPermaLink='false'>openai:01M6754SR14HCQ3E9FX426E2N7:opened:investigating:minor:2026-10-30T19:38:47+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 19:45:18 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 19:38:47 +0000</p><p>We’re aware of issues affecting search in Dots, ChatGPT Work, and some ChatGPT thinking experiences. We’re investigating and will share updates here.</p><p><a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A</link>
+<guid isPermaLink='false'>fireworks:01M6752F3ZBDTVVMZ6DTXAA68A:opened:investigating:minor:2026-10-30T19:37:31+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 19:45:18 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 19:37:31 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from GitHub after 1h 32m]]></title>
 <link>https://stspg.io/5cd2m4n59spv</link>
 <guid isPermaLink='false'>github:pwxsjgnvrk6b:resolved:resolved:major:2026-10-30T19:23:40.203000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 06:00:15 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 29 min · Opened: Wed, 21 Oct 2026 05:28:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
-<link>https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K</link>
-<guid isPermaLink='false'>fireworks:01M5EEXQ8Z0FG35R8E9R0D8E6K:opened:investigating:minor:2026-10-21T05:28:40+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 05:30:14 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 05:28:40 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H</link>
-<guid isPermaLink='false'>openai:01M5E4G39TD1BW1QWHZG6RFA5H:resolved:resolved:minor:2026-10-21T02:48:17+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 03:00:13 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in ChatGPT, Codex, and APIs</strong></p><p>Impact: minor · Status: resolved · Duration: 21 min · Opened: Wed, 21 Oct 2026 02:26:28 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

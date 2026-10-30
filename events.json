@@ -1,5 +1,41 @@
 [
  {
+  "body": "We’re aware of issues affecting search in Dots, ChatGPT Work, and some ChatGPT thinking experiences. We’re investigating and will share updates here.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M6754SR14HCQ3E9FX426E2N7:opened:investigating:minor:2026-10-30T19:38:47+00:00",
+  "impact": "minor",
+  "incident_id": "01M6754SR14HCQ3E9FX426E2N7",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-30T19:45:18.319697+00:00",
+  "started_at": "2026-10-30T19:38:47+00:00",
+  "status": "investigating",
+  "title": "Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7"
+ },
+ {
+  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M6752F3ZBDTVVMZ6DTXAA68A:opened:investigating:minor:2026-10-30T19:37:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M6752F3ZBDTVVMZ6DTXAA68A",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-30T19:45:18.319697+00:00",
+  "started_at": "2026-10-30T19:37:31+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Webhooks",
@@ -7744,47 +7780,5 @@
   "title": "Some users may see errors sending messages",
   "transition": "resolved",
   "url": "https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94"
- },
- {
-  "body": "The problem is resolved, we are monitoring the situation",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Lovable has applied a fix and is holding its breath",
-  "id": "lovable:01M4BAXDR3M18PSS2K23PXPQ94:progress:monitoring:major:2026-10-07T15:44:16+00:00",
-  "impact": "major",
-  "incident_id": "01M4BAXDR3M18PSS2K23PXPQ94",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-07T15:45:29.508134+00:00",
-  "started_at": "2026-10-07T14:05:11+00:00",
-  "status": "monitoring",
-  "title": "Some users may see errors sending messages",
-  "transition": "progress",
-  "url": "https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94"
- },
- {
-  "body": "Webhooks is experiencing degraded performance. We are continuing to investigate.",
-  "components": [
-   "Git Operations",
-   "Webhooks",
-   "Issues",
-   "Pull Requests",
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🔴 Tools down: GitHub is broken",
-  "id": "github:djlmxz2zd0j7:opened:investigating:critical:2026-10-07T15:27:28.429000+00:00",
-  "impact": "critical",
-  "incident_id": "djlmxz2zd0j7",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-07T15:30:31.708829+00:00",
-  "started_at": "2026-10-07T15:14:45.606000+00:00",
-  "status": "investigating",
-  "title": "Incident with Git Operations, Pull Requests and Actions",
-  "transition": "opened",
-  "url": "https://stspg.io/96smrcth8bpg"
  }
 ]
