@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating elevated latency and timeouts affecting content generations in ElevenCreative. Some generations may get stuck or fail to complete. Our team is actively looking into the cause and will post updates as we learn more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is sulking, mildly",
+  "id": "elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:opened:investigating:minor:2026-10-30T09:19:13+00:00",
+  "impact": "minor",
+  "incident_id": "01M661PASVTZR2HZ6B8CY5XB3D",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-30T09:30:19.766354+00:00",
+  "started_at": "2026-10-30T09:19:13+00:00",
+  "status": "investigating",
+  "title": "ElevenCreative - Content generations - degraded performance",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D"
+ },
+ {
   "body": "This incident has been resolved. Cloud Agent services have returned to normal operation.",
   "components": [
    "Automations",
@@ -7759,23 +7777,5 @@
   "title": "Investigating service degradation — Cloud Agents",
   "transition": "opened",
   "url": "https://stspg.io/d264y501jym3"
- },
- {
-  "body": "[Resolved] We've rolled back successfully and all monitors related to this connection issue have resolved.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit has stopped wobbling",
-  "id": "replit:264a6aa0-4fde-421a-81cb-71c8ab080e36:resolved:resolved:minor:2026-10-06T22:30:32.069655+00:00",
-  "impact": "minor",
-  "incident_id": "264a6aa0-4fde-421a-81cb-71c8ab080e36",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-06T22:30:32.069655+00:00",
-  "started_at": "2026-10-06T22:30:08+00:00",
-  "status": "resolved",
-  "title": "Connection errors affecting some customers",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36"
  }
 ]
