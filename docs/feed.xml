@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7</link>
+<guid isPermaLink='false'>openai:01M6754SR14HCQ3E9FX426E2N7:resolved:resolved:minor:2026-10-30T21:14:12+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 21:15:18 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 35m · Opened: Fri, 30 Oct 2026 19:38:47 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
 <link>https://stspg.io/5bh6qnzn76tk</link>
 <guid isPermaLink='false'>github:lyyfm7j4pkgl:opened:investigating:minor:2026-10-30T20:59:14.295000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates for gpt-5.6-luna API requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 21 Oct 2026 15:34:47 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N</link>
-<guid isPermaLink='false'>openai:01M5FHKHPQJMSHCE2B2WDPZW2N:opened:identified:minor:2026-10-21T15:34:47+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 15:45:25 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for gpt-5.6-luna API requests</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 21 Oct 2026 15:34:47 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

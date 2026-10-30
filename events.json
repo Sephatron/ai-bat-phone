@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "1h 35m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M6754SR14HCQ3E9FX426E2N7:resolved:resolved:minor:2026-10-30T21:14:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M6754SR14HCQ3E9FX426E2N7",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-30T21:15:18.287307+00:00",
+  "started_at": "2026-10-30T19:38:47+00:00",
+  "status": "resolved",
+  "title": "Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7"
+ },
+ {
   "body": "We are investigating reports of impacted performance for some GitHub services.",
   "components": [],
   "duration": "",
@@ -7748,29 +7766,5 @@
   "title": "Dot in Codex may fail to create new threads",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Git Operations",
-   "Webhooks",
-   "Issues",
-   "Pull Requests",
-   "Actions"
-  ],
-  "duration": "1h 10m",
-  "headline": "🟢 GitHub lives. Pick your tools back up.",
-  "id": "github:djlmxz2zd0j7:resolved:resolved:critical:2026-10-07T16:25:14.647000+00:00",
-  "impact": "critical",
-  "incident_id": "djlmxz2zd0j7",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-07T16:30:44.878394+00:00",
-  "started_at": "2026-10-07T15:14:45.606000+00:00",
-  "status": "resolved",
-  "title": "Incident with Git Operations, Pull Requests and Actions",
-  "transition": "resolved",
-  "url": "https://stspg.io/96smrcth8bpg"
  }
 ]

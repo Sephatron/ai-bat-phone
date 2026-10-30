@@ -3894,7 +3894,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-10-30T20:59:14.295000+00:00"
+   "updated_at": "2026-10-30T21:00:18.324000+00:00"
   },
   "github:n2vqnsg14tw2": {
    "impact": "maintenance",
@@ -5693,8 +5693,8 @@
   "openai:01M6754SR14HCQ3E9FX426E2N7": {
    "impact": "minor",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-30T19:38:47+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-30T21:14:12+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
