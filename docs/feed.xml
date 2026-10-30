@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/5bh6qnzn76tk</link>
+<guid isPermaLink='false'>github:lyyfm7j4pkgl:progress:monitoring:minor:2026-10-30T22:32:14.197000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 22:45:17 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Dependabot</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 30 Oct 2026 20:59:14 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/5bh6qnzn76tk">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
 <link>https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e</link>
 <guid isPermaLink='false'>replit:36c1345c-f557-4403-93ac-da9c3f350a9e:opened:identified:minor:2026-10-30T22:30:18.579175+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Pull Requests, Actions · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>We continue to see delays affecting pull request updates, webhook deliveries, and audit log events. The event streaming platform is showing signs of recovery, and we are monitoring as the impact continues.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/jythbn6wf94k</link>
-<guid isPermaLink='false'>cursor:qy67qt0s4n18:opened:monitoring:minor:2026-10-21T15:56:59.793000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: cursor.com, Grok Bot · Opened: Wed, 21 Oct 2026 15:46:15 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/jythbn6wf94k">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

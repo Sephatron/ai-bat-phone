@@ -3893,8 +3893,8 @@
   "github:lyyfm7j4pkgl": {
    "impact": "minor",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-30T21:44:52.905000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-10-30T22:32:14.197000+00:00"
   },
   "github:n2vqnsg14tw2": {
    "impact": "maintenance",
@@ -6066,7 +6066,7 @@
    "impact": "minor",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-10-30T22:21:10+00:00"
+   "updated_at": "2026-10-30T22:35:28+00:00"
   },
   "replit:38921b36-bda9-4ff2-9bff-5ae87431b6f0": {
    "impact": "minor",

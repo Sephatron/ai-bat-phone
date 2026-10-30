@@ -1,5 +1,23 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:lyyfm7j4pkgl:progress:monitoring:minor:2026-10-30T22:32:14.197000+00:00",
+  "impact": "minor",
+  "incident_id": "lyyfm7j4pkgl",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T22:45:17.714482+00:00",
+  "started_at": "2026-10-30T20:59:14.215000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Dependabot",
+  "transition": "progress",
+  "url": "https://stspg.io/5bh6qnzn76tk"
+ },
+ {
   "body": "[Identified] Customers reporting Replit is inaccessible",
   "components": [],
   "duration": "",
@@ -7746,25 +7764,5 @@
   "title": "Incident with Git Operations, Issues, Actions and Pull Requests",
   "transition": "opened",
   "url": "https://stspg.io/4p8x0jnnsx7m"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "1h 25m",
-  "headline": "🟢 Cursor sorted itself out after 1h 25m",
-  "id": "cursor:p7fmcg2j968f:resolved:resolved:minor:2026-10-07T17:25:18.389000+00:00",
-  "impact": "minor",
-  "incident_id": "p7fmcg2j968f",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-07T17:30:36.959413+00:00",
-  "started_at": "2026-10-07T15:59:32.956000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/rh45hf9t61t5"
  }
 ]
