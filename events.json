@@ -1,5 +1,41 @@
 [
  {
+  "body": "We are investigating reports of impacted performance for some GitHub services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:lyyfm7j4pkgl:opened:investigating:minor:2026-10-30T20:59:14.295000+00:00",
+  "impact": "minor",
+  "incident_id": "lyyfm7j4pkgl",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T21:00:19.226472+00:00",
+  "started_at": "2026-10-30T20:59:14.215000+00:00",
+  "status": "investigating",
+  "title": "Incident with Dependabot",
+  "transition": "opened",
+  "url": "https://stspg.io/5bh6qnzn76tk"
+ },
+ {
+  "body": "We are experiencing service degradation impacting deployment creation, dedicated training, and batch inference services. We are working to resolve these issues and will provide updates here.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Fireworks AI has identified the problem. Fix pending.",
+  "id": "fireworks:01M679955DA5K8S2HMEXDPCBR3:opened:identified:none:2026-10-30T20:51:04+00:00",
+  "impact": "none",
+  "incident_id": "01M679955DA5K8S2HMEXDPCBR3",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-30T21:00:19.226472+00:00",
+  "started_at": "2026-10-30T20:51:04+00:00",
+  "status": "identified",
+  "title": "Service degradation",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "36 min",
@@ -7736,49 +7772,5 @@
   "title": "Incident with Git Operations, Pull Requests and Actions",
   "transition": "resolved",
   "url": "https://stspg.io/96smrcth8bpg"
- },
- {
-  "body": "We are seeing full recovery across all systems including Git Operations, Pull Requests and Actions. We are continuing to investigate the root cause of the disruption between 15:06 UTC and 15:16 UTC, and will share another update shortly.",
-  "components": [
-   "Git Operations",
-   "Webhooks",
-   "Issues",
-   "Pull Requests",
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub has applied a fix and is holding its breath",
-  "id": "github:djlmxz2zd0j7:progress:monitoring:critical:2026-10-07T15:58:35.062000+00:00",
-  "impact": "critical",
-  "incident_id": "djlmxz2zd0j7",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-07T16:00:50.538304+00:00",
-  "started_at": "2026-10-07T15:14:45.606000+00:00",
-  "status": "monitoring",
-  "title": "Incident with Git Operations, Pull Requests and Actions",
-  "transition": "progress",
-  "url": "https://stspg.io/96smrcth8bpg"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot's computers in certain regions.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is sulking, mildly",
-  "id": "cursor:p7fmcg2j968f:opened:investigating:minor:2026-10-07T15:59:33.058000+00:00",
-  "impact": "minor",
-  "incident_id": "p7fmcg2j968f",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-07T16:00:50.538304+00:00",
-  "started_at": "2026-10-07T15:59:32.956000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "opened",
-  "url": "https://stspg.io/rh45hf9t61t5"
  }
 ]
