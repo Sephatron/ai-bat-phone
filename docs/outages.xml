@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub sorted itself out after 2h 29m]]></title>
+<link>https://stspg.io/5bh6qnzn76tk</link>
+<guid isPermaLink='false'>github:lyyfm7j4pkgl:resolved:resolved:minor:2026-10-30T23:29:06.403000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 23:30:21 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Dependabot</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 29m · Opened: Fri, 30 Oct 2026 20:59:14 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5bh6qnzn76tk">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit has stopped wobbling]]></title>
 <link>https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e</link>
 <guid isPermaLink='false'>replit:36c1345c-f557-4403-93ac-da9c3f350a9e:resolved:resolved:minor:2026-10-30T22:55:27.977605+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: cursor.com, Grok Bot · Opened: Wed, 21 Oct 2026 15:46:15 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/jythbn6wf94k">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N</link>
-<guid isPermaLink='false'>openai:01M5FHKHPQJMSHCE2B2WDPZW2N:progress:monitoring:minor:2026-10-21T15:47:26+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for gpt-5.6-luna API requests</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 21 Oct 2026 15:34:47 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

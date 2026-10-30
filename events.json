@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "2h 29m",
+  "headline": "🟢 GitHub sorted itself out after 2h 29m",
+  "id": "github:lyyfm7j4pkgl:resolved:resolved:minor:2026-10-30T23:29:06.403000+00:00",
+  "impact": "minor",
+  "incident_id": "lyyfm7j4pkgl",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T23:30:21.952318+00:00",
+  "started_at": "2026-10-30T20:59:14.215000+00:00",
+  "status": "resolved",
+  "title": "Incident with Dependabot",
+  "transition": "resolved",
+  "url": "https://stspg.io/5bh6qnzn76tk"
+ },
+ {
   "body": "[Resolved] Access to Replit services has recovered.",
   "components": [],
   "duration": "",
@@ -7739,25 +7757,5 @@
   "title": "Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2"
- },
- {
-  "body": "We've identified the cause of errors loading usage data. The Admin API usage report has recovered, and fixes for the platform.claude.com Usage and Rate limits pages are in progress. The most recent 30 minutes of usage may be delayed. Core functionality is not affected.",
-  "components": [
-   "Claude Console (platform.claude.com)"
-  ],
-  "duration": "",
-  "headline": "🔍 Claude knows what it did",
-  "id": "anthropic:978mjkgw6mh7:progress:identified:major:2026-10-07T17:28:02.570000+00:00",
-  "impact": "major",
-  "incident_id": "978mjkgw6mh7",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-07T17:30:36.959413+00:00",
-  "started_at": "2026-10-07T13:25:04.155000+00:00",
-  "status": "identified",
-  "title": "Elevated errors on platform.claude.com",
-  "transition": "progress",
-  "url": "https://stspg.io/sjkw7njwf0mt"
  }
 ]
