@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from GitHub after 1h 32m]]></title>
+<link>https://stspg.io/5cd2m4n59spv</link>
+<guid isPermaLink='false'>github:pwxsjgnvrk6b:resolved:resolved:major:2026-10-30T19:23:40.203000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 19:30:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: major · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 1h 32m · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/5cd2m4n59spv</link>
 <guid isPermaLink='false'>github:pwxsjgnvrk6b:progress:monitoring:major:2026-10-30T18:32:39.862000+00:00</guid>

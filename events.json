@@ -1,5 +1,27 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "1h 32m",
+  "headline": "🟢 All clear from GitHub after 1h 32m",
+  "id": "github:pwxsjgnvrk6b:resolved:resolved:major:2026-10-30T19:23:40.203000+00:00",
+  "impact": "major",
+  "incident_id": "pwxsjgnvrk6b",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T19:30:19.186612+00:00",
+  "started_at": "2026-10-30T17:50:54.670000+00:00",
+  "status": "resolved",
+  "title": "Incident with Actions, Pages, and Webhooks",
+  "transition": "resolved",
+  "url": "https://stspg.io/5cd2m4n59spv"
+ },
+ {
   "body": "The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Webhooks",
@@ -7764,23 +7786,5 @@
   "title": "Incident with Git Operations, Pull Requests and Actions",
   "transition": "opened",
   "url": "https://stspg.io/96smrcth8bpg"
- },
- {
-  "body": "[Investigating] We've identified an issue with GitHub connectors starting Tuesday 1PM PT that prevented users from being able to connect their project source code to GitHub. This issue is recovering and we'll keep you updated here.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is having a wobble",
-  "id": "replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e:opened:investigating:minor:2026-10-07T15:00:36.411257+00:00",
-  "impact": "minor",
-  "incident_id": "edf53552-3bc7-4cc7-a8a8-75a29fba548e",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-07T15:00:36.411257+00:00",
-  "started_at": "2026-10-07T14:52:30+00:00",
-  "status": "investigating",
-  "title": "GitHub connector may not be working for users",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e"
  }
 ]

@@ -3935,8 +3935,8 @@
   "github:pwxsjgnvrk6b": {
    "impact": "major",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-10-30T18:32:39.862000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-30T19:23:40.203000+00:00"
   },
   "github:pz7g535gbs6p": {
    "impact": "critical",
