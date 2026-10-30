@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 30 Oct 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX</link>
+<guid isPermaLink='false'>fireworks:01M665N15B8YK2VT3T27S9NQQX:resolved:resolved:minor:2026-10-30T11:00:12+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 11:00:19 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 31 min · Opened: Fri, 30 Oct 2026 10:28:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
+<link>https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D</link>
+<guid isPermaLink='false'>elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:progress:monitoring:minor:2026-10-30T10:49:55+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 11:00:19 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>ElevenCreative - Image &amp; Video - Degraded performance</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 30 Oct 2026 09:19:13 +0000</p><p>The elevated latency and timeouts affecting image and video generation, Flows, and MCP in ElevenCreative have improved. We are monitoring to confirm that generations are completing normally and will post an update once recovery is confirmed.</p><p><a href="https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 20 Oct 2026 19:45:15 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Tue, 20 Oct 2026 19:25:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5DCDKG8B2SBP96NM50D2DYQ">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M5DCDKG8B2SBP96NM50D2DYQ</link>
-<guid isPermaLink='false'>fireworks:01M5DCDKG8B2SBP96NM50D2DYQ:opened:investigating:minor:2026-10-20T19:25:40+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 19:30:15 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 20 Oct 2026 19:25:40 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5DCDKG8B2SBP96NM50D2DYQ">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2</link>
-<guid isPermaLink='false'>fireworks:01M5DC9Y4VP3PMP8T1GBFYRRB2:opened:investigating:minor:2026-10-20T19:23:40+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 19:30:15 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 20 Oct 2026 19:23:40 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

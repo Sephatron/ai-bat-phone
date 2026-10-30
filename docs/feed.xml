@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 30 Oct 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX</link>
+<guid isPermaLink='false'>fireworks:01M665N15B8YK2VT3T27S9NQQX:resolved:resolved:minor:2026-10-30T11:00:12+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 11:00:19 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 31 min · Opened: Fri, 30 Oct 2026 10:28:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
+<link>https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D</link>
+<guid isPermaLink='false'>elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:progress:monitoring:minor:2026-10-30T10:49:55+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 11:00:19 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>ElevenCreative - Image &amp; Video - Degraded performance</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 30 Oct 2026 09:19:13 +0000</p><p>The elevated latency and timeouts affecting image and video generation, Flows, and MCP in ElevenCreative have improved. We are monitoring to confirm that generations are completing normally and will post an update once recovery is confirmed.</p><p><a href="https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 01:00:15 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Lovable backends stuck after restart</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 21 Oct 2026 00:56:08 +0000</p><p>Some Lovable backends (Lovable Cloud) aren’t coming back after a restart. If yours is affected, your app may be down, and sign-in or data may not load. The cause is an issue at one of our upstream vendors. We’re monitoring it and will post an update here as soon as we have one.</p><p><a href="https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:recovered:2026-10-13T22:00:00+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 22:00:14 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2</link>
-<guid isPermaLink='false'>fireworks:01M5DC9Y4VP3PMP8T1GBFYRRB2:resolved:resolved:minor:2026-10-20T19:56:19+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 20:00:14 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 32 min · Opened: Tue, 20 Oct 2026 19:23:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

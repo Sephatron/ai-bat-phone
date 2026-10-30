@@ -1,5 +1,41 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "31 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M665N15B8YK2VT3T27S9NQQX:resolved:resolved:minor:2026-10-30T11:00:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M665N15B8YK2VT3T27S9NQQX",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-30T11:00:19.116364+00:00",
+  "started_at": "2026-10-30T10:28:24+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX"
+ },
+ {
+  "body": "The elevated latency and timeouts affecting image and video generation, Flows, and MCP in ElevenCreative have improved. We are monitoring to confirm that generations are completing normally and will post an update once recovery is confirmed.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs thinks it's fixed and is watching nervously",
+  "id": "elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:progress:monitoring:minor:2026-10-30T10:49:55+00:00",
+  "impact": "minor",
+  "incident_id": "01M661PASVTZR2HZ6B8CY5XB3D",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-10-30T11:00:19.116364+00:00",
+  "started_at": "2026-10-30T09:19:13+00:00",
+  "status": "monitoring",
+  "title": "ElevenCreative - Image & Video - Degraded performance",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D"
+ },
+ {
   "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7732,47 +7768,5 @@
   "title": "Workspace Agents Degraded and Responses Impacted",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Webhooks",
-   "Pull Requests"
-  ],
-  "duration": "3h 43m",
-  "headline": "🟢 GitHub is upright again. That took 3h 43m.",
-  "id": "github:cjwszcf57bff:resolved:resolved:critical:2026-10-06T23:40:44.194000+00:00",
-  "impact": "critical",
-  "incident_id": "cjwszcf57bff",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-06T23:45:31.556612+00:00",
-  "started_at": "2026-10-06T19:57:35.439000+00:00",
-  "status": "resolved",
-  "title": "Several services are degraded",
-  "transition": "resolved",
-  "url": "https://stspg.io/w3rcssslq22w"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "16 min",
-  "headline": "🟢 Cursor is upright again. That took 16 min.",
-  "id": "cursor:lft9b2dfmfsy:resolved:resolved:major:2026-10-06T23:04:57.505000+00:00",
-  "impact": "major",
-  "incident_id": "lft9b2dfmfsy",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-06T23:15:35.084990+00:00",
-  "started_at": "2026-10-06T22:48:00+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Cloud Agents",
-  "transition": "resolved",
-  "url": "https://stspg.io/d264y501jym3"
  }
 ]
