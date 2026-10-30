@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit has stopped wobbling]]></title>
+<link>https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e</link>
+<guid isPermaLink='false'>replit:36c1345c-f557-4403-93ac-da9c3f350a9e:resolved:resolved:minor:2026-10-30T22:55:27.977605+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 22:55:27 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Investigating issues related to platform access</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 30 Oct 2026 22:47:57 +0000</p><p>[Resolved] Access to Replit services has recovered.</p><p><a href="https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/5bh6qnzn76tk</link>
 <guid isPermaLink='false'>github:lyyfm7j4pkgl:progress:monitoring:minor:2026-10-30T22:32:14.197000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Cerebras Inference's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 Upgrade your concern: GitHub is now critical]]></title>
-<link>https://stspg.io/gnnt0tx9nxmk</link>
-<guid isPermaLink='false'>github:nms1dpzmh9d9:escalated:investigating:critical:2026-10-21T15:58:38.769000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Pull Requests, Actions · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>We continue to see delays affecting pull request updates, webhook deliveries, and audit log events. The event streaming platform is showing signs of recovery, and we are monitoring as the impact continues.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] Access to Replit services has recovered.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit has stopped wobbling",
+  "id": "replit:36c1345c-f557-4403-93ac-da9c3f350a9e:resolved:resolved:minor:2026-10-30T22:55:27.977605+00:00",
+  "impact": "minor",
+  "incident_id": "36c1345c-f557-4403-93ac-da9c3f350a9e",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-30T22:55:27.977605+00:00",
+  "started_at": "2026-10-30T22:47:57+00:00",
+  "status": "resolved",
+  "title": "Investigating issues related to platform access",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e"
+ },
+ {
   "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
   "components": [],
   "duration": "",
@@ -7741,28 +7759,5 @@
   "title": "Elevated errors on platform.claude.com",
   "transition": "progress",
   "url": "https://stspg.io/sjkw7njwf0mt"
- },
- {
-  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
-  "components": [
-   "Git Operations",
-   "Issues",
-   "Pull Requests",
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub is on the mend. Don't get comfortable yet.",
-  "id": "github:qpfv5p86dmrl:opened:monitoring:critical:2026-10-07T17:27:12.668000+00:00",
-  "impact": "critical",
-  "incident_id": "qpfv5p86dmrl",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-07T17:30:36.959413+00:00",
-  "started_at": "2026-10-07T17:17:05.768000+00:00",
-  "status": "monitoring",
-  "title": "Incident with Git Operations, Issues, Actions and Pull Requests",
-  "transition": "opened",
-  "url": "https://stspg.io/4p8x0jnnsx7m"
  }
 ]
