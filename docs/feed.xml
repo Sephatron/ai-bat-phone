@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 30 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/6p81rf34z4nc</link>
+<guid isPermaLink='false'>github:nxy2l0ssxm10:progress:monitoring:critical:2026-10-30T14:49:46.415000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: monitoring · Affects: Issues, Pages · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>The degradation affecting Pages has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 01:57:15 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors on DeepSeek V4 Flash on Model APIs</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 21 Oct 2026 01:48:01 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/ll791598g9tx">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten is fine again]]></title>
-<link>https://stspg.io/t5r9t8qz850b</link>
-<guid isPermaLink='false'>baseten:6j87tp9dhf4t:resolved:resolved:minor:2026-10-21T01:26:02.483000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 01:30:14 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors for image requests on multiple Model APIs</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 20 min · Opened: Wed, 21 Oct 2026 01:05:09 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/t5r9t8qz850b">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

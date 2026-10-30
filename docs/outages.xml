@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 30 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/6p81rf34z4nc</link>
+<guid isPermaLink='false'>github:nxy2l0ssxm10:progress:monitoring:critical:2026-10-30T14:49:46.415000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: monitoring · Affects: Issues, Pages · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>The degradation affecting Pages has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 01:15:14 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors for image requests on multiple Model APIs</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 21 Oct 2026 01:05:09 +0000</p><p>There are elevated errors for image requests on Deepseek V4 Flash and GLM 5.3 Flash</p><p><a href="https://stspg.io/t5r9t8qz850b">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX</link>
-<guid isPermaLink='false'>fireworks:01M5E0BD82NP5SMPEQKW0X1AAX:opened:investigating:minor:2026-10-21T01:14:00+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 01:15:14 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 01:14:00 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

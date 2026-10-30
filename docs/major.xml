@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 30 Oct 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/6p81rf34z4nc</link>
+<guid isPermaLink='false'>github:nxy2l0ssxm10:progress:monitoring:critical:2026-10-30T14:49:46.415000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: monitoring · Affects: Issues, Pages · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>The degradation affecting Pages has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>

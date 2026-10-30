@@ -1,5 +1,26 @@
 [
  {
+  "body": "The degradation affecting Pages has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Issues",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:nxy2l0ssxm10:progress:monitoring:critical:2026-10-30T14:49:46.415000+00:00",
+  "impact": "critical",
+  "incident_id": "nxy2l0ssxm10",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T15:00:19.697823+00:00",
+  "started_at": "2026-10-30T14:31:16.529000+00:00",
+  "status": "monitoring",
+  "title": "Disruption with GitHub services",
+  "transition": "progress",
+  "url": "https://stspg.io/6p81rf34z4nc"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
@@ -7748,24 +7769,6 @@
   "status": "resolved",
   "title": "Workspace Agents Degraded and Responses Impacted",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M49YQE6WZT02WYF0KBXVMQ5G:progress:monitoring:minor:2026-10-07T02:45:26+00:00",
-  "impact": "minor",
-  "incident_id": "01M49YQE6WZT02WYF0KBXVMQ5G",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T02:45:36.399362+00:00",
-  "started_at": "2026-10-07T01:12:57+00:00",
-  "status": "monitoring",
-  "title": "Workspace Agents Degraded and Responses Impacted",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
  }
 ]
