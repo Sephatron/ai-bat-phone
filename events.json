@@ -1,5 +1,45 @@
 [
  {
+  "body": "The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub is on the mend. Don't get comfortable yet.",
+  "id": "github:pwxsjgnvrk6b:progress:monitoring:major:2026-10-30T18:32:39.862000+00:00",
+  "impact": "major",
+  "incident_id": "pwxsjgnvrk6b",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-10-30T18:45:19.280508+00:00",
+  "started_at": "2026-10-30T17:50:54.670000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Actions, Pages, and Webhooks",
+  "transition": "progress",
+  "url": "https://stspg.io/5cd2m4n59spv"
+ },
+ {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "4h 01m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M66KSDH67V5BQ73PE8AD2W8S:resolved:resolved:minor:2026-10-30T18:36:55+00:00",
+  "impact": "minor",
+  "incident_id": "01M66KSDH67V5BQ73PE8AD2W8S",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-10-30T18:45:19.280508+00:00",
+  "started_at": "2026-10-30T14:35:28+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for GPT Image 2 API image edits",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S"
+ },
+ {
   "body": "We continue to investigate delays affecting Actions workflows, Pages deployments, and webhook events, along with errors affecting code search and live updates. We have taken mitigation steps. Actions processing and Pages deployments are showing signs of recovery, but impact has not fully resolved. We are monitoring recovery and investigating the underlying cause.",
   "components": [
    "Webhooks",
@@ -7742,43 +7782,5 @@
   "title": "GitHub connector may not be working for users",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e"
- },
- {
-  "body": "> Some users are seeing errors when sending messages in the editor or creating new projects. Our team is investigating and working on a fix.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Lovable is on the floor. Kettle on, grass outside.",
-  "id": "lovable:01M4BAXDR3M18PSS2K23PXPQ94:opened:investigating:major:2026-10-07T14:05:11+00:00",
-  "impact": "major",
-  "incident_id": "01M4BAXDR3M18PSS2K23PXPQ94",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-07T14:15:32.436982+00:00",
-  "started_at": "2026-10-07T14:05:11+00:00",
-  "status": "investigating",
-  "title": "Some users may see errors sending messages",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94"
- },
- {
-  "body": "We are investigating elevated errors affecting usage data on the platform.claude.com Usage page and the Admin API usage report. Core functionality is not affected. We will provide an update as soon as possible.",
-  "components": [
-   "Claude Console (platform.claude.com)"
-  ],
-  "duration": "",
-  "headline": "🔴 Claude has gone dark. Nothing you did. Probably.",
-  "id": "anthropic:978mjkgw6mh7:opened:investigating:major:2026-10-07T13:25:04.274000+00:00",
-  "impact": "major",
-  "incident_id": "978mjkgw6mh7",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-07T13:30:37.519017+00:00",
-  "started_at": "2026-10-07T13:25:04.155000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors on platform.claude.com",
-  "transition": "opened",
-  "url": "https://stspg.io/sjkw7njwf0mt"
  }
 ]

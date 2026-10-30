@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/5cd2m4n59spv</link>
+<guid isPermaLink='false'>github:pwxsjgnvrk6b:progress:monitoring:major:2026-10-30T18:32:39.862000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 18:45:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: major · Status: monitoring · Affects: Webhooks, Actions, Pages · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔺 GitHub went from annoying to actual]]></title>
 <link>https://stspg.io/5cd2m4n59spv</link>
 <guid isPermaLink='false'>github:pwxsjgnvrk6b:escalated:investigating:major:2026-10-30T18:06:21.714000+00:00</guid>
@@ -936,22 +944,6 @@
 <pubDate>Wed, 07 Oct 2026 15:30:31 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Git Operations, Pull Requests and Actions</strong></p><p>Impact: critical · Status: investigating · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions · Opened: Wed, 07 Oct 2026 15:14:45 +0000</p><p>Webhooks is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/96smrcth8bpg">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
-<link>https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94</link>
-<guid isPermaLink='false'>lovable:01M4BAXDR3M18PSS2K23PXPQ94:opened:investigating:major:2026-10-07T14:05:11+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 14:15:32 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some users may see errors sending messages</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 07 Oct 2026 14:05:11 +0000</p><p>&gt; Some users are seeing errors when sending messages in the editor or creating new projects. Our team is investigating and working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M4BAXDR3M18PSS2K23PXPQ94">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
-<link>https://stspg.io/sjkw7njwf0mt</link>
-<guid isPermaLink='false'>anthropic:978mjkgw6mh7:opened:investigating:major:2026-10-07T13:25:04.274000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 13:30:37 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We are investigating elevated errors affecting usage data on the platform.claude.com Usage page and the Admin API usage report. Core functionality is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/5cd2m4n59spv</link>
+<guid isPermaLink='false'>github:pwxsjgnvrk6b:progress:monitoring:major:2026-10-30T18:32:39.862000+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 18:45:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: major · Status: monitoring · Affects: Webhooks, Actions, Pages · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S</link>
+<guid isPermaLink='false'>openai:01M66KSDH67V5BQ73PE8AD2W8S:resolved:resolved:minor:2026-10-30T18:36:55+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 18:45:19 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors for GPT Image 2 API image edits</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 01m · Opened: Fri, 30 Oct 2026 14:35:28 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔺 GitHub went from annoying to actual]]></title>
 <link>https://stspg.io/5cd2m4n59spv</link>
 <guid isPermaLink='false'>github:pwxsjgnvrk6b:escalated:investigating:major:2026-10-30T18:06:21.714000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 03:00:13 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Lovable backends stuck after restart</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 51m · Opened: Wed, 21 Oct 2026 00:56:08 +0000</p><p>A fix is being rolled out and users should no longer experience issues with backend stuck after restart.</p><p><a href="https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten has stopped wobbling]]></title>
-<link>https://stspg.io/ll791598g9tx</link>
-<guid isPermaLink='false'>baseten:3d8t4dnndtbv:resolved:resolved:minor:2026-10-21T02:28:17.222000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 02:30:14 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors on DeepSeek V4 Flash on Model APIs</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 40 min · Opened: Wed, 21 Oct 2026 01:48:01 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/ll791598g9tx">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H</link>
-<guid isPermaLink='false'>openai:01M5E4G39TD1BW1QWHZG6RFA5H:opened:monitoring:minor:2026-10-21T02:27:42+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 02:30:14 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded performance in ChatGPT, Codex, and APIs</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 21 Oct 2026 02:26:28 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
