@@ -1853,8 +1853,8 @@
   "cursor:ps_35b661ea1cde5cbc": {
    "impact": "minor",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-29T23:29:27+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-30T07:11:00+00:00"
   },
   "cursor:ps_3e59314c94d41d47": {
    "impact": "minor",
@@ -1889,8 +1889,8 @@
   "cursor:ps_ad31c985bfc193b9": {
    "impact": "minor",
    "last_seen_at": "2026-10-30T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-29T21:38:10+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-30T07:12:25+00:00"
   },
   "cursor:ps_d25569b21cabd283": {
    "impact": "major",

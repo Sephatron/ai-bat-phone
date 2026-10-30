@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor sorted itself out after 7h 41m]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc</link>
+<guid isPermaLink='false'>cursor:ps_35b661ea1cde5cbc:resolved:resolved:minor:2026-10-30T07:11:00+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 07:15:18 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Cloud Agent Degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Cloud Agents, IDE · Duration: 7h 41m · Opened: Thu, 29 Oct 2026 23:29:27 +0000</p><p>This incident has been resolved. Cloud Agent services have returned to normal operation.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9</link>
+<guid isPermaLink='false'>cursor:ps_ad31c985bfc193b9:resolved:resolved:minor:2026-10-30T07:12:25+00:00</guid>
+<pubDate>Fri, 30 Oct 2026 07:15:18 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Investigating Service Degradation with VS Code Extensions</strong></p><p>Impact: minor · Status: resolved · Affects: IDE · Duration: 9h 34m · Opened: Thu, 29 Oct 2026 21:38:10 +0000</p><p>This incident has been resolved. All services have returned to normal operation.</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4</link>
 <guid isPermaLink='false'>cursor:ps_e5eb22a9954466c4:resolved:resolved:minor:2026-10-30T01:20:15+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 20 Oct 2026 19:30:15 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 20 Oct 2026 19:25:40 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5DCDKG8B2SBP96NM50D2DYQ">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2</link>
-<guid isPermaLink='false'>fireworks:01M5DC9Y4VP3PMP8T1GBFYRRB2:opened:investigating:minor:2026-10-20T19:23:40+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 19:30:15 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 20 Oct 2026 19:23:40 +0000</p><p>We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 27 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M5D8MR9P42K116V6D8SZH4PC</link>
-<guid isPermaLink='false'>fireworks:01M5D8MR9P42K116V6D8SZH4PC:resolved:resolved:minor:2026-10-20T18:47:30+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 19:00:15 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 27 min · Opened: Tue, 20 Oct 2026 18:19:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5D8MR9P42K116V6D8SZH4PC">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

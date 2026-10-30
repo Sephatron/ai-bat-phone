@@ -1,5 +1,47 @@
 [
  {
+  "body": "This incident has been resolved. Cloud Agent services have returned to normal operation.",
+  "components": [
+   "Automations",
+   "Cloud Agents",
+   "IDE"
+  ],
+  "duration": "7h 41m",
+  "headline": "🟢 Cursor sorted itself out after 7h 41m",
+  "id": "cursor:ps_35b661ea1cde5cbc:resolved:resolved:minor:2026-10-30T07:11:00+00:00",
+  "impact": "minor",
+  "incident_id": "ps_35b661ea1cde5cbc",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-30T07:15:18.681918+00:00",
+  "started_at": "2026-10-29T23:29:27+00:00",
+  "status": "resolved",
+  "title": "Cloud Agent Degradation",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc"
+ },
+ {
+  "body": "This incident has been resolved. All services have returned to normal operation.",
+  "components": [
+   "IDE"
+  ],
+  "duration": "9h 34m",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_ad31c985bfc193b9:resolved:resolved:minor:2026-10-30T07:12:25+00:00",
+  "impact": "minor",
+  "incident_id": "ps_ad31c985bfc193b9",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-30T07:15:18.681918+00:00",
+  "started_at": "2026-10-29T21:38:10+00:00",
+  "status": "resolved",
+  "title": "Investigating Service Degradation with VS Code Extensions",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9"
+ },
+ {
   "body": "This has been resolved",
   "components": [
    "Grok Bot"
@@ -7735,44 +7777,5 @@
   "title": "Connection errors affecting some customers",
   "transition": "resolved",
   "url": "https://status.replit.com/incidents/264a6aa0-4fde-421a-81cb-71c8ab080e36"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "2h 39m",
-  "headline": "🟢 Cursor is upright again. That took 2h 39m.",
-  "id": "cursor:bccntkmymws0:resolved:resolved:major:2026-10-06T22:06:44.656000+00:00",
-  "impact": "major",
-  "incident_id": "bccntkmymws0",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-06T22:15:30.221811+00:00",
-  "started_at": "2026-10-06T19:27:23.287000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/s72y0jp0bgtt"
- },
- {
-  "body": "[Monitoring] We have identified and resolved the latency issue, now monitoring to make sure it's completely resolved.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Replit thinks it's fixed and is watching nervously",
-  "id": "replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:progress:monitoring:minor:2026-10-06T22:15:30.221811+00:00",
-  "impact": "minor",
-  "incident_id": "0172bdc7-0453-42d4-bd16-193e9e9ce432",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-06T22:15:30.221811+00:00",
-  "started_at": "2026-10-06T22:08:07+00:00",
-  "status": "monitoring",
-  "title": "Connectors platform latency",
-  "transition": "progress",
-  "url": "https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432"
  }
 ]
