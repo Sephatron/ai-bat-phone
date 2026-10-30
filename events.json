@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M665N15B8YK2VT3T27S9NQQX:opened:investigating:minor:2026-10-30T10:28:24+00:00",
+  "impact": "minor",
+  "incident_id": "01M665N15B8YK2VT3T27S9NQQX",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-10-30T10:30:19.832507+00:00",
+  "started_at": "2026-10-30T10:28:24+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX"
+ },
+ {
   "body": "We are investigating elevated latency and timeouts affecting content generations in ElevenCreative. Some generations may get stuck or fail to complete. Our team is actively looking into the cause and will post updates as we learn more.",
   "components": [],
   "duration": "",
@@ -7755,27 +7773,6 @@
   "status": "resolved",
   "title": "Investigating service degradation — Cloud Agents",
   "transition": "resolved",
-  "url": "https://stspg.io/d264y501jym3"
- },
- {
-  "body": "We are currently investigating this issue. We will provide updates as more information becomes available.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Tools down: Cursor is broken",
-  "id": "cursor:lft9b2dfmfsy:opened:investigating:major:2026-10-06T22:54:59.230000+00:00",
-  "impact": "major",
-  "incident_id": "lft9b2dfmfsy",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-06T23:00:33.348185+00:00",
-  "started_at": "2026-10-06T22:48:00+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Cloud Agents",
-  "transition": "opened",
   "url": "https://stspg.io/d264y501jym3"
  }
 ]

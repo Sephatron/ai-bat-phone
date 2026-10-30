@@ -969,13 +969,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents</strong></p><p>Impact: major · Status: resolved · Affects: Cloud Agents, Grok Bot · Duration: 16 min · Opened: Tue, 06 Oct 2026 22:48:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/d264y501jym3">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Tools down: Cursor is broken]]></title>
-<link>https://stspg.io/d264y501jym3</link>
-<guid isPermaLink='false'>cursor:lft9b2dfmfsy:opened:investigating:major:2026-10-06T22:54:59.230000+00:00</guid>
-<pubDate>Tue, 06 Oct 2026 23:00:33 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Cloud Agents</strong></p><p>Impact: major · Status: investigating · Affects: Cloud Agents, Grok Bot · Opened: Tue, 06 Oct 2026 22:48:00 +0000</p><p>We are currently investigating this issue. We will provide updates as more information becomes available.</p><p><a href="https://stspg.io/d264y501jym3">Cursor status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
