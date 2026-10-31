@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/gs4j9nf0w3dr</link>
+<guid isPermaLink='false'>moonshot:kq56jb7y4lcw:opened:investigating:critical:2026-10-31T05:42:47.840000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 05:45:19 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sat, 31 Oct 2026 05:42:47 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/gs4j9nf0w3dr">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/1zzhj3x1tk59</link>
 <guid isPermaLink='false'>moonshot:dywv44h2n4ht:opened:investigating:critical:2026-10-31T04:42:47.839000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
 <category>Windsurf</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Windsurf's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.windsurf.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Cerebras Inference is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.cerebras.ai</link>
-<guid isPermaLink='false'>meta:cerebras:unreachable:2026-10-21T15:00:00+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Cerebras Inference's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

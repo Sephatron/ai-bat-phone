@@ -5,6 +5,26 @@
    "K3"
   ],
   "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.",
+  "id": "moonshot:kq56jb7y4lcw:opened:investigating:critical:2026-10-31T05:42:47.840000+00:00",
+  "impact": "critical",
+  "incident_id": "kq56jb7y4lcw",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-31T05:45:19.256870+00:00",
+  "started_at": "2026-10-31T05:42:47.765000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
+  "transition": "opened",
+  "url": "https://stspg.io/gs4j9nf0w3dr"
+ },
+ {
+  "body": "K3 输出速度可能变慢",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
   "headline": "🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.",
   "id": "moonshot:dywv44h2n4ht:opened:investigating:critical:2026-10-31T04:42:47.839000+00:00",
   "impact": "critical",
@@ -7743,23 +7763,5 @@
   "title": "Incident with Git Operations, Issues, Actions and Pull Requests",
   "transition": "resolved",
   "url": "https://stspg.io/4p8x0jnnsx7m"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "1h 35m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M4BK9J2M83R4SSC71D9FXW45:resolved:resolved:minor:2026-10-07T18:06:37+00:00",
-  "impact": "minor",
-  "incident_id": "01M4BK9J2M83R4SSC71D9FXW45",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T18:15:30.741399+00:00",
-  "started_at": "2026-10-07T16:31:37+00:00",
-  "status": "resolved",
-  "title": "Dot in Codex may fail to create new threads",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
  }
 ]

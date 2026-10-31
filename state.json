@@ -4928,6 +4928,12 @@
    "status": "resolved",
    "updated_at": "2026-10-01T05:47:14.275000+00:00"
   },
+  "moonshot:kq56jb7y4lcw": {
+   "impact": "critical",
+   "last_seen_at": "2026-10-31T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-10-31T05:42:47.840000+00:00"
+  },
   "moonshot:ll8x75r56c3p": {
    "impact": "critical",
    "last_seen_at": "2026-10-31T00:00:00+00:00",
