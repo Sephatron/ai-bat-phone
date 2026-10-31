@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit is fine again]]></title>
+<link>https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1</link>
+<guid isPermaLink='false'>replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:resolved:resolved:minor:2026-10-31T10:45:17.515839+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 10:45:17 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Investigating an issue related to the agent's ability to process images</strong></p><p>Impact: minor · Status: resolved · Opened: Sat, 31 Oct 2026 10:44:30 +0000</p><p>[Resolved] We have resolved some of the earlier issues where connections to replit was disrupted.</p><p><a href="https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is having a wobble]]></title>
 <link>https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1</link>
 <guid isPermaLink='false'>replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:opened:investigating:minor:2026-10-31T10:00:18.745721+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 18:00:25 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Lovable is slow at answering</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 17:57:50 +0000</p><p>Lovable may take minutes to answer messages in the chat. We are investigating and will try to restore full functionality as soon as possible.</p><p><a href="https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/jythbn6wf94k</link>
-<guid isPermaLink='false'>cursor:qy67qt0s4n18:resolved:resolved:minor:2026-10-21T17:40:30.167000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 17:45:26 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: cursor.com, Grok Bot · Duration: 1h 54m · Opened: Wed, 21 Oct 2026 15:46:15 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/jythbn6wf94k">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

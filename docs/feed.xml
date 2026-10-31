@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit is fine again]]></title>
+<link>https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1</link>
+<guid isPermaLink='false'>replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:resolved:resolved:minor:2026-10-31T10:45:17.515839+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 10:45:17 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Investigating an issue related to the agent's ability to process images</strong></p><p>Impact: minor · Status: resolved · Opened: Sat, 31 Oct 2026 10:44:30 +0000</p><p>[Resolved] We have resolved some of the earlier issues where connections to replit was disrupted.</p><p><a href="https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is having a wobble]]></title>
 <link>https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1</link>
 <guid isPermaLink='false'>replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:opened:investigating:minor:2026-10-31T10:00:18.745721+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 18:45:24 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: resolved · Duration: 2h 09m · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>The delays syncing changes between Lovable and GitHub have been resolved. Syncing is operating normally again.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable sorted itself out after 22 min]]></title>
-<link>https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y</link>
-<guid isPermaLink='false'>lovable:01M5FSSFG3FMTR4FRTTQ00S88Y:resolved:resolved:minor:2026-10-21T18:20:44+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 18:30:24 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Lovable is slow at answering</strong></p><p>Impact: minor · Status: resolved · Duration: 22 min · Opened: Wed, 21 Oct 2026 17:57:50 +0000</p><p>Service is returning to normal. Any delayed messages should be handled within 10-20 minutes at most.</p><p><a href="https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

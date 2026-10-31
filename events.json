@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] We have resolved some of the earlier issues where connections to replit was disrupted.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit is fine again",
+  "id": "replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:resolved:resolved:minor:2026-10-31T10:45:17.515839+00:00",
+  "impact": "minor",
+  "incident_id": "c3a6faca-3476-4565-8d92-fed4d3fc4ae1",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-10-31T10:45:17.515839+00:00",
+  "started_at": "2026-10-31T10:44:30+00:00",
+  "status": "resolved",
+  "title": "Investigating an issue related to the agent's ability to process images",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1"
+ },
+ {
   "body": "[Investigating] We are actively investigating an issue related to the agent's ability to process images.",
   "components": [],
   "duration": "",
@@ -7757,24 +7775,6 @@
   "status": "monitoring",
   "title": "Elevated errors with GPT-5.6 Instant in FedRAMP workspaces",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M"
- },
- {
-  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M4CBXZ62A9SVH8D74KVYQC8M:opened:investigating:minor:2026-10-07T23:42:12+00:00",
-  "impact": "minor",
-  "incident_id": "01M4CBXZ62A9SVH8D74KVYQC8M",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T23:45:35.413574+00:00",
-  "started_at": "2026-10-07T23:42:12+00:00",
-  "status": "investigating",
-  "title": "Elevated errors with GPT-5.6 Instant in FedRAMP workspaces",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M"
  }
 ]
