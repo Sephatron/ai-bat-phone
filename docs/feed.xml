@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/l5wtphpgmsym</link>
+<guid isPermaLink='false'>moonshot:8cwwrclccl7k:opened:investigating:critical:2026-10-31T06:42:47.941000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 06:45:19 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sat, 31 Oct 2026 06:42:47 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/l5wtphpgmsym">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263</link>
 <guid isPermaLink='false'>cursor:ps_061cf14060aff263:opened:investigating:minor:2026-10-31T06:04:02+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates for gpt-5.6-luna API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Wed, 21 Oct 2026 15:34:47 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Lovable has identified the problem. Fix pending.]]></title>
-<link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
-<guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:opened:identified:major:2026-10-21T16:33:16+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: identified · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>Changes syncing between Lovable and GitHub may be delayed for some users. This is caused by an issue at one of our providers, and things are starting to recover. We are monitoring closely.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
