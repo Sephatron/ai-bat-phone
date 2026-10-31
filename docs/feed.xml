@@ -10,6 +10,38 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 2h 54m.]]></title>
+<link>https://stspg.io/1zzhj3x1tk59</link>
+<guid isPermaLink='false'>moonshot:dywv44h2n4ht:resolved:resolved:critical:2026-10-31T07:36:49.904000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 2h 54m · Opened: Sat, 31 Oct 2026 04:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1zzhj3x1tk59">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 54 min.]]></title>
+<link>https://stspg.io/l5wtphpgmsym</link>
+<guid isPermaLink='false'>moonshot:8cwwrclccl7k:resolved:resolved:critical:2026-10-31T07:36:48.072000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 54 min · Opened: Sat, 31 Oct 2026 06:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l5wtphpgmsym">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/gs4j9nf0w3dr</link>
+<guid isPermaLink='false'>moonshot:kq56jb7y4lcw:resolved:resolved:critical:2026-10-31T07:36:47.849000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 54m · Opened: Sat, 31 Oct 2026 05:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gs4j9nf0w3dr">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/gyc737rls07g</link>
+<guid isPermaLink='false'>moonshot:m5y017t8c98j:resolved:resolved:critical:2026-10-31T07:36:47.834000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 3h 54m · Opened: Sat, 31 Oct 2026 03:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gyc737rls07g">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263</link>
 <guid isPermaLink='false'>cursor:ps_061cf14060aff263:resolved:resolved:minor:2026-10-31T06:47:33+00:00</guid>
@@ -1576,38 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 18:00:25 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors for Bitbucket Cloud integrations</strong></p><p>Impact: minor · Status: resolved · Affects: Review Agents, Cloud Agents · Duration: 13 min · Opened: Wed, 21 Oct 2026 17:40:17 +0000</p><p>Atlassian has reported the issue as resolved and they are continuing to monitor for service restoration.</p><p><a href="https://stspg.io/fh455gbmxf9q">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Lovable is sulking, mildly]]></title>
-<link>https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y</link>
-<guid isPermaLink='false'>lovable:01M5FSSFG3FMTR4FRTTQ00S88Y:opened:investigating:minor:2026-10-21T17:57:50+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 18:00:25 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Lovable is slow at answering</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 21 Oct 2026 17:57:50 +0000</p><p>Lovable may take minutes to answer messages in the chat. We are investigating and will try to restore full functionality as soon as possible.</p><p><a href="https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/jythbn6wf94k</link>
-<guid isPermaLink='false'>cursor:qy67qt0s4n18:resolved:resolved:minor:2026-10-21T17:40:30.167000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 17:45:26 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: resolved · Affects: cursor.com, Grok Bot · Duration: 1h 54m · Opened: Wed, 21 Oct 2026 15:46:15 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/jythbn6wf94k">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://stspg.io/fh455gbmxf9q</link>
-<guid isPermaLink='false'>cursor:691lnxhmwgs6:opened:investigating:minor:2026-10-21T17:40:17.361000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 17:45:26 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors for Bitbucket Cloud integrations</strong></p><p>Impact: minor · Status: investigating · Affects: Review Agents, Cloud Agents · Opened: Wed, 21 Oct 2026 17:40:17 +0000</p><p>We are investigating an issue affecting Cursor's Bitbucket Cloud integration. More information: https://bitbucket.status.atlassian.com/incidents/ldlx0fdgls28.</p><p><a href="https://stspg.io/fh455gbmxf9q">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
-<guid isPermaLink='false'>openai:01M5FD63HHDRPQPM5YMQWJ5HTN:progress:monitoring:minor:2026-10-21T17:04:07+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 17:15:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated FedRAMP API error rates for Astra and Sol</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 21 Oct 2026 14:17:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

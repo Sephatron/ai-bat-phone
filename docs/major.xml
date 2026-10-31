@@ -10,6 +10,38 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 2h 54m.]]></title>
+<link>https://stspg.io/1zzhj3x1tk59</link>
+<guid isPermaLink='false'>moonshot:dywv44h2n4ht:resolved:resolved:critical:2026-10-31T07:36:49.904000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 2h 54m · Opened: Sat, 31 Oct 2026 04:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1zzhj3x1tk59">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 54 min.]]></title>
+<link>https://stspg.io/l5wtphpgmsym</link>
+<guid isPermaLink='false'>moonshot:8cwwrclccl7k:resolved:resolved:critical:2026-10-31T07:36:48.072000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 54 min · Opened: Sat, 31 Oct 2026 06:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l5wtphpgmsym">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/gs4j9nf0w3dr</link>
+<guid isPermaLink='false'>moonshot:kq56jb7y4lcw:resolved:resolved:critical:2026-10-31T07:36:47.849000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 54m · Opened: Sat, 31 Oct 2026 05:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gs4j9nf0w3dr">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/gyc737rls07g</link>
+<guid isPermaLink='false'>moonshot:m5y017t8c98j:resolved:resolved:critical:2026-10-31T07:36:47.834000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 3h 54m · Opened: Sat, 31 Oct 2026 03:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gyc737rls07g">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/l5wtphpgmsym</link>
 <guid isPermaLink='false'>moonshot:8cwwrclccl7k:opened:investigating:critical:2026-10-31T06:42:47.941000+00:00</guid>
@@ -912,14 +944,6 @@
 <pubDate>Thu, 08 Oct 2026 15:30:29 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agent SIP Conversation Disruption</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 08 Oct 2026 15:19:02 +0000</p><p>We are currently investigating an issue causing call failures in Agent conversations using SIP. Non-SIP Agent conversations are unaffected.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/sjkw7njwf0mt</link>
-<guid isPermaLink='false'>anthropic:978mjkgw6mh7:progress:monitoring:major:2026-10-07T21:44:41.492000+00:00</guid>
-<pubDate>Wed, 07 Oct 2026 21:45:27 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: monitoring · Affects: Claude Console (platform.claude.com) · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>We've mitigated the errors loading usage data on platform.claude.com and in the Admin API usage report. While we work on a full fix, the most recent ~30 minutes of usage may take longer to appear on the platform.claude.com. API requests are not affected, and we will provide additional updates here.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -4751,8 +4751,8 @@
   "moonshot:8cwwrclccl7k": {
    "impact": "critical",
    "last_seen_at": "2026-10-31T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-31T06:42:47.941000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-31T07:36:48.072000+00:00"
   },
   "moonshot:8gg4p8f4p36c": {
    "impact": "critical",
@@ -4829,8 +4829,8 @@
   "moonshot:dywv44h2n4ht": {
    "impact": "critical",
    "last_seen_at": "2026-10-31T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-31T04:42:47.839000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-31T07:36:49.904000+00:00"
   },
   "moonshot:f5hxnrbft1k7": {
    "impact": "critical",
@@ -4943,8 +4943,8 @@
   "moonshot:kq56jb7y4lcw": {
    "impact": "critical",
    "last_seen_at": "2026-10-31T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-31T05:42:47.840000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-31T07:36:47.849000+00:00"
   },
   "moonshot:ll8x75r56c3p": {
    "impact": "critical",
@@ -4955,8 +4955,8 @@
   "moonshot:m5y017t8c98j": {
    "impact": "critical",
    "last_seen_at": "2026-10-31T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-10-31T03:42:47.850000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-10-31T07:36:47.834000+00:00"
   },
   "moonshot:m6xlhmmpgxgv": {
    "impact": "critical",

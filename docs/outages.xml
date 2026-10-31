@@ -10,6 +10,38 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 2h 54m.]]></title>
+<link>https://stspg.io/1zzhj3x1tk59</link>
+<guid isPermaLink='false'>moonshot:dywv44h2n4ht:resolved:resolved:critical:2026-10-31T07:36:49.904000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 2h 54m · Opened: Sat, 31 Oct 2026 04:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1zzhj3x1tk59">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 54 min.]]></title>
+<link>https://stspg.io/l5wtphpgmsym</link>
+<guid isPermaLink='false'>moonshot:8cwwrclccl7k:resolved:resolved:critical:2026-10-31T07:36:48.072000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 54 min · Opened: Sat, 31 Oct 2026 06:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l5wtphpgmsym">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/gs4j9nf0w3dr</link>
+<guid isPermaLink='false'>moonshot:kq56jb7y4lcw:resolved:resolved:critical:2026-10-31T07:36:47.849000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 54m · Opened: Sat, 31 Oct 2026 05:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gs4j9nf0w3dr">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/gyc737rls07g</link>
+<guid isPermaLink='false'>moonshot:m5y017t8c98j:resolved:resolved:critical:2026-10-31T07:36:47.834000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 3h 54m · Opened: Sat, 31 Oct 2026 03:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gyc737rls07g">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263</link>
 <guid isPermaLink='false'>cursor:ps_061cf14060aff263:resolved:resolved:minor:2026-10-31T06:47:33+00:00</guid>
@@ -1576,38 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 17:45:26 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors for Bitbucket Cloud integrations</strong></p><p>Impact: minor · Status: investigating · Affects: Review Agents, Cloud Agents · Opened: Wed, 21 Oct 2026 17:40:17 +0000</p><p>We are investigating an issue affecting Cursor's Bitbucket Cloud integration. More information: https://bitbucket.status.atlassian.com/incidents/ldlx0fdgls28.</p><p><a href="https://stspg.io/fh455gbmxf9q">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
-<guid isPermaLink='false'>openai:01M5FD63HHDRPQPM5YMQWJ5HTN:progress:monitoring:minor:2026-10-21T17:04:07+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 17:15:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated FedRAMP API error rates for Astra and Sol</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 21 Oct 2026 14:17:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 1h 09m]]></title>
-<link>https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N</link>
-<guid isPermaLink='false'>openai:01M5FHKHPQJMSHCE2B2WDPZW2N:resolved:resolved:minor:2026-10-21T16:44:09+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for gpt-5.6-luna API requests</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Wed, 21 Oct 2026 15:34:47 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Lovable has identified the problem. Fix pending.]]></title>
-<link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
-<guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:opened:identified:major:2026-10-21T16:33:16+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: identified · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>Changes syncing between Lovable and GitHub may be delayed for some users. This is caused by an issue at one of our providers, and things are starting to recover. We are monitoring closely.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 Windsurf is readable again, so silence here means quiet once more]]></title>
-<link>https://status.windsurf.com</link>
-<guid isPermaLink='false'>meta:windsurf:recovered:2026-10-21T15:00:00+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:15:24 +0000</pubDate>
-<category>Windsurf</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read Windsurf's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

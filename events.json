@@ -2,6 +2,86 @@
  {
   "body": "This incident has been resolved.",
   "components": [
+   "K3"
+  ],
+  "duration": "2h 54m",
+  "headline": "🟢 Moonshot AI (Kimi) is upright again. That took 2h 54m.",
+  "id": "moonshot:dywv44h2n4ht:resolved:resolved:critical:2026-10-31T07:36:49.904000+00:00",
+  "impact": "critical",
+  "incident_id": "dywv44h2n4ht",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-31T07:45:18.794556+00:00",
+  "started_at": "2026-10-31T04:42:47.769000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
+  "transition": "resolved",
+  "url": "https://stspg.io/1zzhj3x1tk59"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "54 min",
+  "headline": "🟢 Moonshot AI (Kimi) is upright again. That took 54 min.",
+  "id": "moonshot:8cwwrclccl7k:resolved:resolved:critical:2026-10-31T07:36:48.072000+00:00",
+  "impact": "critical",
+  "incident_id": "8cwwrclccl7k",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-31T07:45:18.794556+00:00",
+  "started_at": "2026-10-31T06:42:47.775000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
+  "transition": "resolved",
+  "url": "https://stspg.io/l5wtphpgmsym"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "1h 54m",
+  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
+  "id": "moonshot:kq56jb7y4lcw:resolved:resolved:critical:2026-10-31T07:36:47.849000+00:00",
+  "impact": "critical",
+  "incident_id": "kq56jb7y4lcw",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-31T07:45:18.794556+00:00",
+  "started_at": "2026-10-31T05:42:47.765000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
+  "transition": "resolved",
+  "url": "https://stspg.io/gs4j9nf0w3dr"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "3h 54m",
+  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
+  "id": "moonshot:m5y017t8c98j:resolved:resolved:critical:2026-10-31T07:36:47.834000+00:00",
+  "impact": "critical",
+  "incident_id": "m5y017t8c98j",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-31T07:45:18.794556+00:00",
+  "started_at": "2026-10-31T03:42:47.712000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
+  "transition": "resolved",
+  "url": "https://stspg.io/gyc737rls07g"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
    "Automations",
    "Cloud Agents",
    "cursor.com",
@@ -7696,79 +7776,5 @@
   "title": "Projects stuck in Recovering acceptance after a draft merge",
   "transition": "progress",
   "url": "https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH"
- },
- {
-  "body": "Some projects are getting stuck on \"Recovering acceptance\" after merging a draft, preventing the merge from completing. We are investigating the issue.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Lovable is having a wobble",
-  "id": "lovable:01M4C774FXBYXXP85HM2EERXPH:opened:investigating:minor:2026-10-07T22:19:49+00:00",
-  "impact": "minor",
-  "incident_id": "01M4C774FXBYXXP85HM2EERXPH",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-07T22:30:35.110548+00:00",
-  "started_at": "2026-10-07T22:19:49+00:00",
-  "status": "investigating",
-  "title": "Projects stuck in Recovering acceptance after a draft merge",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH"
- },
- {
-  "body": "We've mitigated the errors loading usage data on platform.claude.com and in the Admin API usage report. While we work on a full fix, the most recent ~30 minutes of usage may take longer to appear on the platform.claude.com. API requests are not affected, and we will provide additional updates here.",
-  "components": [
-   "Claude Console (platform.claude.com)"
-  ],
-  "duration": "",
-  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
-  "id": "anthropic:978mjkgw6mh7:progress:monitoring:major:2026-10-07T21:44:41.492000+00:00",
-  "impact": "major",
-  "incident_id": "978mjkgw6mh7",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-07T21:45:27.923999+00:00",
-  "started_at": "2026-10-07T13:25:04.155000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors on platform.claude.com",
-  "transition": "progress",
-  "url": "https://stspg.io/sjkw7njwf0mt"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "10 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3:resolved:resolved:minor:2026-10-07T21:40:18+00:00",
-  "impact": "minor",
-  "incident_id": "01M4C4AP4HEGH7XXJHRDVCCFB3",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-07T21:45:27.923999+00:00",
-  "started_at": "2026-10-07T21:29:20+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M4C4AP4HEGH7XXJHRDVCCFB3:opened:investigating:minor:2026-10-07T21:29:20+00:00",
-  "impact": "minor",
-  "incident_id": "01M4C4AP4HEGH7XXJHRDVCCFB3",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-07T21:30:31.255372+00:00",
-  "started_at": "2026-10-07T21:29:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3"
  }
 ]
