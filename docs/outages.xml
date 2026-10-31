@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263</link>
+<guid isPermaLink='false'>cursor:ps_061cf14060aff263:opened:investigating:minor:2026-10-31T06:04:02+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 06:15:20 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Multiple services degraded</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, cursor.com, Grok Bot · Opened: Sat, 31 Oct 2026 06:04:02 +0000</p><p>We are investigating a service degradation at the moment. We'll share more updates as soon as more information is available.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/gs4j9nf0w3dr</link>
 <guid isPermaLink='false'>moonshot:kq56jb7y4lcw:opened:investigating:critical:2026-10-31T05:42:47.840000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:15:24 +0000</pubDate>
 <category>AI21</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.windsurf.com</link>
-<guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-21T15:00:00+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
-<category>Windsurf</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Windsurf's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.windsurf.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
