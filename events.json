@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "Cloud Agents",
+   "cursor.com",
+   "Grok Bot"
+  ],
+  "duration": "43 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_061cf14060aff263:resolved:resolved:minor:2026-10-31T06:47:33+00:00",
+  "impact": "minor",
+  "incident_id": "ps_061cf14060aff263",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-10-31T07:00:19.272147+00:00",
+  "started_at": "2026-10-31T06:04:02+00:00",
+  "status": "resolved",
+  "title": "Multiple services degraded",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263"
+ },
+ {
   "body": "K3 输出速度可能变慢",
   "components": [
    "K3"
@@ -7747,23 +7770,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4C4AP4HEGH7XXJHRDVCCFB3"
- },
- {
-  "body": "[Resolved] We've identified an issue with GitHub connectors starting Tuesday 1PM PT that prevented users from being able to connect their project source code to GitHub. This issue is recovering and we'll keep you updated here.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit is fine again",
-  "id": "replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e:resolved:resolved:minor:2026-10-07T20:30:39.420837+00:00",
-  "impact": "minor",
-  "incident_id": "edf53552-3bc7-4cc7-a8a8-75a29fba548e",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-07T20:30:39.420837+00:00",
-  "started_at": "2026-10-07T14:52:30+00:00",
-  "status": "resolved",
-  "title": "GitHub connector may not be working for users",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/edf53552-3bc7-4cc7-a8a8-75a29fba548e"
  }
 ]

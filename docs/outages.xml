@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 31 Oct 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263</link>
+<guid isPermaLink='false'>cursor:ps_061cf14060aff263:resolved:resolved:minor:2026-10-31T06:47:33+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 07:00:19 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Multiple services degraded</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Cloud Agents, cursor.com, Grok Bot · Duration: 43 min · Opened: Sat, 31 Oct 2026 06:04:02 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/l5wtphpgmsym</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:15:24 +0000</pubDate>
 <category>Windsurf</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read Windsurf's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 Cerebras Inference is readable again, so silence here means quiet once more]]></title>
-<link>https://status.cerebras.ai</link>
-<guid isPermaLink='false'>meta:cerebras:recovered:2026-10-21T15:00:00+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:15:24 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read Cerebras Inference's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
