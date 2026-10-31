@@ -1,5 +1,25 @@
 [
  {
+  "body": "K3 输出速度可能变慢",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
+  "headline": "🔴 Tools down: Moonshot AI (Kimi) is broken",
+  "id": "moonshot:m5y017t8c98j:opened:investigating:critical:2026-10-31T03:42:47.850000+00:00",
+  "impact": "critical",
+  "incident_id": "m5y017t8c98j",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-31T03:45:19.921747+00:00",
+  "started_at": "2026-10-31T03:42:47.712000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
+  "transition": "opened",
+  "url": "https://stspg.io/gyc737rls07g"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [],
   "duration": "2h 29m",
@@ -7739,23 +7759,5 @@
   "title": "Dot in Codex may fail to create new threads",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M4BP5JE7DKJSP3VG2S2DCWF2:opened:investigating:minor:2026-10-07T17:21:52+00:00",
-  "impact": "minor",
-  "incident_id": "01M4BP5JE7DKJSP3VG2S2DCWF2",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T17:30:36.959413+00:00",
-  "started_at": "2026-10-07T17:21:52+00:00",
-  "status": "investigating",
-  "title": "Degraded performance in Codex and Work mode: Dot turn failures, delayed responses, and reduced proactivity",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M4BP5JE7DKJSP3VG2S2DCWF2"
  }
 ]

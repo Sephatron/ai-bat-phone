@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/gyc737rls07g</link>
+<guid isPermaLink='false'>moonshot:m5y017t8c98j:opened:investigating:critical:2026-10-31T03:42:47.850000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 03:45:19 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sat, 31 Oct 2026 03:42:47 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/gyc737rls07g">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub sorted itself out after 2h 29m]]></title>
 <link>https://stspg.io/5bh6qnzn76tk</link>
 <guid isPermaLink='false'>github:lyyfm7j4pkgl:resolved:resolved:minor:2026-10-30T23:29:06.403000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Pull Requests, Actions · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>We continue to see delays affecting pull request updates, webhook deliveries, and audit log events. The event streaming platform is showing signs of recovery, and we are monitoring as the impact continues.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cursor is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/jythbn6wf94k</link>
-<guid isPermaLink='false'>cursor:qy67qt0s4n18:opened:monitoring:minor:2026-10-21T15:56:59.793000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation</strong></p><p>Impact: minor · Status: monitoring · Affects: cursor.com, Grok Bot · Opened: Wed, 21 Oct 2026 15:46:15 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://stspg.io/jythbn6wf94k">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
