@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/1zzhj3x1tk59</link>
+<guid isPermaLink='false'>moonshot:dywv44h2n4ht:opened:investigating:critical:2026-10-31T04:42:47.839000+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 04:45:18 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sat, 31 Oct 2026 04:42:47 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/1zzhj3x1tk59">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
 <link>https://stspg.io/gyc737rls07g</link>
 <guid isPermaLink='false'>moonshot:m5y017t8c98j:opened:investigating:critical:2026-10-31T03:42:47.850000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Cerebras Inference's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.cerebras.ai">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 Upgrade your concern: GitHub is now critical]]></title>
-<link>https://stspg.io/gnnt0tx9nxmk</link>
-<guid isPermaLink='false'>github:nms1dpzmh9d9:escalated:investigating:critical:2026-10-21T15:58:38.769000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:00:25 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Pull Requests, Actions · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>We continue to see delays affecting pull request updates, webhook deliveries, and audit log events. The event streaming platform is showing signs of recovery, and we are monitoring as the impact continues.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

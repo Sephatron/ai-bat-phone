@@ -5,6 +5,26 @@
    "K3"
   ],
   "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.",
+  "id": "moonshot:dywv44h2n4ht:opened:investigating:critical:2026-10-31T04:42:47.839000+00:00",
+  "impact": "critical",
+  "incident_id": "dywv44h2n4ht",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-10-31T04:45:18.288372+00:00",
+  "started_at": "2026-10-31T04:42:47.769000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
+  "transition": "opened",
+  "url": "https://stspg.io/1zzhj3x1tk59"
+ },
+ {
+  "body": "K3 输出速度可能变慢",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
   "headline": "🔴 Tools down: Moonshot AI (Kimi) is broken",
   "id": "moonshot:m5y017t8c98j:opened:investigating:critical:2026-10-31T03:42:47.850000+00:00",
   "impact": "critical",
@@ -7740,24 +7760,6 @@
   "status": "resolved",
   "title": "Dot in Codex may fail to create new threads",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M4BK9J2M83R4SSC71D9FXW45:progress:monitoring:minor:2026-10-07T17:30:28+00:00",
-  "impact": "minor",
-  "incident_id": "01M4BK9J2M83R4SSC71D9FXW45",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-07T17:30:36.959413+00:00",
-  "started_at": "2026-10-07T16:31:37+00:00",
-  "status": "monitoring",
-  "title": "Dot in Codex may fail to create new threads",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M4BK9J2M83R4SSC71D9FXW45"
  }
 ]
