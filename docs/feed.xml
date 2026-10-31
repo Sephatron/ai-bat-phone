@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368</link>
+<guid isPermaLink='false'>fireworks:01M6A5HDQWT2NAYHNPEMVAZ368:opened:investigating:minor:2026-10-31T23:43:24+00:00</guid>
+<pubDate>Sat, 31 Oct 2026 23:45:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 31 Oct 2026 23:43:24 +0000</p><p>We are seeing impacted performance for Muse Spark Open US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit is fine again]]></title>
 <link>https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1</link>
 <guid isPermaLink='false'>replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:resolved:resolved:minor:2026-10-31T10:45:17.515839+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 19:30:23 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Pull Requests, Actions · Duration: 4h 30m · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable is upright again. That took 2h 09m.]]></title>
-<link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
-<guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:resolved:resolved:major:2026-10-21T18:42:41+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 18:45:24 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: resolved · Duration: 2h 09m · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>The delays syncing changes between Lovable and GitHub have been resolved. Syncing is operating normally again.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
