@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
+<link>https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa</link>
+<guid isPermaLink='false'>cursor:ps_838fe2a3a154acfa:opened:investigating:minor:2026-11-01T05:38:43+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 05:45:29 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Service Degradation - Billing and Usage Dashboard</strong></p><p>Impact: minor · Status: investigating · Affects: cursor.com, Enterprise Dashboard · Opened: Sun, 01 Nov 2026 05:38:43 +0000</p><p>We are investigating a service degradation affecting our billing and usage dashboard. We will share updates as more information becomes available.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
 <link>https://stspg.io/l5797zbx1l7b</link>
 <guid isPermaLink='false'>moonshot:xs3b2n277nbg:opened:investigating:critical:2026-11-01T04:58:48.369000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 19:30:23 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Pull Requests, Actions · Duration: 4h 30m · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable is upright again. That took 2h 09m.]]></title>
-<link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
-<guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:resolved:resolved:major:2026-10-21T18:42:41+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 18:45:24 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: resolved · Duration: 2h 09m · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>The delays syncing changes between Lovable and GitHub have been resolved. Syncing is operating normally again.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

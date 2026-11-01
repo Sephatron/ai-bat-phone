@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are investigating a service degradation affecting our billing and usage dashboard. We will share updates as more information becomes available.",
+  "components": [
+   "cursor.com",
+   "Enterprise Dashboard"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is a bit under the weather",
+  "id": "cursor:ps_838fe2a3a154acfa:opened:investigating:minor:2026-11-01T05:38:43+00:00",
+  "impact": "minor",
+  "incident_id": "ps_838fe2a3a154acfa",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-01T05:45:29.718041+00:00",
+  "started_at": "2026-11-01T05:38:43+00:00",
+  "status": "investigating",
+  "title": "Service Degradation - Billing and Usage Dashboard",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa"
+ },
+ {
   "body": "K3 输出速度可能变慢",
   "components": [
    "K3"
@@ -7760,23 +7781,5 @@
   "title": "Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT"
- },
- {
-  "body": "[Resolved] We have identified and resolved the connectors platform latency issue.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit has stopped wobbling",
-  "id": "replit:0172bdc7-0453-42d4-bd16-193e9e9ce432:resolved:resolved:minor:2026-10-08T02:30:33.780718+00:00",
-  "impact": "minor",
-  "incident_id": "0172bdc7-0453-42d4-bd16-193e9e9ce432",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-08T02:30:33.780718+00:00",
-  "started_at": "2026-10-08T02:22:59+00:00",
-  "status": "resolved",
-  "title": "Connectors platform latency",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/0172bdc7-0453-42d4-bd16-193e9e9ce432"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
+<link>https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa</link>
+<guid isPermaLink='false'>cursor:ps_838fe2a3a154acfa:opened:investigating:minor:2026-11-01T05:38:43+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 05:45:29 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Service Degradation - Billing and Usage Dashboard</strong></p><p>Impact: minor · Status: investigating · Affects: cursor.com, Enterprise Dashboard · Opened: Sun, 01 Nov 2026 05:38:43 +0000</p><p>We are investigating a service degradation affecting our billing and usage dashboard. We will share updates as more information becomes available.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
 <link>https://stspg.io/l5797zbx1l7b</link>
 <guid isPermaLink='false'>moonshot:xs3b2n277nbg:opened:investigating:critical:2026-11-01T04:58:48.369000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 20:30:24 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded performance for Claude Fable 5</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 40 min · Opened: Wed, 21 Oct 2026 19:49:06 +0000</p><p>The issue affecting other Claude models has been resolved.</p><p><a href="https://stspg.io/cgklr4v2sgkh">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Claude is having a wobble]]></title>
-<link>https://stspg.io/cgklr4v2sgkh</link>
-<guid isPermaLink='false'>anthropic:njk29r81v3wg:opened:investigating:minor:2026-10-21T19:49:06.662000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 20:00:24 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Wed, 21 Oct 2026 19:49:06 +0000</p><p>We are investigating elevated errors on requests to Claude Fable 5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/cgklr4v2sgkh">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

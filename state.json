@@ -1886,6 +1886,12 @@
    "status": "resolved",
    "updated_at": "2026-10-27T08:18:40+00:00"
   },
+  "cursor:ps_838fe2a3a154acfa": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-01T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-01T05:38:43+00:00"
+  },
   "cursor:ps_95a4f0b2be913452": {
    "impact": "minor",
    "last_seen_at": "2026-11-01T00:00:00+00:00",
