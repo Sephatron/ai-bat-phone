@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "13 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M6A5HDQWT2NAYHNPEMVAZ368:resolved:resolved:minor:2026-10-31T23:56:39+00:00",
+  "impact": "minor",
+  "incident_id": "01M6A5HDQWT2NAYHNPEMVAZ368",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-01T00:00:20.072010+00:00",
+  "started_at": "2026-10-31T23:43:24+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Muse Spark Open US",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368"
+ },
+ {
   "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7758,23 +7776,5 @@
   "title": "Elevated errors with GPT-5.6 Instant in FedRAMP workspaces",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M4CBXZ62A9SVH8D74KVYQC8M"
- },
- {
-  "body": "We have deployed the fix and resolved the issue that caused projects to get stuck on \"Recovering acceptance\" after merging a draft. If your project is still stuck, please retry to allow it to recover and resume editing and building.",
-  "components": [],
-  "duration": "1h 27m",
-  "headline": "🟢 Lovable sorted itself out after 1h 27m",
-  "id": "lovable:01M4C774FXBYXXP85HM2EERXPH:resolved:resolved:minor:2026-10-07T23:46:55+00:00",
-  "impact": "minor",
-  "incident_id": "01M4C774FXBYXXP85HM2EERXPH",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-08T00:00:44.837600+00:00",
-  "started_at": "2026-10-07T22:19:49+00:00",
-  "status": "resolved",
-  "title": "Projects stuck in Recovering acceptance after a draft merge",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M4C774FXBYXXP85HM2EERXPH"
  }
 ]

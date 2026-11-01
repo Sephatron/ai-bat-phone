@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 31 Oct 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368</link>
+<guid isPermaLink='false'>fireworks:01M6A5HDQWT2NAYHNPEMVAZ368:resolved:resolved:minor:2026-10-31T23:56:39+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Sat, 31 Oct 2026 23:43:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 19:45:24 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated FedRAMP API error rates for Astra and Sol</strong></p><p>Impact: minor · Status: resolved · Duration: 5h 17m · Opened: Wed, 21 Oct 2026 14:17:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/gnnt0tx9nxmk</link>
-<guid isPermaLink='false'>github:nms1dpzmh9d9:resolved:resolved:critical:2026-10-21T19:22:52.663000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 19:30:23 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Pull Requests, Actions · Duration: 4h 30m · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

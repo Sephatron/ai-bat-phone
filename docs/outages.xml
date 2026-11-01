@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 31 Oct 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368</link>
+<guid isPermaLink='false'>fireworks:01M6A5HDQWT2NAYHNPEMVAZ368:resolved:resolved:minor:2026-10-31T23:56:39+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Sat, 31 Oct 2026 23:43:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 18:30:24 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Lovable is slow at answering</strong></p><p>Impact: minor · Status: resolved · Duration: 22 min · Opened: Wed, 21 Oct 2026 17:57:50 +0000</p><p>Service is returning to normal. Any delayed messages should be handled within 10-20 minutes at most.</p><p><a href="https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://stspg.io/fh455gbmxf9q</link>
-<guid isPermaLink='false'>cursor:691lnxhmwgs6:resolved:resolved:minor:2026-10-21T17:53:46.938000+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 18:00:25 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors for Bitbucket Cloud integrations</strong></p><p>Impact: minor · Status: resolved · Affects: Review Agents, Cloud Agents · Duration: 13 min · Opened: Wed, 21 Oct 2026 17:40:17 +0000</p><p>Atlassian has reported the issue as resolved and they are continuing to monitor for service restoration.</p><p><a href="https://stspg.io/fh455gbmxf9q">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
