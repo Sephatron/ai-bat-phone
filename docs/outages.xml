@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 01 Nov 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor sorted itself out after 5h 14m]]></title>
+<link>https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa</link>
+<guid isPermaLink='false'>cursor:ps_838fe2a3a154acfa:resolved:resolved:minor:2026-11-01T10:53:33+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 11:00:17 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Service Degradation - Billing and Usage Dashboard</strong></p><p>Impact: minor · Status: resolved · Affects: cursor.com, Enterprise Dashboard · Duration: 5h 14m · Opened: Sun, 01 Nov 2026 05:38:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/7xrbw9h4cr0w</link>
+<guid isPermaLink='false'>moonshot:8psx9bp8jrwd:opened:investigating:critical:2026-11-01T10:59:43.596000+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 11:00:17 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 10:59:43 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/7xrbw9h4cr0w">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
 <link>https://stspg.io/rxjs99s5x3f9</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 22 Oct 2026 02:45:24 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>ChatGPT conversion failures in India, Japan and Korea. And Response API errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 22 Oct 2026 02:18:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from OpenAI]]></title>
-<link>https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD</link>
-<guid isPermaLink='false'>openai:01M5GPE9C4E19HE461P8JAMYXD:opened:investigating:minor:2026-10-22T02:18:32+00:00</guid>
-<pubDate>Thu, 22 Oct 2026 02:30:25 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>ChatGPT conversion failures in India, Japan and Korea. And Response API errors</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 22 Oct 2026 02:18:32 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M</link>
-<guid isPermaLink='false'>fireworks:01M5GGG3JZ27XS2DMPG2YCXX2M:resolved:resolved:minor:2026-10-22T01:30:23+00:00</guid>
-<pubDate>Thu, 22 Oct 2026 01:30:25 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Deepseek V4.1 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 55 min · Opened: Thu, 22 Oct 2026 00:34:40 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

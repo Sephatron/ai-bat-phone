@@ -1,5 +1,46 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "cursor.com",
+   "Enterprise Dashboard"
+  ],
+  "duration": "5h 14m",
+  "headline": "🟢 Cursor sorted itself out after 5h 14m",
+  "id": "cursor:ps_838fe2a3a154acfa:resolved:resolved:minor:2026-11-01T10:53:33+00:00",
+  "impact": "minor",
+  "incident_id": "ps_838fe2a3a154acfa",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-01T11:00:17.908034+00:00",
+  "started_at": "2026-11-01T05:38:43+00:00",
+  "status": "resolved",
+  "title": "Service Degradation - Billing and Usage Dashboard",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa"
+ },
+ {
+  "body": "K3 输出速度可能变慢",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you",
+  "id": "moonshot:8psx9bp8jrwd:opened:investigating:critical:2026-11-01T10:59:43.596000+00:00",
+  "impact": "critical",
+  "incident_id": "8psx9bp8jrwd",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-01T11:00:17.908034+00:00",
+  "started_at": "2026-11-01T10:59:43.536000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 OTPS 响应生成速度下降",
+  "transition": "opened",
+  "url": "https://stspg.io/7xrbw9h4cr0w"
+ },
+ {
   "body": "K3 输出速度可能变慢",
   "components": [
    "K3"
@@ -7740,49 +7781,6 @@
   "status": "resolved",
   "title": "Opus 5.5 is Experiencing 429s",
   "transition": "resolved",
-  "url": "https://stspg.io/4lwl9qsfhlln"
- },
- {
-  "body": "We are currently investigating an issue causing call failures in Agent conversations using SIP. Non-SIP Agent conversations are unaffected.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 ElevenLabs has downed tools — and so, probably, have you",
-  "id": "elevenlabs:01M4E1HC38AYN544QVC704X0FS:opened:investigating:major:2026-10-08T15:19:02+00:00",
-  "impact": "major",
-  "incident_id": "01M4E1HC38AYN544QVC704X0FS",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-08T15:30:29.445638+00:00",
-  "started_at": "2026-10-08T15:19:02+00:00",
-  "status": "investigating",
-  "title": "Agent SIP Conversation Disruption",
-  "transition": "opened",
-  "url": "https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "CLI",
-   "Cloud Agents",
-   "IDE",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor thinks it's fixed and is watching nervously",
-  "id": "cursor:x4mnlflpqc4w:progress:monitoring:minor:2026-10-08T14:08:09.614000+00:00",
-  "impact": "minor",
-  "incident_id": "x4mnlflpqc4w",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-08T14:15:51.137805+00:00",
-  "started_at": "2026-10-08T13:54:56.859000+00:00",
-  "status": "monitoring",
-  "title": "Opus 5.5 is Experiencing 429s",
-  "transition": "progress",
   "url": "https://stspg.io/4lwl9qsfhlln"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 01 Nov 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/7xrbw9h4cr0w</link>
+<guid isPermaLink='false'>moonshot:8psx9bp8jrwd:opened:investigating:critical:2026-11-01T10:59:43.596000+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 11:00:17 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 10:59:43 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/7xrbw9h4cr0w">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
 <link>https://stspg.io/rxjs99s5x3f9</link>
@@ -984,14 +992,6 @@
 <pubDate>Thu, 08 Oct 2026 15:45:42 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Agent SIP Conversation Disruption</strong></p><p>Impact: major · Status: resolved · Duration: 24 min · Opened: Thu, 08 Oct 2026 15:19:02 +0000</p><p>We have monitored error metrics and have confirmed that as of 15:15 UTC, we do not see continuing Agent SIP conversation failures. We will conduct an internal investigation and post a full Root Cause Analysis upon conclusion.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 ElevenLabs has downed tools — and so, probably, have you]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS</link>
-<guid isPermaLink='false'>elevenlabs:01M4E1HC38AYN544QVC704X0FS:opened:investigating:major:2026-10-08T15:19:02+00:00</guid>
-<pubDate>Thu, 08 Oct 2026 15:30:29 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Agent SIP Conversation Disruption</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 08 Oct 2026 15:19:02 +0000</p><p>We are currently investigating an issue causing call failures in Agent conversations using SIP. Non-SIP Agent conversations are unaffected.</p><p><a href="https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
