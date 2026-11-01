@@ -6,6 +6,26 @@
   ],
   "duration": "",
   "headline": "🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you",
+  "id": "moonshot:mrwzynqdhnwg:opened:investigating:critical:2026-11-01T09:59:43.534000+00:00",
+  "impact": "critical",
+  "incident_id": "mrwzynqdhnwg",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-01T10:00:18.827884+00:00",
+  "started_at": "2026-11-01T09:59:43.469000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 OTPS 响应生成速度下降",
+  "transition": "opened",
+  "url": "https://stspg.io/rxjs99s5x3f9"
+ },
+ {
+  "body": "K3 输出速度可能变慢",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you",
   "id": "moonshot:0xfr5wpb1vdc:opened:investigating:critical:2026-11-01T08:58:48.592000+00:00",
   "impact": "critical",
   "incident_id": "0xfr5wpb1vdc",
@@ -7763,31 +7783,6 @@
   "status": "monitoring",
   "title": "Opus 5.5 is Experiencing 429s",
   "transition": "progress",
-  "url": "https://stspg.io/4lwl9qsfhlln"
- },
- {
-  "body": "We are investigating a service degradation with Opus 5.5 being used across all product components.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "CLI",
-   "Cloud Agents",
-   "IDE",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Cursor",
-  "id": "cursor:x4mnlflpqc4w:opened:investigating:minor:2026-10-08T13:58:18.209000+00:00",
-  "impact": "minor",
-  "incident_id": "x4mnlflpqc4w",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-08T13:59:49.738132+00:00",
-  "started_at": "2026-10-08T13:54:56.859000+00:00",
-  "status": "investigating",
-  "title": "Opus 5.5 is Experiencing 429s",
-  "transition": "opened",
   "url": "https://stspg.io/4lwl9qsfhlln"
  }
 ]
