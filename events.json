@@ -1,5 +1,25 @@
 [
  {
+  "body": "K3 输出速度可能变慢",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.",
+  "id": "moonshot:3jc31dff6km2:opened:investigating:critical:2026-11-01T05:58:49.443000+00:00",
+  "impact": "critical",
+  "incident_id": "3jc31dff6km2",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-01T06:00:20.199262+00:00",
+  "started_at": "2026-11-01T05:58:49.361000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
+  "transition": "opened",
+  "url": "https://stspg.io/2qsvdfs316hw"
+ },
+ {
   "body": "We are investigating a service degradation affecting our billing and usage dashboard. We will share updates as more information becomes available.",
   "components": [
    "cursor.com",
@@ -7762,24 +7782,6 @@
   "status": "resolved",
   "title": "Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is sulking, mildly",
-  "id": "openai:01M4CR8GCAFC1RYQXZDXAZP2VT:opened:investigating:minor:2026-10-08T03:17:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M4CR8GCAFC1RYQXZDXAZP2VT",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-08T03:30:36.065659+00:00",
-  "started_at": "2026-10-08T03:17:40+00:00",
-  "status": "investigating",
-  "title": "Some APAC users are seeing errors in ChatGPT Work, conversations, and GPTs.",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4CR8GCAFC1RYQXZDXAZP2VT"
  }
 ]
