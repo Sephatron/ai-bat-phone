@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/204qnjkqmk4r</link>
+<guid isPermaLink='false'>moonshot:nnx1bbf1d0br:resolved:resolved:critical:2026-11-01T15:04:41.389000+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 15:15:20 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 49 min · Opened: Sun, 01 Nov 2026 14:15:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/204qnjkqmk4r">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is having a proper one. This is not your code.]]></title>
 <link>https://stspg.io/204qnjkqmk4r</link>
 <guid isPermaLink='false'>moonshot:nnx1bbf1d0br:opened:investigating:critical:2026-11-01T14:15:41.487000+00:00</guid>
@@ -1040,14 +1048,6 @@
 <pubDate>Fri, 09 Oct 2026 21:15:32 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Some ChatGPT content may be unavailable on Android</strong></p><p>Impact: major · Status: identified · Opened: Fri, 09 Oct 2026 21:00:39 +0000</p><p>We have identified an issue affecting the ChatGPT Android app where users may see “This content is unavailable in this version of the app” instead of certain content. A fix is rolling out gradually in the latest Android version. Users can use ChatGPT on the web while we work to restore the experience for older app versions.</p><p><a href="https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-10-09</guid>
-<pubDate>Fri, 09 Oct 2026 14:18:29 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
