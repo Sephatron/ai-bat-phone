@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Replit is having a wobble]]></title>
+<link>https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb</link>
+<guid isPermaLink='false'>replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:opened:investigating:minor:2026-11-01T16:15:18.155242+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 16:15:18 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 01 Nov 2026 16:14:41 +0000</p><p>[Investigating] We are investigating issues affecting some users' ability to load workspaces and use Agent.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/204qnjkqmk4r</link>
 <guid isPermaLink='false'>moonshot:nnx1bbf1d0br:resolved:resolved:critical:2026-11-01T15:04:41.389000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 22 Oct 2026 19:45:25 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>We have identified that new ad accounts are failing to assign their creator admin. We are investigating the issue.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G</link>
-<guid isPermaLink='false'>openai:01M5JF8DR3EGQJNTXPZ24AKX2G:opened:identified:minor:2026-10-22T18:59:18+00:00</guid>
-<pubDate>Thu, 22 Oct 2026 19:00:27 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded Performance of Dots on Enterprise</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 22 Oct 2026 18:51:28 +0000</p><p>We are still implementing the mitigation. Only enterprise users have observed to have been affected at this point.</p><p><a href="https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
