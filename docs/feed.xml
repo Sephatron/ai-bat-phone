@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/0xkm4mjvbbkc</link>
+<guid isPermaLink='false'>moonshot:0xfr5wpb1vdc:opened:investigating:critical:2026-11-01T08:58:48.592000+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 09:09:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 08:58:48 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/0xkm4mjvbbkc">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/1sf9r68nk0cv</link>
 <guid isPermaLink='false'>moonshot:fxhmhnxz1v14:opened:investigating:critical:2026-11-01T07:58:48.448000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 22 Oct 2026 02:45:24 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>ChatGPT conversion failures in India, Japan and Korea. And Response API errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 22 Oct 2026 02:18:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from OpenAI]]></title>
-<link>https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD</link>
-<guid isPermaLink='false'>openai:01M5GPE9C4E19HE461P8JAMYXD:opened:investigating:minor:2026-10-22T02:18:32+00:00</guid>
-<pubDate>Thu, 22 Oct 2026 02:30:25 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>ChatGPT conversion failures in India, Japan and Korea. And Response API errors</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 22 Oct 2026 02:18:32 +0000</p><p>We are investigating the issue for the listed services.</p><p><a href="https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
