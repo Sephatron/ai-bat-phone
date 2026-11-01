@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Monitoring] For those seeing Agent failures can you please update the browser tab, we expect agent interactions to be working again.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Replit is on the mend. Don't get comfortable yet.",
+  "id": "replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:progress:monitoring:minor:2026-11-01T16:45:18.045062+00:00",
+  "impact": "minor",
+  "incident_id": "5df4103e-99dd-4c1e-8557-d74e75ff50cb",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-01T16:45:18.045062+00:00",
+  "started_at": "2026-11-01T16:35:34+00:00",
+  "status": "monitoring",
+  "title": "Agent and Workspace Issues",
+  "transition": "progress",
+  "url": "https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb"
+ },
+ {
   "body": "[Investigating] We are investigating issues affecting some users' ability to load workspaces and use Agent.",
   "components": [],
   "duration": "",
@@ -7767,23 +7785,5 @@
   "title": "Users unable to top-up",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525"
- },
- {
-  "body": "We have identified an issue affecting the ChatGPT Android app where users may see “This content is unavailable in this version of the app” instead of certain content. A fix is rolling out gradually in the latest Android version. Users can use ChatGPT on the web while we work to restore the experience for older app versions.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has found the culprit",
-  "id": "openai:01M4H7FKXDA425TDNP2CRGEYA3:opened:identified:major:2026-10-09T21:00:39+00:00",
-  "impact": "major",
-  "incident_id": "01M4H7FKXDA425TDNP2CRGEYA3",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-09T21:15:32.085332+00:00",
-  "started_at": "2026-10-09T21:00:39+00:00",
-  "status": "identified",
-  "title": "Some ChatGPT content may be unavailable on Android",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3"
  }
 ]
