@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 01 Nov 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/tkmgnq8rcsqk</link>
+<guid isPermaLink='false'>moonshot:2j7m7djp28xp:opened:investigating:critical:2026-11-01T06:58:49.305000+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 07:00:19 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 06:58:49 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/tkmgnq8rcsqk">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/2qsvdfs316hw</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 21 Oct 2026 20:00:24 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded performance for Claude Fable 5</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Wed, 21 Oct 2026 19:49:06 +0000</p><p>We are investigating elevated errors on requests to Claude Fable 5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/cgklr4v2sgkh">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN</link>
-<guid isPermaLink='false'>openai:01M5FD63HHDRPQPM5YMQWJ5HTN:resolved:resolved:minor:2026-10-21T19:34:58+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 19:45:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated FedRAMP API error rates for Astra and Sol</strong></p><p>Impact: minor · Status: resolved · Duration: 5h 17m · Opened: Wed, 21 Oct 2026 14:17:32 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
