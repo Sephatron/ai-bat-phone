@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 01 Nov 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/1z8jmfv1h4z8</link>
+<guid isPermaLink='false'>moonshot:8xl3qq3xd09z:opened:investigating:critical:2026-11-01T11:59:43.609000+00:00</guid>
+<pubDate>Sun, 01 Nov 2026 12:00:20 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 11:59:43 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/1z8jmfv1h4z8">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cursor sorted itself out after 5h 14m]]></title>
 <link>https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 22 Oct 2026 04:00:22 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors affecting Connectors</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Cowork · Opened: Thu, 22 Oct 2026 03:50:12 +0000</p><p>We are investigating elevated errors affecting connectors. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/4dcr8c005yxc">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD</link>
-<guid isPermaLink='false'>openai:01M5GPE9C4E19HE461P8JAMYXD:progress:monitoring:minor:2026-10-22T02:42:24+00:00</guid>
-<pubDate>Thu, 22 Oct 2026 02:45:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>ChatGPT conversion failures in India, Japan and Korea. And Response API errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 22 Oct 2026 02:18:32 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

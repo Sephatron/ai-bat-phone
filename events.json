@@ -1,5 +1,25 @@
 [
  {
+  "body": "K3 输出速度可能变慢",
+  "components": [
+   "K3"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you",
+  "id": "moonshot:8xl3qq3xd09z:opened:investigating:critical:2026-11-01T11:59:43.609000+00:00",
+  "impact": "critical",
+  "incident_id": "8xl3qq3xd09z",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-01T12:00:20.210848+00:00",
+  "started_at": "2026-11-01T11:59:43.535000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K3 OTPS 响应生成速度下降",
+  "transition": "opened",
+  "url": "https://stspg.io/1z8jmfv1h4z8"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "cursor.com",
@@ -7757,30 +7777,5 @@
   "title": "Agent SIP Conversation Disruption",
   "transition": "resolved",
   "url": "https://status.elevenlabs.io/incidents/01M4E1HC38AYN544QVC704X0FS"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "CLI",
-   "Cloud Agents",
-   "IDE",
-   "Grok Bot"
-  ],
-  "duration": "1h 36m",
-  "headline": "🟢 Cursor sorted itself out after 1h 36m",
-  "id": "cursor:x4mnlflpqc4w:resolved:resolved:minor:2026-10-08T15:31:30.018000+00:00",
-  "impact": "minor",
-  "incident_id": "x4mnlflpqc4w",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-08T15:45:42.932339+00:00",
-  "started_at": "2026-10-08T13:54:56.859000+00:00",
-  "status": "resolved",
-  "title": "Opus 5.5 is Experiencing 429s",
-  "transition": "resolved",
-  "url": "https://stspg.io/4lwl9qsfhlln"
  }
 ]
