@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M6DQJVZT1QCA7TMPJ9TZJWJB:opened:investigating:minor:2026-11-02T08:56:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M6DQJVZT1QCA7TMPJ9TZJWJB",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-02T09:00:24.224691+00:00",
+  "started_at": "2026-11-02T08:56:29+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6DQJVZT1QCA7TMPJ9TZJWJB"
+ },
+ {
   "body": "[Resolved] The Agent and Workspace issues has been resolved.",
   "components": [],
   "duration": "",
@@ -7764,26 +7782,6 @@
   "status": "monitoring",
   "title": "Elevated errors on new model builds. Existing models are not affected",
   "transition": "progress",
-  "url": "https://stspg.io/s6lwc065drkt"
- },
- {
-  "body": "We are currently investigating this issue.",
-  "components": [
-   "Model Management API"
-  ],
-  "duration": "",
-  "headline": "🟠 Baseten is a bit under the weather",
-  "id": "baseten:phnxn3p26gfx:opened:investigating:minor:2026-10-09T21:29:06.571000+00:00",
-  "impact": "minor",
-  "incident_id": "phnxn3p26gfx",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-10-09T21:45:29.259222+00:00",
-  "started_at": "2026-10-09T21:29:06.449000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors on new model builds. Existing models are not affected",
-  "transition": "opened",
   "url": "https://stspg.io/s6lwc065drkt"
  }
 ]
