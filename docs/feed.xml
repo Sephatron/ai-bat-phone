@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Replit thinks it's fixed and is watching nervously]]></title>
+<link>https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3</link>
+<guid isPermaLink='false'>replit:fc561e56-380f-42c1-a807-2ff3d6d5c5a3:opened:monitoring:minor:2026-11-02T22:45:17.954828+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 22:45:17 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Replit chats are inaccessible</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 02 Nov 2026 22:38:52 +0000</p><p>[Monitoring] We have identified and are investigating a disruption of access to Replit chats.</p><p><a href="https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is sulking, mildly]]></title>
 <link>https://status.replit.com/incidents/685b60a3-261c-4b29-9e9f-c24b2759aaba</link>
 <guid isPermaLink='false'>replit:685b60a3-261c-4b29-9e9f-c24b2759aaba:opened:investigating:minor:2026-11-02T22:15:17.893902+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 17:45:17 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Delays in Logs and Observability data</strong></p><p>Impact: minor · Status: resolved · Affects: Logs, Observability · Duration: 1h 01m · Opened: Fri, 23 Oct 2026 16:31:02 +0000</p><p>The issue causing delays in Logs and Observability data has been resolved.</p><p><a href="https://stspg.io/ywxtzgsnw6dn">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Vercel has identified the problem. Fix pending.]]></title>
-<link>https://stspg.io/ywxtzgsnw6dn</link>
-<guid isPermaLink='false'>vercel:4lgcbsr7l8xn:opened:identified:minor:2026-10-23T16:31:02.500000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 16:45:18 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Delays in Logs and Observability data</strong></p><p>Impact: minor · Status: identified · Affects: Logs, Observability · Opened: Fri, 23 Oct 2026 16:31:02 +0000</p><p>We have identified the issue causing delays in Logs and Observability data and are working on a fix. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/ywxtzgsnw6dn">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

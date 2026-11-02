@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Monitoring] We have identified and are investigating a disruption of access to Replit chats.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Replit thinks it's fixed and is watching nervously",
+  "id": "replit:fc561e56-380f-42c1-a807-2ff3d6d5c5a3:opened:monitoring:minor:2026-11-02T22:45:17.954828+00:00",
+  "impact": "minor",
+  "incident_id": "fc561e56-380f-42c1-a807-2ff3d6d5c5a3",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-02T22:45:17.954828+00:00",
+  "started_at": "2026-11-02T22:38:52+00:00",
+  "status": "monitoring",
+  "title": "Replit chats are inaccessible",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3"
+ },
+ {
   "body": "[Investigating] We are currently investigating issues with accessing conversations in some Replit workspaces,",
   "components": [],
   "duration": "",
@@ -7769,23 +7787,5 @@
   "title": "Delays in Drains, Observability, and Workflow in Washington (iad1)",
   "transition": "progress",
   "url": "https://stspg.io/mz4bqspyxvy7"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "3h 26m",
-  "headline": "🟢 OpenAI is fixed. You may resume being productive.",
-  "id": "openai:01M4H7FKXDA425TDNP2CRGEYA3:resolved:resolved:major:2026-10-10T00:26:44+00:00",
-  "impact": "major",
-  "incident_id": "01M4H7FKXDA425TDNP2CRGEYA3",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-10T00:30:32.882062+00:00",
-  "started_at": "2026-10-09T21:00:39+00:00",
-  "status": "resolved",
-  "title": "Some ChatGPT content may be unavailable on Android",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3"
  }
 ]
