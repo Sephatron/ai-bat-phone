@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "38 min",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:db4x8hh362t8:resolved:resolved:minor:2026-11-02T18:24:23.194000+00:00",
+  "impact": "minor",
+  "incident_id": "db4x8hh362t8",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-02T18:30:18.975171+00:00",
+  "started_at": "2026-11-02T17:46:23.160000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors on GPT-5.4 Nano",
+  "transition": "resolved",
+  "url": "https://stspg.io/ns6pj9qy9glb"
+ },
+ {
   "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Copilot AI Model Providers"
@@ -7773,23 +7793,5 @@
   "title": "Delays in Drains, Observability, and Workflow in Washington (iad1)",
   "transition": "opened",
   "url": "https://stspg.io/mz4bqspyxvy7"
- },
- {
-  "body": "[Resolved] Users are able to top up again.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit is fine again",
-  "id": "replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:resolved:resolved:minor:2026-10-10T00:15:29.762167+00:00",
-  "impact": "minor",
-  "incident_id": "8d9ec78f-39c3-4117-a419-a7b49e7f2525",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-10T00:15:29.762167+00:00",
-  "started_at": "2026-10-10T00:02:39+00:00",
-  "status": "resolved",
-  "title": "Users unable to top-up",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525"
  }
 ]

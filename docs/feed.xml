@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/ns6pj9qy9glb</link>
+<guid isPermaLink='false'>github:db4x8hh362t8:resolved:resolved:minor:2026-11-02T18:24:23.194000+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 18:30:18 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Elevated errors on GPT-5.4 Nano</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 38 min · Opened: Mon, 02 Nov 2026 17:46:23 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/ns6pj9qy9glb">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/ns6pj9qy9glb</link>
 <guid isPermaLink='false'>github:db4x8hh362t8:progress:monitoring:minor:2026-11-02T18:10:34.915000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 16:45:18 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 05m · Opened: Fri, 23 Oct 2026 13:33:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is having a wobble]]></title>
-<link>https://stspg.io/zdk3zqt69fnz</link>
-<guid isPermaLink='false'>github:71y513kjvbzh:opened:investigating:minor:2026-10-23T15:00:01.748000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 15:00:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>We’re investigating delays in some Dependabot alerts closing after affected repositories have been updated to address a vulnerability. Alert processing is backed up. We’ll share more information as it becomes available.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
