@@ -1041,13 +1041,5 @@
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Some ChatGPT content may be unavailable on Android</strong></p><p>Impact: major · Status: resolved · Duration: 3h 26m · Opened: Fri, 09 Oct 2026 21:00:39 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M4H7FKXDA425TDNP2CRGEYA3">OpenAI status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Vercel has downed tools — and so, probably, have you]]></title>
-<link>https://stspg.io/mz4bqspyxvy7</link>
-<guid isPermaLink='false'>vercel:bpzq72pgngc7:opened:investigating:major:2026-10-10T00:15:50.123000+00:00</guid>
-<pubDate>Sat, 10 Oct 2026 00:30:32 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Delays in Drains, Observability, and Workflow in Washington (iad1)</strong></p><p>Impact: major · Status: investigating · Affects: Drains, Logs, Observability, Queues, Workflow · Opened: Sat, 10 Oct 2026 00:15:49 +0000</p><p>We've identified an issue where some customers may experience delayed drain delivery, delayed logs, metrics, and traces, and Workflow runs that remain pending in Washington (iad1). We are investigating this issue. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/mz4bqspyxvy7">Vercel status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

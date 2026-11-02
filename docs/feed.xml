@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Replit is sulking, mildly]]></title>
+<link>https://status.replit.com/incidents/685b60a3-261c-4b29-9e9f-c24b2759aaba</link>
+<guid isPermaLink='false'>replit:685b60a3-261c-4b29-9e9f-c24b2759aaba:opened:investigating:minor:2026-11-02T22:15:17.893902+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 22:15:17 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Some Replit workspaces are inaccessible</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 02 Nov 2026 22:13:11 +0000</p><p>[Investigating] We are currently investigating issues with accessing conversations in some Replit workspaces,</p><p><a href="https://status.replit.com/incidents/685b60a3-261c-4b29-9e9f-c24b2759aaba">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
 <link>https://stspg.io/ns6pj9qy9glb</link>
 <guid isPermaLink='false'>github:db4x8hh362t8:resolved:resolved:minor:2026-11-02T18:24:23.194000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 16:45:18 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Delays in Logs and Observability data</strong></p><p>Impact: minor · Status: identified · Affects: Logs, Observability · Opened: Fri, 23 Oct 2026 16:31:02 +0000</p><p>We have identified the issue causing delays in Logs and Observability data and are working on a fix. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/ywxtzgsnw6dn">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D</link>
-<guid isPermaLink='false'>fireworks:01M5MFEKQ7RP38XW628P4ZXZ3D:resolved:resolved:minor:2026-10-23T16:38:45+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 16:45:18 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 05m · Opened: Fri, 23 Oct 2026 13:33:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

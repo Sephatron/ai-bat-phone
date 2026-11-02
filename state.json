@@ -6308,6 +6308,12 @@
    "status": "resolved",
    "updated_at": "2026-08-17T17:10:52+00:00"
   },
+  "replit:685b60a3-261c-4b29-9e9f-c24b2759aaba": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-02T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-02T22:13:11+00:00"
+  },
   "replit:6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f": {
    "impact": "minor",
    "last_seen_at": "2026-10-14T00:00:00+00:00",
