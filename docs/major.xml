@@ -1033,13 +1033,5 @@
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: monitoring · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>We are seeing recovery in workspace administrators’ ability to view and manage plugin availability and settings. We are monitoring to ensure service remains stable.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Tools down: OpenAI is broken]]></title>
-<link>https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H</link>
-<guid isPermaLink='false'>openai:01M4HA7BCCXVHTR5DCYMSBQF2H:opened:investigating:major:2026-10-09T21:48:34+00:00</guid>
-<pubDate>Fri, 09 Oct 2026 22:00:33 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Workspace admins may be unable to manage plugins</strong></p><p>Impact: major · Status: investigating · Opened: Fri, 09 Oct 2026 21:48:34 +0000</p><p>We are investigating an issue affecting some ChatGPT workspace administrators’ ability to view and manage plugin availability and settings. Some users may also see plugins as unavailable. We will provide another update as soon as we have more information.</p><p><a href="https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H">OpenAI status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

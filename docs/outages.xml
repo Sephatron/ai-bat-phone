@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
+<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152</link>
+<guid isPermaLink='false'>cursor:ps_dece7cc03ecef152:opened:investigating:minor:2026-11-02T09:09:29+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 09:15:36 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Issues with source control integrations</strong></p><p>Impact: minor · Status: investigating · Affects: IDE, Grok Bot · Opened: Mon, 02 Nov 2026 09:09:29 +0000</p><p>We are investigating reports of issues with source control provider integrations in Cursor and Grok Bot.</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M6DQJVZT1QCA7TMPJ9TZJWJB</link>
+<guid isPermaLink='false'>fireworks:01M6DQJVZT1QCA7TMPJ9TZJWJB:resolved:resolved:minor:2026-11-02T09:01:45+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 09:15:36 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 5 min · Opened: Mon, 02 Nov 2026 08:56:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6DQJVZT1QCA7TMPJ9TZJWJB">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M6DQJVZT1QCA7TMPJ9TZJWJB</link>
 <guid isPermaLink='false'>fireworks:01M6DQJVZT1QCA7TMPJ9TZJWJB:opened:investigating:minor:2026-11-02T08:56:29+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 00:00:25 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 2h 04m]]></title>
-<link>https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G</link>
-<guid isPermaLink='false'>openai:01M5JF8DR3EGQJNTXPZ24AKX2G:resolved:resolved:minor:2026-10-22T20:55:48+00:00</guid>
-<pubDate>Thu, 22 Oct 2026 21:00:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded Performance of Dots on Enterprise</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 04m · Opened: Thu, 22 Oct 2026 18:51:28 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP</link>
-<guid isPermaLink='false'>openai:01M5JHVJVC8WAXB4WRYFMKG6HP:opened:identified:minor:2026-10-22T19:36:53+00:00</guid>
-<pubDate>Thu, 22 Oct 2026 19:45:25 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>We have identified that new ad accounts are failing to assign their creator admin. We are investigating the issue.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

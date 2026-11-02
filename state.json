@@ -1910,6 +1910,12 @@
    "status": "resolved",
    "updated_at": "2026-10-28T23:13:34+00:00"
   },
+  "cursor:ps_dece7cc03ecef152": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-02T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-02T09:09:29+00:00"
+  },
   "cursor:ps_e5eb22a9954466c4": {
    "impact": "minor",
    "last_seen_at": "2026-11-02T00:00:00+00:00",
@@ -3461,8 +3467,8 @@
   "fireworks:01M6DQJVZT1QCA7TMPJ9TZJWJB": {
    "impact": "minor",
    "last_seen_at": "2026-11-02T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-02T08:56:29+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-02T09:01:45+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
