@@ -1,5 +1,45 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "22 min",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:cxwwcv5288yg:resolved:resolved:critical:2026-11-02T15:52:43.497000+00:00",
+  "impact": "critical",
+  "incident_id": "cxwwcv5288yg",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-02T16:00:20.346724+00:00",
+  "started_at": "2026-11-02T15:30:41.666000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 TTFT 响应延迟升高",
+  "transition": "resolved",
+  "url": "https://stspg.io/h0wf9xx54ljw"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "1h 22m",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:d5fzlw665wt3:resolved:resolved:critical:2026-11-02T15:52:41.450000+00:00",
+  "impact": "critical",
+  "incident_id": "d5fzlw665wt3",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-02T16:00:20.346724+00:00",
+  "started_at": "2026-11-02T14:30:41.328000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 TTFT 响应延迟升高",
+  "transition": "resolved",
+  "url": "https://stspg.io/wlhfpkv62zy4"
+ },
+ {
   "body": "K3 部分请求的 TTFT 延迟可能升高",
   "components": [
    "K3"
@@ -7747,44 +7787,5 @@
   "title": "Elevated API errors and timeouts",
   "transition": "resolved",
   "url": "https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN"
- },
- {
-  "body": "Status: Monitoring Correction to our previous updates: we do not believe the API was affected by this incident and it remains operational. Affected components Website (Degraded performance) App (Degraded performance) Computer (Degraded performance) API (Operational)",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Perplexity has applied a fix and is holding its breath",
-  "id": "perplexity:01M4HD3DNF1K94CR5D51C37RRN:progress:monitoring:minor:2026-10-09T23:15:31.682240+00:00",
-  "impact": "minor",
-  "incident_id": "01M4HD3DNF1K94CR5D51C37RRN",
-  "kind": "incident",
-  "provider_key": "perplexity",
-  "provider_name": "Perplexity",
-  "published_at": "2026-10-09T23:15:31.682240+00:00",
-  "started_at": "2026-10-09T23:10:27+00:00",
-  "status": "monitoring",
-  "title": "Elevated API errors and timeouts",
-  "transition": "progress",
-  "url": "https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN"
- },
- {
-  "body": "This incident has been resolved. New Cloud Agents and Grok Bot sessions are starting normally again.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot"
-  ],
-  "duration": "31 min",
-  "headline": "🟢 Cursor sorted itself out after 31 min",
-  "id": "cursor:gh45ycs0zs0g:resolved:resolved:minor:2026-10-09T23:09:17.472000+00:00",
-  "impact": "minor",
-  "incident_id": "gh45ycs0zs0g",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-09T23:15:31.682240+00:00",
-  "started_at": "2026-10-09T22:37:52.652000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Cloud Agents and Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/zb0nz52c9qjh"
  }
 ]
