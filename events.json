@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are experiencing degraded availability for the GPT-5.4 Nano model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:db4x8hh362t8:opened:investigating:minor:2026-11-02T17:58:33.422000+00:00",
+  "impact": "minor",
+  "incident_id": "db4x8hh362t8",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-02T18:00:20.497258+00:00",
+  "started_at": "2026-11-02T17:46:23.160000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors on GPT-5.4 Nano",
+  "transition": "opened",
+  "url": "https://stspg.io/ns6pj9qy9glb"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "K3"
@@ -7769,23 +7789,5 @@
   "title": "Workspace admins may be unable to manage plugins",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H"
- },
- {
-  "body": "Status: Resolved The issue affecting the Website, App, and Computer has been resolved. All services are operational. The API remained operational throughout this incident. Affected components Website (Operational) App (Operational) Computer (Operational) API (Operational)",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Perplexity is fine again",
-  "id": "perplexity:01M4HD3DNF1K94CR5D51C37RRN:resolved:resolved:minor:2026-10-09T23:30:30.416112+00:00",
-  "impact": "minor",
-  "incident_id": "01M4HD3DNF1K94CR5D51C37RRN",
-  "kind": "incident",
-  "provider_key": "perplexity",
-  "provider_name": "Perplexity",
-  "published_at": "2026-10-09T23:30:30.416112+00:00",
-  "started_at": "2026-10-09T23:15:40+00:00",
-  "status": "resolved",
-  "title": "Elevated API errors and timeouts",
-  "transition": "resolved",
-  "url": "https://status.perplexity.com//incidents/01M4HD3DNF1K94CR5D51C37RRN"
  }
 ]
