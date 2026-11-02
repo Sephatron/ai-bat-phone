@@ -4655,8 +4655,8 @@
   "lovable:01M6EB2PWWFVAPY81CYH2K2JB7": {
    "impact": "minor",
    "last_seen_at": "2026-11-02T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-02T14:37:11+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-02T15:35:15+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",
@@ -4891,6 +4891,12 @@
    "last_seen_at": "2026-09-09T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-23T00:02:12.292000+00:00"
+  },
+  "moonshot:cxwwcv5288yg": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-02T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-02T15:30:41.735000+00:00"
   },
   "moonshot:d5fzlw665wt3": {
    "impact": "critical",

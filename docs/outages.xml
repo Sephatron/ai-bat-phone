@@ -11,6 +11,22 @@
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/h0wf9xx54ljw</link>
+<guid isPermaLink='false'>moonshot:cxwwcv5288yg:opened:investigating:critical:2026-11-02T15:30:41.735000+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 15:45:20 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Mon, 02 Nov 2026 15:30:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/h0wf9xx54ljw">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Lovable is fine again]]></title>
+<link>https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7</link>
+<guid isPermaLink='false'>lovable:01M6EB2PWWFVAPY81CYH2K2JB7:resolved:resolved:minor:2026-11-02T15:35:15+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 15:45:20 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some Lovable Cloud apps unable to reach backend</strong></p><p>Impact: minor · Status: resolved · Duration: 58 min · Opened: Mon, 02 Nov 2026 14:37:11 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7">Lovable status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/wlhfpkv62zy4</link>
 <guid isPermaLink='false'>moonshot:d5fzlw665wt3:opened:investigating:critical:2026-11-02T14:30:41.517000+00:00</guid>
 <pubDate>Mon, 02 Nov 2026 14:45:29 +0000</pubDate>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 04:45:23 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 23 Oct 2026 03:41:03 +0000</p><p>A fix is being implemented for the issue affecting our support systems. Customers may continue to experience delays in receiving support responses. We will provide further updates as recovery progresses.</p><p><a href="https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H</link>
-<guid isPermaLink='false'>openai:01M5KDJ4079XQTZDSRX40NMN6H:opened:investigating:none:2026-10-23T03:41:03+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 03:45:23 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 23 Oct 2026 03:41:03 +0000</p><p>We are investigating technical issues affecting our customer support systems. Customers may experience longer than usual response times. We are working to restore normal operations.</p><p><a href="https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fine again]]></title>
-<link>https://stspg.io/sx51v1tlpqjc</link>
-<guid isPermaLink='false'>github:wq8305lppdc2:resolved:resolved:minor:2026-10-23T02:30:25.279000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 02:45:23 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Project updates delayed</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests, Issues, Pull Requests, Actions, Packages · Duration: 11h 02m · Opened: Thu, 22 Oct 2026 15:28:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/sx51v1tlpqjc">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
