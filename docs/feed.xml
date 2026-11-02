@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit has stopped wobbling]]></title>
+<link>https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb</link>
+<guid isPermaLink='false'>replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:resolved:resolved:minor:2026-11-02T05:15:18.700545+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 05:15:18 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: resolved · Opened: Mon, 02 Nov 2026 05:08:49 +0000</p><p>[Resolved] The Agent and Workspace issues has been resolved.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Replit is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb</link>
 <guid isPermaLink='false'>replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:progress:monitoring:minor:2026-11-01T16:45:18.045062+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 00:00:25 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 2h 04m]]></title>
-<link>https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G</link>
-<guid isPermaLink='false'>openai:01M5JF8DR3EGQJNTXPZ24AKX2G:resolved:resolved:minor:2026-10-22T20:55:48+00:00</guid>
-<pubDate>Thu, 22 Oct 2026 21:00:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded Performance of Dots on Enterprise</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 04m · Opened: Thu, 22 Oct 2026 18:51:28 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

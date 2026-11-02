@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] The Agent and Workspace issues has been resolved.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit has stopped wobbling",
+  "id": "replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:resolved:resolved:minor:2026-11-02T05:15:18.700545+00:00",
+  "impact": "minor",
+  "incident_id": "5df4103e-99dd-4c1e-8557-d74e75ff50cb",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-02T05:15:18.700545+00:00",
+  "started_at": "2026-11-02T05:08:49+00:00",
+  "status": "resolved",
+  "title": "Agent and Workspace Issues",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb"
+ },
+ {
   "body": "[Monitoring] For those seeing Agent failures can you please update the browser tab, we expect agent interactions to be working again.",
   "components": [],
   "duration": "",
@@ -7767,23 +7785,5 @@
   "title": "Elevated errors on new model builds. Existing models are not affected",
   "transition": "opened",
   "url": "https://stspg.io/s6lwc065drkt"
- },
- {
-  "body": "[Identified] Some users are unable to top up. We’ve identified the issue and are actively working to resolve it.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Replit knows what it did",
-  "id": "replit:8d9ec78f-39c3-4117-a419-a7b49e7f2525:opened:identified:minor:2026-10-09T21:30:30.923114+00:00",
-  "impact": "minor",
-  "incident_id": "8d9ec78f-39c3-4117-a419-a7b49e7f2525",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-09T21:30:30.923114+00:00",
-  "started_at": "2026-10-09T21:18:13+00:00",
-  "status": "identified",
-  "title": "Users unable to top-up",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525"
  }
 ]
