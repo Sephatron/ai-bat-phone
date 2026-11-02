@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152</link>
+<guid isPermaLink='false'>cursor:ps_dece7cc03ecef152:resolved:resolved:minor:2026-11-02T10:24:48+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 10:30:56 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Issues with source control integrations</strong></p><p>Impact: minor · Status: resolved · Affects: IDE, Grok Bot · Duration: 1h 15m · Opened: Mon, 02 Nov 2026 09:09:29 +0000</p><p>The issue is resolved.</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
 <link>https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152</link>
 <guid isPermaLink='false'>cursor:ps_dece7cc03ecef152:opened:investigating:minor:2026-11-02T09:09:29+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 03:45:23 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delays in customer support responses</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 23 Oct 2026 03:41:03 +0000</p><p>We are investigating technical issues affecting our customer support systems. Customers may experience longer than usual response times. We are working to restore normal operations.</p><p><a href="https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fine again]]></title>
-<link>https://stspg.io/sx51v1tlpqjc</link>
-<guid isPermaLink='false'>github:wq8305lppdc2:resolved:resolved:minor:2026-10-23T02:30:25.279000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 02:45:23 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Project updates delayed</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests, Issues, Pull Requests, Actions, Packages · Duration: 11h 02m · Opened: Thu, 22 Oct 2026 15:28:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/sx51v1tlpqjc">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,26 @@
 [
  {
+  "body": "The issue is resolved.",
+  "components": [
+   "IDE",
+   "Grok Bot"
+  ],
+  "duration": "1h 15m",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_dece7cc03ecef152:resolved:resolved:minor:2026-11-02T10:24:48+00:00",
+  "impact": "minor",
+  "incident_id": "ps_dece7cc03ecef152",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-02T10:30:56.071775+00:00",
+  "started_at": "2026-11-02T09:09:29+00:00",
+  "status": "resolved",
+  "title": "Issues with source control integrations",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152"
+ },
+ {
   "body": "We are investigating reports of issues with source control provider integrations in Cursor and Grok Bot.",
   "components": [
    "IDE",
@@ -7766,23 +7787,5 @@
   "title": "Elevated errors on new model builds. Existing models are not affected",
   "transition": "resolved",
   "url": "https://stspg.io/s6lwc065drkt"
- },
- {
-  "body": "We have implemented a mitigation, and delayed Costs data is now processing through the Compliance API. Some customers may continue to see incomplete Costs data while the backlog catches up. We expect this catch-up process to continue through Sunday, October 11. ChatGPT usage and API Platform requests remain unaffected. We are monitoring recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M4GV1M2A3K38T73JCVCD9G0R:progress:monitoring:minor:2026-10-09T22:03:59+00:00",
-  "impact": "minor",
-  "incident_id": "01M4GV1M2A3K38T73JCVCD9G0R",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-09T22:15:29.688843+00:00",
-  "started_at": "2026-10-09T17:23:18+00:00",
-  "status": "monitoring",
-  "title": "Delayed Costs data in the Compliance API",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R"
  }
 ]

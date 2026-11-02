@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152</link>
+<guid isPermaLink='false'>cursor:ps_dece7cc03ecef152:resolved:resolved:minor:2026-11-02T10:24:48+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 10:30:56 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Issues with source control integrations</strong></p><p>Impact: minor · Status: resolved · Affects: IDE, Grok Bot · Duration: 1h 15m · Opened: Mon, 02 Nov 2026 09:09:29 +0000</p><p>The issue is resolved.</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
 <link>https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152</link>
 <guid isPermaLink='false'>cursor:ps_dece7cc03ecef152:opened:investigating:minor:2026-11-02T09:09:29+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 00:15:23 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 31m · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP</link>
-<guid isPermaLink='false'>openai:01M5JHVJVC8WAXB4WRYFMKG6HP:progress:monitoring:minor:2026-10-22T23:45:37+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 00:00:25 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>We have applied the mitigation and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

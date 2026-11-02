@@ -1913,8 +1913,8 @@
   "cursor:ps_dece7cc03ecef152": {
    "impact": "minor",
    "last_seen_at": "2026-11-02T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-02T09:09:29+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-02T10:24:48+00:00"
   },
   "cursor:ps_e5eb22a9954466c4": {
    "impact": "minor",
