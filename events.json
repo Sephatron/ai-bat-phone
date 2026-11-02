@@ -1,5 +1,25 @@
 [
  {
+  "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:db4x8hh362t8:progress:monitoring:minor:2026-11-02T18:10:34.915000+00:00",
+  "impact": "minor",
+  "incident_id": "db4x8hh362t8",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-02T18:15:19.147413+00:00",
+  "started_at": "2026-11-02T17:46:23.160000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors on GPT-5.4 Nano",
+  "transition": "progress",
+  "url": "https://stspg.io/ns6pj9qy9glb"
+ },
+ {
   "body": "We are experiencing degraded availability for the GPT-5.4 Nano model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider.",
   "components": [
    "Copilot AI Model Providers"
@@ -7771,23 +7791,5 @@
   "title": "Users unable to top-up",
   "transition": "resolved",
   "url": "https://status.replit.com/incidents/8d9ec78f-39c3-4117-a419-a7b49e7f2525"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "1h 38m",
-  "headline": "🟢 OpenAI is fixed. You may resume being productive.",
-  "id": "openai:01M4HA7BCCXVHTR5DCYMSBQF2H:resolved:resolved:major:2026-10-09T23:26:59+00:00",
-  "impact": "major",
-  "incident_id": "01M4HA7BCCXVHTR5DCYMSBQF2H",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-09T23:30:30.416112+00:00",
-  "started_at": "2026-10-09T21:48:34+00:00",
-  "status": "resolved",
-  "title": "Workspace admins may be unable to manage plugins",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4HA7BCCXVHTR5DCYMSBQF2H"
  }
 ]

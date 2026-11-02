@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/ns6pj9qy9glb</link>
+<guid isPermaLink='false'>github:db4x8hh362t8:progress:monitoring:minor:2026-11-02T18:10:34.915000+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 18:15:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Elevated errors on GPT-5.4 Nano</strong></p><p>Impact: minor · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Mon, 02 Nov 2026 17:46:23 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/ns6pj9qy9glb">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
 <link>https://stspg.io/ns6pj9qy9glb</link>
 <guid isPermaLink='false'>github:db4x8hh362t8:opened:investigating:minor:2026-11-02T17:58:33.422000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 08:15:25 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Delayed Actions status check results</strong></p><p>Impact: minor · Status: resolved · Affects: Actions · Duration: 36 min · Opened: Fri, 23 Oct 2026 07:29:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/kmk42jg3v1sm">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/kmk42jg3v1sm</link>
-<guid isPermaLink='false'>github:ntrfd2jqldn6:progress:monitoring:minor:2026-10-23T07:56:35.641000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 08:00:24 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Delayed Actions status check results</strong></p><p>Impact: minor · Status: monitoring · Affects: Actions · Opened: Fri, 23 Oct 2026 07:29:03 +0000</p><p>As of 07:27 UTC, Actions results are delivering within normal SLOs again. Thank you for this patience during this period of delayed Actions results delivery. Our team continues to monitor system health and explore refinements to reduce impact to customers in the future.</p><p><a href="https://stspg.io/kmk42jg3v1sm">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
