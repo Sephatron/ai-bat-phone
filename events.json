@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] Access to Replit chats has been restored.",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit sorted itself out after a while",
+  "id": "replit:fc561e56-380f-42c1-a807-2ff3d6d5c5a3:resolved:resolved:minor:2026-11-02T23:00:18.262562+00:00",
+  "impact": "minor",
+  "incident_id": "fc561e56-380f-42c1-a807-2ff3d6d5c5a3",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-02T23:00:18.262562+00:00",
+  "started_at": "2026-11-02T22:49:27+00:00",
+  "status": "resolved",
+  "title": "Replit chats are inaccessible",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3"
+ },
+ {
   "body": "[Monitoring] We have identified and are investigating a disruption of access to Replit chats.",
   "components": [],
   "duration": "",
@@ -7760,30 +7778,6 @@
   "published_at": "2026-10-10T01:15:41.867776+00:00",
   "started_at": "2026-10-10T00:15:49.916000+00:00",
   "status": "monitoring",
-  "title": "Delays in Drains, Observability, and Workflow in Washington (iad1)",
-  "transition": "progress",
-  "url": "https://stspg.io/mz4bqspyxvy7"
- },
- {
-  "body": "A fix has been implemented and delivery has resumed. Delayed Drains deliveries and Observability data are being processed. We are continuing to monitor.",
-  "components": [
-   "Drains",
-   "Logs",
-   "Observability",
-   "Queues",
-   "Workflow"
-  ],
-  "duration": "",
-  "headline": "🔍 Vercel knows what it did",
-  "id": "vercel:bpzq72pgngc7:progress:identified:major:2026-10-10T00:35:51.214000+00:00",
-  "impact": "major",
-  "incident_id": "bpzq72pgngc7",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-10T00:45:33.233527+00:00",
-  "started_at": "2026-10-10T00:15:49.916000+00:00",
-  "status": "identified",
   "title": "Delays in Drains, Observability, and Workflow in Washington (iad1)",
   "transition": "progress",
   "url": "https://stspg.io/mz4bqspyxvy7"

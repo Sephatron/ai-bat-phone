@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 02 Nov 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
+<link>https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3</link>
+<guid isPermaLink='false'>replit:fc561e56-380f-42c1-a807-2ff3d6d5c5a3:resolved:resolved:minor:2026-11-02T23:00:18.262562+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 23:00:18 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Replit chats are inaccessible</strong></p><p>Impact: minor · Status: resolved · Opened: Mon, 02 Nov 2026 22:49:27 +0000</p><p>[Resolved] Access to Replit chats has been restored.</p><p><a href="https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3">Replit status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Replit thinks it's fixed and is watching nervously]]></title>
 <link>https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 16:45:18 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 05m · Opened: Fri, 23 Oct 2026 13:33:20 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is having a wobble]]></title>
-<link>https://stspg.io/zdk3zqt69fnz</link>
-<guid isPermaLink='false'>github:71y513kjvbzh:opened:investigating:minor:2026-10-23T15:00:01.748000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 15:00:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>We’re investigating delays in some Dependabot alerts closing after affected repositories have been updated to address a vulnerability. Alert processing is backed up. We’ll share more information as it becomes available.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
