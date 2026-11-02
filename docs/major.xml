@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/wlhfpkv62zy4</link>
+<guid isPermaLink='false'>moonshot:d5fzlw665wt3:opened:investigating:critical:2026-11-02T14:30:41.517000+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 14:45:29 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Mon, 02 Nov 2026 14:30:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/wlhfpkv62zy4">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/204qnjkqmk4r</link>
 <guid isPermaLink='false'>moonshot:nnx1bbf1d0br:resolved:resolved:critical:2026-11-01T15:04:41.389000+00:00</guid>

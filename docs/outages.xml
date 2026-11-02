@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/wlhfpkv62zy4</link>
+<guid isPermaLink='false'>moonshot:d5fzlw665wt3:opened:investigating:critical:2026-11-02T14:30:41.517000+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 14:45:29 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Mon, 02 Nov 2026 14:30:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/wlhfpkv62zy4">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Lovable]]></title>
+<link>https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7</link>
+<guid isPermaLink='false'>lovable:01M6EB2PWWFVAPY81CYH2K2JB7:opened:investigating:minor:2026-11-02T14:37:11+00:00</guid>
+<pubDate>Mon, 02 Nov 2026 14:45:29 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some Lovable Cloud apps unable to reach backend</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 02 Nov 2026 14:37:11 +0000</p><p>Some apps built with Lovable Cloud are currently unable to reach their backend, which may cause errors when loading data or signing in. Our team is investigating and will share an update soon.</p><p><a href="https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152</link>
 <guid isPermaLink='false'>cursor:ps_dece7cc03ecef152:resolved:resolved:minor:2026-11-02T10:24:48+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 02:45:23 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Project updates delayed</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests, Issues, Pull Requests, Actions, Packages · Duration: 11h 02m · Opened: Thu, 22 Oct 2026 15:28:03 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/sx51v1tlpqjc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/sx51v1tlpqjc</link>
-<guid isPermaLink='false'>github:wq8305lppdc2:progress:monitoring:minor:2026-10-23T00:55:18.059000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 01:00:24 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Project updates delayed</strong></p><p>Impact: minor · Status: monitoring · Affects: API Requests, Issues, Pull Requests, Actions, Packages · Opened: Thu, 22 Oct 2026 15:28:03 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/sx51v1tlpqjc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP</link>
-<guid isPermaLink='false'>openai:01M5JHVJVC8WAXB4WRYFMKG6HP:resolved:resolved:minor:2026-10-23T00:07:55+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 00:15:23 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>New Ad Accounts failing to provision admins</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 31m · Opened: Thu, 22 Oct 2026 19:36:53 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
