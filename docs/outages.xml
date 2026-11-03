@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 03 Nov 2026 02:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 03:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
+<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:progress:monitoring:minor:2026-11-03T02:51:29+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 03:00:28 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 18:45:15 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel has stopped wobbling]]></title>
-<link>https://stspg.io/ywxtzgsnw6dn</link>
-<guid isPermaLink='false'>vercel:4lgcbsr7l8xn:resolved:resolved:minor:2026-10-23T17:32:46.920000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 17:45:17 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Delays in Logs and Observability data</strong></p><p>Impact: minor · Status: resolved · Affects: Logs, Observability · Duration: 1h 01m · Opened: Fri, 23 Oct 2026 16:31:02 +0000</p><p>The issue causing delays in Logs and Observability data has been resolved.</p><p><a href="https://stspg.io/ywxtzgsnw6dn">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

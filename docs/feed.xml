@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 03 Nov 2026 02:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 03:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
+<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:progress:monitoring:minor:2026-11-03T02:51:29+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 03:00:28 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 21:45:21 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Help Center Chat Support Degraded</strong></p><p>Impact: unclassified · Status: investigating · Opened: Fri, 23 Oct 2026 21:30:25 +0000</p><p>We’re currently experiencing degraded performance with the Help Center chat support experience. While we work to resolve the issue, we recommend contacting our Support team via email at [support@openai.com](mailto:support@openai.com "support@openai.com") for assistance. We apologize for the inconvenience and will provide updates as they become available.</p><p><a href="https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Replit is having a wobble]]></title>
-<link>https://status.replit.com/incidents/ccbb7918-9d81-4c45-914b-5a4d6c24052d</link>
-<guid isPermaLink='false'>replit:ccbb7918-9d81-4c45-914b-5a4d6c24052d:opened:investigating:minor:2026-10-23T21:30:19.270695+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 21:30:19 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Users can't access privately deployed apps</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 23 Oct 2026 21:17:02 +0000</p><p>[Investigating] Reports of users unable to access private deployments. We are investigating and will provide updates shortly.</p><p><a href="https://status.replit.com/incidents/ccbb7918-9d81-4c45-914b-5a4d6c24052d">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
