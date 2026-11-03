@@ -1,5 +1,45 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M6GGCNMA0V8MYXZ9J9BE5F6W:opened:investigating:minor:2026-11-03T10:48:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M6GGCNMA0V8MYXZ9J9BE5F6W",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-03T11:00:20.115047+00:00",
+  "started_at": "2026-11-03T10:48:29+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6GGCNMA0V8MYXZ9J9BE5F6W"
+ },
+ {
+  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), DeepSeek V4 Pro API服务(API Service)",
+  "components": [
+   "DeepSeek V4.1 Flash API服务(API Service)",
+   "对话服务(Chatservice)",
+   "DeepSeek V4 Pro API服务(API Service)"
+  ],
+  "duration": "",
+  "headline": "🟢 DeepSeek is fine again",
+  "id": "deepseek:urn:flashduty:change:7202016104287:resolved:resolved:minor:2026-11-03T11:00:20.115047+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7202016104287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-11-03T11:00:20.115047+00:00",
+  "started_at": "2026-11-03T08:58:16+00:00",
+  "status": "resolved",
+  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
+  "transition": "resolved",
+  "url": "https://status.deepseek.com/incidents/7202016104287"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "8 min",
@@ -7740,41 +7780,5 @@
   "title": "- DeepSeek 网页=部分中断（DeepSeek Web Partially Unavailable）",
   "transition": "opened",
   "url": "https://status.deepseek.com/incidents/7103794822287"
- },
- {
-  "body": "The **Groqcloud console issue has been resolved**. All services are operating normally. We apologize for the disruption and **appreciate your patience**.",
-  "components": [],
-  "duration": "23 min",
-  "headline": "🟢 Groq has stopped wobbling",
-  "id": "groq:01M4Q2YY67TVYM451RE835DJAK:resolved:resolved:minor:2026-10-12T04:00:32+00:00",
-  "impact": "minor",
-  "incident_id": "01M4Q2YY67TVYM451RE835DJAK",
-  "kind": "incident",
-  "provider_key": "groq",
-  "provider_name": "Groq",
-  "published_at": "2026-10-12T04:00:43.722483+00:00",
-  "started_at": "2026-10-12T03:37:05+00:00",
-  "status": "resolved",
-  "title": "GroqCloud Console Errors Affecting Multiple Regions",
-  "transition": "resolved",
-  "url": "https://groqstatus.com/incidents/01M4Q2YY67TVYM451RE835DJAK"
- },
- {
-  "body": "We are currently investigating **increased error rates** on our GroqCloud console (including metrics, /models API endpoints, and API key creation). **Users may receive 500 errors** when making requests to **console.groq.com**. Our engineers are isolating the issue.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Groq has a limp, not a break",
-  "id": "groq:01M4Q2YY67TVYM451RE835DJAK:opened:investigating:minor:2026-10-12T03:37:05+00:00",
-  "impact": "minor",
-  "incident_id": "01M4Q2YY67TVYM451RE835DJAK",
-  "kind": "incident",
-  "provider_key": "groq",
-  "provider_name": "Groq",
-  "published_at": "2026-10-12T03:45:36.652738+00:00",
-  "started_at": "2026-10-12T03:37:05+00:00",
-  "status": "investigating",
-  "title": "GroqCloud Console Errors Affecting Multiple Regions",
-  "transition": "opened",
-  "url": "https://groqstatus.com/incidents/01M4Q2YY67TVYM451RE835DJAK"
  }
 ]
