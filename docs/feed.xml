@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cerebras Inference thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/8z7pvns2hgqr</link>
+<guid isPermaLink='false'>cerebras:c7y1qsw64zmw:opened:monitoring:none:2026-11-03T17:07:43.778000+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>Some models may be temporarily unavailable since 16:52, Nov 3rd UTC. We have identified the root cause, implemented the fix and are monitoring the situation.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT</link>
+<guid isPermaLink='false'>fireworks:01M6H2BKXK2NQCQCH76KE45MMT:resolved:resolved:minor:2026-11-03T17:12:18+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Tue, 03 Nov 2026 16:02:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 42 min]]></title>
 <link>https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK</link>
 <guid isPermaLink='false'>fireworks:01M6H2H5CGNHB5TG15KTE47SYK:resolved:resolved:minor:2026-11-03T16:48:05+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sun, 25 Oct 2026 06:15:20 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, Claude Opus 5.5, Claude Sonnet 5.5, and Claude Haiku 5.5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Lovable after 18 min]]></title>
-<link>https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5</link>
-<guid isPermaLink='false'>lovable:01M5Q303XS2X2S2K2RAV6PQYK5:resolved:resolved:major:2026-10-24T14:12:05+00:00</guid>
-<pubDate>Sat, 24 Oct 2026 14:15:16 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Chat and project changes are currently failing for some users</strong></p><p>Impact: major · Status: resolved · Duration: 18 min · Opened: Sat, 24 Oct 2026 13:53:25 +0000</p><p>This incident has been resolved</p><p><a href="https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
-<link>https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5</link>
-<guid isPermaLink='false'>lovable:01M5Q303XS2X2S2K2RAV6PQYK5:opened:investigating:major:2026-10-24T13:53:25+00:00</guid>
-<pubDate>Sat, 24 Oct 2026 14:00:16 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Chat and project changes are currently failing for some users</strong></p><p>Impact: major · Status: investigating · Opened: Sat, 24 Oct 2026 13:53:25 +0000</p><p>Chat and project changes are currently failing for some users. Our team has identified the cause and is working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

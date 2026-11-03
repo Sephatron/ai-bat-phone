@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Cerebras Inference thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/8z7pvns2hgqr</link>
+<guid isPermaLink='false'>cerebras:c7y1qsw64zmw:opened:monitoring:none:2026-11-03T17:07:43.778000+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
+<category>Cerebras Inference</category>
+<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>Some models may be temporarily unavailable since 16:52, Nov 3rd UTC. We have identified the root cause, implemented the fix and are monitoring the situation.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT</link>
+<guid isPermaLink='false'>fireworks:01M6H2BKXK2NQCQCH76KE45MMT:resolved:resolved:minor:2026-11-03T17:12:18+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Tue, 03 Nov 2026 16:02:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 42 min]]></title>
 <link>https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK</link>
 <guid isPermaLink='false'>fireworks:01M6H2H5CGNHB5TG15KTE47SYK:resolved:resolved:minor:2026-11-03T16:48:05+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 24 Oct 2026 06:00:19 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Fable 5 and Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 36 min · Opened: Sat, 24 Oct 2026 05:16:50 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 22:00 PT on October 23 / 05:00 UTC on October 24 to 22:35 PT on October 23 / 05:35 UTC on October 24.</p><p><a href="https://stspg.io/7n1wgb6qsfly">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/7n1wgb6qsfly</link>
-<guid isPermaLink='false'>anthropic:0ns5clsk8p2x:progress:monitoring:major:2026-10-24T05:41:17.492000+00:00</guid>
-<pubDate>Sat, 24 Oct 2026 05:45:18 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5 and Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sat, 24 Oct 2026 05:16:50 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/7n1wgb6qsfly">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Claude knows what it did]]></title>
-<link>https://stspg.io/7n1wgb6qsfly</link>
-<guid isPermaLink='false'>anthropic:0ns5clsk8p2x:opened:identified:major:2026-10-24T05:24:53.032000+00:00</guid>
-<pubDate>Sat, 24 Oct 2026 05:30:18 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for other Claude models</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sat, 24 Oct 2026 05:16:50 +0000</p><p>We have identified the cause of elevated errors on requests to other Claude models and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/7n1wgb6qsfly">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

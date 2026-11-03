@@ -1112,6 +1112,12 @@
    "status": "resolved",
    "updated_at": "2025-06-25T18:18:29.774000+00:00"
   },
+  "cerebras:c7y1qsw64zmw": {
+   "impact": "none",
+   "last_seen_at": "2026-11-03T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-11-03T17:07:43.778000+00:00"
+  },
   "cerebras:cfl92nk5d6vm": {
    "impact": "minor",
    "last_seen_at": "2026-11-03T00:00:00+00:00",
@@ -3521,8 +3527,8 @@
   "fireworks:01M6H2BKXK2NQCQCH76KE45MMT": {
    "impact": "minor",
    "last_seen_at": "2026-11-03T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-03T16:02:29+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-03T17:12:18+00:00"
   },
   "fireworks:01M6H2H5CGNHB5TG15KTE47SYK": {
    "impact": "minor",
