@@ -1,5 +1,27 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "API Requests",
+   "Issues",
+   "Copilot"
+  ],
+  "duration": "30 min",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:rxlj89wpk7px:resolved:resolved:minor:2026-11-03T13:56:18.764000+00:00",
+  "impact": "minor",
+  "incident_id": "rxlj89wpk7px",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-03T14:00:20.593246+00:00",
+  "started_at": "2026-11-03T13:25:19.609000+00:00",
+  "status": "resolved",
+  "title": "Incident with API, Git, and Copilot requests",
+  "transition": "resolved",
+  "url": "https://stspg.io/h1xqhrcn5gqn"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7754,23 +7776,5 @@
   "title": "Incident with Actions, Pull Requests and Issues",
   "transition": "opened",
   "url": "https://stspg.io/flldq0dn2wdz"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "23 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 23 min",
-  "id": "fireworks:01M4QRT81D2BD09R1X6YF4Q5TY:resolved:resolved:minor:2026-10-12T10:22:37+00:00",
-  "impact": "minor",
-  "incident_id": "01M4QRT81D2BD09R1X6YF4Q5TY",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-12T10:30:43.702246+00:00",
-  "started_at": "2026-10-12T09:59:00+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4QRT81D2BD09R1X6YF4Q5TY"
  }
 ]
