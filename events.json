@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "4h 52m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M6FDZ89W4PKDS19K496J307G:resolved:resolved:minor:2026-11-03T05:39:36+00:00",
+  "impact": "minor",
+  "incident_id": "01M6FDZ89W4PKDS19K496J307G",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-03T05:45:19.958221+00:00",
+  "started_at": "2026-11-03T00:46:58+00:00",
+  "status": "resolved",
+  "title": "File upload errors in ChatGPT",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7750,24 +7768,6 @@
   "status": "resolved",
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84"
- },
- {
-  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M4JQGGFHH63JDV2EZHN4DX84:opened:investigating:minor:2026-10-10T11:00:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M4JQGGFHH63JDV2EZHN4DX84",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-10T11:00:38.768938+00:00",
-  "started_at": "2026-10-10T11:00:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84"
  }
 ]
