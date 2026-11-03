@@ -1,5 +1,41 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M6H2H5CGNHB5TG15KTE47SYK:opened:investigating:minor:2026-11-03T16:05:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M6H2H5CGNHB5TG15KTE47SYK",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-03T16:15:20.869662+00:00",
+  "started_at": "2026-11-03T16:05:31+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK"
+ },
+ {
+  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M6H2BKXK2NQCQCH76KE45MMT:opened:investigating:minor:2026-11-03T16:02:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M6H2BKXK2NQCQCH76KE45MMT",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-03T16:15:20.869662+00:00",
+  "started_at": "2026-11-03T16:02:29+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "1h 41m",
@@ -7733,44 +7769,5 @@
   "title": "Increased build and deployment failures",
   "transition": "progress",
   "url": "https://stspg.io/cfrfjg8fqxfr"
- },
- {
-  "body": "We've identified an issue where some customers may experience build failures or deployments that fail to start. We are investigating this issue. We will provide additional updates as they become available.",
-  "components": [
-   "Builds",
-   "Git Integrations"
-  ],
-  "duration": "",
-  "headline": "🔴 Vercel has downed tools — and so, probably, have you",
-  "id": "vercel:sps6n39gm4sg:opened:investigating:major:2026-10-12T13:35:07.542000+00:00",
-  "impact": "major",
-  "incident_id": "sps6n39gm4sg",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-12T13:45:29.259007+00:00",
-  "started_at": "2026-10-12T13:35:07.383000+00:00",
-  "status": "investigating",
-  "title": "Increased build and deployment failures",
-  "transition": "opened",
-  "url": "https://stspg.io/cfrfjg8fqxfr"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is sulking, mildly",
-  "id": "fireworks:01M4R2G9TQKNY1RTGRKZQ5CA19:opened:investigating:minor:2026-10-12T12:48:20+00:00",
-  "impact": "minor",
-  "incident_id": "01M4R2G9TQKNY1RTGRKZQ5CA19",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-12T13:00:36.929758+00:00",
-  "started_at": "2026-10-12T12:48:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M4R2G9TQKNY1RTGRKZQ5CA19"
  }
 ]
