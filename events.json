@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Git Operations",
+  "components": [
+   "Git Operations"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:13b6lyl8d7bz:opened:investigating:minor:2026-11-03T20:57:14.525000+00:00",
+  "impact": "minor",
+  "incident_id": "13b6lyl8d7bz",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-03T21:00:22.995723+00:00",
+  "started_at": "2026-11-03T20:57:14.432000+00:00",
+  "status": "investigating",
+  "title": "Incident with Git Operations",
+  "transition": "opened",
+  "url": "https://stspg.io/n478rfsspcmr"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "GPT-OSS-120B",
@@ -7754,23 +7774,5 @@
   "title": "Increased build and deployment failures",
   "transition": "progress",
   "url": "https://stspg.io/cfrfjg8fqxfr"
- },
- {
-  "body": "The issues affecting **minimaxai/minimax-m2.7** have been **resolved**. The model is operating normally. Root cause: **hardware connectivity issues**. We apologize for the disruption and thank you for your patience.",
-  "components": [],
-  "duration": "18 min",
-  "headline": "🟢 Groq is fixed. You may resume being productive.",
-  "id": "groq:01M4RNBH8R850TCY7FTW0VBJ1T:resolved:resolved:major:2026-10-12T18:36:13+00:00",
-  "impact": "major",
-  "incident_id": "01M4RNBH8R850TCY7FTW0VBJ1T",
-  "kind": "incident",
-  "provider_key": "groq",
-  "provider_name": "Groq",
-  "published_at": "2026-10-12T18:45:31.650994+00:00",
-  "started_at": "2026-10-12T18:17:47+00:00",
-  "status": "resolved",
-  "title": "Model Performance or Availability Issue",
-  "transition": "resolved",
-  "url": "https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T"
  }
 ]

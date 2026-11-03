@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 03 Nov 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
+<link>https://stspg.io/n478rfsspcmr</link>
+<guid isPermaLink='false'>github:13b6lyl8d7bz:opened:investigating:minor:2026-11-03T20:57:14.525000+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 21:00:22 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations</strong></p><p>Impact: minor · Status: investigating · Affects: Git Operations · Opened: Tue, 03 Nov 2026 20:57:14 +0000</p><p>We are investigating reports of degraded performance for Git Operations</p><p><a href="https://stspg.io/n478rfsspcmr">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cerebras Inference is fine again]]></title>
 <link>https://stspg.io/8z7pvns2hgqr</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 24 Oct 2026 14:15:16 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Chat and project changes are currently failing for some users</strong></p><p>Impact: major · Status: resolved · Duration: 18 min · Opened: Sat, 24 Oct 2026 13:53:25 +0000</p><p>This incident has been resolved</p><p><a href="https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Lovable is on the floor. Kettle on, grass outside.]]></title>
-<link>https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5</link>
-<guid isPermaLink='false'>lovable:01M5Q303XS2X2S2K2RAV6PQYK5:opened:investigating:major:2026-10-24T13:53:25+00:00</guid>
-<pubDate>Sat, 24 Oct 2026 14:00:16 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Chat and project changes are currently failing for some users</strong></p><p>Impact: major · Status: investigating · Opened: Sat, 24 Oct 2026 13:53:25 +0000</p><p>Chat and project changes are currently failing for some users. Our team has identified the cause and is working on a fix.</p><p><a href="https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
