@@ -1,5 +1,44 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M6G9F3VBRSPKTQVYT74MXAJT:opened:investigating:minor:2026-11-03T08:47:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M6G9F3VBRSPKTQVYT74MXAJT",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-03T09:00:21.963393+00:00",
+  "started_at": "2026-11-03T08:47:29+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT"
+ },
+ {
+  "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)",
+  "components": [
+   "DeepSeek V4.1 Flash API服务(API Service)",
+   "对话服务(Chatservice)"
+  ],
+  "duration": "",
+  "headline": "🟠 DeepSeek is having a wobble",
+  "id": "deepseek:urn:flashduty:change:7202016104287:opened:investigating:minor:2026-11-03T09:00:21.963393+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7202016104287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-11-03T09:00:21.963393+00:00",
+  "started_at": "2026-11-03T08:58:16+00:00",
+  "status": "investigating",
+  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
+  "transition": "opened",
+  "url": "https://status.deepseek.com/incidents/7202016104287"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "4h 52m",
@@ -7733,41 +7772,5 @@
   "title": "Model Performance or Availability Issue - minimaxai/minimax-m2.7",
   "transition": "resolved",
   "url": "https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is a bit under the weather",
-  "id": "fireworks:01M4JZHFSGP0EEDMMRT37E9J2F:opened:investigating:minor:2026-10-10T13:20:21+00:00",
-  "impact": "minor",
-  "incident_id": "01M4JZHFSGP0EEDMMRT37E9J2F",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-10T13:30:35.891775+00:00",
-  "started_at": "2026-10-10T13:20:21+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3 Fast",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M4JZHFSGP0EEDMMRT37E9J2F"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "1h 45m",
-  "headline": "🟢 Fireworks AI sorted itself out after 1h 45m",
-  "id": "fireworks:01M4JQGGFHH63JDV2EZHN4DX84:resolved:resolved:minor:2026-10-10T12:45:49+00:00",
-  "impact": "minor",
-  "incident_id": "01M4JQGGFHH63JDV2EZHN4DX84",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-10T13:00:55.629920+00:00",
-  "started_at": "2026-10-10T11:00:00+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4JQGGFHH63JDV2EZHN4DX84"
  }
 ]
