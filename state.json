@@ -3569,8 +3569,8 @@
   "github:13b6lyl8d7bz": {
    "impact": "minor",
    "last_seen_at": "2026-11-03T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-03T22:05:09.331000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-03T22:41:03.326000+00:00"
   },
   "github:169pg72gg9jr": {
    "impact": "critical",

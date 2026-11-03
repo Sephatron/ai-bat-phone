@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Git Operations"
+  ],
+  "duration": "1h 43m",
+  "headline": "🟢 GitHub sorted itself out after 1h 43m",
+  "id": "github:13b6lyl8d7bz:resolved:resolved:minor:2026-11-03T22:41:03.326000+00:00",
+  "impact": "minor",
+  "incident_id": "13b6lyl8d7bz",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-03T22:45:19.360571+00:00",
+  "started_at": "2026-11-03T20:57:14.432000+00:00",
+  "status": "resolved",
+  "title": "Incident with Git Operations",
+  "transition": "resolved",
+  "url": "https://stspg.io/n478rfsspcmr"
+ },
+ {
   "body": "We're seeing slower Cloud Agent startups and Bugbot runs caused by an ongoing GitHub incident affecting Git operations. GitHub has identified the issue and is rolling out a mitigation. We're monitoring and will update as their fix takes effect. You can track GitHub's status at githubstatus.com.",
   "components": [
    "Bugbot",
@@ -7753,26 +7773,5 @@
   "title": "Incident with Actions, Pull Requests and Issues",
   "transition": "resolved",
   "url": "https://stspg.io/flldq0dn2wdz"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Builds",
-   "Git Integrations"
-  ],
-  "duration": "6h 36m",
-  "headline": "🟢 All clear from Vercel after 6h 36m",
-  "id": "vercel:sps6n39gm4sg:resolved:resolved:major:2026-10-12T20:11:12.802000+00:00",
-  "impact": "major",
-  "incident_id": "sps6n39gm4sg",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-12T20:15:37.603983+00:00",
-  "started_at": "2026-10-12T13:35:07.383000+00:00",
-  "status": "resolved",
-  "title": "Increased build and deployment failures",
-  "transition": "resolved",
-  "url": "https://stspg.io/cfrfjg8fqxfr"
  }
 ]
