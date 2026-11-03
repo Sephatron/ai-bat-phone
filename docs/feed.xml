@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M6GE1K74VVBKEW56JT02FKPA</link>
+<guid isPermaLink='false'>fireworks:01M6GE1K74VVBKEW56JT02FKPA:resolved:resolved:minor:2026-11-03T10:16:09+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 10:30:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 8 min · Opened: Tue, 03 Nov 2026 10:07:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6GE1K74VVBKEW56JT02FKPA">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M6GE1K74VVBKEW56JT02FKPA</link>
 <guid isPermaLink='false'>fireworks:01M6GE1K74VVBKEW56JT02FKPA:opened:investigating:minor:2026-11-03T10:07:29+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 23:45:17 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service outage - Grok models unavailable</strong></p><p>Impact: major · Status: investigating · Affects: Automations, CLI, Cloud Agents, cursor.com, IDE, Grok Bot · Opened: Fri, 23 Oct 2026 23:39:03 +0000</p><p>We are investigating a service outage affecting Grok models.</p><p><a href="https://stspg.io/gr52z37rn6l2">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 50 min]]></title>
-<link>https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB</link>
-<guid isPermaLink='false'>openai:01M5NFF94XCJ6CGTD4S78A9BEB:resolved:resolved:minor:2026-10-23T23:43:22+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 23:45:17 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Degraded experience with ChatGPT app connections using CIMD</strong></p><p>Impact: minor · Status: resolved · Duration: 50 min · Opened: Fri, 23 Oct 2026 22:52:56 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
