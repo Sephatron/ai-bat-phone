@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-03T19:00:00+00:00",
+ "heartbeat": "2026-11-03T20:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -1115,8 +1115,8 @@
   "cerebras:c7y1qsw64zmw": {
    "impact": "none",
    "last_seen_at": "2026-11-03T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-03T17:07:43.778000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-03T19:41:04.719000+00:00"
   },
   "cerebras:cfl92nk5d6vm": {
    "impact": "minor",

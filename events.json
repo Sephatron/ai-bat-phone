@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "GPT-OSS-120B",
+   "Qwen-3.8-27b"
+  ],
+  "duration": "2h 33m",
+  "headline": "🟢 Cerebras Inference is fine again",
+  "id": "cerebras:c7y1qsw64zmw:resolved:resolved:none:2026-11-03T19:41:04.719000+00:00",
+  "impact": "none",
+  "incident_id": "c7y1qsw64zmw",
+  "kind": "incident",
+  "provider_key": "cerebras",
+  "provider_name": "Cerebras Inference",
+  "published_at": "2026-11-03T20:00:31.248561+00:00",
+  "started_at": "2026-11-03T17:07:43.705000+00:00",
+  "status": "resolved",
+  "title": "Partial Service Disruption",
+  "transition": "resolved",
+  "url": "https://stspg.io/8z7pvns2hgqr"
+ },
+ {
   "body": "Some models may be temporarily unavailable since 16:52, Nov 3rd UTC. We have identified the root cause, implemented the fix and are monitoring the situation.",
   "components": [
    "GPT-OSS-120B",
@@ -7750,24 +7771,6 @@
   "status": "resolved",
   "title": "Model Performance or Availability Issue",
   "transition": "resolved",
-  "url": "https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T"
- },
- {
-  "body": "We have **identified the problem** affecting the **minimaxai/minimax-m2.7** service. The issue was traced to **hardware connectivity issues**. A fix is in progress. Users may still see **API failures** until the fix completes.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Groq has identified the problem. Fix pending.",
-  "id": "groq:01M4RNBH8R850TCY7FTW0VBJ1T:opened:identified:major:2026-10-12T18:17:47+00:00",
-  "impact": "major",
-  "incident_id": "01M4RNBH8R850TCY7FTW0VBJ1T",
-  "kind": "incident",
-  "provider_key": "groq",
-  "provider_name": "Groq",
-  "published_at": "2026-10-12T18:30:37.990771+00:00",
-  "started_at": "2026-10-12T18:17:47+00:00",
-  "status": "identified",
-  "title": "Model Performance or Availability Issue",
-  "transition": "opened",
   "url": "https://groqstatus.com/incidents/01M4RNBH8R850TCY7FTW0VBJ1T"
  }
 ]
