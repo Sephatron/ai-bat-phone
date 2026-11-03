@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 03 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 13:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9</link>
+<guid isPermaLink='false'>fireworks:01M6GPQXKK9200Y3A7PHAF1ZM9:resolved:resolved:minor:2026-11-03T12:50:05+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 13:00:21 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Tue, 03 Nov 2026 12:39:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 23:45:17 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5</strong></p><p>Impact: critical · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Fri, 23 Oct 2026 23:37:42 +0000</p><p>We have identified the cause of elevated errors on requests to Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5, as well as fast mode requests to Opus 5.5 and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/gqp288t3qzpt">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is a bit under the weather]]></title>
-<link>https://stspg.io/9hysn9g59lpg</link>
-<guid isPermaLink='false'>github:khv5nj9qy2kk:opened:investigating:minor:2026-10-23T23:42:06.103000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 23:45:17 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Grok 4.6 and Grok 4.7 Service Issues</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Fri, 23 Oct 2026 23:41:54 +0000</p><p>We are experiencing degraded availability for the Grok 4.6 and Grok 4.7 models in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot.</p><p><a href="https://stspg.io/9hysn9g59lpg">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
