@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 DeepSeek is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.deepseek.com/incidents/7202016104287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7202016104287:progress:monitoring:minor:2026-11-03T09:15:20.496585+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 09:15:20 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）</strong></p><p>Impact: minor · Status: monitoring · Affects: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), DeepSeek V4 Pro API服务(API Service) · Opened: Tue, 03 Nov 2026 08:58:16 +0000</p><p>Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7202016104287">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT</link>
 <guid isPermaLink='false'>fireworks:01M6G9F3VBRSPKTQVYT74MXAJT:opened:investigating:minor:2026-11-03T08:47:29+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 22:45:18 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Hubspot Connectors is not working</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 23 Oct 2026 22:30:46 +0000</p><p>[Identified] HubSpot connectors that use Replit’s default configuration are not working. We’ve identified the root cause and are currently working on a fix.</p><p><a href="https://status.replit.com/incidents/1ae29807-c657-4f26-b194-21f6c7c8ffee">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 32 min]]></title>
-<link>https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN</link>
-<guid isPermaLink='false'>openai:01M5NAR5GZC5M7D0S7AQ6CGEEN:resolved:resolved:none:2026-10-23T22:02:57+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 22:15:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Help Center Chat Support Degraded</strong></p><p>Impact: unclassified · Status: resolved · Duration: 32 min · Opened: Fri, 23 Oct 2026 21:30:25 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

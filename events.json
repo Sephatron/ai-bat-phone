@@ -1,5 +1,27 @@
 [
  {
+  "body": "Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), DeepSeek V4 Pro API服务(API Service)",
+  "components": [
+   "DeepSeek V4.1 Flash API服务(API Service)",
+   "对话服务(Chatservice)",
+   "DeepSeek V4 Pro API服务(API Service)"
+  ],
+  "duration": "",
+  "headline": "👀 DeepSeek is on the mend. Don't get comfortable yet.",
+  "id": "deepseek:urn:flashduty:change:7202016104287:progress:monitoring:minor:2026-11-03T09:15:20.496585+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7202016104287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-11-03T09:15:20.496585+00:00",
+  "started_at": "2026-11-03T08:58:16+00:00",
+  "status": "monitoring",
+  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
+  "transition": "progress",
+  "url": "https://status.deepseek.com/incidents/7202016104287"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7754,23 +7776,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A"
- },
- {
-  "body": "The issues affecting **minimaxai/minimax-m2.7** have been **resolved**. The model is operating normally. Root cause: **Data center hardware issues**. We apologize for the disruption and thank you for your patience.",
-  "components": [],
-  "duration": "6h 05m",
-  "headline": "🟢 Groq is back. Grass sufficiently touched.",
-  "id": "groq:01M4JMKRA4NHDTCXSE2AYQB7SG:resolved:resolved:major:2026-10-10T16:14:45+00:00",
-  "impact": "major",
-  "incident_id": "01M4JMKRA4NHDTCXSE2AYQB7SG",
-  "kind": "incident",
-  "provider_key": "groq",
-  "provider_name": "Groq",
-  "published_at": "2026-10-10T16:15:31.032844+00:00",
-  "started_at": "2026-10-10T10:09:21+00:00",
-  "status": "resolved",
-  "title": "Model Performance or Availability Issue - minimaxai/minimax-m2.7",
-  "transition": "resolved",
-  "url": "https://groqstatus.com/incidents/01M4JMKRA4NHDTCXSE2AYQB7SG"
  }
 ]
