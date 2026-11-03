@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 01:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
+<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
+<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:opened:investigating:minor:2026-11-03T00:58:21+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 01:00:24 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
 <link>https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 23 Oct 2026 19:00:21 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: resolved · Duration: 3h 52m · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/zdk3zqt69fnz</link>
-<guid isPermaLink='false'>github:71y513kjvbzh:progress:monitoring:minor:2026-10-23T18:36:15.079000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 18:45:15 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Dependabot Alerts</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 23 Oct 2026 14:58:48 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/zdk3zqt69fnz">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

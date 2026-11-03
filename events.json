@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI has a limp, not a break",
+  "id": "openai:01M6FDZ89W4PKDS19K496J307G:opened:investigating:minor:2026-11-03T00:58:21+00:00",
+  "impact": "minor",
+  "incident_id": "01M6FDZ89W4PKDS19K496J307G",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-03T01:00:24.482859+00:00",
+  "started_at": "2026-11-03T00:46:58+00:00",
+  "status": "investigating",
+  "title": "File upload errors in ChatGPT",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
+ },
+ {
   "body": "[Resolved] Access to Replit chats has been restored.",
   "components": [],
   "duration": "",
@@ -7756,30 +7774,6 @@
   "status": "resolved",
   "title": "Delays in Drains, Observability, and Workflow in Washington (iad1)",
   "transition": "resolved",
-  "url": "https://stspg.io/mz4bqspyxvy7"
- },
- {
-  "body": "Delayed Drains deliveries, Observability data, and Build logs have been processed now. We are continuing to monitor and we will provide additional updates as they become available.",
-  "components": [
-   "Drains",
-   "Logs",
-   "Observability",
-   "Queues",
-   "Workflow"
-  ],
-  "duration": "",
-  "headline": "👀 Vercel is on the mend. Don't get comfortable yet.",
-  "id": "vercel:bpzq72pgngc7:progress:monitoring:major:2026-10-10T01:12:35.967000+00:00",
-  "impact": "major",
-  "incident_id": "bpzq72pgngc7",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-10T01:15:41.867776+00:00",
-  "started_at": "2026-10-10T00:15:49.916000+00:00",
-  "status": "monitoring",
-  "title": "Delays in Drains, Observability, and Workflow in Washington (iad1)",
-  "transition": "progress",
   "url": "https://stspg.io/mz4bqspyxvy7"
  }
 ]
