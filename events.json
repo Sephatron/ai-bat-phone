@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M6GD2F996J3HNXBBA6H6QGCZ:opened:investigating:minor:2026-11-03T09:50:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M6GD2F996J3HNXBBA6H6QGCZ",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-03T10:00:18.962751+00:00",
+  "started_at": "2026-11-03T09:50:29+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6GD2F996J3HNXBBA6H6QGCZ"
+ },
+ {
   "body": "Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), DeepSeek V4 Pro API服务(API Service)",
   "components": [
    "DeepSeek V4.1 Flash API服务(API Service)",
@@ -7757,24 +7775,6 @@
   "status": "resolved",
   "title": "Service Degradation for GLM 5.3",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M4NJQ6PZ1DHM48TZVX1KCV6A:opened:investigating:minor:2026-10-11T13:34:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M4NJQ6PZ1DHM48TZVX1KCV6A",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-11T13:45:46.926996+00:00",
-  "started_at": "2026-10-11T13:34:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4NJQ6PZ1DHM48TZVX1KCV6A"
  }
 ]
