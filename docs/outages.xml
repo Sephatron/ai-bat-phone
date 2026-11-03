@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 03 Nov 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9</link>
+<guid isPermaLink='false'>cursor:ps_b88ca87004b1d3b9:resolved:resolved:none:2026-11-03T22:53:01+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 23:00:19 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>3 "Slow clones from GH due to Github degradation"</strong></p><p>Impact: unclassified · Status: resolved · Affects: Bugbot, Cloud Agents · Duration: 1h 12m · Opened: Tue, 03 Nov 2026 21:40:43 +0000</p><p>GitHub has mitigated the Git operations incident, and Cloud Agent startup and Bugbot run times have returned to normal.</p><p><a href="https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub sorted itself out after 1h 43m]]></title>
 <link>https://stspg.io/n478rfsspcmr</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 25 Oct 2026 06:45:16 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5 and other models</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Claude has identified the problem. Fix pending.]]></title>
-<link>https://stspg.io/s3wd6gmdsdhn</link>
-<guid isPermaLink='false'>anthropic:334jvgbrc4ff:progress:identified:major:2026-10-25T06:27:52.090000+00:00</guid>
-<pubDate>Sun, 25 Oct 2026 06:30:20 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>We have identified the cause of elevated errors on requests to Claude Sonnet 5.5 and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
