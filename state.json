@@ -1910,6 +1910,12 @@
    "status": "resolved",
    "updated_at": "2026-10-30T07:12:25+00:00"
   },
+  "cursor:ps_b88ca87004b1d3b9": {
+   "impact": "none",
+   "last_seen_at": "2026-11-03T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-03T21:40:43+00:00"
+  },
   "cursor:ps_d25569b21cabd283": {
    "impact": "major",
    "last_seen_at": "2026-11-03T00:00:00+00:00",
@@ -3564,7 +3570,7 @@
    "impact": "minor",
    "last_seen_at": "2026-11-03T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-11-03T20:57:14.525000+00:00"
+   "updated_at": "2026-11-03T21:37:34.718000+00:00"
   },
   "github:169pg72gg9jr": {
    "impact": "critical",

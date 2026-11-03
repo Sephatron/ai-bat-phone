@@ -1,5 +1,26 @@
 [
  {
+  "body": "We're seeing slower Cloud Agent startups and Bugbot runs caused by an ongoing GitHub incident affecting Git operations. GitHub has identified the issue and is rolling out a mitigation. We're monitoring and will update as their fix takes effect. You can track GitHub's status at githubstatus.com.",
+  "components": [
+   "Bugbot",
+   "Cloud Agents"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor has a limp, not a break",
+  "id": "cursor:ps_b88ca87004b1d3b9:opened:investigating:none:2026-11-03T21:40:43+00:00",
+  "impact": "none",
+  "incident_id": "ps_b88ca87004b1d3b9",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-03T21:45:29.621922+00:00",
+  "started_at": "2026-11-03T21:40:43+00:00",
+  "status": "investigating",
+  "title": "3 \"Slow clones from GH due to Github degradation\"",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Git Operations",
   "components": [
    "Git Operations"
@@ -7752,27 +7773,6 @@
   "status": "resolved",
   "title": "Increased build and deployment failures",
   "transition": "resolved",
-  "url": "https://stspg.io/cfrfjg8fqxfr"
- },
- {
-  "body": "The backlog of deployment events has been processed. We will continue to monitor and provide additional updates as they become available.",
-  "components": [
-   "Builds",
-   "Git Integrations"
-  ],
-  "duration": "",
-  "headline": "👀 Vercel thinks it's fixed and is watching nervously",
-  "id": "vercel:sps6n39gm4sg:progress:monitoring:major:2026-10-12T19:56:56.028000+00:00",
-  "impact": "major",
-  "incident_id": "sps6n39gm4sg",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-12T20:00:37.028250+00:00",
-  "started_at": "2026-10-12T13:35:07.383000+00:00",
-  "status": "monitoring",
-  "title": "Increased build and deployment failures",
-  "transition": "progress",
   "url": "https://stspg.io/cfrfjg8fqxfr"
  }
 ]

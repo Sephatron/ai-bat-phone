@@ -953,13 +953,5 @@
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: resolved · Affects: Builds, Git Integrations · Duration: 6h 36m · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[👀 Vercel thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/cfrfjg8fqxfr</link>
-<guid isPermaLink='false'>vercel:sps6n39gm4sg:progress:monitoring:major:2026-10-12T19:56:56.028000+00:00</guid>
-<pubDate>Mon, 12 Oct 2026 20:00:37 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Increased build and deployment failures</strong></p><p>Impact: major · Status: monitoring · Affects: Builds, Git Integrations · Opened: Mon, 12 Oct 2026 13:35:07 +0000</p><p>The backlog of deployment events has been processed. We will continue to monitor and provide additional updates as they become available.</p><p><a href="https://stspg.io/cfrfjg8fqxfr">Vercel status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

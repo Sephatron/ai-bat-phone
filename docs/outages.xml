@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor has a limp, not a break]]></title>
+<link>https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9</link>
+<guid isPermaLink='false'>cursor:ps_b88ca87004b1d3b9:opened:investigating:none:2026-11-03T21:40:43+00:00</guid>
+<pubDate>Tue, 03 Nov 2026 21:45:29 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>3 "Slow clones from GH due to Github degradation"</strong></p><p>Impact: unclassified · Status: investigating · Affects: Bugbot, Cloud Agents · Opened: Tue, 03 Nov 2026 21:40:43 +0000</p><p>We're seeing slower Cloud Agent startups and Bugbot runs caused by an ongoing GitHub incident affecting Git operations. GitHub has identified the issue and is rolling out a mitigation. We're monitoring and will update as their fix takes effect. You can track GitHub's status at githubstatus.com.</p><p><a href="https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
 <link>https://stspg.io/n478rfsspcmr</link>
 <guid isPermaLink='false'>github:13b6lyl8d7bz:opened:investigating:minor:2026-11-03T20:57:14.525000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 25 Oct 2026 06:15:20 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, Claude Opus 5.5, Claude Sonnet 5.5, and Claude Haiku 5.5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Lovable after 18 min]]></title>
-<link>https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5</link>
-<guid isPermaLink='false'>lovable:01M5Q303XS2X2S2K2RAV6PQYK5:resolved:resolved:major:2026-10-24T14:12:05+00:00</guid>
-<pubDate>Sat, 24 Oct 2026 14:15:16 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Chat and project changes are currently failing for some users</strong></p><p>Impact: major · Status: resolved · Duration: 18 min · Opened: Sat, 24 Oct 2026 13:53:25 +0000</p><p>This incident has been resolved</p><p><a href="https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
