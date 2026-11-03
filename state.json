@@ -4100,6 +4100,12 @@
    "status": "completed",
    "updated_at": "2022-05-16T21:00:33.470000+00:00"
   },
+  "github:rxlj89wpk7px": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-03T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-03T13:25:19.721000+00:00"
+  },
   "github:ry5psbndh11j": {
    "impact": "maintenance",
    "last_seen_at": "2026-11-03T00:00:00+00:00",
