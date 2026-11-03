@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "42 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 42 min",
+  "id": "fireworks:01M6H2H5CGNHB5TG15KTE47SYK:resolved:resolved:minor:2026-11-03T16:48:05+00:00",
+  "impact": "minor",
+  "incident_id": "01M6H2H5CGNHB5TG15KTE47SYK",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-03T17:00:19.972691+00:00",
+  "started_at": "2026-11-03T16:05:31+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7748,26 +7766,5 @@
   "title": "Delayed Costs data in the Compliance API",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M4GV1M2A3K38T73JCVCD9G0R"
- },
- {
-  "body": "We have identified the issue and are working on a fix. We will provide additional updates as they become available.",
-  "components": [
-   "Builds",
-   "Git Integrations"
-  ],
-  "duration": "",
-  "headline": "🔍 Vercel has found the culprit",
-  "id": "vercel:sps6n39gm4sg:progress:identified:major:2026-10-12T14:08:54.969000+00:00",
-  "impact": "major",
-  "incident_id": "sps6n39gm4sg",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-12T14:15:29.318332+00:00",
-  "started_at": "2026-10-12T13:35:07.383000+00:00",
-  "status": "identified",
-  "title": "Increased build and deployment failures",
-  "transition": "progress",
-  "url": "https://stspg.io/cfrfjg8fqxfr"
  }
 ]
