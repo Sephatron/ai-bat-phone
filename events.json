@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M6GPQXKK9200Y3A7PHAF1ZM9:opened:investigating:minor:2026-11-03T12:39:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M6GPQXKK9200Y3A7PHAF1ZM9",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-03T12:45:23.181794+00:00",
+  "started_at": "2026-11-03T12:39:29+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "14 min",
@@ -7758,25 +7776,5 @@
   "title": "DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）",
   "transition": "opened",
   "url": "https://status.deepseek.com/incidents/7104277696287"
- },
- {
-  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: 对话服务(Chatservice)",
-  "components": [
-   "对话服务(Chatservice)"
-  ],
-  "duration": "",
-  "headline": "🟢 DeepSeek sorted itself out after a while",
-  "id": "deepseek:urn:flashduty:change:7103794822287:resolved:resolved:minor:2026-10-12T04:30:35.441276+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:7103794822287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-12T04:30:35.441276+00:00",
-  "started_at": "2026-10-12T04:05:12+00:00",
-  "status": "resolved",
-  "title": "- DeepSeek 网页=部分中断（DeepSeek Web Partially Unavailable）",
-  "transition": "resolved",
-  "url": "https://status.deepseek.com/incidents/7103794822287"
  }
 ]
