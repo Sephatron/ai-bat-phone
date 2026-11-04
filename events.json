@@ -1,5 +1,23 @@
 [
  {
+  "body": "The fix has been released and sign-in should be working as usual. We are currently monitoring the situation",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs is on the mend. Don't get comfortable yet.",
+  "id": "elevenlabs:01M6JTCM4Z5S4DN3XB35SFZXHJ:progress:monitoring:none:2026-11-04T10:21:54+00:00",
+  "impact": "none",
+  "incident_id": "01M6JTCM4Z5S4DN3XB35SFZXHJ",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-04T10:30:21.384436+00:00",
+  "started_at": "2026-11-04T08:21:42+00:00",
+  "status": "monitoring",
+  "title": "Intermittent Sign in issue",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [],
   "duration": "1h 16m",
@@ -7738,23 +7756,5 @@
   "title": "Multiple US endpoints experiencing timeouts and latency",
   "transition": "progress",
   "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:progress:monitoring:minor:2026-10-13T09:30:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M4T4ZCM54D3ZPTQXRSWFG0XS",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-13T09:30:31.887737+00:00",
-  "started_at": "2026-10-13T08:10:00+00:00",
-  "status": "monitoring",
-  "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
  }
 ]

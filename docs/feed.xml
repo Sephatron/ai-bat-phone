@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ</link>
+<guid isPermaLink='false'>elevenlabs:01M6JTCM4Z5S4DN3XB35SFZXHJ:progress:monitoring:none:2026-11-04T10:21:54+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 10:30:21 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>The fix has been released and sign-in should be working as usual. We are currently monitoring the situation</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
 <link>https://stspg.io/hj74883wgn0t</link>
 <guid isPermaLink='false'>github:tc28c0wzrnpz:resolved:resolved:minor:2026-11-04T10:01:44.589000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 26 Oct 2026 18:00:17 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 26 Oct 2026 17:59:25 +0000</p><p>We are seeing impacted performance for Kimi K3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5WNVZ2R60QBF4P2S5NXKSZW">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://stspg.io/3sw5fzxzhp8l</link>
-<guid isPermaLink='false'>cursor:tf5vxc32161d:resolved:resolved:minor:2026-10-26T15:25:50.979000+00:00</guid>
-<pubDate>Mon, 26 Oct 2026 15:30:19 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 1h 23m · Opened: Mon, 26 Oct 2026 14:02:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/3sw5fzxzhp8l">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

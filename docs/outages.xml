@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ</link>
+<guid isPermaLink='false'>elevenlabs:01M6JTCM4Z5S4DN3XB35SFZXHJ:progress:monitoring:none:2026-11-04T10:21:54+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 10:30:21 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>The fix has been released and sign-in should be working as usual. We are currently monitoring the situation</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
 <link>https://stspg.io/hj74883wgn0t</link>
 <guid isPermaLink='false'>github:tc28c0wzrnpz:resolved:resolved:minor:2026-11-04T10:01:44.589000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 26 Oct 2026 14:15:17 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, CLI, Cloud Agents, IDE · Opened: Mon, 26 Oct 2026 14:02:00 +0000</p><p>We are investigating elevated errors affecting requests to Sonnet 5.5. Some users may see failed or rate-limited responses when using this model.</p><p><a href="https://stspg.io/3sw5fzxzhp8l">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/5hx1kxfh3bl7</link>
-<guid isPermaLink='false'>moonshot:ll8x75r56c3p:resolved:resolved:critical:2026-10-26T09:50:47.216000+00:00</guid>
-<pubDate>Mon, 26 Oct 2026 10:00:16 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 模型服务持续波动</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 29 min · Opened: Mon, 26 Oct 2026 09:21:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/5hx1kxfh3bl7">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
