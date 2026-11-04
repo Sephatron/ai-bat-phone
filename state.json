@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-04T11:00:00+00:00",
+ "heartbeat": "2026-11-04T12:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -4193,8 +4193,8 @@
   "github:smtdswd1h2w4": {
    "impact": "major",
    "last_seen_at": "2026-11-04T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-04T11:43:52.052000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-04T11:50:06.459000+00:00"
   },
   "github:tc28c0wzrnpz": {
    "impact": "minor",

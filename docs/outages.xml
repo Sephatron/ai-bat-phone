@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 04 Nov 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/18blsgwnbyy6</link>
+<guid isPermaLink='false'>github:smtdswd1h2w4:resolved:resolved:major:2026-11-04T11:50:06.459000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 12:00:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Pull Requests, Git Operations and Issues</strong></p><p>Impact: major · Status: resolved · Affects: Git Operations, API Requests, Issues, Pull Requests, Actions · Duration: 2h 00m · Opened: Wed, 04 Nov 2026 09:49:55 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/18blsgwnbyy6">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/18blsgwnbyy6</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 26 Oct 2026 18:00:17 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 26 Oct 2026 17:59:25 +0000</p><p>We are seeing impacted performance for Kimi K3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5WNVZ2R60QBF4P2S5NXKSZW">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://stspg.io/3sw5fzxzhp8l</link>
-<guid isPermaLink='false'>cursor:tf5vxc32161d:resolved:resolved:minor:2026-10-26T15:25:50.979000+00:00</guid>
-<pubDate>Mon, 26 Oct 2026 15:30:19 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, CLI, Cloud Agents, IDE · Duration: 1h 23m · Opened: Mon, 26 Oct 2026 14:02:00 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/3sw5fzxzhp8l">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

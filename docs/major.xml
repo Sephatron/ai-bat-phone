@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 04 Nov 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/18blsgwnbyy6</link>
+<guid isPermaLink='false'>github:smtdswd1h2w4:resolved:resolved:major:2026-11-04T11:50:06.459000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 12:00:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Pull Requests, Git Operations and Issues</strong></p><p>Impact: major · Status: resolved · Affects: Git Operations, API Requests, Issues, Pull Requests, Actions · Duration: 2h 00m · Opened: Wed, 04 Nov 2026 09:49:55 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/18blsgwnbyy6">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/18blsgwnbyy6</link>
@@ -928,14 +936,6 @@
 <pubDate>Tue, 13 Oct 2026 13:45:27 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>Error rates have continued to stabilize. We are continuing to monitor the affected endpoints to ensure service remains steady.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 ElevenLabs has identified the problem. Fix pending.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
-<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:identified:major:2026-10-13T11:42:02+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 11:45:32 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: identified · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We are still seeing elevated errors and timeouts on the affected endpoints, and requests may continue to fail. We are actively working with our data provider to restore full service and bring the endpoints back online.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
