@@ -1,5 +1,27 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
+  "id": "github:xr3myzj7ms51:progress:monitoring:major:2026-11-04T16:49:27.387000+00:00",
+  "impact": "major",
+  "incident_id": "xr3myzj7ms51",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T17:00:22.708758+00:00",
+  "started_at": "2026-11-04T16:05:31.572000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Actions and Pages",
+  "transition": "progress",
+  "url": "https://stspg.io/pjgptg3cfc6n"
+ },
+ {
   "body": "Actions is experiencing degraded availability. We are continuing to investigate.",
   "components": [
    "Webhooks",
@@ -7757,23 +7779,5 @@
   "title": "Elevated errors on platform.claude.com",
   "transition": "resolved",
   "url": "https://stspg.io/sjkw7njwf0mt"
- },
- {
-  "body": "We have resolved the issue causing degraded performance with GPT-6.1 Sol in Codex and ChatGPT Work.",
-  "components": [],
-  "duration": "8h 26m",
-  "headline": "🟢 OpenAI sorted itself out after 8h 26m",
-  "id": "openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:resolved:resolved:minor:2026-10-13T16:36:42+00:00",
-  "impact": "minor",
-  "incident_id": "01M4T4ZCM54D3ZPTQXRSWFG0XS",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-13T16:45:39.135782+00:00",
-  "started_at": "2026-10-13T08:10:00+00:00",
-  "status": "resolved",
-  "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
  }
 ]
