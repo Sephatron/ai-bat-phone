@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified the cause of the sign-in errors and are working on a fix.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 ElevenLabs knows what it did",
+  "id": "elevenlabs:01M6JTCM4Z5S4DN3XB35SFZXHJ:progress:identified:none:2026-11-04T08:56:30+00:00",
+  "impact": "none",
+  "incident_id": "01M6JTCM4Z5S4DN3XB35SFZXHJ",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-04T09:00:21.031654+00:00",
+  "started_at": "2026-11-04T08:21:42+00:00",
+  "status": "identified",
+  "title": "Intermittent Sign in issue",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ"
+ },
+ {
   "body": "We are investigating reports of impacted performance for some GitHub services.",
   "components": [],
   "duration": "",
@@ -7732,24 +7750,6 @@
   "status": "investigating",
   "title": "Degraded performance in GPT-6.1 Sol Work mode",
   "transition": "escalated",
-  "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:opened:investigating:none:2026-10-13T08:10:00+00:00",
-  "impact": "none",
-  "incident_id": "01M4T4ZCM54D3ZPTQXRSWFG0XS",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-13T08:15:43.391101+00:00",
-  "started_at": "2026-10-13T08:10:00+00:00",
-  "status": "investigating",
-  "title": "Degraded performance in GPT-6.1 Sol Work mode",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
  }
 ]
