@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔺 It got worse: GitHub is now a major outage]]></title>
+<link>https://stspg.io/pjgptg3cfc6n</link>
+<guid isPermaLink='false'>github:xr3myzj7ms51:escalated:investigating:major:2026-11-04T16:17:29.703000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 16:30:35 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions and Pages</strong></p><p>Impact: major · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Wed, 04 Nov 2026 16:05:31 +0000</p><p>Actions is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/pjgptg3cfc6n">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
 <link>https://stspg.io/pjgptg3cfc6n</link>
 <guid isPermaLink='false'>github:xr3myzj7ms51:opened:investigating:minor:2026-11-04T16:05:31.698000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 26 Oct 2026 19:00:17 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: resolved · Duration: 7 min · Opened: Mon, 26 Oct 2026 18:40:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM</link>
-<guid isPermaLink='false'>openai:01M5WPZTT0385GMEV1353ZC4AM:resolved:resolved:minor:2026-10-26T18:30:19+00:00</guid>
-<pubDate>Mon, 26 Oct 2026 18:45:21 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Ads POST /ads/* endpoints elevated error rates</strong></p><p>Impact: minor · Status: resolved · Duration: 11 min · Opened: Mon, 26 Oct 2026 18:19:00 +0000</p><p>All impacted services have now fully recovered.</p><p><a href="https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,27 @@
 [
  {
+  "body": "Actions is experiencing degraded availability. We are continuing to investigate.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "🔺 It got worse: GitHub is now a major outage",
+  "id": "github:xr3myzj7ms51:escalated:investigating:major:2026-11-04T16:17:29.703000+00:00",
+  "impact": "major",
+  "incident_id": "xr3myzj7ms51",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T16:30:35.764505+00:00",
+  "started_at": "2026-11-04T16:05:31.572000+00:00",
+  "status": "investigating",
+  "title": "Incident with Actions and Pages",
+  "transition": "escalated",
+  "url": "https://stspg.io/pjgptg3cfc6n"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Actions and Pages",
   "components": [
    "Actions",
@@ -7753,23 +7775,5 @@
   "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
- },
- {
-  "body": "The incident is resolved. Error rates are back to normal, and stable service has been confirmed. We will publish a Root cause analysis once our review of the incident is complete.",
-  "components": [],
-  "duration": "4h 57m",
-  "headline": "🟢 ElevenLabs is back. Grass sufficiently touched.",
-  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:resolved:resolved:major:2026-10-13T14:18:43+00:00",
-  "impact": "major",
-  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-13T14:30:43.766369+00:00",
-  "started_at": "2026-10-13T09:21:00+00:00",
-  "status": "resolved",
-  "title": "Multiple US endpoints experiencing timeouts and latency",
-  "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
  }
 ]

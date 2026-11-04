@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔺 It got worse: GitHub is now a major outage]]></title>
+<link>https://stspg.io/pjgptg3cfc6n</link>
+<guid isPermaLink='false'>github:xr3myzj7ms51:escalated:investigating:major:2026-11-04T16:17:29.703000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 16:30:35 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions and Pages</strong></p><p>Impact: major · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Wed, 04 Nov 2026 16:05:31 +0000</p><p>Actions is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/pjgptg3cfc6n">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/18blsgwnbyy6</link>
 <guid isPermaLink='false'>github:smtdswd1h2w4:resolved:resolved:major:2026-11-04T11:50:06.459000+00:00</guid>
@@ -920,14 +928,6 @@
 <pubDate>Tue, 13 Oct 2026 18:00:28 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 6d 4h · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs is back. Grass sufficiently touched.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
-<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:resolved:resolved:major:2026-10-13T14:18:43+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 14:30:43 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: resolved · Duration: 4h 57m · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>The incident is resolved. Error rates are back to normal, and stable service has been confirmed. We will publish a Root cause analysis once our review of the incident is complete.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
