@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/hj74883wgn0t</link>
+<guid isPermaLink='false'>github:tc28c0wzrnpz:resolved:resolved:minor:2026-11-04T10:01:44.589000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 10:15:23 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Increased task-related errors for Copilot Mission Control</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 16m · Opened: Wed, 04 Nov 2026 08:45:00 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/hj74883wgn0t">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/18blsgwnbyy6</link>
 <guid isPermaLink='false'>github:smtdswd1h2w4:opened:investigating:major:2026-11-04T09:53:38.854000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 26 Oct 2026 10:00:16 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 模型服务持续波动</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 29 min · Opened: Mon, 26 Oct 2026 09:21:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/5hx1kxfh3bl7">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/5hx1kxfh3bl7</link>
-<guid isPermaLink='false'>moonshot:ll8x75r56c3p:opened:investigating:critical:2026-10-26T09:21:47.191000+00:00</guid>
-<pubDate>Mon, 26 Oct 2026 09:30:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 模型服务持续波动</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Mon, 26 Oct 2026 09:21:47 +0000</p><p>K3 模型服务持续波动，部分请求无法正常处理</p><p><a href="https://stspg.io/5hx1kxfh3bl7">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

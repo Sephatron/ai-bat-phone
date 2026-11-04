@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "1h 16m",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:tc28c0wzrnpz:resolved:resolved:minor:2026-11-04T10:01:44.589000+00:00",
+  "impact": "minor",
+  "incident_id": "tc28c0wzrnpz",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T10:15:23.627401+00:00",
+  "started_at": "2026-11-04T08:45:00.272000+00:00",
+  "status": "resolved",
+  "title": "Increased task-related errors for Copilot Mission Control",
+  "transition": "resolved",
+  "url": "https://stspg.io/hj74883wgn0t"
+ },
+ {
   "body": "Pull Requests is experiencing degraded availability. We are continuing to investigate.",
   "components": [
    "Git Operations",
@@ -7738,23 +7756,5 @@
   "title": "Degraded performance in GPT-6.1 Sol Codex and Work mode",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
- },
- {
-  "body": "We are investigating elevated latency and timeouts affecting multiple endpoints, including some Elevenagents endpoints. Some requests may be slow or fail. Our team is actively looking into the cause.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 ElevenLabs has gone dark. Nothing you did. Probably.",
-  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:opened:investigating:major:2026-10-13T09:21:00+00:00",
-  "impact": "major",
-  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-13T09:30:31.887737+00:00",
-  "started_at": "2026-10-13T09:21:00+00:00",
-  "status": "investigating",
-  "title": "Multiple endpoints experiencing timeouts and latency",
-  "transition": "opened",
-  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
  }
 ]

@@ -945,13 +945,5 @@
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: identified · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We’re seeing error rates rise again, so calls may still fail or experience increased latency.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 ElevenLabs has gone dark. Nothing you did. Probably.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
-<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:opened:investigating:major:2026-10-13T09:21:00+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 09:30:31 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Multiple endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: investigating · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We are investigating elevated latency and timeouts affecting multiple endpoints, including some Elevenagents endpoints. Some requests may be slow or fail. Our team is actively looking into the cause.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
