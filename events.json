@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users are experiencing issues with project previews, including previews failing to load, loading slowly, or appearing blank. Our team is investigating and working to restore normal preview loading as quickly as possible.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable is a bit under the weather",
+  "id": "lovable:01M6M0H10A8JQESE2WM178GTP1:opened:investigating:minor:2026-11-04T19:28:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M6M0H10A8JQESE2WM178GTP1",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-04T19:30:22.089722+00:00",
+  "started_at": "2026-11-04T19:28:12+00:00",
+  "status": "investigating",
+  "title": "Project previews failing to load or loading slowly for some users",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Actions"
@@ -7769,23 +7787,5 @@
   "title": "Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "2h 47m",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M4WKPE1EY48ZB4RZJ80YH7ES:resolved:resolved:minor:2026-10-14T09:53:11+00:00",
-  "impact": "minor",
-  "incident_id": "01M4WKPE1EY48ZB4RZJ80YH7ES",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-14T10:00:27.597206+00:00",
-  "started_at": "2026-10-14T07:05:44+00:00",
-  "status": "resolved",
-  "title": "Degraded performance in Codex and ChatGPT Work",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES"
  }
 ]

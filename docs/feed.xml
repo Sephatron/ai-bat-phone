@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Lovable is a bit under the weather]]></title>
+<link>https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1</link>
+<guid isPermaLink='false'>lovable:01M6M0H10A8JQESE2WM178GTP1:opened:investigating:minor:2026-11-04T19:28:12+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 19:30:22 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Project previews failing to load or loading slowly for some users</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 04 Nov 2026 19:28:12 +0000</p><p>Some users are experiencing issues with project previews, including previews failing to load, loading slowly, or appearing blank. Our team is investigating and working to restore normal preview loading as quickly as possible.</p><p><a href="https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/7pwv28hvkmz8</link>
 <guid isPermaLink='false'>github:h02n9572mx9y:resolved:resolved:major:2026-11-04T18:16:08.388000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 26 Oct 2026 23:30:15 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 23 min · Opened: Mon, 26 Oct 2026 23:03:32 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5X78V6A284K8HS7EBR6SNN9">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
-<link>https://status.fireworks.ai/incidents/01M5X78V6A284K8HS7EBR6SNN9</link>
-<guid isPermaLink='false'>fireworks:01M5X78V6A284K8HS7EBR6SNN9:opened:investigating:minor:2026-10-26T23:03:32+00:00</guid>
-<pubDate>Mon, 26 Oct 2026 23:15:16 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 26 Oct 2026 23:03:32 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5X78V6A284K8HS7EBR6SNN9">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
