@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue that caused project previews to fail or load slowly for some users has been resolved. Previews are loading normally again. All systems are operating normally.",
+  "components": [],
+  "duration": "1h 34m",
+  "headline": "🟢 Lovable has stopped wobbling",
+  "id": "lovable:01M6M0H10A8JQESE2WM178GTP1:resolved:resolved:minor:2026-11-04T21:03:11+00:00",
+  "impact": "minor",
+  "incident_id": "01M6M0H10A8JQESE2WM178GTP1",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-04T21:15:21.025887+00:00",
+  "started_at": "2026-11-04T19:28:12+00:00",
+  "status": "resolved",
+  "title": "Project previews failing to load or loading slowly for some users",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1"
+ },
+ {
   "body": "Project previews are loading normally again. The issue caused previews to fail or load slowly for some users, mainly in the New York and New Jersey area. We are monitoring to make sure everything stays stable.",
   "components": [],
   "duration": "",
@@ -7768,24 +7786,6 @@
   "status": "resolved",
   "title": "Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M4WYPP5QA0CJ3JV76KH285K8:progress:monitoring:minor:2026-10-14T10:40:11+00:00",
-  "impact": "minor",
-  "incident_id": "01M4WYPP5QA0CJ3JV76KH285K8",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-14T10:45:21.742341+00:00",
-  "started_at": "2026-10-14T10:18:07+00:00",
-  "status": "monitoring",
-  "title": "Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8"
  }
 ]
