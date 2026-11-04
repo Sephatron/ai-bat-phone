@@ -2768,6 +2768,12 @@
    "status": "resolved",
    "updated_at": "2026-10-30T11:01:22+00:00"
   },
+  "elevenlabs:01M6JTCM4Z5S4DN3XB35SFZXHJ": {
+   "impact": "none",
+   "last_seen_at": "2026-11-04T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-04T08:21:42+00:00"
+  },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
    "last_seen_at": "2026-09-05T00:00:00+00:00",
