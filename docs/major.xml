@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is upright again. That took 55 min.]]></title>
+<link>https://stspg.io/pjgptg3cfc6n</link>
+<guid isPermaLink='false'>github:xr3myzj7ms51:resolved:resolved:major:2026-11-04T17:01:11.531000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 17:15:32 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions and Pages</strong></p><p>Impact: major · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 55 min · Opened: Wed, 04 Nov 2026 16:05:31 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/pjgptg3cfc6n">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/pjgptg3cfc6n</link>
 <guid isPermaLink='false'>github:xr3myzj7ms51:progress:monitoring:major:2026-11-04T16:49:27.387000+00:00</guid>
@@ -928,14 +936,6 @@
 <pubDate>Tue, 13 Oct 2026 22:30:36 +0000</pubDate>
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is upright again. That took 6d 4h.]]></title>
-<link>https://stspg.io/sjkw7njwf0mt</link>
-<guid isPermaLink='false'>anthropic:978mjkgw6mh7:resolved:resolved:major:2026-10-13T18:00:04.390000+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 18:00:28 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: Claude Console (platform.claude.com) · Duration: 6d 4h · Opened: Wed, 07 Oct 2026 13:25:04 +0000</p><p>This issue has been resolved.</p><p><a href="https://stspg.io/sjkw7njwf0mt">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

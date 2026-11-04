@@ -1,5 +1,27 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "55 min",
+  "headline": "🟢 GitHub is upright again. That took 55 min.",
+  "id": "github:xr3myzj7ms51:resolved:resolved:major:2026-11-04T17:01:11.531000+00:00",
+  "impact": "major",
+  "incident_id": "xr3myzj7ms51",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T17:15:32.158521+00:00",
+  "started_at": "2026-11-04T16:05:31.572000+00:00",
+  "status": "resolved",
+  "title": "Incident with Actions and Pages",
+  "transition": "resolved",
+  "url": "https://stspg.io/pjgptg3cfc6n"
+ },
+ {
   "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Webhooks",
@@ -7759,25 +7781,5 @@
   "title": "Maintenance: Scheduled Computer Maintenance",
   "transition": "opened",
   "url": "https://status.perplexity.com//incidents/01M4VBQY9921W0JWATY7NGPZ0A"
- },
- {
-  "body": "This issue has been resolved.",
-  "components": [
-   "Claude Console (platform.claude.com)"
-  ],
-  "duration": "6d 4h",
-  "headline": "🟢 Claude is upright again. That took 6d 4h.",
-  "id": "anthropic:978mjkgw6mh7:resolved:resolved:major:2026-10-13T18:00:04.390000+00:00",
-  "impact": "major",
-  "incident_id": "978mjkgw6mh7",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-13T18:00:28.198153+00:00",
-  "started_at": "2026-10-07T13:25:04.155000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors on platform.claude.com",
-  "transition": "resolved",
-  "url": "https://stspg.io/sjkw7njwf0mt"
  }
 ]
