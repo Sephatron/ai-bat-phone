@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Actions and Pages",
+  "components": [
+   "Actions",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub is sulking, mildly",
+  "id": "github:xr3myzj7ms51:opened:investigating:minor:2026-11-04T16:05:31.698000+00:00",
+  "impact": "minor",
+  "incident_id": "xr3myzj7ms51",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T16:11:21.354168+00:00",
+  "started_at": "2026-11-04T16:05:31.572000+00:00",
+  "status": "investigating",
+  "title": "Incident with Actions and Pages",
+  "transition": "opened",
+  "url": "https://stspg.io/pjgptg3cfc6n"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Git Operations",
@@ -7749,24 +7770,6 @@
   "status": "resolved",
   "title": "Multiple US endpoints experiencing timeouts and latency",
   "transition": "resolved",
-  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
- },
- {
-  "body": "Error rates have continued to stabilize. We are continuing to monitor the affected endpoints to ensure service remains steady.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 ElevenLabs has applied a fix and is holding its breath",
-  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T13:42:07+00:00",
-  "impact": "major",
-  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-13T13:45:27.770763+00:00",
-  "started_at": "2026-10-13T09:21:00+00:00",
-  "status": "monitoring",
-  "title": "Multiple US endpoints experiencing timeouts and latency",
-  "transition": "progress",
   "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
  }
 ]
