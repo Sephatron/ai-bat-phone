@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 04 Nov 2026 03:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 04:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/9mm2lj4p12lj</link>
+<guid isPermaLink='false'>moonshot:sdvr0k3d0j2n:opened:investigating:critical:2026-11-04T03:52:42.691000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 04:00:19 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/h0wf9xx54ljw</link>
@@ -936,14 +944,6 @@
 <pubDate>Tue, 13 Oct 2026 01:00:49 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service degradation — Grok Bot, IDE, and Cloud Agents</strong></p><p>Impact: critical · Status: monitoring · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>A fix has been implemented and services are recovering. Some users may still see intermittent errors while we monitor for full restoration.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Cursor is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/wb9c5pzxfnz6</link>
-<guid isPermaLink='false'>cursor:8nlyd6t95xjm:opened:investigating:critical:2026-10-13T00:28:16.532000+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 00:30:45 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service degradation — Grok Bot, IDE, and Cloud Agents</strong></p><p>Impact: critical · Status: investigating · Affects: Automations, Review Agents, CLI, Cloud Agents, IDE, Origin, Grok Bot · Opened: Tue, 13 Oct 2026 00:22:00 +0000</p><p>We are investigating a widespread issue affecting Cursor. Users may see errors or failed requests across the IDE, Cloud Agents, Automations, Grok Bot, and Origin. Our team is actively working to restore service.</p><p><a href="https://stspg.io/wb9c5pzxfnz6">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

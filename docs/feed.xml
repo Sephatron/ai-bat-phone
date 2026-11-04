@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 04 Nov 2026 03:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 04:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/9mm2lj4p12lj</link>
+<guid isPermaLink='false'>moonshot:sdvr0k3d0j2n:opened:investigating:critical:2026-11-04T03:52:42.691000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 04:00:19 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 25 Oct 2026 09:00:15 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 32 min · Opened: Sun, 25 Oct 2026 08:17:08 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 01:08 PT / 08:08 UTC to 01:29 PT / 08:29 UTC.</p><p><a href="https://stspg.io/y0gkl12ztjst">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/y0gkl12ztjst</link>
-<guid isPermaLink='false'>anthropic:vx06kp8wfpq2:progress:monitoring:major:2026-10-25T08:30:47.090000+00:00</guid>
-<pubDate>Sun, 25 Oct 2026 08:45:20 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 08:17:08 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/y0gkl12ztjst">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
