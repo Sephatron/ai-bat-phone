@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/18blsgwnbyy6</link>
+<guid isPermaLink='false'>github:smtdswd1h2w4:progress:monitoring:major:2026-11-04T11:43:52.052000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 11:45:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Pull Requests, Git Operations and Issues</strong></p><p>Impact: major · Status: monitoring · Affects: Git Operations, API Requests, Issues, Pull Requests, Actions · Opened: Wed, 04 Nov 2026 09:49:55 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/18blsgwnbyy6">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/18blsgwnbyy6</link>
 <guid isPermaLink='false'>github:smtdswd1h2w4:opened:investigating:major:2026-11-04T09:53:38.854000+00:00</guid>
@@ -928,14 +936,6 @@
 <pubDate>Tue, 13 Oct 2026 11:45:32 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: identified · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>We are still seeing elevated errors and timeouts on the affected endpoints, and requests may continue to fail. We are actively working with our data provider to restore full service and bring the endpoints back online.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
-<link>https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH</link>
-<guid isPermaLink='false'>elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T10:38:27+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 10:45:27 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Multiple US endpoints experiencing timeouts and latency</strong></p><p>Impact: major · Status: monitoring · Opened: Tue, 13 Oct 2026 09:21:00 +0000</p><p>Error rates are back to normal. We are monitoring the affected endpoints to confirm stability and are working with our data provider on a root cause analysis.</p><p><a href="https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

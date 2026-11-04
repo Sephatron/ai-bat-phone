@@ -1,5 +1,29 @@
 [
  {
+  "body": "The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Git Operations",
+   "API Requests",
+   "Issues",
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:smtdswd1h2w4:progress:monitoring:major:2026-11-04T11:43:52.052000+00:00",
+  "impact": "major",
+  "incident_id": "smtdswd1h2w4",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T11:45:19.184795+00:00",
+  "started_at": "2026-11-04T09:49:55.675000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Pull Requests, Git Operations and Issues",
+  "transition": "progress",
+  "url": "https://stspg.io/18blsgwnbyy6"
+ },
+ {
   "body": "We have not seen any further errors after the fix was applied. Users are now able to sign-in successfully again.",
   "components": [],
   "duration": "2h 30m",
@@ -7735,24 +7759,6 @@
   "published_at": "2026-10-13T11:45:32.487567+00:00",
   "started_at": "2026-10-13T09:21:00+00:00",
   "status": "identified",
-  "title": "Multiple US endpoints experiencing timeouts and latency",
-  "transition": "progress",
-  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
- },
- {
-  "body": "Error rates are back to normal. We are monitoring the affected endpoints to confirm stability and are working with our data provider on a root cause analysis.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 ElevenLabs has applied a fix and is holding its breath",
-  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:monitoring:major:2026-10-13T10:38:27+00:00",
-  "impact": "major",
-  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-13T10:45:27.129036+00:00",
-  "started_at": "2026-10-13T09:21:00+00:00",
-  "status": "monitoring",
   "title": "Multiple US endpoints experiencing timeouts and latency",
   "transition": "progress",
   "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
