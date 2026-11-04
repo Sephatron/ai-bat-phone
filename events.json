@@ -1,5 +1,28 @@
 [
  {
+  "body": "Pull Requests is experiencing degraded availability. We are continuing to investigate.",
+  "components": [
+   "Git Operations",
+   "Issues",
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🔴 GitHub has gone dark. Nothing you did. Probably.",
+  "id": "github:smtdswd1h2w4:opened:investigating:major:2026-11-04T09:53:38.854000+00:00",
+  "impact": "major",
+  "incident_id": "smtdswd1h2w4",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T10:00:20.492950+00:00",
+  "started_at": "2026-11-04T09:49:55.675000+00:00",
+  "status": "investigating",
+  "title": "Incident with Pull Requests, Git Operations and Issues",
+  "transition": "opened",
+  "url": "https://stspg.io/18blsgwnbyy6"
+ },
+ {
   "body": "We have identified the cause of the sign-in errors and are working on a fix.",
   "components": [],
   "duration": "",
@@ -7733,23 +7756,5 @@
   "title": "Multiple endpoints experiencing timeouts and latency",
   "transition": "opened",
   "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
- },
- {
-  "body": "Degraded performance on GPT 6.1 Sol Codex and Work mode",
-  "components": [],
-  "duration": "",
-  "headline": "🔺 OpenAI went from annoying to actual",
-  "id": "openai:01M4T4ZCM54D3ZPTQXRSWFG0XS:escalated:investigating:minor:2026-10-13T08:18:33+00:00",
-  "impact": "minor",
-  "incident_id": "01M4T4ZCM54D3ZPTQXRSWFG0XS",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-13T08:22:13.671191+00:00",
-  "started_at": "2026-10-13T08:10:00+00:00",
-  "status": "investigating",
-  "title": "Degraded performance in GPT-6.1 Sol Work mode",
-  "transition": "escalated",
-  "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
  }
 ]

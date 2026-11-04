@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 04 Nov 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/18blsgwnbyy6</link>
+<guid isPermaLink='false'>github:smtdswd1h2w4:opened:investigating:major:2026-11-04T09:53:38.854000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 10:00:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Pull Requests, Git Operations and Issues</strong></p><p>Impact: major · Status: investigating · Affects: Git Operations, Issues, Pull Requests, Actions · Opened: Wed, 04 Nov 2026 09:49:55 +0000</p><p>Pull Requests is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/18blsgwnbyy6">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/9mm2lj4p12lj</link>
