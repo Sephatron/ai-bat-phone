@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
+<link>https://stspg.io/7pwv28hvkmz8</link>
+<guid isPermaLink='false'>github:h02n9572mx9y:opened:investigating:major:2026-11-04T17:40:33.890000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 17:45:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: major · Status: investigating · Affects: Actions · Opened: Wed, 04 Nov 2026 17:40:33 +0000</p><p>We are investigating reports of degraded availability for Actions</p><p><a href="https://stspg.io/7pwv28hvkmz8">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is upright again. That took 55 min.]]></title>
 <link>https://stspg.io/pjgptg3cfc6n</link>
 <guid isPermaLink='false'>github:xr3myzj7ms51:resolved:resolved:major:2026-11-04T17:01:11.531000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 26 Oct 2026 22:15:22 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Degraded codebase indexing and agent personalization</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, CLI, IDE · Opened: Mon, 26 Oct 2026 22:02:31 +0000</p><p>We're investigating an issue affecting codebase indexing and saved rules and memories. Codebase indexes may not update, and agents may respond without your saved rules or memories. Chat, agents, and Tab are otherwise available. We're working with our infrastructure provider and will share updates as we learn more.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 Baseten has scheduled a lie-down]]></title>
-<link>https://stspg.io/0rvb1mr214kw</link>
-<guid isPermaLink='false'>baseten:5m8bp9gdvlqz:opened:scheduled:maintenance:2026-10-26T22:06:05.733000+00:00</guid>
-<pubDate>Mon, 26 Oct 2026 22:15:22 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: Model Management API, Web Application · Opened: Mon, 26 Oct 2026 22:06:05 +0000</p><p>We will be performing a database upgrade between 9:00 PM and 10:00 PM PDT. During this window, you may experience a brief interruption of approximately 5-10 minutes at some point during this hour, impacting new model deploys along with some pages in the application and REST API endpoints. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.</p><p><a href="https://stspg.io/0rvb1mr214kw">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

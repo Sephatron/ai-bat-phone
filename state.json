@@ -3932,6 +3932,12 @@
    "status": "resolved",
    "updated_at": "2026-07-17T00:57:46.197000+00:00"
   },
+  "github:h02n9572mx9y": {
+   "impact": "major",
+   "last_seen_at": "2026-11-04T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-04T17:40:33.890000+00:00"
+  },
   "github:hcbtzksccj2f": {
    "impact": "minor",
    "last_seen_at": "2026-11-04T00:00:00+00:00",

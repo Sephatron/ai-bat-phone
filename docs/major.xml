@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
+<link>https://stspg.io/7pwv28hvkmz8</link>
+<guid isPermaLink='false'>github:h02n9572mx9y:opened:investigating:major:2026-11-04T17:40:33.890000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 17:45:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: major · Status: investigating · Affects: Actions · Opened: Wed, 04 Nov 2026 17:40:33 +0000</p><p>We are investigating reports of degraded availability for Actions</p><p><a href="https://stspg.io/7pwv28hvkmz8">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is upright again. That took 55 min.]]></title>
 <link>https://stspg.io/pjgptg3cfc6n</link>
 <guid isPermaLink='false'>github:xr3myzj7ms51:resolved:resolved:major:2026-11-04T17:01:11.531000+00:00</guid>
