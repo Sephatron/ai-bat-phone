@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have not seen any further errors after the fix was applied. Users are now able to sign-in successfully again.",
+  "components": [],
+  "duration": "2h 30m",
+  "headline": "🟢 ElevenLabs has stopped wobbling",
+  "id": "elevenlabs:01M6JTCM4Z5S4DN3XB35SFZXHJ:resolved:resolved:none:2026-11-04T10:52:22+00:00",
+  "impact": "none",
+  "incident_id": "01M6JTCM4Z5S4DN3XB35SFZXHJ",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-04T11:30:20.137392+00:00",
+  "started_at": "2026-11-04T08:21:42+00:00",
+  "status": "resolved",
+  "title": "Intermittent Sign in issue",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ"
+ },
+ {
   "body": "The fix has been released and sign-in should be working as usual. We are currently monitoring the situation",
   "components": [],
   "duration": "",
@@ -7735,24 +7753,6 @@
   "published_at": "2026-10-13T10:45:27.129036+00:00",
   "started_at": "2026-10-13T09:21:00+00:00",
   "status": "monitoring",
-  "title": "Multiple US endpoints experiencing timeouts and latency",
-  "transition": "progress",
-  "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
- },
- {
-  "body": "We’re seeing error rates rise again, so calls may still fail or experience increased latency.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 ElevenLabs has identified the problem. Fix pending.",
-  "id": "elevenlabs:01M4T91CTNSTQ93Q2Q31VQDBWH:progress:identified:major:2026-10-13T09:57:40+00:00",
-  "impact": "major",
-  "incident_id": "01M4T91CTNSTQ93Q2Q31VQDBWH",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-13T10:00:32.443509+00:00",
-  "started_at": "2026-10-13T09:21:00+00:00",
-  "status": "identified",
   "title": "Multiple US endpoints experiencing timeouts and latency",
   "transition": "progress",
   "url": "https://status.elevenlabs.io/incidents/01M4T91CTNSTQ93Q2Q31VQDBWH"
