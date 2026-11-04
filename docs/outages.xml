@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/9mm2lj4p12lj</link>
+<guid isPermaLink='false'>moonshot:sdvr0k3d0j2n:resolved:resolved:critical:2026-11-04T04:02:41.236000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 04:15:21 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 9 min · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/9mm2lj4p12lj</link>
 <guid isPermaLink='false'>moonshot:sdvr0k3d0j2n:opened:investigating:critical:2026-11-04T03:52:42.691000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 25 Oct 2026 08:30:21 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 08:17:08 +0000</p><p>We have identified the cause of elevated errors on requests to Claude Fable 5.1 and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/y0gkl12ztjst">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Claude after 1h 39m]]></title>
-<link>https://stspg.io/s3wd6gmdsdhn</link>
-<guid isPermaLink='false'>anthropic:334jvgbrc4ff:resolved:resolved:major:2026-10-25T07:53:39.036000+00:00</guid>
-<pubDate>Sun, 25 Oct 2026 08:00:22 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5 and other models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 39m · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 23:05 PT on October 24 / 06:05 UTC on October 25 to 23:35 PT on October 24 / 06:35 UTC on October 25.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

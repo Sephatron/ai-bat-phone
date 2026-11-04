@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "9 min",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:sdvr0k3d0j2n:resolved:resolved:critical:2026-11-04T04:02:41.236000+00:00",
+  "impact": "critical",
+  "incident_id": "sdvr0k3d0j2n",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-04T04:15:21.444655+00:00",
+  "started_at": "2026-11-04T03:52:42.590000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 TTFT 响应延迟升高",
+  "transition": "resolved",
+  "url": "https://stspg.io/9mm2lj4p12lj"
+ },
+ {
   "body": "K3 部分请求的 TTFT 延迟可能升高",
   "components": [
    "K3"
@@ -7739,32 +7759,6 @@
   "status": "resolved",
   "title": "Degraded performance and errors across Cursor services",
   "transition": "resolved",
-  "url": "https://stspg.io/wb9c5pzxfnz6"
- },
- {
-  "body": "A fix has been implemented and services are recovering. Some users may still see intermittent errors while we monitor for full restoration.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "CLI",
-   "Cloud Agents",
-   "IDE",
-   "Origin",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor has applied a fix and is holding its breath",
-  "id": "cursor:8nlyd6t95xjm:progress:monitoring:critical:2026-10-13T00:53:06.797000+00:00",
-  "impact": "critical",
-  "incident_id": "8nlyd6t95xjm",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-13T01:00:49.646655+00:00",
-  "started_at": "2026-10-13T00:22:00+00:00",
-  "status": "monitoring",
-  "title": "Investigating service degradation — Grok Bot, IDE, and Cloud Agents",
-  "transition": "progress",
   "url": "https://stspg.io/wb9c5pzxfnz6"
  }
 ]

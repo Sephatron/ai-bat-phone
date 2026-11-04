@@ -5225,8 +5225,8 @@
   "moonshot:sdvr0k3d0j2n": {
    "impact": "critical",
    "last_seen_at": "2026-11-04T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-04T03:52:42.691000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-04T04:02:41.236000+00:00"
   },
   "moonshot:sfh6f6vy43qf": {
    "impact": "critical",
