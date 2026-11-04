@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/7pwv28hvkmz8</link>
+<guid isPermaLink='false'>github:h02n9572mx9y:progress:monitoring:major:2026-11-04T18:07:51.139000+00:00</guid>
+<pubDate>Wed, 04 Nov 2026 18:15:21 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: major · Status: monitoring · Affects: Actions · Opened: Wed, 04 Nov 2026 17:40:33 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/7pwv28hvkmz8">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
 <link>https://stspg.io/7pwv28hvkmz8</link>
 <guid isPermaLink='false'>github:h02n9572mx9y:opened:investigating:major:2026-11-04T17:40:33.890000+00:00</guid>
@@ -936,14 +944,6 @@
 <pubDate>Thu, 15 Oct 2026 02:01:05 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read DeepSeek's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.deepseek.com/history.rss returned HTTP 502</p><p><a href="https://status.deepseek.com">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Perplexity is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:unreachable:2026-10-13T22:00:00+00:00</guid>
-<pubDate>Tue, 13 Oct 2026 22:30:36 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Perplexity's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.perplexity.com/history.rss: 1 recent entry(s) in an unrecognised format</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
