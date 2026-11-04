@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "35 min",
+  "headline": "🟢 GitHub is back. Grass sufficiently touched.",
+  "id": "github:h02n9572mx9y:resolved:resolved:major:2026-11-04T18:16:08.388000+00:00",
+  "impact": "major",
+  "incident_id": "h02n9572mx9y",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T18:30:23.993908+00:00",
+  "started_at": "2026-11-04T17:40:33.662000+00:00",
+  "status": "resolved",
+  "title": "Incident with Actions",
+  "transition": "resolved",
+  "url": "https://stspg.io/7pwv28hvkmz8"
+ },
+ {
   "body": "The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Actions"
@@ -7766,24 +7786,6 @@
   "status": "resolved",
   "title": "Degraded performance in Codex and ChatGPT Work",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES"
- },
- {
-  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI knows what it did",
-  "id": "openai:01M4WKPE1EY48ZB4RZJ80YH7ES:opened:identified:minor:2026-10-14T07:05:44+00:00",
-  "impact": "minor",
-  "incident_id": "01M4WKPE1EY48ZB4RZJ80YH7ES",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-14T07:15:22.069206+00:00",
-  "started_at": "2026-10-14T07:05:44+00:00",
-  "status": "identified",
-  "title": "Degraded performance in Codex and ChatGPT Work",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4WKPE1EY48ZB4RZJ80YH7ES"
  }
 ]
