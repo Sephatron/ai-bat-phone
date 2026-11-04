@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "20h 05m",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M6G9F3VBRSPKTQVYT74MXAJT:resolved:resolved:minor:2026-11-04T04:52:56+00:00",
+  "impact": "minor",
+  "incident_id": "01M6G9F3VBRSPKTQVYT74MXAJT",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-04T05:00:33.048560+00:00",
+  "started_at": "2026-11-03T08:47:29+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "K3"
@@ -7733,32 +7751,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4STMJGTARGF3FM095HVYP4S"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "Review Agents",
-   "CLI",
-   "Cloud Agents",
-   "cursor.com",
-   "IDE",
-   "Origin",
-   "Grok Bot"
-  ],
-  "duration": "2h 45m",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:8nlyd6t95xjm:resolved:resolved:minor:2026-10-13T03:07:41.223000+00:00",
-  "impact": "minor",
-  "incident_id": "8nlyd6t95xjm",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-13T03:15:44.885036+00:00",
-  "started_at": "2026-10-13T00:22:00+00:00",
-  "status": "resolved",
-  "title": "Degraded performance and errors across Cursor services",
-  "transition": "resolved",
-  "url": "https://stspg.io/wb9c5pzxfnz6"
  }
 ]
