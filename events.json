@@ -1,5 +1,23 @@
 [
  {
+  "body": "Project previews are loading normally again. The issue caused previews to fail or load slowly for some users, mainly in the New York and New Jersey area. We are monitoring to make sure everything stays stable.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Lovable thinks it's fixed and is watching nervously",
+  "id": "lovable:01M6M0H10A8JQESE2WM178GTP1:progress:monitoring:minor:2026-11-04T20:28:10+00:00",
+  "impact": "minor",
+  "incident_id": "01M6M0H10A8JQESE2WM178GTP1",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-04T20:30:20.557399+00:00",
+  "started_at": "2026-11-04T19:28:12+00:00",
+  "status": "monitoring",
+  "title": "Project previews failing to load or loading slowly for some users",
+  "transition": "progress",
+  "url": "https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1"
+ },
+ {
   "body": "Some users are experiencing issues with project previews, including previews failing to load, loading slowly, or appearing blank. Our team is investigating and working to restore normal preview loading as quickly as possible.",
   "components": [],
   "duration": "",
@@ -7768,24 +7786,6 @@
   "status": "monitoring",
   "title": "Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8"
- },
- {
-  "body": "We are investigating limited availability when using gpt-image-2.5-flare and gpt-image-2.5-sunburst in the API.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M4WYPP5QA0CJ3JV76KH285K8:opened:investigating:minor:2026-10-14T10:18:07+00:00",
-  "impact": "minor",
-  "incident_id": "01M4WYPP5QA0CJ3JV76KH285K8",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-14T10:30:24.075490+00:00",
-  "started_at": "2026-10-14T10:18:07+00:00",
-  "status": "investigating",
-  "title": "Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4WYPP5QA0CJ3JV76KH285K8"
  }
 ]
