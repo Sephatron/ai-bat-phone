@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating reports of impacted performance for some GitHub services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is sulking, mildly",
+  "id": "github:tc28c0wzrnpz:opened:investigating:minor:2026-11-04T08:45:00.349000+00:00",
+  "impact": "minor",
+  "incident_id": "tc28c0wzrnpz",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-04T08:45:20.152613+00:00",
+  "started_at": "2026-11-04T08:45:00.272000+00:00",
+  "status": "investigating",
+  "title": "Increased task-related errors for Copilot Mission Control",
+  "transition": "opened",
+  "url": "https://stspg.io/hj74883wgn0t"
+ },
+ {
   "body": "We are currently investigating an issue affecting password-based sign-ins. Other sign-in methods are working as expected.",
   "components": [],
   "duration": "",
@@ -7733,23 +7751,5 @@
   "title": "Degraded performance in GPT-6.1 Sol Work mode",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "2h 44m",
-  "headline": "🟢 Fireworks AI has stopped wobbling",
-  "id": "fireworks:01M4STMJGTARGF3FM095HVYP4S:resolved:resolved:minor:2026-10-13T07:54:02+00:00",
-  "impact": "minor",
-  "incident_id": "01M4STMJGTARGF3FM095HVYP4S",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-13T08:00:32.379704+00:00",
-  "started_at": "2026-10-13T05:09:20+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4STMJGTARGF3FM095HVYP4S"
  }
 ]

@@ -4190,6 +4190,12 @@
    "status": "completed",
    "updated_at": "2020-09-30T10:00:30.126000+00:00"
   },
+  "github:tc28c0wzrnpz": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-04T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-04T08:45:00.349000+00:00"
+  },
   "github:tldgc85p3q2d": {
    "impact": "maintenance",
    "last_seen_at": "2026-11-04T00:00:00+00:00",
