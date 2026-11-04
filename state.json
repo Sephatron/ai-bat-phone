@@ -4910,6 +4910,12 @@
    "status": "resolved",
    "updated_at": "2026-08-12T22:19:13.442000+00:00"
   },
+  "moonshot:7hk6lf4sknrn": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-04T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-04T12:43:15.133000+00:00"
+  },
   "moonshot:7sn4q5bzxhtn": {
    "impact": "critical",
    "last_seen_at": "2026-10-26T00:00:00+00:00",
