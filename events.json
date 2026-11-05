@@ -1,5 +1,43 @@
 [
  {
+  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M6P50GPP1V98EF8MJ9SH393R:progress:monitoring:minor:2026-11-05T17:05:56+00:00",
+  "impact": "minor",
+  "incident_id": "01M6P50GPP1V98EF8MJ9SH393R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-05T17:15:47.733560+00:00",
+  "started_at": "2026-11-05T15:25:03+00:00",
+  "status": "monitoring",
+  "title": "ChatGPT Work and Dots Errors",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R"
+ },
+ {
+  "body": "The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:t89g2q1800fr:progress:monitoring:minor:2026-11-05T17:04:46.838000+00:00",
+  "impact": "minor",
+  "incident_id": "t89g2q1800fr",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-05T17:15:47.733560+00:00",
+  "started_at": "2026-11-05T16:50:11.078000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Actions",
+  "transition": "progress",
+  "url": "https://stspg.io/lv4q3xm9r0rk"
+ },
+ {
   "body": "Some GitHub Actions workflow runs may experience delays or errors when starting. We’re investigating and preparing a mitigation.",
   "components": [
    "Actions"
@@ -7754,41 +7792,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7"
- },
- {
-  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is sulking, mildly",
-  "id": "fireworks:01M4Z9QK2TA2WWB04KWSXHQDEG:opened:investigating:minor:2026-10-15T08:09:20+00:00",
-  "impact": "minor",
-  "incident_id": "01M4Z9QK2TA2WWB04KWSXHQDEG",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-15T08:16:01.500107+00:00",
-  "started_at": "2026-10-15T08:09:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M4Z9QK2TA2WWB04KWSXHQDEG"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "1h 20m",
-  "headline": "🟢 Fireworks AI has stopped wobbling",
-  "id": "fireworks:01M4Z4XSABKWG52NRT1VW5ZX4A:resolved:resolved:minor:2026-10-15T08:05:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M4Z4XSABKWG52NRT1VW5ZX4A",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-15T08:16:01.500107+00:00",
-  "started_at": "2026-10-15T06:45:20+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4Z4XSABKWG52NRT1VW5ZX4A"
  }
 ]

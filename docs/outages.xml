@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
+<link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
+<guid isPermaLink='false'>openai:01M6P50GPP1V98EF8MJ9SH393R:progress:monitoring:minor:2026-11-05T17:05:56+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 17:15:47 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/lv4q3xm9r0rk</link>
+<guid isPermaLink='false'>github:t89g2q1800fr:progress:monitoring:minor:2026-11-05T17:04:46.838000+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 17:15:47 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: monitoring · Affects: Actions · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
 <link>https://stspg.io/lv4q3xm9r0rk</link>
 <guid isPermaLink='false'>github:t89g2q1800fr:opened:investigating:minor:2026-11-05T16:52:52.696000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 27 Oct 2026 15:45:18 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>6.1 Sol Degraded Model Performance</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 27 Oct 2026 15:02:15 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Claude has found the culprit]]></title>
-<link>https://stspg.io/39x7qh3sd7bd</link>
-<guid isPermaLink='false'>anthropic:lqhknfdjrcst:opened:identified:major:2026-10-27T15:09:09.162000+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 15:15:17 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 27 Oct 2026 15:09:08 +0000</p><p>We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/39x7qh3sd7bd">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is a bit under the weather]]></title>
-<link>https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10</link>
-<guid isPermaLink='false'>openai:01M5YY4A3TQETEQ53DVSK8SW10:opened:investigating:minor:2026-10-27T15:02:15+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 15:15:17 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>6.1 Sol Degraded Model Performance</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 27 Oct 2026 15:02:15 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
