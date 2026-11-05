@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "52 min",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:t89g2q1800fr:resolved:resolved:minor:2026-11-05T17:42:35.455000+00:00",
+  "impact": "minor",
+  "incident_id": "t89g2q1800fr",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-05T17:45:48.531086+00:00",
+  "started_at": "2026-11-05T16:50:11.078000+00:00",
+  "status": "resolved",
+  "title": "Incident with Actions",
+  "transition": "resolved",
+  "url": "https://stspg.io/lv4q3xm9r0rk"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7773,24 +7793,6 @@
   "status": "resolved",
   "title": "Service Degradation for Kimi K3",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:opened:investigating:minor:2026-10-15T08:48:20+00:00",
-  "impact": "minor",
-  "incident_id": "01M4ZBZ09ARYY7745HM7YCZHW7",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-15T09:01:14.396593+00:00",
-  "started_at": "2026-10-15T08:48:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7"
  }
 ]
