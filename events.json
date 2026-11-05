@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "45 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M6MG8Y814H1JZ08FFEGE35D9:resolved:resolved:minor:2026-11-05T00:49:09+00:00",
+  "impact": "minor",
+  "incident_id": "01M6MG8Y814H1JZ08FFEGE35D9",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-05T01:00:19.062788+00:00",
+  "started_at": "2026-11-05T00:03:25+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Muse Spark Open US",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M6MG8Y814H1JZ08FFEGE35D9"
+ },
+ {
   "body": "We are currently investigating errors with Grok Bot.",
   "components": [
    "Grok Bot"
@@ -7765,25 +7783,5 @@
   "title": "Service Degradation for Deepseek V4.1 Flash",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "5h 18m",
-  "headline": "🟢 Cursor sorted itself out after 5h 18m",
-  "id": "cursor:6y0yq43mvwg2:resolved:resolved:minor:2026-10-14T21:04:46.631000+00:00",
-  "impact": "minor",
-  "incident_id": "6y0yq43mvwg2",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-14T21:16:07.016620+00:00",
-  "started_at": "2026-10-14T15:46:23.651000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/tp05ff30h17j"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 05 Nov 2026 00:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 01:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M6MG8Y814H1JZ08FFEGE35D9</link>
+<guid isPermaLink='false'>fireworks:01M6MG8Y814H1JZ08FFEGE35D9:resolved:resolved:minor:2026-11-05T00:49:09+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 01:00:19 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: resolved · Duration: 45 min · Opened: Thu, 05 Nov 2026 00:03:25 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6MG8Y814H1JZ08FFEGE35D9">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Cursor is having a wobble]]></title>
 <link>https://status.x.ai/history?incident=grok-bot%2Fps_c0cee9e504398968</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 27 Oct 2026 07:45:20 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors affecting repository integrations</strong></p><p>Impact: unclassified · Status: investigating · Affects: Automations, BugBot, Cloud Agents, Origin, Review Agents · Opened: Tue, 27 Oct 2026 07:33:08 +0000</p><p>We are investigating elevated errors affecting some repository integrations. Features that rely on repository access, including review agents and cloud agents, may fail or be delayed. We are working to restore normal service.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
-<link>https://status.deepseek.com/incidents/7170710513287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7170710513287:resolved:resolved:minor:2026-10-27T07:30:21.905480+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 07:30:21 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek API 性能下降（DeepSeek API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4 Pro API服务(API Service) · Opened: Tue, 27 Oct 2026 07:07:39 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7170710513287">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
