@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M6MG8Y814H1JZ08FFEGE35D9</link>
+<guid isPermaLink='false'>fireworks:01M6MG8Y814H1JZ08FFEGE35D9:opened:investigating:minor:2026-11-05T00:03:25+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 00:15:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 05 Nov 2026 00:03:25 +0000</p><p>We are seeing impacted performance for Muse Spark Open US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6MG8Y814H1JZ08FFEGE35D9">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M6MBCX427A7113A3T4FJ1N6Y</link>
 <guid isPermaLink='false'>openai:01M6MBCX427A7113A3T4FJ1N6Y:progress:monitoring:minor:2026-11-04T22:49:34+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 27 Oct 2026 07:30:21 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>DeepSeek API 性能下降（DeepSeek API Degraded Performance）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4 Pro API服务(API Service) · Opened: Tue, 27 Oct 2026 07:07:39 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7170710513287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 DeepSeek has a limp, not a break]]></title>
-<link>https://status.deepseek.com/incidents/7170710513287</link>
-<guid isPermaLink='false'>deepseek:urn:flashduty:change:7170710513287:opened:investigating:minor:2026-10-27T07:15:18.140066+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 07:15:18 +0000</pubDate>
-<category>DeepSeek</category>
-<description><![CDATA[<p><strong>DeepSeek 网页/API 性能下降（DeepSeek Web/API Degraded Performance）</strong></p><p>Impact: minor · Status: investigating · Affects: DeepSeek V4 Pro API服务(API Service) · Opened: Tue, 27 Oct 2026 07:07:39 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7170710513287">DeepSeek status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

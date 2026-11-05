@@ -3566,6 +3566,12 @@
    "status": "resolved",
    "updated_at": "2026-11-04T17:57:10+00:00"
   },
+  "fireworks:01M6MG8Y814H1JZ08FFEGE35D9": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-05T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-05T00:03:25+00:00"
+  },
   "github:0f6hndclsk21": {
    "impact": "minor",
    "last_seen_at": "2026-09-14T00:00:00+00:00",
@@ -4116,7 +4122,7 @@
    "impact": "minor",
    "last_seen_at": "2026-11-05T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-10-29T12:25:11.235000+00:00"
+   "updated_at": "2026-11-05T00:04:42.627000+00:00"
   },
   "github:qcvjkzcs7j74": {
    "impact": "critical",

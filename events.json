@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M6MG8Y814H1JZ08FFEGE35D9:opened:investigating:minor:2026-11-05T00:03:25+00:00",
+  "impact": "minor",
+  "incident_id": "01M6MG8Y814H1JZ08FFEGE35D9",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-05T00:15:20.137217+00:00",
+  "started_at": "2026-11-05T00:03:25+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Muse Spark Open US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6MG8Y814H1JZ08FFEGE35D9"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7767,23 +7785,5 @@
   "title": "Delayed Costs data in the Compliance API",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
- },
- {
-  "body": "[Investigating] We are investigating an issue affecting Agent’s access to saved personal memory and preferences. Some users may experience delays or find that previously saved preferences are temporarily unavailable to Agent. We are working to mitigate the issue and will provide an update as we learn more.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is a bit under the weather",
-  "id": "replit:6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f:opened:investigating:minor:2026-10-14T16:15:18.853739+00:00",
-  "impact": "minor",
-  "incident_id": "6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-14T16:15:18.853739+00:00",
-  "started_at": "2026-10-14T16:01:44+00:00",
-  "status": "investigating",
-  "title": "Degraded access to Agent personal memory",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/6cefd2ab-9e68-4cad-a3d9-d9d52e6bb06f"
  }
 ]
