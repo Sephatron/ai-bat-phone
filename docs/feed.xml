@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Vercel is sulking, mildly]]></title>
+<link>https://stspg.io/y6fmg7s9m5t2</link>
+<guid isPermaLink='false'>vercel:w661l7k3kf4p:opened:investigating:minor:2026-11-05T18:25:10.766000+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 18:30:48 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Build delays and degraded Vercel Dashboard performance</strong></p><p>Impact: minor · Status: investigating · Affects: Dashboard, Builds · Opened: Thu, 05 Nov 2026 18:25:10 +0000</p><p>We've identified an issue where some customers may experience delayed builds, slow page loads, and failed actions in the Vercel Dashboard. We are investigating the cause. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/y6fmg7s9m5t2">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
 <link>https://stspg.io/lv4q3xm9r0rk</link>
 <guid isPermaLink='false'>github:t89g2q1800fr:resolved:resolved:minor:2026-11-05T17:42:35.455000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 03:45:20 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Degraded Performace on ChatGPT Work</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 28 Oct 2026 03:39:58 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M609FPNJF29J5GDH979ZDYYK">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/w9sby180qxln</link>
-<guid isPermaLink='false'>moonshot:1g6myg5cjckm:opened:investigating:critical:2026-10-28T02:33:41.954000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 02:45:16 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 02:33:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/w9sby180qxln">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

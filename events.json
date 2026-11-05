@@ -1,5 +1,26 @@
 [
  {
+  "body": "We've identified an issue where some customers may experience delayed builds, slow page loads, and failed actions in the Vercel Dashboard. We are investigating the cause. We will provide additional updates as they become available.",
+  "components": [
+   "Dashboard",
+   "Builds"
+  ],
+  "duration": "",
+  "headline": "🟠 Vercel is sulking, mildly",
+  "id": "vercel:w661l7k3kf4p:opened:investigating:minor:2026-11-05T18:25:10.766000+00:00",
+  "impact": "minor",
+  "incident_id": "w661l7k3kf4p",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-11-05T18:30:48.797362+00:00",
+  "started_at": "2026-11-05T18:25:10.513000+00:00",
+  "status": "investigating",
+  "title": "Build delays and degraded Vercel Dashboard performance",
+  "transition": "opened",
+  "url": "https://stspg.io/y6fmg7s9m5t2"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Actions"
@@ -7776,23 +7797,5 @@
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M4Z9QK2TA2WWB04KWSXHQDEG"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "17 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M4ZBZ09ARYY7745HM7YCZHW7:resolved:resolved:minor:2026-10-15T09:05:34+00:00",
-  "impact": "minor",
-  "incident_id": "01M4ZBZ09ARYY7745HM7YCZHW7",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-15T09:16:01.325555+00:00",
-  "started_at": "2026-10-15T08:48:20+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4ZBZ09ARYY7745HM7YCZHW7"
  }
 ]
