@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M6MM78SF1PY8AWBV2QAYR02W:opened:investigating:minor:2026-11-05T01:12:24+00:00",
+  "impact": "minor",
+  "incident_id": "01M6MM78SF1PY8AWBV2QAYR02W",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-05T01:15:19.479316+00:00",
+  "started_at": "2026-11-05T01:12:24+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Muse Spark Open US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6MM78SF1PY8AWBV2QAYR02W"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "45 min",
@@ -7764,24 +7782,6 @@
   "status": "resolved",
   "title": "Service Degradation for Deepseek V4.1 Flash",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C"
- },
- {
-  "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is a bit under the weather",
-  "id": "fireworks:01M4Y8R9SYHNJK4SBJWZT2K43C:opened:investigating:minor:2026-10-14T22:33:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M4Y8R9SYHNJK4SBJWZT2K43C",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-14T22:46:04.228837+00:00",
-  "started_at": "2026-10-14T22:33:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Deepseek V4.1 Flash",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M4Y8R9SYHNJK4SBJWZT2K43C"
  }
 ]
