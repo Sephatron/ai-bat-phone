@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "9 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 9 min",
+  "id": "fireworks:01M6MWGS2B9Z97PCKRDM8V0NJ5:resolved:resolved:minor:2026-11-05T03:47:06+00:00",
+  "impact": "minor",
+  "incident_id": "01M6MWGS2B9Z97PCKRDM8V0NJ5",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-05T04:00:20.334565+00:00",
+  "started_at": "2026-11-05T03:37:24+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Muse Spark Open US",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M6MWGS2B9Z97PCKRDM8V0NJ5"
+ },
+ {
   "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7763,27 +7781,6 @@
   "status": "identified",
   "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
   "transition": "progress",
-  "url": "https://status.deepseek.com/incidents/7116348214287"
- },
- {
-  "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)",
-  "components": [
-   "DeepSeek V4.1 Flash API服务(API Service)",
-   "对话服务(Chatservice)"
-  ],
-  "duration": "",
-  "headline": "🟠 DeepSeek is a bit under the weather",
-  "id": "deepseek:urn:flashduty:change:7116348214287:opened:investigating:minor:2026-10-15T00:16:02.276292+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:7116348214287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-15T00:16:02.276292+00:00",
-  "started_at": "2026-10-15T00:11:35+00:00",
-  "status": "investigating",
-  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
-  "transition": "opened",
   "url": "https://status.deepseek.com/incidents/7116348214287"
  }
 ]
