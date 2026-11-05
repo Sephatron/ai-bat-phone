@@ -1,5 +1,43 @@
 [
  {
+  "body": "Some GitHub Actions workflow runs may experience delays or errors when starting. We’re investigating and preparing a mitigation.",
+  "components": [
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:t89g2q1800fr:opened:investigating:minor:2026-11-05T16:52:52.696000+00:00",
+  "impact": "minor",
+  "incident_id": "t89g2q1800fr",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-05T17:00:49.238657+00:00",
+  "started_at": "2026-11-05T16:50:11.078000+00:00",
+  "status": "investigating",
+  "title": "Incident with Actions",
+  "transition": "opened",
+  "url": "https://stspg.io/lv4q3xm9r0rk"
+ },
+ {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M6P50GPP1V98EF8MJ9SH393R:progress:identified:minor:2026-11-05T16:57:41+00:00",
+  "impact": "minor",
+  "incident_id": "01M6P50GPP1V98EF8MJ9SH393R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-05T17:00:49.238657+00:00",
+  "started_at": "2026-11-05T15:25:03+00:00",
+  "status": "identified",
+  "title": "ChatGPT Work and Dots Errors",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R"
+ },
+ {
   "body": "This issue has been resolved",
   "components": [
    "Automations",
@@ -7752,45 +7790,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M4Z4XSABKWG52NRT1VW5ZX4A"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M4Z4XSABKWG52NRT1VW5ZX4A:opened:investigating:minor:2026-10-15T06:45:20+00:00",
-  "impact": "minor",
-  "incident_id": "01M4Z4XSABKWG52NRT1VW5ZX4A",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-15T06:46:01.506265+00:00",
-  "started_at": "2026-10-15T06:45:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M4Z4XSABKWG52NRT1VW5ZX4A"
- },
- {
-  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)",
-  "components": [
-   "对话服务(Chatservice)",
-   "DeepSeek V4.1 Flash API服务(API Service)",
-   "DeepSeek V4 Pro API服务(API Service)"
-  ],
-  "duration": "",
-  "headline": "🟢 DeepSeek has stopped wobbling",
-  "id": "deepseek:urn:flashduty:change:7116348214287:resolved:resolved:minor:2026-10-15T05:16:02.592974+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:7116348214287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-15T05:16:02.592974+00:00",
-  "started_at": "2026-10-15T00:11:35+00:00",
-  "status": "resolved",
-  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
-  "transition": "resolved",
-  "url": "https://status.deepseek.com/incidents/7116348214287"
  }
 ]

@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 05 Nov 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
+<link>https://stspg.io/lv4q3xm9r0rk</link>
+<guid isPermaLink='false'>github:t89g2q1800fr:opened:investigating:minor:2026-11-05T16:52:52.696000+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:49 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>Some GitHub Actions workflow runs may experience delays or errors when starting. We’re investigating and preparing a mitigation.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
+<guid isPermaLink='false'>openai:01M6P50GPP1V98EF8MJ9SH393R:progress:identified:minor:2026-11-05T16:57:41+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 17:00:49 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cursor sorted itself out after 49 min]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 27 Oct 2026 15:15:17 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>6.1 Sol Degraded Model Performance</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 27 Oct 2026 15:02:15 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN</link>
-<guid isPermaLink='false'>openai:01M5Y60NQGGN514EB3943V94EN:resolved:resolved:none:2026-10-27T13:54:35+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 14:00:21 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories</strong></p><p>Impact: unclassified · Status: resolved · Duration: 5h 53m · Opened: Tue, 27 Oct 2026 08:00:50 +0000</p><p>The issue is now resolved.</p><p><a href="https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q</link>
-<guid isPermaLink='false'>fireworks:01M5YN72RQ4WTP7264PMEPFG2Q:resolved:resolved:minor:2026-10-27T12:50:28+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 13:00:21 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 23 min · Opened: Tue, 27 Oct 2026 12:26:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
