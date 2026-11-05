@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Baseten is sulking, mildly]]></title>
+<link>https://stspg.io/zfd8m82n5j8g</link>
+<guid isPermaLink='false'>baseten:syzkjznl2fxj:opened:investigating:minor:2026-11-05T21:35:45.934000+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 21:45:48 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for Kimi-K3 on Model APIs. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Thu, 05 Nov 2026 21:35:45 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/zfd8m82n5j8g">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Vercel is fine again]]></title>
 <link>https://stspg.io/y6fmg7s9m5t2</link>
 <guid isPermaLink='false'>vercel:w661l7k3kf4p:resolved:resolved:minor:2026-11-05T18:50:23.139000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 04:00:20 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Gmail connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Code, Claude Cowork · Opened: Wed, 28 Oct 2026 03:59:32 +0000</p><p>We are investigating elevated errors when searching and reading email with the Gmail connector. This issue does not affect other connectors. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/j86c100s8tqm">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 Baseten is under the bonnet right now]]></title>
-<link>https://stspg.io/0rvb1mr214kw</link>
-<guid isPermaLink='false'>baseten:5m8bp9gdvlqz:progress:in_progress:maintenance:2026-10-28T04:00:09.884000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 04:00:20 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: in progress · Affects: Model Management API, Web Application · Opened: Mon, 26 Oct 2026 22:06:05 +0000</p><p>Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><a href="https://stspg.io/0rvb1mr214kw">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
