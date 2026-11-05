@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 OpenAI is having a wobble",
+  "id": "openai:01M6P50GPP1V98EF8MJ9SH393R:opened:investigating:minor:2026-11-05T15:30:00+00:00",
+  "impact": "minor",
+  "incident_id": "01M6P50GPP1V98EF8MJ9SH393R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-05T15:30:49.147341+00:00",
+  "started_at": "2026-11-05T15:25:03+00:00",
+  "status": "investigating",
+  "title": "ChatGPT Issues",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R"
+ },
+ {
   "body": "We are currently experiencing issues with Composer 2.5 requests",
   "components": [
    "Automations",
@@ -7771,23 +7789,5 @@
   "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
   "transition": "progress",
   "url": "https://status.deepseek.com/incidents/7116348214287"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 DeepSeek is readable again, so silence here means quiet once more",
-  "id": "meta:deepseek:recovered:2026-10-15T01:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-15T02:16:00.796032+00:00",
-  "started_at": "2026-10-15T01:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read DeepSeek's status page again",
-  "transition": "recovered",
-  "url": "https://status.deepseek.com"
  }
 ]
