@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are seeing recovery after taking corrective action to address latency. We are continuing to process delayed builds. Vercel CI has also been affected. We will provide additional updates as they become available.",
+  "components": [
+   "Dashboard",
+   "Builds"
+  ],
+  "duration": "",
+  "headline": "👀 Vercel thinks it's fixed and is watching nervously",
+  "id": "vercel:w661l7k3kf4p:progress:monitoring:minor:2026-11-05T18:35:45.062000+00:00",
+  "impact": "minor",
+  "incident_id": "w661l7k3kf4p",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-11-05T18:40:08.844864+00:00",
+  "started_at": "2026-11-05T18:25:10.513000+00:00",
+  "status": "monitoring",
+  "title": "Build delays and degraded Vercel Dashboard performance",
+  "transition": "progress",
+  "url": "https://stspg.io/y6fmg7s9m5t2"
+ },
+ {
   "body": "We've identified an issue where some customers may experience delayed builds, slow page loads, and failed actions in the Vercel Dashboard. We are investigating the cause. We will provide additional updates as they become available.",
   "components": [
    "Dashboard",
@@ -7779,23 +7800,5 @@
   "title": "Issues logging in and signing up for ChatGPT on iOS",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "1h 16m",
-  "headline": "🟢 Fireworks AI has stopped wobbling",
-  "id": "fireworks:01M4Z9QK2TA2WWB04KWSXHQDEG:resolved:resolved:minor:2026-10-15T09:25:22+00:00",
-  "impact": "minor",
-  "incident_id": "01M4Z9QK2TA2WWB04KWSXHQDEG",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-15T09:31:05.012630+00:00",
-  "started_at": "2026-10-15T08:09:20+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M4Z9QK2TA2WWB04KWSXHQDEG"
  }
 ]

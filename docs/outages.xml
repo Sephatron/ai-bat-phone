@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Vercel thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/y6fmg7s9m5t2</link>
+<guid isPermaLink='false'>vercel:w661l7k3kf4p:progress:monitoring:minor:2026-11-05T18:35:45.062000+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 18:40:08 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Build delays and degraded Vercel Dashboard performance</strong></p><p>Impact: minor · Status: monitoring · Affects: Dashboard, Builds · Opened: Thu, 05 Nov 2026 18:25:10 +0000</p><p>We are seeing recovery after taking corrective action to address latency. We are continuing to process delayed builds. Vercel CI has also been affected. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/y6fmg7s9m5t2">Vercel status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Vercel is sulking, mildly]]></title>
 <link>https://stspg.io/y6fmg7s9m5t2</link>
 <guid isPermaLink='false'>vercel:w661l7k3kf4p:opened:investigating:minor:2026-11-05T18:25:10.766000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 02:45:16 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 02:33:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/w9sby180qxln">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 1h 17m]]></title>
-<link>https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10</link>
-<guid isPermaLink='false'>openai:01M5YY4A3TQETEQ53DVSK8SW10:resolved:resolved:minor:2026-10-27T16:20:06+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 16:30:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>6.1 Sol Degraded Model Performance</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 17m · Opened: Tue, 27 Oct 2026 15:02:15 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

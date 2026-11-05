@@ -7265,8 +7265,8 @@
   "vercel:w661l7k3kf4p": {
    "impact": "minor",
    "last_seen_at": "2026-11-05T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-05T18:25:10.766000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-05T18:35:45.062000+00:00"
   },
   "vercel:w8r0qkm97p1c": {
    "impact": "major",
