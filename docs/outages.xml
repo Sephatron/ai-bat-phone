@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
+<link>https://stspg.io/s5bs6jn41fwh</link>
+<guid isPermaLink='false'>github:pfbmpxxfq1cy:opened:investigating:minor:2026-11-05T23:36:06.335000+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 23:45:47 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded performance for multiple GitHub services</strong></p><p>Impact: minor · Status: investigating · Affects: Actions, Pages · Opened: Thu, 05 Nov 2026 23:36:06 +0000</p><p>We are investigating reports of degraded performance for Actions and Pages</p><p><a href="https://stspg.io/s5bs6jn41fwh">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten is sulking, mildly]]></title>
 <link>https://stspg.io/zfd8m82n5j8g</link>
 <guid isPermaLink='false'>baseten:syzkjznl2fxj:opened:investigating:minor:2026-11-05T21:35:45.934000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 04:00:20 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Gmail connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Code, Claude Cowork · Opened: Wed, 28 Oct 2026 03:59:32 +0000</p><p>We are investigating elevated errors when searching and reading email with the Gmail connector. This issue does not affect other connectors. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/j86c100s8tqm">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/w9sby180qxln</link>
-<guid isPermaLink='false'>moonshot:1g6myg5cjckm:resolved:resolved:critical:2026-10-28T03:42:41.828000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 03:45:20 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 08m · Opened: Wed, 28 Oct 2026 02:33:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/w9sby180qxln">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
+<link>https://stspg.io/s5bs6jn41fwh</link>
+<guid isPermaLink='false'>github:pfbmpxxfq1cy:opened:investigating:minor:2026-11-05T23:36:06.335000+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 23:45:47 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded performance for multiple GitHub services</strong></p><p>Impact: minor · Status: investigating · Affects: Actions, Pages · Opened: Thu, 05 Nov 2026 23:36:06 +0000</p><p>We are investigating reports of degraded performance for Actions and Pages</p><p><a href="https://stspg.io/s5bs6jn41fwh">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten is sulking, mildly]]></title>
 <link>https://stspg.io/zfd8m82n5j8g</link>
 <guid isPermaLink='false'>baseten:syzkjznl2fxj:opened:investigating:minor:2026-11-05T21:35:45.934000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 04:15:16 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: completed · Affects: Model Management API, Web Application · Duration: 1d 6h · Opened: Mon, 26 Oct 2026 22:06:05 +0000</p><p>The scheduled maintenance has been completed.</p><p><a href="https://stspg.io/0rvb1mr214kw">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Claude]]></title>
-<link>https://stspg.io/j86c100s8tqm</link>
-<guid isPermaLink='false'>anthropic:9ftx658xtd5z:opened:investigating:minor:2026-10-28T03:59:32.385000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 04:00:20 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Gmail connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Code, Claude Cowork · Opened: Wed, 28 Oct 2026 03:59:32 +0000</p><p>We are investigating elevated errors when searching and reading email with the Gmail connector. This issue does not affect other connectors. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/j86c100s8tqm">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

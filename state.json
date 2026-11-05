@@ -4154,6 +4154,12 @@
    "status": "resolved",
    "updated_at": "2026-08-24T17:29:11.788000+00:00"
   },
+  "github:pfbmpxxfq1cy": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-05T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-05T23:36:06.335000+00:00"
+  },
   "github:ph5nns5y4gxj": {
    "impact": "major",
    "last_seen_at": "2026-09-15T00:00:00+00:00",
