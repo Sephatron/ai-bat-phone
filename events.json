@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. The build backlog has been cleared.",
+  "components": [
+   "Dashboard",
+   "Builds"
+  ],
+  "duration": "25 min",
+  "headline": "🟢 Vercel is fine again",
+  "id": "vercel:w661l7k3kf4p:resolved:resolved:minor:2026-11-05T18:50:23.139000+00:00",
+  "impact": "minor",
+  "incident_id": "w661l7k3kf4p",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-11-05T19:00:52.177305+00:00",
+  "started_at": "2026-11-05T18:25:10.513000+00:00",
+  "status": "resolved",
+  "title": "Build delays and degraded Vercel Dashboard performance",
+  "transition": "resolved",
+  "url": "https://stspg.io/y6fmg7s9m5t2"
+ },
+ {
   "body": "We are seeing recovery after taking corrective action to address latency. We are continuing to process delayed builds. Vercel CI has also been affected. We will provide additional updates as they become available.",
   "components": [
    "Dashboard",
@@ -7781,24 +7802,6 @@
   "status": "monitoring",
   "title": "Widespread feature degradation",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z"
- },
- {
-  "body": "We are investigating an issue affecting logins and signups in the ChatGPT iOS app. We will provide updates as we learn more.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is having a wobble",
-  "id": "openai:01M506BA4XRSWH7THR53HQGN3Z:opened:investigating:none:2026-10-15T16:29:26+00:00",
-  "impact": "none",
-  "incident_id": "01M506BA4XRSWH7THR53HQGN3Z",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-15T16:31:11.267891+00:00",
-  "started_at": "2026-10-15T16:29:26+00:00",
-  "status": "investigating",
-  "title": "Issues logging in and signing up for ChatGPT on iOS",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M506BA4XRSWH7THR53HQGN3Z"
  }
 ]
