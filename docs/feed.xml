@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 05 Nov 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Cursor sorted itself out after 49 min]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43</link>
+<guid isPermaLink='false'>cursor:ps_78783e1b35b98b43:resolved:resolved:minor:2026-11-05T15:56:32+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 16:15:49 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>composer-2.5 degraded</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Bugbot, Cloud Agents, CLI, IDE, Cursor IDE (iOS) · Duration: 49 min · Opened: Thu, 05 Nov 2026 15:06:52 +0000</p><p>This issue has been resolved</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 OpenAI is having a wobble]]></title>
 <link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 27 Oct 2026 15:15:17 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>6.1 Sol Degraded Model Performance</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 27 Oct 2026 15:02:15 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN</link>
-<guid isPermaLink='false'>openai:01M5Y60NQGGN514EB3943V94EN:resolved:resolved:none:2026-10-27T13:54:35+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 14:00:21 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories</strong></p><p>Impact: unclassified · Status: resolved · Duration: 5h 53m · Opened: Tue, 27 Oct 2026 08:00:50 +0000</p><p>The issue is now resolved.</p><p><a href="https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

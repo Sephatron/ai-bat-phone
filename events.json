@@ -1,5 +1,30 @@
 [
  {
+  "body": "This issue has been resolved",
+  "components": [
+   "Automations",
+   "Bugbot",
+   "Cloud Agents",
+   "CLI",
+   "IDE",
+   "Cursor IDE (iOS)"
+  ],
+  "duration": "49 min",
+  "headline": "🟢 Cursor sorted itself out after 49 min",
+  "id": "cursor:ps_78783e1b35b98b43:resolved:resolved:minor:2026-11-05T15:56:32+00:00",
+  "impact": "minor",
+  "incident_id": "ps_78783e1b35b98b43",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-05T16:15:49.039886+00:00",
+  "started_at": "2026-11-05T15:06:52+00:00",
+  "status": "resolved",
+  "title": "composer-2.5 degraded",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43"
+ },
+ {
   "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
   "components": [],
   "duration": "",
@@ -7766,28 +7791,6 @@
   "status": "resolved",
   "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
   "transition": "resolved",
-  "url": "https://status.deepseek.com/incidents/7116348214287"
- },
- {
-  "body": "Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: 对话服务(Chatservice), DeepSeek V4.1 Flash API服务(API Service), DeepSeek V4 Pro API服务(API Service)",
-  "components": [
-   "对话服务(Chatservice)",
-   "DeepSeek V4.1 Flash API服务(API Service)",
-   "DeepSeek V4 Pro API服务(API Service)"
-  ],
-  "duration": "",
-  "headline": "👀 DeepSeek thinks it's fixed and is watching nervously",
-  "id": "deepseek:urn:flashduty:change:7116348214287:progress:monitoring:minor:2026-10-15T05:01:06.403599+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:7116348214287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-15T05:01:06.403599+00:00",
-  "started_at": "2026-10-15T00:11:35+00:00",
-  "status": "monitoring",
-  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
-  "transition": "progress",
   "url": "https://status.deepseek.com/incidents/7116348214287"
  }
 ]
