@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is a bit under the weather",
+  "id": "fireworks:01M6MWGS2B9Z97PCKRDM8V0NJ5:opened:investigating:minor:2026-11-05T03:37:24+00:00",
+  "impact": "minor",
+  "incident_id": "01M6MWGS2B9Z97PCKRDM8V0NJ5",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-05T03:45:18.597631+00:00",
+  "started_at": "2026-11-05T03:37:24+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Muse Spark Open US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6MWGS2B9Z97PCKRDM8V0NJ5"
+ },
+ {
   "body": "We have identified and resolved the issue.",
   "components": [
    "Grok Bot"
@@ -7767,23 +7785,5 @@
   "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
   "transition": "opened",
   "url": "https://status.deepseek.com/incidents/7116348214287"
- },
- {
-  "body": "Error rates for affected serverless models are beginning to recover. We are monitoring the recovery; some requests may still fail.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Fireworks AI thinks it's fixed and is watching nervously",
-  "id": "fireworks:01M4YAMVS2260M80QZMQHBPZPY:progress:monitoring:minor:2026-10-14T23:15:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M4YAMVS2260M80QZMQHBPZPY",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-14T23:16:05.848180+00:00",
-  "started_at": "2026-10-14T23:06:04+00:00",
-  "status": "monitoring",
-  "title": "CSP outage affecting multiple serverless models",
-  "transition": "progress",
-  "url": "https://status.fireworks.ai/incidents/01M4YAMVS2260M80QZMQHBPZPY"
  }
 ]

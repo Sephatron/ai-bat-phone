@@ -3590,6 +3590,18 @@
    "status": "resolved",
    "updated_at": "2026-11-05T01:26:04+00:00"
   },
+  "fireworks:01M6MWD45157BXQD8SJPP1352Z": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-05T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-05T03:40:04+00:00"
+  },
+  "fireworks:01M6MWGS2B9Z97PCKRDM8V0NJ5": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-05T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-05T03:37:24+00:00"
+  },
   "github:0f6hndclsk21": {
    "impact": "minor",
    "last_seen_at": "2026-09-14T00:00:00+00:00",
