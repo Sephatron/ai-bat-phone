@@ -1916,6 +1916,12 @@
    "status": "resolved",
    "updated_at": "2026-11-03T22:53:01+00:00"
   },
+  "cursor:ps_c0cee9e504398968": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-05T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-05T00:34:40+00:00"
+  },
   "cursor:ps_d25569b21cabd283": {
    "impact": "major",
    "last_seen_at": "2026-11-05T00:00:00+00:00",
@@ -5999,8 +6005,8 @@
   "openai:01M6MBCX427A7113A3T4FJ1N6Y": {
    "impact": "minor",
    "last_seen_at": "2026-11-05T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-04T22:49:34+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-05T00:32:37+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

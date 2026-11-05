@@ -1,5 +1,43 @@
 [
  {
+  "body": "We are currently investigating errors with Grok Bot.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is having a wobble",
+  "id": "cursor:ps_c0cee9e504398968:opened:investigating:minor:2026-11-05T00:34:40+00:00",
+  "impact": "minor",
+  "incident_id": "ps_c0cee9e504398968",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-05T00:45:18.604322+00:00",
+  "started_at": "2026-11-05T00:34:40+00:00",
+  "status": "investigating",
+  "title": "Degraded Performance - Grok Bot",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_c0cee9e504398968"
+ },
+ {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "1h 54m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M6MBCX427A7113A3T4FJ1N6Y:resolved:resolved:minor:2026-11-05T00:32:37+00:00",
+  "impact": "minor",
+  "incident_id": "01M6MBCX427A7113A3T4FJ1N6Y",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-05T00:45:18.604322+00:00",
+  "started_at": "2026-11-04T22:38:12+00:00",
+  "status": "resolved",
+  "title": "Elevated error rates across paid ChatGPT plans",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M6MBCX427A7113A3T4FJ1N6Y"
+ },
+ {
   "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7747,43 +7785,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "resolved",
   "url": "https://stspg.io/tp05ff30h17j"
- },
- {
-  "body": "We've identified the issue impacting Grok Bot for some users and are working on a fix.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔍 Cursor knows what it did",
-  "id": "cursor:6y0yq43mvwg2:progress:identified:minor:2026-10-14T20:08:28.560000+00:00",
-  "impact": "minor",
-  "incident_id": "6y0yq43mvwg2",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-14T20:15:15.935559+00:00",
-  "started_at": "2026-10-14T15:46:23.651000+00:00",
-  "status": "identified",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "progress",
-  "url": "https://stspg.io/tp05ff30h17j"
- },
- {
-  "body": "We have identified an issue causing delays in publishing organization cost data through the Costs API. API and ChatGPT usage are not affected, and other reporting channels remain available. We are working to restore normal data freshness.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
-  "id": "openai:01M4XNQX7C6RCBNGX9H711WFSG:opened:identified:minor:2026-10-14T17:02:47+00:00",
-  "impact": "minor",
-  "incident_id": "01M4XNQX7C6RCBNGX9H711WFSG",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-14T17:15:20.976313+00:00",
-  "started_at": "2026-10-14T17:00:44+00:00",
-  "status": "identified",
-  "title": "Delayed Costs data in the Compliance API",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
  }
 ]
