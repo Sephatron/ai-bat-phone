@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43</link>
+<guid isPermaLink='false'>cursor:ps_78783e1b35b98b43:opened:investigating:minor:2026-11-05T15:06:52+00:00</guid>
+<pubDate>Thu, 05 Nov 2026 15:15:50 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>composer-2.5 degraded</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Bugbot, Cloud Agents, CLI, IDE, Cursor IDE (iOS) · Opened: Thu, 05 Nov 2026 15:06:52 +0000</p><p>We are currently experiencing issues with Composer 2.5 requests</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/1sskhpmg4clj</link>
 <guid isPermaLink='false'>moonshot:n139fwpzcv0p:resolved:resolved:critical:2026-11-05T09:46:42.092000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 27 Oct 2026 13:00:21 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 23 min · Opened: Tue, 27 Oct 2026 12:26:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q</link>
-<guid isPermaLink='false'>fireworks:01M5YN72RQ4WTP7264PMEPFG2Q:opened:investigating:minor:2026-10-27T12:26:29+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 12:30:21 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 27 Oct 2026 12:26:29 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

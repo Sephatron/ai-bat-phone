@@ -1,5 +1,30 @@
 [
  {
+  "body": "We are currently experiencing issues with Composer 2.5 requests",
+  "components": [
+   "Automations",
+   "Bugbot",
+   "Cloud Agents",
+   "CLI",
+   "IDE",
+   "Cursor IDE (iOS)"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is having a wobble",
+  "id": "cursor:ps_78783e1b35b98b43:opened:investigating:minor:2026-11-05T15:06:52+00:00",
+  "impact": "minor",
+  "incident_id": "ps_78783e1b35b98b43",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-05T15:15:50.058695+00:00",
+  "started_at": "2026-11-05T15:06:52+00:00",
+  "status": "investigating",
+  "title": "composer-2.5 degraded",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "K3"
@@ -7763,24 +7788,6 @@
   "status": "recovered",
   "title": "AI Bat Phone can read DeepSeek's status page again",
   "transition": "recovered",
-  "url": "https://status.deepseek.com"
- },
- {
-  "body": "https://status.deepseek.com/history.rss returned HTTP 502",
-  "components": [],
-  "duration": "",
-  "headline": "📵 DeepSeek is unreadable — silence here means unknown, not fine",
-  "id": "meta:deepseek:unreachable:2026-10-15T01:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-10-15T02:01:05.636926+00:00",
-  "started_at": "2026-10-15T01:00:00+00:00",
-  "status": "unreachable",
-  "title": "AI Bat Phone cannot read DeepSeek's status page",
-  "transition": "unreachable",
   "url": "https://status.deepseek.com"
  }
 ]
