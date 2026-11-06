@@ -1,5 +1,23 @@
 [
  {
+  "body": "**Investigating** — We’re seeing payment declines on some U.S. business Mastercards, including some Brex cards. For API customers, this can prevent automatic recharges and one-time credit purchases. If your prepaid balance runs out, your API requests may fail. If you use one of these cards, we recommend adding a card from a different issuer before your next payment, even if you haven’t seen a decline. If an API credit purchase has already failed, use the new card to retry the purchase. We’re working with our payment partners and will share updates here.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M6S2FV5TZWQ753NHRB7BF5K7:opened:identified:none:2026-11-06T18:38:43+00:00",
+  "impact": "none",
+  "incident_id": "01M6S2FV5TZWQ753NHRB7BF5K7",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-06T18:45:50.786082+00:00",
+  "started_at": "2026-11-06T18:38:43+00:00",
+  "status": "identified",
+  "title": "Elevated error rates with Brex Cards",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7"
+ },
+ {
   "body": "Dedicated deployments, training, and batch inference services are restored. For questions or any issues, please contact your account team or support@fireworks.ai.",
   "components": [],
   "duration": "",
@@ -7799,23 +7817,5 @@
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M54F9EG8M9562BWBV44KQQ4D"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "14 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 14 min",
-  "id": "fireworks:01M54BVJXV2EMSGH9XP2J44DQF:resolved:resolved:minor:2026-10-17T07:37:13+00:00",
-  "impact": "minor",
-  "incident_id": "01M54BVJXV2EMSGH9XP2J44DQF",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-17T07:45:14.511489+00:00",
-  "started_at": "2026-10-17T07:22:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF"
  }
 ]
