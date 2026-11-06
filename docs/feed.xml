@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
+<guid isPermaLink='false'>openai:01M6P50GPP1V98EF8MJ9SH393R:resolved:resolved:minor:2026-11-06T04:31:37+00:00</guid>
+<pubDate>Fri, 06 Nov 2026 04:45:47 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: resolved · Duration: 13h 06m · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten sorted itself out after 5h 09m]]></title>
 <link>https://stspg.io/zfd8m82n5j8g</link>
 <guid isPermaLink='false'>baseten:syzkjznl2fxj:resolved:resolved:minor:2026-11-06T02:44:49.449000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 09:15:17 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 09:06:43 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/b4jwhh6s5rvs">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G</link>
-<guid isPermaLink='false'>fireworks:01M60NPPKTAY600ZVQWVTR230G:resolved:resolved:minor:2026-10-28T08:10:39+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 08:15:18 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 57 min · Opened: Wed, 28 Oct 2026 07:13:30 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -6077,8 +6077,8 @@
   "openai:01M6P50GPP1V98EF8MJ9SH393R": {
    "impact": "minor",
    "last_seen_at": "2026-11-06T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-05T17:05:56+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-06T04:31:37+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

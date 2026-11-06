@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "13h 06m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M6P50GPP1V98EF8MJ9SH393R:resolved:resolved:minor:2026-11-06T04:31:37+00:00",
+  "impact": "minor",
+  "incident_id": "01M6P50GPP1V98EF8MJ9SH393R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-06T04:45:47.803756+00:00",
+  "started_at": "2026-11-05T15:25:03+00:00",
+  "status": "resolved",
+  "title": "ChatGPT Work and Dots Errors",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Model APIs"
@@ -7795,27 +7813,5 @@
   "title": "Billing issue",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration.",
-  "components": [
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor is on the mend. Don't get comfortable yet.",
-  "id": "cursor:h76w09vs1vqq:progress:monitoring:minor:2026-10-15T22:58:01.363000+00:00",
-  "impact": "minor",
-  "incident_id": "h76w09vs1vqq",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-15T23:01:07.652457+00:00",
-  "started_at": "2026-10-15T22:25:11.662000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors affecting Grok models",
-  "transition": "progress",
-  "url": "https://stspg.io/nbsrtgp6pr7p"
  }
 ]
