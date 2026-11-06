@@ -953,13 +953,5 @@
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>We’re are currently investigating degraded availability affecting GitHub Actions, GitHub Pages and Webhooks. Customers may experience delays in workflow processing, site builds and webhook delivery.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-10-16</guid>
-<pubDate>Fri, 16 Oct 2026 14:31:05 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

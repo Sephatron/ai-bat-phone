@@ -1,5 +1,25 @@
 [
  {
+  "body": "This issue has been resolved.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "1h 17m",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_9a160a3b12ec99d1:resolved:resolved:minor:2026-11-06T15:15:07+00:00",
+  "impact": "minor",
+  "incident_id": "ps_9a160a3b12ec99d1",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-06T15:15:48.545001+00:00",
+  "started_at": "2026-11-06T13:57:57+00:00",
+  "status": "resolved",
+  "title": "Grok Bot is currently degraded",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_9a160a3b12ec99d1"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
@@ -7797,23 +7817,5 @@
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF"
- },
- {
-  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
-  "components": [],
-  "duration": "",
-  "headline": "📡 Still watching. Nothing to report.",
-  "id": "meta:all:alive:2026-10-16",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "batphone",
-  "provider_name": "AI Bat Phone",
-  "published_at": "2026-10-16T14:31:05.333281+00:00",
-  "started_at": "2026-10-16T14:31:05.333281+00:00",
-  "status": "alive",
-  "title": "Still watching 21 provider status pages",
-  "transition": "alive",
-  "url": "https://sephatron.github.io/ai-bat-phone"
  }
 ]
