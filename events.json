@@ -1,5 +1,23 @@
 [
  {
+  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
+  "components": [],
+  "duration": "",
+  "headline": "📡 Still watching. Nothing to report.",
+  "id": "meta:all:alive:2026-11-06",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "batphone",
+  "provider_name": "AI Bat Phone",
+  "published_at": "2026-11-06T14:45:46.915556+00:00",
+  "started_at": "2026-11-06T14:45:46.915556+00:00",
+  "status": "alive",
+  "title": "Still watching 21 provider status pages",
+  "transition": "alive",
+  "url": "https://sephatron.github.io/ai-bat-phone"
+ },
+ {
   "body": "Grok Bot is currently degraded, and our team is investigating.",
   "components": [
    "Grok Bot"
@@ -7797,23 +7815,5 @@
   "title": "Still watching 21 provider status pages",
   "transition": "alive",
   "url": "https://sephatron.github.io/ai-bat-phone"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "1d 17h",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M4XNQX7C6RCBNGX9H711WFSG:resolved:resolved:minor:2026-10-16T10:44:58+00:00",
-  "impact": "minor",
-  "incident_id": "01M4XNQX7C6RCBNGX9H711WFSG",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-16T10:45:59.510174+00:00",
-  "started_at": "2026-10-14T17:00:44+00:00",
-  "status": "resolved",
-  "title": "Delayed Costs data in the Compliance API",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
  }
 ]
