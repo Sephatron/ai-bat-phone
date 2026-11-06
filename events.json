@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "5h 09m",
+  "headline": "🟢 Baseten sorted itself out after 5h 09m",
+  "id": "baseten:syzkjznl2fxj:resolved:resolved:minor:2026-11-06T02:44:49.449000+00:00",
+  "impact": "minor",
+  "incident_id": "syzkjznl2fxj",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-06T02:45:47.403359+00:00",
+  "started_at": "2026-11-05T21:35:45.818000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Kimi-K3 on Model APIs. **Dedicated Inference is not affected**",
+  "transition": "resolved",
+  "url": "https://stspg.io/zfd8m82n5j8g"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring the results.",
   "components": [
    "Model APIs"
@@ -7797,23 +7817,5 @@
   "title": "Elevated errors affecting Grok models",
   "transition": "progress",
   "url": "https://stspg.io/nbsrtgp6pr7p"
- },
- {
-  "body": "We have deployed a fix and are monitoring recovery. Costs data in the Compliance API remains delayed while we process the backlog. We will provide further updates as processing catches up.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M4XNQX7C6RCBNGX9H711WFSG:progress:monitoring:minor:2026-10-15T22:36:42+00:00",
-  "impact": "minor",
-  "incident_id": "01M4XNQX7C6RCBNGX9H711WFSG",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-15T22:45:58.190257+00:00",
-  "started_at": "2026-10-14T17:00:44+00:00",
-  "status": "monitoring",
-  "title": "Delayed Costs data in the Compliance API",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten sorted itself out after 5h 09m]]></title>
+<link>https://stspg.io/zfd8m82n5j8g</link>
+<guid isPermaLink='false'>baseten:syzkjznl2fxj:resolved:resolved:minor:2026-11-06T02:44:49.449000+00:00</guid>
+<pubDate>Fri, 06 Nov 2026 02:45:47 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for Kimi-K3 on Model APIs. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 5h 09m · Opened: Thu, 05 Nov 2026 21:35:45 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/zfd8m82n5j8g">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Baseten is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/zfd8m82n5j8g</link>
 <guid isPermaLink='false'>baseten:syzkjznl2fxj:progress:monitoring:minor:2026-11-06T00:54:35.560000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 08:15:18 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 57 min · Opened: Wed, 28 Oct 2026 07:13:30 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
-<link>https://stspg.io/fdrjc7y071pz</link>
-<guid isPermaLink='false'>moonshot:k0b8n9l0fgph:opened:investigating:critical:2026-10-28T08:06:42.347000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 08:15:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 08:06:42 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/fdrjc7y071pz">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
