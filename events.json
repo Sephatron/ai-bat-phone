@@ -1,5 +1,23 @@
 [
  {
+  "body": "Dedicated deployments, training, and batch inference services are restored. For questions or any issues, please contact your account team or support@fireworks.ai.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Fireworks AI thinks it's fixed and is watching nervously",
+  "id": "fireworks:01M679955DA5K8S2HMEXDPCBR3:progress:monitoring:none:2026-11-06T18:28:30+00:00",
+  "impact": "none",
+  "incident_id": "01M679955DA5K8S2HMEXDPCBR3",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-06T18:30:48.267718+00:00",
+  "started_at": "2026-10-30T20:51:04+00:00",
+  "status": "monitoring",
+  "title": "Service degradation",
+  "transition": "progress",
+  "url": "https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3"
+ },
+ {
   "body": "This issue has been resolved.",
   "components": [
    "Grok Bot"
@@ -7798,24 +7816,6 @@
   "status": "resolved",
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF"
- },
- {
-  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M54BVJXV2EMSGH9XP2J44DQF:opened:investigating:minor:2026-10-17T07:22:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M54BVJXV2EMSGH9XP2J44DQF",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-17T07:30:14.507426+00:00",
-  "started_at": "2026-10-17T07:22:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M54BVJXV2EMSGH9XP2J44DQF"
  }
 ]

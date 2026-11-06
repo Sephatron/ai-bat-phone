@@ -3503,8 +3503,8 @@
   "fireworks:01M679955DA5K8S2HMEXDPCBR3": {
    "impact": "none",
    "last_seen_at": "2026-11-06T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-10-30T20:51:04+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-06T18:28:30+00:00"
   },
   "fireworks:01M69K3V00WQTJN1RN2HKVEVDH": {
    "impact": "minor",

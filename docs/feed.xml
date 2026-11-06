@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Fireworks AI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3</link>
+<guid isPermaLink='false'>fireworks:01M679955DA5K8S2HMEXDPCBR3:progress:monitoring:none:2026-11-06T18:28:30+00:00</guid>
+<pubDate>Fri, 06 Nov 2026 18:30:48 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service degradation</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 30 Oct 2026 20:51:04 +0000</p><p>Dedicated deployments, training, and batch inference services are restored. For questions or any issues, please contact your account team or support@fireworks.ai.</p><p><a href="https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://status.x.ai/history?incident=grok-bot%2Fps_9a160a3b12ec99d1</link>
 <guid isPermaLink='false'>cursor:ps_9a160a3b12ec99d1:resolved:resolved:minor:2026-11-06T15:15:07+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 14:00:56 +0000</pubDate>
 <category>Windsurf</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read Windsurf's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Windsurf is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.windsurf.com</link>
-<guid isPermaLink='false'>meta:windsurf:unreachable:2026-10-28T13:00:00+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 13:45:57 +0000</pubDate>
-<category>Windsurf</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Windsurf's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.windsurf.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.windsurf.com">Windsurf status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
