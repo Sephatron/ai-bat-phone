@@ -1,5 +1,25 @@
 [
  {
+  "body": "We've identified an issue where computer use in Grok Bot is failing for users in some regions. Other Grok Bot features are working normally. Our team is working on a fix, and we'll share an update as soon as we have more information.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is sulking, mildly",
+  "id": "cursor:ps_183910c201a91593:opened:investigating:minor:2026-11-06T11:49:46+00:00",
+  "impact": "minor",
+  "incident_id": "ps_183910c201a91593",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-06T12:00:49.492999+00:00",
+  "started_at": "2026-11-06T11:49:46+00:00",
+  "status": "investigating",
+  "title": "Computer use in Grok Bot fails for users in a few regions.",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "13h 06m",
@@ -7794,24 +7814,6 @@
   "status": "resolved",
   "title": "Billing issue",
   "transition": "resolved",
-  "url": "https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e"
- },
- {
-  "body": "[Investigating] We are investigating a billing issue that affects database usage",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Replit",
-  "id": "replit:442878ac-c661-46ed-a604-1ded8508240e:opened:investigating:minor:2026-10-15T23:30:58.560644+00:00",
-  "impact": "minor",
-  "incident_id": "442878ac-c661-46ed-a604-1ded8508240e",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-15T23:30:58.560644+00:00",
-  "started_at": "2026-10-15T23:20:51+00:00",
-  "status": "investigating",
-  "title": "Billing issue",
-  "transition": "opened",
   "url": "https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e"
  }
 ]

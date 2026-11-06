@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 06 Nov 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
+<link>https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593</link>
+<guid isPermaLink='false'>cursor:ps_183910c201a91593:opened:investigating:minor:2026-11-06T11:49:46+00:00</guid>
+<pubDate>Fri, 06 Nov 2026 12:00:49 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Computer use in Grok Bot fails for users in a few regions.</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 06 Nov 2026 11:49:46 +0000</p><p>We've identified an issue where computer use in Grok Bot is failing for users in some regions. Other Grok Bot features are working normally. Our team is working on a fix, and we'll share an update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 10:15:17 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 59m · Opened: Wed, 28 Oct 2026 08:06:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/fdrjc7y071pz">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
-<link>https://stspg.io/b4jwhh6s5rvs</link>
-<guid isPermaLink='false'>moonshot:8vbxpnq9x9jk:opened:investigating:critical:2026-10-28T09:06:43.513000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 09:15:17 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 09:06:43 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/b4jwhh6s5rvs">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
