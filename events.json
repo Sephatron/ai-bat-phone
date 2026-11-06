@@ -1,5 +1,25 @@
 [
  {
+  "body": "Grok Bot is currently degraded, and our team is investigating.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is having a wobble",
+  "id": "cursor:ps_9a160a3b12ec99d1:opened:investigating:minor:2026-11-06T13:57:57+00:00",
+  "impact": "minor",
+  "incident_id": "ps_9a160a3b12ec99d1",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-06T14:00:49.595290+00:00",
+  "started_at": "2026-11-06T13:57:57+00:00",
+  "status": "investigating",
+  "title": "Grok Bot is currently degraded",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_9a160a3b12ec99d1"
+ },
+ {
   "body": "The issue is resolved and computer use in Grok Bot is working normally again for all users.",
   "components": [
    "Grok Bot"
@@ -7795,27 +7815,5 @@
   "title": "Delayed Costs data in the Compliance API",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M4XNQX7C6RCBNGX9H711WFSG"
- },
- {
-  "body": "This incident has been resolved. Grok models in Cursor are working normally again.",
-  "components": [
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "6h 55m",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:h76w09vs1vqq:resolved:resolved:minor:2026-10-16T05:20:54.462000+00:00",
-  "impact": "minor",
-  "incident_id": "h76w09vs1vqq",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-16T05:31:00.775132+00:00",
-  "started_at": "2026-10-15T22:25:11.662000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors affecting Grok models",
-  "transition": "resolved",
-  "url": "https://stspg.io/nbsrtgp6pr7p"
  }
 ]

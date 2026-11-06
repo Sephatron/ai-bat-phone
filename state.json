@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-06T13:00:00+00:00",
+ "heartbeat": "2026-11-06T14:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -1921,6 +1921,12 @@
    "last_seen_at": "2026-11-06T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-29T09:18:22+00:00"
+  },
+  "cursor:ps_9a160a3b12ec99d1": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-06T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-06T13:57:57+00:00"
   },
   "cursor:ps_ad31c985bfc193b9": {
    "impact": "minor",
