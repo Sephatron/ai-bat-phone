@@ -1,5 +1,27 @@
 [
  {
+  "body": "We've applied a mitigation and are seeing recovery across affected services, including Git operations, Issues, Actions, and API access. We're monitoring to confirm stability and will post another update by 00:35 UTC.",
+  "components": [
+   "Issues",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:pfbmpxxfq1cy:progress:monitoring:minor:2026-11-06T00:06:28.068000+00:00",
+  "impact": "minor",
+  "incident_id": "pfbmpxxfq1cy",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-06T00:06:42.123224+00:00",
+  "started_at": "2026-11-05T23:36:06.109000+00:00",
+  "status": "monitoring",
+  "title": "Degraded performance for multiple GitHub services",
+  "transition": "progress",
+  "url": "https://stspg.io/s5bs6jn41fwh"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Actions and Pages",
   "components": [
    "Actions",
@@ -7789,24 +7811,6 @@
   "status": "resolved",
   "title": "CCA Automations are delayed when starting an Automation",
   "transition": "resolved",
-  "url": "https://stspg.io/vk8t78vtswmg"
- },
- {
-  "body": "CCA Automations are experiencing delays when users start an Automation",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 GitHub is having a wobble",
-  "id": "github:vlxrztp88101:opened:investigating:minor:2026-10-15T18:34:34.715000+00:00",
-  "impact": "minor",
-  "incident_id": "vlxrztp88101",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-15T18:45:59.514341+00:00",
-  "started_at": "2026-10-15T18:31:49.832000+00:00",
-  "status": "investigating",
-  "title": "CCA Automations are delayed when starting an Automation",
-  "transition": "opened",
   "url": "https://stspg.io/vk8t78vtswmg"
  }
 ]

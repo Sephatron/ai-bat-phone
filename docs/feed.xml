@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/s5bs6jn41fwh</link>
+<guid isPermaLink='false'>github:pfbmpxxfq1cy:progress:monitoring:minor:2026-11-06T00:06:28.068000+00:00</guid>
+<pubDate>Fri, 06 Nov 2026 00:06:42 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded performance for multiple GitHub services</strong></p><p>Impact: minor · Status: monitoring · Affects: Issues, Actions, Pages · Opened: Thu, 05 Nov 2026 23:36:06 +0000</p><p>We've applied a mitigation and are seeing recovery across affected services, including Git operations, Issues, Actions, and API access. We're monitoring to confirm stability and will post another update by 00:35 UTC.</p><p><a href="https://stspg.io/s5bs6jn41fwh">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
 <link>https://stspg.io/s5bs6jn41fwh</link>
 <guid isPermaLink='false'>github:pfbmpxxfq1cy:opened:investigating:minor:2026-11-05T23:36:06.335000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 06:00:18 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Gmail connector</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude Code, Claude Cowork · Duration: 1h 48m · Opened: Wed, 28 Oct 2026 03:59:32 +0000</p><p>The issue affecting the Gmail connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:00 PT / 23:00 UTC on October 27 to 22:29 PT on October 27 / 05:29 UTC on October 28.</p><p><a href="https://stspg.io/j86c100s8tqm">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 Baseten has put the tools away]]></title>
-<link>https://stspg.io/0rvb1mr214kw</link>
-<guid isPermaLink='false'>baseten:5m8bp9gdvlqz:resolved:completed:maintenance:2026-10-28T04:07:36.964000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 04:15:16 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Database Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: completed · Affects: Model Management API, Web Application · Duration: 1d 6h · Opened: Mon, 26 Oct 2026 22:06:05 +0000</p><p>The scheduled maintenance has been completed.</p><p><a href="https://stspg.io/0rvb1mr214kw">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
