@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Git Operations",
+   "Issues",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "44 min",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:pfbmpxxfq1cy:resolved:resolved:minor:2026-11-06T00:20:49.369000+00:00",
+  "impact": "minor",
+  "incident_id": "pfbmpxxfq1cy",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-06T00:30:52.046676+00:00",
+  "started_at": "2026-11-05T23:36:06.109000+00:00",
+  "status": "resolved",
+  "title": "Degraded performance for multiple GitHub services",
+  "transition": "resolved",
+  "url": "https://stspg.io/s5bs6jn41fwh"
+ },
+ {
   "body": "We've applied a mitigation and are seeing recovery across affected services, including Git operations, Issues, Actions, and API access. We're monitoring to confirm stability and will post another update by 00:35 UTC.",
   "components": [
    "Issues",
@@ -7794,23 +7817,5 @@
   "title": "Elevated errors affecting Grok models",
   "transition": "opened",
   "url": "https://stspg.io/nbsrtgp6pr7p"
- },
- {
-  "body": "We suspected that CCA Automations were experiencing delays when users start an Automation, but further investigation found that there was no delay or impact to CCA Automations.",
-  "components": [],
-  "duration": "28 min",
-  "headline": "🟢 GitHub sorted itself out after 28 min",
-  "id": "github:vlxrztp88101:resolved:resolved:minor:2026-10-15T19:00:06.028000+00:00",
-  "impact": "minor",
-  "incident_id": "vlxrztp88101",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-15T19:01:02.483272+00:00",
-  "started_at": "2026-10-15T18:31:49.832000+00:00",
-  "status": "resolved",
-  "title": "CCA Automations are delayed when starting an Automation",
-  "transition": "resolved",
-  "url": "https://stspg.io/vk8t78vtswmg"
  }
 ]

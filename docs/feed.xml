@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/s5bs6jn41fwh</link>
+<guid isPermaLink='false'>github:pfbmpxxfq1cy:resolved:resolved:minor:2026-11-06T00:20:49.369000+00:00</guid>
+<pubDate>Fri, 06 Nov 2026 00:30:52 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded performance for multiple GitHub services</strong></p><p>Impact: minor · Status: resolved · Affects: Git Operations, Issues, Actions, Pages · Duration: 44 min · Opened: Thu, 05 Nov 2026 23:36:06 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/s5bs6jn41fwh">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/s5bs6jn41fwh</link>
 <guid isPermaLink='false'>github:pfbmpxxfq1cy:progress:monitoring:minor:2026-11-06T00:06:28.068000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 07:15:20 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 28 Oct 2026 07:13:30 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M60NPPKTAY600ZVQWVTR230G">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude has stopped wobbling]]></title>
-<link>https://stspg.io/j86c100s8tqm</link>
-<guid isPermaLink='false'>anthropic:9ftx658xtd5z:resolved:resolved:minor:2026-10-28T05:48:13.158000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 06:00:18 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Gmail connector</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude Code, Claude Cowork · Duration: 1h 48m · Opened: Wed, 28 Oct 2026 03:59:32 +0000</p><p>The issue affecting the Gmail connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:00 PT / 23:00 UTC on October 27 to 22:29 PT on October 27 / 05:29 UTC on October 28.</p><p><a href="https://stspg.io/j86c100s8tqm">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
