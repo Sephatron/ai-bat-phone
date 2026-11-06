@@ -1865,8 +1865,8 @@
   "cursor:ps_183910c201a91593": {
    "impact": "minor",
    "last_seen_at": "2026-11-06T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-06T11:49:46+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-06T12:03:16+00:00"
   },
   "cursor:ps_1bf7caceaa5f7a94": {
    "impact": "minor",
@@ -5143,6 +5143,12 @@
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-30T09:11:12.630000+00:00"
+  },
+  "moonshot:f67m6k3cl3gr": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-06T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-06T12:06:47.928000+00:00"
   },
   "moonshot:fllj5m7n6z80": {
    "impact": "critical",

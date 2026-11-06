@@ -1,5 +1,25 @@
 [
  {
+  "body": "The issue is resolved and computer use in Grok Bot is working normally again for all users.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "13 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_183910c201a91593:resolved:resolved:minor:2026-11-06T12:03:16+00:00",
+  "impact": "minor",
+  "incident_id": "ps_183910c201a91593",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-06T12:15:49.395064+00:00",
+  "started_at": "2026-11-06T11:49:46+00:00",
+  "status": "resolved",
+  "title": "Computer use in Grok Bot fails for users in a few regions.",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593"
+ },
+ {
   "body": "We've identified an issue where computer use in Grok Bot is failing for users in some regions. Other Grok Bot features are working normally. Our team is working on a fix, and we'll share an update as soon as we have more information.",
   "components": [
    "Grok Bot"
@@ -7797,23 +7817,5 @@
   "title": "Elevated errors affecting Grok models",
   "transition": "resolved",
   "url": "https://stspg.io/nbsrtgp6pr7p"
- },
- {
-  "body": "[Resolved] The issue has been fixed.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit sorted itself out after a while",
-  "id": "replit:442878ac-c661-46ed-a604-1ded8508240e:resolved:resolved:minor:2026-10-16T03:45:59.155402+00:00",
-  "impact": "minor",
-  "incident_id": "442878ac-c661-46ed-a604-1ded8508240e",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-16T03:45:59.155402+00:00",
-  "started_at": "2026-10-16T03:35:58+00:00",
-  "status": "resolved",
-  "title": "Billing issue",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/442878ac-c661-46ed-a604-1ded8508240e"
  }
 ]
