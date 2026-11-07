@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M6THM4N52KH9BG50H1ESKAXR:opened:investigating:minor:2026-11-07T08:22:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M6THM4N52KH9BG50H1ESKAXR",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-07T08:30:48.175382+00:00",
+  "started_at": "2026-11-07T08:22:27+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M6THM4N52KH9BG50H1ESKAXR"
+ },
+ {
   "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service), DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), 搜索服务(Search Service)",
   "components": [
    "DeepSeek V4 Pro API服务(API Service)",
@@ -7792,23 +7810,5 @@
   "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
   "transition": "opened",
   "url": "https://stspg.io/nrv2k8s68bwn"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "42 min",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M5A5S1ATN3QB2WCHQ3VDZC81:resolved:resolved:minor:2026-10-19T14:14:03+00:00",
-  "impact": "minor",
-  "incident_id": "01M5A5S1ATN3QB2WCHQ3VDZC81",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-19T14:15:13.643497+00:00",
-  "started_at": "2026-10-19T13:31:52+00:00",
-  "status": "resolved",
-  "title": "File Download errors",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81"
  }
 ]

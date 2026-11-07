@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M6THM4N52KH9BG50H1ESKAXR</link>
+<guid isPermaLink='false'>fireworks:01M6THM4N52KH9BG50H1ESKAXR:opened:investigating:minor:2026-11-07T08:22:27+00:00</guid>
+<pubDate>Sat, 07 Nov 2026 08:30:48 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 07 Nov 2026 08:22:27 +0000</p><p>We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6THM4N52KH9BG50H1ESKAXR">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 DeepSeek is fine again]]></title>
 <link>https://status.deepseek.com/incidents/7219383236287</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7219383236287:resolved:resolved:minor:2026-11-07T08:00:48.052278+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 02:45:20 +0000</pubDate>
 <category>SambaNova</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read SambaNova's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.ai21.com</link>
-<guid isPermaLink='false'>meta:ai21:unreachable:2026-10-29T01:00:00+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 02:00:22 +0000</pubDate>
-<category>AI21</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
