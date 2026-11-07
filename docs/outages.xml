@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7</link>
+<guid isPermaLink='false'>openai:01M6S2FV5TZWQ753NHRB7BF5K7:progress:monitoring:none:2026-11-07T01:29:31+00:00</guid>
+<pubDate>Sat, 07 Nov 2026 01:30:48 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates with some U.S. business Mastercards</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 06 Nov 2026 18:38:43 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M6SPSBQB0S13V2GX5V4QBY8E</link>
 <guid isPermaLink='false'>fireworks:01M6SPSBQB0S13V2GX5V4QBY8E:opened:investigating:minor:2026-11-07T00:33:26+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 16:30:56 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Google Calendar connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Code, Claude Cowork · Opened: Wed, 28 Oct 2026 16:19:09 +0000</p><p>We are investigating elevated errors affecting the Google Calendar connector. Some requests to list or search calendar events have been failing since October 26. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/75qq31h8672d">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 Baseten is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.baseten.co</link>
-<guid isPermaLink='false'>meta:baseten:unreachable:2026-10-28T15:00:00+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 16:00:55 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read Baseten's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.baseten.co/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.baseten.co">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M6S2FV5TZWQ753NHRB7BF5K7:progress:monitoring:none:2026-11-07T01:29:31+00:00",
+  "impact": "none",
+  "incident_id": "01M6S2FV5TZWQ753NHRB7BF5K7",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-07T01:30:48.392485+00:00",
+  "started_at": "2026-11-06T18:38:43+00:00",
+  "status": "monitoring",
+  "title": "Elevated error rates with some U.S. business Mastercards",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7798,24 +7816,6 @@
   "status": "resolved",
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M56WY68RB5PA9NA4DQ2JSHTZ"
- },
- {
-  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is sulking, mildly",
-  "id": "fireworks:01M56WY68RB5PA9NA4DQ2JSHTZ:opened:investigating:minor:2026-10-18T06:59:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M56WY68RB5PA9NA4DQ2JSHTZ",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-18T07:00:14.047309+00:00",
-  "started_at": "2026-10-18T06:59:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M56WY68RB5PA9NA4DQ2JSHTZ"
  }
 ]
