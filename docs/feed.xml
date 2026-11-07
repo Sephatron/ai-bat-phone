@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 DeepSeek is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.deepseek.com/incidents/7219383236287</link>
+<guid isPermaLink='false'>deepseek:urn:flashduty:change:7219383236287:opened:monitoring:minor:2026-11-07T07:15:47.659045+00:00</guid>
+<pubDate>Sat, 07 Nov 2026 07:15:47 +0000</pubDate>
+<category>DeepSeek</category>
+<description><![CDATA[<p><strong>DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）</strong></p><p>Impact: minor · Status: monitoring · Affects: DeepSeek V4 Pro API服务(API Service), DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), 搜索服务(Search Service) · Opened: Sat, 07 Nov 2026 07:11:38 +0000</p><p>Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: DeepSeek V4 Pro API服务(API Service), DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), 搜索服务(Search Service)</p><p><a href="https://status.deepseek.com/incidents/7219383236287">DeepSeek status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M6SPSBQB0S13V2GX5V4QBY8E</link>
 <guid isPermaLink='false'>fireworks:01M6SPSBQB0S13V2GX5V4QBY8E:resolved:resolved:minor:2026-11-07T02:40:31+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 23:15:23 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Multiple services degraded</strong></p><p>Impact: major · Status: resolved · Affects: Automations, BugBot, Cloud Agents, Grok Bot, Origin · Duration: 1h 58m · Opened: Wed, 28 Oct 2026 21:15:10 +0000</p><p>This incident has been resolved. All services have returned to normal operation.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_d25569b21cabd283">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Cursor is out. Go and look at a tree.]]></title>
-<link>https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283</link>
-<guid isPermaLink='false'>cursor:ps_d25569b21cabd283:opened:investigating:major:2026-10-28T21:15:10+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 21:15:55 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Multiple services degraded: Cloud Agents, Grok Bot, Origin</strong></p><p>Impact: major · Status: investigating · Affects: Cloud Agents, Grok Bot, Origin · Opened: Wed, 28 Oct 2026 21:15:10 +0000</p><p>We are investigating service degradation for multiple services. Users may see failures across Cloud Agents, Grok Bot, and Origin. Apologies for the trouble.</p><p><a href="https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
