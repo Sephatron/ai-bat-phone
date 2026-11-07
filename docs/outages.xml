@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M6SPSBQB0S13V2GX5V4QBY8E</link>
+<guid isPermaLink='false'>fireworks:01M6SPSBQB0S13V2GX5V4QBY8E:resolved:resolved:minor:2026-11-07T02:40:31+00:00</guid>
+<pubDate>Sat, 07 Nov 2026 02:45:46 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 07m · Opened: Sat, 07 Nov 2026 00:33:26 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6SPSBQB0S13V2GX5V4QBY8E">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 10 min]]></title>
 <link>https://status.fireworks.ai/incidents/01M6SW94PVHCMN7DSFN4FW6NH3</link>
 <guid isPermaLink='false'>fireworks:01M6SW94PVHCMN7DSFN4FW6NH3:resolved:resolved:minor:2026-11-07T02:19:40+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 21:15:55 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Multiple services degraded: Cloud Agents, Grok Bot, Origin</strong></p><p>Impact: major · Status: investigating · Affects: Cloud Agents, Grok Bot, Origin · Opened: Wed, 28 Oct 2026 21:15:10 +0000</p><p>We are investigating service degradation for multiple services. Users may see failures across Cloud Agents, Grok Bot, and Origin. Apologies for the trouble.</p><p><a href="https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is fine again]]></title>
-<link>https://stspg.io/75qq31h8672d</link>
-<guid isPermaLink='false'>anthropic:phg1y2yh07n2:resolved:resolved:minor:2026-10-28T20:05:18.230000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 20:15:55 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Google Calendar connector</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude Code, Claude Cowork · Duration: 3h 46m · Opened: Wed, 28 Oct 2026 16:19:09 +0000</p><p>The issue affecting the Google Calendar connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 04:07 PT / 11:07 UTC on October 26 to 11:52 PT / 18:52 UTC on October 28.</p><p><a href="https://stspg.io/75qq31h8672d">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

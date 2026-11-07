@@ -2,6 +2,24 @@
  {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
+  "duration": "2h 07m",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M6SPSBQB0S13V2GX5V4QBY8E:resolved:resolved:minor:2026-11-07T02:40:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M6SPSBQB0S13V2GX5V4QBY8E",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-07T02:45:46.976657+00:00",
+  "started_at": "2026-11-07T00:33:26+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M6SPSBQB0S13V2GX5V4QBY8E"
+ },
+ {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
   "duration": "10 min",
   "headline": "🟢 Fireworks AI sorted itself out after 10 min",
   "id": "fireworks:01M6SW94PVHCMN7DSFN4FW6NH3:resolved:resolved:minor:2026-11-07T02:19:40+00:00",
@@ -7792,23 +7810,5 @@
   "title": "Investigating service degradation",
   "transition": "progress",
   "url": "https://stspg.io/zf1tvrpck8sj"
- },
- {
-  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
-  "id": "openai:01M5A5S1ATN3QB2WCHQ3VDZC81:opened:identified:minor:2026-10-19T13:31:52+00:00",
-  "impact": "minor",
-  "incident_id": "01M5A5S1ATN3QB2WCHQ3VDZC81",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-19T13:45:16.772655+00:00",
-  "started_at": "2026-10-19T13:31:52+00:00",
-  "status": "identified",
-  "title": "File Download errors",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81"
  }
 ]
