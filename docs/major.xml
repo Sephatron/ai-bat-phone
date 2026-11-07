@@ -945,13 +945,5 @@
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 1h 07m · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
-<link>https://stspg.io/nrv2k8s68bwn</link>
-<guid isPermaLink='false'>github:8tzbpcnl75jp:opened:investigating:critical:2026-10-19T15:56:34.100000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 16:00:14 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>We’re are currently investigating degraded availability affecting GitHub Actions, GitHub Pages and Webhooks. Customers may experience delays in workflow processing, site builds and webhook delivery.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

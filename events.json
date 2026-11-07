@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "14 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M6THM4N52KH9BG50H1ESKAXR:resolved:resolved:minor:2026-11-07T08:36:30+00:00",
+  "impact": "minor",
+  "incident_id": "01M6THM4N52KH9BG50H1ESKAXR",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-07T08:45:47.826597+00:00",
+  "started_at": "2026-11-07T08:22:27+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M6THM4N52KH9BG50H1ESKAXR"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7788,27 +7806,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "opened",
   "url": "https://stspg.io/0s6t57vsg1nl"
- },
- {
-  "body": "We’re are currently investigating degraded availability affecting GitHub Actions, GitHub Pages and Webhooks. Customers may experience delays in workflow processing, site builds and webhook delivery.",
-  "components": [
-   "Webhooks",
-   "Actions",
-   "Pages"
-  ],
-  "duration": "",
-  "headline": "🔴 Tools down: GitHub is broken",
-  "id": "github:8tzbpcnl75jp:opened:investigating:critical:2026-10-19T15:56:34.100000+00:00",
-  "impact": "critical",
-  "incident_id": "8tzbpcnl75jp",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-19T16:00:14.132056+00:00",
-  "started_at": "2026-10-19T15:49:25.822000+00:00",
-  "status": "investigating",
-  "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-  "transition": "opened",
-  "url": "https://stspg.io/nrv2k8s68bwn"
  }
 ]
