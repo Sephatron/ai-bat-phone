@@ -1,5 +1,28 @@
 [
  {
+  "body": "Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4 Pro API服务(API Service), DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), 搜索服务(Search Service)",
+  "components": [
+   "DeepSeek V4 Pro API服务(API Service)",
+   "DeepSeek V4.1 Flash API服务(API Service)",
+   "对话服务(Chatservice)",
+   "搜索服务(Search Service)"
+  ],
+  "duration": "",
+  "headline": "🟢 DeepSeek is fine again",
+  "id": "deepseek:urn:flashduty:change:7219383236287:resolved:resolved:minor:2026-11-07T08:00:48.052278+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7219383236287",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-11-07T08:00:48.052278+00:00",
+  "started_at": "2026-11-07T07:11:38+00:00",
+  "status": "resolved",
+  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
+  "transition": "resolved",
+  "url": "https://status.deepseek.com/incidents/7219383236287"
+ },
+ {
   "body": "Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: DeepSeek V4 Pro API服务(API Service), DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), 搜索服务(Search Service)",
   "components": [
    "DeepSeek V4 Pro API服务(API Service)",
@@ -7787,28 +7810,5 @@
   "title": "File Download errors",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M5A5S1ATN3QB2WCHQ3VDZC81"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience!",
-  "components": [
-   "CLI",
-   "Cloud Agents",
-   "cursor.com",
-   "IDE"
-  ],
-  "duration": "27 min",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:fhvjq1tr18sl:resolved:resolved:minor:2026-10-19T13:52:07.400000+00:00",
-  "impact": "minor",
-  "incident_id": "fhvjq1tr18sl",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-19T14:00:15.528745+00:00",
-  "started_at": "2026-10-19T13:24:52.403000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation",
-  "transition": "resolved",
-  "url": "https://stspg.io/zf1tvrpck8sj"
  }
 ]
