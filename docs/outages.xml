@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Lovable is fine again]]></title>
+<link>https://status.lovable.dev/incidents/01M6SNXJCK95HGXBSNKM8ZQSX4</link>
+<guid isPermaLink='false'>lovable:01M6SNXJCK95HGXBSNKM8ZQSX4:resolved:resolved:minor:2026-11-07T01:39:17+00:00</guid>
+<pubDate>Sat, 07 Nov 2026 01:45:48 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Degraded Lovable Cloud project creation</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 21m · Opened: Sat, 07 Nov 2026 00:18:16 +0000</p><p>Our vendor reports that its upstream provider has implemented changes and project creation in US-West-2 is recovering.</p><p><a href="https://status.lovable.dev/incidents/01M6SNXJCK95HGXBSNKM8ZQSX4">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7</link>
 <guid isPermaLink='false'>openai:01M6S2FV5TZWQ753NHRB7BF5K7:progress:monitoring:none:2026-11-07T01:29:31+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 28 Oct 2026 16:30:56 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read Baseten's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.baseten.co">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Claude is having a wobble]]></title>
-<link>https://stspg.io/75qq31h8672d</link>
-<guid isPermaLink='false'>anthropic:phg1y2yh07n2:opened:investigating:minor:2026-10-28T16:19:10.243000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 16:30:56 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Google Calendar connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude Code, Claude Cowork · Opened: Wed, 28 Oct 2026 16:19:09 +0000</p><p>We are investigating elevated errors affecting the Google Calendar connector. Some requests to list or search calendar events have been failing since October 26. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/75qq31h8672d">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

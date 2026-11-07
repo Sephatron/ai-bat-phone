@@ -1,5 +1,23 @@
 [
  {
+  "body": "Our vendor reports that its upstream provider has implemented changes and project creation in US-West-2 is recovering.",
+  "components": [],
+  "duration": "1h 21m",
+  "headline": "🟢 Lovable is fine again",
+  "id": "lovable:01M6SNXJCK95HGXBSNKM8ZQSX4:resolved:resolved:minor:2026-11-07T01:39:17+00:00",
+  "impact": "minor",
+  "incident_id": "01M6SNXJCK95HGXBSNKM8ZQSX4",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-07T01:45:48.184105+00:00",
+  "started_at": "2026-11-07T00:18:16+00:00",
+  "status": "resolved",
+  "title": "Degraded Lovable Cloud project creation",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M6SNXJCK95HGXBSNKM8ZQSX4"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7799,23 +7817,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M58V86R7FY1HB8YQF12TP0WY"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "21 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M56WY68RB5PA9NA4DQ2JSHTZ:resolved:resolved:minor:2026-10-18T07:21:06+00:00",
-  "impact": "minor",
-  "incident_id": "01M56WY68RB5PA9NA4DQ2JSHTZ",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-18T07:30:13.614308+00:00",
-  "started_at": "2026-10-18T06:59:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M56WY68RB5PA9NA4DQ2JSHTZ"
  }
 ]
