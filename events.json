@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are investigating elevated errors on requests to Claude Fable 5.1. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🟠 Claude is a bit under the weather",
+  "id": "anthropic:kw2lxj1th04c:opened:investigating:minor:2026-11-08T08:28:33.134000+00:00",
+  "impact": "minor",
+  "incident_id": "kw2lxj1th04c",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-08T08:30:48.630585+00:00",
+  "started_at": "2026-11-08T08:28:32.806000+00:00",
+  "status": "investigating",
+  "title": "Degraded performance for Claude Fable 5.1",
+  "transition": "opened",
+  "url": "https://stspg.io/3m3q1nwb142k"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "14 min",
@@ -7786,25 +7809,5 @@
   "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
   "transition": "resolved",
   "url": "https://stspg.io/nrv2k8s68bwn"
- },
- {
-  "body": "We are investigating a service degradation affecting Grok Bot where routines may be delayed.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is having a wobble",
-  "id": "cursor:48bg6xqptq72:opened:investigating:minor:2026-10-19T16:15:04.574000+00:00",
-  "impact": "minor",
-  "incident_id": "48bg6xqptq72",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-19T16:30:13.699085+00:00",
-  "started_at": "2026-10-19T16:15:04.442000+00:00",
-  "status": "investigating",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "opened",
-  "url": "https://stspg.io/0s6t57vsg1nl"
  }
 ]

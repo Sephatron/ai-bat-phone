@@ -338,6 +338,12 @@
    "status": "resolved",
    "updated_at": "2026-08-14T10:28:22.827000+00:00"
   },
+  "anthropic:kw2lxj1th04c": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-08T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-08T08:28:33.134000+00:00"
+  },
   "anthropic:lhqp09kxq7pb": {
    "impact": "minor",
    "last_seen_at": "2026-10-07T00:00:00+00:00",

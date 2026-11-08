@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Claude is a bit under the weather]]></title>
+<link>https://stspg.io/3m3q1nwb142k</link>
+<guid isPermaLink='false'>anthropic:kw2lxj1th04c:opened:investigating:minor:2026-11-08T08:28:33.134000+00:00</guid>
+<pubDate>Sun, 08 Nov 2026 08:30:48 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.1</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 08 Nov 2026 08:28:32 +0000</p><p>We are investigating elevated errors on requests to Claude Fable 5.1. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/3m3q1nwb142k">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M6THM4N52KH9BG50H1ESKAXR</link>
 <guid isPermaLink='false'>fireworks:01M6THM4N52KH9BG50H1ESKAXR:resolved:resolved:minor:2026-11-07T08:36:30+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 03:45:19 +0000</pubDate>
 <category>AI21</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 SambaNova is readable again, so silence here means quiet once more]]></title>
-<link>https://status.sambanova.ai</link>
-<guid isPermaLink='false'>meta:sambanova:recovered:2026-10-29T02:00:00+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 03:15:19 +0000</pubDate>
-<category>SambaNova</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read SambaNova's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
