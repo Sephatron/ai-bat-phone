@@ -64,7 +64,9 @@
    "consecutive_failures": 0
   },
   "windsurf": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-11-08T21:00:00+00:00",
+   "last_error": "https://status.windsurf.com/api/v2/incidents.json: <urlopen error [Errno 104] Connection reset by peer>"
   }
  },
  "seen": {
