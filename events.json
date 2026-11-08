@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M6XVDCKRT3PSB0YP8J30GTD5:progress:monitoring:minor:2026-11-08T15:43:50+00:00",
+  "impact": "minor",
+  "incident_id": "01M6XVDCKRT3PSB0YP8J30GTD5",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-08T15:45:48.339446+00:00",
+  "started_at": "2026-11-08T15:11:15+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors with image generation",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
@@ -7793,23 +7811,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M5APTB2MB411VCQMH1FCKC08"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M5AWN3HZ4Y95J3C4EQQC1NV2:opened:investigating:minor:2026-10-19T20:11:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M5AWN3HZ4Y95J3C4EQQC1NV2",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-19T20:15:15.693058+00:00",
-  "started_at": "2026-10-19T20:11:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M5AWN3HZ4Y95J3C4EQQC1NV2"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5</link>
+<guid isPermaLink='false'>openai:01M6XVDCKRT3PSB0YP8J30GTD5:progress:monitoring:minor:2026-11-08T15:43:50+00:00</guid>
+<pubDate>Sun, 08 Nov 2026 15:45:48 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with image generation</strong></p><p>Impact: minor · Status: monitoring · Opened: Sun, 08 Nov 2026 15:11:15 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI knows what it did]]></title>
 <link>https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5</link>
 <guid isPermaLink='false'>openai:01M6XVDCKRT3PSB0YP8J30GTD5:opened:identified:minor:2026-11-08T15:11:15+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 14:15:19 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Publishing failures for Enterprise apps hosted on Azure</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 29 Oct 2026 14:03:11 +0000</p><p>[Monitoring] We have applied a fix and are monitoring to confirm that publishing apps hosted on Azure is working as expected for Enterprise customers. Affected users can try republishing their apps now. Impacted: Publishing</p><p><a href="https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
-<link>https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca</link>
-<guid isPermaLink='false'>replit:2ce43e6f-b516-43fa-b65f-3bf6376082ca:opened:identified:minor:2026-10-29T13:30:19.352179+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 13:30:19 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Publishing failures for Enterprise apps hosted on Azure</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 29 Oct 2026 13:18:48 +0000</p><p>[Identified] We have identified the issue preventing Enterprise customers from publishing apps hosted on Azure and are working on a fix. Impacted: Publishing</p><p><a href="https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
