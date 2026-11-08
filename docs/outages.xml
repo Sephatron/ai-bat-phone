@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/5yt31mfmyc6p</link>
+<guid isPermaLink='false'>github:pyynvrm1vskw:progress:monitoring:minor:2026-11-08T12:29:30.618000+00:00</guid>
+<pubDate>Sun, 08 Nov 2026 12:30:48 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Increase in timeouts for some unauthenticated users</strong></p><p>Impact: minor · Status: monitoring · Affects: API Requests · Opened: Sun, 08 Nov 2026 10:36:05 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/5yt31mfmyc6p">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
 <link>https://stspg.io/5yt31mfmyc6p</link>
 <guid isPermaLink='false'>github:pyynvrm1vskw:opened:investigating:minor:2026-11-08T10:36:05.528000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 12:45:19 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
-<link>https://stspg.io/22p3vp78z20q</link>
-<guid isPermaLink='false'>github:rn76zdy367m2:opened:investigating:minor:2026-10-29T10:22:18.215000+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 10:30:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>We are experiencing increased failures and latency on our agent sessions service, including creating and listing sessions. This can impact cloud based agent sessions on web, mobile, VS Code, CLI and the GitHub Copilot app.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
