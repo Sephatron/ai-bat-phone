@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub sorted itself out after 1h 56m]]></title>
+<link>https://stspg.io/5yt31mfmyc6p</link>
+<guid isPermaLink='false'>github:pyynvrm1vskw:resolved:resolved:minor:2026-11-08T12:32:35.646000+00:00</guid>
+<pubDate>Sun, 08 Nov 2026 12:45:48 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Increase in timeouts for some unauthenticated users</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests · Duration: 1h 56m · Opened: Sun, 08 Nov 2026 10:36:05 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5yt31mfmyc6p">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/5yt31mfmyc6p</link>
 <guid isPermaLink='false'>github:pyynvrm1vskw:progress:monitoring:minor:2026-11-08T12:29:30.618000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 13:00:21 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 29m · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/22p3vp78z20q</link>
-<guid isPermaLink='false'>github:rn76zdy367m2:progress:monitoring:minor:2026-10-29T12:33:32.205000+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 12:45:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
