@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating reports of impacted performance for some GitHub services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from GitHub",
+  "id": "github:pyynvrm1vskw:opened:investigating:minor:2026-11-08T10:36:05.528000+00:00",
+  "impact": "minor",
+  "incident_id": "pyynvrm1vskw",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-08T10:45:48.058600+00:00",
+  "started_at": "2026-11-08T10:36:05.474000+00:00",
+  "status": "investigating",
+  "title": "Increase in timeouts for some unauthenticated users",
+  "transition": "opened",
+  "url": "https://stspg.io/5yt31mfmyc6p"
+ },
+ {
   "body": "The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 00:18 PT / 08:18 UTC on Nov 8 to 00:32 PT / 08:32 UTC on Nov 8.",
   "components": [
    "claude.ai",
@@ -7793,25 +7811,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "opened",
   "url": "https://stspg.io/m85mb3fzh2nh"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "1h 06m",
-  "headline": "🟢 Cursor sorted itself out after 1h 06m",
-  "id": "cursor:48bg6xqptq72:resolved:resolved:minor:2026-10-19T17:21:36.794000+00:00",
-  "impact": "minor",
-  "incident_id": "48bg6xqptq72",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-19T17:30:15.478326+00:00",
-  "started_at": "2026-10-19T16:15:04.442000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/0s6t57vsg1nl"
  }
 ]

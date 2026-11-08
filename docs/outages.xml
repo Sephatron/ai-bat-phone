@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
+<link>https://stspg.io/5yt31mfmyc6p</link>
+<guid isPermaLink='false'>github:pyynvrm1vskw:opened:investigating:minor:2026-11-08T10:36:05.528000+00:00</guid>
+<pubDate>Sun, 08 Nov 2026 10:45:48 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Increase in timeouts for some unauthenticated users</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 08 Nov 2026 10:36:05 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/5yt31mfmyc6p">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude sorted itself out after 26 min]]></title>
 <link>https://stspg.io/3m3q1nwb142k</link>
 <guid isPermaLink='false'>anthropic:kw2lxj1th04c:resolved:resolved:minor:2026-11-08T08:54:43.776000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 10:30:20 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>We are experiencing increased failures and latency on our agent sessions service, including creating and listing sessions. This can impact cloud based agent sessions on web, mobile, VS Code, CLI and the GitHub Copilot app.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fine again]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452</link>
-<guid isPermaLink='false'>cursor:ps_95a4f0b2be913452:resolved:resolved:minor:2026-10-29T09:18:22+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 09:30:19 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Degraded performance — Origin and Cloud Agents</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, BugBot, Cloud Agents, Grok Bot, Origin, Review Agents · Duration: 16 min · Opened: Thu, 29 Oct 2026 09:01:50 +0000</p><p>This incident has been resolved. Cloud Agents and Origin have returned to normal performance.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
