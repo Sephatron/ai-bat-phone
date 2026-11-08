@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for Claude Fable 5.1 and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:kw2lxj1th04c:progress:monitoring:minor:2026-11-08T08:39:01.291000+00:00",
+  "impact": "minor",
+  "incident_id": "kw2lxj1th04c",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-08T08:45:47.716797+00:00",
+  "started_at": "2026-11-08T08:28:32.806000+00:00",
+  "status": "monitoring",
+  "title": "Degraded performance for Claude Fable 5.1",
+  "transition": "progress",
+  "url": "https://stspg.io/3m3q1nwb142k"
+ },
+ {
   "body": "We are investigating elevated errors on requests to Claude Fable 5.1. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7787,27 +7810,5 @@
   "title": "Investigating service degradation — Grok Bot",
   "transition": "progress",
   "url": "https://stspg.io/0s6t57vsg1nl"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Webhooks",
-   "Actions",
-   "Pages"
-  ],
-  "duration": "1h 07m",
-  "headline": "🟢 GitHub lives. Pick your tools back up.",
-  "id": "github:8tzbpcnl75jp:resolved:resolved:critical:2026-10-19T16:56:58.422000+00:00",
-  "impact": "critical",
-  "incident_id": "8tzbpcnl75jp",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-19T17:00:14.362205+00:00",
-  "started_at": "2026-10-19T15:49:25.822000+00:00",
-  "status": "resolved",
-  "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-  "transition": "resolved",
-  "url": "https://stspg.io/nrv2k8s68bwn"
  }
 ]

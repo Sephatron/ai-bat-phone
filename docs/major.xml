@@ -937,13 +937,5 @@
 <category>Perplexity</category>
 <description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 GitHub lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/nrv2k8s68bwn</link>
-<guid isPermaLink='false'>github:8tzbpcnl75jp:resolved:resolved:critical:2026-10-19T16:56:58.422000+00:00</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:14 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degraded availability for GitHub Actions, GitHub Pages and Webhooks</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 1h 07m · Opened: Mon, 19 Oct 2026 15:49:25 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/nrv2k8s68bwn">GitHub status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

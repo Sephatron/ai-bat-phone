@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/3m3q1nwb142k</link>
+<guid isPermaLink='false'>anthropic:kw2lxj1th04c:progress:monitoring:minor:2026-11-08T08:39:01.291000+00:00</guid>
+<pubDate>Sun, 08 Nov 2026 08:45:47 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.1</strong></p><p>Impact: minor · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 08 Nov 2026 08:28:32 +0000</p><p>A fix has been deployed for Claude Fable 5.1 and we are monitoring for recovery.</p><p><a href="https://stspg.io/3m3q1nwb142k">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Claude is a bit under the weather]]></title>
 <link>https://stspg.io/3m3q1nwb142k</link>
 <guid isPermaLink='false'>anthropic:kw2lxj1th04c:opened:investigating:minor:2026-11-08T08:28:33.134000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 09:15:20 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Degraded performance — Origin and Cloud Agents</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, BugBot, Cloud Agents, Grok Bot, Origin, Review Agents · Opened: Thu, 29 Oct 2026 09:01:50 +0000</p><p>We are investigating degraded performance affecting Cloud Agents and Origin. Users may see slow responses, timeouts, or retried requests. Our team is actively working to restore normal performance.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
-<link>https://status.ai21.com</link>
-<guid isPermaLink='false'>meta:ai21:recovered:2026-10-29T01:00:00+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 03:45:19 +0000</pubDate>
-<category>AI21</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
