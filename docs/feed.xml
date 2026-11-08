@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI knows what it did]]></title>
+<link>https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5</link>
+<guid isPermaLink='false'>openai:01M6XVDCKRT3PSB0YP8J30GTD5:opened:identified:minor:2026-11-08T15:11:15+00:00</guid>
+<pubDate>Sun, 08 Nov 2026 15:15:48 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Image generation experiencing elevated error rates</strong></p><p>Impact: minor · Status: identified · Opened: Sun, 08 Nov 2026 15:11:15 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub sorted itself out after 1h 56m]]></title>
 <link>https://stspg.io/5yt31mfmyc6p</link>
 <guid isPermaLink='false'>github:pyynvrm1vskw:resolved:resolved:minor:2026-11-08T12:32:35.646000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 13:30:19 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Publishing failures for Enterprise apps hosted on Azure</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 29 Oct 2026 13:18:48 +0000</p><p>[Identified] We have identified the issue preventing Enterprise customers from publishing apps hosted on Azure and are working on a fix. Impacted: Publishing</p><p><a href="https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
-<link>https://stspg.io/22p3vp78z20q</link>
-<guid isPermaLink='false'>github:rn76zdy367m2:resolved:resolved:minor:2026-10-29T12:49:52.175000+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 13:00:21 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Copilot Cloud services</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 29m · Opened: Thu, 29 Oct 2026 10:19:55 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/22p3vp78z20q">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

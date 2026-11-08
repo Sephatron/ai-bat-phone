@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI knows what it did",
+  "id": "openai:01M6XVDCKRT3PSB0YP8J30GTD5:opened:identified:minor:2026-11-08T15:11:15+00:00",
+  "impact": "minor",
+  "incident_id": "01M6XVDCKRT3PSB0YP8J30GTD5",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-08T15:15:48.529710+00:00",
+  "started_at": "2026-11-08T15:11:15+00:00",
+  "status": "identified",
+  "title": "Image generation experiencing elevated error rates",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "API Requests"
@@ -7793,25 +7811,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5AWN3HZ4Y95J3C4EQQC1NV2"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "18 min",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:c30f94k6rtrp:resolved:resolved:minor:2026-10-19T18:28:33.771000+00:00",
-  "impact": "minor",
-  "incident_id": "c30f94k6rtrp",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-19T18:30:14.146883+00:00",
-  "started_at": "2026-10-19T18:09:57.990000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "resolved",
-  "url": "https://stspg.io/m85mb3fzh2nh"
  }
 ]
