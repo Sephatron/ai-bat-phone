@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 00:18 PT / 08:18 UTC on Nov 8 to 00:32 PT / 08:32 UTC on Nov 8.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "26 min",
+  "headline": "🟢 Claude sorted itself out after 26 min",
+  "id": "anthropic:kw2lxj1th04c:resolved:resolved:minor:2026-11-08T08:54:43.776000+00:00",
+  "impact": "minor",
+  "incident_id": "kw2lxj1th04c",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-08T09:00:47.277574+00:00",
+  "started_at": "2026-11-08T08:28:32.806000+00:00",
+  "status": "resolved",
+  "title": "Degraded performance for Claude Fable 5.1",
+  "transition": "resolved",
+  "url": "https://stspg.io/3m3q1nwb142k"
+ },
+ {
   "body": "A fix has been deployed for Claude Fable 5.1 and we are monitoring for recovery.",
   "components": [
    "claude.ai",
@@ -7789,26 +7812,6 @@
   "status": "resolved",
   "title": "Investigating service degradation — Grok Bot",
   "transition": "resolved",
-  "url": "https://stspg.io/0s6t57vsg1nl"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration.",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor is on the mend. Don't get comfortable yet.",
-  "id": "cursor:48bg6xqptq72:progress:monitoring:minor:2026-10-19T17:10:56.479000+00:00",
-  "impact": "minor",
-  "incident_id": "48bg6xqptq72",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-19T17:15:16.016932+00:00",
-  "started_at": "2026-10-19T16:15:04.442000+00:00",
-  "status": "monitoring",
-  "title": "Investigating service degradation — Grok Bot",
-  "transition": "progress",
   "url": "https://stspg.io/0s6t57vsg1nl"
  }
 ]

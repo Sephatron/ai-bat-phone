@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 08 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude sorted itself out after 26 min]]></title>
+<link>https://stspg.io/3m3q1nwb142k</link>
+<guid isPermaLink='false'>anthropic:kw2lxj1th04c:resolved:resolved:minor:2026-11-08T08:54:43.776000+00:00</guid>
+<pubDate>Sun, 08 Nov 2026 09:00:47 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.1</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 26 min · Opened: Sun, 08 Nov 2026 08:28:32 +0000</p><p>The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 00:18 PT / 08:18 UTC on Nov 8 to 00:32 PT / 08:32 UTC on Nov 8.</p><p><a href="https://stspg.io/3m3q1nwb142k">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/3m3q1nwb142k</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 09:30:19 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Degraded performance — Origin and Cloud Agents</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, BugBot, Cloud Agents, Grok Bot, Origin, Review Agents · Duration: 16 min · Opened: Thu, 29 Oct 2026 09:01:50 +0000</p><p>This incident has been resolved. Cloud Agents and Origin have returned to normal performance.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452</link>
-<guid isPermaLink='false'>cursor:ps_95a4f0b2be913452:opened:investigating:minor:2026-10-29T09:01:50+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 09:15:20 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Degraded performance — Origin and Cloud Agents</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, BugBot, Cloud Agents, Grok Bot, Origin, Review Agents · Opened: Thu, 29 Oct 2026 09:01:50 +0000</p><p>We are investigating degraded performance affecting Cloud Agents and Origin. Users may see slow responses, timeouts, or retried requests. Our team is actively working to restore normal performance.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
