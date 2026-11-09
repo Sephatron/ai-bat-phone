@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R</link>
+<guid isPermaLink='false'>openai:01M70RDA2GWD2WXE58ANY0WV5R:resolved:resolved:minor:2026-11-09T19:08:31+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 19:15:17 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated ChatGPT Conversation Errors</strong></p><p>Impact: minor · Status: resolved · Duration: 52 min · Opened: Mon, 09 Nov 2026 18:16:30 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is upright again. That took 46 min.]]></title>
 <link>https://stspg.io/7yw63xl9ztrv</link>
 <guid isPermaLink='false'>github:tp8cghg7tlc4:resolved:resolved:critical:2026-11-09T18:59:32.604000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 18:00:20 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks, Actions · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>We are investigating reports of degraded performance for Actions and Webhooks</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S</link>
-<guid isPermaLink='false'>openai:01M66KSDH67V5BQ73PE8AD2W8S:progress:monitoring:minor:2026-10-30T16:06:34+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 16:15:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for GPT Image 2 API image edits</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 30 Oct 2026 14:35:28 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "52 min",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M70RDA2GWD2WXE58ANY0WV5R:resolved:resolved:minor:2026-11-09T19:08:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M70RDA2GWD2WXE58ANY0WV5R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-09T19:15:17.862802+00:00",
+  "started_at": "2026-11-09T18:16:30+00:00",
+  "status": "resolved",
+  "title": "Elevated ChatGPT Conversation Errors",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Webhooks",
@@ -7814,23 +7832,5 @@
   "title": "Elevated errors on DeepSeek V4 Flash on Model APIs",
   "transition": "resolved",
   "url": "https://stspg.io/ll791598g9tx"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M5E4G39TD1BW1QWHZG6RFA5H:opened:monitoring:minor:2026-10-21T02:27:42+00:00",
-  "impact": "minor",
-  "incident_id": "01M5E4G39TD1BW1QWHZG6RFA5H",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-21T02:30:14.633049+00:00",
-  "started_at": "2026-10-21T02:26:28+00:00",
-  "status": "monitoring",
-  "title": "Degraded performance in ChatGPT, Codex, and APIs",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H"
  }
 ]
