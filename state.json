@@ -4460,6 +4460,12 @@
    "status": "completed",
    "updated_at": "2018-12-13T18:15:31.901000+00:00"
   },
+  "github:xxb3l2bm76dr": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-09T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-09T10:00:35.653000+00:00"
+  },
   "github:y1t7p9fzrlj2": {
    "impact": "critical",
    "last_seen_at": "2026-11-04T00:00:00+00:00",

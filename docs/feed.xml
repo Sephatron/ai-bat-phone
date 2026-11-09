@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
+<link>https://stspg.io/4vdghm7tycm4</link>
+<guid isPermaLink='false'>github:xxb3l2bm76dr:opened:investigating:minor:2026-11-09T10:00:35.653000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 10:15:50 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>We are investigating reports of degraded performance for Actions and Webhooks</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub sorted itself out after 3h 10m]]></title>
 <link>https://stspg.io/jztczfplj6yb</link>
 <guid isPermaLink='false'>github:c9px7cw2ghrs:resolved:resolved:minor:2026-11-09T09:09:56.206000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 09:30:19 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>ElevenCreative - Content generations - degraded performance</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 09:19:13 +0000</p><p>We are investigating elevated latency and timeouts affecting content generations in ElevenCreative. Some generations may get stuck or fail to complete. Our team is actively looking into the cause and will post updates as we learn more.</p><p><a href="https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 7h 41m]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc</link>
-<guid isPermaLink='false'>cursor:ps_35b661ea1cde5cbc:resolved:resolved:minor:2026-10-30T07:11:00+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 07:15:18 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Cloud Agent Degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Cloud Agents, IDE · Duration: 7h 41m · Opened: Thu, 29 Oct 2026 23:29:27 +0000</p><p>This incident has been resolved. Cloud Agent services have returned to normal operation.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
