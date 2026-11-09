@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub: Increased timeouts due to surge in anonymous users]]></title>
+<link>https://stspg.io/jztczfplj6yb</link>
+<guid isPermaLink='false'>github:c9px7cw2ghrs:progress:investigating:minor:2026-11-09T07:43:15.426000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 07:45:48 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Increased timeouts due to surge in anonymous users</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 09 Nov 2026 05:59:07 +0000</p><p>We have observed a repeated increase in 504 errors for anonymous and unauthenticated traffic, including users who are not logged in and release downloads. We are continuing to investigate and apply mitigations.</p><p><a href="https://stspg.io/jztczfplj6yb">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/jztczfplj6yb</link>
 <guid isPermaLink='false'>github:c9px7cw2ghrs:progress:monitoring:minor:2026-11-09T06:51:26.487000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 07:15:18 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating Service Degradation with VS Code Extensions</strong></p><p>Impact: minor · Status: resolved · Affects: IDE · Duration: 9h 34m · Opened: Thu, 29 Oct 2026 21:38:10 +0000</p><p>This incident has been resolved. All services have returned to normal operation.</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4</link>
-<guid isPermaLink='false'>cursor:ps_e5eb22a9954466c4:resolved:resolved:minor:2026-10-30T01:20:15+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 01:30:20 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Auto Review Degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 35m · Opened: Thu, 29 Oct 2026 23:44:42 +0000</p><p>This has been resolved</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
