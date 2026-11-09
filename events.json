@@ -1,5 +1,49 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Automations",
+   "Cloud Agents",
+   "CLI",
+   "IDE",
+   "Third-party models"
+  ],
+  "duration": "34 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_36cccee22d7e0c91:resolved:resolved:minor:2026-11-09T23:44:34+00:00",
+  "impact": "minor",
+  "incident_id": "ps_36cccee22d7e0c91",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-09T23:45:16.536770+00:00",
+  "started_at": "2026-11-09T23:10:16+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for OpenAI model requests",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K2.8 Preview"
+  ],
+  "duration": "13 min",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:590wxyr5lvgb:resolved:resolved:critical:2026-11-09T23:37:43.554000+00:00",
+  "impact": "critical",
+  "incident_id": "590wxyr5lvgb",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-09T23:45:16.536770+00:00",
+  "started_at": "2026-11-09T23:24:43.238000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K2.8 Preview TTFT 响应延迟升高",
+  "transition": "resolved",
+  "url": "https://stspg.io/w8ch3lz033z7"
+ },
+ {
   "body": "K2.8 Preview 部分请求的 TTFT 延迟可能升高",
   "components": [
    "K2.8 Preview"
@@ -7822,41 +7866,5 @@
   "title": "Delays for Pull Requests and Webhook deliveries",
   "transition": "opened",
   "url": "https://stspg.io/gnnt0tx9nxmk"
- },
- {
-  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has found the culprit",
-  "id": "openai:01M5FD63HHDRPQPM5YMQWJ5HTN:opened:identified:major:2026-10-21T14:17:32+00:00",
-  "impact": "major",
-  "incident_id": "01M5FD63HHDRPQPM5YMQWJ5HTN",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-21T14:30:27.477590+00:00",
-  "started_at": "2026-10-21T14:17:32+00:00",
-  "status": "identified",
-  "title": "Elevated FedRAMP API error rates for Astra and Sol",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "1h 01m",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M5ETTK0ZCA6HPC1S1JV6YFJE:resolved:resolved:minor:2026-10-21T09:58:31+00:00",
-  "impact": "minor",
-  "incident_id": "01M5ETTK0ZCA6HPC1S1JV6YFJE",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-21T10:00:15.204553+00:00",
-  "started_at": "2026-10-21T08:56:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE"
  }
 ]

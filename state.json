@@ -1889,8 +1889,8 @@
   "cursor:ps_36cccee22d7e0c91": {
    "impact": "minor",
    "last_seen_at": "2026-11-09T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-09T23:10:16+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-09T23:44:34+00:00"
   },
   "cursor:ps_3e59314c94d41d47": {
    "impact": "minor",
@@ -5099,8 +5099,8 @@
   "moonshot:590wxyr5lvgb": {
    "impact": "critical",
    "last_seen_at": "2026-11-09T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-09T23:24:43.377000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-09T23:37:43.554000+00:00"
   },
   "moonshot:5cnqtgflcxlc": {
    "impact": "critical",

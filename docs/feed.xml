@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91</link>
+<guid isPermaLink='false'>cursor:ps_36cccee22d7e0c91:resolved:resolved:minor:2026-11-09T23:44:34+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 23:45:16 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors for OpenAI model requests</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Cloud Agents, CLI, IDE, Third-party models · Duration: 34 min · Opened: Mon, 09 Nov 2026 23:10:16 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/w8ch3lz033z7</link>
+<guid isPermaLink='false'>moonshot:590wxyr5lvgb:resolved:resolved:critical:2026-11-09T23:37:43.554000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 23:45:16 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K2.8 Preview TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K2.8 Preview · Duration: 13 min · Opened: Mon, 09 Nov 2026 23:24:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/w8ch3lz033z7">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/w8ch3lz033z7</link>
 <guid isPermaLink='false'>moonshot:590wxyr5lvgb:opened:investigating:critical:2026-11-09T23:24:43.377000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 21:00:19 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service degradation</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 30 Oct 2026 20:51:04 +0000</p><p>We are experiencing service degradation impacting deployment creation, dedicated training, and batch inference services. We are working to resolve these issues and will provide updates here.</p><p><a href="https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A</link>
-<guid isPermaLink='false'>fireworks:01M6752F3ZBDTVVMZ6DTXAA68A:resolved:resolved:minor:2026-10-30T20:13:36+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 20:15:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 36 min · Opened: Fri, 30 Oct 2026 19:37:31 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7</link>
-<guid isPermaLink='false'>openai:01M6754SR14HCQ3E9FX426E2N7:opened:investigating:minor:2026-10-30T19:38:47+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 19:45:18 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 19:38:47 +0000</p><p>We’re aware of issues affecting search in Dots, ChatGPT Work, and some ChatGPT thinking experiences. We’re investigating and will share updates here.</p><p><a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
