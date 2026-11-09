@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 SambaNova is under the bonnet right now]]></title>
+<link>https://stspg.io/jhrm1plcyg85</link>
+<guid isPermaLink='false'>sambanova:zw752rgdzhv4:progress:in_progress:maintenance:2026-11-09T22:00:12.707000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 22:15:17 +0000</pubDate>
+<category>SambaNova</category>
+<description><![CDATA[<p><strong>Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC)</strong></p><p>Scheduled maintenance · Status: in progress · Affects: SambaCloud Playground, MiniMax-M2.7, SambaCloud API Gateway, gpt-oss-120b, gemma-4-31B-it, Meta-Llama-3.3-70B-Instruct, SambaCloud - Japan, DeepSeek-V3.1 · Opened: Mon, 09 Nov 2026 19:23:48 +0000</p><p>Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><a href="https://stspg.io/jhrm1plcyg85">SambaNova status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔧 SambaNova has scheduled a lie-down]]></title>
 <link>https://stspg.io/jhrm1plcyg85</link>
 <guid isPermaLink='false'>sambanova:zw752rgdzhv4:opened:scheduled:maintenance:2026-11-09T19:23:48.583000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 18:45:19 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors for GPT Image 2 API image edits</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 01m · Opened: Fri, 30 Oct 2026 14:35:28 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 GitHub went from annoying to actual]]></title>
-<link>https://stspg.io/5cd2m4n59spv</link>
-<guid isPermaLink='false'>github:pwxsjgnvrk6b:escalated:investigating:major:2026-10-30T18:06:21.714000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 18:15:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: major · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>We continue to investigate delays affecting Actions workflows, Pages deployments, and webhook events, along with errors affecting code search and live updates. We have taken mitigation steps. Actions processing and Pages deployments are showing signs of recovery, but impact has not fully resolved. We are monitoring recovery and investigating the underlying cause.</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
