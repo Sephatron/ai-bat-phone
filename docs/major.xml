@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 GitHub is out. Go and look at a tree.]]></title>
+<link>https://stspg.io/7yw63xl9ztrv</link>
+<guid isPermaLink='false'>github:tp8cghg7tlc4:opened:investigating:critical:2026-11-09T18:24:51.610000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 18:30:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions and Checks API</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 18:12:37 +0000</p><p>We're investigating elevated errors affecting GitHub Actions and the Checks API. We'll share another update as we learn more.</p><p><a href="https://stspg.io/7yw63xl9ztrv">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/k78kbpqrzkqh</link>
 <guid isPermaLink='false'>moonshot:qr8tbjbdz48y:resolved:resolved:critical:2026-11-09T12:32:12.054000+00:00</guid>

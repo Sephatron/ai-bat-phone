@@ -4388,6 +4388,12 @@
    "status": "completed",
    "updated_at": "2025-03-19T05:00:23.142000+00:00"
   },
+  "github:tp8cghg7tlc4": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-09T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-09T18:24:51.610000+00:00"
+  },
   "github:tx9qn4khd664": {
    "impact": "critical",
    "last_seen_at": "2026-11-05T00:00:00+00:00",
@@ -6223,6 +6229,12 @@
    "last_seen_at": "2026-11-09T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-11-08T17:00:42+00:00"
+  },
+  "openai:01M70RDA2GWD2WXE58ANY0WV5R": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-09T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-11-09T18:16:30+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

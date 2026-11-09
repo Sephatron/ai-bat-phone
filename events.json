@@ -1,5 +1,44 @@
 [
  {
+  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M70RDA2GWD2WXE58ANY0WV5R:opened:monitoring:minor:2026-11-09T18:16:30+00:00",
+  "impact": "minor",
+  "incident_id": "01M70RDA2GWD2WXE58ANY0WV5R",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-09T18:30:19.773835+00:00",
+  "started_at": "2026-11-09T18:16:30+00:00",
+  "status": "monitoring",
+  "title": "Elevated ChatGPT Conversation Errors",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R"
+ },
+ {
+  "body": "We're investigating elevated errors affecting GitHub Actions and the Checks API. We'll share another update as we learn more.",
+  "components": [
+   "Webhooks",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🔴 GitHub is out. Go and look at a tree.",
+  "id": "github:tp8cghg7tlc4:opened:investigating:critical:2026-11-09T18:24:51.610000+00:00",
+  "impact": "critical",
+  "incident_id": "tp8cghg7tlc4",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-09T18:30:19.773835+00:00",
+  "started_at": "2026-11-09T18:12:37.232000+00:00",
+  "status": "investigating",
+  "title": "Incident with Actions and Checks API",
+  "transition": "opened",
+  "url": "https://stspg.io/7yw63xl9ztrv"
+ },
+ {
   "body": "[Resolved] Chat is working on mobile now. Impacted: Mobile App",
   "components": [],
   "duration": "",
@@ -7788,44 +7827,6 @@
   "status": "resolved",
   "title": "Elevated errors for image requests on multiple Model APIs",
   "transition": "resolved",
-  "url": "https://stspg.io/t5r9t8qz850b"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "6 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 6 min",
-  "id": "fireworks:01M5E0BD82NP5SMPEQKW0X1AAX:resolved:resolved:minor:2026-10-21T01:20:14+00:00",
-  "impact": "minor",
-  "incident_id": "01M5E0BD82NP5SMPEQKW0X1AAX",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-21T01:30:14.626585+00:00",
-  "started_at": "2026-10-21T01:14:00+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3 Flash",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5E0BD82NP5SMPEQKW0X1AAX"
- },
- {
-  "body": "There are elevated errors for image requests on Deepseek V4 Flash and GLM 5.3 Flash",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "",
-  "headline": "🟠 Baseten has a limp, not a break",
-  "id": "baseten:6j87tp9dhf4t:opened:investigating:minor:2026-10-21T01:05:09.804000+00:00",
-  "impact": "minor",
-  "incident_id": "6j87tp9dhf4t",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-10-21T01:15:14.710921+00:00",
-  "started_at": "2026-10-21T01:05:09.698000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors for image requests on multiple Model APIs",
-  "transition": "opened",
   "url": "https://stspg.io/t5r9t8qz850b"
  }
 ]

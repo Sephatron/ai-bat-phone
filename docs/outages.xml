@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R</link>
+<guid isPermaLink='false'>openai:01M70RDA2GWD2WXE58ANY0WV5R:opened:monitoring:minor:2026-11-09T18:16:30+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 18:30:19 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated ChatGPT Conversation Errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 09 Nov 2026 18:16:30 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 GitHub is out. Go and look at a tree.]]></title>
+<link>https://stspg.io/7yw63xl9ztrv</link>
+<guid isPermaLink='false'>github:tp8cghg7tlc4:opened:investigating:critical:2026-11-09T18:24:51.610000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 18:30:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions and Checks API</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 18:12:37 +0000</p><p>We're investigating elevated errors affecting GitHub Actions and the Checks API. We'll share another update as we learn more.</p><p><a href="https://stspg.io/7yw63xl9ztrv">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
 <link>https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4</link>
 <guid isPermaLink='false'>replit:64959389-1dac-491f-843e-5c1c2e17c6a4:resolved:resolved:minor:2026-11-09T18:00:22.534339+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: monitoring · Affects: Issues, Pages · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>The degradation affecting Pages has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-10-30</guid>
-<pubDate>Fri, 30 Oct 2026 14:45:19 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S</link>
-<guid isPermaLink='false'>openai:01M66KSDH67V5BQ73PE8AD2W8S:opened:identified:minor:2026-10-30T14:35:28+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 14:45:19 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for GPT Image 2 API image edits</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 30 Oct 2026 14:35:28 +0000</p><p>We are experiencing elevated errors for some GPT Image 2 API image edit requests. We have identified the issue and are working on a fix</p><p><a href="https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
