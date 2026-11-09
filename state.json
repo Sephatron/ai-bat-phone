@@ -5066,6 +5066,12 @@
    "status": "resolved",
    "updated_at": "2026-07-27T15:44:12.518000+00:00"
   },
+  "moonshot:5cnqtgflcxlc": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-09T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-09T05:37:12.116000+00:00"
+  },
   "moonshot:6c19fdrn2hps": {
    "impact": "critical",
    "last_seen_at": "2026-09-10T00:00:00+00:00",
