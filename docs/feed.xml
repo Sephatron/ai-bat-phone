@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91</link>
+<guid isPermaLink='false'>cursor:ps_36cccee22d7e0c91:opened:investigating:minor:2026-11-09T23:10:16+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 23:15:17 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors for OpenAI model requests</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, CLI, IDE · Opened: Mon, 09 Nov 2026 23:10:16 +0000</p><p>We're investigating elevated errors affecting requests to OpenAI models. Some users may see failed or incomplete responses. Other models are unaffected and can be used in the meantime. We'll share another update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91">Cursor status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔍 OpenAI knows what it did]]></title>
+<link>https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7</link>
+<guid isPermaLink='false'>openai:01M7193DWYRFWQM5W6E3VZ7TM7:opened:identified:minor:2026-11-09T23:08:12+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 23:15:17 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated Errors On API</strong></p><p>Impact: minor · Status: identified · Opened: Mon, 09 Nov 2026 23:08:12 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔧 SambaNova is under the bonnet right now]]></title>
 <link>https://stspg.io/jhrm1plcyg85</link>
 <guid isPermaLink='false'>sambanova:zw752rgdzhv4:progress:in_progress:maintenance:2026-11-09T22:00:12.707000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 19:30:19 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: major · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 1h 32m · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/5cd2m4n59spv</link>
-<guid isPermaLink='false'>github:pwxsjgnvrk6b:progress:monitoring:major:2026-10-30T18:32:39.862000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 18:45:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: major · Status: monitoring · Affects: Webhooks, Actions, Pages · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S</link>
-<guid isPermaLink='false'>openai:01M66KSDH67V5BQ73PE8AD2W8S:resolved:resolved:minor:2026-10-30T18:36:55+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 18:45:19 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors for GPT Image 2 API image edits</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 01m · Opened: Fri, 30 Oct 2026 14:35:28 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

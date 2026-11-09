@@ -1,5 +1,46 @@
 [
  {
+  "body": "We're investigating elevated errors affecting requests to OpenAI models. Some users may see failed or incomplete responses. Other models are unaffected and can be used in the meantime. We'll share another update as soon as we have more information.",
+  "components": [
+   "Automations",
+   "Cloud Agents",
+   "CLI",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is having a wobble",
+  "id": "cursor:ps_36cccee22d7e0c91:opened:investigating:minor:2026-11-09T23:10:16+00:00",
+  "impact": "minor",
+  "incident_id": "ps_36cccee22d7e0c91",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-09T23:15:17.793575+00:00",
+  "started_at": "2026-11-09T23:10:16+00:00",
+  "status": "investigating",
+  "title": "Elevated errors for OpenAI model requests",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91"
+ },
+ {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI knows what it did",
+  "id": "openai:01M7193DWYRFWQM5W6E3VZ7TM7:opened:identified:minor:2026-11-09T23:08:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M7193DWYRFWQM5W6E3VZ7TM7",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-09T23:15:17.793575+00:00",
+  "started_at": "2026-11-09T23:08:12+00:00",
+  "status": "identified",
+  "title": "Elevated Errors On API",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7"
+ },
+ {
   "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
   "components": [
    "SambaCloud Playground",
@@ -7812,41 +7853,5 @@
   "title": "Service Degradation for Deepseek V4.1 Flash",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K"
- },
- {
-  "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M5EEXQ8Z0FG35R8E9R0D8E6K:opened:investigating:minor:2026-10-21T05:28:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M5EEXQ8Z0FG35R8E9R0D8E6K",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-21T05:30:14.704761+00:00",
-  "started_at": "2026-10-21T05:28:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Deepseek V4.1 Flash",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "21 min",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M5E4G39TD1BW1QWHZG6RFA5H:resolved:resolved:minor:2026-10-21T02:48:17+00:00",
-  "impact": "minor",
-  "incident_id": "01M5E4G39TD1BW1QWHZG6RFA5H",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-21T03:00:13.984274+00:00",
-  "started_at": "2026-10-21T02:26:28+00:00",
-  "status": "resolved",
-  "title": "Degraded performance in ChatGPT, Codex, and APIs",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5E4G39TD1BW1QWHZG6RFA5H"
  }
 ]
