@@ -1,5 +1,46 @@
 [
  {
+  "body": "K2.8 Preview 部分请求的 TTFT 延迟可能升高",
+  "components": [
+   "K2.8 Preview"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.",
+  "id": "moonshot:590wxyr5lvgb:opened:investigating:critical:2026-11-09T23:24:43.377000+00:00",
+  "impact": "critical",
+  "incident_id": "590wxyr5lvgb",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-09T23:30:17.685258+00:00",
+  "started_at": "2026-11-09T23:24:43.238000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K2.8 Preview TTFT 响应延迟升高",
+  "transition": "opened",
+  "url": "https://stspg.io/w8ch3lz033z7"
+ },
+ {
+  "body": "Copilot is operating normally.",
+  "components": [
+   "Copilot",
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "🔴 GitHub has gone dark. Nothing you did. Probably.",
+  "id": "github:6jm5k16vyhfg:opened:investigating:major:2026-11-09T23:22:46.530000+00:00",
+  "impact": "major",
+  "incident_id": "6jm5k16vyhfg",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-09T23:30:17.685258+00:00",
+  "started_at": "2026-11-09T23:16:32.224000+00:00",
+  "status": "investigating",
+  "title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
+  "transition": "opened",
+  "url": "https://stspg.io/t5gqmprtrdf2"
+ },
+ {
   "body": "We're investigating elevated errors affecting requests to OpenAI models. Some users may see failed or incomplete responses. Other models are unaffected and can be used in the meantime. We'll share another update as soon as we have more information.",
   "components": [
    "Automations",
@@ -7817,41 +7858,5 @@
   "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE"
- },
- {
-  "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M5ETTK0ZCA6HPC1S1JV6YFJE:opened:investigating:minor:2026-10-21T08:56:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M5ETTK0ZCA6HPC1S1JV6YFJE",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-21T09:00:15.418205+00:00",
-  "started_at": "2026-10-21T08:56:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M5ETTK0ZCA6HPC1S1JV6YFJE"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "29 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 29 min",
-  "id": "fireworks:01M5EEXQ8Z0FG35R8E9R0D8E6K:resolved:resolved:minor:2026-10-21T05:58:30+00:00",
-  "impact": "minor",
-  "incident_id": "01M5EEXQ8Z0FG35R8E9R0D8E6K",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-21T06:00:15.125866+00:00",
-  "started_at": "2026-10-21T05:28:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Deepseek V4.1 Flash",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5EEXQ8Z0FG35R8E9R0D8E6K"
  }
 ]

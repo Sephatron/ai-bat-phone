@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/w8ch3lz033z7</link>
+<guid isPermaLink='false'>moonshot:590wxyr5lvgb:opened:investigating:critical:2026-11-09T23:24:43.377000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 23:30:17 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K2.8 Preview TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K2.8 Preview · Opened: Mon, 09 Nov 2026 23:24:43 +0000</p><p>K2.8 Preview 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/w8ch3lz033z7">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/t5gqmprtrdf2</link>
+<guid isPermaLink='false'>github:6jm5k16vyhfg:opened:investigating:major:2026-11-09T23:22:46.530000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 23:30:17 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot</strong></p><p>Impact: major · Status: investigating · Affects: Copilot, Copilot AI Model Providers · Opened: Mon, 09 Nov 2026 23:16:32 +0000</p><p>Copilot is operating normally.</p><p><a href="https://stspg.io/t5gqmprtrdf2">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Cursor is having a wobble]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91</link>
 <guid isPermaLink='false'>cursor:ps_36cccee22d7e0c91:opened:investigating:minor:2026-11-09T23:10:16+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 19:45:18 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 19:38:47 +0000</p><p>We’re aware of issues affecting search in Dots, ChatGPT Work, and some ChatGPT thinking experiences. We’re investigating and will share updates here.</p><p><a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
-<link>https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A</link>
-<guid isPermaLink='false'>fireworks:01M6752F3ZBDTVVMZ6DTXAA68A:opened:investigating:minor:2026-10-30T19:37:31+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 19:45:18 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 19:37:31 +0000</p><p>We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from GitHub after 1h 32m]]></title>
-<link>https://stspg.io/5cd2m4n59spv</link>
-<guid isPermaLink='false'>github:pwxsjgnvrk6b:resolved:resolved:major:2026-10-30T19:23:40.203000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 19:30:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: major · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 1h 32m · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

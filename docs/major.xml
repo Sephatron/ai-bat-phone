@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/w8ch3lz033z7</link>
+<guid isPermaLink='false'>moonshot:590wxyr5lvgb:opened:investigating:critical:2026-11-09T23:24:43.377000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 23:30:17 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K2.8 Preview TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K2.8 Preview · Opened: Mon, 09 Nov 2026 23:24:43 +0000</p><p>K2.8 Preview 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/w8ch3lz033z7">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/t5gqmprtrdf2</link>
+<guid isPermaLink='false'>github:6jm5k16vyhfg:opened:investigating:major:2026-11-09T23:22:46.530000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 23:30:17 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot</strong></p><p>Impact: major · Status: investigating · Affects: Copilot, Copilot AI Model Providers · Opened: Mon, 09 Nov 2026 23:16:32 +0000</p><p>Copilot is operating normally.</p><p><a href="https://stspg.io/t5gqmprtrdf2">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is upright again. That took 46 min.]]></title>
 <link>https://stspg.io/7yw63xl9ztrv</link>
 <guid isPermaLink='false'>github:tp8cghg7tlc4:resolved:resolved:critical:2026-11-09T18:59:32.604000+00:00</guid>

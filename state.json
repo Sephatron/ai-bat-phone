@@ -3848,6 +3848,12 @@
    "status": "completed",
    "updated_at": "2021-08-13T14:00:29.907000+00:00"
   },
+  "github:6jm5k16vyhfg": {
+   "impact": "major",
+   "last_seen_at": "2026-11-09T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-09T23:22:46.530000+00:00"
+  },
   "github:6w7lf30qkgqq": {
    "impact": "maintenance",
    "last_seen_at": "2026-11-09T00:00:00+00:00",
@@ -5089,6 +5095,12 @@
    "last_seen_at": "2026-09-10T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-07-27T15:44:12.518000+00:00"
+  },
+  "moonshot:590wxyr5lvgb": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-09T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-09T23:24:43.377000+00:00"
   },
   "moonshot:5cnqtgflcxlc": {
    "impact": "critical",
