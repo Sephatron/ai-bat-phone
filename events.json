@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Investigating] We are currently investigating this issue Impacted: Mobile App",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Replit is a bit under the weather",
+  "id": "replit:64959389-1dac-491f-843e-5c1c2e17c6a4:opened:investigating:minor:2026-11-09T01:15:48.009207+00:00",
+  "impact": "minor",
+  "incident_id": "64959389-1dac-491f-843e-5c1c2e17c6a4",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-09T01:15:48.009207+00:00",
+  "started_at": "2026-11-09T01:03:29+00:00",
+  "status": "investigating",
+  "title": "Chat is failing on mobile",
+  "transition": "opened",
+  "url": "https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "1h 49m",
@@ -7792,24 +7810,6 @@
   "status": "resolved",
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5B6JFNCWZMTM8MB8JCP1F90"
- },
- {
-  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M5B6JFNCWZMTM8MB8JCP1F90:opened:investigating:minor:2026-10-19T23:05:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M5B6JFNCWZMTM8MB8JCP1F90",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-19T23:15:16.170664+00:00",
-  "started_at": "2026-10-19T23:05:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5B6JFNCWZMTM8MB8JCP1F90"
  }
 ]
