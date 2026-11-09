@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "3h 10m",
+  "headline": "🟢 GitHub sorted itself out after 3h 10m",
+  "id": "github:c9px7cw2ghrs:resolved:resolved:minor:2026-11-09T09:09:56.206000+00:00",
+  "impact": "minor",
+  "incident_id": "c9px7cw2ghrs",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-09T09:15:49.165625+00:00",
+  "started_at": "2026-11-09T05:59:07.841000+00:00",
+  "status": "resolved",
+  "title": "Increased timeouts due to surge in anonymous users",
+  "transition": "resolved",
+  "url": "https://stspg.io/jztczfplj6yb"
+ },
+ {
   "body": "We have observed a repeated increase in 504 errors for anonymous and unauthenticated traffic, including users who are not logged in and release downloads. We are continuing to investigate and apply mitigations.",
   "components": [],
   "duration": "",
@@ -7793,23 +7811,5 @@
   "title": "Service Degradation for Deepseek V4.1 Flash",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "27 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 27 min",
-  "id": "fireworks:01M5D8MR9P42K116V6D8SZH4PC:resolved:resolved:minor:2026-10-20T18:47:30+00:00",
-  "impact": "minor",
-  "incident_id": "01M5D8MR9P42K116V6D8SZH4PC",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-20T19:00:15.054677+00:00",
-  "started_at": "2026-10-20T18:19:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5D8MR9P42K116V6D8SZH4PC"
  }
 ]

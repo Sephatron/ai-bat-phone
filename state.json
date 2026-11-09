@@ -3971,8 +3971,8 @@
   "github:c9px7cw2ghrs": {
    "impact": "minor",
    "last_seen_at": "2026-11-09T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-09T08:47:55.790000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-09T09:09:56.206000+00:00"
   },
   "github:cjwszcf57bff": {
    "impact": "critical",
