@@ -1,5 +1,25 @@
 [
  {
+  "body": "搜索请求报错率超过20%，持续超过1分钟",
+  "components": [
+   "Search"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) is having a proper one. This is not your code.",
+  "id": "moonshot:qr8tbjbdz48y:opened:investigating:critical:2026-11-09T12:29:13.637000+00:00",
+  "impact": "critical",
+  "incident_id": "qr8tbjbdz48y",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-09T12:30:48.246457+00:00",
+  "started_at": "2026-11-09T12:29:13.276000+00:00",
+  "status": "investigating",
+  "title": "搜索请求出现大量报错",
+  "transition": "opened",
+  "url": "https://stspg.io/k78kbpqrzkqh"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Webhooks",
@@ -7805,23 +7825,5 @@
   "title": "Lovable backends stuck after restart",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 Perplexity is readable again, so silence here means quiet once more",
-  "id": "meta:perplexity:recovered:2026-10-13T22:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "perplexity",
-  "provider_name": "Perplexity",
-  "published_at": "2026-10-20T22:00:14.134199+00:00",
-  "started_at": "2026-10-13T22:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read Perplexity's status page again",
-  "transition": "recovered",
-  "url": "https://status.perplexity.com"
  }
 ]

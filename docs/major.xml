@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is having a proper one. This is not your code.]]></title>
+<link>https://stspg.io/k78kbpqrzkqh</link>
+<guid isPermaLink='false'>moonshot:qr8tbjbdz48y:opened:investigating:critical:2026-11-09T12:29:13.637000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 12:30:48 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Mon, 09 Nov 2026 12:29:13 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/k78kbpqrzkqh">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/4vdghm7tycm4</link>
 <guid isPermaLink='false'>github:xxb3l2bm76dr:resolved:resolved:major:2026-11-09T11:50:35.805000+00:00</guid>
@@ -952,14 +960,6 @@
 <pubDate>Wed, 21 Oct 2026 14:30:27 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated FedRAMP API error rates for Astra and Sol</strong></p><p>Impact: major · Status: identified · Opened: Wed, 21 Oct 2026 14:17:32 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 Perplexity is readable again, so silence here means quiet once more]]></title>
-<link>https://status.perplexity.com</link>
-<guid isPermaLink='false'>meta:perplexity:recovered:2026-10-13T22:00:00+00:00</guid>
-<pubDate>Tue, 20 Oct 2026 22:00:14 +0000</pubDate>
-<category>Perplexity</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read Perplexity's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.perplexity.com">Perplexity status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
