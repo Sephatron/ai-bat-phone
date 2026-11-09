@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 09 Nov 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/jztczfplj6yb</link>
+<guid isPermaLink='false'>github:c9px7cw2ghrs:progress:monitoring:minor:2026-11-09T06:51:26.487000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 07:00:49 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Increased timeouts due to surge in anonymous users</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 09 Nov 2026 05:59:07 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/jztczfplj6yb">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
 <link>https://stspg.io/jztczfplj6yb</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 01:30:20 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Auto Review Degradation</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 35m · Opened: Thu, 29 Oct 2026 23:44:42 +0000</p><p>This has been resolved</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
-<link>https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4</link>
-<guid isPermaLink='false'>cursor:ps_e5eb22a9954466c4:opened:investigating:minor:2026-10-29T23:44:42+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 23:45:20 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Auto Review Degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Thu, 29 Oct 2026 23:44:42 +0000</p><p>We are investigating a degradation in Auto Review functionality</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

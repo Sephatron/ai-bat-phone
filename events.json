@@ -1,5 +1,23 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub is on the mend. Don't get comfortable yet.",
+  "id": "github:c9px7cw2ghrs:progress:monitoring:minor:2026-11-09T06:51:26.487000+00:00",
+  "impact": "minor",
+  "incident_id": "c9px7cw2ghrs",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-09T07:00:49.333924+00:00",
+  "started_at": "2026-11-09T05:59:07.841000+00:00",
+  "status": "monitoring",
+  "title": "Increased timeouts due to surge in anonymous users",
+  "transition": "progress",
+  "url": "https://stspg.io/jztczfplj6yb"
+ },
+ {
   "body": "We are investigating reports of impacted performance for some GitHub services.",
   "components": [],
   "duration": "",
@@ -7793,23 +7811,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5D8MR9P42K116V6D8SZH4PC"
- },
- {
-  "body": "The elevated response latency affecting some serverless models has been resolved. Response latency has returned to normal.",
-  "components": [],
-  "duration": "1h 21m",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M5BETDK0RJV5DGC9Z1AF1RRN:resolved:resolved:none:2026-10-20T02:50:16+00:00",
-  "impact": "none",
-  "incident_id": "01M5BETDK0RJV5DGC9Z1AF1RRN",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-20T03:00:13.730440+00:00",
-  "started_at": "2026-10-20T01:29:08+00:00",
-  "status": "resolved",
-  "title": "Elevated latency on some serverless models",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN"
  }
 ]
