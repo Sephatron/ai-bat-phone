@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔺 Upgrade your concern: GitHub is now major]]></title>
+<link>https://stspg.io/4vdghm7tycm4</link>
+<guid isPermaLink='false'>github:xxb3l2bm76dr:escalated:investigating:major:2026-11-09T11:17:28.548000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 11:30:49 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: major · Status: investigating · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>Webhooks is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <guid isPermaLink='false'>meta:all:alive:2026-11-06</guid>
