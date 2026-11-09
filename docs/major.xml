@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 09 Nov 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/4vdghm7tycm4</link>
+<guid isPermaLink='false'>github:xxb3l2bm76dr:resolved:resolved:major:2026-11-09T11:50:35.805000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 12:00:48 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: major · Status: resolved · Affects: Webhooks, Actions · Duration: 1h 50m · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/4vdghm7tycm4</link>

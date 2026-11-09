@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 09 Nov 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/4vdghm7tycm4</link>
+<guid isPermaLink='false'>github:xxb3l2bm76dr:resolved:resolved:major:2026-11-09T11:50:35.805000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 12:00:48 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: major · Status: resolved · Affects: Webhooks, Actions · Duration: 1h 50m · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/4vdghm7tycm4</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 11:00:19 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 31 min · Opened: Fri, 30 Oct 2026 10:28:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
-<link>https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D</link>
-<guid isPermaLink='false'>elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:progress:monitoring:minor:2026-10-30T10:49:55+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 11:00:19 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>ElevenCreative - Image &amp; Video - Degraded performance</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 30 Oct 2026 09:19:13 +0000</p><p>The elevated latency and timeouts affecting image and video generation, Flows, and MCP in ElevenCreative have improved. We are monitoring to confirm that generations are completing normally and will post an update once recovery is confirmed.</p><p><a href="https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

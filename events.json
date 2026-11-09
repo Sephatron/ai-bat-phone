@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Webhooks",
+   "Actions"
+  ],
+  "duration": "1h 50m",
+  "headline": "🟢 GitHub is back. Grass sufficiently touched.",
+  "id": "github:xxb3l2bm76dr:resolved:resolved:major:2026-11-09T11:50:35.805000+00:00",
+  "impact": "major",
+  "incident_id": "xxb3l2bm76dr",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-09T12:00:48.994294+00:00",
+  "started_at": "2026-11-09T10:00:35.209000+00:00",
+  "status": "resolved",
+  "title": "Incident with Webhooks and Actions",
+  "transition": "resolved",
+  "url": "https://stspg.io/4vdghm7tycm4"
+ },
+ {
   "body": "The degradation affecting Webhooks has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Webhooks",
@@ -7802,23 +7823,5 @@
   "title": "AI Bat Phone can read Perplexity's status page again",
   "transition": "recovered",
   "url": "https://status.perplexity.com"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "32 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M5DC9Y4VP3PMP8T1GBFYRRB2:resolved:resolved:minor:2026-10-20T19:56:19+00:00",
-  "impact": "minor",
-  "incident_id": "01M5DC9Y4VP3PMP8T1GBFYRRB2",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-20T20:00:14.933003+00:00",
-  "started_at": "2026-10-20T19:23:40+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Deepseek V4.1 Flash",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5DC9Y4VP3PMP8T1GBFYRRB2"
  }
 ]
