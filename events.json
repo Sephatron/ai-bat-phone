@@ -1,5 +1,27 @@
 [
  {
+  "body": "The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:tp8cghg7tlc4:progress:monitoring:critical:2026-11-09T18:43:24.587000+00:00",
+  "impact": "critical",
+  "incident_id": "tp8cghg7tlc4",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-09T18:45:18.043494+00:00",
+  "started_at": "2026-11-09T18:12:37.232000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Actions and Checks API",
+  "transition": "progress",
+  "url": "https://stspg.io/7yw63xl9ztrv"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7808,25 +7830,5 @@
   "title": "Elevated errors on DeepSeek V4 Flash on Model APIs",
   "transition": "opened",
   "url": "https://stspg.io/ll791598g9tx"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "20 min",
-  "headline": "🟢 Baseten is fine again",
-  "id": "baseten:6j87tp9dhf4t:resolved:resolved:minor:2026-10-21T01:26:02.483000+00:00",
-  "impact": "minor",
-  "incident_id": "6j87tp9dhf4t",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-10-21T01:30:14.626585+00:00",
-  "started_at": "2026-10-21T01:05:09.698000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for image requests on multiple Model APIs",
-  "transition": "resolved",
-  "url": "https://stspg.io/t5r9t8qz850b"
  }
 ]

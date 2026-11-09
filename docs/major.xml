@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/7yw63xl9ztrv</link>
+<guid isPermaLink='false'>github:tp8cghg7tlc4:progress:monitoring:critical:2026-11-09T18:43:24.587000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 18:45:18 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions and Checks API</strong></p><p>Impact: critical · Status: monitoring · Affects: Webhooks, Actions, Pages · Opened: Mon, 09 Nov 2026 18:12:37 +0000</p><p>The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/7yw63xl9ztrv">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 GitHub is out. Go and look at a tree.]]></title>
 <link>https://stspg.io/7yw63xl9ztrv</link>
 <guid isPermaLink='false'>github:tp8cghg7tlc4:opened:investigating:critical:2026-11-09T18:24:51.610000+00:00</guid>
