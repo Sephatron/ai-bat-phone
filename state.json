@@ -7136,6 +7136,12 @@
    "status": "resolved",
    "updated_at": "2025-04-19T17:51:02.303000+00:00"
   },
+  "sambanova:zw752rgdzhv4": {
+   "impact": "maintenance",
+   "last_seen_at": "2026-11-09T00:00:00+00:00",
+   "status": "scheduled",
+   "updated_at": "2026-11-09T19:23:48.583000+00:00"
+  },
   "vercel:0pl74z9tcpmk": {
    "impact": "minor",
    "last_seen_at": "2026-10-06T00:00:00+00:00",

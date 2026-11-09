@@ -1,5 +1,32 @@
 [
  {
+  "body": "Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC) We will be performing scheduled maintenance during the window above. No service outage or disruption is expected — all services will remain fully available throughout the maintenance period. We’re posting this notice for transparency and awareness. No action is required on your part. If you experience any unexpected issues during this window, please contact support and we’ll assist you right away. We’ll update this page when maintenance is complete.",
+  "components": [
+   "SambaCloud Playground",
+   "MiniMax-M2.7",
+   "SambaCloud API Gateway",
+   "gpt-oss-120b",
+   "gemma-4-31B-it",
+   "Meta-Llama-3.3-70B-Instruct",
+   "SambaCloud - Japan",
+   "DeepSeek-V3.1"
+  ],
+  "duration": "",
+  "headline": "🔧 SambaNova has scheduled a lie-down",
+  "id": "sambanova:zw752rgdzhv4:opened:scheduled:maintenance:2026-11-09T19:23:48.583000+00:00",
+  "impact": "maintenance",
+  "incident_id": "zw752rgdzhv4",
+  "kind": "maintenance",
+  "provider_key": "sambanova",
+  "provider_name": "SambaNova",
+  "published_at": "2026-11-09T19:30:17.556520+00:00",
+  "started_at": "2026-11-09T19:23:48.293000+00:00",
+  "status": "scheduled",
+  "title": "Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC)",
+  "transition": "opened",
+  "url": "https://stspg.io/jhrm1plcyg85"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "52 min",
@@ -7812,25 +7839,5 @@
   "title": "Lovable backends stuck after restart",
   "transition": "resolved",
   "url": "https://status.lovable.dev/incidents/01M5DZAPZAKVN0ZYHD9SXXXVK3"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Model APIs"
-  ],
-  "duration": "40 min",
-  "headline": "🟢 Baseten has stopped wobbling",
-  "id": "baseten:3d8t4dnndtbv:resolved:resolved:minor:2026-10-21T02:28:17.222000+00:00",
-  "impact": "minor",
-  "incident_id": "3d8t4dnndtbv",
-  "kind": "incident",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-10-21T02:30:14.633049+00:00",
-  "started_at": "2026-10-21T01:48:01.760000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors on DeepSeek V4 Flash on Model APIs",
-  "transition": "resolved",
-  "url": "https://stspg.io/ll791598g9tx"
  }
 ]
