@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 09 Nov 2026 05:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 06:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
+<link>https://stspg.io/jztczfplj6yb</link>
+<guid isPermaLink='false'>github:c9px7cw2ghrs:opened:investigating:minor:2026-11-09T05:59:07.910000+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 06:00:48 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Increased timeouts due to surge in anonymous users</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 09 Nov 2026 05:59:07 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/jztczfplj6yb">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Replit has applied a fix and is holding its breath]]></title>
 <link>https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 23:45:20 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Auto Review Degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Thu, 29 Oct 2026 23:44:42 +0000</p><p>We are investigating a degradation in Auto Review functionality</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc</link>
-<guid isPermaLink='false'>cursor:ps_35b661ea1cde5cbc:opened:investigating:minor:2026-10-29T23:29:27+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 23:30:18 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Cloud Agent Degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, IDE · Opened: Thu, 29 Oct 2026 23:29:27 +0000</p><p>We are investigation a degradation to Cloud Agents</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

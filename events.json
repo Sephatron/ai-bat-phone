@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating reports of impacted performance for some GitHub services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:c9px7cw2ghrs:opened:investigating:minor:2026-11-09T05:59:07.910000+00:00",
+  "impact": "minor",
+  "incident_id": "c9px7cw2ghrs",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-09T06:00:48.968827+00:00",
+  "started_at": "2026-11-09T05:59:07.841000+00:00",
+  "status": "investigating",
+  "title": "Increased timeouts due to surge in anonymous users",
+  "transition": "opened",
+  "url": "https://stspg.io/jztczfplj6yb"
+ },
+ {
   "body": "[Monitoring] The fix is in place and mobile chat is now functional. We are monitoring. Impacted: Mobile App",
   "components": [],
   "duration": "",
@@ -7792,24 +7810,6 @@
   "status": "resolved",
   "title": "Elevated latency on some serverless models",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN"
- },
- {
-  "body": "Some serverless models are experiencing elevated response latency. We are investigating network degradation with one of our cloud service providers that is causing these delays.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is a bit under the weather",
-  "id": "fireworks:01M5BETDK0RJV5DGC9Z1AF1RRN:opened:investigating:none:2026-10-20T01:29:08+00:00",
-  "impact": "none",
-  "incident_id": "01M5BETDK0RJV5DGC9Z1AF1RRN",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-20T01:30:13.930650+00:00",
-  "started_at": "2026-10-20T01:29:08+00:00",
-  "status": "investigating",
-  "title": "Elevated latency on some serverless models",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5BETDK0RJV5DGC9Z1AF1RRN"
  }
 ]
