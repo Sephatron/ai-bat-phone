@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Replit has applied a fix and is holding its breath]]></title>
+<link>https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4</link>
+<guid isPermaLink='false'>replit:64959389-1dac-491f-843e-5c1c2e17c6a4:progress:monitoring:minor:2026-11-09T01:30:48.323621+00:00</guid>
+<pubDate>Mon, 09 Nov 2026 01:30:48 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Chat is failing on mobile</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 09 Nov 2026 01:18:45 +0000</p><p>[Monitoring] The fix is in place and mobile chat is now functional. We are monitoring. Impacted: Mobile App</p><p><a href="https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Replit is a bit under the weather]]></title>
 <link>https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4</link>
 <guid isPermaLink='false'>replit:64959389-1dac-491f-843e-5c1c2e17c6a4:opened:investigating:minor:2026-11-09T01:15:48.009207+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 29 Oct 2026 23:30:18 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Cloud Agent Degradation</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, IDE · Opened: Thu, 29 Oct 2026 23:29:27 +0000</p><p>We are investigation a degradation to Cloud Agents</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
-<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9</link>
-<guid isPermaLink='false'>cursor:ps_ad31c985bfc193b9:opened:investigating:minor:2026-10-29T21:38:10+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 21:45:20 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating Service Degradation with VS Code Extensions</strong></p><p>Impact: minor · Status: investigating · Affects: IDE · Opened: Thu, 29 Oct 2026 21:38:10 +0000</p><p>We are investigating a service degradation with VS Code extensions</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
