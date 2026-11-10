@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "1h 05m",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M72040E6H95JDHRXK56F749G:resolved:resolved:minor:2026-11-10T06:56:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M72040E6H95JDHRXK56F749G",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-10T07:00:20.719679+00:00",
+  "started_at": "2026-11-10T05:50:28+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M72040E6H95JDHRXK56F749G"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7852,23 +7870,5 @@
   "title": "AI Bat Phone can read AI21's status page again",
   "transition": "recovered",
   "url": "https://status.ai21.com"
- },
- {
-  "body": "https://status.windsurf.com/api/v2/incidents.json: The read operation timed out",
-  "components": [],
-  "duration": "",
-  "headline": "📵 Windsurf is unreadable — silence here means unknown, not fine",
-  "id": "meta:windsurf:unreachable:2026-10-21T15:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "windsurf",
-  "provider_name": "Windsurf",
-  "published_at": "2026-10-21T16:00:25.676506+00:00",
-  "started_at": "2026-10-21T15:00:00+00:00",
-  "status": "unreachable",
-  "title": "AI Bat Phone cannot read Windsurf's status page",
-  "transition": "unreachable",
-  "url": "https://status.windsurf.com"
  }
 ]
