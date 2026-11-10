@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K</link>
+<guid isPermaLink='false'>openai:01M71W79MAGEXEX93QTVTBYJ4K:opened:monitoring:none:2026-11-10T04:42:21+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 04:45:16 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Incorrect cost data in Costs API exports</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Tue, 10 Nov 2026 04:42:21 +0000</p><p>We have identified an issue causing incorrect cost data in Costs API exports published between November 6 and 9. We are working to correct the affected records and will provide an update once recovery is confirmed.</p><p><a href="https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔧 SambaNova has put the tools away]]></title>
 <link>https://stspg.io/jhrm1plcyg85</link>
 <guid isPermaLink='false'>sambanova:zw752rgdzhv4:resolved:completed:maintenance:2026-11-10T01:00:51.817000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 22:55:27 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Investigating issues related to platform access</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 30 Oct 2026 22:47:57 +0000</p><p>[Resolved] Access to Replit services has recovered.</p><p><a href="https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/5bh6qnzn76tk</link>
-<guid isPermaLink='false'>github:lyyfm7j4pkgl:progress:monitoring:minor:2026-10-30T22:32:14.197000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 22:45:17 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Dependabot</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 30 Oct 2026 20:59:14 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/5bh6qnzn76tk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

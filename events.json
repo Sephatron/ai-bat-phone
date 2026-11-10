@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified an issue causing incorrect cost data in Costs API exports published between November 6 and 9. We are working to correct the affected records and will provide an update once recovery is confirmed.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M71W79MAGEXEX93QTVTBYJ4K:opened:monitoring:none:2026-11-10T04:42:21+00:00",
+  "impact": "none",
+  "incident_id": "01M71W79MAGEXEX93QTVTBYJ4K",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-10T04:45:16.515681+00:00",
+  "started_at": "2026-11-10T04:42:21+00:00",
+  "status": "monitoring",
+  "title": "Incorrect cost data in Costs API exports",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K"
+ },
+ {
   "body": "The scheduled maintenance has been completed.",
   "components": [
    "SambaCloud Playground",
@@ -7856,26 +7874,5 @@
   "title": "Delays for Pull Requests and Webhook deliveries",
   "transition": "escalated",
   "url": "https://stspg.io/gnnt0tx9nxmk"
- },
- {
-  "body": "A fix has been implemented and we are monitoring for service restoration.",
-  "components": [
-   "cursor.com",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor is on the mend. Don't get comfortable yet.",
-  "id": "cursor:qy67qt0s4n18:opened:monitoring:minor:2026-10-21T15:56:59.793000+00:00",
-  "impact": "minor",
-  "incident_id": "qy67qt0s4n18",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-21T16:00:25.676506+00:00",
-  "started_at": "2026-10-21T15:46:15.268000+00:00",
-  "status": "monitoring",
-  "title": "Investigating service degradation",
-  "transition": "opened",
-  "url": "https://stspg.io/jythbn6wf94k"
  }
 ]

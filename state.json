@@ -6260,6 +6260,12 @@
    "status": "resolved",
    "updated_at": "2026-11-09T23:50:46+00:00"
   },
+  "openai:01M71W79MAGEXEX93QTVTBYJ4K": {
+   "impact": "none",
+   "last_seen_at": "2026-11-10T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-11-10T04:42:21+00:00"
+  },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
    "last_seen_at": "2026-09-11T00:00:00+00:00",

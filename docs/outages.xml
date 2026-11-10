@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K</link>
+<guid isPermaLink='false'>openai:01M71W79MAGEXEX93QTVTBYJ4K:opened:monitoring:none:2026-11-10T04:42:21+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 04:45:16 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Incorrect cost data in Costs API exports</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Tue, 10 Nov 2026 04:42:21 +0000</p><p>We have identified an issue causing incorrect cost data in Costs API exports published between November 6 and 9. We are working to correct the affected records and will provide an update once recovery is confirmed.</p><p><a href="https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from GitHub after 49 min]]></title>
 <link>https://stspg.io/t5gqmprtrdf2</link>
 <guid isPermaLink='false'>github:6jm5k16vyhfg:resolved:resolved:major:2026-11-10T00:05:52.370000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 21:15:18 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 35m · Opened: Fri, 30 Oct 2026 19:38:47 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
-<link>https://stspg.io/5bh6qnzn76tk</link>
-<guid isPermaLink='false'>github:lyyfm7j4pkgl:opened:investigating:minor:2026-10-30T20:59:14.295000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 21:00:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Dependabot</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 20:59:14 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/5bh6qnzn76tk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
