@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
+<link>https://stspg.io/16nsnk2th3rv</link>
+<guid isPermaLink='false'>github:hnf21m9jkl3c:opened:investigating:minor:2026-11-10T16:10:52.296000+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 16:15:18 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Actions and Pull Requests</strong></p><p>Impact: minor · Status: investigating · Affects: Pull Requests, Actions · Opened: Tue, 10 Nov 2026 16:10:52 +0000</p><p>We are investigating reports of degraded performance for Actions and Pull Requests</p><p><a href="https://stspg.io/16nsnk2th3rv">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7</link>
+<guid isPermaLink='false'>openai:01M6S2FV5TZWQ753NHRB7BF5K7:resolved:resolved:none:2026-11-10T16:06:18+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 16:15:18 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates with some U.S. business Mastercards</strong></p><p>Impact: unclassified · Status: resolved · Duration: 3d 21h · Opened: Fri, 06 Nov 2026 18:38:43 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 2h 20m]]></title>
 <link>https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K</link>
 <guid isPermaLink='false'>openai:01M71W79MAGEXEX93QTVTBYJ4K:resolved:resolved:none:2026-11-10T07:02:33+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 31 Oct 2026 06:45:19 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sat, 31 Oct 2026 06:42:47 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/l5wtphpgmsym">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263</link>
-<guid isPermaLink='false'>cursor:ps_061cf14060aff263:opened:investigating:minor:2026-10-31T06:04:02+00:00</guid>
-<pubDate>Sat, 31 Oct 2026 06:15:20 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Multiple services degraded</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, cursor.com, Grok Bot · Opened: Sat, 31 Oct 2026 06:04:02 +0000</p><p>We are investigating a service degradation at the moment. We'll share more updates as soon as more information is available.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/gs4j9nf0w3dr</link>
-<guid isPermaLink='false'>moonshot:kq56jb7y4lcw:opened:investigating:critical:2026-10-31T05:42:47.840000+00:00</guid>
-<pubDate>Sat, 31 Oct 2026 05:45:19 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sat, 31 Oct 2026 05:42:47 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/gs4j9nf0w3dr">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

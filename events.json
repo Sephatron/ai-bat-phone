@@ -1,5 +1,44 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Actions and Pull Requests",
+  "components": [
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:hnf21m9jkl3c:opened:investigating:minor:2026-11-10T16:10:52.296000+00:00",
+  "impact": "minor",
+  "incident_id": "hnf21m9jkl3c",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-10T16:15:18.890861+00:00",
+  "started_at": "2026-11-10T16:10:52.162000+00:00",
+  "status": "investigating",
+  "title": "Incident with Actions and Pull Requests",
+  "transition": "opened",
+  "url": "https://stspg.io/16nsnk2th3rv"
+ },
+ {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "3d 21h",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M6S2FV5TZWQ753NHRB7BF5K7:resolved:resolved:none:2026-11-10T16:06:18+00:00",
+  "impact": "none",
+  "incident_id": "01M6S2FV5TZWQ753NHRB7BF5K7",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-10T16:15:18.890861+00:00",
+  "started_at": "2026-11-06T18:38:43+00:00",
+  "status": "resolved",
+  "title": "Elevated error rates with some U.S. business Mastercards",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "2h 20m",
@@ -7834,41 +7873,5 @@
   "title": "Delays syncing with GitHub",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 Windsurf is readable again, so silence here means quiet once more",
-  "id": "meta:windsurf:recovered:2026-10-21T15:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "windsurf",
-  "provider_name": "Windsurf",
-  "published_at": "2026-10-21T16:15:24.768199+00:00",
-  "started_at": "2026-10-21T15:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read Windsurf's status page again",
-  "transition": "recovered",
-  "url": "https://status.windsurf.com"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 Cerebras Inference is readable again, so silence here means quiet once more",
-  "id": "meta:cerebras:recovered:2026-10-21T15:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "cerebras",
-  "provider_name": "Cerebras Inference",
-  "published_at": "2026-10-21T16:15:24.768199+00:00",
-  "started_at": "2026-10-21T15:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read Cerebras Inference's status page again",
-  "transition": "recovered",
-  "url": "https://status.cerebras.ai"
  }
 ]

@@ -4130,6 +4130,12 @@
    "status": "completed",
    "updated_at": "2025-05-08T16:30:21.808000+00:00"
   },
+  "github:hnf21m9jkl3c": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-10T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-10T16:10:52.296000+00:00"
+  },
   "github:jk2dy5h9yp3m": {
    "impact": "minor",
    "last_seen_at": "2026-11-09T00:00:00+00:00",
@@ -6251,8 +6257,8 @@
   "openai:01M6S2FV5TZWQ753NHRB7BF5K7": {
    "impact": "none",
    "last_seen_at": "2026-11-10T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-07T01:29:31+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-10T16:06:18+00:00"
   },
   "openai:01M6XVDCKRT3PSB0YP8J30GTD5": {
    "impact": "minor",
