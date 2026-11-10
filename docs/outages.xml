@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from GitHub after 49 min]]></title>
+<link>https://stspg.io/t5gqmprtrdf2</link>
+<guid isPermaLink='false'>github:6jm5k16vyhfg:resolved:resolved:major:2026-11-10T00:05:52.370000+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 00:12:38 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot</strong></p><p>Impact: major · Status: resolved · Affects: Copilot, Copilot AI Model Providers · Duration: 49 min · Opened: Mon, 09 Nov 2026 23:16:32 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/t5gqmprtrdf2">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/t5gqmprtrdf2</link>
 <guid isPermaLink='false'>github:6jm5k16vyhfg:progress:monitoring:major:2026-11-09T23:59:44.242000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 21:00:19 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Dependabot</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 20:59:14 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/5bh6qnzn76tk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Fireworks AI has identified the problem. Fix pending.]]></title>
-<link>https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3</link>
-<guid isPermaLink='false'>fireworks:01M679955DA5K8S2HMEXDPCBR3:opened:identified:none:2026-10-30T20:51:04+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 21:00:19 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service degradation</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 30 Oct 2026 20:51:04 +0000</p><p>We are experiencing service degradation impacting deployment creation, dedicated training, and batch inference services. We are working to resolve these issues and will provide updates here.</p><p><a href="https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Copilot",
+   "Copilot AI Model Providers"
+  ],
+  "duration": "49 min",
+  "headline": "🟢 All clear from GitHub after 49 min",
+  "id": "github:6jm5k16vyhfg:resolved:resolved:major:2026-11-10T00:05:52.370000+00:00",
+  "impact": "major",
+  "incident_id": "6jm5k16vyhfg",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-10T00:12:38.682298+00:00",
+  "started_at": "2026-11-09T23:16:32.224000+00:00",
+  "status": "resolved",
+  "title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
+  "transition": "resolved",
+  "url": "https://stspg.io/t5gqmprtrdf2"
+ },
+ {
   "body": "The issue affecting GPT-5.3 Codex, GPT-5.6 Luna, and GPT-5.6 Sol in Copilot products and IDE surfaces has been mitigated. We are monitoring the service to ensure stability.",
   "components": [
    "Copilot",
@@ -7846,24 +7867,6 @@
   "status": "monitoring",
   "title": "Elevated error rates for gpt-5.6-luna API requests",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N"
- },
- {
-  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
-  "id": "openai:01M5FHKHPQJMSHCE2B2WDPZW2N:opened:identified:minor:2026-10-21T15:34:47+00:00",
-  "impact": "minor",
-  "incident_id": "01M5FHKHPQJMSHCE2B2WDPZW2N",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-21T15:45:25.872286+00:00",
-  "started_at": "2026-10-21T15:34:47+00:00",
-  "status": "identified",
-  "title": "Elevated error rates for gpt-5.6-luna API requests",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N"
  }
 ]

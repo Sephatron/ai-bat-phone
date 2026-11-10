@@ -3851,8 +3851,8 @@
   "github:6jm5k16vyhfg": {
    "impact": "major",
    "last_seen_at": "2026-11-10T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-09T23:59:44.242000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-10T00:05:52.370000+00:00"
   },
   "github:6w7lf30qkgqq": {
    "impact": "maintenance",
