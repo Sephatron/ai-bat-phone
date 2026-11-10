@@ -1,5 +1,32 @@
 [
  {
+  "body": "The scheduled maintenance has been completed.",
+  "components": [
+   "SambaCloud Playground",
+   "MiniMax-M2.7",
+   "SambaCloud API Gateway",
+   "gpt-oss-120b",
+   "gemma-4-31B-it",
+   "Meta-Llama-3.3-70B-Instruct",
+   "SambaCloud - Japan",
+   "DeepSeek-V3.1"
+  ],
+  "duration": "5h 37m",
+  "headline": "🔧 SambaNova has put the tools away",
+  "id": "sambanova:zw752rgdzhv4:resolved:completed:maintenance:2026-11-10T01:00:51.817000+00:00",
+  "impact": "maintenance",
+  "incident_id": "zw752rgdzhv4",
+  "kind": "maintenance",
+  "provider_key": "sambanova",
+  "provider_name": "SambaNova",
+  "published_at": "2026-11-10T01:15:16.979675+00:00",
+  "started_at": "2026-11-09T19:23:48.293000+00:00",
+  "status": "completed",
+  "title": "Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC)",
+  "transition": "resolved",
+  "url": "https://stspg.io/jhrm1plcyg85"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Copilot",
@@ -7850,23 +7877,5 @@
   "title": "Investigating service degradation",
   "transition": "opened",
   "url": "https://stspg.io/jythbn6wf94k"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M5FHKHPQJMSHCE2B2WDPZW2N:progress:monitoring:minor:2026-10-21T15:47:26+00:00",
-  "impact": "minor",
-  "incident_id": "01M5FHKHPQJMSHCE2B2WDPZW2N",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-21T16:00:25.676506+00:00",
-  "started_at": "2026-10-21T15:34:47+00:00",
-  "status": "monitoring",
-  "title": "Elevated error rates for gpt-5.6-luna API requests",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N"
  }
 ]

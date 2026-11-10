@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 SambaNova has put the tools away]]></title>
+<link>https://stspg.io/jhrm1plcyg85</link>
+<guid isPermaLink='false'>sambanova:zw752rgdzhv4:resolved:completed:maintenance:2026-11-10T01:00:51.817000+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 01:15:16 +0000</pubDate>
+<category>SambaNova</category>
+<description><![CDATA[<p><strong>Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC)</strong></p><p>Scheduled maintenance · Status: completed · Affects: SambaCloud Playground, MiniMax-M2.7, SambaCloud API Gateway, gpt-oss-120b, gemma-4-31B-it, Meta-Llama-3.3-70B-Instruct, SambaCloud - Japan, DeepSeek-V3.1 · Duration: 5h 37m · Opened: Mon, 09 Nov 2026 19:23:48 +0000</p><p>The scheduled maintenance has been completed.</p><p><a href="https://stspg.io/jhrm1plcyg85">SambaNova status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from GitHub after 49 min]]></title>
 <link>https://stspg.io/t5gqmprtrdf2</link>
 <guid isPermaLink='false'>github:6jm5k16vyhfg:resolved:resolved:major:2026-11-10T00:05:52.370000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 22:45:17 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Dependabot</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 30 Oct 2026 20:59:14 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/5bh6qnzn76tk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
-<link>https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e</link>
-<guid isPermaLink='false'>replit:36c1345c-f557-4403-93ac-da9c3f350a9e:opened:identified:minor:2026-10-30T22:30:18.579175+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 22:30:18 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Investigating issues related to platform access</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 30 Oct 2026 22:21:10 +0000</p><p>[Identified] Customers reporting Replit is inaccessible</p><p><a href="https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
