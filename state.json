@@ -7268,6 +7268,12 @@
    "status": "resolved",
    "updated_at": "2026-09-18T22:31:22.780000+00:00"
   },
+  "vercel:5m8qxy05bly7": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-10T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-10T21:08:33.854000+00:00"
+  },
   "vercel:75b4vyf7cm69": {
    "impact": "major",
    "last_seen_at": "2026-11-10T00:00:00+00:00",
