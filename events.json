@@ -1,5 +1,44 @@
 [
  {
+  "body": "The issue affecting GPT-5.3 Codex, GPT-5.6 Luna, and GPT-5.6 Sol in Copilot products and IDE surfaces has been mitigated. We are monitoring the service to ensure stability.",
+  "components": [
+   "Copilot",
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:6jm5k16vyhfg:progress:monitoring:major:2026-11-09T23:59:44.242000+00:00",
+  "impact": "major",
+  "incident_id": "6jm5k16vyhfg",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-10T00:00:17.491148+00:00",
+  "started_at": "2026-11-09T23:16:32.224000+00:00",
+  "status": "monitoring",
+  "title": "Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
+  "transition": "progress",
+  "url": "https://stspg.io/t5gqmprtrdf2"
+ },
+ {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "42 min",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M7193DWYRFWQM5W6E3VZ7TM7:resolved:resolved:minor:2026-11-09T23:50:46+00:00",
+  "impact": "minor",
+  "incident_id": "01M7193DWYRFWQM5W6E3VZ7TM7",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-10T00:00:17.491148+00:00",
+  "started_at": "2026-11-09T23:08:12+00:00",
+  "status": "resolved",
+  "title": "Elevated Errors On API",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Automations",
@@ -7826,45 +7865,5 @@
   "title": "Elevated error rates for gpt-5.6-luna API requests",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N"
- },
- {
-  "body": "https://status.ai21.com/api/v2/incidents.json: The read operation timed out",
-  "components": [],
-  "duration": "",
-  "headline": "📵 AI21 is unreadable — silence here means unknown, not fine",
-  "id": "meta:ai21:unreachable:2026-10-21T15:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "ai21",
-  "provider_name": "AI21",
-  "published_at": "2026-10-21T15:30:26.541944+00:00",
-  "started_at": "2026-10-21T15:00:00+00:00",
-  "status": "unreachable",
-  "title": "AI Bat Phone cannot read AI21's status page",
-  "transition": "unreachable",
-  "url": "https://status.ai21.com"
- },
- {
-  "body": "We are investigating reports of degraded performance for Actions, Pull Requests and Webhooks",
-  "components": [
-   "Webhooks",
-   "Pull Requests",
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from GitHub",
-  "id": "github:nms1dpzmh9d9:opened:investigating:minor:2026-10-21T14:52:50.124000+00:00",
-  "impact": "minor",
-  "incident_id": "nms1dpzmh9d9",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-21T15:00:24.346886+00:00",
-  "started_at": "2026-10-21T14:52:49.969000+00:00",
-  "status": "investigating",
-  "title": "Delays for Pull Requests and Webhook deliveries",
-  "transition": "opened",
-  "url": "https://stspg.io/gnnt0tx9nxmk"
  }
 ]

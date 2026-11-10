@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 09 Nov 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/t5gqmprtrdf2</link>
+<guid isPermaLink='false'>github:6jm5k16vyhfg:progress:monitoring:major:2026-11-09T23:59:44.242000+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:17 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot</strong></p><p>Impact: major · Status: monitoring · Affects: Copilot, Copilot AI Model Providers · Opened: Mon, 09 Nov 2026 23:16:32 +0000</p><p>The issue affecting GPT-5.3 Codex, GPT-5.6 Luna, and GPT-5.6 Sol in Copilot products and IDE surfaces has been mitigated. We are monitoring the service to ensure stability.</p><p><a href="https://stspg.io/t5gqmprtrdf2">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7</link>
+<guid isPermaLink='false'>openai:01M7193DWYRFWQM5W6E3VZ7TM7:resolved:resolved:minor:2026-11-09T23:50:46+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:17 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated Errors On API</strong></p><p>Impact: minor · Status: resolved · Duration: 42 min · Opened: Mon, 09 Nov 2026 23:08:12 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 30 Oct 2026 21:00:19 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service degradation</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 30 Oct 2026 20:51:04 +0000</p><p>We are experiencing service degradation impacting deployment creation, dedicated training, and batch inference services. We are working to resolve these issues and will provide updates here.</p><p><a href="https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A</link>
-<guid isPermaLink='false'>fireworks:01M6752F3ZBDTVVMZ6DTXAA68A:resolved:resolved:minor:2026-10-30T20:13:36+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 20:15:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 36 min · Opened: Fri, 30 Oct 2026 19:37:31 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7</link>
-<guid isPermaLink='false'>openai:01M6754SR14HCQ3E9FX426E2N7:opened:investigating:minor:2026-10-30T19:38:47+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 19:45:18 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 30 Oct 2026 19:38:47 +0000</p><p>We’re aware of issues affecting search in Dots, ChatGPT Work, and some ChatGPT thinking experiences. We’re investigating and will share updates here.</p><p><a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
