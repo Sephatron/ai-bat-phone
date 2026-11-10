@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "2h 20m",
+  "headline": "🟢 OpenAI sorted itself out after 2h 20m",
+  "id": "openai:01M71W79MAGEXEX93QTVTBYJ4K:resolved:resolved:none:2026-11-10T07:02:33+00:00",
+  "impact": "none",
+  "incident_id": "01M71W79MAGEXEX93QTVTBYJ4K",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-10T07:15:16.293419+00:00",
+  "started_at": "2026-11-10T04:42:21+00:00",
+  "status": "resolved",
+  "title": "Incorrect cost data in Costs API exports",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "1h 05m",
@@ -7852,23 +7870,5 @@
   "title": "AI Bat Phone can read Cerebras Inference's status page again",
   "transition": "recovered",
   "url": "https://status.cerebras.ai"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 AI21 is readable again, so silence here means quiet once more",
-  "id": "meta:ai21:recovered:2026-10-21T15:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "ai21",
-  "provider_name": "AI21",
-  "published_at": "2026-10-21T16:15:24.768199+00:00",
-  "started_at": "2026-10-21T15:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read AI21's status page again",
-  "transition": "recovered",
-  "url": "https://status.ai21.com"
  }
 ]
