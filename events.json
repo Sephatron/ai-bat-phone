@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M72040E6H95JDHRXK56F749G:opened:investigating:minor:2026-11-10T05:50:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M72040E6H95JDHRXK56F749G",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-10T06:00:17.549083+00:00",
+  "started_at": "2026-11-10T05:50:28+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M72040E6H95JDHRXK56F749G"
+ },
+ {
   "body": "We have identified an issue causing incorrect cost data in Costs API exports published between November 6 and 9. We are working to correct the affected records and will provide an update once recovery is confirmed.",
   "components": [],
   "duration": "",
@@ -7852,27 +7870,5 @@
   "title": "AI Bat Phone cannot read Cerebras Inference's status page",
   "transition": "unreachable",
   "url": "https://status.cerebras.ai"
- },
- {
-  "body": "We continue to see delays affecting pull request updates, webhook deliveries, and audit log events. The event streaming platform is showing signs of recovery, and we are monitoring as the impact continues.",
-  "components": [
-   "Webhooks",
-   "Pull Requests",
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🔺 Upgrade your concern: GitHub is now critical",
-  "id": "github:nms1dpzmh9d9:escalated:investigating:critical:2026-10-21T15:58:38.769000+00:00",
-  "impact": "critical",
-  "incident_id": "nms1dpzmh9d9",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-21T16:00:25.676506+00:00",
-  "started_at": "2026-10-21T14:52:49.969000+00:00",
-  "status": "investigating",
-  "title": "Delays for Pull Requests and Webhook deliveries",
-  "transition": "escalated",
-  "url": "https://stspg.io/gnnt0tx9nxmk"
  }
 ]
