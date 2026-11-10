@@ -11,6 +11,14 @@
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M720QD8Q2MVREC5H7G6DPSA6</link>
+<guid isPermaLink='false'>fireworks:01M720QD8Q2MVREC5H7G6DPSA6:opened:investigating:minor:2026-11-10T06:01:04+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 06:15:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 10 Nov 2026 06:01:04 +0000</p><p>We are seeing impacted performance for Kimi K3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M720QD8Q2MVREC5H7G6DPSA6">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M72040E6H95JDHRXK56F749G</link>
 <guid isPermaLink='false'>fireworks:01M72040E6H95JDHRXK56F749G:opened:investigating:minor:2026-11-10T05:50:28+00:00</guid>
 <pubDate>Tue, 10 Nov 2026 06:00:17 +0000</pubDate>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 31 Oct 2026 03:45:19 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sat, 31 Oct 2026 03:42:47 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/gyc737rls07g">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 2h 29m]]></title>
-<link>https://stspg.io/5bh6qnzn76tk</link>
-<guid isPermaLink='false'>github:lyyfm7j4pkgl:resolved:resolved:minor:2026-10-30T23:29:06.403000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 23:30:21 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Dependabot</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 29m · Opened: Fri, 30 Oct 2026 20:59:14 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5bh6qnzn76tk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

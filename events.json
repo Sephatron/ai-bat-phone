@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M720QD8Q2MVREC5H7G6DPSA6:opened:investigating:minor:2026-11-10T06:01:04+00:00",
+  "impact": "minor",
+  "incident_id": "01M720QD8Q2MVREC5H7G6DPSA6",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-10T06:15:17.216951+00:00",
+  "started_at": "2026-11-10T06:01:04+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M720QD8Q2MVREC5H7G6DPSA6"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7852,23 +7870,5 @@
   "title": "AI Bat Phone cannot read Windsurf's status page",
   "transition": "unreachable",
   "url": "https://status.windsurf.com"
- },
- {
-  "body": "https://status.cerebras.ai/api/v2/incidents.json: The read operation timed out",
-  "components": [],
-  "duration": "",
-  "headline": "📵 Cerebras Inference is unreadable — silence here means unknown, not fine",
-  "id": "meta:cerebras:unreachable:2026-10-21T15:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "cerebras",
-  "provider_name": "Cerebras Inference",
-  "published_at": "2026-10-21T16:00:25.676506+00:00",
-  "started_at": "2026-10-21T15:00:00+00:00",
-  "status": "unreachable",
-  "title": "AI Bat Phone cannot read Cerebras Inference's status page",
-  "transition": "unreachable",
-  "url": "https://status.cerebras.ai"
  }
 ]
