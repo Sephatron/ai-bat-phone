@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 10 Nov 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from GitHub after 1h 44m]]></title>
+<link>https://stspg.io/16nsnk2th3rv</link>
+<guid isPermaLink='false'>github:hnf21m9jkl3c:resolved:resolved:critical:2026-11-10T17:55:03.579000+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 18:00:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations and Pull Requests</strong></p><p>Impact: critical · Status: resolved · Affects: Pull Requests, Actions · Duration: 1h 44m · Opened: Tue, 10 Nov 2026 16:10:52 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/16nsnk2th3rv">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
 <link>https://stspg.io/16nsnk2th3rv</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 3h 54m · Opened: Sat, 31 Oct 2026 03:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gyc737rls07g">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263</link>
-<guid isPermaLink='false'>cursor:ps_061cf14060aff263:resolved:resolved:minor:2026-10-31T06:47:33+00:00</guid>
-<pubDate>Sat, 31 Oct 2026 07:00:19 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Multiple services degraded</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Cloud Agents, cursor.com, Grok Bot · Duration: 43 min · Opened: Sat, 31 Oct 2026 06:04:02 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

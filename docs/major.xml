@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 10 Nov 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from GitHub after 1h 44m]]></title>
+<link>https://stspg.io/16nsnk2th3rv</link>
+<guid isPermaLink='false'>github:hnf21m9jkl3c:resolved:resolved:critical:2026-11-10T17:55:03.579000+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 18:00:19 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations and Pull Requests</strong></p><p>Impact: critical · Status: resolved · Affects: Pull Requests, Actions · Duration: 1h 44m · Opened: Tue, 10 Nov 2026 16:10:52 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/16nsnk2th3rv">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
 <link>https://stspg.io/16nsnk2th3rv</link>

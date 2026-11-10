@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "1h 44m",
+  "headline": "🟢 All clear from GitHub after 1h 44m",
+  "id": "github:hnf21m9jkl3c:resolved:resolved:critical:2026-11-10T17:55:03.579000+00:00",
+  "impact": "critical",
+  "incident_id": "hnf21m9jkl3c",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-10T18:00:19.589323+00:00",
+  "started_at": "2026-11-10T16:10:52.162000+00:00",
+  "status": "resolved",
+  "title": "Incident with Git Operations and Pull Requests",
+  "transition": "resolved",
+  "url": "https://stspg.io/16nsnk2th3rv"
+ },
+ {
   "body": "Actions and Pull Requests are experiencing degraded availability. We are continuing to investigate.",
   "components": [
    "Pull Requests",
@@ -7858,23 +7879,5 @@
   "title": "Elevated FedRAMP API error rates for Astra and Sol",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "1h 09m",
-  "headline": "🟢 OpenAI sorted itself out after 1h 09m",
-  "id": "openai:01M5FHKHPQJMSHCE2B2WDPZW2N:resolved:resolved:minor:2026-10-21T16:44:09+00:00",
-  "impact": "minor",
-  "incident_id": "01M5FHKHPQJMSHCE2B2WDPZW2N",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-21T16:45:26.873625+00:00",
-  "started_at": "2026-10-21T15:34:47+00:00",
-  "status": "resolved",
-  "title": "Elevated error rates for gpt-5.6-luna API requests",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N"
  }
 ]
