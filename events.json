@@ -1,5 +1,26 @@
 [
  {
+  "body": "Actions and Pull Requests are experiencing degraded availability. We are continuing to investigate.",
+  "components": [
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "🔺 It got worse: GitHub is now a critical outage",
+  "id": "github:hnf21m9jkl3c:escalated:investigating:critical:2026-11-10T16:26:37.314000+00:00",
+  "impact": "critical",
+  "incident_id": "hnf21m9jkl3c",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-10T16:30:18.327945+00:00",
+  "started_at": "2026-11-10T16:10:52.162000+00:00",
+  "status": "investigating",
+  "title": "Incident with Git Operations and Pull Requests",
+  "transition": "escalated",
+  "url": "https://stspg.io/16nsnk2th3rv"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Actions and Pull Requests",
   "components": [
    "Pull Requests",
@@ -7855,23 +7876,5 @@
   "title": "Elevated error rates for gpt-5.6-luna API requests",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M5FHKHPQJMSHCE2B2WDPZW2N"
- },
- {
-  "body": "Changes syncing between Lovable and GitHub may be delayed for some users. This is caused by an issue at one of our providers, and things are starting to recover. We are monitoring closely.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Lovable has identified the problem. Fix pending.",
-  "id": "lovable:01M5FMYN5WN99KFCDS5E4K09M9:opened:identified:major:2026-10-21T16:33:16+00:00",
-  "impact": "major",
-  "incident_id": "01M5FMYN5WN99KFCDS5E4K09M9",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-21T16:45:26.873625+00:00",
-  "started_at": "2026-10-21T16:33:16+00:00",
-  "status": "identified",
-  "title": "Delays syncing with GitHub",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9"
  }
 ]

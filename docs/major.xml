@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
+<link>https://stspg.io/16nsnk2th3rv</link>
+<guid isPermaLink='false'>github:hnf21m9jkl3c:escalated:investigating:critical:2026-11-10T16:26:37.314000+00:00</guid>
+<pubDate>Tue, 10 Nov 2026 16:30:18 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Git Operations and Pull Requests</strong></p><p>Impact: critical · Status: investigating · Affects: Pull Requests, Actions · Opened: Tue, 10 Nov 2026 16:10:52 +0000</p><p>Actions and Pull Requests are experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/16nsnk2th3rv">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from GitHub after 49 min]]></title>
 <link>https://stspg.io/t5gqmprtrdf2</link>
 <guid isPermaLink='false'>github:6jm5k16vyhfg:resolved:resolved:major:2026-11-10T00:05:52.370000+00:00</guid>
@@ -960,14 +968,6 @@
 <pubDate>Wed, 21 Oct 2026 18:45:24 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: resolved · Duration: 2h 09m · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>The delays syncing changes between Lovable and GitHub have been resolved. Syncing is operating normally again.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Lovable has identified the problem. Fix pending.]]></title>
-<link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
-<guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:opened:identified:major:2026-10-21T16:33:16+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 16:45:26 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: identified · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>Changes syncing between Lovable and GitHub may be delayed for some users. This is caused by an issue at one of our providers, and things are starting to recover. We are monitoring closely.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
