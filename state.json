@@ -4103,8 +4103,8 @@
   "github:dvy0t3mvh1lg": {
    "impact": "critical",
    "last_seen_at": "2026-11-11T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-11T21:07:26.449000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-11T21:21:39.499000+00:00"
   },
   "github:f1vvv30224wd": {
    "impact": "minor",

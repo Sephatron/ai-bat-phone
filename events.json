@@ -1,5 +1,28 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages",
+   "Copilot"
+  ],
+  "duration": "33 min",
+  "headline": "🟢 GitHub is upright again. That took 33 min.",
+  "id": "github:dvy0t3mvh1lg:resolved:resolved:critical:2026-11-11T21:21:39.499000+00:00",
+  "impact": "critical",
+  "incident_id": "dvy0t3mvh1lg",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-11T21:30:17.399955+00:00",
+  "started_at": "2026-11-11T20:48:12.260000+00:00",
+  "status": "resolved",
+  "title": "Impact across multiple GitHub products including Actions, Pages, and Copilot products.",
+  "transition": "resolved",
+  "url": "https://stspg.io/jdjlq5zjyl48"
+ },
+ {
   "body": "We’re seeing recovery across all services and continuing to monitor. The backlog of Actions jobs are being processed. We’ll update when we see full recovery.",
   "components": [
    "Webhooks",
@@ -7851,24 +7874,6 @@
   "status": "monitoring",
   "title": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from OpenAI",
-  "id": "openai:01M5GPE9C4E19HE461P8JAMYXD:opened:investigating:minor:2026-10-22T02:18:32+00:00",
-  "impact": "minor",
-  "incident_id": "01M5GPE9C4E19HE461P8JAMYXD",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-22T02:30:25.066096+00:00",
-  "started_at": "2026-10-22T02:18:32+00:00",
-  "status": "investigating",
-  "title": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD"
  }
 ]
