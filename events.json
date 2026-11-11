@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are currently investigating an issue with Scribe v3 Live, resulting in the model being unavailable at this time.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 ElevenLabs is out. Go and look at a tree.",
+  "id": "elevenlabs:01M742FS08N2GNKA0M26ZW6WAW:opened:investigating:major:2026-11-11T01:10:19+00:00",
+  "impact": "major",
+  "incident_id": "01M742FS08N2GNKA0M26ZW6WAW",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-11T01:15:17.950296+00:00",
+  "started_at": "2026-11-11T01:10:19+00:00",
+  "status": "investigating",
+  "title": "Scribe v3 Live outage",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Pull Requests",
@@ -7861,23 +7879,5 @@
   "title": "Elevated errors for Bitbucket Cloud integrations",
   "transition": "opened",
   "url": "https://stspg.io/fh455gbmxf9q"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M5FD63HHDRPQPM5YMQWJ5HTN:progress:monitoring:minor:2026-10-21T17:04:07+00:00",
-  "impact": "minor",
-  "incident_id": "01M5FD63HHDRPQPM5YMQWJ5HTN",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-21T17:15:24.684604+00:00",
-  "started_at": "2026-10-21T14:17:32+00:00",
-  "status": "monitoring",
-  "title": "Elevated FedRAMP API error rates for Astra and Sol",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
  }
 ]
