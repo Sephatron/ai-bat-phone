@@ -1,5 +1,23 @@
 [
  {
+  "body": "Our database provider has recovered, and database creation in the Asia-Pacific region is operating normally.",
+  "components": [],
+  "duration": "2h 01m",
+  "headline": "🟢 Lovable has stopped wobbling",
+  "id": "lovable:01M75SK5DGJ4NX2M3P4E0EM2QZ:resolved:resolved:minor:2026-11-11T19:15:02+00:00",
+  "impact": "minor",
+  "incident_id": "01M75SK5DGJ4NX2M3P4E0EM2QZ",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-11T19:15:18.936668+00:00",
+  "started_at": "2026-11-11T17:13:22+00:00",
+  "status": "resolved",
+  "title": "Database creation failures in APAC",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ"
+ },
+ {
   "body": "Some users may be unable to create databases for projects in the Asia-Pacific region. The failures appear related to an ongoing incident with our database provider affecting project creation in Tokyo.",
   "components": [],
   "duration": "",
@@ -7848,23 +7866,5 @@
   "title": "Degraded performance for Claude Fable 5",
   "transition": "opened",
   "url": "https://stspg.io/cgklr4v2sgkh"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "5h 17m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M5FD63HHDRPQPM5YMQWJ5HTN:resolved:resolved:minor:2026-10-21T19:34:58+00:00",
-  "impact": "minor",
-  "incident_id": "01M5FD63HHDRPQPM5YMQWJ5HTN",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-21T19:45:24.217430+00:00",
-  "started_at": "2026-10-21T14:17:32+00:00",
-  "status": "resolved",
-  "title": "Elevated FedRAMP API error rates for Astra and Sol",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
  }
 ]
