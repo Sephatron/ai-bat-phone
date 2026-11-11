@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Lovable has identified the problem. Fix pending.]]></title>
+<link>https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ</link>
+<guid isPermaLink='false'>lovable:01M75SK5DGJ4NX2M3P4E0EM2QZ:opened:identified:minor:2026-11-11T17:13:22+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 17:15:16 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Database creation failures in APAC</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 11 Nov 2026 17:13:22 +0000</p><p>Some users may be unable to create databases for projects in the Asia-Pacific region. The failures appear related to an ongoing incident with our database provider affecting project creation in Tokyo.</p><p><a href="https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 24 min]]></title>
 <link>https://status.fireworks.ai/incidents/01M75909X87VQWABH7DWGMYR1X</link>
 <guid isPermaLink='false'>fireworks:01M75909X87VQWABH7DWGMYR1X:resolved:resolved:minor:2026-11-11T12:47:50+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 31 Oct 2026 10:45:17 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Investigating an issue related to the agent's ability to process images</strong></p><p>Impact: minor · Status: resolved · Opened: Sat, 31 Oct 2026 10:44:30 +0000</p><p>[Resolved] We have resolved some of the earlier issues where connections to replit was disrupted.</p><p><a href="https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Replit is having a wobble]]></title>
-<link>https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1</link>
-<guid isPermaLink='false'>replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:opened:investigating:minor:2026-10-31T10:00:18.745721+00:00</guid>
-<pubDate>Sat, 31 Oct 2026 10:00:18 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Investigating an issue related to the agent's ability to process images</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 31 Oct 2026 09:58:38 +0000</p><p>[Investigating] We are actively investigating an issue related to the agent's ability to process images.</p><p><a href="https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

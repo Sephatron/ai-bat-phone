@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users may be unable to create databases for projects in the Asia-Pacific region. The failures appear related to an ongoing incident with our database provider affecting project creation in Tokyo.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 Lovable has identified the problem. Fix pending.",
+  "id": "lovable:01M75SK5DGJ4NX2M3P4E0EM2QZ:opened:identified:minor:2026-11-11T17:13:22+00:00",
+  "impact": "minor",
+  "incident_id": "01M75SK5DGJ4NX2M3P4E0EM2QZ",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-11T17:15:16.651785+00:00",
+  "started_at": "2026-11-11T17:13:22+00:00",
+  "status": "identified",
+  "title": "Database creation failures in APAC",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "24 min",
@@ -7848,27 +7866,5 @@
   "title": "Elevated FedRAMP API error rates for Astra and Sol",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M5FD63HHDRPQPM5YMQWJ5HTN"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Webhooks",
-   "Pull Requests",
-   "Actions"
-  ],
-  "duration": "4h 30m",
-  "headline": "🟢 GitHub is fixed. You may resume being productive.",
-  "id": "github:nms1dpzmh9d9:resolved:resolved:critical:2026-10-21T19:22:52.663000+00:00",
-  "impact": "critical",
-  "incident_id": "nms1dpzmh9d9",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-21T19:30:23.763056+00:00",
-  "started_at": "2026-10-21T14:52:49.969000+00:00",
-  "status": "resolved",
-  "title": "Delays for Pull Requests and Webhook deliveries",
-  "transition": "resolved",
-  "url": "https://stspg.io/gnnt0tx9nxmk"
  }
 ]
