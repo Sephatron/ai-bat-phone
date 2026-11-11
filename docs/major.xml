@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/jdjlq5zjyl48</link>
+<guid isPermaLink='false'>github:dvy0t3mvh1lg:progress:monitoring:critical:2026-11-11T21:07:26.449000+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 21:15:20 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Impact across multiple GitHub products including Actions, Pages, and Copilot products.</strong></p><p>Impact: critical · Status: monitoring · Affects: Webhooks, Actions, Pages, Copilot · Opened: Wed, 11 Nov 2026 20:48:12 +0000</p><p>We’re seeing recovery across all services and continuing to monitor. The backlog of Actions jobs are being processed. We’ll update when we see full recovery.</p><p><a href="https://stspg.io/jdjlq5zjyl48">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
 <link>https://stspg.io/jdjlq5zjyl48</link>
 <guid isPermaLink='false'>github:dvy0t3mvh1lg:opened:investigating:critical:2026-11-11T20:59:33.747000+00:00</guid>
