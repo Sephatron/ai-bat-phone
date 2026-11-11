@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
+<link>https://status.fireworks.ai/incidents/01M768E246Y0QQ5QGPY6YFWMBS</link>
+<guid isPermaLink='false'>fireworks:01M768E246Y0QQ5QGPY6YFWMBS:opened:investigating:minor:2026-11-11T21:32:44+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 21:45:16 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3.1 Pro</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 11 Nov 2026 21:32:44 +0000</p><p>We are seeing impacted performance for Kimi K3.1 Pro. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M768E246Y0QQ5QGPY6YFWMBS">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is upright again. That took 33 min.]]></title>
 <link>https://stspg.io/jdjlq5zjyl48</link>
 <guid isPermaLink='false'>github:dvy0t3mvh1lg:resolved:resolved:critical:2026-11-11T21:21:39.499000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 08:00:19 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 07:58:48 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/1sf9r68nk0cv">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
-<link>https://stspg.io/tkmgnq8rcsqk</link>
-<guid isPermaLink='false'>moonshot:2j7m7djp28xp:opened:investigating:critical:2026-11-01T06:58:49.305000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 07:00:19 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 06:58:49 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/tkmgnq8rcsqk">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

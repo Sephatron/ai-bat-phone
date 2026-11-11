@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3.1 Pro. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M768E246Y0QQ5QGPY6YFWMBS:opened:investigating:minor:2026-11-11T21:32:44+00:00",
+  "impact": "minor",
+  "incident_id": "01M768E246Y0QQ5QGPY6YFWMBS",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-11T21:45:16.059687+00:00",
+  "started_at": "2026-11-11T21:32:44+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3.1 Pro",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M768E246Y0QQ5QGPY6YFWMBS"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Webhooks",
@@ -7857,23 +7875,5 @@
   "title": "Elevated errors affecting Connectors",
   "transition": "opened",
   "url": "https://stspg.io/4dcr8c005yxc"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M5GPE9C4E19HE461P8JAMYXD:progress:monitoring:minor:2026-10-22T02:42:24+00:00",
-  "impact": "minor",
-  "incident_id": "01M5GPE9C4E19HE461P8JAMYXD",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-22T02:45:24.256981+00:00",
-  "started_at": "2026-10-22T02:18:32+00:00",
-  "status": "monitoring",
-  "title": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5GPE9C4E19HE461P8JAMYXD"
  }
 ]
