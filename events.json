@@ -1,5 +1,25 @@
 [
  {
+  "body": "We've identified the cause and expect recovery in the next 10 minutes.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "",
+  "headline": "🔍 Baseten knows what it did",
+  "id": "baseten:gctvsk327syh:opened:identified:critical:2026-11-11T19:23:43.631000+00:00",
+  "impact": "critical",
+  "incident_id": "gctvsk327syh",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-11T19:30:16.727710+00:00",
+  "started_at": "2026-11-11T19:17:23.490000+00:00",
+  "status": "identified",
+  "title": "Model APIs are down for all models",
+  "transition": "opened",
+  "url": "https://stspg.io/1bf5v9jhdwt8"
+ },
+ {
   "body": "Our database provider has recovered, and database creation in the Asia-Pacific region is operating normally.",
   "components": [],
   "duration": "2h 01m",
@@ -7842,29 +7862,6 @@
   "status": "resolved",
   "title": "Degraded performance for Claude Fable 5",
   "transition": "resolved",
-  "url": "https://stspg.io/cgklr4v2sgkh"
- },
- {
-  "body": "We are investigating elevated errors on requests to Claude Fable 5. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🟠 Claude is having a wobble",
-  "id": "anthropic:njk29r81v3wg:opened:investigating:minor:2026-10-21T19:49:06.662000+00:00",
-  "impact": "minor",
-  "incident_id": "njk29r81v3wg",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-21T20:00:24.105016+00:00",
-  "started_at": "2026-10-21T19:49:06.486000+00:00",
-  "status": "investigating",
-  "title": "Degraded performance for Claude Fable 5",
-  "transition": "opened",
   "url": "https://stspg.io/cgklr4v2sgkh"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Baseten knows what it did]]></title>
+<link>https://stspg.io/1bf5v9jhdwt8</link>
+<guid isPermaLink='false'>baseten:gctvsk327syh:opened:identified:critical:2026-11-11T19:23:43.631000+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 19:30:16 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Model APIs are down for all models</strong></p><p>Impact: critical · Status: identified · Affects: Model APIs · Opened: Wed, 11 Nov 2026 19:17:23 +0000</p><p>We've identified the cause and expect recovery in the next 10 minutes.</p><p><a href="https://stspg.io/1bf5v9jhdwt8">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
 <link>https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ</link>
 <guid isPermaLink='false'>lovable:01M75SK5DGJ4NX2M3P4E0EM2QZ:resolved:resolved:minor:2026-11-11T19:15:02+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 06:00:20 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 05:58:49 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/2qsvdfs316hw">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is a bit under the weather]]></title>
-<link>https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa</link>
-<guid isPermaLink='false'>cursor:ps_838fe2a3a154acfa:opened:investigating:minor:2026-11-01T05:38:43+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 05:45:29 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Service Degradation - Billing and Usage Dashboard</strong></p><p>Impact: minor · Status: investigating · Affects: cursor.com, Enterprise Dashboard · Opened: Sun, 01 Nov 2026 05:38:43 +0000</p><p>We are investigating a service degradation affecting our billing and usage dashboard. We will share updates as more information becomes available.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

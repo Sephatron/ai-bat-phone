@@ -806,6 +806,12 @@
    "status": "resolved",
    "updated_at": "2026-10-23T06:22:02.402000+00:00"
   },
+  "baseten:gctvsk327syh": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-11T00:00:00+00:00",
+   "status": "identified",
+   "updated_at": "2026-11-11T19:23:43.631000+00:00"
+  },
   "baseten:gg63b1vhlpm1": {
    "impact": "major",
    "last_seen_at": "2026-10-21T00:00:00+00:00",
