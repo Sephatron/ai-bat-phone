@@ -3743,8 +3743,8 @@
   "fireworks:01M74BBSSE9HG6AAQY3NQMAJ1K": {
    "impact": "minor",
    "last_seen_at": "2026-11-11T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-11T03:45:26+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-11T05:10:53+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",

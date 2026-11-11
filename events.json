@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "1h 25m",
+  "headline": "🟢 Fireworks AI sorted itself out after 1h 25m",
+  "id": "fireworks:01M74BBSSE9HG6AAQY3NQMAJ1K:resolved:resolved:minor:2026-11-11T05:10:53+00:00",
+  "impact": "minor",
+  "incident_id": "01M74BBSSE9HG6AAQY3NQMAJ1K",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-11T05:15:16.689669+00:00",
+  "started_at": "2026-11-11T03:45:26+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M74BBSSE9HG6AAQY3NQMAJ1K"
+ },
+ {
   "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7852,26 +7870,5 @@
   "title": "Lovable is slow at answering",
   "transition": "resolved",
   "url": "https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y"
- },
- {
-  "body": "Atlassian has reported the issue as resolved and they are continuing to monitor for service restoration.",
-  "components": [
-   "Review Agents",
-   "Cloud Agents"
-  ],
-  "duration": "13 min",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:691lnxhmwgs6:resolved:resolved:minor:2026-10-21T17:53:46.938000+00:00",
-  "impact": "minor",
-  "incident_id": "691lnxhmwgs6",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-21T18:00:25.046909+00:00",
-  "started_at": "2026-10-21T17:40:17.211000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for Bitbucket Cloud integrations",
-  "transition": "resolved",
-  "url": "https://stspg.io/fh455gbmxf9q"
  }
 ]
