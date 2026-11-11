@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M74BBSSE9HG6AAQY3NQMAJ1K:opened:investigating:minor:2026-11-11T03:45:26+00:00",
+  "impact": "minor",
+  "incident_id": "01M74BBSSE9HG6AAQY3NQMAJ1K",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-11T04:00:24.663305+00:00",
+  "started_at": "2026-11-11T03:45:26+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M74BBSSE9HG6AAQY3NQMAJ1K"
+ },
+ {
   "body": "We have verified the implemented fix has remained stable and Scribe v3 Live is fully operational since 01:11AM BST.",
   "components": [],
   "duration": "1h 53m",
@@ -7855,23 +7873,5 @@
   "title": "Elevated errors for Bitbucket Cloud integrations",
   "transition": "resolved",
   "url": "https://stspg.io/fh455gbmxf9q"
- },
- {
-  "body": "Lovable may take minutes to answer messages in the chat. We are investigating and will try to restore full functionality as soon as possible.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Lovable is sulking, mildly",
-  "id": "lovable:01M5FSSFG3FMTR4FRTTQ00S88Y:opened:investigating:minor:2026-10-21T17:57:50+00:00",
-  "impact": "minor",
-  "incident_id": "01M5FSSFG3FMTR4FRTTQ00S88Y",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-21T18:00:25.046909+00:00",
-  "started_at": "2026-10-21T17:57:50+00:00",
-  "status": "investigating",
-  "title": "Lovable is slow at answering",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y"
  }
 ]

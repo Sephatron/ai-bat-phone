@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 11 Nov 2026 03:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 04:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M74BBSSE9HG6AAQY3NQMAJ1K</link>
+<guid isPermaLink='false'>fireworks:01M74BBSSE9HG6AAQY3NQMAJ1K:opened:investigating:minor:2026-11-11T03:45:26+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 04:00:24 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 11 Nov 2026 03:45:26 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M74BBSSE9HG6AAQY3NQMAJ1K">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 ElevenLabs is upright again. That took 1h 53m.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 54m · Opened: Sat, 31 Oct 2026 05:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gs4j9nf0w3dr">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/gyc737rls07g</link>
-<guid isPermaLink='false'>moonshot:m5y017t8c98j:resolved:resolved:critical:2026-10-31T07:36:47.834000+00:00</guid>
-<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 3h 54m · Opened: Sat, 31 Oct 2026 03:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gyc737rls07g">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
