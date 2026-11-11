@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have verified the implemented fix has remained stable and Scribe v3 Live is fully operational since 01:11AM BST.",
+  "components": [],
+  "duration": "1h 53m",
+  "headline": "🟢 ElevenLabs is upright again. That took 1h 53m.",
+  "id": "elevenlabs:01M742FS08N2GNKA0M26ZW6WAW:resolved:resolved:major:2026-11-11T03:03:51+00:00",
+  "impact": "major",
+  "incident_id": "01M742FS08N2GNKA0M26ZW6WAW",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-11T03:15:17.840161+00:00",
+  "started_at": "2026-11-11T01:10:19+00:00",
+  "status": "resolved",
+  "title": "Scribe v3 Live outage",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW"
+ },
+ {
   "body": "We have identified and remedied the issue, Scribe v3 Live is available again. We are continuing to monitor performance. The outage occurred between 00:50AM to 01:11AM BST.",
   "components": [],
   "duration": "",
@@ -7855,26 +7873,5 @@
   "title": "Lovable is slow at answering",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M5FSSFG3FMTR4FRTTQ00S88Y"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "cursor.com",
-   "Grok Bot"
-  ],
-  "duration": "1h 54m",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:qy67qt0s4n18:resolved:resolved:minor:2026-10-21T17:40:30.167000+00:00",
-  "impact": "minor",
-  "incident_id": "qy67qt0s4n18",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-21T17:45:26.796552+00:00",
-  "started_at": "2026-10-21T15:46:15.268000+00:00",
-  "status": "resolved",
-  "title": "Investigating service degradation",
-  "transition": "resolved",
-  "url": "https://stspg.io/jythbn6wf94k"
  }
 ]

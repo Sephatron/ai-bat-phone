@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 ElevenLabs is upright again. That took 1h 53m.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW</link>
+<guid isPermaLink='false'>elevenlabs:01M742FS08N2GNKA0M26ZW6WAW:resolved:resolved:major:2026-11-11T03:03:51+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 03:15:17 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Scribe v3 Live outage</strong></p><p>Impact: major · Status: resolved · Duration: 1h 53m · Opened: Wed, 11 Nov 2026 01:10:19 +0000</p><p>We have verified the implemented fix has remained stable and Scribe v3 Live is fully operational since 01:11AM BST.</p><p><a href="https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
 <link>https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW</link>
 <guid isPermaLink='false'>elevenlabs:01M742FS08N2GNKA0M26ZW6WAW:progress:monitoring:major:2026-11-11T01:19:46+00:00</guid>
