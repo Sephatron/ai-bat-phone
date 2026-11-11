@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-11T20:00:00+00:00",
+ "heartbeat": "2026-11-11T21:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -3794,6 +3794,12 @@
    "status": "resolved",
    "updated_at": "2026-09-30T15:51:51.602000+00:00"
   },
+  "github:1h2wbly1y72t": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-11T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-11T20:26:23.926000+00:00"
+  },
   "github:1t7x65n7kvt1": {
    "impact": "minor",
    "last_seen_at": "2026-10-23T00:00:00+00:00",
@@ -4093,6 +4099,12 @@
    "last_seen_at": "2026-10-07T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-12T17:25:01.834000+00:00"
+  },
+  "github:dvy0t3mvh1lg": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-11T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-11T20:59:33.747000+00:00"
   },
   "github:f1vvv30224wd": {
    "impact": "minor",
@@ -6325,6 +6337,12 @@
    "last_seen_at": "2026-11-11T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-11-10T07:02:33+00:00"
+  },
+  "openai:01M765MJQK7F85SC82RMTYN0V3": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-11T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-11T20:52:40+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

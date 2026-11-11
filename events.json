@@ -1,5 +1,28 @@
 [
  {
+  "body": "Copilot is experiencing degraded availability. We are continuing to investigate.",
+  "components": [
+   "Webhooks",
+   "Actions",
+   "Pages",
+   "Copilot"
+  ],
+  "duration": "",
+  "headline": "🔴 GitHub has gone dark. Nothing you did. Probably.",
+  "id": "github:dvy0t3mvh1lg:opened:investigating:critical:2026-11-11T20:59:33.747000+00:00",
+  "impact": "critical",
+  "incident_id": "dvy0t3mvh1lg",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-11T21:00:19.426873+00:00",
+  "started_at": "2026-11-11T20:48:12.260000+00:00",
+  "status": "investigating",
+  "title": "Impact across multiple GitHub products including Actions, Pages, and Copilot products.",
+  "transition": "opened",
+  "url": "https://stspg.io/jdjlq5zjyl48"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Model APIs"
@@ -7841,24 +7864,6 @@
   "status": "resolved",
   "title": "Service Degradation for Deepseek V4.1 Flash",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M"
- },
- {
-  "body": "We are seeing impacted performance for Deepseek V4.1 Flash. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M5GGG3JZ27XS2DMPG2YCXX2M:opened:investigating:minor:2026-10-22T00:34:40+00:00",
-  "impact": "minor",
-  "incident_id": "01M5GGG3JZ27XS2DMPG2YCXX2M",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-22T00:36:58.386582+00:00",
-  "started_at": "2026-10-22T00:34:40+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Deepseek V4.1 Flash",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5GGG3JZ27XS2DMPG2YCXX2M"
  }
 ]
