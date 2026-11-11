@@ -6,7 +6,7 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 11 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
@@ -992,14 +992,6 @@
 <pubDate>Wed, 21 Oct 2026 19:30:23 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Delays for Pull Requests and Webhook deliveries</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Pull Requests, Actions · Duration: 4h 30m · Opened: Wed, 21 Oct 2026 14:52:49 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/gnnt0tx9nxmk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable is upright again. That took 2h 09m.]]></title>
-<link>https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9</link>
-<guid isPermaLink='false'>lovable:01M5FMYN5WN99KFCDS5E4K09M9:resolved:resolved:major:2026-10-21T18:42:41+00:00</guid>
-<pubDate>Wed, 21 Oct 2026 18:45:24 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Delays syncing with GitHub</strong></p><p>Impact: major · Status: resolved · Duration: 2h 09m · Opened: Wed, 21 Oct 2026 16:33:16 +0000</p><p>The delays syncing changes between Lovable and GitHub have been resolved. Syncing is operating normally again.</p><p><a href="https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

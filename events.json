@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "24 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 24 min",
+  "id": "fireworks:01M75909X87VQWABH7DWGMYR1X:resolved:resolved:minor:2026-11-11T12:47:50+00:00",
+  "impact": "minor",
+  "incident_id": "01M75909X87VQWABH7DWGMYR1X",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-11T13:00:17.306605+00:00",
+  "started_at": "2026-11-11T12:23:27+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M75909X87VQWABH7DWGMYR1X"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7852,23 +7870,5 @@
   "title": "Delays for Pull Requests and Webhook deliveries",
   "transition": "resolved",
   "url": "https://stspg.io/gnnt0tx9nxmk"
- },
- {
-  "body": "The delays syncing changes between Lovable and GitHub have been resolved. Syncing is operating normally again.",
-  "components": [],
-  "duration": "2h 09m",
-  "headline": "🟢 Lovable is upright again. That took 2h 09m.",
-  "id": "lovable:01M5FMYN5WN99KFCDS5E4K09M9:resolved:resolved:major:2026-10-21T18:42:41+00:00",
-  "impact": "major",
-  "incident_id": "01M5FMYN5WN99KFCDS5E4K09M9",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-21T18:45:24.921327+00:00",
-  "started_at": "2026-10-21T16:33:16+00:00",
-  "status": "resolved",
-  "title": "Delays syncing with GitHub",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M5FMYN5WN99KFCDS5E4K09M9"
  }
 ]

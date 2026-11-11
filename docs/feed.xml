@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 11 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 13:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 24 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M75909X87VQWABH7DWGMYR1X</link>
+<guid isPermaLink='false'>fireworks:01M75909X87VQWABH7DWGMYR1X:resolved:resolved:minor:2026-11-11T12:47:50+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 13:00:17 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 24 min · Opened: Wed, 11 Nov 2026 12:23:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M75909X87VQWABH7DWGMYR1X">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M75909X87VQWABH7DWGMYR1X</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:20 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: resolved · Duration: 13 min · Opened: Sat, 31 Oct 2026 23:43:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368</link>
-<guid isPermaLink='false'>fireworks:01M6A5HDQWT2NAYHNPEMVAZ368:opened:investigating:minor:2026-10-31T23:43:24+00:00</guid>
-<pubDate>Sat, 31 Oct 2026 23:45:17 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 31 Oct 2026 23:43:24 +0000</p><p>We are seeing impacted performance for Muse Spark Open US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
