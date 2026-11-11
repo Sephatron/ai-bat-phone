@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified and remedied the issue, Scribe v3 Live is available again. We are continuing to monitor performance. The outage occurred between 00:50AM to 01:11AM BST.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs thinks it's fixed and is watching nervously",
+  "id": "elevenlabs:01M742FS08N2GNKA0M26ZW6WAW:progress:monitoring:major:2026-11-11T01:19:46+00:00",
+  "impact": "major",
+  "incident_id": "01M742FS08N2GNKA0M26ZW6WAW",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-11T01:30:16.713330+00:00",
+  "started_at": "2026-11-11T01:10:19+00:00",
+  "status": "monitoring",
+  "title": "Scribe v3 Live outage",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW"
+ },
+ {
   "body": "We are currently investigating an issue with Scribe v3 Live, resulting in the model being unavailable at this time.",
   "components": [],
   "duration": "",
@@ -7858,26 +7876,5 @@
   "title": "Investigating service degradation",
   "transition": "resolved",
   "url": "https://stspg.io/jythbn6wf94k"
- },
- {
-  "body": "We are investigating an issue affecting Cursor's Bitbucket Cloud integration. More information: https://bitbucket.status.atlassian.com/incidents/ldlx0fdgls28.",
-  "components": [
-   "Review Agents",
-   "Cloud Agents"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is having a wobble",
-  "id": "cursor:691lnxhmwgs6:opened:investigating:minor:2026-10-21T17:40:17.361000+00:00",
-  "impact": "minor",
-  "incident_id": "691lnxhmwgs6",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-21T17:45:26.796552+00:00",
-  "started_at": "2026-10-21T17:40:17.211000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors for Bitbucket Cloud integrations",
-  "transition": "opened",
-  "url": "https://stspg.io/fh455gbmxf9q"
  }
 ]
