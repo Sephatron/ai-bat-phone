@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/1bf5v9jhdwt8</link>
+<guid isPermaLink='false'>baseten:gctvsk327syh:resolved:resolved:critical:2026-11-11T19:38:31.963000+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 19:45:17 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Model APIs are down for all models</strong></p><p>Impact: critical · Status: resolved · Affects: Model APIs · Duration: 21 min · Opened: Wed, 11 Nov 2026 19:17:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1bf5v9jhdwt8">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Baseten knows what it did]]></title>
 <link>https://stspg.io/1bf5v9jhdwt8</link>
 <guid isPermaLink='false'>baseten:gctvsk327syh:opened:identified:critical:2026-11-11T19:23:43.631000+00:00</guid>

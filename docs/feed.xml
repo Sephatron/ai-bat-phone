@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/1bf5v9jhdwt8</link>
+<guid isPermaLink='false'>baseten:gctvsk327syh:resolved:resolved:critical:2026-11-11T19:38:31.963000+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 19:45:17 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Model APIs are down for all models</strong></p><p>Impact: critical · Status: resolved · Affects: Model APIs · Duration: 21 min · Opened: Wed, 11 Nov 2026 19:17:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1bf5v9jhdwt8">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Baseten knows what it did]]></title>
 <link>https://stspg.io/1bf5v9jhdwt8</link>
 <guid isPermaLink='false'>baseten:gctvsk327syh:opened:identified:critical:2026-11-11T19:23:43.631000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 07:00:19 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 06:58:49 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/tkmgnq8rcsqk">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
-<link>https://stspg.io/2qsvdfs316hw</link>
-<guid isPermaLink='false'>moonshot:3jc31dff6km2:opened:investigating:critical:2026-11-01T05:58:49.443000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 06:00:20 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 05:58:49 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/2qsvdfs316hw">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
