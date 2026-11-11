@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 OpenAI is having a proper one. This is not your code.",
+  "id": "openai:01M76CW2D7FM7K7F8NJ4W0G08N:opened:investigating:critical:2026-11-11T22:50:17+00:00",
+  "impact": "critical",
+  "incident_id": "01M76CW2D7FM7K7F8NJ4W0G08N",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-11T23:00:18.740751+00:00",
+  "started_at": "2026-11-11T22:50:17+00:00",
+  "status": "investigating",
+  "title": "Unable to start new Workspace Agent runs",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3.1 Pro. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7853,27 +7871,6 @@
   "status": "monitoring",
   "title": "Elevated errors affecting Connectors",
   "transition": "progress",
-  "url": "https://stspg.io/4dcr8c005yxc"
- },
- {
-  "body": "We are investigating elevated errors affecting connectors. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🟠 Claude has a limp, not a break",
-  "id": "anthropic:wj6r4t6mxq1r:opened:investigating:minor:2026-10-22T03:50:12.763000+00:00",
-  "impact": "minor",
-  "incident_id": "wj6r4t6mxq1r",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-22T04:00:22.886158+00:00",
-  "started_at": "2026-10-22T03:50:12.621000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors affecting Connectors",
-  "transition": "opened",
   "url": "https://stspg.io/4dcr8c005yxc"
  }
 ]

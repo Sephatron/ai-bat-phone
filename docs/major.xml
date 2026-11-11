@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 11 Nov 2026 22:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 23:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 OpenAI is having a proper one. This is not your code.]]></title>
+<link>https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N</link>
+<guid isPermaLink='false'>openai:01M76CW2D7FM7K7F8NJ4W0G08N:opened:investigating:critical:2026-11-11T22:50:17+00:00</guid>
+<pubDate>Wed, 11 Nov 2026 23:00:18 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Unable to start new Workspace Agent runs</strong></p><p>Impact: critical · Status: investigating · Opened: Wed, 11 Nov 2026 22:50:17 +0000</p><p>We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.</p><p><a href="https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub is upright again. That took 33 min.]]></title>
 <link>https://stspg.io/jdjlq5zjyl48</link>
