@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/lr8v4v8t7gs2</link>
+<guid isPermaLink='false'>github:nwbjzl7nfrc2:progress:monitoring:minor:2026-11-12T20:21:44.139000+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 20:31:05 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Sign-in and Sign-up</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 12 Nov 2026 19:36:45 +0000</p><p>We are seeing recovery for sign-in, email address verification, and other forms of e-mail communication previously impacted. We will continue to monitor.</p><p><a href="https://stspg.io/lr8v4v8t7gs2">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
 <link>https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d</link>
 <guid isPermaLink='false'>cursor:ps_94275750e294382d:opened:investigating:minor:2026-11-12T20:08:15+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 16:45:18 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: monitoring · Opened: Sun, 01 Nov 2026 16:35:34 +0000</p><p>[Monitoring] For those seeing Agent failures can you please update the browser tab, we expect agent interactions to be working again.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Replit is having a wobble]]></title>
-<link>https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb</link>
-<guid isPermaLink='false'>replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:opened:investigating:minor:2026-11-01T16:15:18.155242+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 16:15:18 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 01 Nov 2026 16:14:41 +0000</p><p>[Investigating] We are investigating issues affecting some users' ability to load workspaces and use Agent.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -462,7 +462,7 @@
    "impact": "major",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-11-12T18:34:20.062000+00:00"
+   "updated_at": "2026-11-12T20:28:28.216000+00:00"
   },
   "anthropic:t33dncr5ydvl": {
    "impact": "major",
@@ -4343,8 +4343,8 @@
   "github:nwbjzl7nfrc2": {
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-12T20:12:05.438000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-12T20:21:44.139000+00:00"
   },
   "github:nwjwwhj118sf": {
    "impact": "maintenance",

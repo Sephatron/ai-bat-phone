@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing recovery for sign-in, email address verification, and other forms of e-mail communication previously impacted. We will continue to monitor.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 GitHub is on the mend. Don't get comfortable yet.",
+  "id": "github:nwbjzl7nfrc2:progress:monitoring:minor:2026-11-12T20:21:44.139000+00:00",
+  "impact": "minor",
+  "incident_id": "nwbjzl7nfrc2",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-12T20:31:05.481479+00:00",
+  "started_at": "2026-11-12T19:36:45.556000+00:00",
+  "status": "monitoring",
+  "title": "Disruption with Sign-in and Sign-up",
+  "transition": "progress",
+  "url": "https://stspg.io/lr8v4v8t7gs2"
+ },
+ {
   "body": "We're investigating an issue that may cause some requests to fail, including purchases and other billing actions. We'll share another update as soon as we have more information.",
   "components": [
    "cursor.com"
@@ -7852,24 +7870,6 @@
   "status": "resolved",
   "title": "New Ad Accounts failing to provision admins",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M5JHVJVC8WAXB4WRYFMKG6HP:progress:monitoring:minor:2026-10-22T23:45:37+00:00",
-  "impact": "minor",
-  "incident_id": "01M5JHVJVC8WAXB4WRYFMKG6HP",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T00:00:25.253511+00:00",
-  "started_at": "2026-10-22T19:36:53+00:00",
-  "status": "monitoring",
-  "title": "New Ad Accounts failing to provision admins",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP"
  }
 ]
