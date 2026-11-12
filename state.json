@@ -1947,10 +1947,10 @@
    "updated_at": "2026-11-01T10:53:33+00:00"
   },
   "cursor:ps_94275750e294382d": {
-   "impact": "minor",
+   "impact": "major",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-12T20:08:15+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-12T20:43:56+00:00"
   },
   "cursor:ps_95a4f0b2be913452": {
    "impact": "minor",
@@ -3794,6 +3794,18 @@
    "status": "resolved",
    "updated_at": "2026-11-12T15:19:48+00:00"
   },
+  "fireworks:01M78QE4QA5Y7GGFCG945HESCT": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-12T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-12T20:33:24+00:00"
+  },
+  "fireworks:01M78QS7FF6ZZG766MPN791KX7": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-12T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-12T20:39:27+00:00"
+  },
   "github:0f6hndclsk21": {
    "impact": "minor",
    "last_seen_at": "2026-09-14T00:00:00+00:00",
@@ -4344,7 +4356,7 @@
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
    "status": "monitoring",
-   "updated_at": "2026-11-12T20:21:44.139000+00:00"
+   "updated_at": "2026-11-12T20:43:58.706000+00:00"
   },
   "github:nwjwwhj118sf": {
    "impact": "maintenance",
