@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M7906CWJ4G47XGK6VTSC3JRY</link>
+<guid isPermaLink='false'>fireworks:01M7906CWJ4G47XGK6VTSC3JRY:opened:investigating:minor:2026-11-12T23:06:27+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 23:16:05 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 23:06:27 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M7906CWJ4G47XGK6VTSC3JRY">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is fine again]]></title>
 <link>https://stspg.io/lr8v4v8t7gs2</link>
 <guid isPermaLink='false'>github:nwbjzl7nfrc2:resolved:resolved:minor:2026-11-12T21:43:56.578000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 02 Nov 2026 15:45:20 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Some Lovable Cloud apps unable to reach backend</strong></p><p>Impact: minor · Status: resolved · Duration: 58 min · Opened: Mon, 02 Nov 2026 14:37:11 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/wlhfpkv62zy4</link>
-<guid isPermaLink='false'>moonshot:d5fzlw665wt3:opened:investigating:critical:2026-11-02T14:30:41.517000+00:00</guid>
-<pubDate>Mon, 02 Nov 2026 14:45:29 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Mon, 02 Nov 2026 14:30:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/wlhfpkv62zy4">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
