@@ -462,7 +462,7 @@
    "impact": "major",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-11-12T20:28:28.216000+00:00"
+   "updated_at": "2026-11-12T21:18:24.193000+00:00"
   },
   "anthropic:t33dncr5ydvl": {
    "impact": "major",
@@ -3797,8 +3797,8 @@
   "fireworks:01M78QE4QA5Y7GGFCG945HESCT": {
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-12T20:33:24+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-12T21:26:40+00:00"
   },
   "fireworks:01M78QS7FF6ZZG766MPN791KX7": {
    "impact": "minor",

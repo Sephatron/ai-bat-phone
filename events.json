@@ -2,6 +2,24 @@
  {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
+  "duration": "53 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M78QE4QA5Y7GGFCG945HESCT:resolved:resolved:minor:2026-11-12T21:26:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M78QE4QA5Y7GGFCG945HESCT",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-12T21:31:04.732660+00:00",
+  "started_at": "2026-11-12T20:33:24+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M78QE4QA5Y7GGFCG945HESCT"
+ },
+ {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
   "duration": "12 min",
   "headline": "🟢 Fireworks AI sorted itself out after 12 min",
   "id": "fireworks:01M78QS7FF6ZZG766MPN791KX7:resolved:resolved:minor:2026-11-12T20:51:35+00:00",
@@ -7843,24 +7861,6 @@
   "status": "resolved",
   "title": "Delays in customer support responses",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H"
- },
- {
-  "body": "A fix is being implemented for the issue affecting our support systems. Customers may continue to experience delays in receiving support responses. We will provide further updates as recovery progresses.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
-  "id": "openai:01M5KDJ4079XQTZDSRX40NMN6H:progress:identified:none:2026-10-23T04:43:12+00:00",
-  "impact": "none",
-  "incident_id": "01M5KDJ4079XQTZDSRX40NMN6H",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T04:45:23.082936+00:00",
-  "started_at": "2026-10-23T03:41:03+00:00",
-  "status": "identified",
-  "title": "Delays in customer support responses",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H"
  }
 ]
