@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 12 Nov 2026 08:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 09:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
+<link>https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5</link>
+<guid isPermaLink='false'>openai:01M77FAXVFV338GY7G9VRENRS5:opened:identified:minor:2026-11-12T08:58:29+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 09:01:04 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>GPT-image-2.5 and 2.6 Sunburst &amp; Flare High error rate</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 12 Nov 2026 08:52:35 +0000</p><p>We have identified that users are experiencing elevated errors for GPT-image-2.5 Sunburst / Flare, and 2.6 Sunburst / Flare. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
 <link>https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 12:00:20 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 11:59:43 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/1z8jmfv1h4z8">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 5h 14m]]></title>
-<link>https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa</link>
-<guid isPermaLink='false'>cursor:ps_838fe2a3a154acfa:resolved:resolved:minor:2026-11-01T10:53:33+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 11:00:17 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Service Degradation - Billing and Usage Dashboard</strong></p><p>Impact: minor · Status: resolved · Affects: cursor.com, Enterprise Dashboard · Duration: 5h 14m · Opened: Sun, 01 Nov 2026 05:38:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

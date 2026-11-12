@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for GPT-image-2.5 Sunburst / Flare, and 2.6 Sunburst / Flare. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M77FAXVFV338GY7G9VRENRS5:opened:identified:minor:2026-11-12T08:58:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M77FAXVFV338GY7G9VRENRS5",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-12T09:01:04.353568+00:00",
+  "started_at": "2026-11-12T08:52:35+00:00",
+  "status": "identified",
+  "title": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "9h 42m",
@@ -7847,24 +7865,6 @@
   "status": "resolved",
   "title": "Enabling Lovable Cloud on projects is currently failing for some users",
   "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S"
- },
- {
-  "body": "Enabling Lovable Cloud on projects is currently failing for some users. Existing projects and apps already using Lovable Cloud are not affected. Our team is investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Lovable has gone dark. Nothing you did. Probably.",
-  "id": "lovable:01M5HNMH9D2A4GTQCDDZY7GG1S:opened:investigating:major:2026-10-22T11:23:42+00:00",
-  "impact": "major",
-  "incident_id": "01M5HNMH9D2A4GTQCDDZY7GG1S",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-22T11:30:23.455812+00:00",
-  "started_at": "2026-10-22T11:23:42+00:00",
-  "status": "investigating",
-  "title": "Enabling Lovable Cloud on projects is currently failing for some users",
-  "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S"
  }
 ]
