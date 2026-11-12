@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating elevated errors and slow responses affecting the Microsoft 365 connector. Requests to mail, SharePoint, Teams chat and calendar through the connector may fail, and new connections to the connector may not complete. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "",
+  "headline": "🔴 Claude has downed tools — and so, probably, have you",
+  "id": "anthropic:sqn3fg1l96dl:opened:investigating:major:2026-11-12T17:52:45.046000+00:00",
+  "impact": "major",
+  "incident_id": "sqn3fg1l96dl",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-12T18:01:04.728409+00:00",
+  "started_at": "2026-11-12T17:52:44.926000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting the Microsoft 365 connector",
+  "transition": "opened",
+  "url": "https://stspg.io/m0rbx38nmy1c"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "14 min",
@@ -7840,27 +7860,5 @@
   "title": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project.",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M5J9AWZKX27E7GKGC1EC1826"
- },
- {
-  "body": "We are investigating reports of degraded performance for Actions, Issues and Pull Requests",
-  "components": [
-   "Issues",
-   "Pull Requests",
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from GitHub",
-  "id": "github:wq8305lppdc2:opened:investigating:minor:2026-10-22T15:28:04.260000+00:00",
-  "impact": "minor",
-  "incident_id": "wq8305lppdc2",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-22T15:30:26.190057+00:00",
-  "started_at": "2026-10-22T15:28:03.979000+00:00",
-  "status": "investigating",
-  "title": "Errors loading Issues, Pull Requests, and search results",
-  "transition": "opened",
-  "url": "https://stspg.io/sx51v1tlpqjc"
  }
 ]
