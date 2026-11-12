@@ -3610,7 +3610,7 @@
   },
   "fireworks:01M6GSRZ55MW897FT45QRP4Y5M": {
    "impact": "minor",
-   "last_seen_at": "2026-11-11T00:00:00+00:00",
+   "last_seen_at": "2026-11-12T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-11-03T15:14:18+00:00"
   },
@@ -3768,7 +3768,7 @@
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-11-11T21:43:19+00:00"
+   "updated_at": "2026-11-12T00:30:38+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
