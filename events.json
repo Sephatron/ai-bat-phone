@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M784NNAS3WCYQNX4SACETKK3:opened:investigating:minor:2026-11-12T15:05:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M784NNAS3WCYQNX4SACETKK3",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-12T15:16:05.484136+00:00",
+  "started_at": "2026-11-12T15:05:27+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M784NNAS3WCYQNX4SACETKK3"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "32 min",
@@ -7845,26 +7863,6 @@
   "status": "resolved",
   "title": "Incident with Actions Results",
   "transition": "resolved",
-  "url": "https://stspg.io/44w94j036yc8"
- },
- {
-  "body": "We’re investigating delays in processing GitHub Actions workflow and step results, along with some repository updates.",
-  "components": [
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from GitHub",
-  "id": "github:q29p76qtnkyk:opened:investigating:minor:2026-10-22T14:19:32.591000+00:00",
-  "impact": "minor",
-  "incident_id": "q29p76qtnkyk",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-22T14:30:23.614075+00:00",
-  "started_at": "2026-10-22T14:18:15.716000+00:00",
-  "status": "investigating",
-  "title": "Incident with Actions Results",
-  "transition": "opened",
   "url": "https://stspg.io/44w94j036yc8"
  }
 ]
