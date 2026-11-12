@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 14 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M784NNAS3WCYQNX4SACETKK3</link>
+<guid isPermaLink='false'>fireworks:01M784NNAS3WCYQNX4SACETKK3:resolved:resolved:minor:2026-11-12T15:19:48+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 15:31:04 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Thu, 12 Nov 2026 15:05:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M784NNAS3WCYQNX4SACETKK3">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
 <link>https://status.fireworks.ai/incidents/01M784NNAS3WCYQNX4SACETKK3</link>
 <guid isPermaLink='false'>fireworks:01M784NNAS3WCYQNX4SACETKK3:opened:investigating:minor:2026-11-12T15:05:27+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 12:45:18 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 2h 39m · Opened: Sun, 01 Nov 2026 09:59:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/rxjs99s5x3f9">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/0xkm4mjvbbkc</link>
-<guid isPermaLink='false'>moonshot:0xfr5wpb1vdc:resolved:resolved:critical:2026-11-01T12:39:16.791000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 12:45:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 3h 40m · Opened: Sun, 01 Nov 2026 08:58:48 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/0xkm4mjvbbkc">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
