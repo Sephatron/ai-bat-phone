@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 12 Nov 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 12 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7</link>
+<guid isPermaLink='false'>fireworks:01M78QS7FF6ZZG766MPN791KX7:resolved:resolved:minor:2026-11-12T20:51:35+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 21:01:05 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 12 min · Opened: Thu, 12 Nov 2026 20:39:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 02 Nov 2026 09:15:36 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Issues with source control integrations</strong></p><p>Impact: minor · Status: investigating · Affects: IDE, Grok Bot · Opened: Mon, 02 Nov 2026 09:09:29 +0000</p><p>We are investigating reports of issues with source control provider integrations in Cursor and Grok Bot.</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M6DQJVZT1QCA7TMPJ9TZJWJB</link>
-<guid isPermaLink='false'>fireworks:01M6DQJVZT1QCA7TMPJ9TZJWJB:resolved:resolved:minor:2026-11-02T09:01:45+00:00</guid>
-<pubDate>Mon, 02 Nov 2026 09:15:36 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 5 min · Opened: Mon, 02 Nov 2026 08:56:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6DQJVZT1QCA7TMPJ9TZJWJB">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

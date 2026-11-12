@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 12 Nov 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 12 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7</link>
+<guid isPermaLink='false'>fireworks:01M78QS7FF6ZZG766MPN791KX7:resolved:resolved:minor:2026-11-12T20:51:35+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 21:01:05 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 12 min · Opened: Thu, 12 Nov 2026 20:39:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 02 Nov 2026 14:45:29 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Mon, 02 Nov 2026 14:30:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/wlhfpkv62zy4">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Lovable]]></title>
-<link>https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7</link>
-<guid isPermaLink='false'>lovable:01M6EB2PWWFVAPY81CYH2K2JB7:opened:investigating:minor:2026-11-02T14:37:11+00:00</guid>
-<pubDate>Mon, 02 Nov 2026 14:45:29 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Some Lovable Cloud apps unable to reach backend</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 02 Nov 2026 14:37:11 +0000</p><p>Some apps built with Lovable Cloud are currently unable to reach their backend, which may cause errors when loading data or signing in. Our team is investigating and will share an update soon.</p><p><a href="https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
