@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
+<link>https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N</link>
+<guid isPermaLink='false'>openai:01M76CW2D7FM7K7F8NJ4W0G08N:resolved:resolved:critical:2026-11-12T08:32:37+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 08:46:05 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Unable to start new Workspace Agent runs</strong></p><p>Impact: critical · Status: resolved · Duration: 9h 42m · Opened: Wed, 11 Nov 2026 22:50:17 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M770AY4DSAP38KCNWN4MHH6N</link>
 <guid isPermaLink='false'>fireworks:01M770AY4DSAP38KCNWN4MHH6N:resolved:resolved:minor:2026-11-12T05:00:53+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 11:00:17 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Service Degradation - Billing and Usage Dashboard</strong></p><p>Impact: minor · Status: resolved · Affects: cursor.com, Enterprise Dashboard · Duration: 5h 14m · Opened: Sun, 01 Nov 2026 05:38:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
-<link>https://stspg.io/7xrbw9h4cr0w</link>
-<guid isPermaLink='false'>moonshot:8psx9bp8jrwd:opened:investigating:critical:2026-11-01T10:59:43.596000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 11:00:17 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 10:59:43 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/7xrbw9h4cr0w">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
