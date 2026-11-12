@@ -1,5 +1,44 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "2h 07m",
+  "headline": "🟢 GitHub is fine again",
+  "id": "github:nwbjzl7nfrc2:resolved:resolved:minor:2026-11-12T21:43:56.578000+00:00",
+  "impact": "minor",
+  "incident_id": "nwbjzl7nfrc2",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-12T21:46:05.221258+00:00",
+  "started_at": "2026-11-12T19:36:45.556000+00:00",
+  "status": "resolved",
+  "title": "Disruption with Email Delivery",
+  "transition": "resolved",
+  "url": "https://stspg.io/lr8v4v8t7gs2"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "cursor.com",
+   "Grok Bot"
+  ],
+  "duration": "1h 31m",
+  "headline": "🟢 Cursor is back. Grass sufficiently touched.",
+  "id": "cursor:ps_94275750e294382d:resolved:resolved:major:2026-11-12T21:39:26+00:00",
+  "impact": "major",
+  "incident_id": "ps_94275750e294382d",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-12T21:46:05.221258+00:00",
+  "started_at": "2026-11-12T20:08:15+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for some requests",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "53 min",
@@ -7824,43 +7863,5 @@
   "title": "Delayed Actions status check results",
   "transition": "progress",
   "url": "https://stspg.io/kmk42jg3v1sm"
- },
- {
-  "body": "We are investigating reports of degraded performance for Actions",
-  "components": [
-   "Actions"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub is sulking, mildly",
-  "id": "github:ntrfd2jqldn6:opened:investigating:minor:2026-10-23T07:29:03.323000+00:00",
-  "impact": "minor",
-  "incident_id": "ntrfd2jqldn6",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-23T07:30:23.050176+00:00",
-  "started_at": "2026-10-23T07:29:03.074000+00:00",
-  "status": "investigating",
-  "title": "Delayed Actions status check results",
-  "transition": "opened",
-  "url": "https://stspg.io/kmk42jg3v1sm"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "2h 17m",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M5KDJ4079XQTZDSRX40NMN6H:resolved:resolved:none:2026-10-23T05:58:06+00:00",
-  "impact": "none",
-  "incident_id": "01M5KDJ4079XQTZDSRX40NMN6H",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T06:00:22.890420+00:00",
-  "started_at": "2026-10-23T03:41:03+00:00",
-  "status": "resolved",
-  "title": "Delays in customer support responses",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5KDJ4079XQTZDSRX40NMN6H"
  }
 ]

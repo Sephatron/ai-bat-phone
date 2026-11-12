@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is back. Grass sufficiently touched.]]></title>
+<link>https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d</link>
+<guid isPermaLink='false'>cursor:ps_94275750e294382d:resolved:resolved:major:2026-11-12T21:39:26+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 21:46:05 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors for some requests</strong></p><p>Impact: major · Status: resolved · Affects: cursor.com, Grok Bot · Duration: 1h 31m · Opened: Thu, 12 Nov 2026 20:08:15 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔺 Cursor went from annoying to actual]]></title>
 <link>https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d</link>
 <guid isPermaLink='false'>cursor:ps_94275750e294382d:escalated:monitoring:major:2026-11-12T20:43:56+00:00</guid>
