@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "32 min",
+  "headline": "🟢 OpenAI sorted itself out after 32 min",
+  "id": "openai:01M77FAXVFV338GY7G9VRENRS5:resolved:resolved:minor:2026-11-12T09:25:12+00:00",
+  "impact": "minor",
+  "incident_id": "01M77FAXVFV338GY7G9VRENRS5",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-12T09:31:04.512149+00:00",
+  "started_at": "2026-11-12T08:52:35+00:00",
+  "status": "resolved",
+  "title": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for GPT-image-2.5 Sunburst / Flare, and 2.6 Sunburst / Flare. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
@@ -7848,23 +7866,5 @@
   "title": "Incident with Actions Results",
   "transition": "opened",
   "url": "https://stspg.io/44w94j036yc8"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [],
-  "duration": "27 min",
-  "headline": "🟢 All clear from Lovable after 27 min",
-  "id": "lovable:01M5HNMH9D2A4GTQCDDZY7GG1S:resolved:resolved:major:2026-10-22T11:50:44+00:00",
-  "impact": "major",
-  "incident_id": "01M5HNMH9D2A4GTQCDDZY7GG1S",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-22T12:00:26.532388+00:00",
-  "started_at": "2026-10-22T11:23:42+00:00",
-  "status": "resolved",
-  "title": "Enabling Lovable Cloud on projects is currently failing for some users",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M5HNMH9D2A4GTQCDDZY7GG1S"
  }
 ]

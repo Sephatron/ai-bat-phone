@@ -6371,8 +6371,8 @@
   "openai:01M77FAXVFV338GY7G9VRENRS5": {
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-11-12T08:58:29+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-12T09:25:12+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
