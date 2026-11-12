@@ -4175,8 +4175,8 @@
   "github:gl7yhd7jx00v": {
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-12T19:20:14.207000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-12T19:33:54.277000+00:00"
   },
   "github:gx7js8bd0jpz": {
    "impact": "major",
@@ -4333,6 +4333,12 @@
    "last_seen_at": "2026-11-12T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-09-18T17:46:20.500000+00:00"
+  },
+  "github:nwbjzl7nfrc2": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-12T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-12T19:43:01.975000+00:00"
   },
   "github:nwjwwhj118sf": {
    "impact": "maintenance",

@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
+<link>https://stspg.io/lr8v4v8t7gs2</link>
+<guid isPermaLink='false'>github:nwbjzl7nfrc2:opened:investigating:minor:2026-11-12T19:43:01.975000+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Sign-in and Sign-up</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 19:36:45 +0000</p><p>We are seeing disruptions with email delivery for account sign-in and new account sign up. We are investigating.</p><p><a href="https://stspg.io/lr8v4v8t7gs2">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 GitHub sorted itself out after 50 min]]></title>
+<link>https://stspg.io/ns57pv7lmynl</link>
+<guid isPermaLink='false'>github:gl7yhd7jx00v:resolved:resolved:minor:2026-11-12T19:33:54.277000+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Webhooks API</strong></p><p>Impact: minor · Status: resolved · Affects: Webhooks · Duration: 50 min · Opened: Thu, 12 Nov 2026 18:43:13 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/ns57pv7lmynl">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/ns57pv7lmynl</link>
 <guid isPermaLink='false'>github:gl7yhd7jx00v:progress:monitoring:minor:2026-11-12T19:20:14.207000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Mon, 02 Nov 2026 05:15:18 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: resolved · Opened: Mon, 02 Nov 2026 05:08:49 +0000</p><p>[Resolved] The Agent and Workspace issues has been resolved.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Replit is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb</link>
-<guid isPermaLink='false'>replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:progress:monitoring:minor:2026-11-01T16:45:18.045062+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 16:45:18 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: monitoring · Opened: Sun, 01 Nov 2026 16:35:34 +0000</p><p>[Monitoring] For those seeing Agent failures can you please update the browser tab, we expect agent interactions to be working again.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Replit is having a wobble]]></title>
-<link>https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb</link>
-<guid isPermaLink='false'>replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:opened:investigating:minor:2026-11-01T16:15:18.155242+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 16:15:18 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 01 Nov 2026 16:14:41 +0000</p><p>[Investigating] We are investigating issues affecting some users' ability to load workspaces and use Agent.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
+<link>https://stspg.io/lr8v4v8t7gs2</link>
+<guid isPermaLink='false'>github:nwbjzl7nfrc2:opened:investigating:minor:2026-11-12T19:43:01.975000+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Sign-in and Sign-up</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 19:36:45 +0000</p><p>We are seeing disruptions with email delivery for account sign-in and new account sign up. We are investigating.</p><p><a href="https://stspg.io/lr8v4v8t7gs2">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 GitHub sorted itself out after 50 min]]></title>
+<link>https://stspg.io/ns57pv7lmynl</link>
+<guid isPermaLink='false'>github:gl7yhd7jx00v:resolved:resolved:minor:2026-11-12T19:33:54.277000+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Webhooks API</strong></p><p>Impact: minor · Status: resolved · Affects: Webhooks · Duration: 50 min · Opened: Thu, 12 Nov 2026 18:43:13 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/ns57pv7lmynl">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/ns57pv7lmynl</link>
 <guid isPermaLink='false'>github:gl7yhd7jx00v:progress:monitoring:minor:2026-11-12T19:20:14.207000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 15:15:20 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 49 min · Opened: Sun, 01 Nov 2026 14:15:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/204qnjkqmk4r">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/204qnjkqmk4r</link>
-<guid isPermaLink='false'>moonshot:nnx1bbf1d0br:opened:investigating:critical:2026-11-01T14:15:41.487000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 14:30:19 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 14:15:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/204qnjkqmk4r">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from Moonshot AI (Kimi) after 39 min]]></title>
-<link>https://stspg.io/1z8jmfv1h4z8</link>
-<guid isPermaLink='false'>moonshot:8xl3qq3xd09z:resolved:resolved:critical:2026-11-01T12:39:20.524000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 12:45:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 39 min · Opened: Sun, 01 Nov 2026 11:59:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1z8jmfv1h4z8">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

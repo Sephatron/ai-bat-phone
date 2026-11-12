@@ -1,5 +1,43 @@
 [
  {
+  "body": "We are seeing disruptions with email delivery for account sign-in and new account sign up. We are investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is sulking, mildly",
+  "id": "github:nwbjzl7nfrc2:opened:investigating:minor:2026-11-12T19:43:01.975000+00:00",
+  "impact": "minor",
+  "incident_id": "nwbjzl7nfrc2",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-12T19:46:04.860542+00:00",
+  "started_at": "2026-11-12T19:36:45.556000+00:00",
+  "status": "investigating",
+  "title": "Disruption with Sign-in and Sign-up",
+  "transition": "opened",
+  "url": "https://stspg.io/lr8v4v8t7gs2"
+ },
+ {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Webhooks"
+  ],
+  "duration": "50 min",
+  "headline": "🟢 GitHub sorted itself out after 50 min",
+  "id": "github:gl7yhd7jx00v:resolved:resolved:minor:2026-11-12T19:33:54.277000+00:00",
+  "impact": "minor",
+  "incident_id": "gl7yhd7jx00v",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-12T19:46:04.860542+00:00",
+  "started_at": "2026-11-12T18:43:13.810000+00:00",
+  "status": "resolved",
+  "title": "Incident with Webhooks API",
+  "transition": "resolved",
+  "url": "https://stspg.io/ns57pv7lmynl"
+ },
+ {
   "body": "The degradation affecting Webhooks has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Webhooks"
@@ -7830,42 +7868,6 @@
   "status": "resolved",
   "title": "Degraded Performance of Dots on Enterprise",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G"
- },
- {
-  "body": "We have identified that new ad accounts are failing to assign their creator admin. We are investigating the issue.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
-  "id": "openai:01M5JHVJVC8WAXB4WRYFMKG6HP:opened:identified:minor:2026-10-22T19:36:53+00:00",
-  "impact": "minor",
-  "incident_id": "01M5JHVJVC8WAXB4WRYFMKG6HP",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-22T19:45:25.163818+00:00",
-  "started_at": "2026-10-22T19:36:53+00:00",
-  "status": "identified",
-  "title": "New Ad Accounts failing to provision admins",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M5JHVJVC8WAXB4WRYFMKG6HP"
- },
- {
-  "body": "We are still implementing the mitigation. Only enterprise users have observed to have been affected at this point.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
-  "id": "openai:01M5JF8DR3EGQJNTXPZ24AKX2G:opened:identified:minor:2026-10-22T18:59:18+00:00",
-  "impact": "minor",
-  "incident_id": "01M5JF8DR3EGQJNTXPZ24AKX2G",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-22T19:00:27.076327+00:00",
-  "started_at": "2026-10-22T18:51:28+00:00",
-  "status": "identified",
-  "title": "Degraded Performance of Dots on Enterprise",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G"
  }
 ]
