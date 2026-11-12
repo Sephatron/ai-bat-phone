@@ -1946,6 +1946,12 @@
    "status": "resolved",
    "updated_at": "2026-11-01T10:53:33+00:00"
   },
+  "cursor:ps_94275750e294382d": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-12T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-12T20:08:15+00:00"
+  },
   "cursor:ps_95a4f0b2be913452": {
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
@@ -4338,7 +4344,7 @@
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
    "status": "investigating",
-   "updated_at": "2026-11-12T19:43:01.975000+00:00"
+   "updated_at": "2026-11-12T20:12:05.438000+00:00"
   },
   "github:nwjwwhj118sf": {
    "impact": "maintenance",

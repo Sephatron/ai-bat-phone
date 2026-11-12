@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Cursor]]></title>
+<link>https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d</link>
+<guid isPermaLink='false'>cursor:ps_94275750e294382d:opened:investigating:minor:2026-11-12T20:08:15+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 20:16:05 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors for some requests</strong></p><p>Impact: minor · Status: investigating · Affects: cursor.com · Opened: Thu, 12 Nov 2026 20:08:15 +0000</p><p>We're investigating an issue that may cause some requests to fail, including purchases and other billing actions. We'll share another update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
 <link>https://stspg.io/lr8v4v8t7gs2</link>
 <guid isPermaLink='false'>github:nwbjzl7nfrc2:opened:investigating:minor:2026-11-12T19:43:01.975000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 16:15:18 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 01 Nov 2026 16:14:41 +0000</p><p>[Investigating] We are investigating issues affecting some users' ability to load workspaces and use Agent.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/204qnjkqmk4r</link>
-<guid isPermaLink='false'>moonshot:nnx1bbf1d0br:resolved:resolved:critical:2026-11-01T15:04:41.389000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 15:15:20 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 49 min · Opened: Sun, 01 Nov 2026 14:15:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/204qnjkqmk4r">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
