@@ -914,6 +914,12 @@
    "status": "resolved",
    "updated_at": "2026-06-27T06:50:31.710000+00:00"
   },
+  "baseten:qvtm4r8mzpll": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-12T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-12T23:32:59.972000+00:00"
+  },
   "baseten:r4ld106cvwkm": {
    "impact": "minor",
    "last_seen_at": "2026-11-12T00:00:00+00:00",
