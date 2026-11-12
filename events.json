@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "14 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M7906CWJ4G47XGK6VTSC3JRY:resolved:resolved:minor:2026-11-12T23:20:41+00:00",
+  "impact": "minor",
+  "incident_id": "01M7906CWJ4G47XGK6VTSC3JRY",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-12T23:31:04.303243+00:00",
+  "started_at": "2026-11-12T23:06:27+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M7906CWJ4G47XGK6VTSC3JRY"
+ },
+ {
   "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7841,25 +7859,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Actions"
-  ],
-  "duration": "36 min",
-  "headline": "🟢 GitHub has stopped wobbling",
-  "id": "github:ntrfd2jqldn6:resolved:resolved:minor:2026-10-23T08:05:27.388000+00:00",
-  "impact": "minor",
-  "incident_id": "ntrfd2jqldn6",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-23T08:15:25.339061+00:00",
-  "started_at": "2026-10-23T07:29:03.074000+00:00",
-  "status": "resolved",
-  "title": "Delayed Actions status check results",
-  "transition": "resolved",
-  "url": "https://stspg.io/kmk42jg3v1sm"
  }
 ]
