@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/ns57pv7lmynl</link>
+<guid isPermaLink='false'>github:gl7yhd7jx00v:progress:monitoring:minor:2026-11-12T19:20:14.207000+00:00</guid>
+<pubDate>Thu, 12 Nov 2026 19:31:03 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Webhooks API</strong></p><p>Impact: minor · Status: monitoring · Affects: Webhooks · Opened: Thu, 12 Nov 2026 18:43:13 +0000</p><p>The degradation affecting Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/ns57pv7lmynl">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
 <link>https://stspg.io/ns57pv7lmynl</link>
 <guid isPermaLink='false'>github:gl7yhd7jx00v:opened:investigating:minor:2026-11-12T18:43:13.911000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 01 Nov 2026 16:15:18 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Agent and Workspace Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 01 Nov 2026 16:14:41 +0000</p><p>[Investigating] We are investigating issues affecting some users' ability to load workspaces and use Agent.</p><p><a href="https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/204qnjkqmk4r</link>
-<guid isPermaLink='false'>moonshot:nnx1bbf1d0br:resolved:resolved:critical:2026-11-01T15:04:41.389000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 15:15:20 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 49 min · Opened: Sun, 01 Nov 2026 14:15:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/204qnjkqmk4r">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

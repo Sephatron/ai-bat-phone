@@ -1,5 +1,25 @@
 [
  {
+  "body": "The degradation affecting Webhooks has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Webhooks"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:gl7yhd7jx00v:progress:monitoring:minor:2026-11-12T19:20:14.207000+00:00",
+  "impact": "minor",
+  "incident_id": "gl7yhd7jx00v",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-12T19:31:03.816710+00:00",
+  "started_at": "2026-11-12T18:43:13.810000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Webhooks API",
+  "transition": "progress",
+  "url": "https://stspg.io/ns57pv7lmynl"
+ },
+ {
   "body": "We are investigating reports of degraded performance for Webhooks",
   "components": [
    "Webhooks"
@@ -7847,23 +7867,5 @@
   "title": "Degraded Performance of Dots on Enterprise",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "24 min",
-  "headline": "🟢 Fireworks AI has stopped wobbling",
-  "id": "fireworks:01M5JABXN0A6HGJ813BK4R14CY:resolved:resolved:minor:2026-10-22T17:50:42+00:00",
-  "impact": "minor",
-  "incident_id": "01M5JABXN0A6HGJ813BK4R14CY",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-22T18:00:25.304873+00:00",
-  "started_at": "2026-10-22T17:26:00+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5JABXN0A6HGJ813BK4R14CY"
  }
 ]
