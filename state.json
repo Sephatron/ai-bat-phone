@@ -3770,6 +3770,12 @@
    "status": "resolved",
    "updated_at": "2026-11-12T00:30:38+00:00"
   },
+  "fireworks:01M770AY4DSAP38KCNWN4MHH6N": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-12T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-12T04:30:27+00:00"
+  },
   "github:0f6hndclsk21": {
    "impact": "minor",
    "last_seen_at": "2026-09-14T00:00:00+00:00",

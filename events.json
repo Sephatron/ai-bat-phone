@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M770AY4DSAP38KCNWN4MHH6N:opened:investigating:minor:2026-11-12T04:30:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M770AY4DSAP38KCNWN4MHH6N",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-12T04:31:04.794493+00:00",
+  "started_at": "2026-11-12T04:30:27+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M770AY4DSAP38KCNWN4MHH6N"
+ },
+ {
   "body": "We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.",
   "components": [],
   "duration": "",
@@ -7850,27 +7868,6 @@
   "status": "resolved",
   "title": "Elevated errors affecting Connectors",
   "transition": "resolved",
-  "url": "https://stspg.io/4dcr8c005yxc"
- },
- {
-  "body": "A fix has been deployed for the issue affecting claude.ai and Claude Cowork and we are monitoring for recovery.",
-  "components": [
-   "claude.ai",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
-  "id": "anthropic:wj6r4t6mxq1r:progress:monitoring:minor:2026-10-22T07:28:22.829000+00:00",
-  "impact": "minor",
-  "incident_id": "wj6r4t6mxq1r",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-22T07:30:25.523365+00:00",
-  "started_at": "2026-10-22T03:50:12.621000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors affecting Connectors",
-  "transition": "progress",
   "url": "https://stspg.io/4dcr8c005yxc"
  }
 ]
