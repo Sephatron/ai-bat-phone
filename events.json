@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re investigating an issue with Microsoft connectors where new connections may be broken and tools are not working as expected. We’ll share an update when we know more.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from OpenAI",
+  "id": "openai:01M78GAT3AK9P9W8Z230KHFVE8:opened:investigating:minor:2026-11-12T18:29:14+00:00",
+  "impact": "minor",
+  "incident_id": "01M78GAT3AK9P9W8Z230KHFVE8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-12T18:31:04.676874+00:00",
+  "started_at": "2026-11-12T18:29:14+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting the Microsoft 365 connector",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8"
+ },
+ {
   "body": "We are investigating elevated errors and slow responses affecting the Microsoft 365 connector. Requests to mail, SharePoint, Teams chat and calendar through the connector may fail, and new connections to the connector may not complete. We will provide an update as soon as possible.",
   "components": [
    "claude.ai"
@@ -7842,23 +7860,5 @@
   "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5JABXN0A6HGJ813BK4R14CY"
- },
- {
-  "body": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project. Our team is investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Lovable is out. Go and look at a tree.",
-  "id": "lovable:01M5J9AWZKX27E7GKGC1EC1826:opened:investigating:major:2026-10-22T17:12:05+00:00",
-  "impact": "major",
-  "incident_id": "01M5J9AWZKX27E7GKGC1EC1826",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-22T17:15:28.602802+00:00",
-  "started_at": "2026-10-22T17:07:58+00:00",
-  "status": "investigating",
-  "title": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project.",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M5J9AWZKX27E7GKGC1EC1826"
  }
 ]
