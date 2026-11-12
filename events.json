@@ -1,5 +1,46 @@
 [
  {
+  "body": "We are investigating reports of degraded performance for Webhooks",
+  "components": [
+   "Webhooks"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from GitHub",
+  "id": "github:gl7yhd7jx00v:opened:investigating:minor:2026-11-12T18:43:13.911000+00:00",
+  "impact": "minor",
+  "incident_id": "gl7yhd7jx00v",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-12T18:46:05.512950+00:00",
+  "started_at": "2026-11-12T18:43:13.810000+00:00",
+  "status": "investigating",
+  "title": "Incident with Webhooks API",
+  "transition": "opened",
+  "url": "https://stspg.io/ns57pv7lmynl"
+ },
+ {
+  "body": "We have identified an issue with an upstream provider affecting the Microsoft 365 connector. Mail, calendar and search tools are failing for most requests, and new connections to the connector may not complete. We are in contact with them and will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔍 Claude knows what it did",
+  "id": "anthropic:sqn3fg1l96dl:progress:identified:major:2026-11-12T18:34:20.062000+00:00",
+  "impact": "major",
+  "incident_id": "sqn3fg1l96dl",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-12T18:46:05.512950+00:00",
+  "started_at": "2026-11-12T17:52:44.926000+00:00",
+  "status": "identified",
+  "title": "Elevated errors affecting the Microsoft 365 connector",
+  "transition": "progress",
+  "url": "https://stspg.io/m0rbx38nmy1c"
+ },
+ {
   "body": "We’re investigating an issue with Microsoft connectors where new connections may be broken and tools are not working as expected. We’ll share an update when we know more.",
   "components": [],
   "duration": "",
@@ -7823,42 +7864,6 @@
   "status": "resolved",
   "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5JABXN0A6HGJ813BK4R14CY"
- },
- {
-  "body": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project. Our team is investigating.",
-  "components": [],
-  "duration": "36 min",
-  "headline": "🟢 Lovable lives. Pick your tools back up.",
-  "id": "lovable:01M5J9AWZKX27E7GKGC1EC1826:resolved:resolved:major:2026-10-22T17:44:02+00:00",
-  "impact": "major",
-  "incident_id": "01M5J9AWZKX27E7GKGC1EC1826",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-22T17:45:23.797074+00:00",
-  "started_at": "2026-10-22T17:07:58+00:00",
-  "status": "resolved",
-  "title": "Some users may see errors when setting up a database or backend for a new project, or when remixing a project.",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M5J9AWZKX27E7GKGC1EC1826"
- },
- {
-  "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M5JABXN0A6HGJ813BK4R14CY:opened:investigating:minor:2026-10-22T17:26:00+00:00",
-  "impact": "minor",
-  "incident_id": "01M5JABXN0A6HGJ813BK4R14CY",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-22T17:30:24.231875+00:00",
-  "started_at": "2026-10-22T17:26:00+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5JABXN0A6HGJ813BK4R14CY"
  }
 ]
