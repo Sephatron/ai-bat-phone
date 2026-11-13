@@ -1,5 +1,46 @@
 [
  {
+  "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M7A9QQAKDCHWHFR679S35Q16:opened:investigating:minor:2026-11-13T11:12:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M7A9QQAKDCHWHFR679S35Q16",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-13T11:15:57.425824+00:00",
+  "started_at": "2026-11-13T11:12:27+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16"
+ },
+ {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude Console (platform.claude.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude thinks it's fixed and is watching nervously",
+  "id": "anthropic:nn11wk485zfn:progress:monitoring:major:2026-11-13T11:05:23.683000+00:00",
+  "impact": "major",
+  "incident_id": "nn11wk485zfn",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-13T11:15:57.425824+00:00",
+  "started_at": "2026-11-13T09:58:58.049000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "transition": "progress",
+  "url": "https://stspg.io/6kqyd0c5b1gr"
+ },
+ {
   "body": "We are investigating an issue with users authenticating to Claude.ai and Claude Code. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7821,42 +7862,6 @@
   "status": "monitoring",
   "title": "Help Center Chat Support Degraded",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN"
- },
- {
-  "body": "[Resolved] Users are able to access their private apps again.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit has stopped wobbling",
-  "id": "replit:ccbb7918-9d81-4c45-914b-5a4d6c24052d:resolved:resolved:minor:2026-10-23T22:00:26.325095+00:00",
-  "impact": "minor",
-  "incident_id": "ccbb7918-9d81-4c45-914b-5a4d6c24052d",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-23T22:00:26.325095+00:00",
-  "started_at": "2026-10-23T21:45:52+00:00",
-  "status": "resolved",
-  "title": "Users can't access privately deployed apps",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/ccbb7918-9d81-4c45-914b-5a4d6c24052d"
- },
- {
-  "body": "We’re currently experiencing degraded performance with the Help Center chat support experience. While we work to resolve the issue, we recommend contacting our Support team via email at [support@openai.com](mailto:support@openai.com \"support@openai.com\") for assistance. We apologize for the inconvenience and will provide updates as they become available.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is having a wobble",
-  "id": "openai:01M5NAR5GZC5M7D0S7AQ6CGEEN:opened:investigating:none:2026-10-23T21:30:25+00:00",
-  "impact": "none",
-  "incident_id": "01M5NAR5GZC5M7D0S7AQ6CGEEN",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T21:45:21.607304+00:00",
-  "started_at": "2026-10-23T21:30:25+00:00",
-  "status": "investigating",
-  "title": "Help Center Chat Support Degraded",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN"
  }
 ]

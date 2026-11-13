@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16</link>
+<guid isPermaLink='false'>fireworks:01M7A9QQAKDCHWHFR679S35Q16:opened:investigating:minor:2026-11-13T11:12:27+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 11:15:57 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 13 Nov 2026 11:12:27 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 Claude thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/6kqyd0c5b1gr</link>
+<guid isPermaLink='false'>anthropic:nn11wk485zfn:progress:monitoring:major:2026-11-13T11:05:23.683000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 11:15:57 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/6kqyd0c5b1gr</link>
 <guid isPermaLink='false'>anthropic:nn11wk485zfn:opened:investigating:major:2026-11-13T09:58:58.258000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 03:00:28 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
-<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:progress:identified:minor:2026-11-03T02:06:04+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 02:15:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI has a limp, not a break]]></title>
-<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
-<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:opened:investigating:minor:2026-11-03T00:58:21+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 01:00:24 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
