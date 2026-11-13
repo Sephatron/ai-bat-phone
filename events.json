@@ -1,5 +1,25 @@
 [
  {
+  "body": "The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Pull Requests"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub is on the mend. Don't get comfortable yet.",
+  "id": "github:1xzmt89vv61l:progress:monitoring:major:2026-11-13T17:28:01.469000+00:00",
+  "impact": "major",
+  "incident_id": "1xzmt89vv61l",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-13T17:30:56.477058+00:00",
+  "started_at": "2026-11-13T15:47:12.282000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Pull Requests",
+  "transition": "progress",
+  "url": "https://stspg.io/qzj7qjdcr8jc"
+ },
+ {
   "body": "We’re seeing signs of recovery for the Microsoft 365 connector and are continuing to monitor the affected services to confirm recovery.",
   "components": [],
   "duration": "",
@@ -7834,28 +7854,5 @@
   "title": "Investigating service outage - Grok models unavailable",
   "transition": "resolved",
   "url": "https://stspg.io/gr52z37rn6l2"
- },
- {
-  "body": "The issue affecting Claude models has been resolved. Impact occurred from 16:28 PT / 23:28 UTC on October 23 to 16:59 PT / 23:59 UTC on October 23.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "33 min",
-  "headline": "🟢 Claude is back. Grass sufficiently touched.",
-  "id": "anthropic:h101vcmhnfky:resolved:resolved:critical:2026-10-24T00:11:20.902000+00:00",
-  "impact": "critical",
-  "incident_id": "h101vcmhnfky",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-24T00:15:18.806505+00:00",
-  "started_at": "2026-10-23T23:37:42.659000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
-  "transition": "resolved",
-  "url": "https://stspg.io/gqp288t3qzpt"
  }
 ]
