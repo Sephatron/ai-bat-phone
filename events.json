@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "10 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M797GR9J4WV67CX093FCW481:resolved:resolved:minor:2026-11-13T01:24:35+00:00",
+  "impact": "minor",
+  "incident_id": "01M797GR9J4WV67CX093FCW481",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-13T01:31:03.754874+00:00",
+  "started_at": "2026-11-13T01:14:27+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3 Fast",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M797GR9J4WV67CX093FCW481"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7841,23 +7859,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D"
- },
- {
-  "body": "We’re investigating delays in some Dependabot alerts closing after affected repositories have been updated to address a vulnerability. Alert processing is backed up. We’ll share more information as it becomes available.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 GitHub is having a wobble",
-  "id": "github:71y513kjvbzh:opened:investigating:minor:2026-10-23T15:00:01.748000+00:00",
-  "impact": "minor",
-  "incident_id": "71y513kjvbzh",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-23T15:00:20.652867+00:00",
-  "started_at": "2026-10-23T14:58:48.741000+00:00",
-  "status": "investigating",
-  "title": "Disruption with Dependabot Alerts",
-  "transition": "opened",
-  "url": "https://stspg.io/zdk3zqt69fnz"
  }
 ]
