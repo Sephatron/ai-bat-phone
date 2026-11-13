@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Pull Requests"
+  ],
+  "duration": "2h 42m",
+  "headline": "🟢 GitHub is back. Grass sufficiently touched.",
+  "id": "github:1xzmt89vv61l:resolved:resolved:major:2026-11-13T18:29:31.655000+00:00",
+  "impact": "major",
+  "incident_id": "1xzmt89vv61l",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-13T18:30:57.104039+00:00",
+  "started_at": "2026-11-13T15:47:12.282000+00:00",
+  "status": "resolved",
+  "title": "Incident with Pull Requests",
+  "transition": "resolved",
+  "url": "https://stspg.io/qzj7qjdcr8jc"
+ },
+ {
   "body": "The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Pull Requests"
@@ -7829,30 +7849,5 @@
   "title": "Grok 4.6 and Grok 4.7 Service Issues",
   "transition": "resolved",
   "url": "https://stspg.io/9hysn9g59lpg"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "cursor.com",
-   "IDE",
-   "Grok Bot"
-  ],
-  "duration": "41 min",
-  "headline": "🟢 Cursor is fixed. You may resume being productive.",
-  "id": "cursor:z1rz4fcd48j6:resolved:resolved:major:2026-10-24T00:20:25.053000+00:00",
-  "impact": "major",
-  "incident_id": "z1rz4fcd48j6",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-24T00:30:17.338876+00:00",
-  "started_at": "2026-10-23T23:39:03.345000+00:00",
-  "status": "resolved",
-  "title": "Investigating service outage - Grok models unavailable",
-  "transition": "resolved",
-  "url": "https://stspg.io/gr52z37rn6l2"
  }
 ]

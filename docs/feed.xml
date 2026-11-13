@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/qzj7qjdcr8jc</link>
+<guid isPermaLink='false'>github:1xzmt89vv61l:resolved:resolved:major:2026-11-13T18:29:31.655000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 18:30:57 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: resolved · Affects: Pull Requests · Duration: 2h 42m · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/qzj7qjdcr8jc</link>
 <guid isPermaLink='false'>github:1xzmt89vv61l:progress:monitoring:major:2026-11-13T17:28:01.469000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 14:00:20 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with API, Git, and Copilot requests</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests, Issues, Copilot · Duration: 30 min · Opened: Tue, 03 Nov 2026 13:25:19 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/h1xqhrcn5gqn">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M6GSRZ55MW897FT45QRP4Y5M</link>
-<guid isPermaLink='false'>fireworks:01M6GSRZ55MW897FT45QRP4Y5M:opened:investigating:minor:2026-11-03T13:32:29+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 13:45:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 03 Nov 2026 13:32:29 +0000</p><p>We are seeing impacted performance for Kimi K3 US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6GSRZ55MW897FT45QRP4Y5M">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

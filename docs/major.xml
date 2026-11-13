@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/qzj7qjdcr8jc</link>
+<guid isPermaLink='false'>github:1xzmt89vv61l:resolved:resolved:major:2026-11-13T18:29:31.655000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 18:30:57 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: resolved · Affects: Pull Requests · Duration: 2h 42m · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/qzj7qjdcr8jc</link>
 <guid isPermaLink='false'>github:1xzmt89vv61l:progress:monitoring:major:2026-11-13T17:28:01.469000+00:00</guid>
@@ -1056,14 +1064,6 @@
 <pubDate>Sat, 24 Oct 2026 05:30:18 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for other Claude models</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sat, 24 Oct 2026 05:16:50 +0000</p><p>We have identified the cause of elevated errors on requests to other Claude models and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/7n1wgb6qsfly">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/gr52z37rn6l2</link>
-<guid isPermaLink='false'>cursor:z1rz4fcd48j6:resolved:resolved:major:2026-10-24T00:20:25.053000+00:00</guid>
-<pubDate>Sat, 24 Oct 2026 00:30:17 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service outage - Grok models unavailable</strong></p><p>Impact: major · Status: resolved · Affects: Automations, CLI, Cloud Agents, cursor.com, IDE, Grok Bot · Duration: 41 min · Opened: Fri, 23 Oct 2026 23:39:03 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/gr52z37rn6l2">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
