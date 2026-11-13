@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M7AM6T4ZJ1YGHJ9F5S7PYVF3:opened:investigating:minor:2026-11-13T14:15:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M7AM6T4ZJ1YGHJ9F5S7PYVF3",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-13T14:16:06.909148+00:00",
+  "started_at": "2026-11-13T14:15:27+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 Fast",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M7AM6T4ZJ1YGHJ9F5S7PYVF3"
+ },
+ {
   "body": "We are investigating reports of degraded performance affecting claude.ai, the Claude API, and Claude Code. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7854,24 +7872,6 @@
   "status": "monitoring",
   "title": "Degraded experience with ChatGPT app connections using CIMD",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
- },
- {
-  "body": "We are investigating the issue for the listed services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is having a wobble",
-  "id": "openai:01M5NFF94XCJ6CGTD4S78A9BEB:opened:investigating:minor:2026-10-23T22:52:56+00:00",
-  "impact": "minor",
-  "incident_id": "01M5NFF94XCJ6CGTD4S78A9BEB",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T23:00:19.727206+00:00",
-  "started_at": "2026-10-23T22:52:56+00:00",
-  "status": "investigating",
-  "title": "Degraded experience with ChatGPT app connections using CIMD",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
  }
 ]
