@@ -1033,13 +1033,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Investigating service outage - Grok models unavailable</strong></p><p>Impact: major · Status: investigating · Affects: Automations, CLI, Cloud Agents, cursor.com, IDE, Grok Bot · Opened: Fri, 23 Oct 2026 23:39:03 +0000</p><p>We are investigating a service outage affecting Grok models.</p><p><a href="https://stspg.io/gr52z37rn6l2">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-10-23</guid>
-<pubDate>Fri, 23 Oct 2026 14:45:17 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
