@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/264r547qtkky</link>
+<guid isPermaLink='false'>anthropic:34wq7gxnxvvm:opened:investigating:major:2026-11-13T13:09:50.345000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 13:15:56 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, the Claude API, and Claude Code</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Fri, 13 Nov 2026 13:09:50 +0000</p><p>We are investigating reports of degraded performance affecting claude.ai, the Claude API, and Claude Code. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/264r547qtkky">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/6kqyd0c5b1gr</link>
 <guid isPermaLink='false'>anthropic:nn11wk485zfn:resolved:resolved:major:2026-11-13T11:58:45.676000+00:00</guid>
