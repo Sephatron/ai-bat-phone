@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M796HKVM502P1SGZXGJ5QG7V:opened:investigating:minor:2026-11-13T00:57:26+00:00",
+  "impact": "minor",
+  "incident_id": "01M796HKVM502P1SGZXGJ5QG7V",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-13T01:01:04.891071+00:00",
+  "started_at": "2026-11-13T00:57:26+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M796HKVM502P1SGZXGJ5QG7V"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "14 min",
@@ -7841,23 +7859,5 @@
   "title": "Still watching 21 provider status pages",
   "transition": "alive",
   "url": "https://sephatron.github.io/ai-bat-phone"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M5MFEKQ7RP38XW628P4ZXZ3D:opened:investigating:minor:2026-10-23T13:33:20+00:00",
-  "impact": "minor",
-  "incident_id": "01M5MFEKQ7RP38XW628P4ZXZ3D",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-23T13:45:23.884763+00:00",
-  "started_at": "2026-10-23T13:33:20+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D"
  }
 ]
