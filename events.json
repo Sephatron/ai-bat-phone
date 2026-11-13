@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "1h 56m",
+  "headline": "🟢 OpenAI sorted itself out after 1h 56m",
+  "id": "openai:01M79GYA0GA772Y6D089AH5478:resolved:resolved:minor:2026-11-13T05:55:44+00:00",
+  "impact": "minor",
+  "incident_id": "01M79GYA0GA772Y6D089AH5478",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-13T06:01:05.153412+00:00",
+  "started_at": "2026-11-13T03:59:08+00:00",
+  "status": "resolved",
+  "title": "Sites: Publishing failing",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M79GYA0GA772Y6D089AH5478"
+ },
+ {
   "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
@@ -7835,26 +7853,5 @@
   "title": "Disruption with Dependabot Alerts",
   "transition": "progress",
   "url": "https://stspg.io/zdk3zqt69fnz"
- },
- {
-  "body": "The issue causing delays in Logs and Observability data has been resolved.",
-  "components": [
-   "Logs",
-   "Observability"
-  ],
-  "duration": "1h 01m",
-  "headline": "🟢 Vercel has stopped wobbling",
-  "id": "vercel:4lgcbsr7l8xn:resolved:resolved:minor:2026-10-23T17:32:46.920000+00:00",
-  "impact": "minor",
-  "incident_id": "4lgcbsr7l8xn",
-  "kind": "incident",
-  "provider_key": "vercel",
-  "provider_name": "Vercel",
-  "published_at": "2026-10-23T17:45:17.492110+00:00",
-  "started_at": "2026-10-23T16:31:02.346000+00:00",
-  "status": "resolved",
-  "title": "Delays in Logs and Observability data",
-  "transition": "resolved",
-  "url": "https://stspg.io/ywxtzgsnw6dn"
  }
 ]
