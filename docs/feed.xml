@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub sorted itself out after 1h 14m]]></title>
+<link>https://stspg.io/cppzsh0j19vy</link>
+<guid isPermaLink='false'>github:51drrqvsv66g:resolved:resolved:minor:2026-11-13T21:27:59.054000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 21:30:56 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Copilot experiencing degraded model availability for some GPT models</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 1h 14m · Opened: Fri, 13 Nov 2026 20:13:51 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/cppzsh0j19vy">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
 <link>https://stspg.io/cppzsh0j19vy</link>
 <guid isPermaLink='false'>github:51drrqvsv66g:opened:investigating:minor:2026-11-13T20:14:07.402000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Tue, 03 Nov 2026 16:02:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 42 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK</link>
-<guid isPermaLink='false'>fireworks:01M6H2H5CGNHB5TG15KTE47SYK:resolved:resolved:minor:2026-11-03T16:48:05+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 17:00:19 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 42 min · Opened: Tue, 03 Nov 2026 16:05:31 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
