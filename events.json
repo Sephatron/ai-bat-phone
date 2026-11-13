@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’re seeing signs of recovery for the Microsoft 365 connector and are continuing to monitor the affected services to confirm recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M78GAT3AK9P9W8Z230KHFVE8:progress:monitoring:minor:2026-11-13T16:20:45+00:00",
+  "impact": "minor",
+  "incident_id": "01M78GAT3AK9P9W8Z230KHFVE8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-13T16:31:02.708503+00:00",
+  "started_at": "2026-11-12T18:29:14+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors affecting the Microsoft 365 connector",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8"
+ },
+ {
   "body": "We have identified an issue causing delays in publishing Organization cost data through the Costs API. API and ChatGPT usage are not affected. We are working to restore normal data freshness.",
   "components": [],
   "duration": "",
@@ -7838,29 +7856,6 @@
   "status": "resolved",
   "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
   "transition": "resolved",
-  "url": "https://stspg.io/gqp288t3qzpt"
- },
- {
-  "body": "We are seeing success rates return to normal for all affected models, and are continuing to monitor to ensure no further issues.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
-  "id": "anthropic:h101vcmhnfky:progress:monitoring:critical:2026-10-23T23:54:14.825000+00:00",
-  "impact": "critical",
-  "incident_id": "h101vcmhnfky",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-24T00:00:21.893551+00:00",
-  "started_at": "2026-10-23T23:37:42.659000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
-  "transition": "progress",
   "url": "https://stspg.io/gqp288t3qzpt"
  }
 ]

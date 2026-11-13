@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8</link>
+<guid isPermaLink='false'>openai:01M78GAT3AK9P9W8Z230KHFVE8:progress:monitoring:minor:2026-11-13T16:20:45+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 16:31:02 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>We’re seeing signs of recovery for the Microsoft 365 connector and are continuing to monitor the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has found the culprit]]></title>
 <link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
 <guid isPermaLink='false'>openai:01M7ATRS6BMZ61E4JDHJGM79Y0:opened:identified:minor:2026-11-13T16:10:07+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 13:30:19 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with API, Git, and Copilot requests</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot · Opened: Tue, 03 Nov 2026 13:25:19 +0000</p><p>We are investigating reports of degraded performance for Copilot</p><p><a href="https://stspg.io/h1xqhrcn5gqn">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9</link>
-<guid isPermaLink='false'>fireworks:01M6GPQXKK9200Y3A7PHAF1ZM9:resolved:resolved:minor:2026-11-03T12:50:05+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 13:00:21 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Tue, 03 Nov 2026 12:39:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
