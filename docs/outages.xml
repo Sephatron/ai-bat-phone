@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 13 Nov 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
+<link>https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610</link>
+<guid isPermaLink='false'>replit:e43270bd-a929-4239-8e75-d558c7f26610:opened:identified:minor:2026-11-13T07:01:03.808508+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 07:01:03 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Reserved VM publishes failing at Promote: "inspect shared VPC attachment" error</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 13 Nov 2026 06:51:46 +0000</p><p>[Identified] There is an outage for reserved VM publishing. We have identified the root cause and is addressing it. Impacted: Publishing</p><p><a href="https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610">Replit status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 1h 56m]]></title>
 <link>https://status.openai.com/incidents/01M79GYA0GA772Y6D089AH5478</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 02 Nov 2026 22:45:17 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Replit chats are inaccessible</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 02 Nov 2026 22:38:52 +0000</p><p>[Monitoring] We have identified and are investigating a disruption of access to Replit chats.</p><p><a href="https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Replit is sulking, mildly]]></title>
-<link>https://status.replit.com/incidents/685b60a3-261c-4b29-9e9f-c24b2759aaba</link>
-<guid isPermaLink='false'>replit:685b60a3-261c-4b29-9e9f-c24b2759aaba:opened:investigating:minor:2026-11-02T22:15:17.893902+00:00</guid>
-<pubDate>Mon, 02 Nov 2026 22:15:17 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Some Replit workspaces are inaccessible</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 02 Nov 2026 22:13:11 +0000</p><p>[Investigating] We are currently investigating issues with accessing conversations in some Replit workspaces,</p><p><a href="https://status.replit.com/incidents/685b60a3-261c-4b29-9e9f-c24b2759aaba">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
