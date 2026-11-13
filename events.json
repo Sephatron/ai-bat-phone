@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. From 08:03 PT / 16:03 UTC on November 12 to 08:40 PT / 16:40 UTC on November 13, mail, calendar and search tools in the Microsoft 365 connector and Claude for Outlook returned errors for many requests because of a Microsoft 365 service incident. Microsoft is still completing its recovery, so you may see occasional errors or delays.",
+  "components": [
+   "claude.ai",
+   "Claude Cowork"
+  ],
+  "duration": "1d 3h",
+  "headline": "🟢 Claude is fixed. You may resume being productive.",
+  "id": "anthropic:sqn3fg1l96dl:resolved:resolved:major:2026-11-13T21:49:44.052000+00:00",
+  "impact": "major",
+  "incident_id": "sqn3fg1l96dl",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-13T22:00:57.227541+00:00",
+  "started_at": "2026-11-12T17:52:44.926000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors affecting the Microsoft 365 connector",
+  "transition": "resolved",
+  "url": "https://stspg.io/m0rbx38nmy1c"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Copilot AI Model Providers"
@@ -7817,24 +7838,6 @@
   "status": "resolved",
   "title": "Chat and project changes are currently failing for some users",
   "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5"
- },
- {
-  "body": "Chat and project changes are currently failing for some users. Our team has identified the cause and is working on a fix.",
-  "components": [],
-  "duration": "",
-  "headline": "🔴 Lovable is on the floor. Kettle on, grass outside.",
-  "id": "lovable:01M5Q303XS2X2S2K2RAV6PQYK5:opened:investigating:major:2026-10-24T13:53:25+00:00",
-  "impact": "major",
-  "incident_id": "01M5Q303XS2X2S2K2RAV6PQYK5",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-10-24T14:00:16.806236+00:00",
-  "started_at": "2026-10-24T13:53:25+00:00",
-  "status": "investigating",
-  "title": "Chat and project changes are currently failing for some users",
-  "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M5Q303XS2X2S2K2RAV6PQYK5"
  }
 ]

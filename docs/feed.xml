@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 13 Nov 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/m0rbx38nmy1c</link>
+<guid isPermaLink='false'>anthropic:sqn3fg1l96dl:resolved:resolved:major:2026-11-13T21:49:44.052000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 22:00:57 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude Cowork · Duration: 1d 3h · Opened: Thu, 12 Nov 2026 17:52:44 +0000</p><p>This incident has been resolved. From 08:03 PT / 16:03 UTC on November 12 to 08:40 PT / 16:40 UTC on November 13, mail, calendar and search tools in the Microsoft 365 connector and Claude for Outlook returned errors for many requests because of a Microsoft 365 service incident. Microsoft is still completing its recovery, so you may see occasional errors or delays.</p><p><a href="https://stspg.io/m0rbx38nmy1c">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub sorted itself out after 1h 14m]]></title>
 <link>https://stspg.io/cppzsh0j19vy</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>Some models may be temporarily unavailable since 16:52, Nov 3rd UTC. We have identified the root cause, implemented the fix and are monitoring the situation.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT</link>
-<guid isPermaLink='false'>fireworks:01M6H2BKXK2NQCQCH76KE45MMT:resolved:resolved:minor:2026-11-03T17:12:18+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Tue, 03 Nov 2026 16:02:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
