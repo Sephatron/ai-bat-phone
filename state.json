@@ -4548,7 +4548,7 @@
    "impact": "minor",
    "last_seen_at": "2026-11-13T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-11-05T17:42:35.455000+00:00"
+   "updated_at": "2026-11-13T04:23:59.352000+00:00"
   },
   "github:tc28c0wzrnpz": {
    "impact": "minor",
@@ -4566,7 +4566,7 @@
    "impact": "critical",
    "last_seen_at": "2026-11-13T00:00:00+00:00",
    "status": "resolved",
-   "updated_at": "2026-11-09T18:59:32.604000+00:00"
+   "updated_at": "2026-11-13T04:16:38.803000+00:00"
   },
   "github:tx9qn4khd664": {
    "impact": "critical",
