@@ -7121,8 +7121,8 @@
   "replit:e43270bd-a929-4239-8e75-d558c7f26610": {
    "impact": "minor",
    "last_seen_at": "2026-11-13T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-11-13T06:51:46+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-13T07:26:52+00:00"
   },
   "replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e": {
    "impact": "minor",

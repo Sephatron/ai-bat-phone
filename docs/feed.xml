@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit is fine again]]></title>
+<link>https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610</link>
+<guid isPermaLink='false'>replit:e43270bd-a929-4239-8e75-d558c7f26610:resolved:resolved:minor:2026-11-13T07:31:06.418501+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 07:31:06 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Reserved VM publishes failing at Promote: "inspect shared VPC attachment" error</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 13 Nov 2026 07:26:52 +0000</p><p>[Resolved] The issue is resolved. Thanks for your patience. Impacted: Publishing</p><p><a href="https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
 <link>https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610</link>
 <guid isPermaLink='false'>replit:e43270bd-a929-4239-8e75-d558c7f26610:opened:identified:minor:2026-11-13T07:01:03.808508+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 03:00:28 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
-<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:progress:identified:minor:2026-11-03T02:06:04+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 02:15:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: identified · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

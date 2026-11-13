@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] The issue is resolved. Thanks for your patience. Impacted: Publishing",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit is fine again",
+  "id": "replit:e43270bd-a929-4239-8e75-d558c7f26610:resolved:resolved:minor:2026-11-13T07:31:06.418501+00:00",
+  "impact": "minor",
+  "incident_id": "e43270bd-a929-4239-8e75-d558c7f26610",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-13T07:31:06.418501+00:00",
+  "started_at": "2026-11-13T07:26:52+00:00",
+  "status": "resolved",
+  "title": "Reserved VM publishes failing at Promote: \"inspect shared VPC attachment\" error",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610"
+ },
+ {
   "body": "[Identified] There is an outage for reserved VM publishing. We have identified the root cause and is addressing it. Impacted: Publishing",
   "components": [],
   "duration": "",
@@ -7835,23 +7853,5 @@
   "title": "Users can't access privately deployed apps",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/ccbb7918-9d81-4c45-914b-5a4d6c24052d"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [],
-  "duration": "3h 52m",
-  "headline": "🟢 GitHub has stopped wobbling",
-  "id": "github:71y513kjvbzh:resolved:resolved:minor:2026-10-23T18:51:24.517000+00:00",
-  "impact": "minor",
-  "incident_id": "71y513kjvbzh",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-23T19:00:21.248344+00:00",
-  "started_at": "2026-10-23T14:58:48.741000+00:00",
-  "status": "resolved",
-  "title": "Disruption with Dependabot Alerts",
-  "transition": "resolved",
-  "url": "https://stspg.io/zdk3zqt69fnz"
  }
 ]
