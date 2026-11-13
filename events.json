@@ -1,5 +1,23 @@
 [
  {
+  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
+  "components": [],
+  "duration": "",
+  "headline": "📡 Still watching. Nothing to report.",
+  "id": "meta:all:alive:2026-11-13",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "batphone",
+  "provider_name": "AI Bat Phone",
+  "published_at": "2026-11-13T14:45:56.158332+00:00",
+  "started_at": "2026-11-13T14:45:56.158332+00:00",
+  "status": "alive",
+  "title": "Still watching 21 provider status pages",
+  "transition": "alive",
+  "url": "https://sephatron.github.io/ai-bat-phone"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "6 min",
@@ -7855,23 +7873,5 @@
   "title": "Investigating service outage - Grok models unavailable",
   "transition": "opened",
   "url": "https://stspg.io/gr52z37rn6l2"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "50 min",
-  "headline": "🟢 OpenAI sorted itself out after 50 min",
-  "id": "openai:01M5NFF94XCJ6CGTD4S78A9BEB:resolved:resolved:minor:2026-10-23T23:43:22+00:00",
-  "impact": "minor",
-  "incident_id": "01M5NFF94XCJ6CGTD4S78A9BEB",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T23:45:17.708489+00:00",
-  "started_at": "2026-10-23T22:52:56+00:00",
-  "status": "resolved",
-  "title": "Degraded experience with ChatGPT app connections using CIMD",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
  }
 ]
