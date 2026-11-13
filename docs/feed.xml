@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 13 Nov 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/6kqyd0c5b1gr</link>
+<guid isPermaLink='false'>anthropic:nn11wk485zfn:opened:investigating:major:2026-11-13T09:58:58.258000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 10:00:19 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>We are investigating an issue with users authenticating to Claude.ai and Claude Code. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Replit is fine again]]></title>
 <link>https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 05:45:19 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 52m · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
-<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:progress:monitoring:minor:2026-11-03T02:51:29+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:28 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

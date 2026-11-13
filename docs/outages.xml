@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 13 Nov 2026 09:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 10:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/6kqyd0c5b1gr</link>
+<guid isPermaLink='false'>anthropic:nn11wk485zfn:opened:investigating:major:2026-11-13T09:58:58.258000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 10:00:19 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>We are investigating an issue with users authenticating to Claude.ai and Claude Code. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Replit is fine again]]></title>
 <link>https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 01:00:24 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
-<link>https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3</link>
-<guid isPermaLink='false'>replit:fc561e56-380f-42c1-a807-2ff3d6d5c5a3:resolved:resolved:minor:2026-11-02T23:00:18.262562+00:00</guid>
-<pubDate>Mon, 02 Nov 2026 23:00:18 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Replit chats are inaccessible</strong></p><p>Impact: minor · Status: resolved · Opened: Mon, 02 Nov 2026 22:49:27 +0000</p><p>[Resolved] Access to Replit chats has been restored.</p><p><a href="https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
