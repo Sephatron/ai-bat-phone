@@ -1,5 +1,49 @@
 [
  {
+  "body": "The issue affecting multiple surfaces has been resolved.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "2h 28m",
+  "headline": "🟢 Claude is fixed. You may resume being productive.",
+  "id": "anthropic:34wq7gxnxvvm:resolved:resolved:major:2026-11-13T15:38:49.380000+00:00",
+  "impact": "major",
+  "incident_id": "34wq7gxnxvvm",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-13T15:45:57.701867+00:00",
+  "started_at": "2026-11-13T13:09:50.189000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors on claude.ai, the Claude API, and Claude Code",
+  "transition": "resolved",
+  "url": "https://stspg.io/264r547qtkky"
+ },
+ {
+  "body": "We're seeing signs of recovery for the Microsoft 365 connector. Claude for Outlook is also recovering. Some SharePoint search requests are still returning errors. Microsoft's incident remains open, so errors may return. We're continuing to monitor and will update this post as soon as we have more info.",
+  "components": [
+   "claude.ai",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:sqn3fg1l96dl:progress:monitoring:major:2026-11-13T15:40:53.645000+00:00",
+  "impact": "major",
+  "incident_id": "sqn3fg1l96dl",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-13T15:45:57.701867+00:00",
+  "started_at": "2026-11-12T17:52:44.926000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors affecting the Microsoft 365 connector",
+  "transition": "progress",
+  "url": "https://stspg.io/m0rbx38nmy1c"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
@@ -7828,50 +7872,5 @@
   "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
   "transition": "opened",
   "url": "https://stspg.io/gqp288t3qzpt"
- },
- {
-  "body": "We are experiencing degraded availability for the Grok 4.6 and Grok 4.7 models in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot.",
-  "components": [
-   "Copilot AI Model Providers"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub is a bit under the weather",
-  "id": "github:khv5nj9qy2kk:opened:investigating:minor:2026-10-23T23:42:06.103000+00:00",
-  "impact": "minor",
-  "incident_id": "khv5nj9qy2kk",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-23T23:45:17.708489+00:00",
-  "started_at": "2026-10-23T23:41:54.214000+00:00",
-  "status": "investigating",
-  "title": "Grok 4.6 and Grok 4.7 Service Issues",
-  "transition": "opened",
-  "url": "https://stspg.io/9hysn9g59lpg"
- },
- {
-  "body": "We are investigating a service outage affecting Grok models.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "cursor.com",
-   "IDE",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🔴 Cursor has gone dark. Nothing you did. Probably.",
-  "id": "cursor:z1rz4fcd48j6:opened:investigating:major:2026-10-23T23:39:03.700000+00:00",
-  "impact": "major",
-  "incident_id": "z1rz4fcd48j6",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-23T23:45:17.708489+00:00",
-  "started_at": "2026-10-23T23:39:03.345000+00:00",
-  "status": "investigating",
-  "title": "Investigating service outage - Grok models unavailable",
-  "transition": "opened",
-  "url": "https://stspg.io/gr52z37rn6l2"
  }
 ]

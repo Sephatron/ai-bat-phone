@@ -143,8 +143,8 @@
   "anthropic:34wq7gxnxvvm": {
    "impact": "major",
    "last_seen_at": "2026-11-13T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-13T14:36:13.854000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-13T15:38:49.380000+00:00"
   },
   "anthropic:3cqf3pmlnr96": {
    "impact": "major",
@@ -473,8 +473,8 @@
   "anthropic:sqn3fg1l96dl": {
    "impact": "major",
    "last_seen_at": "2026-11-13T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-11-12T23:54:26.992000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-13T15:40:53.645000+00:00"
   },
   "anthropic:t33dncr5ydvl": {
    "impact": "major",

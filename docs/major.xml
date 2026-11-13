@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/264r547qtkky</link>
+<guid isPermaLink='false'>anthropic:34wq7gxnxvvm:resolved:resolved:major:2026-11-13T15:38:49.380000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 15:45:57 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, the Claude API, and Claude Code</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 2h 28m · Opened: Fri, 13 Nov 2026 13:09:50 +0000</p><p>The issue affecting multiple surfaces has been resolved.</p><p><a href="https://stspg.io/264r547qtkky">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/m0rbx38nmy1c</link>
+<guid isPermaLink='false'>anthropic:sqn3fg1l96dl:progress:monitoring:major:2026-11-13T15:40:53.645000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 15:45:57 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude Cowork · Opened: Thu, 12 Nov 2026 17:52:44 +0000</p><p>We're seeing signs of recovery for the Microsoft 365 connector. Claude for Outlook is also recovering. Some SharePoint search requests are still returning errors. Microsoft's incident remains open, so errors may return. We're continuing to monitor and will update this post as soon as we have more info.</p><p><a href="https://stspg.io/m0rbx38nmy1c">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <guid isPermaLink='false'>meta:all:alive:2026-11-13</guid>
@@ -1064,14 +1080,6 @@
 <pubDate>Fri, 23 Oct 2026 23:45:17 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5</strong></p><p>Impact: critical · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Fri, 23 Oct 2026 23:37:42 +0000</p><p>We have identified the cause of elevated errors on requests to Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5, as well as fast mode requests to Opus 5.5 and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/gqp288t3qzpt">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Cursor has gone dark. Nothing you did. Probably.]]></title>
-<link>https://stspg.io/gr52z37rn6l2</link>
-<guid isPermaLink='false'>cursor:z1rz4fcd48j6:opened:investigating:major:2026-10-23T23:39:03.700000+00:00</guid>
-<pubDate>Fri, 23 Oct 2026 23:45:17 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Investigating service outage - Grok models unavailable</strong></p><p>Impact: major · Status: investigating · Affects: Automations, CLI, Cloud Agents, cursor.com, IDE, Grok Bot · Opened: Fri, 23 Oct 2026 23:39:03 +0000</p><p>We are investigating a service outage affecting Grok models.</p><p><a href="https://stspg.io/gr52z37rn6l2">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
