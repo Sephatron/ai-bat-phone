@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 13 Nov 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16</link>
+<guid isPermaLink='false'>fireworks:01M7A9QQAKDCHWHFR679S35Q16:resolved:resolved:minor:2026-11-13T11:56:49+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 12:00:57 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 44 min · Opened: Fri, 13 Nov 2026 11:12:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/6kqyd0c5b1gr</link>
+<guid isPermaLink='false'>anthropic:nn11wk485zfn:resolved:resolved:major:2026-11-13T11:58:45.676000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 12:00:57 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Duration: 1h 59m · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>The issue affecting claude.ai and Claude Cowork has been resolved.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 09:00:21 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）</strong></p><p>Impact: minor · Status: investigating · Affects: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice) · Opened: Tue, 03 Nov 2026 08:58:16 +0000</p><p>Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice)</p><p><a href="https://status.deepseek.com/incidents/7202016104287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
-<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:resolved:resolved:minor:2026-11-03T05:39:36+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 05:45:19 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 52m · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G</link>
-<guid isPermaLink='false'>openai:01M6FDZ89W4PKDS19K496J307G:progress:monitoring:minor:2026-11-03T02:51:29+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 03:00:28 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>File upload errors in ChatGPT</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 03 Nov 2026 00:46:58 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

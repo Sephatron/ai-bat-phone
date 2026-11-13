@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-13T11:00:00+00:00",
+ "heartbeat": "2026-11-13T12:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -401,8 +401,8 @@
   "anthropic:nn11wk485zfn": {
    "impact": "major",
    "last_seen_at": "2026-11-13T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-13T11:05:23.683000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-13T11:58:45.676000+00:00"
   },
   "anthropic:nr3h7bw8b3k3": {
    "impact": "minor",
@@ -3857,8 +3857,8 @@
   "fireworks:01M7A9QQAKDCHWHFR679S35Q16": {
    "impact": "minor",
    "last_seen_at": "2026-11-13T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-13T11:12:27+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-13T11:56:49+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",

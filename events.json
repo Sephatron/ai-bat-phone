@@ -1,5 +1,46 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "44 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M7A9QQAKDCHWHFR679S35Q16:resolved:resolved:minor:2026-11-13T11:56:49+00:00",
+  "impact": "minor",
+  "incident_id": "01M7A9QQAKDCHWHFR679S35Q16",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-13T12:00:57.101532+00:00",
+  "started_at": "2026-11-13T11:12:27+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16"
+ },
+ {
+  "body": "The issue affecting claude.ai and Claude Cowork has been resolved.",
+  "components": [
+   "claude.ai",
+   "Claude Console (platform.claude.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "1h 59m",
+  "headline": "🟢 Claude is back. Grass sufficiently touched.",
+  "id": "anthropic:nn11wk485zfn:resolved:resolved:major:2026-11-13T11:58:45.676000+00:00",
+  "impact": "major",
+  "incident_id": "nn11wk485zfn",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-13T12:00:57.101532+00:00",
+  "started_at": "2026-11-13T09:58:58.049000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+  "transition": "resolved",
+  "url": "https://stspg.io/6kqyd0c5b1gr"
+ },
+ {
   "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7827,41 +7868,5 @@
   "title": "Hubspot Connectors is not working",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/1ae29807-c657-4f26-b194-21f6c7c8ffee"
- },
- {
-  "body": "All impacted services have now fully recovered.",
-  "components": [],
-  "duration": "32 min",
-  "headline": "🟢 OpenAI sorted itself out after 32 min",
-  "id": "openai:01M5NAR5GZC5M7D0S7AQ6CGEEN:resolved:resolved:none:2026-10-23T22:02:57+00:00",
-  "impact": "none",
-  "incident_id": "01M5NAR5GZC5M7D0S7AQ6CGEEN",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T22:15:20.976901+00:00",
-  "started_at": "2026-10-23T21:30:25+00:00",
-  "status": "resolved",
-  "title": "Help Center Chat Support Degraded",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M5NAR5GZC5M7D0S7AQ6CGEEN:progress:monitoring:none:2026-10-23T21:52:07+00:00",
-  "impact": "none",
-  "incident_id": "01M5NAR5GZC5M7D0S7AQ6CGEEN",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T22:00:26.325095+00:00",
-  "started_at": "2026-10-23T21:30:25+00:00",
-  "status": "monitoring",
-  "title": "Help Center Chat Support Degraded",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5NAR5GZC5M7D0S7AQ6CGEEN"
  }
 ]
