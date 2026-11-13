@@ -2,6 +2,24 @@
  {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
+  "duration": "35 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M796HKVM502P1SGZXGJ5QG7V:resolved:resolved:minor:2026-11-13T01:32:39+00:00",
+  "impact": "minor",
+  "incident_id": "01M796HKVM502P1SGZXGJ5QG7V",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-13T01:46:15.400658+00:00",
+  "started_at": "2026-11-13T00:57:26+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M796HKVM502P1SGZXGJ5QG7V"
+ },
+ {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
   "duration": "10 min",
   "headline": "🟢 Fireworks AI is fine again",
   "id": "fireworks:01M797GR9J4WV67CX093FCW481:resolved:resolved:minor:2026-11-13T01:24:35+00:00",
@@ -7841,23 +7859,5 @@
   "title": "Delays in Logs and Observability data",
   "transition": "opened",
   "url": "https://stspg.io/ywxtzgsnw6dn"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "3h 05m",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M5MFEKQ7RP38XW628P4ZXZ3D:resolved:resolved:minor:2026-10-23T16:38:45+00:00",
-  "impact": "minor",
-  "incident_id": "01M5MFEKQ7RP38XW628P4ZXZ3D",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-23T16:45:18.826633+00:00",
-  "started_at": "2026-10-23T13:33:20+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5MFEKQ7RP38XW628P4ZXZ3D"
  }
 ]
