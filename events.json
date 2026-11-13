@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "6 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 6 min",
+  "id": "fireworks:01M7AM6T4ZJ1YGHJ9F5S7PYVF3:resolved:resolved:minor:2026-11-13T14:21:54+00:00",
+  "impact": "minor",
+  "incident_id": "01M7AM6T4ZJ1YGHJ9F5S7PYVF3",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-13T14:30:57.968016+00:00",
+  "started_at": "2026-11-13T14:15:27+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3 Fast",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M7AM6T4ZJ1YGHJ9F5S7PYVF3"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7854,24 +7872,6 @@
   "status": "resolved",
   "title": "Degraded experience with ChatGPT app connections using CIMD",
   "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
-  "id": "openai:01M5NFF94XCJ6CGTD4S78A9BEB:progress:monitoring:minor:2026-10-23T23:10:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M5NFF94XCJ6CGTD4S78A9BEB",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-23T23:15:16.597108+00:00",
-  "started_at": "2026-10-23T22:52:56+00:00",
-  "status": "monitoring",
-  "title": "Degraded experience with ChatGPT app connections using CIMD",
-  "transition": "progress",
   "url": "https://status.openai.com/incidents/01M5NFF94XCJ6CGTD4S78A9BEB"
  }
 ]
