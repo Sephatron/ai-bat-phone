@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
+<link>https://stspg.io/cppzsh0j19vy</link>
+<guid isPermaLink='false'>github:51drrqvsv66g:opened:investigating:minor:2026-11-13T20:14:07.402000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 20:15:57 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Copilot experiencing degraded model availability for some GPT models</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Fri, 13 Nov 2026 20:13:51 +0000</p><p>We are experiencing degraded availability for gpt-5.6-sol-fast, gpt-5.6-sol, gpt-6.1-terra, and gpt-6-luna in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot.</p><p><a href="https://stspg.io/cppzsh0j19vy">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
 <guid isPermaLink='false'>openai:01M7ATRS6BMZ61E4JDHJGM79Y0:progress:monitoring:minor:2026-11-13T18:56:45+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 17:00:19 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 42 min · Opened: Tue, 03 Nov 2026 16:05:31 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK</link>
-<guid isPermaLink='false'>fireworks:01M6H2H5CGNHB5TG15KTE47SYK:opened:investigating:minor:2026-11-03T16:05:31+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 16:15:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 03 Nov 2026 16:05:31 +0000</p><p>We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

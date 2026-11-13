@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are experiencing degraded availability for gpt-5.6-sol-fast, gpt-5.6-sol, gpt-6.1-terra, and gpt-6-luna in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub is sulking, mildly",
+  "id": "github:51drrqvsv66g:opened:investigating:minor:2026-11-13T20:14:07.402000+00:00",
+  "impact": "minor",
+  "incident_id": "51drrqvsv66g",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-13T20:15:57.986276+00:00",
+  "started_at": "2026-11-13T20:13:51.316000+00:00",
+  "status": "investigating",
+  "title": "Copilot experiencing degraded model availability for some GPT models",
+  "transition": "opened",
+  "url": "https://stspg.io/cppzsh0j19vy"
+ },
+ {
   "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery. Delays in cost data are still expected.",
   "components": [],
   "duration": "",
@@ -7818,29 +7838,6 @@
   "status": "resolved",
   "title": "Elevated errors for Claude Fable 5 and Claude Fable 5.1",
   "transition": "resolved",
-  "url": "https://stspg.io/7n1wgb6qsfly"
- },
- {
-  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
-  "id": "anthropic:0ns5clsk8p2x:progress:monitoring:major:2026-10-24T05:41:17.492000+00:00",
-  "impact": "major",
-  "incident_id": "0ns5clsk8p2x",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-24T05:45:18.182998+00:00",
-  "started_at": "2026-10-24T05:16:50.579000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors for Claude Fable 5 and Claude Fable 5.1",
-  "transition": "progress",
   "url": "https://stspg.io/7n1wgb6qsfly"
  }
 ]
