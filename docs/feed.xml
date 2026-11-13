@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 13 Nov 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 GitHub has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/qzj7qjdcr8jc</link>
+<guid isPermaLink='false'>github:1xzmt89vv61l:opened:investigating:major:2026-11-13T15:49:36.446000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 16:00:56 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: investigating · Affects: Pull Requests · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>We’re investigating an issue with Pull Requests where some attempts to merge are timing out.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/264r547qtkky</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 12:45:23 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 03 Nov 2026 12:39:29 +0000</p><p>We are seeing impacted performance for Kimi K3 US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 14 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M6GGCNMA0V8MYXZ9J9BE5F6W</link>
-<guid isPermaLink='false'>fireworks:01M6GGCNMA0V8MYXZ9J9BE5F6W:resolved:resolved:minor:2026-11-03T11:03:12+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 11:15:19 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Tue, 03 Nov 2026 10:48:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6GGCNMA0V8MYXZ9J9BE5F6W">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

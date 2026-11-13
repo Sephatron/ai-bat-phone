@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 13 Nov 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 GitHub has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/qzj7qjdcr8jc</link>
+<guid isPermaLink='false'>github:1xzmt89vv61l:opened:investigating:major:2026-11-13T15:49:36.446000+00:00</guid>
+<pubDate>Fri, 13 Nov 2026 16:00:56 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: investigating · Affects: Pull Requests · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>We’re investigating an issue with Pull Requests where some attempts to merge are timing out.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/264r547qtkky</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 11:00:20 +0000</pubDate>
 <category>DeepSeek</category>
 <description><![CDATA[<p><strong>DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）</strong></p><p>Impact: minor · Status: resolved · Affects: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), DeepSeek V4 Pro API服务(API Service) · Opened: Tue, 03 Nov 2026 08:58:16 +0000</p><p>Status: resolved 本次问题已解决，服务已恢复。 The incident has been resolved and service has been restored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), DeepSeek V4 Pro API服务(API Service)</p><p><a href="https://status.deepseek.com/incidents/7202016104287">DeepSeek status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M6GE1K74VVBKEW56JT02FKPA</link>
-<guid isPermaLink='false'>fireworks:01M6GE1K74VVBKEW56JT02FKPA:resolved:resolved:minor:2026-11-03T10:16:09+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 10:30:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 8 min · Opened: Tue, 03 Nov 2026 10:07:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6GE1K74VVBKEW56JT02FKPA">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

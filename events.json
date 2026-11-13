@@ -1,5 +1,25 @@
 [
  {
+  "body": "We’re investigating an issue with Pull Requests where some attempts to merge are timing out.",
+  "components": [
+   "Pull Requests"
+  ],
+  "duration": "",
+  "headline": "🔴 GitHub has downed tools — and so, probably, have you",
+  "id": "github:1xzmt89vv61l:opened:investigating:major:2026-11-13T15:49:36.446000+00:00",
+  "impact": "major",
+  "incident_id": "1xzmt89vv61l",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-13T16:00:56.687658+00:00",
+  "started_at": "2026-11-13T15:47:12.282000+00:00",
+  "status": "investigating",
+  "title": "Incident with Pull Requests",
+  "transition": "opened",
+  "url": "https://stspg.io/qzj7qjdcr8jc"
+ },
+ {
   "body": "The issue affecting multiple surfaces has been resolved.",
   "components": [
    "claude.ai",
@@ -7849,28 +7869,5 @@
   "title": "Investigating service outage - Grok models unavailable",
   "transition": "progress",
   "url": "https://stspg.io/gr52z37rn6l2"
- },
- {
-  "body": "We have identified the cause of elevated errors on requests to Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5, as well as fast mode requests to Opus 5.5 and are working on a fix. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔍 Claude knows what it did",
-  "id": "anthropic:h101vcmhnfky:opened:identified:critical:2026-10-23T23:39:22.610000+00:00",
-  "impact": "critical",
-  "incident_id": "h101vcmhnfky",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-23T23:45:17.708489+00:00",
-  "started_at": "2026-10-23T23:37:42.659000+00:00",
-  "status": "identified",
-  "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
-  "transition": "opened",
-  "url": "https://stspg.io/gqp288t3qzpt"
  }
 ]
