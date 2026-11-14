@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8</link>
+<guid isPermaLink='false'>openai:01M78GAT3AK9P9W8Z230KHFVE8:resolved:resolved:minor:2026-11-14T00:18:13+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 00:30:56 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 5h · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/m0rbx38nmy1c</link>
 <guid isPermaLink='false'>anthropic:sqn3fg1l96dl:resolved:resolved:major:2026-11-13T21:49:44.052000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 20:00:31 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: resolved · Affects: GPT-OSS-120B, Qwen-3.8-27b · Duration: 2h 33m · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cerebras Inference thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/8z7pvns2hgqr</link>
-<guid isPermaLink='false'>cerebras:c7y1qsw64zmw:opened:monitoring:none:2026-11-03T17:07:43.778000+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>Some models may be temporarily unavailable since 16:52, Nov 3rd UTC. We have identified the root cause, implemented the fix and are monitoring the situation.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

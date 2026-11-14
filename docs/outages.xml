@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8</link>
+<guid isPermaLink='false'>openai:01M78GAT3AK9P9W8Z230KHFVE8:resolved:resolved:minor:2026-11-14T00:18:13+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 00:30:56 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 5h · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/m0rbx38nmy1c</link>
 <guid isPermaLink='false'>anthropic:sqn3fg1l96dl:resolved:resolved:major:2026-11-13T21:49:44.052000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 17:00:19 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 42 min · Opened: Tue, 03 Nov 2026 16:05:31 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK</link>
-<guid isPermaLink='false'>fireworks:01M6H2H5CGNHB5TG15KTE47SYK:opened:investigating:minor:2026-11-03T16:05:31+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 16:15:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 03 Nov 2026 16:05:31 +0000</p><p>We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
