@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 14 Nov 2026 06:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 07:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Baseten is fine again]]></title>
+<link>https://stspg.io/704gwk5n8w86</link>
+<guid isPermaLink='false'>baseten:yg5tzf98mpyf:resolved:resolved:minor:2026-11-14T06:58:20.617000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 07:00:56 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models on Model APIs</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 36 min · Opened: Sat, 14 Nov 2026 06:22:15 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/704gwk5n8w86">Baseten status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Baseten has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/704gwk5n8w86</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 09:00:21 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: identified · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>We have identified the cause of the sign-in errors and are working on a fix.</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/hj74883wgn0t</link>
-<guid isPermaLink='false'>github:tc28c0wzrnpz:opened:investigating:minor:2026-11-04T08:45:00.349000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 08:45:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Increased task-related errors for Copilot Mission Control</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 04 Nov 2026 08:45:00 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/hj74883wgn0t">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
