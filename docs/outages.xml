@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Baseten is sulking, mildly]]></title>
+<link>https://stspg.io/704gwk5n8w86</link>
+<guid isPermaLink='false'>baseten:yg5tzf98mpyf:opened:investigating:minor:2026-11-14T06:22:15.895000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 06:30:56 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models on Model APIs</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Sat, 14 Nov 2026 06:22:15 +0000</p><p>We are seeing elevated errors on GLM 5.3 and DeepSeek V4.1 Flash</p><p><a href="https://stspg.io/704gwk5n8w86">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962</link>
 <guid isPermaLink='false'>openai:01M7C40W0N5MZHNW0YM09QV962:resolved:resolved:none:2026-11-14T05:27:53+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 04:00:19 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9</link>
-<guid isPermaLink='false'>cursor:ps_b88ca87004b1d3b9:resolved:resolved:none:2026-11-03T22:53:01+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 23:00:19 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>3 "Slow clones from GH due to Github degradation"</strong></p><p>Impact: unclassified · Status: resolved · Affects: Bugbot, Cloud Agents · Duration: 1h 12m · Opened: Tue, 03 Nov 2026 21:40:43 +0000</p><p>GitHub has mitigated the Git operations incident, and Cloud Agent startup and Bugbot run times have returned to normal.</p><p><a href="https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

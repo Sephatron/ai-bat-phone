@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Baseten is sulking, mildly]]></title>
+<link>https://stspg.io/704gwk5n8w86</link>
+<guid isPermaLink='false'>baseten:yg5tzf98mpyf:opened:investigating:minor:2026-11-14T06:22:15.895000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 06:30:56 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models on Model APIs</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Sat, 14 Nov 2026 06:22:15 +0000</p><p>We are seeing elevated errors on GLM 5.3 and DeepSeek V4.1 Flash</p><p><a href="https://stspg.io/704gwk5n8w86">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962</link>
 <guid isPermaLink='false'>openai:01M7C40W0N5MZHNW0YM09QV962:resolved:resolved:none:2026-11-14T05:27:53+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 08:30:20 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: investigating · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>We are currently investigating an issue affecting password-based sign-ins. Other sign-in methods are working as expected.</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT</link>
-<guid isPermaLink='false'>fireworks:01M6G9F3VBRSPKTQVYT74MXAJT:resolved:resolved:minor:2026-11-04T04:52:56+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 05:00:33 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 20h 05m · Opened: Tue, 03 Nov 2026 08:47:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
