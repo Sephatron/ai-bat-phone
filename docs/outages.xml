@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/088mb9dqz4g7</link>
+<guid isPermaLink='false'>moonshot:d0kxxdm3ktq2:opened:investigating:critical:2026-11-14T15:43:44.914000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 15:45:56 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K2.7 Code Highspeed TTFT 响应延迟严重升高</strong></p><p>Impact: critical · Status: investigating · Affects: K2.7 Code Highspeed · Opened: Sat, 14 Nov 2026 15:43:44 +0000</p><p>K2.7 Code Highspeed 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/088mb9dqz4g7">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M7D4DXFWX3K1H75X12AZNT1M</link>
 <guid isPermaLink='false'>fireworks:01M7D4DXFWX3K1H75X12AZNT1M:resolved:resolved:minor:2026-11-14T15:02:48+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 10:30:21 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>The fix has been released and sign-in should be working as usual. We are currently monitoring the situation</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
-<link>https://stspg.io/hj74883wgn0t</link>
-<guid isPermaLink='false'>github:tc28c0wzrnpz:resolved:resolved:minor:2026-11-04T10:01:44.589000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 10:15:23 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Increased task-related errors for Copilot Mission Control</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 16m · Opened: Wed, 04 Nov 2026 08:45:00 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/hj74883wgn0t">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

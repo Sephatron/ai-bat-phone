@@ -1,5 +1,25 @@
 [
  {
+  "body": "K2.7 Code Highspeed 部分请求的 TTFT 延迟可能升高",
+  "components": [
+   "K2.7 Code Highspeed"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you",
+  "id": "moonshot:d0kxxdm3ktq2:opened:investigating:critical:2026-11-14T15:43:44.914000+00:00",
+  "impact": "critical",
+  "incident_id": "d0kxxdm3ktq2",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-14T15:45:56.959137+00:00",
+  "started_at": "2026-11-14T15:43:44.820000+00:00",
+  "status": "investigating",
+  "title": "Kimi Code K2.7 Code Highspeed TTFT 响应延迟严重升高",
+  "transition": "opened",
+  "url": "https://stspg.io/088mb9dqz4g7"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "1h 25m",
@@ -7785,23 +7805,5 @@
   "title": "Ads POST /ads/* endpoints elevated error rates",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "14 min",
-  "headline": "🟢 Fireworks AI has stopped wobbling",
-  "id": "fireworks:01M5WNVZ2R60QBF4P2S5NXKSZW:resolved:resolved:minor:2026-10-26T18:13:26+00:00",
-  "impact": "minor",
-  "incident_id": "01M5WNVZ2R60QBF4P2S5NXKSZW",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-26T18:15:19.716472+00:00",
-  "started_at": "2026-10-26T17:59:25+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5WNVZ2R60QBF4P2S5NXKSZW"
  }
 ]
