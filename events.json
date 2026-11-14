@@ -1,5 +1,25 @@
 [
  {
+  "body": "Status: investigating 正在排查问题，以定位原因。 The issue is being investigated to identify the cause. Affected components: 对话服务(Chatservice)",
+  "components": [
+   "对话服务(Chatservice)"
+  ],
+  "duration": "",
+  "headline": "🟠 DeepSeek is having a wobble",
+  "id": "deepseek:urn:flashduty:change:7252143961119:opened:investigating:minor:2026-11-14T17:01:04.679051+00:00",
+  "impact": "minor",
+  "incident_id": "urn:flashduty:change:7252143961119",
+  "kind": "incident",
+  "provider_key": "deepseek",
+  "provider_name": "DeepSeek",
+  "published_at": "2026-11-14T17:01:04.679051+00:00",
+  "started_at": "2026-11-14T16:53:58+00:00",
+  "status": "investigating",
+  "title": "DeepSeek 网页/Chat 性能下降（DeepSeek Web/Chat Degraded Performance）",
+  "transition": "opened",
+  "url": "https://status.deepseek.com/incidents/7252143961119"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "K2.7 Code Highspeed"
@@ -7789,23 +7809,5 @@
   "title": "Ads POST /ads/* endpoints elevated error rates",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M5WR71465BVJ7XASAA2T2CRK:opened:investigating:minor:2026-10-26T18:40:24+00:00",
-  "impact": "minor",
-  "incident_id": "01M5WR71465BVJ7XASAA2T2CRK",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-26T18:45:21.445158+00:00",
-  "started_at": "2026-10-26T18:40:24+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK"
  }
 ]
