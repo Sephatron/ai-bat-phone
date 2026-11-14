@@ -1,5 +1,25 @@
 [
  {
+  "body": "GLM 5.3 has recovered and we are continuing to monitor",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "",
+  "headline": "👀 Baseten has applied a fix and is holding its breath",
+  "id": "baseten:yg5tzf98mpyf:progress:monitoring:minor:2026-11-14T06:45:10.106000+00:00",
+  "impact": "minor",
+  "incident_id": "yg5tzf98mpyf",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-14T06:45:55.547863+00:00",
+  "started_at": "2026-11-14T06:22:15.759000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for multiple models on Model APIs",
+  "transition": "progress",
+  "url": "https://stspg.io/704gwk5n8w86"
+ },
+ {
   "body": "We are seeing elevated errors on GLM 5.3 and DeepSeek V4.1 Flash",
   "components": [
    "Model APIs"
@@ -7798,23 +7818,5 @@
   "title": "Kimi Code K3 模型服务持续波动",
   "transition": "opened",
   "url": "https://stspg.io/5hx1kxfh3bl7"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "4 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 4 min",
-  "id": "fireworks:01M5TPBBGFN3S829YAFE40YB33:resolved:resolved:minor:2026-10-25T23:33:38+00:00",
-  "impact": "minor",
-  "incident_id": "01M5TPBBGFN3S829YAFE40YB33",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-25T23:45:16.124675+00:00",
-  "started_at": "2026-10-25T23:29:20+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5TPBBGFN3S829YAFE40YB33"
  }
 ]

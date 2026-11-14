@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Baseten has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/704gwk5n8w86</link>
+<guid isPermaLink='false'>baseten:yg5tzf98mpyf:progress:monitoring:minor:2026-11-14T06:45:10.106000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 06:45:55 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models on Model APIs</strong></p><p>Impact: minor · Status: monitoring · Affects: Model APIs · Opened: Sat, 14 Nov 2026 06:22:15 +0000</p><p>GLM 5.3 has recovered and we are continuing to monitor</p><p><a href="https://stspg.io/704gwk5n8w86">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten is sulking, mildly]]></title>
 <link>https://stspg.io/704gwk5n8w86</link>
 <guid isPermaLink='false'>baseten:yg5tzf98mpyf:opened:investigating:minor:2026-11-14T06:22:15.895000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 08:45:20 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Increased task-related errors for Copilot Mission Control</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 04 Nov 2026 08:45:00 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/hj74883wgn0t">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 ElevenLabs has a limp, not a break]]></title>
-<link>https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ</link>
-<guid isPermaLink='false'>elevenlabs:01M6JTCM4Z5S4DN3XB35SFZXHJ:opened:investigating:none:2026-11-04T08:21:42+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 08:30:20 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: investigating · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>We are currently investigating an issue affecting password-based sign-ins. Other sign-in methods are working as expected.</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

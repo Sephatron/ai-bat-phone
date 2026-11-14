@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Baseten has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/704gwk5n8w86</link>
+<guid isPermaLink='false'>baseten:yg5tzf98mpyf:progress:monitoring:minor:2026-11-14T06:45:10.106000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 06:45:55 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models on Model APIs</strong></p><p>Impact: minor · Status: monitoring · Affects: Model APIs · Opened: Sat, 14 Nov 2026 06:22:15 +0000</p><p>GLM 5.3 has recovered and we are continuing to monitor</p><p><a href="https://stspg.io/704gwk5n8w86">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten is sulking, mildly]]></title>
 <link>https://stspg.io/704gwk5n8w86</link>
 <guid isPermaLink='false'>baseten:yg5tzf98mpyf:opened:investigating:minor:2026-11-14T06:22:15.895000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 04:15:21 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 9 min · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/9mm2lj4p12lj</link>
-<guid isPermaLink='false'>moonshot:sdvr0k3d0j2n:opened:investigating:critical:2026-11-04T03:52:42.691000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 04:00:19 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
