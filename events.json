@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is a bit under the weather",
+  "id": "fireworks:01M7D4DXFWX3K1H75X12AZNT1M:opened:investigating:minor:2026-11-14T13:37:26+00:00",
+  "impact": "minor",
+  "incident_id": "01M7D4DXFWX3K1H75X12AZNT1M",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-14T13:45:56.217642+00:00",
+  "started_at": "2026-11-14T13:37:26+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M7D4DXFWX3K1H75X12AZNT1M"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "14 min",
@@ -7785,28 +7803,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5WNVZ2R60QBF4P2S5NXKSZW"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "1h 23m",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:tf5vxc32161d:resolved:resolved:minor:2026-10-26T15:25:50.979000+00:00",
-  "impact": "minor",
-  "incident_id": "tf5vxc32161d",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-26T15:30:19.196284+00:00",
-  "started_at": "2026-10-26T14:02:00+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for Claude Sonnet 5.5",
-  "transition": "resolved",
-  "url": "https://stspg.io/3sw5fzxzhp8l"
  }
 ]
