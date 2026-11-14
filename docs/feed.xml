@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/5lfkxvfvbsbt</link>
+<guid isPermaLink='false'>moonshot:3svbm7fd9jdf:opened:investigating:critical:2026-11-14T02:27:18.327000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 02:30:58 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>短信登录异常</strong></p><p>Impact: critical · Status: investigating · Affects: Sign In / Sign Up · Opened: Sat, 14 Nov 2026 02:27:18 +0000</p><p>短信登录活跃度过低</p><p><a href="https://stspg.io/5lfkxvfvbsbt">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8</link>
 <guid isPermaLink='false'>openai:01M78GAT3AK9P9W8Z230KHFVE8:resolved:resolved:minor:2026-11-14T00:18:13+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 21:00:22 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Git Operations</strong></p><p>Impact: minor · Status: investigating · Affects: Git Operations · Opened: Tue, 03 Nov 2026 20:57:14 +0000</p><p>We are investigating reports of degraded performance for Git Operations</p><p><a href="https://stspg.io/n478rfsspcmr">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cerebras Inference is fine again]]></title>
-<link>https://stspg.io/8z7pvns2hgqr</link>
-<guid isPermaLink='false'>cerebras:c7y1qsw64zmw:resolved:resolved:none:2026-11-03T19:41:04.719000+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 20:00:31 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: resolved · Affects: GPT-OSS-120B, Qwen-3.8-27b · Duration: 2h 33m · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

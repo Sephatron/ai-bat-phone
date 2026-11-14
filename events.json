@@ -1,5 +1,25 @@
 [
  {
+  "body": "短信登录活跃度过低",
+  "components": [
+   "Sign In / Sign Up"
+  ],
+  "duration": "",
+  "headline": "🔴 Tools down: Moonshot AI (Kimi) is broken",
+  "id": "moonshot:3svbm7fd9jdf:opened:investigating:critical:2026-11-14T02:27:18.327000+00:00",
+  "impact": "critical",
+  "incident_id": "3svbm7fd9jdf",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-14T02:30:58.048366+00:00",
+  "started_at": "2026-11-14T02:27:18.207000+00:00",
+  "status": "investigating",
+  "title": "短信登录异常",
+  "transition": "opened",
+  "url": "https://stspg.io/5lfkxvfvbsbt"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "1d 5h",
@@ -7815,29 +7835,6 @@
   "status": "identified",
   "title": "Elevated errors for Claude Sonnet 5.5",
   "transition": "progress",
-  "url": "https://stspg.io/s3wd6gmdsdhn"
- },
- {
-  "body": "We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, Claude Opus 5.5, Claude Sonnet 5.5, and Claude Haiku 5.5. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔴 Claude has downed tools — and so, probably, have you",
-  "id": "anthropic:334jvgbrc4ff:opened:investigating:major:2026-10-25T06:14:18.254000+00:00",
-  "impact": "major",
-  "incident_id": "334jvgbrc4ff",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-25T06:15:20.385886+00:00",
-  "started_at": "2026-10-25T06:14:18.088000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors for multiple models",
-  "transition": "opened",
   "url": "https://stspg.io/s3wd6gmdsdhn"
  }
 ]

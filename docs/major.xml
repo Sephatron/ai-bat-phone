@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/5lfkxvfvbsbt</link>
+<guid isPermaLink='false'>moonshot:3svbm7fd9jdf:opened:investigating:critical:2026-11-14T02:27:18.327000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 02:30:58 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>短信登录异常</strong></p><p>Impact: critical · Status: investigating · Affects: Sign In / Sign Up · Opened: Sat, 14 Nov 2026 02:27:18 +0000</p><p>短信登录活跃度过低</p><p><a href="https://stspg.io/5lfkxvfvbsbt">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/m0rbx38nmy1c</link>
 <guid isPermaLink='false'>anthropic:sqn3fg1l96dl:resolved:resolved:major:2026-11-13T21:49:44.052000+00:00</guid>
@@ -1024,14 +1032,6 @@
 <pubDate>Sun, 25 Oct 2026 06:30:20 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>We have identified the cause of elevated errors on requests to Claude Sonnet 5.5 and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Claude has downed tools — and so, probably, have you]]></title>
-<link>https://stspg.io/s3wd6gmdsdhn</link>
-<guid isPermaLink='false'>anthropic:334jvgbrc4ff:opened:investigating:major:2026-10-25T06:14:18.254000+00:00</guid>
-<pubDate>Sun, 25 Oct 2026 06:15:20 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 06:14:18 +0000</p><p>We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, Claude Opus 5.5, Claude Sonnet 5.5, and Claude Haiku 5.5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/s3wd6gmdsdhn">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
