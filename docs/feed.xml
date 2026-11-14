@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude is upright again. That took 1h 28m.]]></title>
+<link>https://stspg.io/qqf00d9r7pm4</link>
+<guid isPermaLink='false'>anthropic:qrpz8k79qm7x:resolved:resolved:major:2026-11-14T04:23:05.216000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 04:30:56 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated purchasing errors on claude.ai</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai · Duration: 1h 28m · Opened: Sat, 14 Nov 2026 02:54:33 +0000</p><p>The issue affecting purchases and plan changes on claude.ai has been resolved, and delayed plan changes and payments have now been applied. Impact occurred from 18:34 PT on November 13 / 02:34 UTC on November 14 to 20:03 PT on November 13 / 04:03 UTC on November 14.</p><p><a href="https://stspg.io/qqf00d9r7pm4">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962</link>
 <guid isPermaLink='false'>openai:01M7C40W0N5MZHNW0YM09QV962:opened:monitoring:none:2026-11-14T04:11:04+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 04:15:21 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 9 min · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/9mm2lj4p12lj</link>
-<guid isPermaLink='false'>moonshot:sdvr0k3d0j2n:opened:investigating:critical:2026-11-04T03:52:42.691000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 04:00:19 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

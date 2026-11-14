@@ -1,5 +1,25 @@
 [
  {
+  "body": "The issue affecting purchases and plan changes on claude.ai has been resolved, and delayed plan changes and payments have now been applied. Impact occurred from 18:34 PT on November 13 / 02:34 UTC on November 14 to 20:03 PT on November 13 / 04:03 UTC on November 14.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "1h 28m",
+  "headline": "🟢 Claude is upright again. That took 1h 28m.",
+  "id": "anthropic:qrpz8k79qm7x:resolved:resolved:major:2026-11-14T04:23:05.216000+00:00",
+  "impact": "major",
+  "incident_id": "qrpz8k79qm7x",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-14T04:30:56.291466+00:00",
+  "started_at": "2026-11-14T02:54:33.303000+00:00",
+  "status": "resolved",
+  "title": "Elevated purchasing errors on claude.ai",
+  "transition": "resolved",
+  "url": "https://stspg.io/qqf00d9r7pm4"
+ },
+ {
   "body": "We are monitoring recovery from errors affecting ChatGPT billing, including checkout, and Ads invoice retrieval.",
   "components": [],
   "duration": "",
@@ -7798,29 +7818,6 @@
   "status": "resolved",
   "title": "Elevated errors for Claude Fable 5.1",
   "transition": "resolved",
-  "url": "https://stspg.io/y0gkl12ztjst"
- },
- {
-  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "👀 Claude has applied a fix and is holding its breath",
-  "id": "anthropic:vx06kp8wfpq2:progress:monitoring:major:2026-10-25T08:30:47.090000+00:00",
-  "impact": "major",
-  "incident_id": "vx06kp8wfpq2",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-25T08:45:20.323824+00:00",
-  "started_at": "2026-10-25T08:17:08.277000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors for Claude Fable 5.1",
-  "transition": "progress",
   "url": "https://stspg.io/y0gkl12ztjst"
  }
 ]

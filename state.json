@@ -443,8 +443,8 @@
   "anthropic:qrpz8k79qm7x": {
    "impact": "major",
    "last_seen_at": "2026-11-14T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-14T03:09:15.572000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-14T04:23:05.216000+00:00"
   },
   "anthropic:qt14v73myyy5": {
    "impact": "critical",
@@ -5353,6 +5353,12 @@
    "last_seen_at": "2026-11-14T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-10-28T03:42:42.664000+00:00"
+  },
+  "moonshot:77jvf97hy1jx": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-14T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-14T04:30:18.364000+00:00"
   },
   "moonshot:77krbnnlj7sp": {
    "impact": "critical",

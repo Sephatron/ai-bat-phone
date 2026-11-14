@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude is upright again. That took 1h 28m.]]></title>
+<link>https://stspg.io/qqf00d9r7pm4</link>
+<guid isPermaLink='false'>anthropic:qrpz8k79qm7x:resolved:resolved:major:2026-11-14T04:23:05.216000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 04:30:56 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated purchasing errors on claude.ai</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai · Duration: 1h 28m · Opened: Sat, 14 Nov 2026 02:54:33 +0000</p><p>The issue affecting purchases and plan changes on claude.ai has been resolved, and delayed plan changes and payments have now been applied. Impact occurred from 18:34 PT on November 13 / 02:34 UTC on November 14 to 20:03 PT on November 13 / 04:03 UTC on November 14.</p><p><a href="https://stspg.io/qqf00d9r7pm4">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/5lfkxvfvbsbt</link>
 <guid isPermaLink='false'>moonshot:3svbm7fd9jdf:resolved:resolved:critical:2026-11-14T03:12:18.346000+00:00</guid>
@@ -1016,14 +1024,6 @@
 <pubDate>Sun, 25 Oct 2026 09:00:15 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 32 min · Opened: Sun, 25 Oct 2026 08:17:08 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 01:08 PT / 08:08 UTC to 01:29 PT / 08:29 UTC.</p><p><a href="https://stspg.io/y0gkl12ztjst">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/y0gkl12ztjst</link>
-<guid isPermaLink='false'>anthropic:vx06kp8wfpq2:progress:monitoring:major:2026-10-25T08:30:47.090000+00:00</guid>
-<pubDate>Sun, 25 Oct 2026 08:45:20 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Fable 5.1</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 25 Oct 2026 08:17:08 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/y0gkl12ztjst">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
