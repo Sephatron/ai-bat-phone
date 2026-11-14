@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are monitoring recovery from errors affecting ChatGPT billing, including checkout, and Ads invoice retrieval.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M7C40W0N5MZHNW0YM09QV962:opened:monitoring:none:2026-11-14T04:11:04+00:00",
+  "impact": "none",
+  "incident_id": "01M7C40W0N5MZHNW0YM09QV962",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-14T04:15:57.349623+00:00",
+  "started_at": "2026-11-14T04:11:04+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors with ChatGPT billing and Ads billing",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Sign In / Sign Up"
@@ -7803,29 +7821,6 @@
   "status": "monitoring",
   "title": "Elevated errors for Claude Fable 5.1",
   "transition": "progress",
-  "url": "https://stspg.io/y0gkl12ztjst"
- },
- {
-  "body": "We have identified the cause of elevated errors on requests to Claude Fable 5.1 and are working on a fix. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔍 Claude has identified the problem. Fix pending.",
-  "id": "anthropic:vx06kp8wfpq2:opened:identified:major:2026-10-25T08:17:18.956000+00:00",
-  "impact": "major",
-  "incident_id": "vx06kp8wfpq2",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-25T08:30:21.252347+00:00",
-  "started_at": "2026-10-25T08:17:08.277000+00:00",
-  "status": "identified",
-  "title": "Elevated errors for Claude Fable 5.1",
-  "transition": "opened",
   "url": "https://stspg.io/y0gkl12ztjst"
  }
 ]
