@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "14 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 14 min",
+  "id": "fireworks:01M7D197EJ3DD07TJK7W0XJ9T4:resolved:resolved:minor:2026-11-14T12:56:52+00:00",
+  "impact": "minor",
+  "incident_id": "01M7D197EJ3DD07TJK7W0XJ9T4",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-14T13:00:54.934768+00:00",
+  "started_at": "2026-11-14T12:42:26+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M7D197EJ3DD07TJK7W0XJ9T4"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7789,29 +7807,6 @@
   "status": "resolved",
   "title": "Elevated errors for Claude Sonnet 5.5",
   "transition": "resolved",
-  "url": "https://stspg.io/3sw5fzxzhp8l"
- },
- {
-  "body": "We are seeing improvement for Claude Sonnet 5.5 requests. We are continuing to monitor the situation. Some users may still see occasional errors when using this model.",
-  "components": [
-   "Automations",
-   "CLI",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "",
-  "headline": "👀 Cursor has applied a fix and is holding its breath",
-  "id": "cursor:tf5vxc32161d:progress:monitoring:minor:2026-10-26T14:36:54.428000+00:00",
-  "impact": "minor",
-  "incident_id": "tf5vxc32161d",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-26T14:45:19.407296+00:00",
-  "started_at": "2026-10-26T14:02:00+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors for Claude Sonnet 5.5",
-  "transition": "progress",
   "url": "https://stspg.io/3sw5fzxzhp8l"
  }
 ]

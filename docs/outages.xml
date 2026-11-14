@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 14 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 14 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M7D197EJ3DD07TJK7W0XJ9T4</link>
+<guid isPermaLink='false'>fireworks:01M7D197EJ3DD07TJK7W0XJ9T4:resolved:resolved:minor:2026-11-14T12:56:52+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 13:00:54 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Sat, 14 Nov 2026 12:42:26 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7D197EJ3DD07TJK7W0XJ9T4">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
 <link>https://status.fireworks.ai/incidents/01M7D197EJ3DD07TJK7W0XJ9T4</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 09:00:21 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: identified · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>We have identified the cause of the sign-in errors and are working on a fix.</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/hj74883wgn0t</link>
-<guid isPermaLink='false'>github:tc28c0wzrnpz:opened:investigating:minor:2026-11-04T08:45:00.349000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 08:45:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Increased task-related errors for Copilot Mission Control</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 04 Nov 2026 08:45:00 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/hj74883wgn0t">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
