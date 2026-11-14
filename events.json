@@ -1,5 +1,45 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Sign In / Sign Up"
+  ],
+  "duration": "45 min",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:3svbm7fd9jdf:resolved:resolved:critical:2026-11-14T03:12:18.346000+00:00",
+  "impact": "critical",
+  "incident_id": "3svbm7fd9jdf",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-14T03:15:56.840035+00:00",
+  "started_at": "2026-11-14T02:27:18.207000+00:00",
+  "status": "resolved",
+  "title": "短信登录异常",
+  "transition": "resolved",
+  "url": "https://stspg.io/5lfkxvfvbsbt"
+ },
+ {
+  "body": "Purchases on claude.ai are working normally, and delayed plan changes and payments are now being applied. Some customers who recently paid may need to wait up to an hour for their plan to update. There is no need to pay again. We are monitoring for recovery.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:qrpz8k79qm7x:progress:monitoring:major:2026-11-14T03:09:15.572000+00:00",
+  "impact": "major",
+  "incident_id": "qrpz8k79qm7x",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-14T03:15:56.840035+00:00",
+  "started_at": "2026-11-14T02:54:33.303000+00:00",
+  "status": "monitoring",
+  "title": "Elevated purchasing errors on claude.ai",
+  "transition": "progress",
+  "url": "https://stspg.io/qqf00d9r7pm4"
+ },
+ {
   "body": "We are investigating elevated errors affecting purchases, plan upgrades and cancellations on claude.ai. Core functionality is not affected. We will provide an update as soon as possible.",
   "components": [
    "claude.ai"
@@ -7787,51 +7827,5 @@
   "title": "Elevated errors for Claude Fable 5.1",
   "transition": "opened",
   "url": "https://stspg.io/y0gkl12ztjst"
- },
- {
-  "body": "The issue affecting Claude services has been resolved. Impact occurred from 23:05 PT on October 24 / 06:05 UTC on October 25 to 23:35 PT on October 24 / 06:35 UTC on October 25.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "1h 39m",
-  "headline": "🟢 All clear from Claude after 1h 39m",
-  "id": "anthropic:334jvgbrc4ff:resolved:resolved:major:2026-10-25T07:53:39.036000+00:00",
-  "impact": "major",
-  "incident_id": "334jvgbrc4ff",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-25T08:00:22.735526+00:00",
-  "started_at": "2026-10-25T06:14:18.088000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for Claude Sonnet 5.5 and other models",
-  "transition": "resolved",
-  "url": "https://stspg.io/s3wd6gmdsdhn"
- },
- {
-  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "👀 Claude has applied a fix and is holding its breath",
-  "id": "anthropic:334jvgbrc4ff:progress:monitoring:major:2026-10-25T06:35:59.318000+00:00",
-  "impact": "major",
-  "incident_id": "334jvgbrc4ff",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-25T06:45:16.637833+00:00",
-  "started_at": "2026-10-25T06:14:18.088000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors for Claude Sonnet 5.5 and other models",
-  "transition": "progress",
-  "url": "https://stspg.io/s3wd6gmdsdhn"
  }
 ]

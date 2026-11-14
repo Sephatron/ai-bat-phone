@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/5lfkxvfvbsbt</link>
+<guid isPermaLink='false'>moonshot:3svbm7fd9jdf:resolved:resolved:critical:2026-11-14T03:12:18.346000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 03:15:56 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>短信登录异常</strong></p><p>Impact: critical · Status: resolved · Affects: Sign In / Sign Up · Duration: 45 min · Opened: Sat, 14 Nov 2026 02:27:18 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/5lfkxvfvbsbt">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/qqf00d9r7pm4</link>
+<guid isPermaLink='false'>anthropic:qrpz8k79qm7x:progress:monitoring:major:2026-11-14T03:09:15.572000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 03:15:56 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated purchasing errors on claude.ai</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai · Opened: Sat, 14 Nov 2026 02:54:33 +0000</p><p>Purchases on claude.ai are working normally, and delayed plan changes and payments are now being applied. Some customers who recently paid may need to wait up to an hour for their plan to update. There is no need to pay again. We are monitoring for recovery.</p><p><a href="https://stspg.io/qqf00d9r7pm4">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Claude is broken]]></title>
 <link>https://stspg.io/qqf00d9r7pm4</link>
 <guid isPermaLink='false'>anthropic:qrpz8k79qm7x:opened:investigating:major:2026-11-14T02:54:33.499000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 21:00:22 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Git Operations</strong></p><p>Impact: minor · Status: investigating · Affects: Git Operations · Opened: Tue, 03 Nov 2026 20:57:14 +0000</p><p>We are investigating reports of degraded performance for Git Operations</p><p><a href="https://stspg.io/n478rfsspcmr">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cerebras Inference is fine again]]></title>
-<link>https://stspg.io/8z7pvns2hgqr</link>
-<guid isPermaLink='false'>cerebras:c7y1qsw64zmw:resolved:resolved:none:2026-11-03T19:41:04.719000+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 20:00:31 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: resolved · Affects: GPT-OSS-120B, Qwen-3.8-27b · Duration: 2h 33m · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Cerebras Inference thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/8z7pvns2hgqr</link>
-<guid isPermaLink='false'>cerebras:c7y1qsw64zmw:opened:monitoring:none:2026-11-03T17:07:43.778000+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
-<category>Cerebras Inference</category>
-<description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>Some models may be temporarily unavailable since 16:52, Nov 3rd UTC. We have identified the root cause, implemented the fix and are monitoring the situation.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
