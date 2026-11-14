@@ -2471,7 +2471,7 @@
   "deepseek:urn:flashduty:change:7252143961119": {
    "impact": "minor",
    "last_seen_at": "2026-11-14T00:00:00+00:00",
-   "status": "investigating",
+   "status": "resolved",
    "updated_at": "2026-11-14T16:53:58+00:00"
   },
   "elevenlabs:01KRNEHFTPMY0HWNAYGWZAM5X3": {
