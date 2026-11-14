@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
+<link>https://stspg.io/4858wf40dx89</link>
+<guid isPermaLink='false'>anthropic:ct4c2pwf2xpj:opened:investigating:major:2026-11-14T07:11:36.220000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 07:15:56 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Some users unable to sign up with Apple on the Claude iOS app</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Sat, 14 Nov 2026 07:11:36 +0000</p><p>We are investigating an issue with Sign in with Apple on the Claude iOS app, which is mainly affecting new accounts. New users can sign up with Google or email instead. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/4858wf40dx89">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten is fine again]]></title>
 <link>https://stspg.io/704gwk5n8w86</link>
 <guid isPermaLink='false'>baseten:yg5tzf98mpyf:resolved:resolved:minor:2026-11-14T06:58:20.617000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 08:30:20 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: investigating · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>We are currently investigating an issue affecting password-based sign-ins. Other sign-in methods are working as expected.</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT</link>
-<guid isPermaLink='false'>fireworks:01M6G9F3VBRSPKTQVYT74MXAJT:resolved:resolved:minor:2026-11-04T04:52:56+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 05:00:33 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 20h 05m · Opened: Tue, 03 Nov 2026 08:47:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

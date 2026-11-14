@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude is out. Go and look at a tree.]]></title>
+<link>https://stspg.io/4858wf40dx89</link>
+<guid isPermaLink='false'>anthropic:ct4c2pwf2xpj:opened:investigating:major:2026-11-14T07:11:36.220000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 07:15:56 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Some users unable to sign up with Apple on the Claude iOS app</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Sat, 14 Nov 2026 07:11:36 +0000</p><p>We are investigating an issue with Sign in with Apple on the Claude iOS app, which is mainly affecting new accounts. New users can sign up with Google or email instead. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/4858wf40dx89">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten is fine again]]></title>
 <link>https://stspg.io/704gwk5n8w86</link>
 <guid isPermaLink='false'>baseten:yg5tzf98mpyf:resolved:resolved:minor:2026-11-14T06:58:20.617000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 10:00:20 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Pull Requests, Git Operations and Issues</strong></p><p>Impact: major · Status: investigating · Affects: Git Operations, Issues, Pull Requests, Actions · Opened: Wed, 04 Nov 2026 09:49:55 +0000</p><p>Pull Requests is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/18blsgwnbyy6">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 ElevenLabs knows what it did]]></title>
-<link>https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ</link>
-<guid isPermaLink='false'>elevenlabs:01M6JTCM4Z5S4DN3XB35SFZXHJ:progress:identified:none:2026-11-04T08:56:30+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 09:00:21 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Intermittent Sign in issue</strong></p><p>Impact: unclassified · Status: identified · Opened: Wed, 04 Nov 2026 08:21:42 +0000</p><p>We have identified the cause of the sign-in errors and are working on a fix.</p><p><a href="https://status.elevenlabs.io/incidents/01M6JTCM4Z5S4DN3XB35SFZXHJ">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
