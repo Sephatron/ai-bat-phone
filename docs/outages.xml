@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 14 Nov 2026 02:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 03:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Tools down: Claude is broken]]></title>
+<link>https://stspg.io/qqf00d9r7pm4</link>
+<guid isPermaLink='false'>anthropic:qrpz8k79qm7x:opened:investigating:major:2026-11-14T02:54:33.499000+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 03:01:00 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated purchasing errors on claude.ai</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Sat, 14 Nov 2026 02:54:33 +0000</p><p>We are investigating elevated errors affecting purchases, plan upgrades and cancellations on claude.ai. Core functionality is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/qqf00d9r7pm4">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
 <link>https://stspg.io/5lfkxvfvbsbt</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
 <category>Cerebras Inference</category>
 <description><![CDATA[<p><strong>Partial Service Disruption</strong></p><p>Impact: unclassified · Status: monitoring · Affects: GPT-OSS-120B, Qwen-3.8-27b · Opened: Tue, 03 Nov 2026 17:07:43 +0000</p><p>Some models may be temporarily unavailable since 16:52, Nov 3rd UTC. We have identified the root cause, implemented the fix and are monitoring the situation.</p><p><a href="https://stspg.io/8z7pvns2hgqr">Cerebras Inference status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT</link>
-<guid isPermaLink='false'>fireworks:01M6H2BKXK2NQCQCH76KE45MMT:resolved:resolved:minor:2026-11-03T17:12:18+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 17:15:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 09m · Opened: Tue, 03 Nov 2026 16:02:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

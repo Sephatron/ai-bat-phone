@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating elevated errors affecting purchases, plan upgrades and cancellations on claude.ai. Core functionality is not affected. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "",
+  "headline": "🔴 Tools down: Claude is broken",
+  "id": "anthropic:qrpz8k79qm7x:opened:investigating:major:2026-11-14T02:54:33.499000+00:00",
+  "impact": "major",
+  "incident_id": "qrpz8k79qm7x",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-14T03:01:00.272635+00:00",
+  "started_at": "2026-11-14T02:54:33.303000+00:00",
+  "status": "investigating",
+  "title": "Elevated purchasing errors on claude.ai",
+  "transition": "opened",
+  "url": "https://stspg.io/qqf00d9r7pm4"
+ },
+ {
   "body": "短信登录活跃度过低",
   "components": [
    "Sign In / Sign Up"
@@ -7811,29 +7831,6 @@
   "started_at": "2026-10-25T06:14:18.088000+00:00",
   "status": "monitoring",
   "title": "Elevated errors for Claude Sonnet 5.5 and other models",
-  "transition": "progress",
-  "url": "https://stspg.io/s3wd6gmdsdhn"
- },
- {
-  "body": "We have identified the cause of elevated errors on requests to Claude Sonnet 5.5 and are working on a fix. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔍 Claude has identified the problem. Fix pending.",
-  "id": "anthropic:334jvgbrc4ff:progress:identified:major:2026-10-25T06:27:52.090000+00:00",
-  "impact": "major",
-  "incident_id": "334jvgbrc4ff",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-25T06:30:20.289897+00:00",
-  "started_at": "2026-10-25T06:14:18.088000+00:00",
-  "status": "identified",
-  "title": "Elevated errors for Claude Sonnet 5.5",
   "transition": "progress",
   "url": "https://stspg.io/s3wd6gmdsdhn"
  }
