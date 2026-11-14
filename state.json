@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-14T15:00:00+00:00",
+ "heartbeat": "2026-11-14T16:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -5519,8 +5519,8 @@
   "moonshot:d0kxxdm3ktq2": {
    "impact": "critical",
    "last_seen_at": "2026-11-14T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-14T15:43:44.914000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-14T15:48:45.960000+00:00"
   },
   "moonshot:d5fzlw665wt3": {
    "impact": "critical",

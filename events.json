@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K2.7 Code Highspeed"
+  ],
+  "duration": "5 min",
+  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
+  "id": "moonshot:d0kxxdm3ktq2:resolved:resolved:critical:2026-11-14T15:48:45.960000+00:00",
+  "impact": "critical",
+  "incident_id": "d0kxxdm3ktq2",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-14T16:00:59.034398+00:00",
+  "started_at": "2026-11-14T15:43:44.820000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K2.7 Code Highspeed TTFT 响应延迟严重升高",
+  "transition": "resolved",
+  "url": "https://stspg.io/088mb9dqz4g7"
+ },
+ {
   "body": "K2.7 Code Highspeed 部分请求的 TTFT 延迟可能升高",
   "components": [
    "K2.7 Code Highspeed"
@@ -7787,23 +7807,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5WR71465BVJ7XASAA2T2CRK"
- },
- {
-  "body": "We have applied the mitigation and are monitoring the recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M5WPZTT0385GMEV1353ZC4AM:opened:monitoring:minor:2026-10-26T18:25:32+00:00",
-  "impact": "minor",
-  "incident_id": "01M5WPZTT0385GMEV1353ZC4AM",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-26T18:30:23.032808+00:00",
-  "started_at": "2026-10-26T18:19:00+00:00",
-  "status": "monitoring",
-  "title": "Ads POST /ads/* endpoints elevated error rates",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M5WPZTT0385GMEV1353ZC4AM"
  }
 ]
