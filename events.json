@@ -1,5 +1,23 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "1h 16m",
+  "headline": "🟢 OpenAI has stopped wobbling",
+  "id": "openai:01M7C40W0N5MZHNW0YM09QV962:resolved:resolved:none:2026-11-14T05:27:53+00:00",
+  "impact": "none",
+  "incident_id": "01M7C40W0N5MZHNW0YM09QV962",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-14T05:31:03.148965+00:00",
+  "started_at": "2026-11-14T04:11:04+00:00",
+  "status": "resolved",
+  "title": "Elevated errors with ChatGPT billing and Ads billing",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962"
+ },
+ {
   "body": "The issue affecting purchases and plan changes on claude.ai has been resolved, and delayed plan changes and payments have now been applied. Impact occurred from 18:34 PT on November 13 / 02:34 UTC on November 14 to 20:03 PT on November 13 / 04:03 UTC on November 14.",
   "components": [
    "claude.ai"
@@ -7796,28 +7814,5 @@
   "title": "Service Degradation for GLM 5.3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5TPBBGFN3S829YAFE40YB33"
- },
- {
-  "body": "The issue affecting Claude services has been resolved. Impact occurred from 01:08 PT / 08:08 UTC to 01:29 PT / 08:29 UTC.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "32 min",
-  "headline": "🟢 Claude is upright again. That took 32 min.",
-  "id": "anthropic:vx06kp8wfpq2:resolved:resolved:major:2026-10-25T08:49:29.528000+00:00",
-  "impact": "major",
-  "incident_id": "vx06kp8wfpq2",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-25T09:00:15.868937+00:00",
-  "started_at": "2026-10-25T08:17:08.277000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors for Claude Fable 5.1",
-  "transition": "resolved",
-  "url": "https://stspg.io/y0gkl12ztjst"
  }
 ]

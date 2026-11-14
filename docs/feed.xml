@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962</link>
+<guid isPermaLink='false'>openai:01M7C40W0N5MZHNW0YM09QV962:resolved:resolved:none:2026-11-14T05:27:53+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 05:31:03 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with ChatGPT billing and Ads billing</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 16m · Opened: Sat, 14 Nov 2026 04:11:04 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is upright again. That took 1h 28m.]]></title>
 <link>https://stspg.io/qqf00d9r7pm4</link>
 <guid isPermaLink='false'>anthropic:qrpz8k79qm7x:resolved:resolved:major:2026-11-14T04:23:05.216000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 05:00:33 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 20h 05m · Opened: Tue, 03 Nov 2026 08:47:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/9mm2lj4p12lj</link>
-<guid isPermaLink='false'>moonshot:sdvr0k3d0j2n:resolved:resolved:critical:2026-11-04T04:02:41.236000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 04:15:21 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 9 min · Opened: Wed, 04 Nov 2026 03:52:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/9mm2lj4p12lj">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

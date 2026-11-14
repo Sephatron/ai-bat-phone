@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962</link>
+<guid isPermaLink='false'>openai:01M7C40W0N5MZHNW0YM09QV962:resolved:resolved:none:2026-11-14T05:27:53+00:00</guid>
+<pubDate>Sat, 14 Nov 2026 05:31:03 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with ChatGPT billing and Ads billing</strong></p><p>Impact: unclassified · Status: resolved · Duration: 1h 16m · Opened: Sat, 14 Nov 2026 04:11:04 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is upright again. That took 1h 28m.]]></title>
 <link>https://stspg.io/qqf00d9r7pm4</link>
 <guid isPermaLink='false'>anthropic:qrpz8k79qm7x:resolved:resolved:major:2026-11-14T04:23:05.216000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 03 Nov 2026 23:00:19 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>3 "Slow clones from GH due to Github degradation"</strong></p><p>Impact: unclassified · Status: resolved · Affects: Bugbot, Cloud Agents · Duration: 1h 12m · Opened: Tue, 03 Nov 2026 21:40:43 +0000</p><p>GitHub has mitigated the Git operations incident, and Cloud Agent startup and Bugbot run times have returned to normal.</p><p><a href="https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 1h 43m]]></title>
-<link>https://stspg.io/n478rfsspcmr</link>
-<guid isPermaLink='false'>github:13b6lyl8d7bz:resolved:resolved:minor:2026-11-03T22:41:03.326000+00:00</guid>
-<pubDate>Tue, 03 Nov 2026 22:45:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Git Operations</strong></p><p>Impact: minor · Status: resolved · Affects: Git Operations · Duration: 1h 43m · Opened: Tue, 03 Nov 2026 20:57:14 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/n478rfsspcmr">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
