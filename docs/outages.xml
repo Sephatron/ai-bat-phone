@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
+<link>https://status.fireworks.ai/incidents/01M7EGNB5FJ3AQNVB9A2W4N2DQ</link>
+<guid isPermaLink='false'>fireworks:01M7EGNB5FJ3AQNVB9A2W4N2DQ:opened:investigating:minor:2026-11-15T02:30:26+00:00</guid>
+<pubDate>Sun, 15 Nov 2026 02:32:45 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 15 Nov 2026 02:30:26 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M7EGNB5FJ3AQNVB9A2W4N2DQ">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 DeepSeek sorted itself out after a while]]></title>
 <link>https://status.deepseek.com/incidents/7252143961119</link>
 <guid isPermaLink='false'>deepseek:urn:flashduty:change:7252143961119:resolved:resolved:minor:2026-11-14T17:30:18.448979+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 16:11:21 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions and Pages</strong></p><p>Impact: minor · Status: investigating · Affects: Actions, Pages · Opened: Wed, 04 Nov 2026 16:05:31 +0000</p><p>We are investigating reports of degraded performance for Actions and Pages</p><p><a href="https://stspg.io/pjgptg3cfc6n">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/18blsgwnbyy6</link>
-<guid isPermaLink='false'>github:smtdswd1h2w4:resolved:resolved:major:2026-11-04T11:50:06.459000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 12:00:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Pull Requests, Git Operations and Issues</strong></p><p>Impact: major · Status: resolved · Affects: Git Operations, API Requests, Issues, Pull Requests, Actions · Duration: 2h 00m · Opened: Wed, 04 Nov 2026 09:49:55 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/18blsgwnbyy6">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -3914,6 +3914,12 @@
    "status": "resolved",
    "updated_at": "2026-11-14T15:02:48+00:00"
   },
+  "fireworks:01M7EGNB5FJ3AQNVB9A2W4N2DQ": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-15T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-15T02:30:26+00:00"
+  },
   "github:0f6hndclsk21": {
    "impact": "minor",
    "last_seen_at": "2026-09-14T00:00:00+00:00",
