@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Sun, 15 Nov 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
+<link>https://status.fireworks.ai/incidents/01M7GCB4X2WB830VJJRXH427BH</link>
+<guid isPermaLink='false'>fireworks:01M7GCB4X2WB830VJJRXH427BH:opened:investigating:minor:2026-11-15T19:53:27+00:00</guid>
+<pubDate>Sun, 15 Nov 2026 20:00:19 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 15 Nov 2026 19:53:27 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M7GCB4X2WB830VJJRXH427BH">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI sorted itself out after 43 min]]></title>
 <link>https://status.fireworks.ai/incidents/01M7EGNB5FJ3AQNVB9A2W4N2DQ</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 17:00:22 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions and Pages</strong></p><p>Impact: major · Status: monitoring · Affects: Webhooks, Actions, Pages · Opened: Wed, 04 Nov 2026 16:05:31 +0000</p><p>The degradation has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/pjgptg3cfc6n">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 It got worse: GitHub is now a major outage]]></title>
-<link>https://stspg.io/pjgptg3cfc6n</link>
-<guid isPermaLink='false'>github:xr3myzj7ms51:escalated:investigating:major:2026-11-04T16:17:29.703000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 16:30:35 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions and Pages</strong></p><p>Impact: major · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Wed, 04 Nov 2026 16:05:31 +0000</p><p>Actions is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/pjgptg3cfc6n">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
