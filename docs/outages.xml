@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 43 min]]></title>
+<link>https://status.fireworks.ai/incidents/01M7EGNB5FJ3AQNVB9A2W4N2DQ</link>
+<guid isPermaLink='false'>fireworks:01M7EGNB5FJ3AQNVB9A2W4N2DQ:resolved:resolved:minor:2026-11-15T03:13:39+00:00</guid>
+<pubDate>Sun, 15 Nov 2026 03:15:18 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 43 min · Opened: Sun, 15 Nov 2026 02:30:26 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7EGNB5FJ3AQNVB9A2W4N2DQ">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M7EGNB5FJ3AQNVB9A2W4N2DQ</link>
 <guid isPermaLink='false'>fireworks:01M7EGNB5FJ3AQNVB9A2W4N2DQ:opened:investigating:minor:2026-11-15T02:30:26+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 16:30:35 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions and Pages</strong></p><p>Impact: major · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Wed, 04 Nov 2026 16:05:31 +0000</p><p>Actions is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/pjgptg3cfc6n">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/pjgptg3cfc6n</link>
-<guid isPermaLink='false'>github:xr3myzj7ms51:opened:investigating:minor:2026-11-04T16:05:31.698000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 16:11:21 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions and Pages</strong></p><p>Impact: minor · Status: investigating · Affects: Actions, Pages · Opened: Wed, 04 Nov 2026 16:05:31 +0000</p><p>We are investigating reports of degraded performance for Actions and Pages</p><p><a href="https://stspg.io/pjgptg3cfc6n">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
