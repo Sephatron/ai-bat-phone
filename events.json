@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "17 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M7GCB4X2WB830VJJRXH427BH:resolved:resolved:minor:2026-11-15T20:10:45+00:00",
+  "impact": "minor",
+  "incident_id": "01M7GCB4X2WB830VJJRXH427BH",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-15T20:15:18.168906+00:00",
+  "started_at": "2026-11-15T19:53:27+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M7GCB4X2WB830VJJRXH427BH"
+ },
+ {
   "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7785,28 +7803,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M5WW1Q8NZ7FN5JVEYJ9G7NP2"
- },
- {
-  "body": "We're investigating an issue affecting codebase indexing and saved rules and memories. Codebase indexes may not update, and agents may respond without your saved rules or memories. Chat, agents, and Tab are otherwise available. We're working with our infrastructure provider and will share updates as we learn more.",
-  "components": [
-   "Automations",
-   "Cloud Agents",
-   "CLI",
-   "IDE"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is a bit under the weather",
-  "id": "cursor:ps_67a789782eda77b3:opened:investigating:minor:2026-10-26T22:02:31+00:00",
-  "impact": "minor",
-  "incident_id": "ps_67a789782eda77b3",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-26T22:15:22.248378+00:00",
-  "started_at": "2026-10-26T22:02:31+00:00",
-  "status": "investigating",
-  "title": "Degraded codebase indexing and agent personalization",
-  "transition": "opened",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3"
  }
 ]
