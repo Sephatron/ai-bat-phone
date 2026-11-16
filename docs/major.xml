@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude is having a proper one. This is not your code.]]></title>
+<link>https://stspg.io/01qq3kzyyqzl</link>
+<guid isPermaLink='false'>anthropic:b5cq662qf2wm:opened:investigating:major:2026-11-16T15:12:56.270000+00:00</guid>
+<pubDate>Mon, 16 Nov 2026 15:15:24 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Claude unable to join meetings</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Mon, 16 Nov 2026 15:10:15 +0000</p><p>We are investigating reports of degraded performance affecting claude.ai. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/01qq3kzyyqzl">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Claude after 1h 14m]]></title>
 <link>https://stspg.io/n18qjkd7dt4q</link>
 <guid isPermaLink='false'>anthropic:r1b4f9bbnsx1:resolved:resolved:major:2026-11-16T09:04:39.805000+00:00</guid>

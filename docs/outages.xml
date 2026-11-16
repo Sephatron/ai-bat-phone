@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Claude is having a proper one. This is not your code.]]></title>
+<link>https://stspg.io/01qq3kzyyqzl</link>
+<guid isPermaLink='false'>anthropic:b5cq662qf2wm:opened:investigating:major:2026-11-16T15:12:56.270000+00:00</guid>
+<pubDate>Mon, 16 Nov 2026 15:15:24 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Claude unable to join meetings</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Mon, 16 Nov 2026 15:10:15 +0000</p><p>We are investigating reports of degraded performance affecting claude.ai. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/01qq3kzyyqzl">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
 <link>https://stspg.io/ljtn69jlt087</link>
 <guid isPermaLink='false'>github:2zfqmghmg3s3:opened:investigating:minor:2026-11-16T11:59:41.044000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 21:15:21 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Project previews failing to load or loading slowly for some users</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 34m · Opened: Wed, 04 Nov 2026 19:28:12 +0000</p><p>The issue that caused project previews to fail or load slowly for some users has been resolved. Previews are loading normally again. All systems are operating normally.</p><p><a href="https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Lovable thinks it's fixed and is watching nervously]]></title>
-<link>https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1</link>
-<guid isPermaLink='false'>lovable:01M6M0H10A8JQESE2WM178GTP1:progress:monitoring:minor:2026-11-04T20:28:10+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 20:30:20 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Project previews failing to load or loading slowly for some users</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 04 Nov 2026 19:28:12 +0000</p><p>Project previews are loading normally again. The issue caused previews to fail or load slowly for some users, mainly in the New York and New Jersey area. We are monitoring to make sure everything stays stable.</p><p><a href="https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
