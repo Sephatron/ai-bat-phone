@@ -1,5 +1,26 @@
 [
  {
+  "body": "The degradation affecting Actions and Pull Requests has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub is on the mend. Don't get comfortable yet.",
+  "id": "github:2zfqmghmg3s3:progress:monitoring:minor:2026-11-16T16:07:32.399000+00:00",
+  "impact": "minor",
+  "incident_id": "2zfqmghmg3s3",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-16T16:15:20.576774+00:00",
+  "started_at": "2026-11-16T11:59:40.892000+00:00",
+  "status": "monitoring",
+  "title": "Incident with Pull Requests",
+  "transition": "progress",
+  "url": "https://stspg.io/ljtn69jlt087"
+ },
+ {
   "body": "This incident has been resolved",
   "components": [],
   "duration": "17 min",
@@ -7789,29 +7810,5 @@
   "title": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
- },
- {
-  "body": "We are investigating elevated errors affecting some repository integrations. Features that rely on repository access, including review agents and cloud agents, may fail or be delayed. We are working to restore normal service.",
-  "components": [
-   "Automations",
-   "BugBot",
-   "Cloud Agents",
-   "Origin",
-   "Review Agents"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor has a limp, not a break",
-  "id": "cursor:ps_7e6bd6bbd3e53c30:opened:investigating:none:2026-10-27T07:33:08+00:00",
-  "impact": "none",
-  "incident_id": "ps_7e6bd6bbd3e53c30",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-27T07:45:20.338250+00:00",
-  "started_at": "2026-10-27T07:33:08+00:00",
-  "status": "investigating",
-  "title": "Elevated errors affecting repository integrations",
-  "transition": "opened",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30"
  }
 ]
