@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 16 Nov 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/n18qjkd7dt4q</link>
+<guid isPermaLink='false'>anthropic:r1b4f9bbnsx1:opened:investigating:major:2026-11-16T07:49:55.388000+00:00</guid>
+<pubDate>Mon, 16 Nov 2026 08:00:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Mon, 16 Nov 2026 07:49:55 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/n18qjkd7dt4q">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 18:15:21 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: major · Status: monitoring · Affects: Actions · Opened: Wed, 04 Nov 2026 17:40:33 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/7pwv28hvkmz8">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: GitHub is broken]]></title>
-<link>https://stspg.io/7pwv28hvkmz8</link>
-<guid isPermaLink='false'>github:h02n9572mx9y:opened:investigating:major:2026-11-04T17:40:33.890000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 17:45:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: major · Status: investigating · Affects: Actions · Opened: Wed, 04 Nov 2026 17:40:33 +0000</p><p>We are investigating reports of degraded availability for Actions</p><p><a href="https://stspg.io/7pwv28hvkmz8">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 16 Nov 2026 07:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 08:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Claude has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/n18qjkd7dt4q</link>
+<guid isPermaLink='false'>anthropic:r1b4f9bbnsx1:opened:investigating:major:2026-11-16T07:49:55.388000+00:00</guid>
+<pubDate>Mon, 16 Nov 2026 08:00:20 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Mon, 16 Nov 2026 07:49:55 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/n18qjkd7dt4q">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 20:30:20 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Project previews failing to load or loading slowly for some users</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 04 Nov 2026 19:28:12 +0000</p><p>Project previews are loading normally again. The issue caused previews to fail or load slowly for some users, mainly in the New York and New Jersey area. We are monitoring to make sure everything stays stable.</p><p><a href="https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Lovable is a bit under the weather]]></title>
-<link>https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1</link>
-<guid isPermaLink='false'>lovable:01M6M0H10A8JQESE2WM178GTP1:opened:investigating:minor:2026-11-04T19:28:12+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 19:30:22 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Project previews failing to load or loading slowly for some users</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 04 Nov 2026 19:28:12 +0000</p><p>Some users are experiencing issues with project previews, including previews failing to load, loading slowly, or appearing blank. Our team is investigating and working to restore normal preview loading as quickly as possible.</p><p><a href="https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
