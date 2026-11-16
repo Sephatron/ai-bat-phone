@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Lovable sorted itself out after 17 min]]></title>
+<link>https://status.lovable.dev/incidents/01M7JF819B7X0Q00TFAK4RJ0YC</link>
+<guid isPermaLink='false'>lovable:01M7JF819B7X0Q00TFAK4RJ0YC:resolved:resolved:minor:2026-11-16T15:40:04+00:00</guid>
+<pubDate>Mon, 16 Nov 2026 15:45:20 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Some users may see errors or delays when the Lovable agent works</strong></p><p>Impact: minor · Status: resolved · Duration: 17 min · Opened: Mon, 16 Nov 2026 15:22:39 +0000</p><p>This incident has been resolved</p><p><a href="https://status.lovable.dev/incidents/01M7JF819B7X0Q00TFAK4RJ0YC">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Lovable has a limp, not a break]]></title>
 <link>https://status.lovable.dev/incidents/01M7JF819B7X0Q00TFAK4RJ0YC</link>
 <guid isPermaLink='false'>lovable:01M7JF819B7X0Q00TFAK4RJ0YC:opened:investigating:minor:2026-11-16T15:22:39+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 23:00:20 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates across paid ChatGPT plans</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 04 Nov 2026 22:38:12 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6MBCX427A7113A3T4FJ1N6Y">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M6MBCX427A7113A3T4FJ1N6Y</link>
-<guid isPermaLink='false'>openai:01M6MBCX427A7113A3T4FJ1N6Y:opened:identified:minor:2026-11-04T22:38:12+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 22:45:20 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates across paid ChatGPT plans</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 04 Nov 2026 22:38:12 +0000</p><p>Some users on paid ChatGPT plans may see errors when sending messages. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6MBCX427A7113A3T4FJ1N6Y">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
