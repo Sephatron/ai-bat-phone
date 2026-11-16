@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 23:32 PT on November 15 / 07:32 UTC on November 16 to 00:45 PT / 08:45 UTC on November 16.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "1h 14m",
+  "headline": "🟢 All clear from Claude after 1h 14m",
+  "id": "anthropic:r1b4f9bbnsx1:resolved:resolved:major:2026-11-16T09:04:39.805000+00:00",
+  "impact": "major",
+  "incident_id": "r1b4f9bbnsx1",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-16T09:15:20.649615+00:00",
+  "started_at": "2026-11-16T07:49:55.052000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2",
+  "transition": "resolved",
+  "url": "https://stspg.io/n18qjkd7dt4q"
+ },
+ {
   "body": "A fix has been deployed for Claude Sonnet 5.5 and other Claude models and we are monitoring for recovery.",
   "components": [
    "claude.ai",
@@ -7795,23 +7818,5 @@
   "title": "Degraded agent personalization and codebase sync",
   "transition": "resolved",
   "url": "https://status.x.ai/history?incident=automations%2Fps_67a789782eda77b3"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is sulking, mildly",
-  "id": "fireworks:01M5XEBN3XAQDA3W9WD4GATWCC:opened:investigating:minor:2026-10-27T01:07:24+00:00",
-  "impact": "minor",
-  "incident_id": "01M5XEBN3XAQDA3W9WD4GATWCC",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-27T01:15:17.648238+00:00",
-  "started_at": "2026-10-27T01:07:24+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M5XEBN3XAQDA3W9WD4GATWCC"
  }
 ]
