@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
+<guid isPermaLink='false'>openai:01M7ATRS6BMZ61E4JDHJGM79Y0:resolved:resolved:minor:2026-11-16T00:17:25+00:00</guid>
+<pubDate>Mon, 16 Nov 2026 00:30:19 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Delayed Costs Data in the Compliance API</strong></p><p>Impact: minor · Status: resolved · Duration: 2d 8h · Opened: Fri, 13 Nov 2026 16:10:07 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
 <link>https://status.fireworks.ai/incidents/01M7GCB4X2WB830VJJRXH427BH</link>
 <guid isPermaLink='false'>fireworks:01M7GCB4X2WB830VJJRXH427BH:resolved:resolved:minor:2026-11-15T20:10:45+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 04 Nov 2026 19:30:22 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Project previews failing to load or loading slowly for some users</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 04 Nov 2026 19:28:12 +0000</p><p>Some users are experiencing issues with project previews, including previews failing to load, loading slowly, or appearing blank. Our team is investigating and working to restore normal preview loading as quickly as possible.</p><p><a href="https://status.lovable.dev/incidents/01M6M0H10A8JQESE2WM178GTP1">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/7pwv28hvkmz8</link>
-<guid isPermaLink='false'>github:h02n9572mx9y:resolved:resolved:major:2026-11-04T18:16:08.388000+00:00</guid>
-<pubDate>Wed, 04 Nov 2026 18:30:23 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: major · Status: resolved · Affects: Actions · Duration: 35 min · Opened: Wed, 04 Nov 2026 17:40:33 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/7pwv28hvkmz8">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
