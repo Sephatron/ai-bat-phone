@@ -1,5 +1,26 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Pull Requests",
+   "Actions"
+  ],
+  "duration": "4h 26m",
+  "headline": "🟢 GitHub is fine again",
+  "id": "github:2zfqmghmg3s3:resolved:resolved:minor:2026-11-16T16:26:26.809000+00:00",
+  "impact": "minor",
+  "incident_id": "2zfqmghmg3s3",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-16T16:45:20.774319+00:00",
+  "started_at": "2026-11-16T11:59:40.892000+00:00",
+  "status": "resolved",
+  "title": "Incident with Pull Requests",
+  "transition": "resolved",
+  "url": "https://stspg.io/ljtn69jlt087"
+ },
+ {
   "body": "The degradation affecting Actions and Pull Requests has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Pull Requests",
@@ -7792,23 +7813,5 @@
   "title": "Elevated errors affecting repository integrations",
   "transition": "resolved",
   "url": "https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30"
- },
- {
-  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from OpenAI",
-  "id": "openai:01M5Y60NQGGN514EB3943V94EN:opened:investigating:none:2026-10-27T08:00:50+00:00",
-  "impact": "none",
-  "incident_id": "01M5Y60NQGGN514EB3943V94EN",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-27T08:15:18.183396+00:00",
-  "started_at": "2026-10-27T08:00:50+00:00",
-  "status": "investigating",
-  "title": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
  }
 ]
