@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for Claude Sonnet 5.5 and other Claude models and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:r1b4f9bbnsx1:progress:monitoring:major:2026-11-16T08:02:25.388000+00:00",
+  "impact": "major",
+  "incident_id": "r1b4f9bbnsx1",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-16T08:15:19.826374+00:00",
+  "started_at": "2026-11-16T07:49:55.052000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2",
+  "transition": "progress",
+  "url": "https://stspg.io/n18qjkd7dt4q"
+ },
+ {
   "body": "We are currently investigating this issue.",
   "components": [
    "claude.ai",
@@ -7790,23 +7813,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M5XEBN3XAQDA3W9WD4GATWCC"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "23 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M5X78V6A284K8HS7EBR6SNN9:resolved:resolved:minor:2026-10-26T23:26:35+00:00",
-  "impact": "minor",
-  "incident_id": "01M5X78V6A284K8HS7EBR6SNN9",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-26T23:30:15.899167+00:00",
-  "started_at": "2026-10-26T23:03:32+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3 Flash",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M5X78V6A284K8HS7EBR6SNN9"
  }
 ]
