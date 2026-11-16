@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 16 Nov 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/4858wf40dx89</link>
+<guid isPermaLink='false'>anthropic:ct4c2pwf2xpj:resolved:resolved:major:2026-11-16T19:52:36.619000+00:00</guid>
+<pubDate>Mon, 16 Nov 2026 20:00:23 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Some users unable to sign up with Apple on the Claude iOS app</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai · Duration: 2d 12h · Opened: Sat, 14 Nov 2026 07:11:36 +0000</p><p>The issue affecting Sign in with Apple on the Claude iOS app has been resolved. Impact occurred from 16:29 PT on November 13 / 00:29 UTC on November 14 to 10:31 PT / 18:31 UTC on November 16.</p><p><a href="https://stspg.io/4858wf40dx89">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub is fine again]]></title>
 <link>https://stspg.io/ljtn69jlt087</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 01:30:18 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Thu, 05 Nov 2026 01:12:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6MM78SF1PY8AWBV2QAYR02W">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M6MM78SF1PY8AWBV2QAYR02W</link>
-<guid isPermaLink='false'>fireworks:01M6MM78SF1PY8AWBV2QAYR02W:opened:investigating:minor:2026-11-05T01:12:24+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 01:15:19 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 05 Nov 2026 01:12:24 +0000</p><p>We are seeing impacted performance for Muse Spark Open US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6MM78SF1PY8AWBV2QAYR02W">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

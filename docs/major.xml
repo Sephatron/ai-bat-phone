@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 16 Nov 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/4858wf40dx89</link>
+<guid isPermaLink='false'>anthropic:ct4c2pwf2xpj:resolved:resolved:major:2026-11-16T19:52:36.619000+00:00</guid>
+<pubDate>Mon, 16 Nov 2026 20:00:23 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Some users unable to sign up with Apple on the Claude iOS app</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai · Duration: 2d 12h · Opened: Sat, 14 Nov 2026 07:11:36 +0000</p><p>The issue affecting Sign in with Apple on the Claude iOS app has been resolved. Impact occurred from 16:29 PT on November 13 / 00:29 UTC on November 14 to 10:31 PT / 18:31 UTC on November 16.</p><p><a href="https://stspg.io/4858wf40dx89">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Claude is having a proper one. This is not your code.]]></title>
 <link>https://stspg.io/01qq3kzyyqzl</link>

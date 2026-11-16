@@ -1,5 +1,25 @@
 [
  {
+  "body": "The issue affecting Sign in with Apple on the Claude iOS app has been resolved. Impact occurred from 16:29 PT on November 13 / 00:29 UTC on November 14 to 10:31 PT / 18:31 UTC on November 16.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "2d 12h",
+  "headline": "🟢 Claude is back. Grass sufficiently touched.",
+  "id": "anthropic:ct4c2pwf2xpj:resolved:resolved:major:2026-11-16T19:52:36.619000+00:00",
+  "impact": "major",
+  "incident_id": "ct4c2pwf2xpj",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-16T20:00:23.485747+00:00",
+  "started_at": "2026-11-14T07:11:36.111000+00:00",
+  "status": "resolved",
+  "title": "Some users unable to sign up with Apple on the Claude iOS app",
+  "transition": "resolved",
+  "url": "https://stspg.io/4858wf40dx89"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Pull Requests",
@@ -7789,29 +7809,5 @@
   "title": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
- },
- {
-  "body": "This incident has been resolved. Affected services returned to normal operation at approximately 08:02 UTC.",
-  "components": [
-   "Automations",
-   "BugBot",
-   "Cloud Agents",
-   "Origin",
-   "Review Agents"
-  ],
-  "duration": "45 min",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:ps_7e6bd6bbd3e53c30:resolved:resolved:none:2026-10-27T08:18:40+00:00",
-  "impact": "none",
-  "incident_id": "ps_7e6bd6bbd3e53c30",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-27T08:19:47.879819+00:00",
-  "started_at": "2026-10-27T07:33:08+00:00",
-  "status": "resolved",
-  "title": "Elevated errors affecting repository integrations",
-  "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_7e6bd6bbd3e53c30"
  }
 ]
