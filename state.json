@@ -1058,6 +1058,12 @@
    "status": "resolved",
    "updated_at": "2026-05-26T18:55:13.796000+00:00"
   },
+  "cerebras:09117tynqxw2": {
+   "impact": "none",
+   "last_seen_at": "2026-11-17T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-17T08:00:20.811000+00:00"
+  },
   "cerebras:0b1z10b9b7wn": {
    "impact": "minor",
    "last_seen_at": "2026-11-17T00:00:00+00:00",
