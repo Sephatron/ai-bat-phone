@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Lovable is fine again]]></title>
+<link>https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX</link>
+<guid isPermaLink='false'>lovable:01M7NBKPZFNF56NDM7CD94G7TX:resolved:resolved:minor:2026-11-17T22:31:03+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 22:45:15 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Apple auth issues</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 14m · Opened: Tue, 17 Nov 2026 18:16:51 +0000</p><p>The issue with Apple auth should now be resolved. We will continue to monitor the situation. Thank you for your patience.</p><p><a href="https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/3tl6h35nnzwm</link>
 <guid isPermaLink='false'>anthropic:1lglzf469c0z:resolved:resolved:major:2026-11-17T21:51:09.296000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 17:15:47 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/lv4q3xm9r0rk</link>
-<guid isPermaLink='false'>github:t89g2q1800fr:progress:monitoring:minor:2026-11-05T17:04:46.838000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 17:15:47 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: monitoring · Affects: Actions · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

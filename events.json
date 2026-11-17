@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue with Apple auth should now be resolved. We will continue to monitor the situation. Thank you for your patience.",
+  "components": [],
+  "duration": "4h 14m",
+  "headline": "🟢 Lovable is fine again",
+  "id": "lovable:01M7NBKPZFNF56NDM7CD94G7TX:resolved:resolved:minor:2026-11-17T22:31:03+00:00",
+  "impact": "minor",
+  "incident_id": "01M7NBKPZFNF56NDM7CD94G7TX",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-17T22:45:15.759740+00:00",
+  "started_at": "2026-11-17T18:16:51+00:00",
+  "status": "resolved",
+  "title": "Apple auth issues",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX"
+ },
+ {
   "body": "The issue affecting Sign in with Apple on claude.ai and the Claude iOS app has been resolved. Impact occurred from 08:40 PT / 16:40 UTC to 12:20 PT / 20:20 UTC.",
   "components": [
    "claude.ai"
@@ -7778,25 +7796,5 @@
   "title": "Degraded Performace on ChatGPT Work",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M609FPNJF29J5GDH979ZDYYK"
- },
- {
-  "body": "K3 部分请求的 TTFT 延迟可能升高",
-  "components": [
-   "K3"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.",
-  "id": "moonshot:1g6myg5cjckm:opened:investigating:critical:2026-10-28T02:33:41.954000+00:00",
-  "impact": "critical",
-  "incident_id": "1g6myg5cjckm",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-28T02:45:16.241400+00:00",
-  "started_at": "2026-10-28T02:33:41.835000+00:00",
-  "status": "investigating",
-  "title": "Kimi Code K3 TTFT 响应延迟升高",
-  "transition": "opened",
-  "url": "https://stspg.io/w9sby180qxln"
  }
 ]

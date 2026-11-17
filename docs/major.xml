@@ -1073,13 +1073,5 @@
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 08m · Opened: Wed, 28 Oct 2026 02:33:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/w9sby180qxln">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/w9sby180qxln</link>
-<guid isPermaLink='false'>moonshot:1g6myg5cjckm:opened:investigating:critical:2026-10-28T02:33:41.954000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 02:45:16 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 02:33:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/w9sby180qxln">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
