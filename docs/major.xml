@@ -1073,13 +1073,5 @@
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Wed, 28 Oct 2026 02:33:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/w9sby180qxln">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 All clear from Claude after 41 min]]></title>
-<link>https://stspg.io/39x7qh3sd7bd</link>
-<guid isPermaLink='false'>anthropic:lqhknfdjrcst:resolved:resolved:major:2026-10-27T15:50:17.725000+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 16:00:20 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 41 min · Opened: Tue, 27 Oct 2026 15:09:08 +0000</p><p>The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 07:42 PT / 14:42 UTC to 08:17 PT / 15:17 UTC.</p><p><a href="https://stspg.io/39x7qh3sd7bd">Claude status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
