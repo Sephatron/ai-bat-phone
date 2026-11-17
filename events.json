@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've pushed a fix and are monitoring the recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M7N9VNR6X5SEC90M1YCDB36D:progress:monitoring:minor:2026-11-17T19:53:49+00:00",
+  "impact": "minor",
+  "incident_id": "01M7N9VNR6X5SEC90M1YCDB36D",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-17T20:00:14.895116+00:00",
+  "started_at": "2026-11-17T17:46:15+00:00",
+  "status": "monitoring",
+  "title": "Costs API data is delayed",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D"
+ },
+ {
   "body": "We have identified the cause of the issue affecting claude.ai and are working on a fix. We will provide an update as soon as possible.",
   "components": [
    "claude.ai"
@@ -7783,28 +7801,5 @@
   "title": "6.1 Sol Degraded Model Performance",
   "transition": "progress",
   "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
- },
- {
-  "body": "We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude API (api.anthropic.com)",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🔍 Claude has found the culprit",
-  "id": "anthropic:lqhknfdjrcst:opened:identified:major:2026-10-27T15:09:09.162000+00:00",
-  "impact": "major",
-  "incident_id": "lqhknfdjrcst",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-27T15:15:17.067693+00:00",
-  "started_at": "2026-10-27T15:09:08.926000+00:00",
-  "status": "identified",
-  "title": "Elevated errors for Claude Sonnet 5.5",
-  "transition": "opened",
-  "url": "https://stspg.io/39x7qh3sd7bd"
  }
 ]

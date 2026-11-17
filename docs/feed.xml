@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 17 Nov 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D</link>
+<guid isPermaLink='false'>openai:01M7N9VNR6X5SEC90M1YCDB36D:progress:monitoring:minor:2026-11-17T19:53:49+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 20:00:14 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Costs API data is delayed</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 17 Nov 2026 17:46:15 +0000</p><p>We've pushed a fix and are monitoring the recovery.</p><p><a href="https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔍 Claude has identified the problem. Fix pending.]]></title>
 <link>https://stspg.io/3tl6h35nnzwm</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 17:15:47 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: monitoring · Affects: Actions · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
-<link>https://stspg.io/lv4q3xm9r0rk</link>
-<guid isPermaLink='false'>github:t89g2q1800fr:opened:investigating:minor:2026-11-05T16:52:52.696000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:49 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>Some GitHub Actions workflow runs may experience delays or errors when starting. We’re investigating and preparing a mitigation.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
