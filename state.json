@@ -5375,8 +5375,8 @@
   "moonshot:4mtxb1cyfjkx": {
    "impact": "critical",
    "last_seen_at": "2026-11-17T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-17T08:31:45.031000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-17T09:26:45.279000+00:00"
   },
   "moonshot:4ttsljqpl37g": {
    "impact": "critical",

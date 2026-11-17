@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 55 min.]]></title>
+<link>https://stspg.io/qchgk0rqv36q</link>
+<guid isPermaLink='false'>moonshot:4mtxb1cyfjkx:resolved:resolved:critical:2026-11-17T09:26:45.279000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 09:30:24 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K2.8 Preview TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K2.8 Preview · Duration: 55 min · Opened: Tue, 17 Nov 2026 08:31:44 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/qchgk0rqv36q">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
 <link>https://stspg.io/35g3z539m0mv</link>
 <guid isPermaLink='false'>moonshot:3x8v7k30zn64:opened:investigating:critical:2026-11-17T08:37:44.716000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 09:15:47 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Thu, 05 Nov 2026 08:58:41 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/1sskhpmg4clj">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 9 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M6MWGS2B9Z97PCKRDM8V0NJ5</link>
-<guid isPermaLink='false'>fireworks:01M6MWGS2B9Z97PCKRDM8V0NJ5:resolved:resolved:minor:2026-11-05T03:47:06+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 04:00:20 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: resolved · Duration: 9 min · Opened: Thu, 05 Nov 2026 03:37:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6MWGS2B9Z97PCKRDM8V0NJ5">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
