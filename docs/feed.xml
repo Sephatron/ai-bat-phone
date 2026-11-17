@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 17 Nov 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
+<link>https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D</link>
+<guid isPermaLink='false'>openai:01M7N9VNR6X5SEC90M1YCDB36D:opened:investigating:minor:2026-11-17T17:46:15+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 18:00:29 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Costs API data is delayed</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 17 Nov 2026 17:46:15 +0000</p><p>We have identified a delay in our Costs API. We are working to resolve the issue.</p><p><a href="https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
 <link>https://stspg.io/6r5vjt477n16</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 16:15:49 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>composer-2.5 degraded</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Bugbot, Cloud Agents, CLI, IDE, Cursor IDE (iOS) · Duration: 49 min · Opened: Thu, 05 Nov 2026 15:06:52 +0000</p><p>This issue has been resolved</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 OpenAI is having a wobble]]></title>
-<link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
-<guid isPermaLink='false'>openai:01M6P50GPP1V98EF8MJ9SH393R:opened:investigating:minor:2026-11-05T15:30:00+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 15:30:49 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>ChatGPT Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
