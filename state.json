@@ -227,8 +227,8 @@
   "anthropic:b5cq662qf2wm": {
    "impact": "major",
    "last_seen_at": "2026-11-17T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-16T18:10:10.242000+00:00"
+   "status": "identified",
+   "updated_at": "2026-11-17T02:02:57.707000+00:00"
   },
   "anthropic:bdr3fq2rkchr": {
    "impact": "major",

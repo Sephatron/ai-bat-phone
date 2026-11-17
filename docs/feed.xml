@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Claude has found the culprit]]></title>
+<link>https://stspg.io/01qq3kzyyqzl</link>
+<guid isPermaLink='false'>anthropic:b5cq662qf2wm:progress:identified:major:2026-11-17T02:02:57.707000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 02:15:19 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Claude unable to join meetings</strong></p><p>Impact: major · Status: identified · Affects: claude.ai · Opened: Mon, 16 Nov 2026 15:10:15 +0000</p><p>Claude Meetings (beta) saw higher than expected demand today, and Claude was unable to join many calls. We have put mitigations in place and are continuing to monitor and improve join reliability. Claude Meetings is now re-enabled for all Enterprise customers, though Claude may take a little longer than usual to join. Adding Claude to new calls and Auto-join remain paused for Team customers. We will share more updates as we expand capacity and begin restoring the feature for Team customers.</p><p><a href="https://stspg.io/01qq3kzyyqzl">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
 <link>https://stspg.io/4858wf40dx89</link>
 <guid isPermaLink='false'>anthropic:ct4c2pwf2xpj:resolved:resolved:major:2026-11-16T19:52:36.619000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 02:00:19 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Degraded Performance - Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 14m · Opened: Thu, 05 Nov 2026 00:34:40 +0000</p><p>We have identified and resolved the issue.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_c0cee9e504398968">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M6MM78SF1PY8AWBV2QAYR02W</link>
-<guid isPermaLink='false'>fireworks:01M6MM78SF1PY8AWBV2QAYR02W:resolved:resolved:minor:2026-11-05T01:27:04+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 01:30:18 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Thu, 05 Nov 2026 01:12:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6MM78SF1PY8AWBV2QAYR02W">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
