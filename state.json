@@ -5360,11 +5360,23 @@
    "status": "resolved",
    "updated_at": "2026-11-14T03:12:18.346000+00:00"
   },
+  "moonshot:3x8v7k30zn64": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-17T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-17T08:37:44.716000+00:00"
+  },
   "moonshot:48wyvdplwsgt": {
    "impact": "critical",
    "last_seen_at": "2026-11-02T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-08-13T05:13:09.512000+00:00"
+  },
+  "moonshot:4mtxb1cyfjkx": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-17T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-17T08:31:45.031000+00:00"
   },
   "moonshot:4ttsljqpl37g": {
    "impact": "critical",
