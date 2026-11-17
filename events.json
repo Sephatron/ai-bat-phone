@@ -1,5 +1,25 @@
 [
  {
+  "body": "We have identified the cause of the issue affecting claude.ai and are working on a fix. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "",
+  "headline": "🔍 Claude has identified the problem. Fix pending.",
+  "id": "anthropic:1lglzf469c0z:opened:identified:major:2026-11-17T18:56:06.196000+00:00",
+  "impact": "major",
+  "incident_id": "1lglzf469c0z",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-17T19:00:15.154663+00:00",
+  "started_at": "2026-11-17T18:55:53.493000+00:00",
+  "status": "identified",
+  "title": "Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
+  "transition": "opened",
+  "url": "https://stspg.io/3tl6h35nnzwm"
+ },
+ {
   "body": "Signing in with Apple is currently slow or failing for some users. This affects signing in to Lovable and signing in to apps built with Lovable. Our team is investigating.",
   "components": [],
   "duration": "",
@@ -7786,23 +7806,5 @@
   "title": "Elevated errors for Claude Sonnet 5.5",
   "transition": "opened",
   "url": "https://stspg.io/39x7qh3sd7bd"
- },
- {
-  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI is a bit under the weather",
-  "id": "openai:01M5YY4A3TQETEQ53DVSK8SW10:opened:investigating:minor:2026-10-27T15:02:15+00:00",
-  "impact": "minor",
-  "incident_id": "01M5YY4A3TQETEQ53DVSK8SW10",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-27T15:15:17.067693+00:00",
-  "started_at": "2026-10-27T15:02:15+00:00",
-  "status": "investigating",
-  "title": "6.1 Sol Degraded Model Performance",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
  }
 ]

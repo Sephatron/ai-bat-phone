@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 17 Nov 2026 18:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 19:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 Claude has identified the problem. Fix pending.]]></title>
+<link>https://stspg.io/3tl6h35nnzwm</link>
+<guid isPermaLink='false'>anthropic:1lglzf469c0z:opened:identified:major:2026-11-17T18:56:06.196000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 19:00:15 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Some users unable to sign in with Apple on claude.ai and the Claude iOS app</strong></p><p>Impact: major · Status: identified · Affects: claude.ai · Opened: Tue, 17 Nov 2026 18:55:53 +0000</p><p>We have identified the cause of the issue affecting claude.ai and are working on a fix. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/3tl6h35nnzwm">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Lovable is a bit under the weather]]></title>
 <link>https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 17:00:49 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>Some GitHub Actions workflow runs may experience delays or errors when starting. We’re investigating and preparing a mitigation.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
-<link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
-<guid isPermaLink='false'>openai:01M6P50GPP1V98EF8MJ9SH393R:progress:identified:minor:2026-11-05T16:57:41+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:49 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
