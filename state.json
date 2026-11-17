@@ -5876,6 +5876,12 @@
    "status": "resolved",
    "updated_at": "2026-08-12T18:23:33.681000+00:00"
   },
+  "moonshot:wmnf9qygw4r0": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-17T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-17T09:38:44.027000+00:00"
+  },
   "moonshot:wq2hghv48b99": {
    "impact": "critical",
    "last_seen_at": "2026-11-01T00:00:00+00:00",

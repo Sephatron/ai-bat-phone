@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/6r5vjt477n16</link>
+<guid isPermaLink='false'>moonshot:wmnf9qygw4r0:opened:investigating:critical:2026-11-17T09:38:44.027000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 09:45:27 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Tue, 17 Nov 2026 09:38:43 +0000</p><p>K3 部分请求的 TTFT 延迟可能升高</p><p><a href="https://stspg.io/6r5vjt477n16">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 55 min.]]></title>
 <link>https://stspg.io/qchgk0rqv36q</link>
 <guid isPermaLink='false'>moonshot:4mtxb1cyfjkx:resolved:resolved:critical:2026-11-17T09:26:45.279000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 03:45:18 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 05 Nov 2026 03:37:24 +0000</p><p>We are seeing impacted performance for Muse Spark Open US. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6MWGS2B9Z97PCKRDM8V0NJ5">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 1h 14m]]></title>
-<link>https://status.x.ai/history?incident=grok-bot%2Fps_c0cee9e504398968</link>
-<guid isPermaLink='false'>cursor:ps_c0cee9e504398968:resolved:resolved:minor:2026-11-05T01:49:31+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 02:00:19 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Degraded Performance - Grok Bot</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 14m · Opened: Thu, 05 Nov 2026 00:34:40 +0000</p><p>We have identified and resolved the issue.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_c0cee9e504398968">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
