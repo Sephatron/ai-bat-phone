@@ -1,5 +1,23 @@
 [
  {
+  "body": "Signing it with Apple should now be back to normal service. Thank you for your patience.",
+  "components": [],
+  "duration": "2h 38m",
+  "headline": "🟢 Lovable is fine again",
+  "id": "lovable:01M7NBKPZFNF56NDM7CD94G7TX:resolved:resolved:minor:2026-11-17T20:55:39+00:00",
+  "impact": "minor",
+  "incident_id": "01M7NBKPZFNF56NDM7CD94G7TX",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-17T21:00:16.082045+00:00",
+  "started_at": "2026-11-17T18:16:51+00:00",
+  "status": "resolved",
+  "title": "Apple auth issues",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX"
+ },
+ {
   "body": "We've pushed a fix and are monitoring the recovery.",
   "components": [],
   "duration": "",
@@ -7783,23 +7801,5 @@
   "title": "Elevated errors for Claude Sonnet 5.5",
   "transition": "resolved",
   "url": "https://stspg.io/39x7qh3sd7bd"
- },
- {
-  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
-  "id": "openai:01M5YY4A3TQETEQ53DVSK8SW10:progress:monitoring:minor:2026-10-27T15:40:14+00:00",
-  "impact": "minor",
-  "incident_id": "01M5YY4A3TQETEQ53DVSK8SW10",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-27T15:45:18.133614+00:00",
-  "started_at": "2026-10-27T15:02:15+00:00",
-  "status": "monitoring",
-  "title": "6.1 Sol Degraded Model Performance",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
  }
 ]
