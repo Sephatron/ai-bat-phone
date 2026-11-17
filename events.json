@@ -1,5 +1,23 @@
 [
  {
+  "body": "Signing in with Apple is currently slow or failing for some users. This affects signing in to Lovable and signing in to apps built with Lovable. Our team is investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable is a bit under the weather",
+  "id": "lovable:01M7NBKPZFNF56NDM7CD94G7TX:opened:investigating:minor:2026-11-17T18:19:17+00:00",
+  "impact": "minor",
+  "incident_id": "01M7NBKPZFNF56NDM7CD94G7TX",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-17T18:30:23.714006+00:00",
+  "started_at": "2026-11-17T18:16:51+00:00",
+  "status": "investigating",
+  "title": "Apple auth issues",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX"
+ },
+ {
   "body": "We have identified a delay in our Costs API. We are working to resolve the issue.",
   "components": [],
   "duration": "",
@@ -7786,23 +7804,5 @@
   "title": "6.1 Sol Degraded Model Performance",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
- },
- {
-  "body": "The issue is now resolved.",
-  "components": [],
-  "duration": "5h 53m",
-  "headline": "🟢 OpenAI is fine again",
-  "id": "openai:01M5Y60NQGGN514EB3943V94EN:resolved:resolved:none:2026-10-27T13:54:35+00:00",
-  "impact": "none",
-  "incident_id": "01M5Y60NQGGN514EB3943V94EN",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-27T14:00:21.748511+00:00",
-  "started_at": "2026-10-27T08:00:50+00:00",
-  "status": "resolved",
-  "title": "Elevated error rates for most hosted Code Reviews and Security Reviews on private GitHub repositories",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5Y60NQGGN514EB3943V94EN"
  }
 ]

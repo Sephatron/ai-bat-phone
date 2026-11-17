@@ -5288,6 +5288,12 @@
    "status": "resolved",
    "updated_at": "2026-11-16T15:40:04+00:00"
   },
+  "lovable:01M7NBKPZFNF56NDM7CD94G7TX": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-17T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-17T18:19:17+00:00"
+  },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",
    "last_seen_at": "2026-10-31T00:00:00+00:00",

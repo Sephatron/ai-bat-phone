@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Lovable is a bit under the weather]]></title>
+<link>https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX</link>
+<guid isPermaLink='false'>lovable:01M7NBKPZFNF56NDM7CD94G7TX:opened:investigating:minor:2026-11-17T18:19:17+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 18:30:23 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Apple auth issues</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 17 Nov 2026 18:16:51 +0000</p><p>Signing in with Apple is currently slow or failing for some users. This affects signing in to Lovable and signing in to apps built with Lovable. Our team is investigating.</p><p><a href="https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 OpenAI is having a wobble]]></title>
 <link>https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D</link>
 <guid isPermaLink='false'>openai:01M7N9VNR6X5SEC90M1YCDB36D:opened:investigating:minor:2026-11-17T17:46:15+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 17:00:49 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor sorted itself out after 49 min]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43</link>
-<guid isPermaLink='false'>cursor:ps_78783e1b35b98b43:resolved:resolved:minor:2026-11-05T15:56:32+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 16:15:49 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>composer-2.5 degraded</strong></p><p>Impact: minor · Status: resolved · Affects: Automations, Bugbot, Cloud Agents, CLI, IDE, Cursor IDE (iOS) · Duration: 49 min · Opened: Thu, 05 Nov 2026 15:06:52 +0000</p><p>This issue has been resolved</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
