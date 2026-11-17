@@ -5363,8 +5363,8 @@
   "moonshot:3x8v7k30zn64": {
    "impact": "critical",
    "last_seen_at": "2026-11-17T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-17T08:37:44.716000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-17T10:12:43.502000+00:00"
   },
   "moonshot:48wyvdplwsgt": {
    "impact": "critical",
@@ -5879,8 +5879,8 @@
   "moonshot:wmnf9qygw4r0": {
    "impact": "critical",
    "last_seen_at": "2026-11-17T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-17T09:38:44.027000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-17T10:12:44.345000+00:00"
   },
   "moonshot:wq2hghv48b99": {
    "impact": "critical",

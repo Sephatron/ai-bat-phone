@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/6r5vjt477n16</link>
+<guid isPermaLink='false'>moonshot:wmnf9qygw4r0:resolved:resolved:critical:2026-11-17T10:12:44.345000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 10:15:25 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 34 min · Opened: Tue, 17 Nov 2026 09:38:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/6r5vjt477n16">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 1h 34m.]]></title>
+<link>https://stspg.io/35g3z539m0mv</link>
+<guid isPermaLink='false'>moonshot:3x8v7k30zn64:resolved:resolved:critical:2026-11-17T10:12:43.502000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 10:15:25 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 34m · Opened: Tue, 17 Nov 2026 08:37:44 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/35g3z539m0mv">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/6r5vjt477n16</link>
 <guid isPermaLink='false'>moonshot:wmnf9qygw4r0:opened:investigating:critical:2026-11-17T09:38:44.027000+00:00</guid>
@@ -1064,14 +1080,6 @@
 <pubDate>Tue, 27 Oct 2026 15:15:17 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors for Claude Sonnet 5.5</strong></p><p>Impact: major · Status: identified · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 27 Oct 2026 15:09:08 +0000</p><p>We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/39x7qh3sd7bd">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/6n1mdmbwq9jy</link>
-<guid isPermaLink='false'>moonshot:8t39g5pdw52b:resolved:resolved:critical:2026-10-27T10:19:08.062000+00:00</guid>
-<pubDate>Tue, 27 Oct 2026 10:30:20 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 09m · Opened: Tue, 27 Oct 2026 09:09:42 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/6n1mdmbwq9jy">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

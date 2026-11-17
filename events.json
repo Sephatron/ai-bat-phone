@@ -1,5 +1,45 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "34 min",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:wmnf9qygw4r0:resolved:resolved:critical:2026-11-17T10:12:44.345000+00:00",
+  "impact": "critical",
+  "incident_id": "wmnf9qygw4r0",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-17T10:15:25.473724+00:00",
+  "started_at": "2026-11-17T09:38:43.949000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 TTFT 响应延迟升高",
+  "transition": "resolved",
+  "url": "https://stspg.io/6r5vjt477n16"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "1h 34m",
+  "headline": "🟢 Moonshot AI (Kimi) is upright again. That took 1h 34m.",
+  "id": "moonshot:3x8v7k30zn64:resolved:resolved:critical:2026-11-17T10:12:43.502000+00:00",
+  "impact": "critical",
+  "incident_id": "3x8v7k30zn64",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-17T10:15:25.473724+00:00",
+  "started_at": "2026-11-17T08:37:44.597000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 TTFT 响应延迟升高",
+  "transition": "resolved",
+  "url": "https://stspg.io/35g3z539m0mv"
+ },
+ {
   "body": "K3 部分请求的 TTFT 延迟可能升高",
   "components": [
    "K3"
@@ -7764,43 +7804,5 @@
   "title": "Service Degradation for GLM 5.3 Flash",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M5YN72RQ4WTP7264PMEPFG2Q:opened:investigating:minor:2026-10-27T12:26:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M5YN72RQ4WTP7264PMEPFG2Q",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-27T12:30:21.397299+00:00",
-  "started_at": "2026-10-27T12:26:29+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3 Flash",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M5YN72RQ4WTP7264PMEPFG2Q"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "1h 09m",
-  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
-  "id": "moonshot:8t39g5pdw52b:resolved:resolved:critical:2026-10-27T10:19:08.062000+00:00",
-  "impact": "critical",
-  "incident_id": "8t39g5pdw52b",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-27T10:30:20.750919+00:00",
-  "started_at": "2026-10-27T09:09:42.187000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 TTFT 响应延迟升高",
-  "transition": "resolved",
-  "url": "https://stspg.io/6n1mdmbwq9jy"
  }
 ]

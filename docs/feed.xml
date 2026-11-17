@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/6r5vjt477n16</link>
+<guid isPermaLink='false'>moonshot:wmnf9qygw4r0:resolved:resolved:critical:2026-11-17T10:12:44.345000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 10:15:25 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 34 min · Opened: Tue, 17 Nov 2026 09:38:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/6r5vjt477n16">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 1h 34m.]]></title>
+<link>https://stspg.io/35g3z539m0mv</link>
+<guid isPermaLink='false'>moonshot:3x8v7k30zn64:resolved:resolved:critical:2026-11-17T10:12:43.502000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 10:15:25 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 34m · Opened: Tue, 17 Nov 2026 08:37:44 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/35g3z539m0mv">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/6r5vjt477n16</link>
 <guid isPermaLink='false'>moonshot:wmnf9qygw4r0:opened:investigating:critical:2026-11-17T09:38:44.027000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 15:30:49 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>ChatGPT Issues</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43</link>
-<guid isPermaLink='false'>cursor:ps_78783e1b35b98b43:opened:investigating:minor:2026-11-05T15:06:52+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 15:15:50 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>composer-2.5 degraded</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Bugbot, Cloud Agents, CLI, IDE, Cursor IDE (iOS) · Opened: Thu, 05 Nov 2026 15:06:52 +0000</p><p>We are currently experiencing issues with Composer 2.5 requests</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_78783e1b35b98b43">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/1sskhpmg4clj</link>
-<guid isPermaLink='false'>moonshot:n139fwpzcv0p:resolved:resolved:critical:2026-11-05T09:46:42.092000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 10:00:47 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 TTFT 响应延迟升高</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 48 min · Opened: Thu, 05 Nov 2026 08:58:41 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1sskhpmg4clj">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
