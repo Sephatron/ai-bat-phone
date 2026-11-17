@@ -1,5 +1,25 @@
 [
  {
+  "body": "The issue affecting Sign in with Apple on claude.ai and the Claude iOS app has been resolved. Impact occurred from 08:40 PT / 16:40 UTC to 12:20 PT / 20:20 UTC.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "2h 55m",
+  "headline": "🟢 Claude is fixed. You may resume being productive.",
+  "id": "anthropic:1lglzf469c0z:resolved:resolved:major:2026-11-17T21:51:09.296000+00:00",
+  "impact": "major",
+  "incident_id": "1lglzf469c0z",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-17T22:00:15.447739+00:00",
+  "started_at": "2026-11-17T18:55:53.493000+00:00",
+  "status": "resolved",
+  "title": "Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
+  "transition": "resolved",
+  "url": "https://stspg.io/3tl6h35nnzwm"
+ },
+ {
   "body": "Some users may still have trouble signing in with Apple, on Lovable and in apps built with Lovable. We are working on resolving the issue. Thank you for your patience.",
   "components": [],
   "duration": "",
@@ -7778,23 +7798,5 @@
   "title": "Kimi Code K3 TTFT 响应延迟升高",
   "transition": "opened",
   "url": "https://stspg.io/w9sby180qxln"
- },
- {
-  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
-  "components": [],
-  "duration": "1h 17m",
-  "headline": "🟢 OpenAI sorted itself out after 1h 17m",
-  "id": "openai:01M5YY4A3TQETEQ53DVSK8SW10:resolved:resolved:minor:2026-10-27T16:20:06+00:00",
-  "impact": "minor",
-  "incident_id": "01M5YY4A3TQETEQ53DVSK8SW10",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-27T16:30:24.688630+00:00",
-  "started_at": "2026-10-27T15:02:15+00:00",
-  "status": "resolved",
-  "title": "6.1 Sol Degraded Model Performance",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M5YY4A3TQETEQ53DVSK8SW10"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 17 Nov 2026 21:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/3tl6h35nnzwm</link>
+<guid isPermaLink='false'>anthropic:1lglzf469c0z:resolved:resolved:major:2026-11-17T21:51:09.296000+00:00</guid>
+<pubDate>Tue, 17 Nov 2026 22:00:15 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Some users unable to sign in with Apple on claude.ai and the Claude iOS app</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai · Duration: 2h 55m · Opened: Tue, 17 Nov 2026 18:55:53 +0000</p><p>The issue affecting Sign in with Apple on claude.ai and the Claude iOS app has been resolved. Impact occurred from 08:40 PT / 16:40 UTC to 12:20 PT / 20:20 UTC.</p><p><a href="https://stspg.io/3tl6h35nnzwm">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔁 Put the tools back down: Lovable has relapsed]]></title>
 <link>https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 17:15:47 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: monitoring · Affects: Actions · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>The degradation affecting Actions has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
-<link>https://stspg.io/lv4q3xm9r0rk</link>
-<guid isPermaLink='false'>github:t89g2q1800fr:opened:investigating:minor:2026-11-05T16:52:52.696000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 17:00:49 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: investigating · Affects: Actions · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>Some GitHub Actions workflow runs may experience delays or errors when starting. We’re investigating and preparing a mitigation.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
