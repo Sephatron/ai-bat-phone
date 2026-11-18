@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue has been identified and a fix is being implemented.",
+  "components": [
+   "AI Gateway",
+   "Observability",
+   "Queues",
+   "Workflow"
+  ],
+  "duration": "",
+  "headline": "🔍 Vercel has identified the problem. Fix pending.",
+  "id": "vercel:c83fx5n8008f:progress:identified:major:2026-11-18T20:55:25.880000+00:00",
+  "impact": "major",
+  "incident_id": "c83fx5n8008f",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-11-18T21:00:49.335698+00:00",
+  "started_at": "2026-11-18T20:44:33.556000+00:00",
+  "status": "identified",
+  "title": "Delays in observability data",
+  "transition": "progress",
+  "url": "https://stspg.io/mskmcg5p67tp"
+ },
+ {
   "body": "We are investigating an issue where observability and billing data is delayed. Run status on the Workflows dashboard on Vercel may be reported as “pending” even though the run may have already started or finished. Observability data on the AI Gateway dashboard is delayed and users may see low traffic. We will provide additional updates as we have them.",
   "components": [
    "AI Gateway",
@@ -7764,27 +7787,5 @@
   "title": "Multiple services degraded: Cloud Agents, Grok Bot, Origin",
   "transition": "opened",
   "url": "https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283"
- },
- {
-  "body": "The issue affecting the Google Calendar connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 04:07 PT / 11:07 UTC on October 26 to 11:52 PT / 18:52 UTC on October 28.",
-  "components": [
-   "claude.ai",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "3h 46m",
-  "headline": "🟢 Claude is fine again",
-  "id": "anthropic:phg1y2yh07n2:resolved:resolved:minor:2026-10-28T20:05:18.230000+00:00",
-  "impact": "minor",
-  "incident_id": "phg1y2yh07n2",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-28T20:15:55.765764+00:00",
-  "started_at": "2026-10-28T16:19:09.935000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors affecting the Google Calendar connector",
-  "transition": "resolved",
-  "url": "https://stspg.io/75qq31h8672d"
  }
 ]

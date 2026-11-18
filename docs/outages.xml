@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 18 Nov 2026 20:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 21:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 Vercel has identified the problem. Fix pending.]]></title>
+<link>https://stspg.io/mskmcg5p67tp</link>
+<guid isPermaLink='false'>vercel:c83fx5n8008f:progress:identified:major:2026-11-18T20:55:25.880000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 21:00:49 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in observability data</strong></p><p>Impact: major · Status: identified · Affects: AI Gateway, Observability, Queues, Workflow · Opened: Wed, 18 Nov 2026 20:44:33 +0000</p><p>The issue has been identified and a fix is being implemented.</p><p><a href="https://stspg.io/mskmcg5p67tp">Vercel status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Vercel is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/mskmcg5p67tp</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 07 Nov 2026 02:30:50 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash US</strong></p><p>Impact: minor · Status: resolved · Duration: 24 min · Opened: Sat, 07 Nov 2026 01:54:34 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6SVDXC2R7FKGW03V1JA7DCE">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M6SW94PVHCMN7DSFN4FW6NH3</link>
-<guid isPermaLink='false'>fireworks:01M6SW94PVHCMN7DSFN4FW6NH3:opened:investigating:minor:2026-11-07T02:09:26+00:00</guid>
-<pubDate>Sat, 07 Nov 2026 02:15:47 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 07 Nov 2026 02:09:26 +0000</p><p>We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6SW94PVHCMN7DSFN4FW6NH3">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
