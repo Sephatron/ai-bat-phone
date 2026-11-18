@@ -1,5 +1,44 @@
 [
  {
+  "body": "The issue that affected image and video generation as well as documents and files should now be resolved. We’ll continue to monitor the situation. Thank you for your patience.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Lovable thinks it's fixed and is watching nervously",
+  "id": "lovable:01M7QX08RHE6NTPPEPPAHA714J:progress:monitoring:minor:2026-11-18T18:28:25+00:00",
+  "impact": "minor",
+  "incident_id": "01M7QX08RHE6NTPPEPPAHA714J",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-18T18:30:44.615506+00:00",
+  "started_at": "2026-11-18T17:59:17+00:00",
+  "status": "monitoring",
+  "title": "Issues with image and video generation",
+  "transition": "progress",
+  "url": "https://status.lovable.dev/incidents/01M7QX08RHE6NTPPEPPAHA714J"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "10 min",
+  "headline": "🟢 Baseten is upright again. That took 10 min.",
+  "id": "baseten:l383p20q1zhp:resolved:resolved:major:2026-11-18T18:19:30.167000+00:00",
+  "impact": "major",
+  "incident_id": "l383p20q1zhp",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-18T18:30:44.615506+00:00",
+  "started_at": "2026-11-18T18:08:36.532000+00:00",
+  "status": "resolved",
+  "title": "Outage on app.baseten.co. Inference is not affected",
+  "transition": "resolved",
+  "url": "https://stspg.io/fk7rmpffjd1z"
+ },
+ {
   "body": "We are currently investigating this issue.",
   "components": [
    "Model Management API",
@@ -7751,41 +7790,5 @@
   "title": "Elevated errors affecting the Google Calendar connector",
   "transition": "opened",
   "url": "https://stspg.io/75qq31h8672d"
- },
- {
-  "body": "https://status.baseten.co/api/v2/incidents.json: The read operation timed out",
-  "components": [],
-  "duration": "",
-  "headline": "📵 Baseten is unreadable — silence here means unknown, not fine",
-  "id": "meta:baseten:unreachable:2026-10-28T15:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-10-28T16:00:55.848675+00:00",
-  "started_at": "2026-10-28T15:00:00+00:00",
-  "status": "unreachable",
-  "title": "AI Bat Phone cannot read Baseten's status page",
-  "transition": "unreachable",
-  "url": "https://status.baseten.co"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "7 min",
-  "headline": "🟢 Fireworks AI has stopped wobbling",
-  "id": "fireworks:01M61GWFB0MBR778JRMPDGYBNV:resolved:resolved:minor:2026-10-28T15:16:23+00:00",
-  "impact": "minor",
-  "incident_id": "01M61GWFB0MBR778JRMPDGYBNV",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-28T15:30:55.005719+00:00",
-  "started_at": "2026-10-28T15:08:30+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3 Flash",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M61GWFB0MBR778JRMPDGYBNV"
  }
 ]

@@ -929,8 +929,8 @@
   "baseten:l383p20q1zhp": {
    "impact": "major",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-18T18:08:36.678000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-18T18:19:30.167000+00:00"
   },
   "baseten:lzxw0ljfd5dr": {
    "impact": "minor",
@@ -5345,8 +5345,8 @@
   "lovable:01M7QX08RHE6NTPPEPPAHA714J": {
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-18T17:59:17+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-18T18:28:25+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",
