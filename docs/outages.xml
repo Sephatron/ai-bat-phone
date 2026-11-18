@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 ElevenLabs knows what it did]]></title>
+<link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
+<guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:progress:identified:minor:2026-11-18T18:36:00+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 18:45:40 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased latency and API errors</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 18 Nov 2026 15:34:42 +0000</p><p>We’ve identified the cause of the ongoing US residency degradation and have begun stabilizing the underlying systems. Median response times have partially recovered, and some users may still experience intermittent errors and elevated latency across the following products: - TTS, STT &amp; Music — partial elevated latency and some failing requests - Voices &amp; API — elevated latency and intermittent errors when fetching or loading voices - Dubbing — elevated failure rate and delays (showing early signs of improvement) - Creative &amp; Dashboard UI — slowness and issues loading pages - ElevenAgents — ou…</p><p><a href="https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
+<link>https://status.lovable.dev/incidents/01M7QX08RHE6NTPPEPPAHA714J</link>
+<guid isPermaLink='false'>lovable:01M7QX08RHE6NTPPEPPAHA714J:resolved:resolved:minor:2026-11-18T18:37:11+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 18:45:40 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Issues with image and video generation</strong></p><p>Impact: minor · Status: resolved · Duration: 37 min · Opened: Wed, 18 Nov 2026 17:59:17 +0000</p><p>This should now be resolved. Thank you for your patience.</p><p><a href="https://status.lovable.dev/incidents/01M7QX08RHE6NTPPEPPAHA714J">Lovable status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
+<link>https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2</link>
+<guid isPermaLink='false'>replit:e88d92af-2c74-4b59-b252-6cfcc723e4b2:resolved:resolved:minor:2026-11-18T18:45:40.349229+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 18:45:40 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Voice input degraded</strong></p><p>Impact: minor · Status: resolved · Opened: Wed, 18 Nov 2026 18:30:58 +0000</p><p>[Resolved] This is resolved. Voice input has been working normally since about 9:15 AM PT.</p><p><a href="https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Lovable thinks it's fixed and is watching nervously]]></title>
 <link>https://status.lovable.dev/incidents/01M7QX08RHE6NTPPEPPAHA714J</link>
 <guid isPermaLink='false'>lovable:01M7QX08RHE6NTPPEPPAHA714J:progress:monitoring:minor:2026-11-18T18:28:25+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Sat, 07 Nov 2026 01:45:48 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Degraded Lovable Cloud project creation</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 21m · Opened: Sat, 07 Nov 2026 00:18:16 +0000</p><p>Our vendor reports that its upstream provider has implemented changes and project creation in US-West-2 is recovering.</p><p><a href="https://status.lovable.dev/incidents/01M6SNXJCK95HGXBSNKM8ZQSX4">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7</link>
-<guid isPermaLink='false'>openai:01M6S2FV5TZWQ753NHRB7BF5K7:progress:monitoring:none:2026-11-07T01:29:31+00:00</guid>
-<pubDate>Sat, 07 Nov 2026 01:30:48 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates with some U.S. business Mastercards</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 06 Nov 2026 18:38:43 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M6SPSBQB0S13V2GX5V4QBY8E</link>
-<guid isPermaLink='false'>fireworks:01M6SPSBQB0S13V2GX5V4QBY8E:opened:investigating:minor:2026-11-07T00:33:26+00:00</guid>
-<pubDate>Sat, 07 Nov 2026 00:45:48 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 07 Nov 2026 00:33:26 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6SPSBQB0S13V2GX5V4QBY8E">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 10 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M6SNH2QWCGH6ADM1CNTHPBQ9</link>
-<guid isPermaLink='false'>fireworks:01M6SNH2QWCGH6ADM1CNTHPBQ9:resolved:resolved:minor:2026-11-07T00:21:28+00:00</guid>
-<pubDate>Sat, 07 Nov 2026 00:30:50 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Sat, 07 Nov 2026 00:11:26 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6SNH2QWCGH6ADM1CNTHPBQ9">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

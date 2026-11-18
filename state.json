@@ -2957,8 +2957,8 @@
   "elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2": {
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-18T17:33:05+00:00"
+   "status": "identified",
+   "updated_at": "2026-11-18T18:36:00+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -5345,8 +5345,8 @@
   "lovable:01M7QX08RHE6NTPPEPPAHA714J": {
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-18T18:28:25+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-18T18:37:11+00:00"
   },
   "moonshot:0lz7sbsxn418": {
    "impact": "critical",
@@ -7373,8 +7373,8 @@
   "replit:e88d92af-2c74-4b59-b252-6cfcc723e4b2": {
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-18T18:06:55+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-18T18:30:58+00:00"
   },
   "replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e": {
    "impact": "minor",
