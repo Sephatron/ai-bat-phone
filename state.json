@@ -237,10 +237,10 @@
    "updated_at": "2026-08-31T17:52:26.042000+00:00"
   },
   "anthropic:b5cq662qf2wm": {
-   "impact": "major",
+   "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
    "status": "identified",
-   "updated_at": "2026-11-17T23:39:43.921000+00:00"
+   "updated_at": "2026-11-18T01:29:51.981000+00:00"
   },
   "anthropic:bdr3fq2rkchr": {
    "impact": "major",
