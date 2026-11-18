@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Vercel is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/mskmcg5p67tp</link>
+<guid isPermaLink='false'>vercel:c83fx5n8008f:opened:investigating:major:2026-11-18T20:44:33.727000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 20:45:40 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in observability data</strong></p><p>Impact: major · Status: investigating · Affects: AI Gateway, Observability, Workflow · Opened: Wed, 18 Nov 2026 20:44:33 +0000</p><p>We are investigating an issue where observability and billing data is delayed. Run status on the Workflows dashboard on Vercel may be reported as “pending” even though the run may have already started or finished. Observability data on the AI Gateway dashboard is delayed and users may see low traffic. We will provide additional updates as we have them.</p><p><a href="https://stspg.io/mskmcg5p67tp">Vercel status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
+<guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:progress:monitoring:minor:2026-11-18T20:32:07+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 20:45:40 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased latency and API errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 18 Nov 2026 15:34:42 +0000</p><p>After further observation, latency is back to normal levels and we’re seeing a reduction in error rates across all products. We’re currently still monitoring to confirm resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 ElevenLabs knows what it did]]></title>
 <link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
 <guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:progress:identified:minor:2026-11-18T18:36:00+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 07 Nov 2026 02:45:46 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 07m · Opened: Sat, 07 Nov 2026 00:33:26 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6SPSBQB0S13V2GX5V4QBY8E">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 10 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M6SW94PVHCMN7DSFN4FW6NH3</link>
-<guid isPermaLink='false'>fireworks:01M6SW94PVHCMN7DSFN4FW6NH3:resolved:resolved:minor:2026-11-07T02:19:40+00:00</guid>
-<pubDate>Sat, 07 Nov 2026 02:30:50 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Sat, 07 Nov 2026 02:09:26 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6SW94PVHCMN7DSFN4FW6NH3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M6SVDXC2R7FKGW03V1JA7DCE</link>
-<guid isPermaLink='false'>fireworks:01M6SVDXC2R7FKGW03V1JA7DCE:resolved:resolved:minor:2026-11-07T02:18:40+00:00</guid>
-<pubDate>Sat, 07 Nov 2026 02:30:50 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash US</strong></p><p>Impact: minor · Status: resolved · Duration: 24 min · Opened: Sat, 07 Nov 2026 01:54:34 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6SVDXC2R7FKGW03V1JA7DCE">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

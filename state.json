@@ -2957,8 +2957,8 @@
   "elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2": {
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
-   "status": "identified",
-   "updated_at": "2026-11-18T19:33:59+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-18T20:32:07+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -7771,6 +7771,12 @@
    "last_seen_at": "2026-09-16T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-05-08T06:39:41.739000+00:00"
+  },
+  "vercel:c83fx5n8008f": {
+   "impact": "major",
+   "last_seen_at": "2026-11-18T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-18T20:44:33.727000+00:00"
   },
   "vercel:d5nm9qbpj2gq": {
    "impact": "major",

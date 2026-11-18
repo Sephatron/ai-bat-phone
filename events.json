@@ -1,5 +1,45 @@
 [
  {
+  "body": "We are investigating an issue where observability and billing data is delayed. Run status on the Workflows dashboard on Vercel may be reported as “pending” even though the run may have already started or finished. Observability data on the AI Gateway dashboard is delayed and users may see low traffic. We will provide additional updates as we have them.",
+  "components": [
+   "AI Gateway",
+   "Observability",
+   "Workflow"
+  ],
+  "duration": "",
+  "headline": "🔴 Vercel is on the floor. Kettle on, grass outside.",
+  "id": "vercel:c83fx5n8008f:opened:investigating:major:2026-11-18T20:44:33.727000+00:00",
+  "impact": "major",
+  "incident_id": "c83fx5n8008f",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-11-18T20:45:40.310165+00:00",
+  "started_at": "2026-11-18T20:44:33.556000+00:00",
+  "status": "investigating",
+  "title": "Delays in observability data",
+  "transition": "opened",
+  "url": "https://stspg.io/mskmcg5p67tp"
+ },
+ {
+  "body": "After further observation, latency is back to normal levels and we’re seeing a reduction in error rates across all products. We’re currently still monitoring to confirm resolution.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs is on the mend. Don't get comfortable yet.",
+  "id": "elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:progress:monitoring:minor:2026-11-18T20:32:07+00:00",
+  "impact": "minor",
+  "incident_id": "01M7QMQH05JXV3SKSM1H6PJZD2",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-18T20:45:40.310165+00:00",
+  "started_at": "2026-11-18T15:34:42+00:00",
+  "status": "monitoring",
+  "title": "Increased latency and API errors",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2"
+ },
+ {
   "body": "We’ve identified the cause of the ongoing US residency degradation and have begun stabilizing the underlying systems. Median response times have partially recovered, and some users may still experience intermittent errors and elevated latency across the following products: - TTS, STT & Music — partial elevated latency and some failing requests - Voices & API — elevated latency and intermittent errors when fetching or loading voices - Dubbing — elevated failure rate and delays (showing early signs of improvement) - Creative & Dashboard UI — slowness and issues loading pages - ElevenAgents — ou…",
   "components": [],
   "duration": "",
@@ -7746,45 +7786,5 @@
   "title": "Elevated errors affecting the Google Calendar connector",
   "transition": "resolved",
   "url": "https://stspg.io/75qq31h8672d"
- },
- {
-  "body": "We are seeing recovery for errors affecting the Google Calendar connector, and error rates have returned to normal levels. We are continuing to monitor with our upstream provider.",
-  "components": [
-   "claude.ai",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "👀 Claude has applied a fix and is holding its breath",
-  "id": "anthropic:phg1y2yh07n2:progress:monitoring:minor:2026-10-28T19:47:31.741000+00:00",
-  "impact": "minor",
-  "incident_id": "phg1y2yh07n2",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-28T20:00:56.024238+00:00",
-  "started_at": "2026-10-28T16:19:09.935000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors affecting the Google Calendar connector",
-  "transition": "progress",
-  "url": "https://stspg.io/75qq31h8672d"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 Windsurf is readable again, so silence here means quiet once more",
-  "id": "meta:windsurf:recovered:2026-10-28T16:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "windsurf",
-  "provider_name": "Windsurf",
-  "published_at": "2026-10-28T16:45:55.987964+00:00",
-  "started_at": "2026-10-28T16:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read Windsurf's status page again",
-  "transition": "recovered",
-  "url": "https://status.windsurf.com"
  }
 ]
