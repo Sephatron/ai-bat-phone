@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating elevated errors when editing documents with the Google Docs connector on claude.ai, Claude Code, and Claude Cowork. Reading documents is not affected. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Claude",
+  "id": "anthropic:6prv10gjdpz1:opened:investigating:minor:2026-11-18T01:13:15.238000+00:00",
+  "impact": "minor",
+  "incident_id": "6prv10gjdpz1",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-18T01:15:15.745043+00:00",
+  "started_at": "2026-11-18T01:13:15.164000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting the Google Docs connector",
+  "transition": "opened",
+  "url": "https://stspg.io/qz7tfhb7sl68"
+ },
+ {
   "body": "The issue with Apple auth should now be resolved. We will continue to monitor the situation. Thank you for your patience.",
   "components": [],
   "duration": "4h 14m",
@@ -7778,23 +7798,5 @@
   "title": "Kimi Code K3 TTFT 响应延迟升高",
   "transition": "resolved",
   "url": "https://stspg.io/w9sby180qxln"
- },
- {
-  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from OpenAI",
-  "id": "openai:01M609FPNJF29J5GDH979ZDYYK:opened:investigating:minor:2026-10-28T03:39:58+00:00",
-  "impact": "minor",
-  "incident_id": "01M609FPNJF29J5GDH979ZDYYK",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-28T03:45:20.987048+00:00",
-  "started_at": "2026-10-28T03:39:58+00:00",
-  "status": "investigating",
-  "title": "Degraded Performace on ChatGPT Work",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M609FPNJF29J5GDH979ZDYYK"
  }
 ]

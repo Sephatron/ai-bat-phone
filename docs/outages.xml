@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Claude]]></title>
+<link>https://stspg.io/qz7tfhb7sl68</link>
+<guid isPermaLink='false'>anthropic:6prv10gjdpz1:opened:investigating:minor:2026-11-18T01:13:15.238000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 01:15:15 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Google Docs connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai · Opened: Wed, 18 Nov 2026 01:13:15 +0000</p><p>We are investigating elevated errors when editing documents with the Google Docs connector on claude.ai, Claude Code, and Claude Cowork. Reading documents is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/qz7tfhb7sl68">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable is fine again]]></title>
 <link>https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX</link>
 <guid isPermaLink='false'>lovable:01M7NBKPZFNF56NDM7CD94G7TX:resolved:resolved:minor:2026-11-17T22:31:03+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 17:45:48 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions</strong></p><p>Impact: minor · Status: resolved · Affects: Actions · Duration: 52 min · Opened: Thu, 05 Nov 2026 16:50:11 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/lv4q3xm9r0rk">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
-<guid isPermaLink='false'>openai:01M6P50GPP1V98EF8MJ9SH393R:progress:monitoring:minor:2026-11-05T17:05:56+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 17:15:47 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

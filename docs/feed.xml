@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Claude]]></title>
+<link>https://stspg.io/qz7tfhb7sl68</link>
+<guid isPermaLink='false'>anthropic:6prv10gjdpz1:opened:investigating:minor:2026-11-18T01:13:15.238000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 01:15:15 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Google Docs connector</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai · Opened: Wed, 18 Nov 2026 01:13:15 +0000</p><p>We are investigating elevated errors when editing documents with the Google Docs connector on claude.ai, Claude Code, and Claude Cowork. Reading documents is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/qz7tfhb7sl68">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Lovable is fine again]]></title>
 <link>https://status.lovable.dev/incidents/01M7NBKPZFNF56NDM7CD94G7TX</link>
 <guid isPermaLink='false'>lovable:01M7NBKPZFNF56NDM7CD94G7TX:resolved:resolved:minor:2026-11-17T22:31:03+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 19:00:52 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Build delays and degraded Vercel Dashboard performance</strong></p><p>Impact: minor · Status: resolved · Affects: Dashboard, Builds · Duration: 25 min · Opened: Thu, 05 Nov 2026 18:25:10 +0000</p><p>This incident has been resolved. The build backlog has been cleared.</p><p><a href="https://stspg.io/y6fmg7s9m5t2">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Vercel thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/y6fmg7s9m5t2</link>
-<guid isPermaLink='false'>vercel:w661l7k3kf4p:progress:monitoring:minor:2026-11-05T18:35:45.062000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 18:40:08 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Build delays and degraded Vercel Dashboard performance</strong></p><p>Impact: minor · Status: monitoring · Affects: Dashboard, Builds · Opened: Thu, 05 Nov 2026 18:25:10 +0000</p><p>We are seeing recovery after taking corrective action to address latency. We are continuing to process delayed builds. Vercel CI has also been affected. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/y6fmg7s9m5t2">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
