@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 18 Nov 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
+<link>https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2</link>
+<guid isPermaLink='false'>replit:e88d92af-2c74-4b59-b252-6cfcc723e4b2:opened:identified:minor:2026-11-18T17:00:43.279305+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 17:00:43 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Voice input degraded</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 18 Nov 2026 16:56:44 +0000</p><p>[Identified] Voice input (speech to text) is failing or slower than usual for some users because of an issue at our transcription provider. Typing still works normally. We’re monitoring their fix and will post an update by 9:30 AM PT.</p><p><a href="https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2">Replit status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Baseten is fine again]]></title>
 <link>https://stspg.io/1schy3g4w0wf</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 06 Nov 2026 18:45:50 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates with Brex Cards</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 06 Nov 2026 18:38:43 +0000</p><p>**Investigating** — We’re seeing payment declines on some U.S. business Mastercards, including some Brex cards. For API customers, this can prevent automatic recharges and one-time credit purchases. If your prepaid balance runs out, your API requests may fail. If you use one of these cards, we recommend adding a card from a different issuer before your next payment, even if you haven’t seen a decline. If an API credit purchase has already failed, use the new card to retry the purchase. We’re working with our payment partners and will share updates here.</p><p><a href="https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Fireworks AI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3</link>
-<guid isPermaLink='false'>fireworks:01M679955DA5K8S2HMEXDPCBR3:progress:monitoring:none:2026-11-06T18:28:30+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 18:30:48 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service degradation</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 30 Oct 2026 20:51:04 +0000</p><p>Dedicated deployments, training, and batch inference services are restored. For questions or any issues, please contact your account team or support@fireworks.ai.</p><p><a href="https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
