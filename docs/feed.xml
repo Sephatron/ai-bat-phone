@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI knows what it did]]></title>
+<link>https://status.openai.com/incidents/01M7Q99XRGP8T4DWJN8DSZXA1X</link>
+<guid isPermaLink='false'>openai:01M7Q99XRGP8T4DWJN8DSZXA1X:opened:identified:minor:2026-11-18T12:15:02+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 12:15:12 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated conversation errors for Free and Go users</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 18 Nov 2026 12:15:02 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M7Q99XRGP8T4DWJN8DSZXA1X">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
+<link>https://status.fireworks.ai/incidents/01M7Q93C61EAHQE5WSZAP1N053</link>
+<guid isPermaLink='false'>fireworks:01M7Q93C61EAHQE5WSZAP1N053:opened:investigating:minor:2026-11-18T12:11:27+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 12:15:12 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 18 Nov 2026 12:11:27 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M7Q93C61EAHQE5WSZAP1N053">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is fine again]]></title>
 <link>https://stspg.io/3sbmvyy2ctyx</link>
 <guid isPermaLink='false'>github:891rm8181xdf:resolved:resolved:minor:2026-11-18T09:34:15.907000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 06 Nov 2026 12:00:49 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Computer use in Grok Bot fails for users in a few regions.</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 06 Nov 2026 11:49:46 +0000</p><p>We've identified an issue where computer use in Grok Bot is failing for users in some regions. Other Grok Bot features are working normally. Our team is working on a fix, and we'll share an update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
-<guid isPermaLink='false'>openai:01M6P50GPP1V98EF8MJ9SH393R:resolved:resolved:minor:2026-11-06T04:31:37+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 04:45:47 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: resolved · Duration: 13h 06m · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten sorted itself out after 5h 09m]]></title>
-<link>https://stspg.io/zfd8m82n5j8g</link>
-<guid isPermaLink='false'>baseten:syzkjznl2fxj:resolved:resolved:minor:2026-11-06T02:44:49.449000+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 02:45:47 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors for Kimi-K3 on Model APIs. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 5h 09m · Opened: Thu, 05 Nov 2026 21:35:45 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/zfd8m82n5j8g">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
