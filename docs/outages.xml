@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Baseten is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/jxl9hg90yg08</link>
+<guid isPermaLink='false'>baseten:g2fm66c8w70d:progress:monitoring:minor:2026-11-18T02:19:16.224000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 02:30:19 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated TTFT on Kimi K3 on MAPIs</strong></p><p>Impact: minor · Status: monitoring · Affects: Model APIs · Opened: Wed, 18 Nov 2026 01:54:10 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/jxl9hg90yg08">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
 <link>https://stspg.io/jxl9hg90yg08</link>
 <guid isPermaLink='false'>baseten:g2fm66c8w70d:opened:investigating:minor:2026-11-18T01:54:10.814000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 19:00:52 +0000</pubDate>
 <category>Vercel</category>
 <description><![CDATA[<p><strong>Build delays and degraded Vercel Dashboard performance</strong></p><p>Impact: minor · Status: resolved · Affects: Dashboard, Builds · Duration: 25 min · Opened: Thu, 05 Nov 2026 18:25:10 +0000</p><p>This incident has been resolved. The build backlog has been cleared.</p><p><a href="https://stspg.io/y6fmg7s9m5t2">Vercel status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Vercel thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/y6fmg7s9m5t2</link>
-<guid isPermaLink='false'>vercel:w661l7k3kf4p:progress:monitoring:minor:2026-11-05T18:35:45.062000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 18:40:08 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Build delays and degraded Vercel Dashboard performance</strong></p><p>Impact: minor · Status: monitoring · Affects: Dashboard, Builds · Opened: Thu, 05 Nov 2026 18:25:10 +0000</p><p>We are seeing recovery after taking corrective action to address latency. We are continuing to process delayed builds. Vercel CI has also been affected. We will provide additional updates as they become available.</p><p><a href="https://stspg.io/y6fmg7s9m5t2">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

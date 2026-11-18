@@ -851,8 +851,8 @@
   "baseten:g2fm66c8w70d": {
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-18T01:54:10.814000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-18T02:19:16.224000+00:00"
   },
   "baseten:g7fbbc1r9ckt": {
    "impact": "major",

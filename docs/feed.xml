@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Baseten is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/jxl9hg90yg08</link>
+<guid isPermaLink='false'>baseten:g2fm66c8w70d:progress:monitoring:minor:2026-11-18T02:19:16.224000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 02:30:19 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated TTFT on Kimi K3 on MAPIs</strong></p><p>Impact: minor · Status: monitoring · Affects: Model APIs · Opened: Wed, 18 Nov 2026 01:54:10 +0000</p><p>A fix has been implemented and we are monitoring the results.</p><p><a href="https://stspg.io/jxl9hg90yg08">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Baseten has a limp, not a break]]></title>
 <link>https://stspg.io/jxl9hg90yg08</link>
 <guid isPermaLink='false'>baseten:g2fm66c8w70d:opened:investigating:minor:2026-11-18T01:54:10.814000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 06 Nov 2026 00:06:42 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degraded performance for multiple GitHub services</strong></p><p>Impact: minor · Status: monitoring · Affects: Issues, Actions, Pages · Opened: Thu, 05 Nov 2026 23:36:06 +0000</p><p>We've applied a mitigation and are seeing recovery across affected services, including Git operations, Issues, Actions, and API access. We're monitoring to confirm stability and will post another update by 00:35 UTC.</p><p><a href="https://stspg.io/s5bs6jn41fwh">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/s5bs6jn41fwh</link>
-<guid isPermaLink='false'>github:pfbmpxxfq1cy:opened:investigating:minor:2026-11-05T23:36:06.335000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 23:45:47 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degraded performance for multiple GitHub services</strong></p><p>Impact: minor · Status: investigating · Affects: Actions, Pages · Opened: Thu, 05 Nov 2026 23:36:06 +0000</p><p>We are investigating reports of degraded performance for Actions and Pages</p><p><a href="https://stspg.io/s5bs6jn41fwh">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

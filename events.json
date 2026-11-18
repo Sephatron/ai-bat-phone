@@ -1,5 +1,25 @@
 [
  {
+  "body": "A fix has been implemented and we are monitoring the results.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "",
+  "headline": "👀 Baseten is on the mend. Don't get comfortable yet.",
+  "id": "baseten:g2fm66c8w70d:progress:monitoring:minor:2026-11-18T02:19:16.224000+00:00",
+  "impact": "minor",
+  "incident_id": "g2fm66c8w70d",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-18T02:30:19.627908+00:00",
+  "started_at": "2026-11-18T01:54:10.716000+00:00",
+  "status": "monitoring",
+  "title": "Elevated TTFT on Kimi K3 on MAPIs",
+  "transition": "progress",
+  "url": "https://stspg.io/jxl9hg90yg08"
+ },
+ {
   "body": "We are currently investigating this issue.",
   "components": [
    "Model APIs"
@@ -7775,27 +7795,5 @@
   "title": "Database Upgrade. Inference will not be affected",
   "transition": "resolved",
   "url": "https://stspg.io/0rvb1mr214kw"
- },
- {
-  "body": "We are investigating elevated errors when searching and reading email with the Gmail connector. This issue does not affect other connectors. We will provide an update as soon as possible.",
-  "components": [
-   "claude.ai",
-   "Claude Code",
-   "Claude Cowork"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Claude",
-  "id": "anthropic:9ftx658xtd5z:opened:investigating:minor:2026-10-28T03:59:32.385000+00:00",
-  "impact": "minor",
-  "incident_id": "9ftx658xtd5z",
-  "kind": "incident",
-  "provider_key": "anthropic",
-  "provider_name": "Claude",
-  "published_at": "2026-10-28T04:00:20.710749+00:00",
-  "started_at": "2026-10-28T03:59:32.227000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors affecting the Gmail connector",
-  "transition": "opened",
-  "url": "https://stspg.io/j86c100s8tqm"
  }
 ]
