@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been implemented, and recovery is in process. We are monitoring the results and will provide additional updates as we have them.",
+  "components": [
+   "AI Gateway",
+   "Observability",
+   "Queues",
+   "Workflow"
+  ],
+  "duration": "",
+  "headline": "👀 Vercel has applied a fix and is holding its breath",
+  "id": "vercel:c83fx5n8008f:progress:monitoring:major:2026-11-18T21:30:30.308000+00:00",
+  "impact": "major",
+  "incident_id": "c83fx5n8008f",
+  "kind": "incident",
+  "provider_key": "vercel",
+  "provider_name": "Vercel",
+  "published_at": "2026-11-18T21:45:44.424533+00:00",
+  "started_at": "2026-11-18T20:44:33.556000+00:00",
+  "status": "monitoring",
+  "title": "Delays in observability data",
+  "transition": "progress",
+  "url": "https://stspg.io/mskmcg5p67tp"
+ },
+ {
   "body": "Systems are now operational across all products. We will post a root cause analysis after an extensive review.",
   "components": [],
   "duration": "5h 28m",
@@ -7759,29 +7782,5 @@
   "title": "AI Bat Phone cannot read AI21's status page",
   "transition": "unreachable",
   "url": "https://status.ai21.com"
- },
- {
-  "body": "This incident has been resolved. All services have returned to normal operation.",
-  "components": [
-   "Automations",
-   "BugBot",
-   "Cloud Agents",
-   "Grok Bot",
-   "Origin"
-  ],
-  "duration": "1h 58m",
-  "headline": "🟢 Cursor lives. Pick your tools back up.",
-  "id": "cursor:ps_d25569b21cabd283:resolved:resolved:major:2026-10-28T23:13:34+00:00",
-  "impact": "major",
-  "incident_id": "ps_d25569b21cabd283",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-28T23:15:23.242236+00:00",
-  "started_at": "2026-10-28T21:15:10+00:00",
-  "status": "resolved",
-  "title": "Multiple services degraded",
-  "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_d25569b21cabd283"
  }
 ]
