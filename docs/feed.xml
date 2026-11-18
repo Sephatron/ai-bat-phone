@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude has stopped wobbling]]></title>
+<link>https://stspg.io/qz7tfhb7sl68</link>
+<guid isPermaLink='false'>anthropic:6prv10gjdpz1:resolved:resolved:minor:2026-11-18T01:44:40.807000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 01:45:11 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors affecting the Google Docs connector</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai · Duration: 31 min · Opened: Wed, 18 Nov 2026 01:13:15 +0000</p><p>The issue affecting editing documents with the Google Docs connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:19 PT on November 17 / 00:19 UTC on November 18 to 17:33 PT on November 17 / 01:33 UTC on November 18.</p><p><a href="https://stspg.io/qz7tfhb7sl68">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Claude]]></title>
 <link>https://stspg.io/qz7tfhb7sl68</link>
 <guid isPermaLink='false'>anthropic:6prv10gjdpz1:opened:investigating:minor:2026-11-18T01:13:15.238000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 21:45:48 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Elevated errors for Kimi-K3 on Model APIs. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Thu, 05 Nov 2026 21:35:45 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/zfd8m82n5j8g">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Vercel is fine again]]></title>
-<link>https://stspg.io/y6fmg7s9m5t2</link>
-<guid isPermaLink='false'>vercel:w661l7k3kf4p:resolved:resolved:minor:2026-11-05T18:50:23.139000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 19:00:52 +0000</pubDate>
-<category>Vercel</category>
-<description><![CDATA[<p><strong>Build delays and degraded Vercel Dashboard performance</strong></p><p>Impact: minor · Status: resolved · Affects: Dashboard, Builds · Duration: 25 min · Opened: Thu, 05 Nov 2026 18:25:10 +0000</p><p>This incident has been resolved. The build backlog has been cleared.</p><p><a href="https://stspg.io/y6fmg7s9m5t2">Vercel status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
