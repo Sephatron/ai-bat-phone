@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten is fine again]]></title>
+<link>https://stspg.io/1schy3g4w0wf</link>
+<guid isPermaLink='false'>baseten:hmyts6546vzf:resolved:resolved:minor:2026-11-18T16:05:40.905000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 16:15:13 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors on GLM-5.3-Flash on Model APIs</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 27 min · Opened: Wed, 18 Nov 2026 15:38:17 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1schy3g4w0wf">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Baseten]]></title>
 <link>https://stspg.io/1schy3g4w0wf</link>
 <guid isPermaLink='false'>baseten:hmyts6546vzf:opened:investigating:minor:2026-11-18T15:38:17.863000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 06 Nov 2026 14:00:49 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Grok Bot is currently degraded</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 06 Nov 2026 13:57:57 +0000</p><p>Grok Bot is currently degraded, and our team is investigating.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_9a160a3b12ec99d1">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593</link>
-<guid isPermaLink='false'>cursor:ps_183910c201a91593:resolved:resolved:minor:2026-11-06T12:03:16+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 12:15:49 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Computer use in Grok Bot fails for users in a few regions.</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 13 min · Opened: Fri, 06 Nov 2026 11:49:46 +0000</p><p>The issue is resolved and computer use in Grok Bot is working normally again for all users.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

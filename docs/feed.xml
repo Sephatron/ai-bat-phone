@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Baseten is fine again]]></title>
+<link>https://stspg.io/1schy3g4w0wf</link>
+<guid isPermaLink='false'>baseten:hmyts6546vzf:resolved:resolved:minor:2026-11-18T16:05:40.905000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 16:15:13 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors on GLM-5.3-Flash on Model APIs</strong></p><p>Impact: minor · Status: resolved · Affects: Model APIs · Duration: 27 min · Opened: Wed, 18 Nov 2026 15:38:17 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1schy3g4w0wf">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Minor grumbles from Baseten]]></title>
 <link>https://stspg.io/1schy3g4w0wf</link>
 <guid isPermaLink='false'>baseten:hmyts6546vzf:opened:investigating:minor:2026-11-18T15:38:17.863000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 06 Nov 2026 18:30:48 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service degradation</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 30 Oct 2026 20:51:04 +0000</p><p>Dedicated deployments, training, and batch inference services are restored. For questions or any issues, please contact your account team or support@fireworks.ai.</p><p><a href="https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://status.x.ai/history?incident=grok-bot%2Fps_9a160a3b12ec99d1</link>
-<guid isPermaLink='false'>cursor:ps_9a160a3b12ec99d1:resolved:resolved:minor:2026-11-06T15:15:07+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 15:15:48 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Grok Bot is currently degraded</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 17m · Opened: Fri, 06 Nov 2026 13:57:57 +0000</p><p>This issue has been resolved.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_9a160a3b12ec99d1">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

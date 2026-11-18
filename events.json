@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "27 min",
+  "headline": "🟢 Baseten is fine again",
+  "id": "baseten:hmyts6546vzf:resolved:resolved:minor:2026-11-18T16:05:40.905000+00:00",
+  "impact": "minor",
+  "incident_id": "hmyts6546vzf",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-18T16:15:13.014579+00:00",
+  "started_at": "2026-11-18T15:38:17.753000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors on GLM-5.3-Flash on Model APIs",
+  "transition": "resolved",
+  "url": "https://stspg.io/1schy3g4w0wf"
+ },
+ {
   "body": "We are currently investigating this issue.",
   "components": [
    "Model APIs"
@@ -7766,25 +7786,5 @@
   "title": "AI Bat Phone cannot read Windsurf's status page",
   "transition": "unreachable",
   "url": "https://status.windsurf.com"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "28 min",
-  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
-  "id": "moonshot:jhxzhgblv183:resolved:resolved:critical:2026-10-28T12:37:48.878000+00:00",
-  "impact": "critical",
-  "incident_id": "jhxzhgblv183",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-28T12:45:56.485550+00:00",
-  "started_at": "2026-10-28T12:09:48.817000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 TTFT 响应延迟升高",
-  "transition": "resolved",
-  "url": "https://stspg.io/rxvmygw9cpzj"
  }
 ]

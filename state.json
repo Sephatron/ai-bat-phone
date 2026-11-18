@@ -887,8 +887,8 @@
   "baseten:hmyts6546vzf": {
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-18T15:38:17.863000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-18T16:05:40.905000+00:00"
   },
   "baseten:hpfyy75qvv4x": {
    "impact": "minor",
