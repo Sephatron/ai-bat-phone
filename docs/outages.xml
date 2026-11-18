@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Minor grumbles from Baseten]]></title>
+<link>https://stspg.io/1schy3g4w0wf</link>
+<guid isPermaLink='false'>baseten:hmyts6546vzf:opened:investigating:minor:2026-11-18T15:38:17.863000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 15:45:19 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Elevated errors on GLM-5.3-Flash on Model APIs</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Wed, 18 Nov 2026 15:38:17 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/1schy3g4w0wf">Baseten status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 ElevenLabs is a bit under the weather]]></title>
+<link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
+<guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:opened:investigating:minor:2026-11-18T15:41:47+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 15:45:19 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased latency and API errors</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 18 Nov 2026 15:34:42 +0000</p><p>We’re now seeing that some agent conversations are impacted by this issue. We’re still investigating this and will continue to post updates as they become available.</p><p><a href="https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
 <link>https://status.openai.com/incidents/01M7Q99XRGP8T4DWJN8DSZXA1X</link>
 <guid isPermaLink='false'>openai:01M7Q99XRGP8T4DWJN8DSZXA1X:resolved:resolved:minor:2026-11-18T14:13:46+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 06 Nov 2026 12:15:49 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Computer use in Grok Bot fails for users in a few regions.</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 13 min · Opened: Fri, 06 Nov 2026 11:49:46 +0000</p><p>The issue is resolved and computer use in Grok Bot is working normally again for all users.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
-<link>https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593</link>
-<guid isPermaLink='false'>cursor:ps_183910c201a91593:opened:investigating:minor:2026-11-06T11:49:46+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 12:00:49 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Computer use in Grok Bot fails for users in a few regions.</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 06 Nov 2026 11:49:46 +0000</p><p>We've identified an issue where computer use in Grok Bot is failing for users in some regions. Other Grok Bot features are working normally. Our team is working on a fix, and we'll share an update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R</link>
-<guid isPermaLink='false'>openai:01M6P50GPP1V98EF8MJ9SH393R:resolved:resolved:minor:2026-11-06T04:31:37+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 04:45:47 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>ChatGPT Work and Dots Errors</strong></p><p>Impact: minor · Status: resolved · Duration: 13h 06m · Opened: Thu, 05 Nov 2026 15:25:03 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6P50GPP1V98EF8MJ9SH393R">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

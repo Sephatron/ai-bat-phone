@@ -884,6 +884,12 @@
    "status": "scheduled",
    "updated_at": "2026-09-24T15:11:04.855000+00:00"
   },
+  "baseten:hmyts6546vzf": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-18T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-18T15:38:17.863000+00:00"
+  },
   "baseten:hpfyy75qvv4x": {
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
@@ -2941,6 +2947,12 @@
    "last_seen_at": "2026-11-18T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-11-11T03:03:51+00:00"
+  },
+  "elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-18T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-18T15:41:47+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
