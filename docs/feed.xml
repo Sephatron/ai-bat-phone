@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M7Q93C61EAHQE5WSZAP1N053</link>
+<guid isPermaLink='false'>fireworks:01M7Q93C61EAHQE5WSZAP1N053:resolved:resolved:minor:2026-11-18T12:30:43+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 12:45:12 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 19 min · Opened: Wed, 18 Nov 2026 12:11:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7Q93C61EAHQE5WSZAP1N053">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI knows what it did]]></title>
 <link>https://status.openai.com/incidents/01M7Q99XRGP8T4DWJN8DSZXA1X</link>
 <guid isPermaLink='false'>openai:01M7Q99XRGP8T4DWJN8DSZXA1X:opened:identified:minor:2026-11-18T12:15:02+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 06 Nov 2026 12:15:49 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Computer use in Grok Bot fails for users in a few regions.</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 13 min · Opened: Fri, 06 Nov 2026 11:49:46 +0000</p><p>The issue is resolved and computer use in Grok Bot is working normally again for all users.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
-<link>https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593</link>
-<guid isPermaLink='false'>cursor:ps_183910c201a91593:opened:investigating:minor:2026-11-06T11:49:46+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 12:00:49 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Computer use in Grok Bot fails for users in a few regions.</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Fri, 06 Nov 2026 11:49:46 +0000</p><p>We've identified an issue where computer use in Grok Bot is failing for users in some regions. Other Grok Bot features are working normally. Our team is working on a fix, and we'll share an update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_183910c201a91593">Cursor status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
