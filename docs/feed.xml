@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Replit has applied a fix and is holding its breath]]></title>
+<link>https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2</link>
+<guid isPermaLink='false'>replit:e88d92af-2c74-4b59-b252-6cfcc723e4b2:progress:monitoring:minor:2026-11-18T17:30:40.853534+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 17:30:40 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Voice input degraded</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 18 Nov 2026 17:29:35 +0000</p><p>[Monitoring] Voice input is working again for most users. We’re watching it while our provider finishes their fix. Next update by 10:00 AM PT.</p><p><a href="https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2">Replit status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D</link>
+<guid isPermaLink='false'>openai:01M7N9VNR6X5SEC90M1YCDB36D:resolved:resolved:minor:2026-11-18T17:15:46+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 17:30:40 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Costs API data is delayed</strong></p><p>Impact: minor · Status: resolved · Duration: 23h 29m · Opened: Tue, 17 Nov 2026 17:46:15 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
 <link>https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2</link>
 <guid isPermaLink='false'>replit:e88d92af-2c74-4b59-b252-6cfcc723e4b2:opened:identified:minor:2026-11-18T17:00:43.279305+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Sat, 07 Nov 2026 00:30:50 +0000</pubDate>
 <category>Lovable</category>
 <description><![CDATA[<p><strong>Degraded Lovable Cloud project creation</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 07 Nov 2026 00:18:16 +0000</p><p>Some users may experience errors when creating new Lovable Cloud projects. Our vendor is experiencing degraded performance in its US-West-2 region. We are investigating the impact on project creation.</p><p><a href="https://status.lovable.dev/incidents/01M6SNXJCK95HGXBSNKM8ZQSX4">Lovable status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from Fireworks AI]]></title>
-<link>https://status.fireworks.ai/incidents/01M6SNH2QWCGH6ADM1CNTHPBQ9</link>
-<guid isPermaLink='false'>fireworks:01M6SNH2QWCGH6ADM1CNTHPBQ9:opened:investigating:minor:2026-11-07T00:11:26+00:00</guid>
-<pubDate>Sat, 07 Nov 2026 00:15:48 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Sat, 07 Nov 2026 00:11:26 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M6SNH2QWCGH6ADM1CNTHPBQ9">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7</link>
-<guid isPermaLink='false'>openai:01M6S2FV5TZWQ753NHRB7BF5K7:opened:identified:none:2026-11-06T18:38:43+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 18:45:50 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated error rates with Brex Cards</strong></p><p>Impact: unclassified · Status: identified · Opened: Fri, 06 Nov 2026 18:38:43 +0000</p><p>**Investigating** — We’re seeing payment declines on some U.S. business Mastercards, including some Brex cards. For API customers, this can prevent automatic recharges and one-time credit purchases. If your prepaid balance runs out, your API requests may fail. If you use one of these cards, we recommend adding a card from a different issuer before your next payment, even if you haven’t seen a decline. If an API credit purchase has already failed, use the new card to retry the purchase. We’re working with our payment partners and will share updates here.</p><p><a href="https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

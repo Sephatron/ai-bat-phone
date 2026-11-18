@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Replit has applied a fix and is holding its breath]]></title>
+<link>https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2</link>
+<guid isPermaLink='false'>replit:e88d92af-2c74-4b59-b252-6cfcc723e4b2:progress:monitoring:minor:2026-11-18T17:30:40.853534+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 17:30:40 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Voice input degraded</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 18 Nov 2026 17:29:35 +0000</p><p>[Monitoring] Voice input is working again for most users. We’re watching it while our provider finishes their fix. Next update by 10:00 AM PT.</p><p><a href="https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2">Replit status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
+<link>https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D</link>
+<guid isPermaLink='false'>openai:01M7N9VNR6X5SEC90M1YCDB36D:resolved:resolved:minor:2026-11-18T17:15:46+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 17:30:40 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Costs API data is delayed</strong></p><p>Impact: minor · Status: resolved · Duration: 23h 29m · Opened: Tue, 17 Nov 2026 17:46:15 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
 <link>https://status.replit.com/incidents/e88d92af-2c74-4b59-b252-6cfcc723e4b2</link>
 <guid isPermaLink='false'>replit:e88d92af-2c74-4b59-b252-6cfcc723e4b2:opened:identified:minor:2026-11-18T17:00:43.279305+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 06 Nov 2026 18:30:48 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service degradation</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Fri, 30 Oct 2026 20:51:04 +0000</p><p>Dedicated deployments, training, and batch inference services are restored. For questions or any issues, please contact your account team or support@fireworks.ai.</p><p><a href="https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Cursor has stopped wobbling]]></title>
-<link>https://status.x.ai/history?incident=grok-bot%2Fps_9a160a3b12ec99d1</link>
-<guid isPermaLink='false'>cursor:ps_9a160a3b12ec99d1:resolved:resolved:minor:2026-11-06T15:15:07+00:00</guid>
-<pubDate>Fri, 06 Nov 2026 15:15:48 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Grok Bot is currently degraded</strong></p><p>Impact: minor · Status: resolved · Affects: Grok Bot · Duration: 1h 17m · Opened: Fri, 06 Nov 2026 13:57:57 +0000</p><p>This issue has been resolved.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_9a160a3b12ec99d1">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-11-06</guid>
-<pubDate>Fri, 06 Nov 2026 14:45:46 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
