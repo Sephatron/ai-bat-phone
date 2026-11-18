@@ -1,5 +1,23 @@
 [
  {
+  "body": "Systems are now operational across all products. We will post a root cause analysis after an extensive review.",
+  "components": [],
+  "duration": "5h 28m",
+  "headline": "🟢 ElevenLabs has stopped wobbling",
+  "id": "elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:resolved:resolved:minor:2026-11-18T21:02:57+00:00",
+  "impact": "minor",
+  "incident_id": "01M7QMQH05JXV3SKSM1H6PJZD2",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-18T21:15:39.952139+00:00",
+  "started_at": "2026-11-18T15:34:42+00:00",
+  "status": "resolved",
+  "title": "Increased latency and API errors",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2"
+ },
+ {
   "body": "The issue has been identified and a fix is being implemented.",
   "components": [
    "AI Gateway",
@@ -7765,27 +7783,5 @@
   "title": "Multiple services degraded",
   "transition": "resolved",
   "url": "https://status.x.ai/history?incident=automations%2Fps_d25569b21cabd283"
- },
- {
-  "body": "We are investigating service degradation for multiple services. Users may see failures across Cloud Agents, Grok Bot, and Origin. Apologies for the trouble.",
-  "components": [
-   "Cloud Agents",
-   "Grok Bot",
-   "Origin"
-  ],
-  "duration": "",
-  "headline": "🔴 Cursor is out. Go and look at a tree.",
-  "id": "cursor:ps_d25569b21cabd283:opened:investigating:major:2026-10-28T21:15:10+00:00",
-  "impact": "major",
-  "incident_id": "ps_d25569b21cabd283",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-28T21:15:55.831342+00:00",
-  "started_at": "2026-10-28T21:15:10+00:00",
-  "status": "investigating",
-  "title": "Multiple services degraded: Cloud Agents, Grok Bot, Origin",
-  "transition": "opened",
-  "url": "https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283"
  }
 ]

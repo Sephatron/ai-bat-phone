@@ -985,13 +985,5 @@
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Multiple services degraded</strong></p><p>Impact: major · Status: resolved · Affects: Automations, BugBot, Cloud Agents, Grok Bot, Origin · Duration: 1h 58m · Opened: Wed, 28 Oct 2026 21:15:10 +0000</p><p>This incident has been resolved. All services have returned to normal operation.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_d25569b21cabd283">Cursor status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 Cursor is out. Go and look at a tree.]]></title>
-<link>https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283</link>
-<guid isPermaLink='false'>cursor:ps_d25569b21cabd283:opened:investigating:major:2026-10-28T21:15:10+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 21:15:55 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Multiple services degraded: Cloud Agents, Grok Bot, Origin</strong></p><p>Impact: major · Status: investigating · Affects: Cloud Agents, Grok Bot, Origin · Opened: Wed, 28 Oct 2026 21:15:10 +0000</p><p>We are investigating service degradation for multiple services. Users may see failures across Cloud Agents, Grok Bot, and Origin. Apologies for the trouble.</p><p><a href="https://status.x.ai/history?incident=cloud-agents%2Fps_d25569b21cabd283">Cursor status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
