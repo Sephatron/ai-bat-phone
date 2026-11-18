@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/3sbmvyy2ctyx</link>
+<guid isPermaLink='false'>github:891rm8181xdf:opened:monitoring:minor:2026-11-18T09:13:22.435000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 09:15:15 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded Availability for MAI Code 2 Flash in Copilot</strong></p><p>Impact: minor · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Wed, 18 Nov 2026 09:00:12 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/3sbmvyy2ctyx">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Baseten is fine again]]></title>
 <link>https://stspg.io/jxl9hg90yg08</link>
 <guid isPermaLink='false'>baseten:g2fm66c8w70d:resolved:resolved:minor:2026-11-18T02:32:34.048000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 05 Nov 2026 23:45:47 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degraded performance for multiple GitHub services</strong></p><p>Impact: minor · Status: investigating · Affects: Actions, Pages · Opened: Thu, 05 Nov 2026 23:36:06 +0000</p><p>We are investigating reports of degraded performance for Actions and Pages</p><p><a href="https://stspg.io/s5bs6jn41fwh">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Baseten is sulking, mildly]]></title>
-<link>https://stspg.io/zfd8m82n5j8g</link>
-<guid isPermaLink='false'>baseten:syzkjznl2fxj:opened:investigating:minor:2026-11-05T21:35:45.934000+00:00</guid>
-<pubDate>Thu, 05 Nov 2026 21:45:48 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Elevated errors for Kimi-K3 on Model APIs. **Dedicated Inference is not affected**</strong></p><p>Impact: minor · Status: investigating · Affects: Model APIs · Opened: Thu, 05 Nov 2026 21:35:45 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/zfd8m82n5j8g">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
