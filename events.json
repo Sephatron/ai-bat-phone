@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users are currently having problems with generating images and videos as well as file and document storage in their projects. The agent may fail generating these assets or work without access to uploaded documents. Our team is investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable is having a wobble",
+  "id": "lovable:01M7QX08RHE6NTPPEPPAHA714J:opened:investigating:minor:2026-11-18T17:59:17+00:00",
+  "impact": "minor",
+  "incident_id": "01M7QX08RHE6NTPPEPPAHA714J",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-18T18:00:49.230180+00:00",
+  "started_at": "2026-11-18T17:59:17+00:00",
+  "status": "investigating",
+  "title": "Issues with image and video generation and file storage",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M7QX08RHE6NTPPEPPAHA714J"
+ },
+ {
   "body": "[Monitoring] Voice input is working again for most users. We’re watching it while our provider finishes their fix. Next update by 10:00 AM PT.",
   "components": [],
   "duration": "",
@@ -7768,23 +7786,5 @@
   "title": "Disruption with some Copilot services",
   "transition": "resolved",
   "url": "https://stspg.io/bwcyq078jzms"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is a bit under the weather",
-  "id": "fireworks:01M61GWFB0MBR778JRMPDGYBNV:opened:investigating:minor:2026-10-28T15:08:30+00:00",
-  "impact": "minor",
-  "incident_id": "01M61GWFB0MBR778JRMPDGYBNV",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-28T15:15:55.057435+00:00",
-  "started_at": "2026-10-28T15:08:30+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3 Flash",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M61GWFB0MBR778JRMPDGYBNV"
  }
 ]
