@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Model APIs"
+  ],
+  "duration": "38 min",
+  "headline": "🟢 Baseten is fine again",
+  "id": "baseten:g2fm66c8w70d:resolved:resolved:minor:2026-11-18T02:32:34.048000+00:00",
+  "impact": "minor",
+  "incident_id": "g2fm66c8w70d",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-18T02:45:18.203369+00:00",
+  "started_at": "2026-11-18T01:54:10.716000+00:00",
+  "status": "resolved",
+  "title": "Elevated TTFT on Kimi K3 on MAPIs",
+  "transition": "resolved",
+  "url": "https://stspg.io/jxl9hg90yg08"
+ },
+ {
   "body": "A fix has been implemented and we are monitoring the results.",
   "components": [
    "Model APIs"
@@ -7774,26 +7794,5 @@
   "title": "Elevated errors affecting the Gmail connector",
   "transition": "resolved",
   "url": "https://stspg.io/j86c100s8tqm"
- },
- {
-  "body": "The scheduled maintenance has been completed.",
-  "components": [
-   "Model Management API",
-   "Web Application"
-  ],
-  "duration": "1d 6h",
-  "headline": "🔧 Baseten has put the tools away",
-  "id": "baseten:5m8bp9gdvlqz:resolved:completed:maintenance:2026-10-28T04:07:36.964000+00:00",
-  "impact": "maintenance",
-  "incident_id": "5m8bp9gdvlqz",
-  "kind": "maintenance",
-  "provider_key": "baseten",
-  "provider_name": "Baseten",
-  "published_at": "2026-10-28T04:15:16.011399+00:00",
-  "started_at": "2026-10-26T22:06:05.631000+00:00",
-  "status": "completed",
-  "title": "Database Upgrade. Inference will not be affected",
-  "transition": "resolved",
-  "url": "https://stspg.io/0rvb1mr214kw"
  }
 ]
