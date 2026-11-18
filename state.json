@@ -926,6 +926,12 @@
    "status": "resolved",
    "updated_at": "2026-10-07T04:20:24.961000+00:00"
   },
+  "baseten:l383p20q1zhp": {
+   "impact": "major",
+   "last_seen_at": "2026-11-18T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-18T18:08:36.678000+00:00"
+  },
   "baseten:lzxw0ljfd5dr": {
    "impact": "minor",
    "last_seen_at": "2026-09-15T00:00:00+00:00",
@@ -7368,7 +7374,7 @@
    "impact": "minor",
    "last_seen_at": "2026-11-18T00:00:00+00:00",
    "status": "monitoring",
-   "updated_at": "2026-11-18T17:29:35+00:00"
+   "updated_at": "2026-11-18T18:06:55+00:00"
   },
   "replit:edf53552-3bc7-4cc7-a8a8-75a29fba548e": {
    "impact": "minor",

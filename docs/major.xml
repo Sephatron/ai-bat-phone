@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Baseten is out. Go and look at a tree.]]></title>
+<link>https://stspg.io/fk7rmpffjd1z</link>
+<guid isPermaLink='false'>baseten:l383p20q1zhp:opened:investigating:major:2026-11-18T18:08:36.678000+00:00</guid>
+<pubDate>Wed, 18 Nov 2026 18:15:40 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>Outage on app.baseten.co. Inference is not affected</strong></p><p>Impact: major · Status: investigating · Affects: Model Management API, Web Application · Opened: Wed, 18 Nov 2026 18:08:36 +0000</p><p>We are currently investigating this issue.</p><p><a href="https://stspg.io/fk7rmpffjd1z">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/3tl6h35nnzwm</link>
 <guid isPermaLink='false'>anthropic:1lglzf469c0z:resolved:resolved:major:2026-11-17T21:51:09.296000+00:00</guid>
@@ -992,14 +1000,6 @@
 <pubDate>Wed, 28 Oct 2026 16:00:55 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read Baseten's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.baseten.co/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.baseten.co">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is upright again. That took 1h 15m.]]></title>
-<link>https://stspg.io/bwcyq078jzms</link>
-<guid isPermaLink='false'>github:l7ycmglmykgg:resolved:resolved:critical:2026-10-28T15:28:19.266000+00:00</guid>
-<pubDate>Wed, 28 Oct 2026 15:30:55 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with some Copilot services</strong></p><p>Impact: critical · Status: resolved · Affects: Copilot · Duration: 1h 15m · Opened: Wed, 28 Oct 2026 14:12:53 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/bwcyq078jzms">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

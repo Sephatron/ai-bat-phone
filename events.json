@@ -1,5 +1,26 @@
 [
  {
+  "body": "We are currently investigating this issue.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "",
+  "headline": "🔴 Baseten is out. Go and look at a tree.",
+  "id": "baseten:l383p20q1zhp:opened:investigating:major:2026-11-18T18:08:36.678000+00:00",
+  "impact": "major",
+  "incident_id": "l383p20q1zhp",
+  "kind": "incident",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-18T18:15:40.001723+00:00",
+  "started_at": "2026-11-18T18:08:36.532000+00:00",
+  "status": "investigating",
+  "title": "Outage on app.baseten.co. Inference is not affected",
+  "transition": "opened",
+  "url": "https://stspg.io/fk7rmpffjd1z"
+ },
+ {
   "body": "Some users are currently having problems with generating images and videos as well as file and document storage in their projects. The agent may fail generating these assets or work without access to uploaded documents. Our team is investigating.",
   "components": [],
   "duration": "",
@@ -7766,25 +7787,5 @@
   "title": "Service Degradation for GLM 5.3 Flash",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M61GWFB0MBR778JRMPDGYBNV"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Copilot"
-  ],
-  "duration": "1h 15m",
-  "headline": "🟢 GitHub is upright again. That took 1h 15m.",
-  "id": "github:l7ycmglmykgg:resolved:resolved:critical:2026-10-28T15:28:19.266000+00:00",
-  "impact": "critical",
-  "incident_id": "l7ycmglmykgg",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-28T15:30:55.005719+00:00",
-  "started_at": "2026-10-28T14:12:53.814000+00:00",
-  "status": "resolved",
-  "title": "Disruption with some Copilot services",
-  "transition": "resolved",
-  "url": "https://stspg.io/bwcyq078jzms"
  }
 ]
