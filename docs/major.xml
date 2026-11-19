@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
+<guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:progress:monitoring:major:2026-11-19T16:12:42+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 16:15:40 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased Latency and Errors</strong></p><p>Impact: major · Status: monitoring · Opened: Wed, 18 Nov 2026 15:34:42 +0000</p><p>We’ve applied a fix for the agent conversation initiation failures and we’re currently monitoring to confirm full resolution. These initiation errors stopped at 15:20 UTC. These failures had no impact on other products.</p><p><a href="https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 OpenAI has downed tools — and so, probably, have you]]></title>
+<link>https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</link>
+<guid isPermaLink='false'>openai:01M7T8MRF9SDBDNQ62Z6V156ZZ:opened:investigating:major:2026-11-19T16:01:12+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 16:15:40 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for gpt-6 Luna API requests</strong></p><p>Impact: major · Status: investigating · Opened: Thu, 19 Nov 2026 16:01:12 +0000</p><p>We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔁 Put the tools back down: ElevenLabs has relapsed]]></title>
 <link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
 <guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:reopened:investigating:major:2026-11-19T15:11:36+00:00</guid>

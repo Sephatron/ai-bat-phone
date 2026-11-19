@@ -1,5 +1,61 @@
 [
  {
+  "body": "We’ve applied a fix for the agent conversation initiation failures and we’re currently monitoring to confirm full resolution. These initiation errors stopped at 15:20 UTC. These failures had no impact on other products.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs is on the mend. Don't get comfortable yet.",
+  "id": "elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:progress:monitoring:major:2026-11-19T16:12:42+00:00",
+  "impact": "major",
+  "incident_id": "01M7QMQH05JXV3SKSM1H6PJZD2",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-19T16:15:40.020500+00:00",
+  "started_at": "2026-11-18T15:34:42+00:00",
+  "status": "monitoring",
+  "title": "Increased Latency and Errors",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2"
+ },
+ {
+  "body": "We are investigating a service degradation affecting the Gemini 4 Carbon model.",
+  "components": [
+   "Third-party models"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is a bit under the weather",
+  "id": "cursor:ps_c953d2fd3da8691b:opened:investigating:none:2026-11-19T16:01:13+00:00",
+  "impact": "none",
+  "incident_id": "ps_c953d2fd3da8691b",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-19T16:15:40.020500+00:00",
+  "started_at": "2026-11-19T16:01:13+00:00",
+  "status": "investigating",
+  "title": "Degraded Gemini 4 Carbon",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=third-party-models%2Fps_c953d2fd3da8691b"
+ },
+ {
+  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+  "components": [],
+  "duration": "",
+  "headline": "🔴 OpenAI has downed tools — and so, probably, have you",
+  "id": "openai:01M7T8MRF9SDBDNQ62Z6V156ZZ:opened:investigating:major:2026-11-19T16:01:12+00:00",
+  "impact": "major",
+  "incident_id": "01M7T8MRF9SDBDNQ62Z6V156ZZ",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-19T16:15:40.020500+00:00",
+  "started_at": "2026-11-19T16:01:12+00:00",
+  "status": "investigating",
+  "title": "Elevated error rates for gpt-6 Luna API requests",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ"
+ },
+ {
   "body": "We are experiencing degraded availability for the GPT-6 Luna model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Fusion' to continue using Copilot.",
   "components": [
    "Copilot AI Model Providers"
@@ -7734,63 +7790,5 @@
   "title": "ElevenCreative - Image & Video - Degraded performance",
   "transition": "progress",
   "url": "https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D"
- },
- {
-  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M665N15B8YK2VT3T27S9NQQX:opened:investigating:minor:2026-10-30T10:28:24+00:00",
-  "impact": "minor",
-  "incident_id": "01M665N15B8YK2VT3T27S9NQQX",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-30T10:30:19.832507+00:00",
-  "started_at": "2026-10-30T10:28:24+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M665N15B8YK2VT3T27S9NQQX"
- },
- {
-  "body": "We are investigating elevated latency and timeouts affecting content generations in ElevenCreative. Some generations may get stuck or fail to complete. Our team is actively looking into the cause and will post updates as we learn more.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 ElevenLabs is sulking, mildly",
-  "id": "elevenlabs:01M661PASVTZR2HZ6B8CY5XB3D:opened:investigating:minor:2026-10-30T09:19:13+00:00",
-  "impact": "minor",
-  "incident_id": "01M661PASVTZR2HZ6B8CY5XB3D",
-  "kind": "incident",
-  "provider_key": "elevenlabs",
-  "provider_name": "ElevenLabs",
-  "published_at": "2026-10-30T09:30:19.766354+00:00",
-  "started_at": "2026-10-30T09:19:13+00:00",
-  "status": "investigating",
-  "title": "ElevenCreative - Content generations - degraded performance",
-  "transition": "opened",
-  "url": "https://status.elevenlabs.io/incidents/01M661PASVTZR2HZ6B8CY5XB3D"
- },
- {
-  "body": "This incident has been resolved. Cloud Agent services have returned to normal operation.",
-  "components": [
-   "Automations",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "7h 41m",
-  "headline": "🟢 Cursor sorted itself out after 7h 41m",
-  "id": "cursor:ps_35b661ea1cde5cbc:resolved:resolved:minor:2026-10-30T07:11:00+00:00",
-  "impact": "minor",
-  "incident_id": "ps_35b661ea1cde5cbc",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-30T07:15:18.681918+00:00",
-  "started_at": "2026-10-29T23:29:27+00:00",
-  "status": "resolved",
-  "title": "Cloud Agent Degradation",
-  "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc"
  }
 ]
