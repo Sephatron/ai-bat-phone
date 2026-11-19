@@ -1073,13 +1073,5 @@
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions, Pages, and Webhooks</strong></p><p>Impact: major · Status: investigating · Affects: Webhooks, Actions, Pages · Opened: Fri, 30 Oct 2026 17:50:54 +0000</p><p>We continue to investigate delays affecting Actions workflows, Pages deployments, and webhook events, along with errors affecting code search and live updates. We have taken mitigation steps. Actions processing and Pages deployments are showing signs of recovery, but impact has not fully resolved. We are monitoring recovery and investigating the underlying cause.</p><p><a href="https://stspg.io/5cd2m4n59spv">GitHub status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 All clear from GitHub after 31 min]]></title>
-<link>https://stspg.io/6p81rf34z4nc</link>
-<guid isPermaLink='false'>github:nxy2l0ssxm10:resolved:resolved:critical:2026-10-30T15:02:51.029000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 15:15:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: resolved · Affects: Issues, Pages · Duration: 31 min · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
-</item>
 </channel>
 </rss>

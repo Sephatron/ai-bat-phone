@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
+<link>https://stspg.io/pvjz2g01trc7</link>
+<guid isPermaLink='false'>github:m310qbkfm3ww:progress:monitoring:minor:2026-11-19T17:43:44.774000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 17:45:42 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 19 Nov 2026 17:06:26 +0000</p><p>Starting around 18:02 UTC on November 5, GitHub web sessions stopped being renewed based on recent activity, so users were signed out when their sessions expired due to inactivity. These sign-outs were caused by a bug in session renewal, not due to a security incident. We believe we fixed the bug at 05:23 UTC on November 19, and sessions created since then should renew as usual. We’re continuing to monitor the situation. If you had an inactive session from that period, you may still find that you’re signed out when you return to GitHub. If that happens, all you need to do is sign back in.</p><p><a href="https://stspg.io/pvjz2g01trc7">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from ElevenLabs after 1d 1h]]></title>
 <link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
 <guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:resolved:resolved:major:2026-11-19T17:02:01+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 09 Nov 2026 18:30:19 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated ChatGPT Conversation Errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 09 Nov 2026 18:16:30 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 GitHub is out. Go and look at a tree.]]></title>
-<link>https://stspg.io/7yw63xl9ztrv</link>
-<guid isPermaLink='false'>github:tp8cghg7tlc4:opened:investigating:critical:2026-11-09T18:24:51.610000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 18:30:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions and Checks API</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 18:12:37 +0000</p><p>We're investigating elevated errors affecting GitHub Actions and the Checks API. We'll share another update as we learn more.</p><p><a href="https://stspg.io/7yw63xl9ztrv">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
