@@ -1,5 +1,28 @@
 [
  {
+  "body": "We are investigating elevated errors on requests to Claude Mythos 5.2 and Claude Fable 5.2. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "🔴 Claude has downed tools — and so, probably, have you",
+  "id": "anthropic:c1kmrkmv5f3d:opened:investigating:major:2026-11-19T09:10:25.015000+00:00",
+  "impact": "major",
+  "incident_id": "c1kmrkmv5f3d",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-19T09:15:48.238707+00:00",
+  "started_at": "2026-11-19T09:10:24.807000+00:00",
+  "status": "investigating",
+  "title": "Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2",
+  "transition": "opened",
+  "url": "https://stspg.io/nlb5fptv28h5"
+ },
+ {
   "body": "Service is restored",
   "components": [],
   "duration": "3h 04m",
@@ -7757,30 +7780,5 @@
   "title": "Disruption with Copilot Cloud services",
   "transition": "opened",
   "url": "https://stspg.io/22p3vp78z20q"
- },
- {
-  "body": "This incident has been resolved. Cloud Agents and Origin have returned to normal performance.",
-  "components": [
-   "Automations",
-   "BugBot",
-   "Cloud Agents",
-   "Grok Bot",
-   "Origin",
-   "Review Agents"
-  ],
-  "duration": "16 min",
-  "headline": "🟢 Cursor is fine again",
-  "id": "cursor:ps_95a4f0b2be913452:resolved:resolved:minor:2026-10-29T09:18:22+00:00",
-  "impact": "minor",
-  "incident_id": "ps_95a4f0b2be913452",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-29T09:30:19.228548+00:00",
-  "started_at": "2026-10-29T09:01:50+00:00",
-  "status": "resolved",
-  "title": "Degraded performance — Origin and Cloud Agents",
-  "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452"
  }
 ]
