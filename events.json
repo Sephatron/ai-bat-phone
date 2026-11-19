@@ -1,5 +1,65 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "API Service"
+  ],
+  "duration": "20 min",
+  "headline": "🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.",
+  "id": "moonshot:73z033sjrlnd:resolved:resolved:critical:2026-11-19T10:45:14.836000+00:00",
+  "impact": "critical",
+  "incident_id": "73z033sjrlnd",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-19T10:45:40.865684+00:00",
+  "started_at": "2026-11-19T10:25:14.424000+00:00",
+  "status": "resolved",
+  "title": "API 服务可用性低",
+  "transition": "resolved",
+  "url": "https://stspg.io/x57vm1tz1q8k"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "API Service"
+  ],
+  "duration": "1h 20m",
+  "headline": "🟢 All clear from Moonshot AI (Kimi) after 1h 20m",
+  "id": "moonshot:sz25kxdwy6rs:resolved:resolved:critical:2026-11-19T10:45:14.497000+00:00",
+  "impact": "critical",
+  "incident_id": "sz25kxdwy6rs",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-19T10:45:40.865684+00:00",
+  "started_at": "2026-11-19T09:25:13.773000+00:00",
+  "status": "resolved",
+  "title": "API 服务可用性低",
+  "transition": "resolved",
+  "url": "https://stspg.io/cc5vt1mcx7cz"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Sign In / Sign Up"
+  ],
+  "duration": "12 min",
+  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
+  "id": "moonshot:t46qb2qdk941:resolved:resolved:critical:2026-11-19T10:41:16.676000+00:00",
+  "impact": "critical",
+  "incident_id": "t46qb2qdk941",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-19T10:45:40.865684+00:00",
+  "started_at": "2026-11-19T10:28:16.965000+00:00",
+  "status": "resolved",
+  "title": "google登录异常",
+  "transition": "resolved",
+  "url": "https://stspg.io/4zt7grpf4jc7"
+ },
+ {
   "body": "google登录活跃度异常",
   "components": [
    "Sign In / Sign Up"
@@ -7736,65 +7796,5 @@
   "title": "Auto Review Degradation",
   "transition": "opened",
   "url": "https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4"
- },
- {
-  "body": "We are investigation a degradation to Cloud Agents",
-  "components": [
-   "Automations",
-   "Cloud Agents",
-   "IDE"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is having a wobble",
-  "id": "cursor:ps_35b661ea1cde5cbc:opened:investigating:minor:2026-10-29T23:29:27+00:00",
-  "impact": "minor",
-  "incident_id": "ps_35b661ea1cde5cbc",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-29T23:30:18.098116+00:00",
-  "started_at": "2026-10-29T23:29:27+00:00",
-  "status": "investigating",
-  "title": "Cloud Agent Degradation",
-  "transition": "opened",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_35b661ea1cde5cbc"
- },
- {
-  "body": "We are investigating a service degradation with VS Code extensions",
-  "components": [
-   "IDE"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is a bit under the weather",
-  "id": "cursor:ps_ad31c985bfc193b9:opened:investigating:minor:2026-10-29T21:38:10+00:00",
-  "impact": "minor",
-  "incident_id": "ps_ad31c985bfc193b9",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-29T21:45:20.036630+00:00",
-  "started_at": "2026-10-29T21:38:10+00:00",
-  "status": "investigating",
-  "title": "Investigating Service Degradation with VS Code Extensions",
-  "transition": "opened",
-  "url": "https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9"
- },
- {
-  "body": "[Resolved] The issue affecting publishing for Enterprise apps hosted on Azure has been resolved. Affected users who have not yet republished can do so now. Impacted: Publishing",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit is fine again",
-  "id": "replit:2ce43e6f-b516-43fa-b65f-3bf6376082ca:resolved:resolved:minor:2026-10-29T14:45:19.674293+00:00",
-  "impact": "minor",
-  "incident_id": "2ce43e6f-b516-43fa-b65f-3bf6376082ca",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-29T14:45:19.674293+00:00",
-  "started_at": "2026-10-29T14:32:33+00:00",
-  "status": "resolved",
-  "title": "Publishing failures for Enterprise apps hosted on Azure",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca"
  }
 ]

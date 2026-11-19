@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/x57vm1tz1q8k</link>
+<guid isPermaLink='false'>moonshot:73z033sjrlnd:resolved:resolved:critical:2026-11-19T10:45:14.836000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 10:45:40 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>API 服务可用性低</strong></p><p>Impact: critical · Status: resolved · Affects: API Service · Duration: 20 min · Opened: Thu, 19 Nov 2026 10:25:14 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/x57vm1tz1q8k">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 All clear from Moonshot AI (Kimi) after 1h 20m]]></title>
+<link>https://stspg.io/cc5vt1mcx7cz</link>
+<guid isPermaLink='false'>moonshot:sz25kxdwy6rs:resolved:resolved:critical:2026-11-19T10:45:14.497000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 10:45:40 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>API 服务可用性低</strong></p><p>Impact: critical · Status: resolved · Affects: API Service · Duration: 1h 20m · Opened: Thu, 19 Nov 2026 09:25:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/cc5vt1mcx7cz">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/4zt7grpf4jc7</link>
+<guid isPermaLink='false'>moonshot:t46qb2qdk941:resolved:resolved:critical:2026-11-19T10:41:16.676000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 10:45:40 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>google登录异常</strong></p><p>Impact: critical · Status: resolved · Affects: Sign In / Sign Up · Duration: 12 min · Opened: Thu, 19 Nov 2026 10:28:16 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/4zt7grpf4jc7">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/4zt7grpf4jc7</link>
 <guid isPermaLink='false'>moonshot:t46qb2qdk941:opened:investigating:critical:2026-11-19T10:28:17.079000+00:00</guid>

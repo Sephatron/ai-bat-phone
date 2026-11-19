@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/x57vm1tz1q8k</link>
+<guid isPermaLink='false'>moonshot:73z033sjrlnd:resolved:resolved:critical:2026-11-19T10:45:14.836000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 10:45:40 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>API 服务可用性低</strong></p><p>Impact: critical · Status: resolved · Affects: API Service · Duration: 20 min · Opened: Thu, 19 Nov 2026 10:25:14 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/x57vm1tz1q8k">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 All clear from Moonshot AI (Kimi) after 1h 20m]]></title>
+<link>https://stspg.io/cc5vt1mcx7cz</link>
+<guid isPermaLink='false'>moonshot:sz25kxdwy6rs:resolved:resolved:critical:2026-11-19T10:45:14.497000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 10:45:40 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>API 服务可用性低</strong></p><p>Impact: critical · Status: resolved · Affects: API Service · Duration: 1h 20m · Opened: Thu, 19 Nov 2026 09:25:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/cc5vt1mcx7cz">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/4zt7grpf4jc7</link>
+<guid isPermaLink='false'>moonshot:t46qb2qdk941:resolved:resolved:critical:2026-11-19T10:41:16.676000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 10:45:40 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>google登录异常</strong></p><p>Impact: critical · Status: resolved · Affects: Sign In / Sign Up · Duration: 12 min · Opened: Thu, 19 Nov 2026 10:28:16 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/4zt7grpf4jc7">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
 <link>https://stspg.io/4zt7grpf4jc7</link>
 <guid isPermaLink='false'>moonshot:t46qb2qdk941:opened:investigating:critical:2026-11-19T10:28:17.079000+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Mon, 09 Nov 2026 01:15:48 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Chat is failing on mobile</strong></p><p>Impact: minor · Status: investigating · Opened: Mon, 09 Nov 2026 01:03:29 +0000</p><p>[Investigating] We are currently investigating this issue Impacted: Mobile App</p><p><a href="https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI has stopped wobbling]]></title>
-<link>https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5</link>
-<guid isPermaLink='false'>openai:01M6XVDCKRT3PSB0YP8J30GTD5:resolved:resolved:minor:2026-11-08T17:00:42+00:00</guid>
-<pubDate>Sun, 08 Nov 2026 17:00:48 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with image generation</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 49m · Opened: Sun, 08 Nov 2026 15:11:15 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5</link>
-<guid isPermaLink='false'>openai:01M6XVDCKRT3PSB0YP8J30GTD5:progress:monitoring:minor:2026-11-08T15:43:50+00:00</guid>
-<pubDate>Sun, 08 Nov 2026 15:45:48 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with image generation</strong></p><p>Impact: minor · Status: monitoring · Opened: Sun, 08 Nov 2026 15:11:15 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI knows what it did]]></title>
-<link>https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5</link>
-<guid isPermaLink='false'>openai:01M6XVDCKRT3PSB0YP8J30GTD5:opened:identified:minor:2026-11-08T15:11:15+00:00</guid>
-<pubDate>Sun, 08 Nov 2026 15:15:48 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Image generation experiencing elevated error rates</strong></p><p>Impact: minor · Status: identified · Opened: Sun, 08 Nov 2026 15:11:15 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
