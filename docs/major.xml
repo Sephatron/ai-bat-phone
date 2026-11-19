@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from ElevenLabs after 1d 1h]]></title>
+<link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
+<guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:resolved:resolved:major:2026-11-19T17:02:01+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 17:15:40 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased Latency and Errors</strong></p><p>Impact: major · Status: resolved · Duration: 1d 1h · Opened: Wed, 18 Nov 2026 15:34:42 +0000</p><p>After further monitoring, we can confirm that the root cause of the conversation initiation failures has been resolved. We will post a root cause analysis for the incident after further review.</p><p><a href="https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI lives. Pick your tools back up.]]></title>
 <link>https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</link>
 <guid isPermaLink='false'>openai:01M7T8MRF9SDBDNQ62Z6V156ZZ:resolved:resolved:major:2026-11-19T16:58:04+00:00</guid>
@@ -1072,22 +1080,6 @@
 <pubDate>Fri, 30 Oct 2026 15:15:20 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: resolved · Affects: Issues, Pages · Duration: 31 min · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/6p81rf34z4nc</link>
-<guid isPermaLink='false'>github:nxy2l0ssxm10:progress:monitoring:critical:2026-10-30T14:49:46.415000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: monitoring · Affects: Issues, Pages · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>The degradation affecting Pages has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
-<link>https://sephatron.github.io/ai-bat-phone</link>
-<guid isPermaLink='false'>meta:all:alive:2026-10-30</guid>
-<pubDate>Fri, 30 Oct 2026 14:45:19 +0000</pubDate>
-<category>AI Bat Phone</category>
-<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

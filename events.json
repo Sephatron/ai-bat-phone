@@ -1,5 +1,41 @@
 [
  {
+  "body": "After further monitoring, we can confirm that the root cause of the conversation initiation failures has been resolved. We will post a root cause analysis for the incident after further review.",
+  "components": [],
+  "duration": "1d 1h",
+  "headline": "🟢 All clear from ElevenLabs after 1d 1h",
+  "id": "elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:resolved:resolved:major:2026-11-19T17:02:01+00:00",
+  "impact": "major",
+  "incident_id": "01M7QMQH05JXV3SKSM1H6PJZD2",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-19T17:15:40.726484+00:00",
+  "started_at": "2026-11-18T15:34:42+00:00",
+  "status": "resolved",
+  "title": "Increased Latency and Errors",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2"
+ },
+ {
+  "body": "We are investigating reports of impacted performance for some GitHub services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is having a wobble",
+  "id": "github:m310qbkfm3ww:opened:investigating:minor:2026-11-19T17:06:27.042000+00:00",
+  "impact": "minor",
+  "incident_id": "m310qbkfm3ww",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-19T17:15:40.726484+00:00",
+  "started_at": "2026-11-19T17:06:26.800000+00:00",
+  "status": "investigating",
+  "title": "Disruption with some GitHub services",
+  "transition": "opened",
+  "url": "https://stspg.io/pvjz2g01trc7"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "56 min",
@@ -7752,44 +7788,5 @@
   "title": "Disruption with GitHub services",
   "transition": "resolved",
   "url": "https://stspg.io/6p81rf34z4nc"
- },
- {
-  "body": "The degradation affecting Pages has been mitigated. We are monitoring to ensure stability.",
-  "components": [
-   "Issues",
-   "Pages"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
-  "id": "github:nxy2l0ssxm10:progress:monitoring:critical:2026-10-30T14:49:46.415000+00:00",
-  "impact": "critical",
-  "incident_id": "nxy2l0ssxm10",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-30T15:00:19.697823+00:00",
-  "started_at": "2026-10-30T14:31:16.529000+00:00",
-  "status": "monitoring",
-  "title": "Disruption with GitHub services",
-  "transition": "progress",
-  "url": "https://stspg.io/6p81rf34z4nc"
- },
- {
-  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
-  "components": [],
-  "duration": "",
-  "headline": "📡 Still watching. Nothing to report.",
-  "id": "meta:all:alive:2026-10-30",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "batphone",
-  "provider_name": "AI Bat Phone",
-  "published_at": "2026-10-30T14:45:19.934441+00:00",
-  "started_at": "2026-10-30T14:45:19.934441+00:00",
-  "status": "alive",
-  "title": "Still watching 21 provider status pages",
-  "transition": "alive",
-  "url": "https://sephatron.github.io/ai-bat-phone"
  }
 ]

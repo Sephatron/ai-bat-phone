@@ -2969,8 +2969,8 @@
   "elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2": {
    "impact": "major",
    "last_seen_at": "2026-11-19T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-19T16:12:42+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-19T17:02:01+00:00"
   },
   "elevenlabs:01M7SND7J0PCKGN45B3FADECJR": {
    "impact": "minor",
@@ -4567,6 +4567,12 @@
    "last_seen_at": "2026-11-19T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-11-04T22:04:26.394000+00:00"
+  },
+  "github:m310qbkfm3ww": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-19T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-19T17:06:27.042000+00:00"
   },
   "github:n2vqnsg14tw2": {
    "impact": "maintenance",

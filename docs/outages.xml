@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from ElevenLabs after 1d 1h]]></title>
+<link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
+<guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:resolved:resolved:major:2026-11-19T17:02:01+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 17:15:40 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased Latency and Errors</strong></p><p>Impact: major · Status: resolved · Duration: 1d 1h · Opened: Wed, 18 Nov 2026 15:34:42 +0000</p><p>After further monitoring, we can confirm that the root cause of the conversation initiation failures has been resolved. We will post a root cause analysis for the incident after further review.</p><p><a href="https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 GitHub is having a wobble]]></title>
+<link>https://stspg.io/pvjz2g01trc7</link>
+<guid isPermaLink='false'>github:m310qbkfm3ww:opened:investigating:minor:2026-11-19T17:06:27.042000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 17:15:40 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 19 Nov 2026 17:06:26 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/pvjz2g01trc7">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI lives. Pick your tools back up.]]></title>
 <link>https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</link>
 <guid isPermaLink='false'>openai:01M7T8MRF9SDBDNQ62Z6V156ZZ:resolved:resolved:major:2026-11-19T16:58:04+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Mon, 09 Nov 2026 18:30:19 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions and Checks API</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 18:12:37 +0000</p><p>We're investigating elevated errors affecting GitHub Actions and the Checks API. We'll share another update as we learn more.</p><p><a href="https://stspg.io/7yw63xl9ztrv">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit sorted itself out after a while]]></title>
-<link>https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4</link>
-<guid isPermaLink='false'>replit:64959389-1dac-491f-843e-5c1c2e17c6a4:resolved:resolved:minor:2026-11-09T18:00:22.534339+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 18:00:22 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Chat is failing on mobile</strong></p><p>Impact: minor · Status: resolved · Opened: Mon, 09 Nov 2026 17:57:47 +0000</p><p>[Resolved] Chat is working on mobile now. Impacted: Mobile App</p><p><a href="https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/k78kbpqrzkqh</link>
-<guid isPermaLink='false'>moonshot:qr8tbjbdz48y:resolved:resolved:critical:2026-11-09T12:32:12.054000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 12:45:50 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 2 min · Opened: Mon, 09 Nov 2026 12:29:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/k78kbpqrzkqh">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
