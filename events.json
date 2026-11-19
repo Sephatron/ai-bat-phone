@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "1h 11m",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:m310qbkfm3ww:resolved:resolved:minor:2026-11-19T18:17:42.609000+00:00",
+  "impact": "minor",
+  "incident_id": "m310qbkfm3ww",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-19T18:30:40.074512+00:00",
+  "started_at": "2026-11-19T17:06:26.800000+00:00",
+  "status": "resolved",
+  "title": "Disruption with some GitHub services",
+  "transition": "resolved",
+  "url": "https://stspg.io/pvjz2g01trc7"
+ },
+ {
   "body": "Starting around 18:02 UTC on November 5, GitHub web sessions stopped being renewed based on recent activity, so users were signed out when their sessions expired due to inactivity. These sign-outs were caused by a bug in session renewal, not due to a security incident. We believe we fixed the bug at 05:23 UTC on November 19, and sessions created since then should renew as usual. We’re continuing to monitor the situation. If you had an inactive session from that period, you may still find that you’re signed out when you return to GitHub. If that happens, all you need to do is sign back in.",
   "components": [],
   "duration": "",
@@ -7767,23 +7785,5 @@
   "title": "Incident with Actions, Pages, and Webhooks",
   "transition": "opened",
   "url": "https://stspg.io/5cd2m4n59spv"
- },
- {
-  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 OpenAI has applied a fix and is holding its breath",
-  "id": "openai:01M66KSDH67V5BQ73PE8AD2W8S:progress:monitoring:minor:2026-10-30T16:06:34+00:00",
-  "impact": "minor",
-  "incident_id": "01M66KSDH67V5BQ73PE8AD2W8S",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-30T16:15:20.878879+00:00",
-  "started_at": "2026-10-30T14:35:28+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors for GPT Image 2 API image edits",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S"
  }
 ]

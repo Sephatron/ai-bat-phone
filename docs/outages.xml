@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/pvjz2g01trc7</link>
+<guid isPermaLink='false'>github:m310qbkfm3ww:resolved:resolved:minor:2026-11-19T18:17:42.609000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 18:30:40 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with some GitHub services</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 11m · Opened: Thu, 19 Nov 2026 17:06:26 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/pvjz2g01trc7">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
 <link>https://stspg.io/pvjz2g01trc7</link>
 <guid isPermaLink='false'>github:m310qbkfm3ww:progress:monitoring:minor:2026-11-19T17:43:44.774000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Mon, 09 Nov 2026 18:45:18 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Actions and Checks API</strong></p><p>Impact: critical · Status: monitoring · Affects: Webhooks, Actions, Pages · Opened: Mon, 09 Nov 2026 18:12:37 +0000</p><p>The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/7yw63xl9ztrv">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
-<link>https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R</link>
-<guid isPermaLink='false'>openai:01M70RDA2GWD2WXE58ANY0WV5R:opened:monitoring:minor:2026-11-09T18:16:30+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 18:30:19 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated ChatGPT Conversation Errors</strong></p><p>Impact: minor · Status: monitoring · Opened: Mon, 09 Nov 2026 18:16:30 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
