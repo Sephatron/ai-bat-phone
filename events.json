@@ -1,5 +1,45 @@
 [
  {
+  "body": "google登录活跃度异常",
+  "components": [
+   "Sign In / Sign Up"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.",
+  "id": "moonshot:t46qb2qdk941:opened:investigating:critical:2026-11-19T10:28:17.079000+00:00",
+  "impact": "critical",
+  "incident_id": "t46qb2qdk941",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-19T10:30:40.193846+00:00",
+  "started_at": "2026-11-19T10:28:16.965000+00:00",
+  "status": "investigating",
+  "title": "google登录异常",
+  "transition": "opened",
+  "url": "https://stspg.io/4zt7grpf4jc7"
+ },
+ {
+  "body": "API 服务可用性低，可能会影响您的使用体验",
+  "components": [
+   "API Service"
+  ],
+  "duration": "",
+  "headline": "🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.",
+  "id": "moonshot:73z033sjrlnd:opened:investigating:critical:2026-11-19T10:25:14.528000+00:00",
+  "impact": "critical",
+  "incident_id": "73z033sjrlnd",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-19T10:30:40.193846+00:00",
+  "started_at": "2026-11-19T10:25:14.424000+00:00",
+  "status": "investigating",
+  "title": "API 服务可用性低",
+  "transition": "opened",
+  "url": "https://stspg.io/x57vm1tz1q8k"
+ },
+ {
   "body": "The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 00:56 PT / 08:56 UTC to 01:11 PT / 09:11 UTC.",
   "components": [
    "claude.ai",
@@ -7755,42 +7795,6 @@
   "status": "resolved",
   "title": "Publishing failures for Enterprise apps hosted on Azure",
   "transition": "resolved",
-  "url": "https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca"
- },
- {
-  "body": "[Monitoring] We have applied a fix and are monitoring to confirm that publishing apps hosted on Azure is working as expected for Enterprise customers. Affected users can try republishing their apps now. Impacted: Publishing",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Replit thinks it's fixed and is watching nervously",
-  "id": "replit:2ce43e6f-b516-43fa-b65f-3bf6376082ca:progress:monitoring:minor:2026-10-29T14:15:19.677454+00:00",
-  "impact": "minor",
-  "incident_id": "2ce43e6f-b516-43fa-b65f-3bf6376082ca",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-29T14:15:19.677454+00:00",
-  "started_at": "2026-10-29T14:03:11+00:00",
-  "status": "monitoring",
-  "title": "Publishing failures for Enterprise apps hosted on Azure",
-  "transition": "progress",
-  "url": "https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca"
- },
- {
-  "body": "[Identified] We have identified the issue preventing Enterprise customers from publishing apps hosted on Azure and are working on a fix. Impacted: Publishing",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Replit has identified the problem. Fix pending.",
-  "id": "replit:2ce43e6f-b516-43fa-b65f-3bf6376082ca:opened:identified:minor:2026-10-29T13:30:19.352179+00:00",
-  "impact": "minor",
-  "incident_id": "2ce43e6f-b516-43fa-b65f-3bf6376082ca",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-29T13:30:19.352179+00:00",
-  "started_at": "2026-10-29T13:18:48+00:00",
-  "status": "identified",
-  "title": "Publishing failures for Enterprise apps hosted on Azure",
-  "transition": "opened",
   "url": "https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca"
  }
 ]
