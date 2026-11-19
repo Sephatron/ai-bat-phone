@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 00:56 PT / 08:56 UTC to 01:11 PT / 09:11 UTC.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "22 min",
+  "headline": "🟢 Claude is back. Grass sufficiently touched.",
+  "id": "anthropic:c1kmrkmv5f3d:resolved:resolved:major:2026-11-19T09:33:18.914000+00:00",
+  "impact": "major",
+  "incident_id": "c1kmrkmv5f3d",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-19T09:45:41.039065+00:00",
+  "started_at": "2026-11-19T09:10:24.807000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2",
+  "transition": "resolved",
+  "url": "https://stspg.io/nlb5fptv28h5"
+ },
+ {
   "body": "API 服务可用性低，可能会影响您的使用体验",
   "components": [
    "API Service"
@@ -7769,23 +7792,5 @@
   "title": "Publishing failures for Enterprise apps hosted on Azure",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/2ce43e6f-b516-43fa-b65f-3bf6376082ca"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [],
-  "duration": "2h 29m",
-  "headline": "🟢 GitHub has stopped wobbling",
-  "id": "github:rn76zdy367m2:resolved:resolved:minor:2026-10-29T12:49:52.175000+00:00",
-  "impact": "minor",
-  "incident_id": "rn76zdy367m2",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-29T13:00:21.272480+00:00",
-  "started_at": "2026-10-29T10:19:55.313000+00:00",
-  "status": "resolved",
-  "title": "Disruption with Copilot Cloud services",
-  "transition": "resolved",
-  "url": "https://stspg.io/22p3vp78z20q"
  }
 ]

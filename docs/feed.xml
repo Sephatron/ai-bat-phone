@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
+<link>https://stspg.io/nlb5fptv28h5</link>
+<guid isPermaLink='false'>anthropic:c1kmrkmv5f3d:resolved:resolved:major:2026-11-19T09:33:18.914000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 09:45:41 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 22 min · Opened: Thu, 19 Nov 2026 09:10:24 +0000</p><p>The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 00:56 PT / 08:56 UTC to 01:11 PT / 09:11 UTC.</p><p><a href="https://stspg.io/nlb5fptv28h5">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
 <link>https://stspg.io/cc5vt1mcx7cz</link>
 <guid isPermaLink='false'>moonshot:sz25kxdwy6rs:opened:investigating:critical:2026-11-19T09:25:13.917000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 08 Nov 2026 15:45:48 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors with image generation</strong></p><p>Impact: minor · Status: monitoring · Opened: Sun, 08 Nov 2026 15:11:15 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI knows what it did]]></title>
-<link>https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5</link>
-<guid isPermaLink='false'>openai:01M6XVDCKRT3PSB0YP8J30GTD5:opened:identified:minor:2026-11-08T15:11:15+00:00</guid>
-<pubDate>Sun, 08 Nov 2026 15:15:48 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Image generation experiencing elevated error rates</strong></p><p>Impact: minor · Status: identified · Opened: Sun, 08 Nov 2026 15:11:15 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
