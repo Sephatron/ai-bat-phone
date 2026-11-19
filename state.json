@@ -4019,8 +4019,8 @@
   "fireworks:01M7T7B3V8KQVZ9H423SCAWEH5": {
    "impact": "minor",
    "last_seen_at": "2026-11-19T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-19T15:38:27+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-19T16:30:35+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
@@ -4439,8 +4439,8 @@
   "github:gp7nhc88bwv9": {
    "impact": "minor",
    "last_seen_at": "2026-11-19T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-19T15:57:24.237000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-19T16:28:40.592000+00:00"
   },
   "github:gx7js8bd0jpz": {
    "impact": "major",
@@ -6779,8 +6779,8 @@
   "openai:01M7T8MRF9SDBDNQ62Z6V156ZZ": {
    "impact": "major",
    "last_seen_at": "2026-11-19T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-19T16:01:12+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-19T16:21:41+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

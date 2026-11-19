@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/vv0kzmyd9wqs</link>
+<guid isPermaLink='false'>github:gp7nhc88bwv9:progress:monitoring:minor:2026-11-19T16:28:40.592000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 16:30:42 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GPT-6 Luna in Copilot</strong></p><p>Impact: minor · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Thu, 19 Nov 2026 15:56:02 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/vv0kzmyd9wqs">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</link>
+<guid isPermaLink='false'>openai:01M7T8MRF9SDBDNQ62Z6V156ZZ:progress:monitoring:major:2026-11-19T16:21:41+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 16:30:42 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for gpt-6 Luna API requests</strong></p><p>Impact: major · Status: monitoring · Opened: Thu, 19 Nov 2026 16:01:12 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M7T7B3V8KQVZ9H423SCAWEH5</link>
+<guid isPermaLink='false'>fireworks:01M7T7B3V8KQVZ9H423SCAWEH5:resolved:resolved:minor:2026-11-19T16:30:35+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 16:30:42 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 52 min · Opened: Thu, 19 Nov 2026 15:38:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7T7B3V8KQVZ9H423SCAWEH5">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
 <guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:progress:monitoring:major:2026-11-19T16:12:42+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Mon, 09 Nov 2026 12:00:48 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: major · Status: resolved · Affects: Webhooks, Actions · Duration: 1h 50m · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub thinks it's fixed and is watching nervously]]></title>
-<link>https://stspg.io/4vdghm7tycm4</link>
-<guid isPermaLink='false'>github:xxb3l2bm76dr:progress:monitoring:major:2026-11-09T11:45:07.509000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 11:45:49 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: major · Status: monitoring · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>The degradation affecting Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔺 Upgrade your concern: GitHub is now major]]></title>
-<link>https://stspg.io/4vdghm7tycm4</link>
-<guid isPermaLink='false'>github:xxb3l2bm76dr:escalated:investigating:major:2026-11-09T11:17:28.548000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 11:30:49 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: major · Status: investigating · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>Webhooks is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/4vdghm7tycm4</link>
-<guid isPermaLink='false'>github:xxb3l2bm76dr:opened:investigating:minor:2026-11-09T10:00:35.653000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 10:15:50 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks, Actions · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>We are investigating reports of degraded performance for Actions and Webhooks</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

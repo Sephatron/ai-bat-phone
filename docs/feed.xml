@@ -10,6 +10,30 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/vv0kzmyd9wqs</link>
+<guid isPermaLink='false'>github:gp7nhc88bwv9:progress:monitoring:minor:2026-11-19T16:28:40.592000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 16:30:42 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded availability for GPT-6 Luna in Copilot</strong></p><p>Impact: minor · Status: monitoring · Affects: Copilot AI Model Providers · Opened: Thu, 19 Nov 2026 15:56:02 +0000</p><p>The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/vv0kzmyd9wqs">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
+<link>https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</link>
+<guid isPermaLink='false'>openai:01M7T8MRF9SDBDNQ62Z6V156ZZ:progress:monitoring:major:2026-11-19T16:21:41+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 16:30:42 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for gpt-6 Luna API requests</strong></p><p>Impact: major · Status: monitoring · Opened: Thu, 19 Nov 2026 16:01:12 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M7T7B3V8KQVZ9H423SCAWEH5</link>
+<guid isPermaLink='false'>fireworks:01M7T7B3V8KQVZ9H423SCAWEH5:resolved:resolved:minor:2026-11-19T16:30:35+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 16:30:42 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: resolved · Duration: 52 min · Opened: Thu, 19 Nov 2026 15:38:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7T7B3V8KQVZ9H423SCAWEH5">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 ElevenLabs is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
 <guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:progress:monitoring:major:2026-11-19T16:12:42+00:00</guid>
@@ -1584,30 +1608,6 @@
 <pubDate>Mon, 09 Nov 2026 18:00:22 +0000</pubDate>
 <category>Replit</category>
 <description><![CDATA[<p><strong>Chat is failing on mobile</strong></p><p>Impact: minor · Status: resolved · Opened: Mon, 09 Nov 2026 17:57:47 +0000</p><p>[Resolved] Chat is working on mobile now. Impacted: Mobile App</p><p><a href="https://status.replit.com/incidents/64959389-1dac-491f-843e-5c1c2e17c6a4">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/k78kbpqrzkqh</link>
-<guid isPermaLink='false'>moonshot:qr8tbjbdz48y:resolved:resolved:critical:2026-11-09T12:32:12.054000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 12:45:50 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: resolved · Affects: Search · Duration: 2 min · Opened: Mon, 09 Nov 2026 12:29:13 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/k78kbpqrzkqh">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Moonshot AI (Kimi) is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/k78kbpqrzkqh</link>
-<guid isPermaLink='false'>moonshot:qr8tbjbdz48y:opened:investigating:critical:2026-11-09T12:29:13.637000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 12:30:48 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>搜索请求出现大量报错</strong></p><p>Impact: critical · Status: investigating · Affects: Search · Opened: Mon, 09 Nov 2026 12:29:13 +0000</p><p>搜索请求报错率超过20%，持续超过1分钟</p><p><a href="https://stspg.io/k78kbpqrzkqh">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/4vdghm7tycm4</link>
-<guid isPermaLink='false'>github:xxb3l2bm76dr:resolved:resolved:major:2026-11-09T11:50:35.805000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 12:00:48 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Webhooks and Actions</strong></p><p>Impact: major · Status: resolved · Affects: Webhooks, Actions · Duration: 1h 50m · Opened: Mon, 09 Nov 2026 10:00:35 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/4vdghm7tycm4">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
