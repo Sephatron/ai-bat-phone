@@ -5930,6 +5930,12 @@
    "status": "resolved",
    "updated_at": "2026-09-02T12:23:12.286000+00:00"
   },
+  "moonshot:sz25kxdwy6rs": {
+   "impact": "critical",
+   "last_seen_at": "2026-11-19T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-19T09:25:13.917000+00:00"
+  },
   "moonshot:t5tl276sl4mg": {
    "impact": "critical",
    "last_seen_at": "2026-11-01T00:00:00+00:00",

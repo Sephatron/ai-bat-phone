@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/cc5vt1mcx7cz</link>
+<guid isPermaLink='false'>moonshot:sz25kxdwy6rs:opened:investigating:critical:2026-11-19T09:25:13.917000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 09:30:40 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>API 服务可用性低</strong></p><p>Impact: critical · Status: investigating · Affects: API Service · Opened: Thu, 19 Nov 2026 09:25:13 +0000</p><p>API 服务可用性低，可能会影响您的使用体验</p><p><a href="https://stspg.io/cc5vt1mcx7cz">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/nlb5fptv28h5</link>
 <guid isPermaLink='false'>anthropic:c1kmrkmv5f3d:progress:monitoring:major:2026-11-19T09:22:50.040000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 08 Nov 2026 15:15:48 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Image generation experiencing elevated error rates</strong></p><p>Impact: minor · Status: identified · Opened: Sun, 08 Nov 2026 15:11:15 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M6XVDCKRT3PSB0YP8J30GTD5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 1h 56m]]></title>
-<link>https://stspg.io/5yt31mfmyc6p</link>
-<guid isPermaLink='false'>github:pyynvrm1vskw:resolved:resolved:minor:2026-11-08T12:32:35.646000+00:00</guid>
-<pubDate>Sun, 08 Nov 2026 12:45:48 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Increase in timeouts for some unauthenticated users</strong></p><p>Impact: minor · Status: resolved · Affects: API Requests · Duration: 1h 56m · Opened: Sun, 08 Nov 2026 10:36:05 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5yt31mfmyc6p">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

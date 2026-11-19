@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has downed tools — and so, probably, have you]]></title>
+<link>https://stspg.io/cc5vt1mcx7cz</link>
+<guid isPermaLink='false'>moonshot:sz25kxdwy6rs:opened:investigating:critical:2026-11-19T09:25:13.917000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 09:30:40 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>API 服务可用性低</strong></p><p>Impact: critical · Status: investigating · Affects: API Service · Opened: Thu, 19 Nov 2026 09:25:13 +0000</p><p>API 服务可用性低，可能会影响您的使用体验</p><p><a href="https://stspg.io/cc5vt1mcx7cz">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/nlb5fptv28h5</link>
 <guid isPermaLink='false'>anthropic:c1kmrkmv5f3d:progress:monitoring:major:2026-11-19T09:22:50.040000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 08 Nov 2026 10:45:48 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Increase in timeouts for some unauthenticated users</strong></p><p>Impact: minor · Status: investigating · Opened: Sun, 08 Nov 2026 10:36:05 +0000</p><p>We are investigating reports of impacted performance for some GitHub services.</p><p><a href="https://stspg.io/5yt31mfmyc6p">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude sorted itself out after 26 min]]></title>
-<link>https://stspg.io/3m3q1nwb142k</link>
-<guid isPermaLink='false'>anthropic:kw2lxj1th04c:resolved:resolved:minor:2026-11-08T08:54:43.776000+00:00</guid>
-<pubDate>Sun, 08 Nov 2026 09:00:47 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.1</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 26 min · Opened: Sun, 08 Nov 2026 08:28:32 +0000</p><p>The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 00:18 PT / 08:18 UTC on Nov 8 to 00:32 PT / 08:32 UTC on Nov 8.</p><p><a href="https://stspg.io/3m3q1nwb142k">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
