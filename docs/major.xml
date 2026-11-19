@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 18 Nov 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Vercel lives. Pick your tools back up.]]></title>
+<link>https://stspg.io/mskmcg5p67tp</link>
+<guid isPermaLink='false'>vercel:c83fx5n8008f:resolved:resolved:major:2026-11-18T23:53:54.366000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 00:00:39 +0000</pubDate>
+<category>Vercel</category>
+<description><![CDATA[<p><strong>Delays in observability data</strong></p><p>Impact: major · Status: resolved · Affects: AI Gateway, Observability, Queues, Workflow · Duration: 3h 09m · Opened: Wed, 18 Nov 2026 20:44:33 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/mskmcg5p67tp">Vercel status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Vercel has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/mskmcg5p67tp</link>
@@ -976,14 +984,6 @@
 <pubDate>Thu, 29 Oct 2026 02:45:20 +0000</pubDate>
 <category>SambaNova</category>
 <description><![CDATA[<p><strong>AI Bat Phone cannot read SambaNova's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.sambanova.ai/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.sambanova.ai">SambaNova status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📵 AI21 is unreadable — silence here means unknown, not fine]]></title>
-<link>https://status.ai21.com</link>
-<guid isPermaLink='false'>meta:ai21:unreachable:2026-10-29T01:00:00+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 02:00:22 +0000</pubDate>
-<category>AI21</category>
-<description><![CDATA[<p><strong>AI Bat Phone cannot read AI21's status page</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>https://status.ai21.com/api/v2/incidents.json: The read operation timed out</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
