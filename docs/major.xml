@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔁 Put the tools back down: ElevenLabs has relapsed]]></title>
+<link>https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2</link>
+<guid isPermaLink='false'>elevenlabs:01M7QMQH05JXV3SKSM1H6PJZD2:reopened:investigating:major:2026-11-19T15:11:36+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 15:15:41 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Increased latency and API errors</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 18 Nov 2026 15:34:42 +0000</p><p>We have seen an increase in call failures due to a reoccurrence of this issue. We are investigating and will post further updates as they become available.</p><p><a href="https://status.elevenlabs.io/incidents/01M7QMQH05JXV3SKSM1H6PJZD2">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
 <link>https://stspg.io/x57vm1tz1q8k</link>
 <guid isPermaLink='false'>moonshot:73z033sjrlnd:resolved:resolved:critical:2026-11-19T10:45:14.836000+00:00</guid>
