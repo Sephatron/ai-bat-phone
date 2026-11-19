@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is back. Grass sufficiently touched.]]></title>
+<link>https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX</link>
+<guid isPermaLink='false'>fireworks:01M7RNRPWNZXWMBQBNRS4WXHTX:resolved:resolved:critical:2026-11-19T04:16:49+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 04:30:41 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Outage for Kimi K3.1 Pro</strong></p><p>Impact: critical · Status: resolved · Duration: 3h 04m · Opened: Thu, 19 Nov 2026 01:12:04 +0000</p><p>Service is restored</p><p><a href="https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Fireworks AI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX</link>
 <guid isPermaLink='false'>fireworks:01M7RNRPWNZXWMBQBNRS4WXHTX:progress:monitoring:critical:2026-11-19T02:58:45+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 08 Nov 2026 08:30:48 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.1</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 08 Nov 2026 08:28:32 +0000</p><p>We are investigating elevated errors on requests to Claude Fable 5.1. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/3m3q1nwb142k">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M6THM4N52KH9BG50H1ESKAXR</link>
-<guid isPermaLink='false'>fireworks:01M6THM4N52KH9BG50H1ESKAXR:resolved:resolved:minor:2026-11-07T08:36:30+00:00</guid>
-<pubDate>Sat, 07 Nov 2026 08:45:47 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Sat, 07 Nov 2026 08:22:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M6THM4N52KH9BG50H1ESKAXR">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

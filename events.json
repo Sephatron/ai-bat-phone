@@ -1,5 +1,23 @@
 [
  {
+  "body": "Service is restored",
+  "components": [],
+  "duration": "3h 04m",
+  "headline": "🟢 Fireworks AI is back. Grass sufficiently touched.",
+  "id": "fireworks:01M7RNRPWNZXWMBQBNRS4WXHTX:resolved:resolved:critical:2026-11-19T04:16:49+00:00",
+  "impact": "critical",
+  "incident_id": "01M7RNRPWNZXWMBQBNRS4WXHTX",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-19T04:30:41.161670+00:00",
+  "started_at": "2026-11-19T01:12:04+00:00",
+  "status": "resolved",
+  "title": "Service Outage for Kimi K3.1 Pro",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX"
+ },
+ {
   "body": "Kimi K3.1 Pro services are restored and we are monitoring",
   "components": [],
   "duration": "",
@@ -7763,31 +7781,6 @@
   "status": "resolved",
   "title": "Degraded performance — Origin and Cloud Agents",
   "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452"
- },
- {
-  "body": "We are investigating degraded performance affecting Cloud Agents and Origin. Users may see slow responses, timeouts, or retried requests. Our team is actively working to restore normal performance.",
-  "components": [
-   "Automations",
-   "BugBot",
-   "Cloud Agents",
-   "Grok Bot",
-   "Origin",
-   "Review Agents"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is having a wobble",
-  "id": "cursor:ps_95a4f0b2be913452:opened:investigating:minor:2026-10-29T09:01:50+00:00",
-  "impact": "minor",
-  "incident_id": "ps_95a4f0b2be913452",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-29T09:15:20.325392+00:00",
-  "started_at": "2026-10-29T09:01:50+00:00",
-  "status": "investigating",
-  "title": "Degraded performance — Origin and Cloud Agents",
-  "transition": "opened",
   "url": "https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452"
  }
 ]

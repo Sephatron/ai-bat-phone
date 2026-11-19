@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is back. Grass sufficiently touched.]]></title>
+<link>https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX</link>
+<guid isPermaLink='false'>fireworks:01M7RNRPWNZXWMBQBNRS4WXHTX:resolved:resolved:critical:2026-11-19T04:16:49+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 04:30:41 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Outage for Kimi K3.1 Pro</strong></p><p>Impact: critical · Status: resolved · Duration: 3h 04m · Opened: Thu, 19 Nov 2026 01:12:04 +0000</p><p>Service is restored</p><p><a href="https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Fireworks AI thinks it's fixed and is watching nervously]]></title>
 <link>https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX</link>
 <guid isPermaLink='false'>fireworks:01M7RNRPWNZXWMBQBNRS4WXHTX:progress:monitoring:critical:2026-11-19T02:58:45+00:00</guid>
