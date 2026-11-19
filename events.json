@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M7T7B3V8KQVZ9H423SCAWEH5:opened:investigating:minor:2026-11-19T15:38:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M7T7B3V8KQVZ9H423SCAWEH5",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-19T15:45:41.161062+00:00",
+  "started_at": "2026-11-19T15:38:27+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M7T7B3V8KQVZ9H423SCAWEH5"
+ },
+ {
   "body": "We have seen an increase in call failures due to a reoccurrence of this issue. We are investigating and will post further updates as they become available.",
   "components": [],
   "duration": "",
@@ -7774,25 +7792,5 @@
   "title": "Investigating Service Degradation with VS Code Extensions",
   "transition": "resolved",
   "url": "https://status.x.ai/history?incident=cursor-desktop%2Fps_ad31c985bfc193b9"
- },
- {
-  "body": "This has been resolved",
-  "components": [
-   "Grok Bot"
-  ],
-  "duration": "1h 35m",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:ps_e5eb22a9954466c4:resolved:resolved:minor:2026-10-30T01:20:15+00:00",
-  "impact": "minor",
-  "incident_id": "ps_e5eb22a9954466c4",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-30T01:30:20.833426+00:00",
-  "started_at": "2026-10-29T23:44:42+00:00",
-  "status": "resolved",
-  "title": "Auto Review Degradation",
-  "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4"
  }
 ]
