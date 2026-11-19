@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Claude sorted itself out after 2d 11h]]></title>
+<link>https://stspg.io/01qq3kzyyqzl</link>
+<guid isPermaLink='false'>anthropic:b5cq662qf2wm:resolved:resolved:minor:2026-11-19T02:15:05.860000+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 02:15:39 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Claude Meetings auto-join limited on the Team plan</strong></p><p>Impact: minor · Status: resolved · Affects: claude.ai · Duration: 2d 11h · Opened: Mon, 16 Nov 2026 15:10:15 +0000</p><p>Claude Meetings (beta) is joining calls normally. Enterprise and Team customers can add Claude to calls. Auto-join is available for all Enterprise customers and some Team customers. We'll continue rolling out auto-join to additional Team customers in the coming days.</p><p><a href="https://stspg.io/01qq3kzyyqzl">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔴 Fireworks AI is having a proper one. This is not your code.]]></title>
 <link>https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX</link>
 <guid isPermaLink='false'>fireworks:01M7RNRPWNZXWMBQBNRS4WXHTX:opened:investigating:critical:2026-11-19T01:12:04+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sun, 08 Nov 2026 08:45:47 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.1</strong></p><p>Impact: minor · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 08 Nov 2026 08:28:32 +0000</p><p>A fix has been deployed for Claude Fable 5.1 and we are monitoring for recovery.</p><p><a href="https://stspg.io/3m3q1nwb142k">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Claude is a bit under the weather]]></title>
-<link>https://stspg.io/3m3q1nwb142k</link>
-<guid isPermaLink='false'>anthropic:kw2lxj1th04c:opened:investigating:minor:2026-11-08T08:28:33.134000+00:00</guid>
-<pubDate>Sun, 08 Nov 2026 08:30:48 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.1</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Sun, 08 Nov 2026 08:28:32 +0000</p><p>We are investigating elevated errors on requests to Claude Fable 5.1. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/3m3q1nwb142k">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
