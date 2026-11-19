@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 19 Nov 2026 02:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 03:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[👀 Fireworks AI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX</link>
+<guid isPermaLink='false'>fireworks:01M7RNRPWNZXWMBQBNRS4WXHTX:progress:monitoring:critical:2026-11-19T02:58:45+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 03:00:39 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Outage for Kimi K3.1 Pro</strong></p><p>Impact: critical · Status: monitoring · Opened: Thu, 19 Nov 2026 01:12:04 +0000</p><p>Kimi K3.1 Pro services are restored and we are monitoring</p><p><a href="https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔴 Fireworks AI is having a proper one. This is not your code.]]></title>
 <link>https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX</link>
@@ -968,14 +976,6 @@
 <pubDate>Fri, 30 Oct 2026 14:45:19 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: investigating · Affects: Issues, Pages · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>Pages is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[📶 AI21 is readable again, so silence here means quiet once more]]></title>
-<link>https://status.ai21.com</link>
-<guid isPermaLink='false'>meta:ai21:recovered:2026-10-29T01:00:00+00:00</guid>
-<pubDate>Thu, 29 Oct 2026 03:45:19 +0000</pubDate>
-<category>AI21</category>
-<description><![CDATA[<p><strong>AI Bat Phone can read AI21's status page again</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p><a href="https://status.ai21.com">AI21 status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

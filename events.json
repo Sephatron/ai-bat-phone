@@ -1,5 +1,23 @@
 [
  {
+  "body": "Kimi K3.1 Pro services are restored and we are monitoring",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Fireworks AI thinks it's fixed and is watching nervously",
+  "id": "fireworks:01M7RNRPWNZXWMBQBNRS4WXHTX:progress:monitoring:critical:2026-11-19T02:58:45+00:00",
+  "impact": "critical",
+  "incident_id": "01M7RNRPWNZXWMBQBNRS4WXHTX",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-19T03:00:39.840346+00:00",
+  "started_at": "2026-11-19T01:12:04+00:00",
+  "status": "monitoring",
+  "title": "Service Outage for Kimi K3.1 Pro",
+  "transition": "progress",
+  "url": "https://status.fireworks.ai/incidents/01M7RNRPWNZXWMBQBNRS4WXHTX"
+ },
+ {
   "body": "Claude Meetings (beta) is joining calls normally. Enterprise and Team customers can add Claude to calls. Auto-join is available for all Enterprise customers and some Team customers. We'll continue rolling out auto-join to additional Team customers in the coming days.",
   "components": [
    "claude.ai"
@@ -7771,23 +7789,5 @@
   "title": "Degraded performance — Origin and Cloud Agents",
   "transition": "opened",
   "url": "https://status.x.ai/history?incident=automations%2Fps_95a4f0b2be913452"
- },
- {
-  "body": "",
-  "components": [],
-  "duration": "",
-  "headline": "📶 AI21 is readable again, so silence here means quiet once more",
-  "id": "meta:ai21:recovered:2026-10-29T01:00:00+00:00",
-  "impact": "none",
-  "incident_id": "monitor",
-  "kind": "meta",
-  "provider_key": "ai21",
-  "provider_name": "AI21",
-  "published_at": "2026-10-29T03:45:19.745451+00:00",
-  "started_at": "2026-10-29T01:00:00+00:00",
-  "status": "recovered",
-  "title": "AI Bat Phone can read AI21's status page again",
-  "transition": "recovered",
-  "url": "https://status.ai21.com"
  }
 ]
