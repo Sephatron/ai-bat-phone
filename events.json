@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "40 min",
+  "headline": "🟢 GitHub is fine again",
+  "id": "github:gp7nhc88bwv9:resolved:resolved:minor:2026-11-19T16:37:00.895000+00:00",
+  "impact": "minor",
+  "incident_id": "gp7nhc88bwv9",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-19T16:45:40.116757+00:00",
+  "started_at": "2026-11-19T15:56:02.723000+00:00",
+  "status": "resolved",
+  "title": "Degraded availability for GPT-6 Luna in Copilot",
+  "transition": "resolved",
+  "url": "https://stspg.io/vv0kzmyd9wqs"
+ },
+ {
   "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Copilot AI Model Providers"
@@ -7771,26 +7791,5 @@
   "title": "Elevated errors for GPT Image 2 API image edits",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M66KSDH67V5BQ73PE8AD2W8S"
- },
- {
-  "body": "Pages is experiencing degraded performance. We are continuing to investigate.",
-  "components": [
-   "Issues",
-   "Pages"
-  ],
-  "duration": "",
-  "headline": "🔴 GitHub is having a proper one. This is not your code.",
-  "id": "github:nxy2l0ssxm10:opened:investigating:critical:2026-10-30T14:39:42.883000+00:00",
-  "impact": "critical",
-  "incident_id": "nxy2l0ssxm10",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-30T14:45:19.934441+00:00",
-  "started_at": "2026-10-30T14:31:16.529000+00:00",
-  "status": "investigating",
-  "title": "Disruption with GitHub services",
-  "transition": "opened",
-  "url": "https://stspg.io/6p81rf34z4nc"
  }
 ]

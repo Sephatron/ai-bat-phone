@@ -1081,13 +1081,5 @@
 <category>AI Bat Phone</category>
 <description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🔴 GitHub is having a proper one. This is not your code.]]></title>
-<link>https://stspg.io/6p81rf34z4nc</link>
-<guid isPermaLink='false'>github:nxy2l0ssxm10:opened:investigating:critical:2026-10-30T14:39:42.883000+00:00</guid>
-<pubDate>Fri, 30 Oct 2026 14:45:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with GitHub services</strong></p><p>Impact: critical · Status: investigating · Affects: Issues, Pages · Opened: Fri, 30 Oct 2026 14:31:16 +0000</p><p>Pages is experiencing degraded performance. We are continuing to investigate.</p><p><a href="https://stspg.io/6p81rf34z4nc">GitHub status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
