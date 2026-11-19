@@ -263,8 +263,8 @@
   "anthropic:c1kmrkmv5f3d": {
    "impact": "major",
    "last_seen_at": "2026-11-19T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-19T09:10:25.015000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-19T09:22:50.040000+00:00"
   },
   "anthropic:ch27pb90bn85": {
    "impact": "major",

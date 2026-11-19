@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for other Claude models and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:c1kmrkmv5f3d:progress:monitoring:major:2026-11-19T09:22:50.040000+00:00",
+  "impact": "major",
+  "incident_id": "c1kmrkmv5f3d",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-19T09:26:00.284277+00:00",
+  "started_at": "2026-11-19T09:10:24.807000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2",
+  "transition": "progress",
+  "url": "https://stspg.io/nlb5fptv28h5"
+ },
+ {
   "body": "We are investigating elevated errors on requests to Claude Mythos 5.2 and Claude Fable 5.2. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7761,24 +7784,6 @@
   "status": "monitoring",
   "title": "Disruption with Copilot Cloud services",
   "transition": "progress",
-  "url": "https://stspg.io/22p3vp78z20q"
- },
- {
-  "body": "We are experiencing increased failures and latency on our agent sessions service, including creating and listing sessions. This can impact cloud based agent sessions on web, mobile, VS Code, CLI and the GitHub Copilot app.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 GitHub has a limp, not a break",
-  "id": "github:rn76zdy367m2:opened:investigating:minor:2026-10-29T10:22:18.215000+00:00",
-  "impact": "minor",
-  "incident_id": "rn76zdy367m2",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-29T10:30:20.271415+00:00",
-  "started_at": "2026-10-29T10:19:55.313000+00:00",
-  "status": "investigating",
-  "title": "Disruption with Copilot Cloud services",
-  "transition": "opened",
   "url": "https://stspg.io/22p3vp78z20q"
  }
 ]
