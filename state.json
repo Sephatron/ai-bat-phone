@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-19T16:00:00+00:00",
+ "heartbeat": "2026-11-19T17:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -6779,8 +6779,8 @@
   "openai:01M7T8MRF9SDBDNQ62Z6V156ZZ": {
    "impact": "major",
    "last_seen_at": "2026-11-19T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-19T16:21:41+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-19T16:58:04+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",

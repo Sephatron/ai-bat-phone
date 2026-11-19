@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 19 Nov 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI lives. Pick your tools back up.]]></title>
+<link>https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</link>
+<guid isPermaLink='false'>openai:01M7T8MRF9SDBDNQ62Z6V156ZZ:resolved:resolved:major:2026-11-19T16:58:04+00:00</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:41 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated error rates for gpt-6 Luna API requests</strong></p><p>Impact: major · Status: resolved · Duration: 56 min · Opened: Thu, 19 Nov 2026 16:01:12 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
 <link>https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</link>
