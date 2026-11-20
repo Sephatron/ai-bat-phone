@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue is resolved",
+  "components": [],
+  "duration": "4h 54m",
+  "headline": "🟢 Lovable sorted itself out after 4h 54m",
+  "id": "lovable:01M7WWN25ZB1G2EBRE035KJYV1:resolved:resolved:minor:2026-11-20T21:23:44+00:00",
+  "impact": "minor",
+  "incident_id": "01M7WWN25ZB1G2EBRE035KJYV1",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-20T21:30:45.534128+00:00",
+  "started_at": "2026-11-20T16:29:22+00:00",
+  "status": "resolved",
+  "title": "Intermittent errors for some users",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M7WWN25ZB1G2EBRE035KJYV1"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "49 min",
@@ -7768,23 +7786,5 @@
   "title": "Investigating issues related to platform access",
   "transition": "resolved",
   "url": "https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e"
- },
- {
-  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 GitHub has applied a fix and is holding its breath",
-  "id": "github:lyyfm7j4pkgl:progress:monitoring:minor:2026-10-30T22:32:14.197000+00:00",
-  "impact": "minor",
-  "incident_id": "lyyfm7j4pkgl",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-30T22:45:17.714482+00:00",
-  "started_at": "2026-10-30T20:59:14.215000+00:00",
-  "status": "monitoring",
-  "title": "Incident with Dependabot",
-  "transition": "progress",
-  "url": "https://stspg.io/5bh6qnzn76tk"
  }
 ]
