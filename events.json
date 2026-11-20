@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "49 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M7X5PJYCPVF5QHBZP544HJ8N:resolved:resolved:minor:2026-11-20T19:56:40+00:00",
+  "impact": "minor",
+  "incident_id": "01M7X5PJYCPVF5QHBZP544HJ8N",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-20T20:00:47.253932+00:00",
+  "started_at": "2026-11-20T19:07:29+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3.1 Pro",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M7X5PJYCPVF5QHBZP544HJ8N"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3.1 Pro. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7768,23 +7786,5 @@
   "title": "Incident with Dependabot",
   "transition": "progress",
   "url": "https://stspg.io/5bh6qnzn76tk"
- },
- {
-  "body": "[Identified] Customers reporting Replit is inaccessible",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Replit has identified the problem. Fix pending.",
-  "id": "replit:36c1345c-f557-4403-93ac-da9c3f350a9e:opened:identified:minor:2026-10-30T22:30:18.579175+00:00",
-  "impact": "minor",
-  "incident_id": "36c1345c-f557-4403-93ac-da9c3f350a9e",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-30T22:30:18.579175+00:00",
-  "started_at": "2026-10-30T22:21:10+00:00",
-  "status": "identified",
-  "title": "Investigating issues related to platform access",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e"
  }
 ]

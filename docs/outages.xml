@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 20 Nov 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M7X5PJYCPVF5QHBZP544HJ8N</link>
+<guid isPermaLink='false'>fireworks:01M7X5PJYCPVF5QHBZP544HJ8N:resolved:resolved:minor:2026-11-20T19:56:40+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 20:00:47 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3.1 Pro</strong></p><p>Impact: minor · Status: resolved · Duration: 49 min · Opened: Fri, 20 Nov 2026 19:07:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7X5PJYCPVF5QHBZP544HJ8N">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M7X5PJYCPVF5QHBZP544HJ8N</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 10 Nov 2026 04:45:16 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Incorrect cost data in Costs API exports</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Tue, 10 Nov 2026 04:42:21 +0000</p><p>We have identified an issue causing incorrect cost data in Costs API exports published between November 6 and 9. We are working to correct the affected records and will provide an update once recovery is confirmed.</p><p><a href="https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from GitHub after 49 min]]></title>
-<link>https://stspg.io/t5gqmprtrdf2</link>
-<guid isPermaLink='false'>github:6jm5k16vyhfg:resolved:resolved:major:2026-11-10T00:05:52.370000+00:00</guid>
-<pubDate>Tue, 10 Nov 2026 00:12:38 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot</strong></p><p>Impact: major · Status: resolved · Affects: Copilot, Copilot AI Model Providers · Duration: 49 min · Opened: Mon, 09 Nov 2026 23:16:32 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/t5gqmprtrdf2">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

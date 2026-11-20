@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 20 Nov 2026 19:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 20:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M7X5PJYCPVF5QHBZP544HJ8N</link>
+<guid isPermaLink='false'>fireworks:01M7X5PJYCPVF5QHBZP544HJ8N:resolved:resolved:minor:2026-11-20T19:56:40+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 20:00:47 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3.1 Pro</strong></p><p>Impact: minor · Status: resolved · Duration: 49 min · Opened: Fri, 20 Nov 2026 19:07:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7X5PJYCPVF5QHBZP544HJ8N">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M7X5PJYCPVF5QHBZP544HJ8N</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 10 Nov 2026 04:45:16 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Incorrect cost data in Costs API exports</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Tue, 10 Nov 2026 04:42:21 +0000</p><p>We have identified an issue causing incorrect cost data in Costs API exports published between November 6 and 9. We are working to correct the affected records and will provide an update once recovery is confirmed.</p><p><a href="https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 SambaNova has put the tools away]]></title>
-<link>https://stspg.io/jhrm1plcyg85</link>
-<guid isPermaLink='false'>sambanova:zw752rgdzhv4:resolved:completed:maintenance:2026-11-10T01:00:51.817000+00:00</guid>
-<pubDate>Tue, 10 Nov 2026 01:15:16 +0000</pubDate>
-<category>SambaNova</category>
-<description><![CDATA[<p><strong>Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC)</strong></p><p>Scheduled maintenance · Status: completed · Affects: SambaCloud Playground, MiniMax-M2.7, SambaCloud API Gateway, gpt-oss-120b, gemma-4-31B-it, Meta-Llama-3.3-70B-Instruct, SambaCloud - Japan, DeepSeek-V3.1 · Duration: 5h 37m · Opened: Mon, 09 Nov 2026 19:23:48 +0000</p><p>The scheduled maintenance has been completed.</p><p><a href="https://stspg.io/jhrm1plcyg85">SambaNova status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
