@@ -1,5 +1,65 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K2.8 Preview"
+  ],
+  "duration": "12 min",
+  "headline": "🟢 Moonshot AI (Kimi) is upright again. That took 12 min.",
+  "id": "moonshot:697tpdrtb30q:resolved:resolved:critical:2026-11-20T13:23:09.881000+00:00",
+  "impact": "critical",
+  "incident_id": "697tpdrtb30q",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-20T13:30:45.107458+00:00",
+  "started_at": "2026-11-20T13:11:09.751000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K2.8 Preview 请求处理严重异常",
+  "transition": "resolved",
+  "url": "https://stspg.io/4r3xq304tx4m"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3.1 Pro Highspeed"
+  ],
+  "duration": "12 min",
+  "headline": "🟢 Moonshot AI (Kimi) is upright again. That took 12 min.",
+  "id": "moonshot:y0y7r1h45h2f:resolved:resolved:critical:2026-11-20T13:22:48.413000+00:00",
+  "impact": "critical",
+  "incident_id": "y0y7r1h45h2f",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-20T13:30:45.107458+00:00",
+  "started_at": "2026-11-20T13:10:48.368000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3.1 Pro Highspeed 请求处理严重异常",
+  "transition": "resolved",
+  "url": "https://stspg.io/4qc14v5m1nx3"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
+   "K3"
+  ],
+  "duration": "6 min",
+  "headline": "🟢 All clear from Moonshot AI (Kimi) after 6 min",
+  "id": "moonshot:vzlv2wj1qpqg:resolved:resolved:critical:2026-11-20T13:16:47.119000+00:00",
+  "impact": "critical",
+  "incident_id": "vzlv2wj1qpqg",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-20T13:30:45.107458+00:00",
+  "started_at": "2026-11-20T13:10:47.070000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3 请求处理严重异常",
+  "transition": "resolved",
+  "url": "https://stspg.io/wgs63blgmmhm"
+ },
+ {
   "body": "K2.8 Preview 部分请求可能响应异常",
   "components": [
    "K2.8 Preview"
@@ -7724,63 +7784,5 @@
   "title": "Service Degradation for Qwen 3.8 Max",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A"
- },
- {
-  "body": "We’re aware of issues affecting search in Dots, ChatGPT Work, and some ChatGPT thinking experiences. We’re investigating and will share updates here.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M6754SR14HCQ3E9FX426E2N7:opened:investigating:minor:2026-10-30T19:38:47+00:00",
-  "impact": "minor",
-  "incident_id": "01M6754SR14HCQ3E9FX426E2N7",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-30T19:45:18.319697+00:00",
-  "started_at": "2026-10-30T19:38:47+00:00",
-  "status": "investigating",
-  "title": "Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences",
-  "transition": "opened",
-  "url": "https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7"
- },
- {
-  "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is having a wobble",
-  "id": "fireworks:01M6752F3ZBDTVVMZ6DTXAA68A:opened:investigating:minor:2026-10-30T19:37:31+00:00",
-  "impact": "minor",
-  "incident_id": "01M6752F3ZBDTVVMZ6DTXAA68A",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-30T19:45:18.319697+00:00",
-  "started_at": "2026-10-30T19:37:31+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Webhooks",
-   "Actions",
-   "Pages"
-  ],
-  "duration": "1h 32m",
-  "headline": "🟢 All clear from GitHub after 1h 32m",
-  "id": "github:pwxsjgnvrk6b:resolved:resolved:major:2026-10-30T19:23:40.203000+00:00",
-  "impact": "major",
-  "incident_id": "pwxsjgnvrk6b",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-30T19:30:19.186612+00:00",
-  "started_at": "2026-10-30T17:50:54.670000+00:00",
-  "status": "resolved",
-  "title": "Incident with Actions, Pages, and Webhooks",
-  "transition": "resolved",
-  "url": "https://stspg.io/5cd2m4n59spv"
  }
 ]
