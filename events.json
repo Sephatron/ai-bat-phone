@@ -1,5 +1,23 @@
 [
  {
+  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
+  "components": [],
+  "duration": "",
+  "headline": "📡 Still watching. Nothing to report.",
+  "id": "meta:all:alive:2026-11-20",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "batphone",
+  "provider_name": "AI Bat Phone",
+  "published_at": "2026-11-20T15:00:46.534712+00:00",
+  "started_at": "2026-11-20T15:00:46.534712+00:00",
+  "status": "alive",
+  "title": "Still watching 21 provider status pages",
+  "transition": "alive",
+  "url": "https://sephatron.github.io/ai-bat-phone"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "K3.1 Pro"
@@ -7768,23 +7786,5 @@
   "title": "Incident with Dependabot",
   "transition": "opened",
   "url": "https://stspg.io/5bh6qnzn76tk"
- },
- {
-  "body": "We are experiencing service degradation impacting deployment creation, dedicated training, and batch inference services. We are working to resolve these issues and will provide updates here.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 Fireworks AI has identified the problem. Fix pending.",
-  "id": "fireworks:01M679955DA5K8S2HMEXDPCBR3:opened:identified:none:2026-10-30T20:51:04+00:00",
-  "impact": "none",
-  "incident_id": "01M679955DA5K8S2HMEXDPCBR3",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-30T21:00:19.226472+00:00",
-  "started_at": "2026-10-30T20:51:04+00:00",
-  "status": "identified",
-  "title": "Service degradation",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3"
  }
 ]
