@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some users may see occasional errors when using Lovable, including when sending messages in chat. Our team is investigating and working on a fix.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Lovable has a limp, not a break",
+  "id": "lovable:01M7WWN25ZB1G2EBRE035KJYV1:opened:investigating:minor:2026-11-20T16:29:22+00:00",
+  "impact": "minor",
+  "incident_id": "01M7WWN25ZB1G2EBRE035KJYV1",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-20T16:30:45.690069+00:00",
+  "started_at": "2026-11-20T16:29:22+00:00",
+  "status": "investigating",
+  "title": "Intermittent errors for some users",
+  "transition": "opened",
+  "url": "https://status.lovable.dev/incidents/01M7WWN25ZB1G2EBRE035KJYV1"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
@@ -7768,23 +7786,5 @@
   "title": "Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences",
   "transition": "resolved",
   "url": "https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7"
- },
- {
-  "body": "We are investigating reports of impacted performance for some GitHub services.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 GitHub has a limp, not a break",
-  "id": "github:lyyfm7j4pkgl:opened:investigating:minor:2026-10-30T20:59:14.295000+00:00",
-  "impact": "minor",
-  "incident_id": "lyyfm7j4pkgl",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-10-30T21:00:19.226472+00:00",
-  "started_at": "2026-10-30T20:59:14.215000+00:00",
-  "status": "investigating",
-  "title": "Incident with Dependabot",
-  "transition": "opened",
-  "url": "https://stspg.io/5bh6qnzn76tk"
  }
 ]
