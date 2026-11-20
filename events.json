@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3.1 Pro. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is sulking, mildly",
+  "id": "fireworks:01M7X5PJYCPVF5QHBZP544HJ8N:opened:investigating:minor:2026-11-20T19:07:29+00:00",
+  "impact": "minor",
+  "incident_id": "01M7X5PJYCPVF5QHBZP544HJ8N",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-20T19:15:46.873876+00:00",
+  "started_at": "2026-11-20T19:07:29+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3.1 Pro",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M7X5PJYCPVF5QHBZP544HJ8N"
+ },
+ {
   "body": "Some users may see occasional errors when using Lovable, including when sending messages in chat. Our team is investigating and working on a fix.",
   "components": [],
   "duration": "",
@@ -7768,23 +7786,5 @@
   "title": "Investigating issues related to platform access",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/36c1345c-f557-4403-93ac-da9c3f350a9e"
- },
- {
-  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
-  "components": [],
-  "duration": "1h 35m",
-  "headline": "🟢 OpenAI has stopped wobbling",
-  "id": "openai:01M6754SR14HCQ3E9FX426E2N7:resolved:resolved:minor:2026-10-30T21:14:12+00:00",
-  "impact": "minor",
-  "incident_id": "01M6754SR14HCQ3E9FX426E2N7",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-10-30T21:15:18.287307+00:00",
-  "started_at": "2026-10-30T19:38:47+00:00",
-  "status": "resolved",
-  "title": "Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences",
-  "transition": "resolved",
-  "url": "https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7"
  }
 ]
