@@ -2,6 +2,26 @@
  {
   "body": "This incident has been resolved.",
   "components": [
+   "K3.1 Pro"
+  ],
+  "duration": "33 min",
+  "headline": "🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.",
+  "id": "moonshot:zzpk5bjhlm1r:resolved:resolved:critical:2026-11-20T13:37:48.533000+00:00",
+  "impact": "critical",
+  "incident_id": "zzpk5bjhlm1r",
+  "kind": "incident",
+  "provider_key": "moonshot",
+  "provider_name": "Moonshot AI (Kimi)",
+  "published_at": "2026-11-20T13:45:46.938617+00:00",
+  "started_at": "2026-11-20T13:04:48.378000+00:00",
+  "status": "resolved",
+  "title": "Kimi Code K3.1 Pro 请求处理严重异常",
+  "transition": "resolved",
+  "url": "https://stspg.io/140y4386n6rj"
+ },
+ {
+  "body": "This incident has been resolved.",
+  "components": [
    "K2.8 Preview"
   ],
   "duration": "12 min",
@@ -7766,23 +7786,5 @@
   "title": "Service degradation",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M679955DA5K8S2HMEXDPCBR3"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "36 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M6752F3ZBDTVVMZ6DTXAA68A:resolved:resolved:minor:2026-10-30T20:13:36+00:00",
-  "impact": "minor",
-  "incident_id": "01M6752F3ZBDTVVMZ6DTXAA68A",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-30T20:15:20.848084+00:00",
-  "started_at": "2026-10-30T19:37:31+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Qwen 3.8 Max",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6752F3ZBDTVVMZ6DTXAA68A"
  }
 ]

@@ -6083,8 +6083,8 @@
   "moonshot:zzpk5bjhlm1r": {
    "impact": "critical",
    "last_seen_at": "2026-11-20T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-20T13:04:48.522000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-20T13:37:48.533000+00:00"
   },
   "moonshot:zzycpn3dj9qv": {
    "impact": "critical",

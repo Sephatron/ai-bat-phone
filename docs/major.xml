@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
+<link>https://stspg.io/140y4386n6rj</link>
+<guid isPermaLink='false'>moonshot:zzpk5bjhlm1r:resolved:resolved:critical:2026-11-20T13:37:48.533000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:45:46 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3.1 Pro 请求处理严重异常</strong></p><p>Impact: critical · Status: resolved · Affects: K3.1 Pro · Duration: 33 min · Opened: Fri, 20 Nov 2026 13:04:48 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/140y4386n6rj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 12 min.]]></title>
 <link>https://stspg.io/4r3xq304tx4m</link>
 <guid isPermaLink='false'>moonshot:697tpdrtb30q:resolved:resolved:critical:2026-11-20T13:23:09.881000+00:00</guid>
