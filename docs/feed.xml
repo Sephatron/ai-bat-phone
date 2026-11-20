@@ -10,6 +10,38 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/4r3xq304tx4m</link>
+<guid isPermaLink='false'>moonshot:697tpdrtb30q:opened:investigating:critical:2026-11-20T13:11:09.878000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:15:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K2.8 Preview 请求处理严重异常</strong></p><p>Impact: critical · Status: investigating · Affects: K2.8 Preview · Opened: Fri, 20 Nov 2026 13:11:09 +0000</p><p>K2.8 Preview 部分请求可能响应异常</p><p><a href="https://stspg.io/4r3xq304tx4m">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/4qc14v5m1nx3</link>
+<guid isPermaLink='false'>moonshot:y0y7r1h45h2f:opened:investigating:critical:2026-11-20T13:10:48.478000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:15:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3.1 Pro Highspeed 请求处理严重异常</strong></p><p>Impact: critical · Status: investigating · Affects: K3.1 Pro Highspeed · Opened: Fri, 20 Nov 2026 13:10:48 +0000</p><p>K3.1 Pro Highspeed 部分请求可能响应异常</p><p><a href="https://stspg.io/4qc14v5m1nx3">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/wgs63blgmmhm</link>
+<guid isPermaLink='false'>moonshot:vzlv2wj1qpqg:opened:investigating:critical:2026-11-20T13:10:47.207000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:15:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 请求处理严重异常</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Fri, 20 Nov 2026 13:10:47 +0000</p><p>K3 部分请求可能响应异常</p><p><a href="https://stspg.io/wgs63blgmmhm">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/140y4386n6rj</link>
+<guid isPermaLink='false'>moonshot:zzpk5bjhlm1r:opened:investigating:critical:2026-11-20T13:04:48.522000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:15:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3.1 Pro 请求处理严重异常</strong></p><p>Impact: critical · Status: investigating · Affects: K3.1 Pro · Opened: Fri, 20 Nov 2026 13:04:48 +0000</p><p>K3.1 Pro 部分请求可能响应异常</p><p><a href="https://stspg.io/140y4386n6rj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
 <link>https://stspg.io/pvjz2g01trc7</link>
 <guid isPermaLink='false'>github:m310qbkfm3ww:resolved:resolved:minor:2026-11-19T18:17:42.609000+00:00</guid>
@@ -1576,38 +1608,6 @@
 <pubDate>Mon, 09 Nov 2026 23:30:17 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot</strong></p><p>Impact: major · Status: investigating · Affects: Copilot, Copilot AI Model Providers · Opened: Mon, 09 Nov 2026 23:16:32 +0000</p><p>Copilot is operating normally.</p><p><a href="https://stspg.io/t5gqmprtrdf2">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Cursor is having a wobble]]></title>
-<link>https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91</link>
-<guid isPermaLink='false'>cursor:ps_36cccee22d7e0c91:opened:investigating:minor:2026-11-09T23:10:16+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 23:15:17 +0000</pubDate>
-<category>Cursor</category>
-<description><![CDATA[<p><strong>Elevated errors for OpenAI model requests</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, CLI, IDE · Opened: Mon, 09 Nov 2026 23:10:16 +0000</p><p>We're investigating elevated errors affecting requests to OpenAI models. Some users may see failed or incomplete responses. Other models are unaffected and can be used in the meantime. We'll share another update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI knows what it did]]></title>
-<link>https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7</link>
-<guid isPermaLink='false'>openai:01M7193DWYRFWQM5W6E3VZ7TM7:opened:identified:minor:2026-11-09T23:08:12+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 23:15:17 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Errors On API</strong></p><p>Impact: minor · Status: identified · Opened: Mon, 09 Nov 2026 23:08:12 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 SambaNova is under the bonnet right now]]></title>
-<link>https://stspg.io/jhrm1plcyg85</link>
-<guid isPermaLink='false'>sambanova:zw752rgdzhv4:progress:in_progress:maintenance:2026-11-09T22:00:12.707000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 22:15:17 +0000</pubDate>
-<category>SambaNova</category>
-<description><![CDATA[<p><strong>Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC)</strong></p><p>Scheduled maintenance · Status: in progress · Affects: SambaCloud Playground, MiniMax-M2.7, SambaCloud API Gateway, gpt-oss-120b, gemma-4-31B-it, Meta-Llama-3.3-70B-Instruct, SambaCloud - Japan, DeepSeek-V3.1 · Opened: Mon, 09 Nov 2026 19:23:48 +0000</p><p>Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><a href="https://stspg.io/jhrm1plcyg85">SambaNova status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔧 SambaNova has scheduled a lie-down]]></title>
-<link>https://stspg.io/jhrm1plcyg85</link>
-<guid isPermaLink='false'>sambanova:zw752rgdzhv4:opened:scheduled:maintenance:2026-11-09T19:23:48.583000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 19:30:17 +0000</pubDate>
-<category>SambaNova</category>
-<description><![CDATA[<p><strong>Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC)</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: SambaCloud Playground, MiniMax-M2.7, SambaCloud API Gateway, gpt-oss-120b, gemma-4-31B-it, Meta-Llama-3.3-70B-Instruct, SambaCloud - Japan, DeepSeek-V3.1 · Opened: Mon, 09 Nov 2026 19:23:48 +0000</p><p>Scheduled Maintenance — Monday, November 9, 2026 2:00 PM – 5:00 PM PT (22:00 – 01:00 UTC) We will be performing scheduled maintenance during the window above. No service outage or disruption is expected — all services will remain fully available throughout the maintenance period. We’re posting this notice for transparency and awareness. No action is required on your part. If you experience any unexpected issues during this window, please contact support and we’ll assist you right away. We’ll update this page when maintenance is complete.</p><p><a href="https://stspg.io/jhrm1plcyg85">SambaNova status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

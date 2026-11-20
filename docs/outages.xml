@@ -10,6 +10,38 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/4r3xq304tx4m</link>
+<guid isPermaLink='false'>moonshot:697tpdrtb30q:opened:investigating:critical:2026-11-20T13:11:09.878000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:15:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K2.8 Preview 请求处理严重异常</strong></p><p>Impact: critical · Status: investigating · Affects: K2.8 Preview · Opened: Fri, 20 Nov 2026 13:11:09 +0000</p><p>K2.8 Preview 部分请求可能响应异常</p><p><a href="https://stspg.io/4r3xq304tx4m">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
+<link>https://stspg.io/4qc14v5m1nx3</link>
+<guid isPermaLink='false'>moonshot:y0y7r1h45h2f:opened:investigating:critical:2026-11-20T13:10:48.478000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:15:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3.1 Pro Highspeed 请求处理严重异常</strong></p><p>Impact: critical · Status: investigating · Affects: K3.1 Pro Highspeed · Opened: Fri, 20 Nov 2026 13:10:48 +0000</p><p>K3.1 Pro Highspeed 部分请求可能响应异常</p><p><a href="https://stspg.io/4qc14v5m1nx3">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.]]></title>
+<link>https://stspg.io/wgs63blgmmhm</link>
+<guid isPermaLink='false'>moonshot:vzlv2wj1qpqg:opened:investigating:critical:2026-11-20T13:10:47.207000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:15:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3 请求处理严重异常</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Fri, 20 Nov 2026 13:10:47 +0000</p><p>K3 部分请求可能响应异常</p><p><a href="https://stspg.io/wgs63blgmmhm">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/140y4386n6rj</link>
+<guid isPermaLink='false'>moonshot:zzpk5bjhlm1r:opened:investigating:critical:2026-11-20T13:04:48.522000+00:00</guid>
+<pubDate>Fri, 20 Nov 2026 13:15:45 +0000</pubDate>
+<category>Moonshot AI (Kimi)</category>
+<description><![CDATA[<p><strong>Kimi Code K3.1 Pro 请求处理严重异常</strong></p><p>Impact: critical · Status: investigating · Affects: K3.1 Pro · Opened: Fri, 20 Nov 2026 13:04:48 +0000</p><p>K3.1 Pro 部分请求可能响应异常</p><p><a href="https://stspg.io/140y4386n6rj">Moonshot AI (Kimi) status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
 <link>https://stspg.io/pvjz2g01trc7</link>
 <guid isPermaLink='false'>github:m310qbkfm3ww:resolved:resolved:minor:2026-11-19T18:17:42.609000+00:00</guid>
@@ -1576,38 +1608,6 @@
 <pubDate>Mon, 09 Nov 2026 23:15:17 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors for OpenAI model requests</strong></p><p>Impact: minor · Status: investigating · Affects: Automations, Cloud Agents, CLI, IDE · Opened: Mon, 09 Nov 2026 23:10:16 +0000</p><p>We're investigating elevated errors affecting requests to OpenAI models. Some users may see failed or incomplete responses. Other models are unaffected and can be used in the meantime. We'll share another update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_36cccee22d7e0c91">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI knows what it did]]></title>
-<link>https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7</link>
-<guid isPermaLink='false'>openai:01M7193DWYRFWQM5W6E3VZ7TM7:opened:identified:minor:2026-11-09T23:08:12+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 23:15:17 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated Errors On API</strong></p><p>Impact: minor · Status: identified · Opened: Mon, 09 Nov 2026 23:08:12 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M7193DWYRFWQM5W6E3VZ7TM7">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R</link>
-<guid isPermaLink='false'>openai:01M70RDA2GWD2WXE58ANY0WV5R:resolved:resolved:minor:2026-11-09T19:08:31+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 19:15:17 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated ChatGPT Conversation Errors</strong></p><p>Impact: minor · Status: resolved · Duration: 52 min · Opened: Mon, 09 Nov 2026 18:16:30 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M70RDA2GWD2WXE58ANY0WV5R">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is upright again. That took 46 min.]]></title>
-<link>https://stspg.io/7yw63xl9ztrv</link>
-<guid isPermaLink='false'>github:tp8cghg7tlc4:resolved:resolved:critical:2026-11-09T18:59:32.604000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 19:00:18 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions and Checks API</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Actions, Pages · Duration: 46 min · Opened: Mon, 09 Nov 2026 18:12:37 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/7yw63xl9ztrv">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/7yw63xl9ztrv</link>
-<guid isPermaLink='false'>github:tp8cghg7tlc4:progress:monitoring:critical:2026-11-09T18:43:24.587000+00:00</guid>
-<pubDate>Mon, 09 Nov 2026 18:45:18 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions and Checks API</strong></p><p>Impact: critical · Status: monitoring · Affects: Webhooks, Actions, Pages · Opened: Mon, 09 Nov 2026 18:12:37 +0000</p><p>The degradation affecting Actions, Pages and Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/7yw63xl9ztrv">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
