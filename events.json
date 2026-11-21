@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "34 min",
+  "headline": "🟢 Fireworks AI has stopped wobbling",
+  "id": "fireworks:01M7XX1N1YYAE08SRM0K22GSG3:resolved:resolved:minor:2026-11-21T02:29:34+00:00",
+  "impact": "minor",
+  "incident_id": "01M7XX1N1YYAE08SRM0K22GSG3",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-21T02:30:46.908563+00:00",
+  "started_at": "2026-11-21T01:55:29+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Qwen 3.8 Max",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M7XX1N1YYAE08SRM0K22GSG3"
+ },
+ {
   "body": "We are seeing impacted performance for Qwen 3.8 Max. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7764,25 +7782,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "opened",
   "url": "https://stspg.io/gs4j9nf0w3dr"
- },
- {
-  "body": "K3 输出速度可能变慢",
-  "components": [
-   "K3"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.",
-  "id": "moonshot:dywv44h2n4ht:opened:investigating:critical:2026-10-31T04:42:47.839000+00:00",
-  "impact": "critical",
-  "incident_id": "dywv44h2n4ht",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-31T04:45:18.288372+00:00",
-  "started_at": "2026-10-31T04:42:47.769000+00:00",
-  "status": "investigating",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "opened",
-  "url": "https://stspg.io/1zzhj3x1tk59"
  }
 ]

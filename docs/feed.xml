@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M7XX1N1YYAE08SRM0K22GSG3</link>
+<guid isPermaLink='false'>fireworks:01M7XX1N1YYAE08SRM0K22GSG3:resolved:resolved:minor:2026-11-21T02:29:34+00:00</guid>
+<pubDate>Sat, 21 Nov 2026 02:30:46 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Qwen 3.8 Max</strong></p><p>Impact: minor · Status: resolved · Duration: 34 min · Opened: Sat, 21 Nov 2026 01:55:29 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7XX1N1YYAE08SRM0K22GSG3">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
 <link>https://status.fireworks.ai/incidents/01M7XX1N1YYAE08SRM0K22GSG3</link>
 <guid isPermaLink='false'>fireworks:01M7XX1N1YYAE08SRM0K22GSG3:opened:investigating:minor:2026-11-21T01:55:29+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 10 Nov 2026 16:15:18 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated error rates with some U.S. business Mastercards</strong></p><p>Impact: unclassified · Status: resolved · Duration: 3d 21h · Opened: Fri, 06 Nov 2026 18:38:43 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M6S2FV5TZWQ753NHRB7BF5K7">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI sorted itself out after 2h 20m]]></title>
-<link>https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K</link>
-<guid isPermaLink='false'>openai:01M71W79MAGEXEX93QTVTBYJ4K:resolved:resolved:none:2026-11-10T07:02:33+00:00</guid>
-<pubDate>Tue, 10 Nov 2026 07:15:16 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Incorrect cost data in Costs API exports</strong></p><p>Impact: unclassified · Status: resolved · Duration: 2h 20m · Opened: Tue, 10 Nov 2026 04:42:21 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M71W79MAGEXEX93QTVTBYJ4K">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
