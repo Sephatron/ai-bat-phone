@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 Baseten is booking time off: DB Upgrade. Inference will not be affected]]></title>
+<link>https://stspg.io/449gqs1wzjdw</link>
+<guid isPermaLink='false'>baseten:415r1wg9pv7j:opened:scheduled:maintenance:2026-11-23T23:21:41.480000+00:00</guid>
+<pubDate>Mon, 23 Nov 2026 23:30:43 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>DB Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: scheduled · Affects: Model Management API, Web Application · Opened: Mon, 23 Nov 2026 23:21:41 +0000</p><p>We will be performing a database upgrade between 9:30PM and 10:30 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour, impacting new model deploys along with some pages in the application and REST API endpoints. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.</p><p><a href="https://stspg.io/449gqs1wzjdw">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 48 min]]></title>
 <link>https://status.openai.com/incidents/01M84HKHX73RF7HTVZQ2A9GFXP</link>
 <guid isPermaLink='false'>openai:01M84HKHX73RF7HTVZQ2A9GFXP:resolved:resolved:minor:2026-11-23T16:38:46+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 11 Nov 2026 19:30:16 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Model APIs are down for all models</strong></p><p>Impact: critical · Status: identified · Affects: Model APIs · Opened: Wed, 11 Nov 2026 19:17:23 +0000</p><p>We've identified the cause and expect recovery in the next 10 minutes.</p><p><a href="https://stspg.io/1bf5v9jhdwt8">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
-<link>https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ</link>
-<guid isPermaLink='false'>lovable:01M75SK5DGJ4NX2M3P4E0EM2QZ:resolved:resolved:minor:2026-11-11T19:15:02+00:00</guid>
-<pubDate>Wed, 11 Nov 2026 19:15:18 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Database creation failures in APAC</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 01m · Opened: Wed, 11 Nov 2026 17:13:22 +0000</p><p>Our database provider has recovered, and database creation in the Asia-Pacific region is operating normally.</p><p><a href="https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

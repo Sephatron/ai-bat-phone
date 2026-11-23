@@ -1,5 +1,26 @@
 [
  {
+  "body": "We will be performing a database upgrade between 9:30PM and 10:30 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour, impacting new model deploys along with some pages in the application and REST API endpoints. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "",
+  "headline": "🔧 Baseten is booking time off: DB Upgrade. Inference will not be affected",
+  "id": "baseten:415r1wg9pv7j:opened:scheduled:maintenance:2026-11-23T23:21:41.480000+00:00",
+  "impact": "maintenance",
+  "incident_id": "415r1wg9pv7j",
+  "kind": "maintenance",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-23T23:30:43.522809+00:00",
+  "started_at": "2026-11-23T23:21:41.362000+00:00",
+  "status": "scheduled",
+  "title": "DB Upgrade. Inference will not be affected",
+  "transition": "opened",
+  "url": "https://stspg.io/449gqs1wzjdw"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "48 min",
@@ -7759,25 +7780,5 @@
   "title": "Service Degradation - Billing and Usage Dashboard",
   "transition": "opened",
   "url": "https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa"
- },
- {
-  "body": "K3 输出速度可能变慢",
-  "components": [
-   "K3"
-  ],
-  "duration": "",
-  "headline": "🔴 Tools down: Moonshot AI (Kimi) is broken",
-  "id": "moonshot:xs3b2n277nbg:opened:investigating:critical:2026-11-01T04:58:48.369000+00:00",
-  "impact": "critical",
-  "incident_id": "xs3b2n277nbg",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T05:00:18.270407+00:00",
-  "started_at": "2026-11-01T04:58:48.255000+00:00",
-  "status": "investigating",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "opened",
-  "url": "https://stspg.io/l5797zbx1l7b"
  }
 ]
