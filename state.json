@@ -4085,8 +4085,8 @@
   "fireworks:01M84CPGD66CWC38Y760PYE76H": {
    "impact": "minor",
    "last_seen_at": "2026-11-23T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-23T14:24:28+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-23T14:40:22+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",

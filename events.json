@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "15 min",
+  "headline": "🟢 Fireworks AI sorted itself out after 15 min",
+  "id": "fireworks:01M84CPGD66CWC38Y760PYE76H:resolved:resolved:minor:2026-11-23T14:40:22+00:00",
+  "impact": "minor",
+  "incident_id": "01M84CPGD66CWC38Y760PYE76H",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-23T14:45:43.064666+00:00",
+  "started_at": "2026-11-23T14:24:28+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M84CPGD66CWC38Y760PYE76H"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7760,24 +7778,6 @@
   "status": "resolved",
   "title": "Investigating an issue related to the agent's ability to process images",
   "transition": "resolved",
-  "url": "https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1"
- },
- {
-  "body": "[Investigating] We are actively investigating an issue related to the agent's ability to process images.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is having a wobble",
-  "id": "replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:opened:investigating:minor:2026-10-31T10:00:18.745721+00:00",
-  "impact": "minor",
-  "incident_id": "c3a6faca-3476-4565-8d92-fed4d3fc4ae1",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-31T10:00:18.745721+00:00",
-  "started_at": "2026-10-31T09:58:38+00:00",
-  "status": "investigating",
-  "title": "Investigating an issue related to the agent's ability to process images",
-  "transition": "opened",
   "url": "https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1"
  }
 ]
