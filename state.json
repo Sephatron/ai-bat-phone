@@ -6887,8 +6887,8 @@
   "openai:01M84HKHX73RF7HTVZQ2A9GFXP": {
    "impact": "minor",
    "last_seen_at": "2026-11-23T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-23T16:12:58+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-23T16:38:46+00:00"
   },
   "openrouter:0DVmalJZ9ozn": {
    "impact": "none",
