@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is a bit under the weather",
+  "id": "fireworks:01M8300306Q16Q2QRBXJ3C7W38:opened:investigating:minor:2026-11-23T01:23:16+00:00",
+  "impact": "minor",
+  "incident_id": "01M8300306Q16Q2QRBXJ3C7W38",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-23T01:30:44.706879+00:00",
+  "started_at": "2026-11-23T01:23:16+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Muse Spark Open US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M8300306Q16Q2QRBXJ3C7W38"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "34 min",
@@ -7762,25 +7780,5 @@
   "title": "Multiple services degraded",
   "transition": "opened",
   "url": "https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263"
- },
- {
-  "body": "K3 输出速度可能变慢",
-  "components": [
-   "K3"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.",
-  "id": "moonshot:kq56jb7y4lcw:opened:investigating:critical:2026-10-31T05:42:47.840000+00:00",
-  "impact": "critical",
-  "incident_id": "kq56jb7y4lcw",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-31T05:45:19.256870+00:00",
-  "started_at": "2026-10-31T05:42:47.765000+00:00",
-  "status": "investigating",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "opened",
-  "url": "https://stspg.io/gs4j9nf0w3dr"
  }
 ]
