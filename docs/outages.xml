@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is fixed. You may resume being productive.]]></title>
+<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_ce2b4247388345bd</link>
+<guid isPermaLink='false'>cursor:ps_ce2b4247388345bd:resolved:resolved:major:2026-11-23T03:36:53+00:00</guid>
+<pubDate>Mon, 23 Nov 2026 03:45:44 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Grok 4.5 Degraded</strong></p><p>Impact: major · Status: resolved · Affects: IDE · Duration: 34 min · Opened: Mon, 23 Nov 2026 03:02:19 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_ce2b4247388345bd">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Cursor thinks it's fixed and is watching nervously]]></title>
 <link>https://status.x.ai/history?incident=cursor-desktop%2Fps_ce2b4247388345bd</link>
 <guid isPermaLink='false'>cursor:ps_ce2b4247388345bd:opened:monitoring:major:2026-11-23T03:05:16+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 11 Nov 2026 01:15:17 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Scribe v3 Live outage</strong></p><p>Impact: major · Status: investigating · Opened: Wed, 11 Nov 2026 01:10:19 +0000</p><p>We are currently investigating an issue with Scribe v3 Live, resulting in the model being unavailable at this time.</p><p><a href="https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 All clear from GitHub after 1h 44m]]></title>
-<link>https://stspg.io/16nsnk2th3rv</link>
-<guid isPermaLink='false'>github:hnf21m9jkl3c:resolved:resolved:critical:2026-11-10T17:55:03.579000+00:00</guid>
-<pubDate>Tue, 10 Nov 2026 18:00:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Git Operations and Pull Requests</strong></p><p>Impact: critical · Status: resolved · Affects: Pull Requests, Actions · Duration: 1h 44m · Opened: Tue, 10 Nov 2026 16:10:52 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/16nsnk2th3rv">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
