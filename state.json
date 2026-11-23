@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-23T04:00:00+00:00",
+ "heartbeat": "2026-11-23T05:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -20,7 +20,9 @@
    "consecutive_failures": 0
   },
   "deepseek": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-11-23T05:00:00+00:00",
+   "last_error": "https://status.deepseek.com/history.rss returned HTTP 503"
   },
   "elevenlabs": {
    "consecutive_failures": 0
