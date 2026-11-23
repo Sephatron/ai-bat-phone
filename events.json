@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M84CPGD66CWC38Y760PYE76H:opened:investigating:minor:2026-11-23T14:24:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M84CPGD66CWC38Y760PYE76H",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-23T14:30:43.081558+00:00",
+  "started_at": "2026-11-23T14:24:28+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M84CPGD66CWC38Y760PYE76H"
+ },
+ {
   "body": "The issue affecting Claude services has been resolved. Impact occurred from 01:39 PT / 09:39 UTC to 01:56 PT / 09:56 UTC.",
   "components": [
    "claude.ai",
@@ -7761,25 +7779,5 @@
   "title": "Investigating an issue related to the agent's ability to process images",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "2h 54m",
-  "headline": "🟢 Moonshot AI (Kimi) is upright again. That took 2h 54m.",
-  "id": "moonshot:dywv44h2n4ht:resolved:resolved:critical:2026-10-31T07:36:49.904000+00:00",
-  "impact": "critical",
-  "incident_id": "dywv44h2n4ht",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-31T07:45:18.794556+00:00",
-  "started_at": "2026-10-31T04:42:47.769000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "resolved",
-  "url": "https://stspg.io/1zzhj3x1tk59"
  }
 ]

@@ -1097,13 +1097,5 @@
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: investigating · Affects: K3 · Opened: Sun, 01 Nov 2026 04:58:48 +0000</p><p>K3 输出速度可能变慢</p><p><a href="https://stspg.io/l5797zbx1l7b">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 2h 54m.]]></title>
-<link>https://stspg.io/1zzhj3x1tk59</link>
-<guid isPermaLink='false'>moonshot:dywv44h2n4ht:resolved:resolved:critical:2026-10-31T07:36:49.904000+00:00</guid>
-<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 2h 54m · Opened: Sat, 31 Oct 2026 04:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1zzhj3x1tk59">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
 </channel>
 </rss>
