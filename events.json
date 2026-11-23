@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI is on the mend. Don't get comfortable yet.",
+  "id": "openai:01M84HKHX73RF7HTVZQ2A9GFXP:progress:monitoring:minor:2026-11-23T16:12:58+00:00",
+  "impact": "minor",
+  "incident_id": "01M84HKHX73RF7HTVZQ2A9GFXP",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-23T16:15:43.656806+00:00",
+  "started_at": "2026-11-23T15:50:14+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors with GPT-6 conversations on paid ChatGPT plans",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M84HKHX73RF7HTVZQ2A9GFXP"
+ },
+ {
   "body": "We’ve identified the issue causing intermittent errors in GPT-6 conversations on paid ChatGPT plans. We are working on implementing a mitigation.",
   "components": [],
   "duration": "",
@@ -7760,24 +7778,6 @@
   "status": "resolved",
   "title": "Service Degradation for Muse Spark Open US",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368"
- },
- {
-  "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M6A5HDQWT2NAYHNPEMVAZ368:opened:investigating:minor:2026-10-31T23:43:24+00:00",
-  "impact": "minor",
-  "incident_id": "01M6A5HDQWT2NAYHNPEMVAZ368",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-10-31T23:45:17.926114+00:00",
-  "started_at": "2026-10-31T23:43:24+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Muse Spark Open US",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368"
  }
 ]
