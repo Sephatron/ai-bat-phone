@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:yzs0s90d8fm8:progress:monitoring:major:2026-11-23T10:07:23.487000+00:00",
+  "impact": "major",
+  "incident_id": "yzs0s90d8fm8",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-23T10:15:42.455967+00:00",
+  "started_at": "2026-11-23T09:49:22.296000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for multiple models",
+  "transition": "progress",
+  "url": "https://stspg.io/q2ptbwdjx31m"
+ },
+ {
   "body": "We have identified the cause of elevated errors on requests to Claude Mythos 5.2, Claude Fable 5.2, Claude Opus 5.5, Claude Sonnet 5.5, Claude Haiku 5.5, and other Claude models and are working on a fix. We will provide an update as soon as possible.",
   "components": [
    "claude.ai",
@@ -7755,25 +7778,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "resolved",
   "url": "https://stspg.io/l5wtphpgmsym"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "1h 54m",
-  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
-  "id": "moonshot:kq56jb7y4lcw:resolved:resolved:critical:2026-10-31T07:36:47.849000+00:00",
-  "impact": "critical",
-  "incident_id": "kq56jb7y4lcw",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-31T07:45:18.794556+00:00",
-  "started_at": "2026-10-31T05:42:47.765000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "resolved",
-  "url": "https://stspg.io/gs4j9nf0w3dr"
  }
 ]

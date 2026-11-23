@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/q2ptbwdjx31m</link>
+<guid isPermaLink='false'>anthropic:yzs0s90d8fm8:progress:monitoring:major:2026-11-23T10:07:23.487000+00:00</guid>
+<pubDate>Mon, 23 Nov 2026 10:15:42 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Mon, 23 Nov 2026 09:49:22 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/q2ptbwdjx31m">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Claude has found the culprit]]></title>
 <link>https://stspg.io/q2ptbwdjx31m</link>
 <guid isPermaLink='false'>anthropic:yzs0s90d8fm8:opened:identified:major:2026-11-23T09:56:38.880000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 11 Nov 2026 03:15:17 +0000</pubDate>
 <category>ElevenLabs</category>
 <description><![CDATA[<p><strong>Scribe v3 Live outage</strong></p><p>Impact: major · Status: resolved · Duration: 1h 53m · Opened: Wed, 11 Nov 2026 01:10:19 +0000</p><p>We have verified the implemented fix has remained stable and Scribe v3 Live is fully operational since 01:11AM BST.</p><p><a href="https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW">ElevenLabs status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
-<link>https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW</link>
-<guid isPermaLink='false'>elevenlabs:01M742FS08N2GNKA0M26ZW6WAW:progress:monitoring:major:2026-11-11T01:19:46+00:00</guid>
-<pubDate>Wed, 11 Nov 2026 01:30:16 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Scribe v3 Live outage</strong></p><p>Impact: major · Status: monitoring · Opened: Wed, 11 Nov 2026 01:10:19 +0000</p><p>We have identified and remedied the issue, Scribe v3 Live is available again. We are continuing to monitor performance. The outage occurred between 00:50AM to 01:11AM BST.</p><p><a href="https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
