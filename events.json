@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting Claude services has been resolved. Impact occurred from 01:39 PT / 09:39 UTC to 01:56 PT / 09:56 UTC.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "1h 18m",
+  "headline": "🟢 All clear from Claude after 1h 18m",
+  "id": "anthropic:yzs0s90d8fm8:resolved:resolved:major:2026-11-23T11:07:41.080000+00:00",
+  "impact": "major",
+  "incident_id": "yzs0s90d8fm8",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-23T11:11:40.937843+00:00",
+  "started_at": "2026-11-23T09:49:22.296000+00:00",
+  "status": "resolved",
+  "title": "Elevated errors for multiple models",
+  "transition": "resolved",
+  "url": "https://stspg.io/q2ptbwdjx31m"
+ },
+ {
   "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
   "components": [
    "claude.ai",
@@ -7758,25 +7781,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "resolved",
   "url": "https://stspg.io/1zzhj3x1tk59"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "54 min",
-  "headline": "🟢 Moonshot AI (Kimi) is upright again. That took 54 min.",
-  "id": "moonshot:8cwwrclccl7k:resolved:resolved:critical:2026-10-31T07:36:48.072000+00:00",
-  "impact": "critical",
-  "incident_id": "8cwwrclccl7k",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-10-31T07:45:18.794556+00:00",
-  "started_at": "2026-10-31T06:42:47.775000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "resolved",
-  "url": "https://stspg.io/l5wtphpgmsym"
  }
 ]

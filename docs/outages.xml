@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from Claude after 1h 18m]]></title>
+<link>https://stspg.io/q2ptbwdjx31m</link>
+<guid isPermaLink='false'>anthropic:yzs0s90d8fm8:resolved:resolved:major:2026-11-23T11:07:41.080000+00:00</guid>
+<pubDate>Mon, 23 Nov 2026 11:11:40 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 18m · Opened: Mon, 23 Nov 2026 09:49:22 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 01:39 PT / 09:39 UTC to 01:56 PT / 09:56 UTC.</p><p><a href="https://stspg.io/q2ptbwdjx31m">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/q2ptbwdjx31m</link>
 <guid isPermaLink='false'>anthropic:yzs0s90d8fm8:progress:monitoring:major:2026-11-23T10:07:23.487000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 11 Nov 2026 04:00:24 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Wed, 11 Nov 2026 03:45:26 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M74BBSSE9HG6AAQY3NQMAJ1K">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 ElevenLabs is upright again. That took 1h 53m.]]></title>
-<link>https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW</link>
-<guid isPermaLink='false'>elevenlabs:01M742FS08N2GNKA0M26ZW6WAW:resolved:resolved:major:2026-11-11T03:03:51+00:00</guid>
-<pubDate>Wed, 11 Nov 2026 03:15:17 +0000</pubDate>
-<category>ElevenLabs</category>
-<description><![CDATA[<p><strong>Scribe v3 Live outage</strong></p><p>Impact: major · Status: resolved · Duration: 1h 53m · Opened: Wed, 11 Nov 2026 01:10:19 +0000</p><p>We have verified the implemented fix has remained stable and Scribe v3 Live is fully operational since 01:11AM BST.</p><p><a href="https://status.elevenlabs.io/incidents/01M742FS08N2GNKA0M26ZW6WAW">ElevenLabs status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

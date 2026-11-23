@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 All clear from Claude after 1h 18m]]></title>
+<link>https://stspg.io/q2ptbwdjx31m</link>
+<guid isPermaLink='false'>anthropic:yzs0s90d8fm8:resolved:resolved:major:2026-11-23T11:07:41.080000+00:00</guid>
+<pubDate>Mon, 23 Nov 2026 11:11:40 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for multiple models</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 1h 18m · Opened: Mon, 23 Nov 2026 09:49:22 +0000</p><p>The issue affecting Claude services has been resolved. Impact occurred from 01:39 PT / 09:39 UTC to 01:56 PT / 09:56 UTC.</p><p><a href="https://stspg.io/q2ptbwdjx31m">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/q2ptbwdjx31m</link>
 <guid isPermaLink='false'>anthropic:yzs0s90d8fm8:progress:monitoring:major:2026-11-23T10:07:23.487000+00:00</guid>
@@ -1096,14 +1104,6 @@
 <pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 2h 54m · Opened: Sat, 31 Oct 2026 04:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1zzhj3x1tk59">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is upright again. That took 54 min.]]></title>
-<link>https://stspg.io/l5wtphpgmsym</link>
-<guid isPermaLink='false'>moonshot:8cwwrclccl7k:resolved:resolved:critical:2026-10-31T07:36:48.072000+00:00</guid>
-<pubDate>Sat, 31 Oct 2026 07:45:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 54 min · Opened: Sat, 31 Oct 2026 06:42:47 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/l5wtphpgmsym">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
