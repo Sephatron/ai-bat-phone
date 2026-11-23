@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Mon, 23 Nov 2026 02:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 03:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI sorted itself out after 1h 24m]]></title>
+<link>https://status.fireworks.ai/incidents/01M8300306Q16Q2QRBXJ3C7W38</link>
+<guid isPermaLink='false'>fireworks:01M8300306Q16Q2QRBXJ3C7W38:resolved:resolved:minor:2026-11-23T02:48:13+00:00</guid>
+<pubDate>Mon, 23 Nov 2026 03:00:42 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Muse Spark Open US</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 24m · Opened: Mon, 23 Nov 2026 01:23:16 +0000</p><p>We’ve resolved the incident and the affected service is now operational</p><p><a href="https://status.fireworks.ai/incidents/01M8300306Q16Q2QRBXJ3C7W38">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI is a bit under the weather]]></title>
 <link>https://status.fireworks.ai/incidents/01M8300306Q16Q2QRBXJ3C7W38</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Tue, 10 Nov 2026 16:30:18 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Git Operations and Pull Requests</strong></p><p>Impact: critical · Status: investigating · Affects: Pull Requests, Actions · Opened: Tue, 10 Nov 2026 16:10:52 +0000</p><p>Actions and Pull Requests are experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/16nsnk2th3rv">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
-<link>https://stspg.io/16nsnk2th3rv</link>
-<guid isPermaLink='false'>github:hnf21m9jkl3c:opened:investigating:minor:2026-11-10T16:10:52.296000+00:00</guid>
-<pubDate>Tue, 10 Nov 2026 16:15:18 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Actions and Pull Requests</strong></p><p>Impact: minor · Status: investigating · Affects: Pull Requests, Actions · Opened: Tue, 10 Nov 2026 16:10:52 +0000</p><p>We are investigating reports of degraded performance for Actions and Pull Requests</p><p><a href="https://stspg.io/16nsnk2th3rv">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

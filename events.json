@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’ve resolved the incident and the affected service is now operational",
+  "components": [],
+  "duration": "1h 24m",
+  "headline": "🟢 Fireworks AI sorted itself out after 1h 24m",
+  "id": "fireworks:01M8300306Q16Q2QRBXJ3C7W38:resolved:resolved:minor:2026-11-23T02:48:13+00:00",
+  "impact": "minor",
+  "incident_id": "01M8300306Q16Q2QRBXJ3C7W38",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-23T03:00:42.789801+00:00",
+  "started_at": "2026-11-23T01:23:16+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Muse Spark Open US",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M8300306Q16Q2QRBXJ3C7W38"
+ },
+ {
   "body": "We are seeing impacted performance for Muse Spark Open US. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7757,28 +7775,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "opened",
   "url": "https://stspg.io/l5wtphpgmsym"
- },
- {
-  "body": "We are investigating a service degradation at the moment. We'll share more updates as soon as more information is available.",
-  "components": [
-   "Automations",
-   "Cloud Agents",
-   "cursor.com",
-   "Grok Bot"
-  ],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Cursor",
-  "id": "cursor:ps_061cf14060aff263:opened:investigating:minor:2026-10-31T06:04:02+00:00",
-  "impact": "minor",
-  "incident_id": "ps_061cf14060aff263",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-10-31T06:15:20.664743+00:00",
-  "started_at": "2026-10-31T06:04:02+00:00",
-  "status": "investigating",
-  "title": "Multiple services degraded",
-  "transition": "opened",
-  "url": "https://status.x.ai/history?incident=automations%2Fps_061cf14060aff263"
  }
 ]
