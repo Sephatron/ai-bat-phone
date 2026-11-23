@@ -1,5 +1,23 @@
 [
  {
+  "body": "We’ve identified the issue causing intermittent errors in GPT-6 conversations on paid ChatGPT plans. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has found the culprit",
+  "id": "openai:01M84HKHX73RF7HTVZQ2A9GFXP:opened:identified:minor:2026-11-23T15:58:23+00:00",
+  "impact": "minor",
+  "incident_id": "01M84HKHX73RF7HTVZQ2A9GFXP",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-23T16:00:43.103194+00:00",
+  "started_at": "2026-11-23T15:50:14+00:00",
+  "status": "identified",
+  "title": "Elevated errors with GPT-6 conversations on paid ChatGPT plans",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M84HKHX73RF7HTVZQ2A9GFXP"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "15 min",
@@ -7761,23 +7779,5 @@
   "title": "Service Degradation for Muse Spark Open US",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6A5HDQWT2NAYHNPEMVAZ368"
- },
- {
-  "body": "[Resolved] We have resolved some of the earlier issues where connections to replit was disrupted.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit is fine again",
-  "id": "replit:c3a6faca-3476-4565-8d92-fed4d3fc4ae1:resolved:resolved:minor:2026-10-31T10:45:17.515839+00:00",
-  "impact": "minor",
-  "incident_id": "c3a6faca-3476-4565-8d92-fed4d3fc4ae1",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-10-31T10:45:17.515839+00:00",
-  "started_at": "2026-10-31T10:44:30+00:00",
-  "status": "resolved",
-  "title": "Investigating an issue related to the agent's ability to process images",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/c3a6faca-3476-4565-8d92-fed4d3fc4ae1"
  }
 ]
