@@ -2078,6 +2078,12 @@
    "status": "investigating",
    "updated_at": "2026-11-19T21:34:38+00:00"
   },
+  "cursor:ps_ce2b4247388345bd": {
+   "impact": "major",
+   "last_seen_at": "2026-11-23T00:00:00+00:00",
+   "status": "monitoring",
+   "updated_at": "2026-11-23T03:05:16+00:00"
+  },
   "cursor:ps_d25569b21cabd283": {
    "impact": "major",
    "last_seen_at": "2026-11-23T00:00:00+00:00",
