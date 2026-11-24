@@ -4103,8 +4103,8 @@
   "fireworks:01M862A6JWHCC3HK71CWGJZ3SY": {
    "impact": "minor",
    "last_seen_at": "2026-11-24T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-24T06:01:27+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-24T06:40:45+00:00"
   },
   "github:0f6hndclsk21": {
    "impact": "minor",
