@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 24 Nov 2026 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 13:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
+<link>https://status.elevenlabs.io/incidents/01M86T9GHAXWG60J4FHKVMVHWJ</link>
+<guid isPermaLink='false'>elevenlabs:01M86T9GHAXWG60J4FHKVMVHWJ:opened:investigating:minor:2026-11-24T13:00:31+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 13:00:50 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Website - General UI Slowness</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 24 Nov 2026 13:00:31 +0000</p><p>We are currently investigating a possible slowness affecting some website pages in our UI. This does not affect any requests made via the API.</p><p><a href="https://status.elevenlabs.io/incidents/01M86T9GHAXWG60J4FHKVMVHWJ">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M86ESC8TBFTFVQ9KPAWC0SM9</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 09:01:04 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>GPT-image-2.5 and 2.6 Sunburst &amp; Flare High error rate</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 12 Nov 2026 08:52:35 +0000</p><p>We have identified that users are experiencing elevated errors for GPT-image-2.5 Sunburst / Flare, and 2.6 Sunburst / Flare. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
-<link>https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N</link>
-<guid isPermaLink='false'>openai:01M76CW2D7FM7K7F8NJ4W0G08N:resolved:resolved:critical:2026-11-12T08:32:37+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 08:46:05 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Unable to start new Workspace Agent runs</strong></p><p>Impact: critical · Status: resolved · Duration: 9h 42m · Opened: Wed, 11 Nov 2026 22:50:17 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

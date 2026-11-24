@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are currently investigating a possible slowness affecting some website pages in our UI. This does not affect any requests made via the API.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is having a wobble",
+  "id": "elevenlabs:01M86T9GHAXWG60J4FHKVMVHWJ:opened:investigating:minor:2026-11-24T13:00:31+00:00",
+  "impact": "minor",
+  "incident_id": "01M86T9GHAXWG60J4FHKVMVHWJ",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-24T13:00:50.168786+00:00",
+  "started_at": "2026-11-24T13:00:31+00:00",
+  "status": "investigating",
+  "title": "Website - General UI Slowness",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M86T9GHAXWG60J4FHKVMVHWJ"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "1h 39m",
@@ -7748,25 +7766,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "resolved",
   "url": "https://stspg.io/2qsvdfs316hw"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "7h 40m",
-  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
-  "id": "moonshot:xs3b2n277nbg:resolved:resolved:critical:2026-11-01T12:39:12.200000+00:00",
-  "impact": "critical",
-  "incident_id": "xs3b2n277nbg",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T12:45:18.909164+00:00",
-  "started_at": "2026-11-01T04:58:48.255000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "resolved",
-  "url": "https://stspg.io/l5797zbx1l7b"
  }
 ]
