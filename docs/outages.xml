@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Claude is having a wobble]]></title>
+<link>https://stspg.io/ffdq2qfv8frk</link>
+<guid isPermaLink='false'>anthropic:3vbyqgnswwxq:opened:investigating:minor:2026-11-24T00:10:40.113000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 00:15:45 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Claude for Microsoft 365 add-in missing for some users</strong></p><p>Impact: minor · Status: investigating · Affects: claude.ai · Opened: Tue, 24 Nov 2026 00:10:40 +0000</p><p>We are investigating an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint for users signed in to Microsoft Office with a personal Microsoft account. Work and school accounts do not appear affected and core Claude functionality is unaffected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/ffdq2qfv8frk">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI sorted itself out after 48 min]]></title>
 <link>https://status.openai.com/incidents/01M84HKHX73RF7HTVZQ2A9GFXP</link>
 <guid isPermaLink='false'>openai:01M84HKHX73RF7HTVZQ2A9GFXP:resolved:resolved:minor:2026-11-23T16:38:46+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 11 Nov 2026 19:30:16 +0000</pubDate>
 <category>Baseten</category>
 <description><![CDATA[<p><strong>Model APIs are down for all models</strong></p><p>Impact: critical · Status: identified · Affects: Model APIs · Opened: Wed, 11 Nov 2026 19:17:23 +0000</p><p>We've identified the cause and expect recovery in the next 10 minutes.</p><p><a href="https://stspg.io/1bf5v9jhdwt8">Baseten status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Lovable has stopped wobbling]]></title>
-<link>https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ</link>
-<guid isPermaLink='false'>lovable:01M75SK5DGJ4NX2M3P4E0EM2QZ:resolved:resolved:minor:2026-11-11T19:15:02+00:00</guid>
-<pubDate>Wed, 11 Nov 2026 19:15:18 +0000</pubDate>
-<category>Lovable</category>
-<description><![CDATA[<p><strong>Database creation failures in APAC</strong></p><p>Impact: minor · Status: resolved · Duration: 2h 01m · Opened: Wed, 11 Nov 2026 17:13:22 +0000</p><p>Our database provider has recovered, and database creation in the Asia-Pacific region is operating normally.</p><p><a href="https://status.lovable.dev/incidents/01M75SK5DGJ4NX2M3P4E0EM2QZ">Lovable status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

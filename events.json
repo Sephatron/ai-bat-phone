@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint for users signed in to Microsoft Office with a personal Microsoft account. Work and school accounts do not appear affected and core Claude functionality is unaffected. We will provide an update as soon as possible.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "",
+  "headline": "🟠 Claude is having a wobble",
+  "id": "anthropic:3vbyqgnswwxq:opened:investigating:minor:2026-11-24T00:10:40.113000+00:00",
+  "impact": "minor",
+  "incident_id": "3vbyqgnswwxq",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-24T00:15:45.338386+00:00",
+  "started_at": "2026-11-24T00:10:40.012000+00:00",
+  "status": "investigating",
+  "title": "Claude for Microsoft 365 add-in missing for some users",
+  "transition": "opened",
+  "url": "https://stspg.io/ffdq2qfv8frk"
+ },
+ {
   "body": "We will be performing a database upgrade between 9:30PM and 10:30 PM PDT. During this window, you may experience a brief interruption of approximately 1 minute at some point during this hour, impacting new model deploys along with some pages in the application and REST API endpoints. Model APIs and Dedicated Inference are not impacted and will continue to operate normally.",
   "components": [
    "Model Management API",
@@ -7759,26 +7779,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "opened",
   "url": "https://stspg.io/2qsvdfs316hw"
- },
- {
-  "body": "We are investigating a service degradation affecting our billing and usage dashboard. We will share updates as more information becomes available.",
-  "components": [
-   "cursor.com",
-   "Enterprise Dashboard"
-  ],
-  "duration": "",
-  "headline": "🟠 Cursor is a bit under the weather",
-  "id": "cursor:ps_838fe2a3a154acfa:opened:investigating:minor:2026-11-01T05:38:43+00:00",
-  "impact": "minor",
-  "incident_id": "ps_838fe2a3a154acfa",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-11-01T05:45:29.718041+00:00",
-  "started_at": "2026-11-01T05:38:43+00:00",
-  "status": "investigating",
-  "title": "Service Degradation - Billing and Usage Dashboard",
-  "transition": "opened",
-  "url": "https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa"
  }
 ]
