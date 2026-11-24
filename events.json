@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M87WVCR3WD4YY264K4DBQQYH:opened:investigating:minor:2026-11-24T23:04:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M87WVCR3WD4YY264K4DBQQYH",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-24T23:15:22.191811+00:00",
+  "started_at": "2026-11-24T23:04:28+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M87WVCR3WD4YY264K4DBQQYH"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "17 min",
@@ -7746,23 +7764,5 @@
   "title": "Issues with source control integrations",
   "transition": "opened",
   "url": "https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "5 min",
-  "headline": "🟢 Fireworks AI has stopped wobbling",
-  "id": "fireworks:01M6DQJVZT1QCA7TMPJ9TZJWJB:resolved:resolved:minor:2026-11-02T09:01:45+00:00",
-  "impact": "minor",
-  "incident_id": "01M6DQJVZT1QCA7TMPJ9TZJWJB",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-02T09:15:36.959041+00:00",
-  "started_at": "2026-11-02T08:56:29+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3 Flash",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6DQJVZT1QCA7TMPJ9TZJWJB"
  }
 ]
