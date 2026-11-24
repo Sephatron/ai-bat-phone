@@ -1,5 +1,26 @@
 [
  {
+  "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "",
+  "headline": "🔧 Maintenance underway at Baseten",
+  "id": "baseten:415r1wg9pv7j:progress:in_progress:maintenance:2026-11-24T02:30:16.004000+00:00",
+  "impact": "maintenance",
+  "incident_id": "415r1wg9pv7j",
+  "kind": "maintenance",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-24T02:30:43.918526+00:00",
+  "started_at": "2026-11-23T23:21:41.362000+00:00",
+  "status": "in_progress",
+  "title": "DB Upgrade. Inference will not be affected",
+  "transition": "progress",
+  "url": "https://stspg.io/449gqs1wzjdw"
+ },
+ {
   "body": "We are investigating an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint for users signed in to Microsoft Office with a personal Microsoft account. Work and school accounts do not appear affected and core Claude functionality is unaffected. We will provide an update as soon as possible.",
   "components": [
    "claude.ai"
@@ -7759,25 +7780,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "opened",
   "url": "https://stspg.io/tkmgnq8rcsqk"
- },
- {
-  "body": "K3 输出速度可能变慢",
-  "components": [
-   "K3"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.",
-  "id": "moonshot:3jc31dff6km2:opened:investigating:critical:2026-11-01T05:58:49.443000+00:00",
-  "impact": "critical",
-  "incident_id": "3jc31dff6km2",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T06:00:20.199262+00:00",
-  "started_at": "2026-11-01T05:58:49.361000+00:00",
-  "status": "investigating",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "opened",
-  "url": "https://stspg.io/2qsvdfs316hw"
  }
 ]

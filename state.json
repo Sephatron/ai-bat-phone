@@ -701,8 +701,8 @@
   "baseten:415r1wg9pv7j": {
    "impact": "maintenance",
    "last_seen_at": "2026-11-24T00:00:00+00:00",
-   "status": "scheduled",
-   "updated_at": "2026-11-23T23:21:41.480000+00:00"
+   "status": "in_progress",
+   "updated_at": "2026-11-24T02:30:16.004000+00:00"
   },
   "baseten:48qpxdqzvmd2": {
    "impact": "major",

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔧 Maintenance underway at Baseten]]></title>
+<link>https://stspg.io/449gqs1wzjdw</link>
+<guid isPermaLink='false'>baseten:415r1wg9pv7j:progress:in_progress:maintenance:2026-11-24T02:30:16.004000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 02:30:43 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>DB Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: in progress · Affects: Model Management API, Web Application · Opened: Mon, 23 Nov 2026 23:21:41 +0000</p><p>Scheduled maintenance is currently in progress. We will provide updates as necessary.</p><p><a href="https://stspg.io/449gqs1wzjdw">Baseten status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Claude is having a wobble]]></title>
 <link>https://stspg.io/ffdq2qfv8frk</link>
 <guid isPermaLink='false'>anthropic:3vbyqgnswwxq:opened:investigating:minor:2026-11-24T00:10:40.113000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 11 Nov 2026 21:00:19 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Impact across multiple GitHub products including Actions, Pages, and Copilot products.</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions, Pages, Copilot · Opened: Wed, 11 Nov 2026 20:48:12 +0000</p><p>Copilot is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/jdjlq5zjyl48">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Baseten is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/1bf5v9jhdwt8</link>
-<guid isPermaLink='false'>baseten:gctvsk327syh:resolved:resolved:critical:2026-11-11T19:38:31.963000+00:00</guid>
-<pubDate>Wed, 11 Nov 2026 19:45:17 +0000</pubDate>
-<category>Baseten</category>
-<description><![CDATA[<p><strong>Model APIs are down for all models</strong></p><p>Impact: critical · Status: resolved · Affects: Model APIs · Duration: 21 min · Opened: Wed, 11 Nov 2026 19:17:23 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/1bf5v9jhdwt8">Baseten status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
