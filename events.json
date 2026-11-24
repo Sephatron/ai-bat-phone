@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI is having a wobble",
+  "id": "fireworks:01M862A6JWHCC3HK71CWGJZ3SY:opened:investigating:minor:2026-11-24T06:01:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M862A6JWHCC3HK71CWGJZ3SY",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-24T06:15:44.559501+00:00",
+  "started_at": "2026-11-24T06:01:27+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3 Flash",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M862A6JWHCC3HK71CWGJZ3SY"
+ },
+ {
   "body": "The scheduled maintenance has been completed.",
   "components": [
    "Model Management API",
@@ -7761,25 +7779,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "opened",
   "url": "https://stspg.io/0xkm4mjvbbkc"
- },
- {
-  "body": "K3 输出速度可能变慢",
-  "components": [
-   "K3"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) has gone dark. Nothing you did. Probably.",
-  "id": "moonshot:fxhmhnxz1v14:opened:investigating:critical:2026-11-01T07:58:48.448000+00:00",
-  "impact": "critical",
-  "incident_id": "fxhmhnxz1v14",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T08:00:19.453548+00:00",
-  "started_at": "2026-11-01T07:58:48.372000+00:00",
-  "status": "investigating",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "opened",
-  "url": "https://stspg.io/1sf9r68nk0cv"
  }
 ]

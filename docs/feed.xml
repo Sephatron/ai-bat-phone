@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
+<link>https://status.fireworks.ai/incidents/01M862A6JWHCC3HK71CWGJZ3SY</link>
+<guid isPermaLink='false'>fireworks:01M862A6JWHCC3HK71CWGJZ3SY:opened:investigating:minor:2026-11-24T06:01:27+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 06:15:44 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Tue, 24 Nov 2026 06:01:27 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M862A6JWHCC3HK71CWGJZ3SY">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔧 Maintenance done at Baseten]]></title>
 <link>https://stspg.io/449gqs1wzjdw</link>
 <guid isPermaLink='false'>baseten:415r1wg9pv7j:resolved:completed:maintenance:2026-11-24T02:49:52.431000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 11 Nov 2026 21:30:17 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Impact across multiple GitHub products including Actions, Pages, and Copilot products.</strong></p><p>Impact: critical · Status: resolved · Affects: Webhooks, Actions, Pages, Copilot · Duration: 33 min · Opened: Wed, 11 Nov 2026 20:48:12 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/jdjlq5zjyl48">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/jdjlq5zjyl48</link>
-<guid isPermaLink='false'>github:dvy0t3mvh1lg:progress:monitoring:critical:2026-11-11T21:07:26.449000+00:00</guid>
-<pubDate>Wed, 11 Nov 2026 21:15:20 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Impact across multiple GitHub products including Actions, Pages, and Copilot products.</strong></p><p>Impact: critical · Status: monitoring · Affects: Webhooks, Actions, Pages, Copilot · Opened: Wed, 11 Nov 2026 20:48:12 +0000</p><p>We’re seeing recovery across all services and continuing to monitor. The backlog of Actions jobs are being processed. We’ll update when we see full recovery.</p><p><a href="https://stspg.io/jdjlq5zjyl48">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
