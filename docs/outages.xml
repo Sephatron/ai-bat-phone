@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is fine again]]></title>
+<link>https://stspg.io/d5wbprv122kh</link>
+<guid isPermaLink='false'>github:d56dzxzzlw0b:resolved:resolved:minor:2026-11-24T14:14:05.762000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 14:15:44 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded Availability for MAI Code 2 in Copilot</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 29 min · Opened: Tue, 24 Nov 2026 13:44:07 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/d5wbprv122kh">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟢 ElevenLabs is fine again]]></title>
+<link>https://status.elevenlabs.io/incidents/01M86T9GHAXWG60J4FHKVMVHWJ</link>
+<guid isPermaLink='false'>elevenlabs:01M86T9GHAXWG60J4FHKVMVHWJ:resolved:resolved:minor:2026-11-24T14:01:17+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 14:15:44 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Website - General UI Slowness</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 00m · Opened: Tue, 24 Nov 2026 13:00:31 +0000</p><p>The issue affecting certain pages of our web interface has been resolved, and all services are operating normally.</p><p><a href="https://status.elevenlabs.io/incidents/01M86T9GHAXWG60J4FHKVMVHWJ">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
 <link>https://stspg.io/d5wbprv122kh</link>
 <guid isPermaLink='false'>github:d56dzxzzlw0b:opened:investigating:minor:2026-11-24T13:44:27.132000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 09:01:04 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>GPT-image-2.5 and 2.6 Sunburst &amp; Flare High error rate</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 12 Nov 2026 08:52:35 +0000</p><p>We have identified that users are experiencing elevated errors for GPT-image-2.5 Sunburst / Flare, and 2.6 Sunburst / Flare. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fixed. You may resume being productive.]]></title>
-<link>https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N</link>
-<guid isPermaLink='false'>openai:01M76CW2D7FM7K7F8NJ4W0G08N:resolved:resolved:critical:2026-11-12T08:32:37+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 08:46:05 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Unable to start new Workspace Agent runs</strong></p><p>Impact: critical · Status: resolved · Duration: 9h 42m · Opened: Wed, 11 Nov 2026 22:50:17 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M770AY4DSAP38KCNWN4MHH6N</link>
-<guid isPermaLink='false'>fireworks:01M770AY4DSAP38KCNWN4MHH6N:resolved:resolved:minor:2026-11-12T05:00:53+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 05:01:04 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 30 min · Opened: Thu, 12 Nov 2026 04:30:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M770AY4DSAP38KCNWN4MHH6N">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -3005,8 +3005,8 @@
   "elevenlabs:01M86T9GHAXWG60J4FHKVMVHWJ": {
    "impact": "minor",
    "last_seen_at": "2026-11-24T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-24T13:00:31+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-24T14:01:17+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
@@ -4445,8 +4445,8 @@
   "github:d56dzxzzlw0b": {
    "impact": "minor",
    "last_seen_at": "2026-11-24T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-24T13:46:53.780000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-24T14:14:05.762000+00:00"
   },
   "github:d5l3bkvh9ttf": {
    "impact": "maintenance",
@@ -8059,6 +8059,12 @@
    "last_seen_at": "2026-09-16T00:00:00+00:00",
    "status": "resolved",
    "updated_at": "2026-05-07T21:48:50.485000+00:00"
+  },
+  "vercel:l0msz49j1f81": {
+   "impact": "major",
+   "last_seen_at": "2026-11-24T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-24T14:13:20.570000+00:00"
   },
   "vercel:l7m81jfvmv0v": {
    "impact": "major",
