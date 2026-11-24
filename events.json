@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3.1 Pro US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from Fireworks AI",
+  "id": "fireworks:01M86ESC8TBFTFVQ9KPAWC0SM9:opened:investigating:minor:2026-11-24T09:39:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M86ESC8TBFTFVQ9KPAWC0SM9",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-24T09:45:44.233991+00:00",
+  "started_at": "2026-11-24T09:39:28+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3.1 Pro US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M86ESC8TBFTFVQ9KPAWC0SM9"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "23 min",
@@ -7752,26 +7770,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度下降",
   "transition": "opened",
   "url": "https://stspg.io/1z8jmfv1h4z8"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "cursor.com",
-   "Enterprise Dashboard"
-  ],
-  "duration": "5h 14m",
-  "headline": "🟢 Cursor sorted itself out after 5h 14m",
-  "id": "cursor:ps_838fe2a3a154acfa:resolved:resolved:minor:2026-11-01T10:53:33+00:00",
-  "impact": "minor",
-  "incident_id": "ps_838fe2a3a154acfa",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-11-01T11:00:17.908034+00:00",
-  "started_at": "2026-11-01T05:38:43+00:00",
-  "status": "resolved",
-  "title": "Service Degradation - Billing and Usage Dashboard",
-  "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=cursor-com%2Fps_838fe2a3a154acfa"
  }
 ]
