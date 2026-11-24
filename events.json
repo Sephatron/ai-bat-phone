@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M87SH5SDWSBDEF8XHSPAMA8M:opened:investigating:minor:2026-11-24T22:06:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M87SH5SDWSBDEF8XHSPAMA8M",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-24T22:15:24.132272+00:00",
+  "started_at": "2026-11-24T22:06:28+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M87SH5SDWSBDEF8XHSPAMA8M"
+ },
+ {
   "body": "[Resolved] This is resolved. Agent chat has been working normally since about 12:30 PM PT. Impacted: Replit Agent",
   "components": [],
   "duration": "",
@@ -7746,23 +7764,5 @@
   "title": "Service Degradation for GLM 5.3 Flash",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6DQJVZT1QCA7TMPJ9TZJWJB"
- },
- {
-  "body": "[Resolved] The Agent and Workspace issues has been resolved.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit has stopped wobbling",
-  "id": "replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:resolved:resolved:minor:2026-11-02T05:15:18.700545+00:00",
-  "impact": "minor",
-  "incident_id": "5df4103e-99dd-4c1e-8557-d74e75ff50cb",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-11-02T05:15:18.700545+00:00",
-  "started_at": "2026-11-02T05:08:49+00:00",
-  "status": "resolved",
-  "title": "Agent and Workspace Issues",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb"
  }
 ]
