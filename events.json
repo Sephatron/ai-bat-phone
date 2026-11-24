@@ -1,5 +1,41 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "34 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M87JKKZWM5TTJ3ZG80ZJ62FR:resolved:resolved:minor:2026-11-24T20:40:08+00:00",
+  "impact": "minor",
+  "incident_id": "01M87JKKZWM5TTJ3ZG80ZJ62FR",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-24T20:45:25.114424+00:00",
+  "started_at": "2026-11-24T20:05:28+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for Kimi K3 US",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M87JKKZWM5TTJ3ZG80ZJ62FR"
+ },
+ {
+  "body": "[Monitoring] The fix is in place and we are monitoring. Impacted: Replit Agent",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Replit has applied a fix and is holding its breath",
+  "id": "replit:e9ea6409-2777-4f6b-818e-76f76b0d222a:progress:monitoring:minor:2026-11-24T20:45:25.114424+00:00",
+  "impact": "minor",
+  "incident_id": "e9ea6409-2777-4f6b-818e-76f76b0d222a",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-24T20:45:25.114424+00:00",
+  "started_at": "2026-11-24T20:42:40+00:00",
+  "status": "monitoring",
+  "title": "User messages disappearing",
+  "transition": "progress",
+  "url": "https://status.replit.com/incidents/e9ea6409-2777-4f6b-818e-76f76b0d222a"
+ },
+ {
   "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7728,43 +7764,5 @@
   "title": "Agent and Workspace Issues",
   "transition": "progress",
   "url": "https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb"
- },
- {
-  "body": "[Investigating] We are investigating issues affecting some users' ability to load workspaces and use Agent.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is having a wobble",
-  "id": "replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:opened:investigating:minor:2026-11-01T16:15:18.155242+00:00",
-  "impact": "minor",
-  "incident_id": "5df4103e-99dd-4c1e-8557-d74e75ff50cb",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-11-01T16:15:18.155242+00:00",
-  "started_at": "2026-11-01T16:14:41+00:00",
-  "status": "investigating",
-  "title": "Agent and Workspace Issues",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "49 min",
-  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
-  "id": "moonshot:nnx1bbf1d0br:resolved:resolved:critical:2026-11-01T15:04:41.389000+00:00",
-  "impact": "critical",
-  "incident_id": "nnx1bbf1d0br",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T15:15:20.156748+00:00",
-  "started_at": "2026-11-01T14:15:41.298000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 TTFT 响应延迟升高",
-  "transition": "resolved",
-  "url": "https://stspg.io/204qnjkqmk4r"
  }
 ]

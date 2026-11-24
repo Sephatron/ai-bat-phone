@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M87JKKZWM5TTJ3ZG80ZJ62FR</link>
+<guid isPermaLink='false'>fireworks:01M87JKKZWM5TTJ3ZG80ZJ62FR:resolved:resolved:minor:2026-11-24T20:40:08+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 20:45:25 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 34 min · Opened: Tue, 24 Nov 2026 20:05:28 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M87JKKZWM5TTJ3ZG80ZJ62FR">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 Replit has applied a fix and is holding its breath]]></title>
+<link>https://status.replit.com/incidents/e9ea6409-2777-4f6b-818e-76f76b0d222a</link>
+<guid isPermaLink='false'>replit:e9ea6409-2777-4f6b-818e-76f76b0d222a:progress:monitoring:minor:2026-11-24T20:45:25.114424+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 20:45:25 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>User messages disappearing</strong></p><p>Impact: minor · Status: monitoring · Opened: Tue, 24 Nov 2026 20:42:40 +0000</p><p>[Monitoring] The fix is in place and we are monitoring. Impacted: Replit Agent</p><p><a href="https://status.replit.com/incidents/e9ea6409-2777-4f6b-818e-76f76b0d222a">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
 <link>https://status.fireworks.ai/incidents/01M87JKKZWM5TTJ3ZG80ZJ62FR</link>
 <guid isPermaLink='false'>fireworks:01M87JKKZWM5TTJ3ZG80ZJ62FR:opened:investigating:minor:2026-11-24T20:05:28+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Sign-in and Sign-up</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 19:36:45 +0000</p><p>We are seeing disruptions with email delivery for account sign-in and new account sign up. We are investigating.</p><p><a href="https://stspg.io/lr8v4v8t7gs2">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 50 min]]></title>
-<link>https://stspg.io/ns57pv7lmynl</link>
-<guid isPermaLink='false'>github:gl7yhd7jx00v:resolved:resolved:minor:2026-11-12T19:33:54.277000+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Webhooks API</strong></p><p>Impact: minor · Status: resolved · Affects: Webhooks · Duration: 50 min · Opened: Thu, 12 Nov 2026 18:43:13 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/ns57pv7lmynl">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
-<link>https://stspg.io/ns57pv7lmynl</link>
-<guid isPermaLink='false'>github:gl7yhd7jx00v:progress:monitoring:minor:2026-11-12T19:20:14.207000+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 19:31:03 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Webhooks API</strong></p><p>Impact: minor · Status: monitoring · Affects: Webhooks · Opened: Thu, 12 Nov 2026 18:43:13 +0000</p><p>The degradation affecting Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/ns57pv7lmynl">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
