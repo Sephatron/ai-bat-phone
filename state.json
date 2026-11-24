@@ -1,5 +1,5 @@
 {
- "heartbeat": "2026-11-24T02:00:00+00:00",
+ "heartbeat": "2026-11-24T03:00:00+00:00",
  "providers": {
   "ai21": {
    "consecutive_failures": 0
@@ -701,8 +701,8 @@
   "baseten:415r1wg9pv7j": {
    "impact": "maintenance",
    "last_seen_at": "2026-11-24T00:00:00+00:00",
-   "status": "in_progress",
-   "updated_at": "2026-11-24T02:30:16.004000+00:00"
+   "status": "completed",
+   "updated_at": "2026-11-24T02:49:52.431000+00:00"
   },
   "baseten:48qpxdqzvmd2": {
    "impact": "major",

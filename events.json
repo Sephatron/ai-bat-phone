@@ -1,5 +1,26 @@
 [
  {
+  "body": "The scheduled maintenance has been completed.",
+  "components": [
+   "Model Management API",
+   "Web Application"
+  ],
+  "duration": "3h 28m",
+  "headline": "🔧 Maintenance done at Baseten",
+  "id": "baseten:415r1wg9pv7j:resolved:completed:maintenance:2026-11-24T02:49:52.431000+00:00",
+  "impact": "maintenance",
+  "incident_id": "415r1wg9pv7j",
+  "kind": "maintenance",
+  "provider_key": "baseten",
+  "provider_name": "Baseten",
+  "published_at": "2026-11-24T03:00:44.186634+00:00",
+  "started_at": "2026-11-23T23:21:41.362000+00:00",
+  "status": "completed",
+  "title": "DB Upgrade. Inference will not be affected",
+  "transition": "resolved",
+  "url": "https://stspg.io/449gqs1wzjdw"
+ },
+ {
   "body": "Scheduled maintenance is currently in progress. We will provide updates as necessary.",
   "components": [
    "Model Management API",
@@ -7760,25 +7781,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "opened",
   "url": "https://stspg.io/1sf9r68nk0cv"
- },
- {
-  "body": "K3 输出速度可能变慢",
-  "components": [
-   "K3"
-  ],
-  "duration": "",
-  "headline": "🔴 Tools down: Moonshot AI (Kimi) is broken",
-  "id": "moonshot:2j7m7djp28xp:opened:investigating:critical:2026-11-01T06:58:49.305000+00:00",
-  "impact": "critical",
-  "incident_id": "2j7m7djp28xp",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T07:00:19.157334+00:00",
-  "started_at": "2026-11-01T06:58:49.243000+00:00",
-  "status": "investigating",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "opened",
-  "url": "https://stspg.io/tkmgnq8rcsqk"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Tue, 24 Nov 2026 02:00:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 03:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔧 Maintenance done at Baseten]]></title>
+<link>https://stspg.io/449gqs1wzjdw</link>
+<guid isPermaLink='false'>baseten:415r1wg9pv7j:resolved:completed:maintenance:2026-11-24T02:49:52.431000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 03:00:44 +0000</pubDate>
+<category>Baseten</category>
+<description><![CDATA[<p><strong>DB Upgrade. Inference will not be affected</strong></p><p>Scheduled maintenance · Status: completed · Affects: Model Management API, Web Application · Duration: 3h 28m · Opened: Mon, 23 Nov 2026 23:21:41 +0000</p><p>The scheduled maintenance has been completed.</p><p><a href="https://stspg.io/449gqs1wzjdw">Baseten status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🔧 Maintenance underway at Baseten]]></title>
 <link>https://stspg.io/449gqs1wzjdw</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Wed, 11 Nov 2026 21:15:20 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Impact across multiple GitHub products including Actions, Pages, and Copilot products.</strong></p><p>Impact: critical · Status: monitoring · Affects: Webhooks, Actions, Pages, Copilot · Opened: Wed, 11 Nov 2026 20:48:12 +0000</p><p>We’re seeing recovery across all services and continuing to monitor. The backlog of Actions jobs are being processed. We’ll update when we see full recovery.</p><p><a href="https://stspg.io/jdjlq5zjyl48">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
-<link>https://stspg.io/jdjlq5zjyl48</link>
-<guid isPermaLink='false'>github:dvy0t3mvh1lg:opened:investigating:critical:2026-11-11T20:59:33.747000+00:00</guid>
-<pubDate>Wed, 11 Nov 2026 21:00:19 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Impact across multiple GitHub products including Actions, Pages, and Copilot products.</strong></p><p>Impact: critical · Status: investigating · Affects: Webhooks, Actions, Pages, Copilot · Opened: Wed, 11 Nov 2026 20:48:12 +0000</p><p>Copilot is experiencing degraded availability. We are continuing to investigate.</p><p><a href="https://stspg.io/jdjlq5zjyl48">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
