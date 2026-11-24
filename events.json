@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Resolved] This is resolved. Agent chat has been working normally since about 12:30 PM PT. Impacted: Replit Agent",
+  "components": [],
+  "duration": "",
+  "headline": "🟢 Replit is fine again",
+  "id": "replit:e9ea6409-2777-4f6b-818e-76f76b0d222a:resolved:resolved:minor:2026-11-24T21:30:25.717881+00:00",
+  "impact": "minor",
+  "incident_id": "e9ea6409-2777-4f6b-818e-76f76b0d222a",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-24T21:30:25.717881+00:00",
+  "started_at": "2026-11-24T21:27:02+00:00",
+  "status": "resolved",
+  "title": "User messages disappearing",
+  "transition": "resolved",
+  "url": "https://status.replit.com/incidents/e9ea6409-2777-4f6b-818e-76f76b0d222a"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "34 min",
@@ -7745,24 +7763,6 @@
   "status": "resolved",
   "title": "Agent and Workspace Issues",
   "transition": "resolved",
-  "url": "https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb"
- },
- {
-  "body": "[Monitoring] For those seeing Agent failures can you please update the browser tab, we expect agent interactions to be working again.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Replit is on the mend. Don't get comfortable yet.",
-  "id": "replit:5df4103e-99dd-4c1e-8557-d74e75ff50cb:progress:monitoring:minor:2026-11-01T16:45:18.045062+00:00",
-  "impact": "minor",
-  "incident_id": "5df4103e-99dd-4c1e-8557-d74e75ff50cb",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-11-01T16:45:18.045062+00:00",
-  "started_at": "2026-11-01T16:35:34+00:00",
-  "status": "monitoring",
-  "title": "Agent and Workspace Issues",
-  "transition": "progress",
   "url": "https://status.replit.com/incidents/5df4103e-99dd-4c1e-8557-d74e75ff50cb"
  }
 ]

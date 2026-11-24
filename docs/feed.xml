@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit is fine again]]></title>
+<link>https://status.replit.com/incidents/e9ea6409-2777-4f6b-818e-76f76b0d222a</link>
+<guid isPermaLink='false'>replit:e9ea6409-2777-4f6b-818e-76f76b0d222a:resolved:resolved:minor:2026-11-24T21:30:25.717881+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 21:30:25 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>User messages disappearing</strong></p><p>Impact: minor · Status: resolved · Opened: Tue, 24 Nov 2026 21:27:02 +0000</p><p>[Resolved] This is resolved. Agent chat has been working normally since about 12:30 PM PT. Impacted: Replit Agent</p><p><a href="https://status.replit.com/incidents/e9ea6409-2777-4f6b-818e-76f76b0d222a">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M87JKKZWM5TTJ3ZG80ZJ62FR</link>
 <guid isPermaLink='false'>fireworks:01M87JKKZWM5TTJ3ZG80ZJ62FR:resolved:resolved:minor:2026-11-24T20:40:08+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 20:16:05 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors for some requests</strong></p><p>Impact: minor · Status: investigating · Affects: cursor.com · Opened: Thu, 12 Nov 2026 20:08:15 +0000</p><p>We're investigating an issue that may cause some requests to fail, including purchases and other billing actions. We'll share another update as soon as we have more information.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/lr8v4v8t7gs2</link>
-<guid isPermaLink='false'>github:nwbjzl7nfrc2:opened:investigating:minor:2026-11-12T19:43:01.975000+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Sign-in and Sign-up</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 19:36:45 +0000</p><p>We are seeing disruptions with email delivery for account sign-in and new account sign up. We are investigating.</p><p><a href="https://stspg.io/lr8v4v8t7gs2">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit is fine again]]></title>
+<link>https://status.replit.com/incidents/e9ea6409-2777-4f6b-818e-76f76b0d222a</link>
+<guid isPermaLink='false'>replit:e9ea6409-2777-4f6b-818e-76f76b0d222a:resolved:resolved:minor:2026-11-24T21:30:25.717881+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 21:30:25 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>User messages disappearing</strong></p><p>Impact: minor · Status: resolved · Opened: Tue, 24 Nov 2026 21:27:02 +0000</p><p>[Resolved] This is resolved. Agent chat has been working normally since about 12:30 PM PT. Impacted: Replit Agent</p><p><a href="https://status.replit.com/incidents/e9ea6409-2777-4f6b-818e-76f76b0d222a">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M87JKKZWM5TTJ3ZG80ZJ62FR</link>
 <guid isPermaLink='false'>fireworks:01M87JKKZWM5TTJ3ZG80ZJ62FR:resolved:resolved:minor:2026-11-24T20:40:08+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 19:31:03 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Webhooks API</strong></p><p>Impact: minor · Status: monitoring · Affects: Webhooks · Opened: Thu, 12 Nov 2026 18:43:13 +0000</p><p>The degradation affecting Webhooks has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/ns57pv7lmynl">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
-<link>https://stspg.io/ns57pv7lmynl</link>
-<guid isPermaLink='false'>github:gl7yhd7jx00v:opened:investigating:minor:2026-11-12T18:43:13.911000+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 18:46:05 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Webhooks API</strong></p><p>Impact: minor · Status: investigating · Affects: Webhooks · Opened: Thu, 12 Nov 2026 18:43:13 +0000</p><p>We are investigating reports of degraded performance for Webhooks</p><p><a href="https://stspg.io/ns57pv7lmynl">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
