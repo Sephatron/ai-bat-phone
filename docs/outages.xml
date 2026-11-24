@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M87SH5SDWSBDEF8XHSPAMA8M</link>
+<guid isPermaLink='false'>fireworks:01M87SH5SDWSBDEF8XHSPAMA8M:resolved:resolved:minor:2026-11-24T22:24:16+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 22:30:22 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 17 min · Opened: Tue, 24 Nov 2026 22:06:28 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M87SH5SDWSBDEF8XHSPAMA8M">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M87SH5SDWSBDEF8XHSPAMA8M</link>
 <guid isPermaLink='false'>fireworks:01M87SH5SDWSBDEF8XHSPAMA8M:opened:investigating:minor:2026-11-24T22:06:28+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Disruption with Sign-in and Sign-up</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 19:36:45 +0000</p><p>We are seeing disruptions with email delivery for account sign-in and new account sign up. We are investigating.</p><p><a href="https://stspg.io/lr8v4v8t7gs2">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 50 min]]></title>
-<link>https://stspg.io/ns57pv7lmynl</link>
-<guid isPermaLink='false'>github:gl7yhd7jx00v:resolved:resolved:minor:2026-11-12T19:33:54.277000+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 19:46:04 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Webhooks API</strong></p><p>Impact: minor · Status: resolved · Affects: Webhooks · Duration: 50 min · Opened: Thu, 12 Nov 2026 18:43:13 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/ns57pv7lmynl">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
+<link>https://status.fireworks.ai/incidents/01M87SH5SDWSBDEF8XHSPAMA8M</link>
+<guid isPermaLink='false'>fireworks:01M87SH5SDWSBDEF8XHSPAMA8M:resolved:resolved:minor:2026-11-24T22:24:16+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 22:30:22 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for Kimi K3 US</strong></p><p>Impact: minor · Status: resolved · Duration: 17 min · Opened: Tue, 24 Nov 2026 22:06:28 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M87SH5SDWSBDEF8XHSPAMA8M">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M87SH5SDWSBDEF8XHSPAMA8M</link>
 <guid isPermaLink='false'>fireworks:01M87SH5SDWSBDEF8XHSPAMA8M:opened:investigating:minor:2026-11-24T22:06:28+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 20:46:04 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors for some requests</strong></p><p>Impact: major · Status: monitoring · Affects: cursor.com, Grok Bot · Opened: Thu, 12 Nov 2026 20:08:15 +0000</p><p>A fix has been implemented and we are monitoring for service restoration.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/lr8v4v8t7gs2</link>
-<guid isPermaLink='false'>github:nwbjzl7nfrc2:progress:monitoring:minor:2026-11-12T20:21:44.139000+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 20:31:05 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Disruption with Sign-in and Sign-up</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 12 Nov 2026 19:36:45 +0000</p><p>We are seeing recovery for sign-in, email address verification, and other forms of e-mail communication previously impacted. We will continue to monitor.</p><p><a href="https://stspg.io/lr8v4v8t7gs2">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
