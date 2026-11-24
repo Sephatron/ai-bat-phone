@@ -1,5 +1,48 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude has applied a fix and is holding its breath",
+  "id": "anthropic:fbvlx4wx4zx5:opened:monitoring:major:2026-11-24T17:27:14.801000+00:00",
+  "impact": "major",
+  "incident_id": "fbvlx4wx4zx5",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-24T17:30:43.046879+00:00",
+  "started_at": "2026-11-24T17:19:31.942000+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors for Claude Haiku 5.5",
+  "transition": "opened",
+  "url": "https://stspg.io/n7769lzz1dvy"
+ },
+ {
+  "body": "We are continuing to investigate an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. In the meantime, we recommend using the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. Work and school accounts do not appear affected. We will provide another update as soon as possible.",
+  "components": [
+   "claude.ai"
+  ],
+  "duration": "",
+  "headline": "🔺 Claude went from annoying to actual",
+  "id": "anthropic:3vbyqgnswwxq:escalated:investigating:major:2026-11-24T17:19:32.218000+00:00",
+  "impact": "major",
+  "incident_id": "3vbyqgnswwxq",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-24T17:30:43.046879+00:00",
+  "started_at": "2026-11-24T00:10:40.012000+00:00",
+  "status": "investigating",
+  "title": "Claude for Microsoft 365 add-in missing for some users",
+  "transition": "escalated",
+  "url": "https://stspg.io/ffdq2qfv8frk"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Copilot AI Model Providers"
@@ -7724,45 +7767,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度下降",
   "transition": "resolved",
   "url": "https://stspg.io/7xrbw9h4cr0w"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "2h 39m",
-  "headline": "🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.",
-  "id": "moonshot:mrwzynqdhnwg:resolved:resolved:critical:2026-11-01T12:39:17.801000+00:00",
-  "impact": "critical",
-  "incident_id": "mrwzynqdhnwg",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T12:45:18.909164+00:00",
-  "started_at": "2026-11-01T09:59:43.469000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 OTPS 响应生成速度下降",
-  "transition": "resolved",
-  "url": "https://stspg.io/rxjs99s5x3f9"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "3h 40m",
-  "headline": "🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.",
-  "id": "moonshot:0xfr5wpb1vdc:resolved:resolved:critical:2026-11-01T12:39:16.791000+00:00",
-  "impact": "critical",
-  "incident_id": "0xfr5wpb1vdc",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T12:45:18.909164+00:00",
-  "started_at": "2026-11-01T08:58:48.530000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "resolved",
-  "url": "https://stspg.io/0xkm4mjvbbkc"
  }
 ]

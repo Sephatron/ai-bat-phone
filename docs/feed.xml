@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/n7769lzz1dvy</link>
+<guid isPermaLink='false'>anthropic:fbvlx4wx4zx5:opened:monitoring:major:2026-11-24T17:27:14.801000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 17:30:43 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Haiku 5.5</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 24 Nov 2026 17:19:31 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/n7769lzz1dvy">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔺 Claude went from annoying to actual]]></title>
+<link>https://stspg.io/ffdq2qfv8frk</link>
+<guid isPermaLink='false'>anthropic:3vbyqgnswwxq:escalated:investigating:major:2026-11-24T17:19:32.218000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 17:30:43 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Claude for Microsoft 365 add-in missing for some users</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Tue, 24 Nov 2026 00:10:40 +0000</p><p>We are continuing to investigate an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. In the meantime, we recommend using the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. Work and school accounts do not appear affected. We will provide another update as soon as possible.</p><p><a href="https://stspg.io/ffdq2qfv8frk">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub is fine again]]></title>
 <link>https://stspg.io/d5wbprv122kh</link>
 <guid isPermaLink='false'>github:d56dzxzzlw0b:resolved:resolved:minor:2026-11-24T14:14:05.762000+00:00</guid>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 18:31:04 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>We’re investigating an issue with Microsoft connectors where new connections may be broken and tools are not working as expected. We’ll share an update when we know more.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Claude has downed tools — and so, probably, have you]]></title>
-<link>https://stspg.io/m0rbx38nmy1c</link>
-<guid isPermaLink='false'>anthropic:sqn3fg1l96dl:opened:investigating:major:2026-11-12T17:52:45.046000+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 18:01:04 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Thu, 12 Nov 2026 17:52:44 +0000</p><p>We are investigating elevated errors and slow responses affecting the Microsoft 365 connector. Requests to mail, SharePoint, Teams chat and calendar through the connector may fail, and new connections to the connector may not complete. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/m0rbx38nmy1c">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 14 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M784NNAS3WCYQNX4SACETKK3</link>
-<guid isPermaLink='false'>fireworks:01M784NNAS3WCYQNX4SACETKK3:resolved:resolved:minor:2026-11-12T15:19:48+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 15:31:04 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 14 min · Opened: Thu, 12 Nov 2026 15:05:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M784NNAS3WCYQNX4SACETKK3">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

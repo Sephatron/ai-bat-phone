@@ -10,6 +10,22 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
+<link>https://stspg.io/n7769lzz1dvy</link>
+<guid isPermaLink='false'>anthropic:fbvlx4wx4zx5:opened:monitoring:major:2026-11-24T17:27:14.801000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 17:30:43 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Elevated errors for Claude Haiku 5.5</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Tue, 24 Nov 2026 17:19:31 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/n7769lzz1dvy">Claude status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔺 Claude went from annoying to actual]]></title>
+<link>https://stspg.io/ffdq2qfv8frk</link>
+<guid isPermaLink='false'>anthropic:3vbyqgnswwxq:escalated:investigating:major:2026-11-24T17:19:32.218000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 17:30:43 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Claude for Microsoft 365 add-in missing for some users</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Tue, 24 Nov 2026 00:10:40 +0000</p><p>We are continuing to investigate an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. In the meantime, we recommend using the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. Work and school accounts do not appear affected. We will provide another update as soon as possible.</p><p><a href="https://stspg.io/ffdq2qfv8frk">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Claude after 1h 18m]]></title>
 <link>https://stspg.io/q2ptbwdjx31m</link>
 <guid isPermaLink='false'>anthropic:yzs0s90d8fm8:resolved:resolved:major:2026-11-23T11:07:41.080000+00:00</guid>
@@ -984,22 +1000,6 @@
 <pubDate>Sun, 01 Nov 2026 12:45:18 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 1h 39m · Opened: Sun, 01 Nov 2026 10:59:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/7xrbw9h4cr0w">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/rxjs99s5x3f9</link>
-<guid isPermaLink='false'>moonshot:mrwzynqdhnwg:resolved:resolved:critical:2026-11-01T12:39:17.801000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 12:45:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 2h 39m · Opened: Sun, 01 Nov 2026 09:59:43 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/rxjs99s5x3f9">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/0xkm4mjvbbkc</link>
-<guid isPermaLink='false'>moonshot:0xfr5wpb1vdc:resolved:resolved:critical:2026-11-01T12:39:16.791000+00:00</guid>
-<pubDate>Sun, 01 Nov 2026 12:45:18 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>Kimi Code K3 OTPS 响应生成速度严重下降</strong></p><p>Impact: critical · Status: resolved · Affects: K3 · Duration: 3h 40m · Opened: Sun, 01 Nov 2026 08:58:48 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/0xkm4mjvbbkc">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
