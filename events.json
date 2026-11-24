@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are experiencing degraded availability for the MAI Code 2 model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting ‘Copilot Fusion’ to continue using Copilot.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "🟠 GitHub has a limp, not a break",
+  "id": "github:d56dzxzzlw0b:opened:investigating:minor:2026-11-24T13:44:27.132000+00:00",
+  "impact": "minor",
+  "incident_id": "d56dzxzzlw0b",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-24T13:45:43.228849+00:00",
+  "started_at": "2026-11-24T13:44:07.205000+00:00",
+  "status": "investigating",
+  "title": "Degraded Availability for MAI Code 2 in Copilot",
+  "transition": "opened",
+  "url": "https://stspg.io/d5wbprv122kh"
+ },
+ {
   "body": "We are currently investigating a possible slowness affecting some website pages in our UI. This does not affect any requests made via the API.",
   "components": [],
   "duration": "",
@@ -7746,25 +7766,5 @@
   "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
   "transition": "resolved",
   "url": "https://stspg.io/tkmgnq8rcsqk"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "6h 40m",
-  "headline": "🟢 Moonshot AI (Kimi) is fixed. You may resume being productive.",
-  "id": "moonshot:3jc31dff6km2:resolved:resolved:critical:2026-11-01T12:39:13.333000+00:00",
-  "impact": "critical",
-  "incident_id": "3jc31dff6km2",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-01T12:45:18.909164+00:00",
-  "started_at": "2026-11-01T05:58:49.361000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 OTPS 响应生成速度严重下降",
-  "transition": "resolved",
-  "url": "https://stspg.io/2qsvdfs316hw"
  }
 ]

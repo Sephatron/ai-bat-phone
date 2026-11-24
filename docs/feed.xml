@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 GitHub has a limp, not a break]]></title>
+<link>https://stspg.io/d5wbprv122kh</link>
+<guid isPermaLink='false'>github:d56dzxzzlw0b:opened:investigating:minor:2026-11-24T13:44:27.132000+00:00</guid>
+<pubDate>Tue, 24 Nov 2026 13:45:43 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Degraded Availability for MAI Code 2 in Copilot</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Tue, 24 Nov 2026 13:44:07 +0000</p><p>We are experiencing degraded availability for the MAI Code 2 model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting ‘Copilot Fusion’ to continue using Copilot.</p><p><a href="https://stspg.io/d5wbprv122kh">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
 <link>https://status.elevenlabs.io/incidents/01M86T9GHAXWG60J4FHKVMVHWJ</link>
 <guid isPermaLink='false'>elevenlabs:01M86T9GHAXWG60J4FHKVMVHWJ:opened:investigating:minor:2026-11-24T13:00:31+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 09:31:04 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>GPT-image-2.5 and 2.6 Sunburst &amp; Flare High error rate</strong></p><p>Impact: minor · Status: resolved · Duration: 32 min · Opened: Thu, 12 Nov 2026 08:52:35 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5</link>
-<guid isPermaLink='false'>openai:01M77FAXVFV338GY7G9VRENRS5:opened:identified:minor:2026-11-12T08:58:29+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 09:01:04 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>GPT-image-2.5 and 2.6 Sunburst &amp; Flare High error rate</strong></p><p>Impact: minor · Status: identified · Opened: Thu, 12 Nov 2026 08:52:35 +0000</p><p>We have identified that users are experiencing elevated errors for GPT-image-2.5 Sunburst / Flare, and 2.6 Sunburst / Flare. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M77FAXVFV338GY7G9VRENRS5">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

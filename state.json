@@ -4442,6 +4442,12 @@
    "status": "resolved",
    "updated_at": "2026-07-21T09:50:38.354000+00:00"
   },
+  "github:d56dzxzzlw0b": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-24T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-24T13:44:27.132000+00:00"
+  },
   "github:d5l3bkvh9ttf": {
    "impact": "maintenance",
    "last_seen_at": "2026-11-24T00:00:00+00:00",
