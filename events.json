@@ -1,5 +1,25 @@
 [
  {
+  "body": "We are investigating a service degradation affecting Grok Bot inbound email.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "",
+  "headline": "🟠 Cursor is sulking, mildly",
+  "id": "cursor:ps_107ced4bd129ed66:opened:investigating:minor:2026-11-25T13:57:41+00:00",
+  "impact": "minor",
+  "incident_id": "ps_107ced4bd129ed66",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-25T14:00:42.629724+00:00",
+  "started_at": "2026-11-25T13:57:41+00:00",
+  "status": "investigating",
+  "title": "Degraded performance — Grok Bot inbound email",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_107ced4bd129ed66"
+ },
+ {
   "body": "We have applied mitigations and are seeing recovery across ChatGPT, ChatGPT Work, and Codex cloud threads. We are monitoring the affected services to ensure continued stability. Our investigation into the underlying cause remains ongoing.",
   "components": [],
   "duration": "",
@@ -7733,26 +7753,6 @@
   "status": "monitoring",
   "title": "Elevated errors on GPT-5.4 Nano",
   "transition": "progress",
-  "url": "https://stspg.io/ns6pj9qy9glb"
- },
- {
-  "body": "We are experiencing degraded availability for the GPT-5.4 Nano model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider.",
-  "components": [
-   "Copilot AI Model Providers"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub has a limp, not a break",
-  "id": "github:db4x8hh362t8:opened:investigating:minor:2026-11-02T17:58:33.422000+00:00",
-  "impact": "minor",
-  "incident_id": "db4x8hh362t8",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-11-02T18:00:20.497258+00:00",
-  "started_at": "2026-11-02T17:46:23.160000+00:00",
-  "status": "investigating",
-  "title": "Elevated errors on GPT-5.4 Nano",
-  "transition": "opened",
   "url": "https://stspg.io/ns6pj9qy9glb"
  }
 ]

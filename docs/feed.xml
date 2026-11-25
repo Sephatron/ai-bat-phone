@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 25 Nov 2026 13:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 14:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Cursor is sulking, mildly]]></title>
+<link>https://status.x.ai/history?incident=grok-bot%2Fps_107ced4bd129ed66</link>
+<guid isPermaLink='false'>cursor:ps_107ced4bd129ed66:opened:investigating:minor:2026-11-25T13:57:41+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 14:00:42 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded performance — Grok Bot inbound email</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Wed, 25 Nov 2026 13:57:41 +0000</p><p>We are investigating a service degradation affecting Grok Bot inbound email.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_107ced4bd129ed66">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
 <link>https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 01:16:18 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 13 Nov 2026 01:14:27 +0000</p><p>We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M797GR9J4WV67CX093FCW481">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M796HKVM502P1SGZXGJ5QG7V</link>
-<guid isPermaLink='false'>fireworks:01M796HKVM502P1SGZXGJ5QG7V:opened:investigating:minor:2026-11-13T00:57:26+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 01:01:04 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 13 Nov 2026 00:57:26 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M796HKVM502P1SGZXGJ5QG7V">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
