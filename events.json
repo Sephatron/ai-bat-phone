@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating reports of impacted performance for some GitHub services.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is sulking, mildly",
+  "id": "github:m0wx9qml7yjh:opened:investigating:minor:2026-11-25T00:08:18.042000+00:00",
+  "impact": "minor",
+  "incident_id": "m0wx9qml7yjh",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-25T00:15:30.385989+00:00",
+  "started_at": "2026-11-25T00:08:17.965000+00:00",
+  "status": "investigating",
+  "title": "Disruption with some GitHub services",
+  "transition": "opened",
+  "url": "https://stspg.io/bk5200jsb13k"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "27 min",
@@ -7740,26 +7758,5 @@
   "title": "Some Lovable Cloud apps unable to reach backend",
   "transition": "opened",
   "url": "https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7"
- },
- {
-  "body": "The issue is resolved.",
-  "components": [
-   "IDE",
-   "Grok Bot"
-  ],
-  "duration": "1h 15m",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:ps_dece7cc03ecef152:resolved:resolved:minor:2026-11-02T10:24:48+00:00",
-  "impact": "minor",
-  "incident_id": "ps_dece7cc03ecef152",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-11-02T10:30:56.071775+00:00",
-  "started_at": "2026-11-02T09:09:29+00:00",
-  "status": "resolved",
-  "title": "Issues with source control integrations",
-  "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152"
  }
 ]
