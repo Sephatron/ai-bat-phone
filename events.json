@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are investigating reports of issues with Code Completions and Next Edit Suggestions. We will continue to keep users updated on progress towards mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔺 It got worse: GitHub is now a critical outage",
+  "id": "github:m0wx9qml7yjh:escalated:investigating:critical:2026-11-25T00:41:09.548000+00:00",
+  "impact": "critical",
+  "incident_id": "m0wx9qml7yjh",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-25T00:45:24.541475+00:00",
+  "started_at": "2026-11-25T00:08:17.965000+00:00",
+  "status": "investigating",
+  "title": "Disruption with some GitHub services",
+  "transition": "escalated",
+  "url": "https://stspg.io/bk5200jsb13k"
+ },
+ {
   "body": "We are investigating reports of impacted performance for some GitHub services.",
   "components": [],
   "duration": "",
@@ -7740,23 +7758,5 @@
   "title": "Kimi Code K3 TTFT 响应延迟升高",
   "transition": "opened",
   "url": "https://stspg.io/wlhfpkv62zy4"
- },
- {
-  "body": "Some apps built with Lovable Cloud are currently unable to reach their backend, which may cause errors when loading data or signing in. Our team is investigating and will share an update soon.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Lovable",
-  "id": "lovable:01M6EB2PWWFVAPY81CYH2K2JB7:opened:investigating:minor:2026-11-02T14:37:11+00:00",
-  "impact": "minor",
-  "incident_id": "01M6EB2PWWFVAPY81CYH2K2JB7",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-11-02T14:45:29.967523+00:00",
-  "started_at": "2026-11-02T14:37:11+00:00",
-  "status": "investigating",
-  "title": "Some Lovable Cloud apps unable to reach backend",
-  "transition": "opened",
-  "url": "https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7"
  }
 ]
