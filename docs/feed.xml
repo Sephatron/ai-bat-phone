@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 25 Nov 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from GitHub after 56 min]]></title>
+<link>https://stspg.io/5qj9j0p5g4cr</link>
+<guid isPermaLink='false'>github:qn8mfv6q5hlx:resolved:resolved:critical:2026-11-25T16:52:16.321000+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 17:00:42 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Investigating degraded experiences across GitHub products</strong></p><p>Impact: critical · Status: resolved · Affects: Git Operations, Webhooks, API Requests, Issues, Pull Requests, Actions, Packages, Pages · Duration: 56 min · Opened: Wed, 25 Nov 2026 15:55:19 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5qj9j0p5g4cr">GitHub status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[👀 OpenAI thinks it's fixed and is watching nervously]]></title>
+<link>https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H</link>
+<guid isPermaLink='false'>openai:01M89RGC3STKK2MT53TXHFMY4H:progress:monitoring:minor:2026-11-25T16:58:51+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 17:00:42 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with Codex GitHub reviews and pull request merges</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 25 Nov 2026 16:27:02 +0000</p><p>GitHub reports that the service disruption affecting pull requests and webhooks has been mitigated. We are monitoring Codex automated pull request reviews and merge operations to confirm recovery and stability.</p><p><a href="https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H">OpenAI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/5qj9j0p5g4cr</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 10:00:19 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>We are investigating an issue with users authenticating to Claude.ai and Claude Code. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Replit is fine again]]></title>
-<link>https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610</link>
-<guid isPermaLink='false'>replit:e43270bd-a929-4239-8e75-d558c7f26610:resolved:resolved:minor:2026-11-13T07:31:06.418501+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 07:31:06 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Reserved VM publishes failing at Promote: "inspect shared VPC attachment" error</strong></p><p>Impact: minor · Status: resolved · Opened: Fri, 13 Nov 2026 07:26:52 +0000</p><p>[Resolved] The issue is resolved. Thanks for your patience. Impacted: Publishing</p><p><a href="https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610">Replit status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 Replit has identified the problem. Fix pending.]]></title>
-<link>https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610</link>
-<guid isPermaLink='false'>replit:e43270bd-a929-4239-8e75-d558c7f26610:opened:identified:minor:2026-11-13T07:01:03.808508+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 07:01:03 +0000</pubDate>
-<category>Replit</category>
-<description><![CDATA[<p><strong>Reserved VM publishes failing at Promote: "inspect shared VPC attachment" error</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 13 Nov 2026 06:51:46 +0000</p><p>[Identified] There is an outage for reserved VM publishing. We have identified the root cause and is addressing it. Impacted: Publishing</p><p><a href="https://status.replit.com/incidents/e43270bd-a929-4239-8e75-d558c7f26610">Replit status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,50 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [
+   "Git Operations",
+   "Webhooks",
+   "API Requests",
+   "Issues",
+   "Pull Requests",
+   "Actions",
+   "Packages",
+   "Pages"
+  ],
+  "duration": "56 min",
+  "headline": "🟢 All clear from GitHub after 56 min",
+  "id": "github:qn8mfv6q5hlx:resolved:resolved:critical:2026-11-25T16:52:16.321000+00:00",
+  "impact": "critical",
+  "incident_id": "qn8mfv6q5hlx",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-25T17:00:42.290361+00:00",
+  "started_at": "2026-11-25T15:55:19.600000+00:00",
+  "status": "resolved",
+  "title": "Investigating degraded experiences across GitHub products",
+  "transition": "resolved",
+  "url": "https://stspg.io/5qj9j0p5g4cr"
+ },
+ {
+  "body": "GitHub reports that the service disruption affecting pull requests and webhooks has been mitigated. We are monitoring Codex automated pull request reviews and merge operations to confirm recovery and stability.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI thinks it's fixed and is watching nervously",
+  "id": "openai:01M89RGC3STKK2MT53TXHFMY4H:progress:monitoring:minor:2026-11-25T16:58:51+00:00",
+  "impact": "minor",
+  "incident_id": "01M89RGC3STKK2MT53TXHFMY4H",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-25T17:00:42.290361+00:00",
+  "started_at": "2026-11-25T16:27:02+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors with Codex GitHub reviews and pull request merges",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H"
+ },
+ {
   "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
   "components": [
    "Git Operations",
@@ -7732,42 +7777,6 @@
   "status": "monitoring",
   "title": "File upload errors in ChatGPT",
   "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
- },
- {
-  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
-  "components": [],
-  "duration": "",
-  "headline": "🔍 OpenAI has found the culprit",
-  "id": "openai:01M6FDZ89W4PKDS19K496J307G:progress:identified:minor:2026-11-03T02:06:04+00:00",
-  "impact": "minor",
-  "incident_id": "01M6FDZ89W4PKDS19K496J307G",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-11-03T02:15:20.267290+00:00",
-  "started_at": "2026-11-03T00:46:58+00:00",
-  "status": "identified",
-  "title": "File upload errors in ChatGPT",
-  "transition": "progress",
-  "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
- },
- {
-  "body": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 OpenAI has a limp, not a break",
-  "id": "openai:01M6FDZ89W4PKDS19K496J307G:opened:investigating:minor:2026-11-03T00:58:21+00:00",
-  "impact": "minor",
-  "incident_id": "01M6FDZ89W4PKDS19K496J307G",
-  "kind": "incident",
-  "provider_key": "openai",
-  "provider_name": "OpenAI",
-  "published_at": "2026-11-03T01:00:24.482859+00:00",
-  "started_at": "2026-11-03T00:46:58+00:00",
-  "status": "investigating",
-  "title": "File upload errors in ChatGPT",
-  "transition": "opened",
   "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 25 Nov 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from GitHub after 56 min]]></title>
+<link>https://stspg.io/5qj9j0p5g4cr</link>
+<guid isPermaLink='false'>github:qn8mfv6q5hlx:resolved:resolved:critical:2026-11-25T16:52:16.321000+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 17:00:42 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Investigating degraded experiences across GitHub products</strong></p><p>Impact: critical · Status: resolved · Affects: Git Operations, Webhooks, API Requests, Issues, Pull Requests, Actions, Packages, Pages · Duration: 56 min · Opened: Wed, 25 Nov 2026 15:55:19 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/5qj9j0p5g4cr">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 GitHub has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/5qj9j0p5g4cr</link>
