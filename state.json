@@ -614,6 +614,12 @@
    "status": "resolved",
    "updated_at": "2026-08-14T10:28:23.655000+00:00"
   },
+  "anthropic:yl30wkjblcm6": {
+   "impact": "none",
+   "last_seen_at": "2026-11-25T00:00:00+00:00",
+   "status": "resolved",
+   "updated_at": "2026-11-25T05:32:26.276000+00:00"
+  },
   "anthropic:yzs0s90d8fm8": {
    "impact": "major",
    "last_seen_at": "2026-11-25T00:00:00+00:00",
