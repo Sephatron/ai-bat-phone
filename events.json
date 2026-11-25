@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [
+   "Third-party Model Providers"
+  ],
+  "duration": "6d 6h",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_c953d2fd3da8691b:resolved:resolved:none:2026-11-25T22:53:47+00:00",
+  "impact": "none",
+  "incident_id": "ps_c953d2fd3da8691b",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-25T23:00:12.157401+00:00",
+  "started_at": "2026-11-19T16:01:13+00:00",
+  "status": "resolved",
+  "title": "Degraded Gemini 4 Carbon",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=third-party-models%2Fps_c953d2fd3da8691b"
+ },
+ {
   "body": "We have identified an issue with an upstream provider that is causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. We are in contact with them. In the meantime, we recommend using the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. We will provide another update as soon as possible.",
   "components": [
    "claude.ai"
@@ -7759,23 +7779,5 @@
   "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
   "transition": "progress",
   "url": "https://status.deepseek.com/incidents/7202016104287"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is sulking, mildly",
-  "id": "fireworks:01M6G9F3VBRSPKTQVYT74MXAJT:opened:investigating:minor:2026-11-03T08:47:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M6G9F3VBRSPKTQVYT74MXAJT",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T09:00:21.963393+00:00",
-  "started_at": "2026-11-03T08:47:29+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M6G9F3VBRSPKTQVYT74MXAJT"
  }
 ]
