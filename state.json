@@ -4703,8 +4703,8 @@
   "github:m0wx9qml7yjh": {
    "impact": "critical",
    "last_seen_at": "2026-11-25T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-25T00:45:48.003000+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-25T01:15:18.762000+00:00"
   },
   "github:m310qbkfm3ww": {
    "impact": "minor",

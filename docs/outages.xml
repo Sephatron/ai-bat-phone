@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is upright again. That took 1h 07m.]]></title>
+<link>https://stspg.io/bk5200jsb13k</link>
+<guid isPermaLink='false'>github:m0wx9qml7yjh:resolved:resolved:critical:2026-11-25T01:15:18.762000+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 01:15:29 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Disruption with Code Completions and Next Edit Suggestions</strong></p><p>Impact: critical · Status: resolved · Duration: 1h 07m · Opened: Wed, 25 Nov 2026 00:08:17 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/bk5200jsb13k">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔺 It got worse: GitHub is now a critical outage]]></title>
 <link>https://stspg.io/bk5200jsb13k</link>
 <guid isPermaLink='false'>github:m0wx9qml7yjh:escalated:investigating:critical:2026-11-25T00:41:09.548000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 20:46:04 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 20:39:27 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M78QE4QA5Y7GGFCG945HESCT</link>
-<guid isPermaLink='false'>fireworks:01M78QE4QA5Y7GGFCG945HESCT:opened:investigating:minor:2026-11-12T20:33:24+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 20:46:04 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 20:33:24 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M78QE4QA5Y7GGFCG945HESCT">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
