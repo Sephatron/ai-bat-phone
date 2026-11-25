@@ -1,5 +1,25 @@
 [
  {
+  "body": "The issue affecting inbound emails to Grok Bot inboxes and access to grokbot.com has been resolved. Inbound email delivery is restored, and any emails that bounced during the disruption can now be re-sent.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "1h 02m",
+  "headline": "🟢 All clear from Cursor after 1h 02m",
+  "id": "cursor:ps_107ced4bd129ed66:resolved:resolved:major:2026-11-25T15:00:01+00:00",
+  "impact": "major",
+  "incident_id": "ps_107ced4bd129ed66",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-25T15:00:44.470919+00:00",
+  "started_at": "2026-11-25T13:57:41+00:00",
+  "status": "resolved",
+  "title": "Degraded performance — Grok Bot inbound email",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_107ced4bd129ed66"
+ },
+ {
   "body": "We are investigating a service degradation affecting Grok Bot inbound email.",
   "components": [
    "Grok Bot"
@@ -7733,26 +7753,6 @@
   "status": "resolved",
   "title": "Elevated errors on GPT-5.4 Nano",
   "transition": "resolved",
-  "url": "https://stspg.io/ns6pj9qy9glb"
- },
- {
-  "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability.",
-  "components": [
-   "Copilot AI Model Providers"
-  ],
-  "duration": "",
-  "headline": "👀 GitHub thinks it's fixed and is watching nervously",
-  "id": "github:db4x8hh362t8:progress:monitoring:minor:2026-11-02T18:10:34.915000+00:00",
-  "impact": "minor",
-  "incident_id": "db4x8hh362t8",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-11-02T18:15:19.147413+00:00",
-  "started_at": "2026-11-02T17:46:23.160000+00:00",
-  "status": "monitoring",
-  "title": "Elevated errors on GPT-5.4 Nano",
-  "transition": "progress",
   "url": "https://stspg.io/ns6pj9qy9glb"
  }
 ]

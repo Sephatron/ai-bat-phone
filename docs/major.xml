@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 25 Nov 2026 14:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 15:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from Cursor after 1h 02m]]></title>
+<link>https://status.x.ai/history?incident=grok-bot%2Fps_107ced4bd129ed66</link>
+<guid isPermaLink='false'>cursor:ps_107ced4bd129ed66:resolved:resolved:major:2026-11-25T15:00:01+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 15:00:44 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded performance — Grok Bot inbound email</strong></p><p>Impact: major · Status: resolved · Affects: Grok Bot · Duration: 1h 02m · Opened: Wed, 25 Nov 2026 13:57:41 +0000</p><p>The issue affecting inbound emails to Grok Bot inboxes and access to grokbot.com has been resolved. Inbound email delivery is restored, and any emails that bounced during the disruption can now be re-sent.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_107ced4bd129ed66">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub is upright again. That took 1h 07m.]]></title>
 <link>https://stspg.io/bk5200jsb13k</link>
