@@ -1,5 +1,49 @@
 [
  {
+  "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+  "components": [],
+  "duration": "4h 24m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M898HVZGXFV2XC4775CG9GF8:resolved:resolved:minor:2026-11-25T16:12:21+00:00",
+  "impact": "minor",
+  "incident_id": "01M898HVZGXFV2XC4775CG9GF8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-25T16:15:40.205632+00:00",
+  "started_at": "2026-11-25T11:48:13+00:00",
+  "status": "resolved",
+  "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8"
+ },
+ {
+  "body": "We are investigating increased failures due to high database load and are working on mitigations to reduce load and restore service.",
+  "components": [
+   "Git Operations",
+   "Webhooks",
+   "Issues",
+   "Pull Requests",
+   "Actions",
+   "Packages",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "🔴 GitHub has gone dark. Nothing you did. Probably.",
+  "id": "github:qn8mfv6q5hlx:opened:investigating:critical:2026-11-25T16:14:11.932000+00:00",
+  "impact": "critical",
+  "incident_id": "qn8mfv6q5hlx",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-25T16:15:40.205632+00:00",
+  "started_at": "2026-11-25T15:55:19.600000+00:00",
+  "status": "investigating",
+  "title": "Investigating degraded experiences across GitHub products",
+  "transition": "opened",
+  "url": "https://stspg.io/5qj9j0p5g4cr"
+ },
+ {
   "body": "The issue affecting inbound emails to Grok Bot inboxes and access to grokbot.com has been resolved. Inbound email delivery is restored, and any emails that bounced during the disruption can now be re-sent.",
   "components": [
    "Grok Bot"
@@ -7716,43 +7760,5 @@
   "title": "Replit chats are inaccessible",
   "transition": "opened",
   "url": "https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3"
- },
- {
-  "body": "[Investigating] We are currently investigating issues with accessing conversations in some Replit workspaces,",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Replit is sulking, mildly",
-  "id": "replit:685b60a3-261c-4b29-9e9f-c24b2759aaba:opened:investigating:minor:2026-11-02T22:15:17.893902+00:00",
-  "impact": "minor",
-  "incident_id": "685b60a3-261c-4b29-9e9f-c24b2759aaba",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-11-02T22:15:17.893902+00:00",
-  "started_at": "2026-11-02T22:13:11+00:00",
-  "status": "investigating",
-  "title": "Some Replit workspaces are inaccessible",
-  "transition": "opened",
-  "url": "https://status.replit.com/incidents/685b60a3-261c-4b29-9e9f-c24b2759aaba"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Copilot AI Model Providers"
-  ],
-  "duration": "38 min",
-  "headline": "🟢 GitHub has stopped wobbling",
-  "id": "github:db4x8hh362t8:resolved:resolved:minor:2026-11-02T18:24:23.194000+00:00",
-  "impact": "minor",
-  "incident_id": "db4x8hh362t8",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-11-02T18:30:18.975171+00:00",
-  "started_at": "2026-11-02T17:46:23.160000+00:00",
-  "status": "resolved",
-  "title": "Elevated errors on GPT-5.4 Nano",
-  "transition": "resolved",
-  "url": "https://stspg.io/ns6pj9qy9glb"
  }
 ]

@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 25 Nov 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/5qj9j0p5g4cr</link>
+<guid isPermaLink='false'>github:qn8mfv6q5hlx:opened:investigating:critical:2026-11-25T16:14:11.932000+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 16:15:40 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Investigating degraded experiences across GitHub products</strong></p><p>Impact: critical · Status: investigating · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions, Packages, Pages · Opened: Wed, 25 Nov 2026 15:55:19 +0000</p><p>We are investigating increased failures due to high database load and are working on mitigations to reduce load and restore service.</p><p><a href="https://stspg.io/5qj9j0p5g4cr">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 All clear from Cursor after 1h 02m]]></title>
 <link>https://status.x.ai/history?incident=grok-bot%2Fps_107ced4bd129ed66</link>

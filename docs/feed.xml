@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 25 Nov 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 OpenAI is fine again]]></title>
+<link>https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8</link>
+<guid isPermaLink='false'>openai:01M898HVZGXFV2XC4775CG9GF8:resolved:resolved:minor:2026-11-25T16:12:21+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 16:15:40 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors</strong></p><p>Impact: minor · Status: resolved · Duration: 4h 24m · Opened: Wed, 25 Nov 2026 11:48:13 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🔴 GitHub has gone dark. Nothing you did. Probably.]]></title>
+<link>https://stspg.io/5qj9j0p5g4cr</link>
+<guid isPermaLink='false'>github:qn8mfv6q5hlx:opened:investigating:critical:2026-11-25T16:14:11.932000+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 16:15:40 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>Investigating degraded experiences across GitHub products</strong></p><p>Impact: critical · Status: investigating · Affects: Git Operations, Webhooks, Issues, Pull Requests, Actions, Packages, Pages · Opened: Wed, 25 Nov 2026 15:55:19 +0000</p><p>We are investigating increased failures due to high database load and are working on mitigations to reduce load and restore service.</p><p><a href="https://stspg.io/5qj9j0p5g4cr">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 All clear from Cursor after 1h 02m]]></title>
 <link>https://status.x.ai/history?incident=grok-bot%2Fps_107ced4bd129ed66</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 04:01:05 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Sites: Publishing failing</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 13 Nov 2026 03:59:08 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M79GYA0GA772Y6D089AH5478">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M796HKVM502P1SGZXGJ5QG7V</link>
-<guid isPermaLink='false'>fireworks:01M796HKVM502P1SGZXGJ5QG7V:resolved:resolved:minor:2026-11-13T01:32:39+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 01:46:15 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 35 min · Opened: Fri, 13 Nov 2026 00:57:26 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M796HKVM502P1SGZXGJ5QG7V">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
-<link>https://status.fireworks.ai/incidents/01M797GR9J4WV67CX093FCW481</link>
-<guid isPermaLink='false'>fireworks:01M797GR9J4WV67CX093FCW481:resolved:resolved:minor:2026-11-13T01:24:35+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 01:31:03 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Fri, 13 Nov 2026 01:14:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M797GR9J4WV67CX093FCW481">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
