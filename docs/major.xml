@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 Claude has identified the problem. Fix pending.]]></title>
+<link>https://stspg.io/ffdq2qfv8frk</link>
+<guid isPermaLink='false'>anthropic:3vbyqgnswwxq:progress:identified:major:2026-11-25T20:21:12.140000+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 20:30:12 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Claude for Microsoft 365 add-in missing for some users</strong></p><p>Impact: major · Status: identified · Affects: claude.ai · Opened: Tue, 24 Nov 2026 00:10:40 +0000</p><p>We have identified an issue with an upstream provider that is causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. We are in contact with them. In the meantime, we recommend using the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. We will provide another update as soon as possible.</p><p><a href="https://stspg.io/ffdq2qfv8frk">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from GitHub after 56 min]]></title>
 <link>https://stspg.io/5qj9j0p5g4cr</link>
 <guid isPermaLink='false'>github:qn8mfv6q5hlx:resolved:resolved:critical:2026-11-25T16:52:16.321000+00:00</guid>
