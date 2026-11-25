@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have applied mitigations and are seeing recovery across ChatGPT, ChatGPT Work, and Codex cloud threads. We are monitoring the affected services to ensure continued stability. Our investigation into the underlying cause remains ongoing.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 OpenAI has applied a fix and is holding its breath",
+  "id": "openai:01M898HVZGXFV2XC4775CG9GF8:progress:monitoring:minor:2026-11-25T13:22:34+00:00",
+  "impact": "minor",
+  "incident_id": "01M898HVZGXFV2XC4775CG9GF8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-25T13:30:49.047326+00:00",
+  "started_at": "2026-11-25T11:48:13+00:00",
+  "status": "monitoring",
+  "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
+  "transition": "progress",
+  "url": "https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [
    "Copilot AI Model Providers"
@@ -7736,25 +7754,5 @@
   "title": "Elevated errors on GPT-5.4 Nano",
   "transition": "opened",
   "url": "https://stspg.io/ns6pj9qy9glb"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "K3"
-  ],
-  "duration": "22 min",
-  "headline": "🟢 Moonshot AI (Kimi) lives. Pick your tools back up.",
-  "id": "moonshot:cxwwcv5288yg:resolved:resolved:critical:2026-11-02T15:52:43.497000+00:00",
-  "impact": "critical",
-  "incident_id": "cxwwcv5288yg",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-02T16:00:20.346724+00:00",
-  "started_at": "2026-11-02T15:30:41.666000+00:00",
-  "status": "resolved",
-  "title": "Kimi Code K3 TTFT 响应延迟升高",
-  "transition": "resolved",
-  "url": "https://stspg.io/h0wf9xx54ljw"
  }
 ]
