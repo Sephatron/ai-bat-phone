@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs thinks it's fixed and is watching nervously]]></title>
+<link>https://status.elevenlabs.io/incidents/01M89Y040968P03KMCNK3Z6BA9</link>
+<guid isPermaLink='false'>elevenlabs:01M89Y040968P03KMCNK3Z6BA9:opened:monitoring:minor:2026-11-25T18:15:12+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 18:15:38 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Agents SIP Audio Quality Degradation in US (Global) region</strong></p><p>Impact: minor · Status: monitoring · Opened: Wed, 25 Nov 2026 18:03:01 +0000</p><p>We have detected and have already taken steps to mitigate an issue where a small subset of Agents in the US region using SIP experienced choppy and/or slightly delayed audio. We are currently monitoring to ensure full resolution.</p><p><a href="https://status.elevenlabs.io/incidents/01M89Y040968P03KMCNK3Z6BA9">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from GitHub after 56 min]]></title>
 <link>https://stspg.io/5qj9j0p5g4cr</link>
 <guid isPermaLink='false'>github:qn8mfv6q5hlx:resolved:resolved:critical:2026-11-25T16:52:16.321000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 11:15:57 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Claude is on the floor. Kettle on, grass outside.]]></title>
-<link>https://stspg.io/6kqyd0c5b1gr</link>
-<guid isPermaLink='false'>anthropic:nn11wk485zfn:opened:investigating:major:2026-11-13T09:58:58.258000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 10:00:19 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>We are investigating an issue with users authenticating to Claude.ai and Claude Code. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
