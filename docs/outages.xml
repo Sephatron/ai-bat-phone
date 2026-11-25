@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub is fine again]]></title>
+<link>https://stspg.io/djn1brd9cmzj</link>
+<guid isPermaLink='false'>github:189rrqcfhc75:resolved:resolved:minor:2026-11-25T12:03:55.281000+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 12:15:41 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>MAI Code 2 Degredation</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 5 min · Opened: Wed, 25 Nov 2026 11:58:36 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/djn1brd9cmzj">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
 <link>https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8</link>
 <guid isPermaLink='false'>openai:01M898HVZGXFV2XC4775CG9GF8:opened:identified:minor:2026-11-25T11:56:25+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 21:46:05 +0000</pubDate>
 <category>Cursor</category>
 <description><![CDATA[<p><strong>Elevated errors for some requests</strong></p><p>Impact: major · Status: resolved · Affects: cursor.com, Grok Bot · Duration: 1h 31m · Opened: Thu, 12 Nov 2026 20:08:15 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.x.ai/history?incident=cursor-com%2Fps_94275750e294382d">Cursor status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI has stopped wobbling]]></title>
-<link>https://status.fireworks.ai/incidents/01M78QE4QA5Y7GGFCG945HESCT</link>
-<guid isPermaLink='false'>fireworks:01M78QE4QA5Y7GGFCG945HESCT:resolved:resolved:minor:2026-11-12T21:26:40+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 21:31:04 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 53 min · Opened: Thu, 12 Nov 2026 20:33:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M78QE4QA5Y7GGFCG945HESCT">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
