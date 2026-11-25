@@ -3035,8 +3035,8 @@
   "elevenlabs:01M89Y040968P03KMCNK3Z6BA9": {
    "impact": "minor",
    "last_seen_at": "2026-11-25T00:00:00+00:00",
-   "status": "monitoring",
-   "updated_at": "2026-11-25T18:15:12+00:00"
+   "status": "resolved",
+   "updated_at": "2026-11-25T18:30:06+00:00"
   },
   "fireworks:01M0VMP31XR0PNE3RP1S9BP1N2": {
    "impact": "minor",
