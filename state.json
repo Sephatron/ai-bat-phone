@@ -4730,6 +4730,12 @@
    "status": "resolved",
    "updated_at": "2026-11-04T22:04:26.394000+00:00"
   },
+  "github:m0wvf9pt3l0l": {
+   "impact": "minor",
+   "last_seen_at": "2026-11-25T00:00:00+00:00",
+   "status": "investigating",
+   "updated_at": "2026-11-25T23:10:38.989000+00:00"
+  },
   "github:m0wx9qml7yjh": {
    "impact": "critical",
    "last_seen_at": "2026-11-25T00:00:00+00:00",

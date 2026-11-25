@@ -1,5 +1,23 @@
 [
  {
+  "body": "We have identified an issue that impacts Large File Storage (LFS) for a small number of customers. We are working on mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 GitHub is a bit under the weather",
+  "id": "github:m0wvf9pt3l0l:opened:investigating:minor:2026-11-25T23:10:38.989000+00:00",
+  "impact": "minor",
+  "incident_id": "m0wvf9pt3l0l",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-25T23:15:11.346246+00:00",
+  "started_at": "2026-11-25T23:06:54.822000+00:00",
+  "status": "investigating",
+  "title": "LFS degradation for some customers",
+  "transition": "opened",
+  "url": "https://stspg.io/ywpzwl4yl621"
+ },
+ {
   "body": "This incident has been resolved.",
   "components": [
    "Third-party Model Providers"
@@ -7757,27 +7775,5 @@
   "title": "Service Degradation for Kimi K3",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6GD2F996J3HNXBBA6H6QGCZ"
- },
- {
-  "body": "Status: monitoring 已实施修复，正在监控结果。 A fix has been implemented and the results are being monitored. Affected components: DeepSeek V4.1 Flash API服务(API Service), 对话服务(Chatservice), DeepSeek V4 Pro API服务(API Service)",
-  "components": [
-   "DeepSeek V4.1 Flash API服务(API Service)",
-   "对话服务(Chatservice)",
-   "DeepSeek V4 Pro API服务(API Service)"
-  ],
-  "duration": "",
-  "headline": "👀 DeepSeek is on the mend. Don't get comfortable yet.",
-  "id": "deepseek:urn:flashduty:change:7202016104287:progress:monitoring:minor:2026-11-03T09:15:20.496585+00:00",
-  "impact": "minor",
-  "incident_id": "urn:flashduty:change:7202016104287",
-  "kind": "incident",
-  "provider_key": "deepseek",
-  "provider_name": "DeepSeek",
-  "published_at": "2026-11-03T09:15:20.496585+00:00",
-  "started_at": "2026-11-03T08:58:16+00:00",
-  "status": "monitoring",
-  "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
-  "transition": "progress",
-  "url": "https://status.deepseek.com/incidents/7202016104287"
  }
 ]
