@@ -1,5 +1,43 @@
 [
  {
+  "body": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M898HVZGXFV2XC4775CG9GF8:opened:identified:minor:2026-11-25T11:56:25+00:00",
+  "impact": "minor",
+  "incident_id": "01M898HVZGXFV2XC4775CG9GF8",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-25T12:00:39.195750+00:00",
+  "started_at": "2026-11-25T11:48:13+00:00",
+  "status": "identified",
+  "title": "ChatGPT is experiencing elevated conversation errors affecting Education, Team, Business, Pro, and Plus plans",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8"
+ },
+ {
+  "body": "We are experiencing degraded availability for the MAI Code 2 model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot.",
+  "components": [
+   "Copilot AI Model Providers"
+  ],
+  "duration": "",
+  "headline": "🟠 Minor grumbles from GitHub",
+  "id": "github:189rrqcfhc75:opened:investigating:minor:2026-11-25T11:58:52.046000+00:00",
+  "impact": "minor",
+  "incident_id": "189rrqcfhc75",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-25T12:00:39.195750+00:00",
+  "started_at": "2026-11-25T11:58:36.144000+00:00",
+  "status": "investigating",
+  "title": "MAI Code 2 Degredation",
+  "transition": "opened",
+  "url": "https://stspg.io/djn1brd9cmzj"
+ },
+ {
   "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
   "components": [],
   "duration": "1h 07m",
@@ -7718,43 +7756,5 @@
   "title": "Kimi Code K3 TTFT 响应延迟升高",
   "transition": "resolved",
   "url": "https://stspg.io/wlhfpkv62zy4"
- },
- {
-  "body": "K3 部分请求的 TTFT 延迟可能升高",
-  "components": [
-   "K3"
-  ],
-  "duration": "",
-  "headline": "🔴 Moonshot AI (Kimi) is on the floor. Kettle on, grass outside.",
-  "id": "moonshot:cxwwcv5288yg:opened:investigating:critical:2026-11-02T15:30:41.735000+00:00",
-  "impact": "critical",
-  "incident_id": "cxwwcv5288yg",
-  "kind": "incident",
-  "provider_key": "moonshot",
-  "provider_name": "Moonshot AI (Kimi)",
-  "published_at": "2026-11-02T15:45:20.220137+00:00",
-  "started_at": "2026-11-02T15:30:41.666000+00:00",
-  "status": "investigating",
-  "title": "Kimi Code K3 TTFT 响应延迟升高",
-  "transition": "opened",
-  "url": "https://stspg.io/h0wf9xx54ljw"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [],
-  "duration": "58 min",
-  "headline": "🟢 Lovable is fine again",
-  "id": "lovable:01M6EB2PWWFVAPY81CYH2K2JB7:resolved:resolved:minor:2026-11-02T15:35:15+00:00",
-  "impact": "minor",
-  "incident_id": "01M6EB2PWWFVAPY81CYH2K2JB7",
-  "kind": "incident",
-  "provider_key": "lovable",
-  "provider_name": "Lovable",
-  "published_at": "2026-11-02T15:45:20.220137+00:00",
-  "started_at": "2026-11-02T14:37:11+00:00",
-  "status": "resolved",
-  "title": "Some Lovable Cloud apps unable to reach backend",
-  "transition": "resolved",
-  "url": "https://status.lovable.dev/incidents/01M6EB2PWWFVAPY81CYH2K2JB7"
  }
 ]

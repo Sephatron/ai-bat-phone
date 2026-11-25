@@ -6,9 +6,25 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Wed, 25 Nov 2026 11:00:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8</link>
+<guid isPermaLink='false'>openai:01M898HVZGXFV2XC4775CG9GF8:opened:identified:minor:2026-11-25T11:56:25+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 12:00:39 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>ChatGPT is experiencing elevated conversation errors affecting Education, Team, Business, Pro, and Plus plans</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 25 Nov 2026 11:48:13 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8">OpenAI status page</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[🟠 Minor grumbles from GitHub]]></title>
+<link>https://stspg.io/djn1brd9cmzj</link>
+<guid isPermaLink='false'>github:189rrqcfhc75:opened:investigating:minor:2026-11-25T11:58:52.046000+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 12:00:39 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>MAI Code 2 Degredation</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Wed, 25 Nov 2026 11:58:36 +0000</p><p>We are experiencing degraded availability for the MAI Code 2 model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot.</p><p><a href="https://stspg.io/djn1brd9cmzj">GitHub status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 GitHub is upright again. That took 1h 07m.]]></title>
 <link>https://stspg.io/bk5200jsb13k</link>
@@ -1592,22 +1608,6 @@
 <pubDate>Thu, 12 Nov 2026 21:31:04 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 53 min · Opened: Thu, 12 Nov 2026 20:33:24 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M78QE4QA5Y7GGFCG945HESCT">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Fireworks AI sorted itself out after 12 min]]></title>
-<link>https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7</link>
-<guid isPermaLink='false'>fireworks:01M78QS7FF6ZZG766MPN791KX7:resolved:resolved:minor:2026-11-12T20:51:35+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 21:01:05 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 12 min · Opened: Thu, 12 Nov 2026 20:39:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is having a wobble]]></title>
-<link>https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7</link>
-<guid isPermaLink='false'>fireworks:01M78QS7FF6ZZG766MPN791KX7:opened:investigating:minor:2026-11-12T20:39:27+00:00</guid>
-<pubDate>Thu, 12 Nov 2026 20:46:04 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Thu, 12 Nov 2026 20:39:27 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M78QS7FF6ZZG766MPN791KX7">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
