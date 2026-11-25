@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🔍 OpenAI has identified the problem. Fix pending.]]></title>
+<link>https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H</link>
+<guid isPermaLink='false'>openai:01M89RGC3STKK2MT53TXHFMY4H:opened:identified:minor:2026-11-25T16:27:02+00:00</guid>
+<pubDate>Wed, 25 Nov 2026 16:30:46 +0000</pubDate>
+<category>OpenAI</category>
+<description><![CDATA[<p><strong>Elevated errors with Codex GitHub reviews and pull request merges</strong></p><p>Impact: minor · Status: identified · Opened: Wed, 25 Nov 2026 16:27:02 +0000</p><p>Some Codex users may not receive automated reviews on GitHub pull requests or may encounter errors when merging pull requests from Codex. We have identified these failures as related to a GitHub service disruption. We will provide further updates as more information becomes available.</p><p><a href="https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H">OpenAI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8</link>
 <guid isPermaLink='false'>openai:01M898HVZGXFV2XC4775CG9GF8:resolved:resolved:minor:2026-11-25T16:12:21+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 06:01:05 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Sites: Publishing failing</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 56m · Opened: Fri, 13 Nov 2026 03:59:08 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M79GYA0GA772Y6D089AH5478">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI knows what it did]]></title>
-<link>https://status.openai.com/incidents/01M79GYA0GA772Y6D089AH5478</link>
-<guid isPermaLink='false'>openai:01M79GYA0GA772Y6D089AH5478:opened:identified:minor:2026-11-13T03:59:08+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 04:01:05 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Sites: Publishing failing</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 13 Nov 2026 03:59:08 +0000</p><p>We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.</p><p><a href="https://status.openai.com/incidents/01M79GYA0GA772Y6D089AH5478">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

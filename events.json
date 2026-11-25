@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some Codex users may not receive automated reviews on GitHub pull requests or may encounter errors when merging pull requests from Codex. We have identified these failures as related to a GitHub service disruption. We will provide further updates as more information becomes available.",
+  "components": [],
+  "duration": "",
+  "headline": "🔍 OpenAI has identified the problem. Fix pending.",
+  "id": "openai:01M89RGC3STKK2MT53TXHFMY4H:opened:identified:minor:2026-11-25T16:27:02+00:00",
+  "impact": "minor",
+  "incident_id": "01M89RGC3STKK2MT53TXHFMY4H",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-25T16:30:46.844299+00:00",
+  "started_at": "2026-11-25T16:27:02+00:00",
+  "status": "identified",
+  "title": "Elevated errors with Codex GitHub reviews and pull request merges",
+  "transition": "opened",
+  "url": "https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H"
+ },
+ {
   "body": "All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
   "components": [],
   "duration": "4h 24m",
@@ -7741,24 +7759,6 @@
   "status": "resolved",
   "title": "Replit chats are inaccessible",
   "transition": "resolved",
-  "url": "https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3"
- },
- {
-  "body": "[Monitoring] We have identified and are investigating a disruption of access to Replit chats.",
-  "components": [],
-  "duration": "",
-  "headline": "👀 Replit thinks it's fixed and is watching nervously",
-  "id": "replit:fc561e56-380f-42c1-a807-2ff3d6d5c5a3:opened:monitoring:minor:2026-11-02T22:45:17.954828+00:00",
-  "impact": "minor",
-  "incident_id": "fc561e56-380f-42c1-a807-2ff3d6d5c5a3",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-11-02T22:45:17.954828+00:00",
-  "started_at": "2026-11-02T22:38:52+00:00",
-  "status": "monitoring",
-  "title": "Replit chats are inaccessible",
-  "transition": "opened",
   "url": "https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3"
  }
 ]
