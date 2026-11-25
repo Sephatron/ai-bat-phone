@@ -1,5 +1,32 @@
 [
  {
+  "body": "The degradation has been mitigated. We are monitoring to ensure stability.",
+  "components": [
+   "Git Operations",
+   "Webhooks",
+   "API Requests",
+   "Issues",
+   "Pull Requests",
+   "Actions",
+   "Packages",
+   "Pages"
+  ],
+  "duration": "",
+  "headline": "👀 GitHub has applied a fix and is holding its breath",
+  "id": "github:qn8mfv6q5hlx:progress:monitoring:critical:2026-11-25T16:44:15.199000+00:00",
+  "impact": "critical",
+  "incident_id": "qn8mfv6q5hlx",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-25T16:45:39.058378+00:00",
+  "started_at": "2026-11-25T15:55:19.600000+00:00",
+  "status": "monitoring",
+  "title": "Investigating degraded experiences across GitHub products",
+  "transition": "progress",
+  "url": "https://stspg.io/5qj9j0p5g4cr"
+ },
+ {
   "body": "Some Codex users may not receive automated reviews on GitHub pull requests or may encounter errors when merging pull requests from Codex. We have identified these failures as related to a GitHub service disruption. We will provide further updates as more information becomes available.",
   "components": [],
   "duration": "",
@@ -7742,23 +7769,5 @@
   "title": "File upload errors in ChatGPT",
   "transition": "opened",
   "url": "https://status.openai.com/incidents/01M6FDZ89W4PKDS19K496J307G"
- },
- {
-  "body": "[Resolved] Access to Replit chats has been restored.",
-  "components": [],
-  "duration": "",
-  "headline": "🟢 Replit sorted itself out after a while",
-  "id": "replit:fc561e56-380f-42c1-a807-2ff3d6d5c5a3:resolved:resolved:minor:2026-11-02T23:00:18.262562+00:00",
-  "impact": "minor",
-  "incident_id": "fc561e56-380f-42c1-a807-2ff3d6d5c5a3",
-  "kind": "incident",
-  "provider_key": "replit",
-  "provider_name": "Replit",
-  "published_at": "2026-11-02T23:00:18.262562+00:00",
-  "started_at": "2026-11-02T22:49:27+00:00",
-  "status": "resolved",
-  "title": "Replit chats are inaccessible",
-  "transition": "resolved",
-  "url": "https://status.replit.com/incidents/fc561e56-380f-42c1-a807-2ff3d6d5c5a3"
  }
 ]

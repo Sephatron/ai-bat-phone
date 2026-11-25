@@ -4841,8 +4841,8 @@
   "github:qn8mfv6q5hlx": {
    "impact": "critical",
    "last_seen_at": "2026-11-25T00:00:00+00:00",
-   "status": "investigating",
-   "updated_at": "2026-11-25T16:28:37.587000+00:00"
+   "status": "monitoring",
+   "updated_at": "2026-11-25T16:44:15.199000+00:00"
   },
   "github:qpfv5p86dmrl": {
    "impact": "critical",
