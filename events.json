@@ -1,5 +1,25 @@
 [
  {
+  "body": "This incident has been resolved. Grok Bot chat threads, messages, and voice calls have returned to normal operation, and any requests that failed during the disruption can now be retried.",
+  "components": [
+   "Grok Bot"
+  ],
+  "duration": "31 min",
+  "headline": "🟢 Cursor has stopped wobbling",
+  "id": "cursor:ps_9c3a169909dde9f2:resolved:resolved:minor:2026-11-26T11:16:47+00:00",
+  "impact": "minor",
+  "incident_id": "ps_9c3a169909dde9f2",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-26T11:30:11.525327+00:00",
+  "started_at": "2026-11-26T10:44:55+00:00",
+  "status": "resolved",
+  "title": "Degraded Performance Grok Bot",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=grok-bot%2Fps_9c3a169909dde9f2"
+ },
+ {
   "body": "We are investigating a service degradation affecting Grok Bot.",
   "components": [
    "Grok Bot"
@@ -7758,24 +7778,6 @@
   "status": "resolved",
   "title": "Service Degradation for Kimi K3 US",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6GE1K74VVBKEW56JT02FKPA"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M6GE1K74VVBKEW56JT02FKPA:opened:investigating:minor:2026-11-03T10:07:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M6GE1K74VVBKEW56JT02FKPA",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T10:15:24.214323+00:00",
-  "started_at": "2026-11-03T10:07:29+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6GE1K74VVBKEW56JT02FKPA"
  }
 ]
