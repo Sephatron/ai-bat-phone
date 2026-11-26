@@ -1,5 +1,23 @@
 [
  {
+  "body": "The GitHub service disruption has been resolved. Codex automated GitHub pull request reviews and merges are operating normally",
+  "components": [],
+  "duration": "21h 40m",
+  "headline": "🟢 OpenAI is fine again",
+  "id": "openai:01M89RGC3STKK2MT53TXHFMY4H:resolved:resolved:minor:2026-11-26T14:07:54+00:00",
+  "impact": "minor",
+  "incident_id": "01M89RGC3STKK2MT53TXHFMY4H",
+  "kind": "incident",
+  "provider_key": "openai",
+  "provider_name": "OpenAI",
+  "published_at": "2026-11-26T14:15:11.787684+00:00",
+  "started_at": "2026-11-25T16:27:02+00:00",
+  "status": "resolved",
+  "title": "Elevated errors with Codex GitHub reviews and pull request merges",
+  "transition": "resolved",
+  "url": "https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H"
+ },
+ {
   "body": "This incident has been resolved. Grok Bot chat threads, messages, and voice calls have returned to normal operation, and any requests that failed during the disruption can now be retried.",
   "components": [
    "Grok Bot"
@@ -7761,23 +7779,5 @@
   "title": "DeepSeek 网页/API 部分中断（DeepSeek Web/API Partially Unavailable）",
   "transition": "resolved",
   "url": "https://status.deepseek.com/incidents/7202016104287"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "8 min",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M6GE1K74VVBKEW56JT02FKPA:resolved:resolved:minor:2026-11-03T10:16:09+00:00",
-  "impact": "minor",
-  "incident_id": "01M6GE1K74VVBKEW56JT02FKPA",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T10:30:20.010759+00:00",
-  "started_at": "2026-11-03T10:07:29+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6GE1K74VVBKEW56JT02FKPA"
  }
 ]
