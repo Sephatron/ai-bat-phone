@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Replit has stopped wobbling]]></title>
+<link>https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c</link>
+<guid isPermaLink='false'>replit:c946b2b7-f4eb-413f-8109-2e5f6b82b62c:resolved:resolved:minor:2026-11-26T21:30:12.768927+00:00</guid>
+<pubDate>Thu, 26 Nov 2026 21:30:12 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Paid plan upgrades not activating after checkout</strong></p><p>Impact: minor · Status: resolved · Opened: Thu, 26 Nov 2026 21:23:15 +0000</p><p>[Resolved] This is resolved. Everyone charged for a plan or upgrade between 17:05 and 20:30 UTC now has the plan they paid for, and new purchases are working normally. If your account still doesn't show the right plan, please contact support. Sorry for the trouble.</p><p><a href="https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Replit thinks it's fixed and is watching nervously]]></title>
 <link>https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c</link>
 <guid isPermaLink='false'>replit:c946b2b7-f4eb-413f-8109-2e5f6b82b62c:progress:monitoring:minor:2026-11-26T20:45:11.475855+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 16:00:56 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: investigating · Affects: Pull Requests · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>We’re investigating an issue with Pull Requests where some attempts to merge are timing out.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/264r547qtkky</link>
-<guid isPermaLink='false'>anthropic:34wq7gxnxvvm:resolved:resolved:major:2026-11-13T15:38:49.380000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 15:45:57 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on claude.ai, the Claude API, and Claude Code</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 2h 28m · Opened: Fri, 13 Nov 2026 13:09:50 +0000</p><p>The issue affecting multiple surfaces has been resolved.</p><p><a href="https://stspg.io/264r547qtkky">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
