@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://status.x.ai/history?incident=grok-bot%2Fps_9c3a169909dde9f2</link>
+<guid isPermaLink='false'>cursor:ps_9c3a169909dde9f2:opened:investigating:minor:2026-11-26T10:44:55+00:00</guid>
+<pubDate>Thu, 26 Nov 2026 10:45:13 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded Performance Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Thu, 26 Nov 2026 10:44:55 +0000</p><p>We are investigating a service degradation affecting Grok Bot.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_9c3a169909dde9f2">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
 <link>https://stspg.io/ywpzwl4yl621</link>
 <guid isPermaLink='false'>github:m0wvf9pt3l0l:resolved:resolved:minor:2026-11-26T00:43:01.187000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 14:30:57 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for Kimi K3 Fast</strong></p><p>Impact: minor · Status: resolved · Duration: 6 min · Opened: Fri, 13 Nov 2026 14:15:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7AM6T4ZJ1YGHJ9F5S7PYVF3">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI is sulking, mildly]]></title>
-<link>https://status.fireworks.ai/incidents/01M7AM6T4ZJ1YGHJ9F5S7PYVF3</link>
-<guid isPermaLink='false'>fireworks:01M7AM6T4ZJ1YGHJ9F5S7PYVF3:opened:investigating:minor:2026-11-13T14:15:27+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 14:16:06 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for Kimi K3 Fast</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 13 Nov 2026 14:15:27 +0000</p><p>We are seeing impacted performance for Kimi K3 Fast. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M7AM6T4ZJ1YGHJ9F5S7PYVF3">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

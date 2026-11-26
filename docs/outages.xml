@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Cursor is having a wobble]]></title>
+<link>https://status.x.ai/history?incident=grok-bot%2Fps_9c3a169909dde9f2</link>
+<guid isPermaLink='false'>cursor:ps_9c3a169909dde9f2:opened:investigating:minor:2026-11-26T10:44:55+00:00</guid>
+<pubDate>Thu, 26 Nov 2026 10:45:13 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Degraded Performance Grok Bot</strong></p><p>Impact: minor · Status: investigating · Affects: Grok Bot · Opened: Thu, 26 Nov 2026 10:44:55 +0000</p><p>We are investigating a service degradation affecting Grok Bot.</p><p><a href="https://status.x.ai/history?incident=grok-bot%2Fps_9c3a169909dde9f2">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
 <link>https://stspg.io/ywpzwl4yl621</link>
 <guid isPermaLink='false'>github:m0wvf9pt3l0l:resolved:resolved:minor:2026-11-26T00:43:01.187000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 12:00:57 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 44 min · Opened: Fri, 13 Nov 2026 11:12:27 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/6kqyd0c5b1gr</link>
-<guid isPermaLink='false'>anthropic:nn11wk485zfn:resolved:resolved:major:2026-11-13T11:58:45.676000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 12:00:57 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Duration: 1h 59m · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>The issue affecting claude.ai and Claude Cowork has been resolved.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
