@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 26 Nov 2026 16:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 17:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Lovable sorted itself out after 35 min]]></title>
+<link>https://status.lovable.dev/incidents/01M8CACADM4DX3QKXX9R6PXYXG</link>
+<guid isPermaLink='false'>lovable:01M8CACADM4DX3QKXX9R6PXYXG:resolved:resolved:none:2026-11-26T16:53:29+00:00</guid>
+<pubDate>Thu, 26 Nov 2026 17:00:12 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Domain features are not working for some users</strong></p><p>Impact: unclassified · Status: resolved · Duration: 35 min · Opened: Thu, 26 Nov 2026 16:17:52 +0000</p><p>This incident has been resolved.</p><p><a href="https://status.lovable.dev/incidents/01M8CACADM4DX3QKXX9R6PXYXG">Lovable status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Lovable has applied a fix and is holding its breath]]></title>
 <link>https://status.lovable.dev/incidents/01M8CACADM4DX3QKXX9R6PXYXG</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 16:00:56 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: investigating · Affects: Pull Requests · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>We’re investigating an issue with Pull Requests where some attempts to merge are timing out.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/264r547qtkky</link>
-<guid isPermaLink='false'>anthropic:34wq7gxnxvvm:resolved:resolved:major:2026-11-13T15:38:49.380000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 15:45:57 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors on claude.ai, the Claude API, and Claude Code</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 2h 28m · Opened: Fri, 13 Nov 2026 13:09:50 +0000</p><p>The issue affecting multiple surfaces has been resolved.</p><p><a href="https://stspg.io/264r547qtkky">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved.",
+  "components": [],
+  "duration": "35 min",
+  "headline": "🟢 Lovable sorted itself out after 35 min",
+  "id": "lovable:01M8CACADM4DX3QKXX9R6PXYXG:resolved:resolved:none:2026-11-26T16:53:29+00:00",
+  "impact": "none",
+  "incident_id": "01M8CACADM4DX3QKXX9R6PXYXG",
+  "kind": "incident",
+  "provider_key": "lovable",
+  "provider_name": "Lovable",
+  "published_at": "2026-11-26T17:00:12.908575+00:00",
+  "started_at": "2026-11-26T16:17:52+00:00",
+  "status": "resolved",
+  "title": "Domain features are not working for some users",
+  "transition": "resolved",
+  "url": "https://status.lovable.dev/incidents/01M8CACADM4DX3QKXX9R6PXYXG"
+ },
+ {
   "body": "Some domain features are not working for some users right now. Adding an email domain or removing a custom domain may fail, and newly connected domains may stay in “Setting up” longer than usual. This is caused by an outage at one of our providers (). Our team is monitoring it and will post an update as service recovers.",
   "components": [],
   "duration": "",
@@ -7756,24 +7774,6 @@
   "status": "resolved",
   "title": "Service Degradation for Kimi K3 US",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6GGCNMA0V8MYXZ9J9BE5F6W"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Minor grumbles from Fireworks AI",
-  "id": "fireworks:01M6GGCNMA0V8MYXZ9J9BE5F6W:opened:investigating:minor:2026-11-03T10:48:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M6GGCNMA0V8MYXZ9J9BE5F6W",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T11:00:20.115047+00:00",
-  "started_at": "2026-11-03T10:48:29+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6GGCNMA0V8MYXZ9J9BE5F6W"
  }
 ]
