@@ -1,5 +1,23 @@
 [
  {
+  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
+  "components": [],
+  "duration": "1h 36m",
+  "headline": "🟢 GitHub has stopped wobbling",
+  "id": "github:m0wvf9pt3l0l:resolved:resolved:minor:2026-11-26T00:43:01.187000+00:00",
+  "impact": "minor",
+  "incident_id": "m0wvf9pt3l0l",
+  "kind": "incident",
+  "provider_key": "github",
+  "provider_name": "GitHub",
+  "published_at": "2026-11-26T00:45:10.759555+00:00",
+  "started_at": "2026-11-25T23:06:54.822000+00:00",
+  "status": "resolved",
+  "title": "LFS degradation for some customers",
+  "transition": "resolved",
+  "url": "https://stspg.io/ywpzwl4yl621"
+ },
+ {
   "body": "We have identified an issue that impacts Large File Storage (LFS) for a small number of customers. We are working on mitigation.",
   "components": [],
   "duration": "",
@@ -7756,24 +7774,6 @@
   "status": "resolved",
   "title": "Service Degradation for Kimi K3",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6GD2F996J3HNXBBA6H6QGCZ"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI is sulking, mildly",
-  "id": "fireworks:01M6GD2F996J3HNXBBA6H6QGCZ:opened:investigating:minor:2026-11-03T09:50:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M6GD2F996J3HNXBBA6H6QGCZ",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T10:00:18.962751+00:00",
-  "started_at": "2026-11-03T09:50:29+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6GD2F996J3HNXBBA6H6QGCZ"
  }
 ]

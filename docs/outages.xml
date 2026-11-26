@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 GitHub has stopped wobbling]]></title>
+<link>https://stspg.io/ywpzwl4yl621</link>
+<guid isPermaLink='false'>github:m0wvf9pt3l0l:resolved:resolved:minor:2026-11-26T00:43:01.187000+00:00</guid>
+<pubDate>Thu, 26 Nov 2026 00:45:10 +0000</pubDate>
+<category>GitHub</category>
+<description><![CDATA[<p><strong>LFS degradation for some customers</strong></p><p>Impact: minor · Status: resolved · Duration: 1h 36m · Opened: Wed, 25 Nov 2026 23:06:54 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/ywpzwl4yl621">GitHub status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 GitHub is a bit under the weather]]></title>
 <link>https://stspg.io/ywpzwl4yl621</link>
 <guid isPermaLink='false'>github:m0wvf9pt3l0l:opened:investigating:minor:2026-11-25T23:10:38.989000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 12:00:57 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors on claude.ai, Claude Code, and platform.claude.com</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork · Duration: 1h 59m · Opened: Fri, 13 Nov 2026 09:58:58 +0000</p><p>The issue affecting claude.ai and Claude Cowork has been resolved.</p><p><a href="https://stspg.io/6kqyd0c5b1gr">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
-<link>https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16</link>
-<guid isPermaLink='false'>fireworks:01M7A9QQAKDCHWHFR679S35Q16:opened:investigating:minor:2026-11-13T11:12:27+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 11:15:57 +0000</pubDate>
-<category>Fireworks AI</category>
-<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 13 Nov 2026 11:12:27 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M7A9QQAKDCHWHFR679S35Q16">Fireworks AI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
