@@ -1,5 +1,23 @@
 [
  {
+  "body": "[Monitoring] The fix is live, and new plan purchases and upgrades are activating normally again. We're now applying the plan you paid for to anyone charged between 17:05 and 20:30 UTC. You don't need to do anything or buy again. We'll post another update once everyone affected has their plan.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 Replit thinks it's fixed and is watching nervously",
+  "id": "replit:c946b2b7-f4eb-413f-8109-2e5f6b82b62c:progress:monitoring:minor:2026-11-26T20:45:11.475855+00:00",
+  "impact": "minor",
+  "incident_id": "c946b2b7-f4eb-413f-8109-2e5f6b82b62c",
+  "kind": "incident",
+  "provider_key": "replit",
+  "provider_name": "Replit",
+  "published_at": "2026-11-26T20:45:11.475855+00:00",
+  "started_at": "2026-11-26T20:39:27+00:00",
+  "status": "monitoring",
+  "title": "Paid plan upgrades not activating after checkout",
+  "transition": "progress",
+  "url": "https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c"
+ },
+ {
   "body": "[Identified] Since about 17:05 UTC today, some customers who bought a paid plan or upgrade were charged but stayed on their previous plan. Trying to buy again may have shown \"You already have a subscription on file.\" We've found the cause and the fix is rolling out now. Your payment went through, so please don't try to buy again. Once the fix is live, we'll apply the plan you paid for to your account automatically. We'll post another update when upgrades are activating normally.",
   "components": [],
   "duration": "",
@@ -7756,24 +7774,6 @@
   "status": "resolved",
   "title": "Service Degradation for Kimi K3 US",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M6GPQXKK9200Y3A7PHAF1ZM9:opened:investigating:minor:2026-11-03T12:39:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M6GPQXKK9200Y3A7PHAF1ZM9",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T12:45:23.181794+00:00",
-  "started_at": "2026-11-03T12:39:29+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6GPQXKK9200Y3A7PHAF1ZM9"
  }
 ]

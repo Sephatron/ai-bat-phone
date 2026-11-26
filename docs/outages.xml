@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Replit thinks it's fixed and is watching nervously]]></title>
+<link>https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c</link>
+<guid isPermaLink='false'>replit:c946b2b7-f4eb-413f-8109-2e5f6b82b62c:progress:monitoring:minor:2026-11-26T20:45:11.475855+00:00</guid>
+<pubDate>Thu, 26 Nov 2026 20:45:11 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Paid plan upgrades not activating after checkout</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 26 Nov 2026 20:39:27 +0000</p><p>[Monitoring] The fix is live, and new plan purchases and upgrades are activating normally again. We're now applying the plan you paid for to anyone charged between 17:05 and 20:30 UTC. You don't need to do anything or buy again. We'll post another update once everyone affected has their plan.</p><p><a href="https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Replit has found the culprit]]></title>
 <link>https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c</link>
 <guid isPermaLink='false'>replit:c946b2b7-f4eb-413f-8109-2e5f6b82b62c:opened:identified:minor:2026-11-26T20:00:12.499174+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 15:45:57 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors on claude.ai, the Claude API, and Claude Code</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 2h 28m · Opened: Fri, 13 Nov 2026 13:09:50 +0000</p><p>The issue affecting multiple surfaces has been resolved.</p><p><a href="https://stspg.io/264r547qtkky">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/m0rbx38nmy1c</link>
-<guid isPermaLink='false'>anthropic:sqn3fg1l96dl:progress:monitoring:major:2026-11-13T15:40:53.645000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 15:45:57 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude Cowork · Opened: Thu, 12 Nov 2026 17:52:44 +0000</p><p>We're seeing signs of recovery for the Microsoft 365 connector. Claude for Outlook is also recovering. Some SharePoint search requests are still returning errors. Microsoft's incident remains open, so errors may return. We're continuing to monitor and will update this post as soon as we have more info.</p><p><a href="https://stspg.io/m0rbx38nmy1c">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

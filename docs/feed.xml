@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Replit thinks it's fixed and is watching nervously]]></title>
+<link>https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c</link>
+<guid isPermaLink='false'>replit:c946b2b7-f4eb-413f-8109-2e5f6b82b62c:progress:monitoring:minor:2026-11-26T20:45:11.475855+00:00</guid>
+<pubDate>Thu, 26 Nov 2026 20:45:11 +0000</pubDate>
+<category>Replit</category>
+<description><![CDATA[<p><strong>Paid plan upgrades not activating after checkout</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 26 Nov 2026 20:39:27 +0000</p><p>[Monitoring] The fix is live, and new plan purchases and upgrades are activating normally again. We're now applying the plan you paid for to anyone charged between 17:05 and 20:30 UTC. You don't need to do anything or buy again. We'll post another update once everyone affected has their plan.</p><p><a href="https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c">Replit status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🔍 Replit has found the culprit]]></title>
 <link>https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c</link>
 <guid isPermaLink='false'>replit:c946b2b7-f4eb-413f-8109-2e5f6b82b62c:opened:identified:minor:2026-11-26T20:00:12.499174+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 16:31:02 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>We’re seeing signs of recovery for the Microsoft 365 connector and are continuing to monitor the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
-<guid isPermaLink='false'>openai:01M7ATRS6BMZ61E4JDHJGM79Y0:opened:identified:minor:2026-11-13T16:10:07+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 16:15:57 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs Data in the Compliance API</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 13 Nov 2026 16:10:07 +0000</p><p>We have identified an issue causing delays in publishing Organization cost data through the Costs API. API and ChatGPT usage are not affected. We are working to restore normal data freshness.</p><p><a href="https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
