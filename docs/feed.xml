@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Lovable has applied a fix and is holding its breath]]></title>
+<link>https://status.lovable.dev/incidents/01M8CACADM4DX3QKXX9R6PXYXG</link>
+<guid isPermaLink='false'>lovable:01M8CACADM4DX3QKXX9R6PXYXG:opened:monitoring:none:2026-11-26T16:17:52+00:00</guid>
+<pubDate>Thu, 26 Nov 2026 16:30:13 +0000</pubDate>
+<category>Lovable</category>
+<description><![CDATA[<p><strong>Domain features are not working for some users</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Thu, 26 Nov 2026 16:17:52 +0000</p><p>Some domain features are not working for some users right now. Adding an email domain or removing a custom domain may fail, and newly connected domains may stay in “Setting up” longer than usual. This is caused by an outage at one of our providers (). Our team is monitoring it and will post an update as service recovers.</p><p><a href="https://status.lovable.dev/incidents/01M8CACADM4DX3QKXX9R6PXYXG">Lovable status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 OpenAI is fine again]]></title>
 <link>https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H</link>
 <guid isPermaLink='false'>openai:01M89RGC3STKK2MT53TXHFMY4H:resolved:resolved:minor:2026-11-26T14:07:54+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 15:45:57 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors on claude.ai, the Claude API, and Claude Code</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 2h 28m · Opened: Fri, 13 Nov 2026 13:09:50 +0000</p><p>The issue affecting multiple surfaces has been resolved.</p><p><a href="https://stspg.io/264r547qtkky">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/m0rbx38nmy1c</link>
-<guid isPermaLink='false'>anthropic:sqn3fg1l96dl:progress:monitoring:major:2026-11-13T15:40:53.645000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 15:45:57 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude Cowork · Opened: Thu, 12 Nov 2026 17:52:44 +0000</p><p>We're seeing signs of recovery for the Microsoft 365 connector. Claude for Outlook is also recovering. Some SharePoint search requests are still returning errors. Microsoft's incident remains open, so errors may return. We're continuing to monitor and will update this post as soon as we have more info.</p><p><a href="https://stspg.io/m0rbx38nmy1c">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
