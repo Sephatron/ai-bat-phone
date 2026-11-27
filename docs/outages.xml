@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 27 Nov 2026 10:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 11:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 All clear from Claude after 15 min]]></title>
+<link>https://stspg.io/n4l14k7m49zw</link>
+<guid isPermaLink='false'>anthropic:0x1yvzkfmmxj:resolved:resolved:major:2026-11-27T10:49:33.823000+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 11:00:26 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.2</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Duration: 15 min · Opened: Fri, 27 Nov 2026 10:34:01 +0000</p><p>The issue affecting claude.ai has been resolved. Impact occurred from 02:20 PT / 10:20 UTC to 02:40 PT / 10:40 UTC.</p><p><a href="https://stspg.io/n4l14k7m49zw">Claude status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
 <link>https://stspg.io/n4l14k7m49zw</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 18:30:57 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: resolved · Affects: Pull Requests · Duration: 2h 42m · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 GitHub is on the mend. Don't get comfortable yet.]]></title>
-<link>https://stspg.io/qzj7qjdcr8jc</link>
-<guid isPermaLink='false'>github:1xzmt89vv61l:progress:monitoring:major:2026-11-13T17:28:01.469000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 17:30:56 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: monitoring · Affects: Pull Requests · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

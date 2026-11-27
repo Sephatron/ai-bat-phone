@@ -1,5 +1,28 @@
 [
  {
+  "body": "The issue affecting claude.ai has been resolved. Impact occurred from 02:20 PT / 10:20 UTC to 02:40 PT / 10:40 UTC.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "15 min",
+  "headline": "🟢 All clear from Claude after 15 min",
+  "id": "anthropic:0x1yvzkfmmxj:resolved:resolved:major:2026-11-27T10:49:33.823000+00:00",
+  "impact": "major",
+  "incident_id": "0x1yvzkfmmxj",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-27T11:00:26.909304+00:00",
+  "started_at": "2026-11-27T10:34:01.796000+00:00",
+  "status": "resolved",
+  "title": "Degraded performance for Claude Fable 5.2",
+  "transition": "resolved",
+  "url": "https://stspg.io/n4l14k7m49zw"
+ },
+ {
   "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
   "components": [
    "claude.ai",
@@ -7756,23 +7779,5 @@
   "title": "Service Degradation for Kimi K3 US",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "1h 41m",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M6GSRZ55MW897FT45QRP4Y5M:resolved:resolved:minor:2026-11-03T15:14:18+00:00",
-  "impact": "minor",
-  "incident_id": "01M6GSRZ55MW897FT45QRP4Y5M",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T15:15:21.335166+00:00",
-  "started_at": "2026-11-03T13:32:29+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6GSRZ55MW897FT45QRP4Y5M"
  }
 ]
