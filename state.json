@@ -17,7 +17,9 @@
    "consecutive_failures": 0
   },
   "cursor": {
-   "consecutive_failures": 0
+   "consecutive_failures": 1,
+   "failing_since": "2026-11-27T06:00:00+00:00",
+   "last_error": "https://status.cursor.com/api/v2/incidents.json returned HTTP 503"
   },
   "deepseek": {
    "consecutive_failures": 0
