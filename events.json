@@ -1,5 +1,23 @@
 [
  {
+  "body": "Studio projects should be operational again.",
+  "components": [],
+  "duration": "",
+  "headline": "👀 ElevenLabs has applied a fix and is holding its breath",
+  "id": "elevenlabs:01M8F2ETSTNCEWC0KD2H3JJ3XC:progress:monitoring:minor:2026-11-27T18:19:51+00:00",
+  "impact": "minor",
+  "incident_id": "01M8F2ETSTNCEWC0KD2H3JJ3XC",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-27T18:30:21.871364+00:00",
+  "started_at": "2026-11-27T17:57:09+00:00",
+  "status": "monitoring",
+  "title": "Studio previews not loading for some projects",
+  "transition": "progress",
+  "url": "https://status.elevenlabs.io/incidents/01M8F2ETSTNCEWC0KD2H3JJ3XC"
+ },
+ {
   "body": "Some Studio project previews are not loading. We are investigating the issue.",
   "components": [],
   "duration": "",
@@ -7767,26 +7785,5 @@
   "title": "Incident with Git Operations",
   "transition": "opened",
   "url": "https://stspg.io/n478rfsspcmr"
- },
- {
-  "body": "This incident has been resolved.",
-  "components": [
-   "GPT-OSS-120B",
-   "Qwen-3.8-27b"
-  ],
-  "duration": "2h 33m",
-  "headline": "🟢 Cerebras Inference is fine again",
-  "id": "cerebras:c7y1qsw64zmw:resolved:resolved:none:2026-11-03T19:41:04.719000+00:00",
-  "impact": "none",
-  "incident_id": "c7y1qsw64zmw",
-  "kind": "incident",
-  "provider_key": "cerebras",
-  "provider_name": "Cerebras Inference",
-  "published_at": "2026-11-03T20:00:31.248561+00:00",
-  "started_at": "2026-11-03T17:07:43.705000+00:00",
-  "status": "resolved",
-  "title": "Partial Service Disruption",
-  "transition": "resolved",
-  "url": "https://stspg.io/8z7pvns2hgqr"
  }
 ]

@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 ElevenLabs has applied a fix and is holding its breath]]></title>
+<link>https://status.elevenlabs.io/incidents/01M8F2ETSTNCEWC0KD2H3JJ3XC</link>
+<guid isPermaLink='false'>elevenlabs:01M8F2ETSTNCEWC0KD2H3JJ3XC:progress:monitoring:minor:2026-11-27T18:19:51+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 18:30:21 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Studio previews not loading for some projects</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 27 Nov 2026 17:57:09 +0000</p><p>Studio projects should be operational again.</p><p><a href="https://status.elevenlabs.io/incidents/01M8F2ETSTNCEWC0KD2H3JJ3XC">ElevenLabs status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
 <link>https://status.elevenlabs.io/incidents/01M8F2ETSTNCEWC0KD2H3JJ3XC</link>
 <guid isPermaLink='false'>elevenlabs:01M8F2ETSTNCEWC0KD2H3JJ3XC:opened:investigating:minor:2026-11-27T17:57:09+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 22:00:57 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude Cowork · Duration: 1d 3h · Opened: Thu, 12 Nov 2026 17:52:44 +0000</p><p>This incident has been resolved. From 08:03 PT / 16:03 UTC on November 12 to 08:40 PT / 16:40 UTC on November 13, mail, calendar and search tools in the Microsoft 365 connector and Claude for Outlook returned errors for many requests because of a Microsoft 365 service incident. Microsoft is still completing its recovery, so you may see occasional errors or delays.</p><p><a href="https://stspg.io/m0rbx38nmy1c">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub sorted itself out after 1h 14m]]></title>
-<link>https://stspg.io/cppzsh0j19vy</link>
-<guid isPermaLink='false'>github:51drrqvsv66g:resolved:resolved:minor:2026-11-13T21:27:59.054000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 21:30:56 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Copilot experiencing degraded model availability for some GPT models</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 1h 14m · Opened: Fri, 13 Nov 2026 20:13:51 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/cppzsh0j19vy">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
