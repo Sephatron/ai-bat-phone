@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M8DAQZ9JGR6S867XWPMAYQ4T</link>
+<guid isPermaLink='false'>fireworks:01M8DAQZ9JGR6S867XWPMAYQ4T:opened:investigating:minor:2026-11-27T01:43:28+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 01:45:12 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 27 Nov 2026 01:43:28 +0000</p><p>We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M8DAQZ9JGR6S867XWPMAYQ4T">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Replit has stopped wobbling]]></title>
 <link>https://status.replit.com/incidents/c946b2b7-f4eb-413f-8109-2e5f6b82b62c</link>
 <guid isPermaLink='false'>replit:c946b2b7-f4eb-413f-8109-2e5f6b82b62c:resolved:resolved:minor:2026-11-26T21:30:12.768927+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 16:15:57 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Delayed Costs Data in the Compliance API</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 13 Nov 2026 16:10:07 +0000</p><p>We have identified an issue causing delays in publishing Organization cost data through the Costs API. API and ChatGPT usage are not affected. We are working to restore normal data freshness.</p><p><a href="https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 GitHub has downed tools — and so, probably, have you]]></title>
-<link>https://stspg.io/qzj7qjdcr8jc</link>
-<guid isPermaLink='false'>github:1xzmt89vv61l:opened:investigating:major:2026-11-13T15:49:36.446000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 16:00:56 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: investigating · Affects: Pull Requests · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>We’re investigating an issue with Pull Requests where some attempts to merge are timing out.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

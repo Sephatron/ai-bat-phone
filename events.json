@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M8DAQZ9JGR6S867XWPMAYQ4T:opened:investigating:minor:2026-11-27T01:43:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M8DAQZ9JGR6S867XWPMAYQ4T",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-27T01:45:12.232690+00:00",
+  "started_at": "2026-11-27T01:43:28+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M8DAQZ9JGR6S867XWPMAYQ4T"
+ },
+ {
   "body": "[Resolved] This is resolved. Everyone charged for a plan or upgrade between 17:05 and 20:30 UTC now has the plan they paid for, and new purchases are working normally. If your account still doesn't show the right plan, please contact support. Sorry for the trouble.",
   "components": [],
   "duration": "",
@@ -7755,25 +7773,5 @@
   "title": "Service Degradation for Kimi K3 US",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6GSRZ55MW897FT45QRP4Y5M"
- },
- {
-  "body": "We are investigating reports of degraded performance for Copilot",
-  "components": [
-   "Copilot"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub is a bit under the weather",
-  "id": "github:rxlj89wpk7px:opened:investigating:minor:2026-11-03T13:25:19.721000+00:00",
-  "impact": "minor",
-  "incident_id": "rxlj89wpk7px",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-11-03T13:30:19.374064+00:00",
-  "started_at": "2026-11-03T13:25:19.609000+00:00",
-  "status": "investigating",
-  "title": "Incident with API, Git, and Copilot requests",
-  "transition": "opened",
-  "url": "https://stspg.io/h1xqhrcn5gqn"
  }
 ]
