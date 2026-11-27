@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Major and critical incidents only. The genuinely down-tools ones.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 27 Nov 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Cursor has gone dark. Nothing you did. Probably.]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9</link>
+<guid isPermaLink='false'>cursor:ps_502521fc26eb22b9:opened:investigating:critical:2026-11-27T15:57:55+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 16:00:36 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting chat and agent requests</strong></p><p>Impact: critical · Status: investigating · Affects: Grok Build and Cursor: Automations, Grok Build and Cursor: Cloud Agents, IDE · Opened: Fri, 27 Nov 2026 15:57:55 +0000</p><p>We are investigating a service degradation causing elevated error rates affecting chat and agent requests across all models. Some users may experience failed or slow responses.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>

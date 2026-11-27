@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 27 Nov 2026 15:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 16:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🔴 Cursor has gone dark. Nothing you did. Probably.]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9</link>
+<guid isPermaLink='false'>cursor:ps_502521fc26eb22b9:opened:investigating:critical:2026-11-27T15:57:55+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 16:00:36 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting chat and agent requests</strong></p><p>Impact: critical · Status: investigating · Affects: Grok Build and Cursor: Automations, Grok Build and Cursor: Cloud Agents, IDE · Opened: Fri, 27 Nov 2026 15:57:55 +0000</p><p>We are investigating a service degradation causing elevated error rates affecting chat and agent requests across all models. Some users may experience failed or slow responses.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9">Cursor status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[📡 Still watching. Nothing to report.]]></title>
 <link>https://sephatron.github.io/ai-bat-phone</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 21:30:56 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Copilot experiencing degraded model availability for some GPT models</strong></p><p>Impact: minor · Status: resolved · Affects: Copilot AI Model Providers · Duration: 1h 14m · Opened: Fri, 13 Nov 2026 20:13:51 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/cppzsh0j19vy">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟠 GitHub is sulking, mildly]]></title>
-<link>https://stspg.io/cppzsh0j19vy</link>
-<guid isPermaLink='false'>github:51drrqvsv66g:opened:investigating:minor:2026-11-13T20:14:07.402000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 20:15:57 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Copilot experiencing degraded model availability for some GPT models</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Fri, 13 Nov 2026 20:13:51 +0000</p><p>We are experiencing degraded availability for gpt-5.6-sol-fast, gpt-5.6-sol, gpt-6.1-terra, and gpt-6-luna in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot.</p><p><a href="https://stspg.io/cppzsh0j19vy">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

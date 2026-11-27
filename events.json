@@ -1,5 +1,27 @@
 [
  {
+  "body": "We are investigating a service degradation causing elevated error rates affecting chat and agent requests across all models. Some users may experience failed or slow responses.",
+  "components": [
+   "Grok Build and Cursor: Automations",
+   "Grok Build and Cursor: Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "🔴 Cursor has gone dark. Nothing you did. Probably.",
+  "id": "cursor:ps_502521fc26eb22b9:opened:investigating:critical:2026-11-27T15:57:55+00:00",
+  "impact": "critical",
+  "incident_id": "ps_502521fc26eb22b9",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-27T16:00:36.270355+00:00",
+  "started_at": "2026-11-27T15:57:55+00:00",
+  "status": "investigating",
+  "title": "Elevated errors affecting chat and agent requests",
+  "transition": "opened",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9"
+ },
+ {
   "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
   "components": [],
   "duration": "",
@@ -7760,24 +7782,6 @@
   "status": "resolved",
   "title": "Service Degradation for GLM 5.3 Fast",
   "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK"
- },
- {
-  "body": "We are seeing impacted performance for GLM 5.3 Fast. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M6H2H5CGNHB5TG15KTE47SYK:opened:investigating:minor:2026-11-03T16:05:31+00:00",
-  "impact": "minor",
-  "incident_id": "01M6H2H5CGNHB5TG15KTE47SYK",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T16:15:20.869662+00:00",
-  "started_at": "2026-11-03T16:05:31+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for GLM 5.3 Fast",
-  "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK"
  }
 ]
