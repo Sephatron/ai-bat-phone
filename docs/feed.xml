@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is fixed. You may resume being productive.]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9</link>
+<guid isPermaLink='false'>cursor:ps_502521fc26eb22b9:resolved:resolved:critical:2026-11-27T16:30:54+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 16:45:21 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting chat and agent requests</strong></p><p>Impact: critical · Status: resolved · Affects: Grok Build and Cursor: Automations, Grok Build and Cursor: Cloud Agents, IDE · Duration: 32 min · Opened: Fri, 27 Nov 2026 15:57:55 +0000</p><p>This incident has been resolved. Error rates affecting chat and agent requests have returned to normal operation.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9</link>
 <guid isPermaLink='false'>cursor:ps_502521fc26eb22b9:progress:monitoring:critical:2026-11-27T16:25:23+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 14 Nov 2026 00:30:56 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 5h · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Claude is fixed. You may resume being productive.]]></title>
-<link>https://stspg.io/m0rbx38nmy1c</link>
-<guid isPermaLink='false'>anthropic:sqn3fg1l96dl:resolved:resolved:major:2026-11-13T21:49:44.052000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 22:00:57 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai, Claude Cowork · Duration: 1d 3h · Opened: Thu, 12 Nov 2026 17:52:44 +0000</p><p>This incident has been resolved. From 08:03 PT / 16:03 UTC on November 12 to 08:40 PT / 16:40 UTC on November 13, mail, calendar and search tools in the Microsoft 365 connector and Claude for Outlook returned errors for many requests because of a Microsoft 365 service incident. Microsoft is still completing its recovery, so you may see occasional errors or delays.</p><p><a href="https://stspg.io/m0rbx38nmy1c">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

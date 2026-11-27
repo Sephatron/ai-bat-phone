@@ -1,5 +1,27 @@
 [
  {
+  "body": "This incident has been resolved. Error rates affecting chat and agent requests have returned to normal operation.",
+  "components": [
+   "Grok Build and Cursor: Automations",
+   "Grok Build and Cursor: Cloud Agents",
+   "IDE"
+  ],
+  "duration": "32 min",
+  "headline": "🟢 Cursor is fixed. You may resume being productive.",
+  "id": "cursor:ps_502521fc26eb22b9:resolved:resolved:critical:2026-11-27T16:30:54+00:00",
+  "impact": "critical",
+  "incident_id": "ps_502521fc26eb22b9",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-27T16:45:21.805699+00:00",
+  "started_at": "2026-11-27T15:57:55+00:00",
+  "status": "resolved",
+  "title": "Elevated errors affecting chat and agent requests",
+  "transition": "resolved",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9"
+ },
+ {
   "body": "We have implemented a fix and are seeing recovery across chat and agent requests. We are closely monitoring the service to ensure full stability.",
   "components": [
    "Grok Build and Cursor: Automations",
@@ -7769,23 +7791,5 @@
   "title": "Partial Service Disruption",
   "transition": "opened",
   "url": "https://stspg.io/8z7pvns2hgqr"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "1h 09m",
-  "headline": "🟢 Fireworks AI is fine again",
-  "id": "fireworks:01M6H2BKXK2NQCQCH76KE45MMT:resolved:resolved:minor:2026-11-03T17:12:18+00:00",
-  "impact": "minor",
-  "incident_id": "01M6H2BKXK2NQCQCH76KE45MMT",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T17:15:20.557598+00:00",
-  "started_at": "2026-11-03T16:02:29+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT"
  }
 ]

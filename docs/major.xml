@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/major.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Cursor is fixed. You may resume being productive.]]></title>
+<link>https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9</link>
+<guid isPermaLink='false'>cursor:ps_502521fc26eb22b9:resolved:resolved:critical:2026-11-27T16:30:54+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 16:45:21 +0000</pubDate>
+<category>Cursor</category>
+<description><![CDATA[<p><strong>Elevated errors affecting chat and agent requests</strong></p><p>Impact: critical · Status: resolved · Affects: Grok Build and Cursor: Automations, Grok Build and Cursor: Cloud Agents, IDE · Duration: 32 min · Opened: Fri, 27 Nov 2026 15:57:55 +0000</p><p>This incident has been resolved. Error rates affecting chat and agent requests have returned to normal operation.</p><p><a href="https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9">Cursor status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[👀 Cursor has applied a fix and is holding its breath]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9</link>
 <guid isPermaLink='false'>cursor:ps_502521fc26eb22b9:progress:monitoring:critical:2026-11-27T16:25:23+00:00</guid>
