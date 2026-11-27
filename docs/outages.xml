@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 27 Nov 2026 01:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 02:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M8DAQZ9JGR6S867XWPMAYQ4T</link>
+<guid isPermaLink='false'>fireworks:01M8DAQZ9JGR6S867XWPMAYQ4T:resolved:resolved:minor:2026-11-27T01:54:09+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 02:00:10 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for DeepSeek V4.1 Flash 1017</strong></p><p>Impact: minor · Status: resolved · Duration: 10 min · Opened: Fri, 27 Nov 2026 01:43:28 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M8DAQZ9JGR6S867XWPMAYQ4T">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M8DAQZ9JGR6S867XWPMAYQ4T</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 16:31:02 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>We’re seeing signs of recovery for the Microsoft 365 connector and are continuing to monitor the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔍 OpenAI has found the culprit]]></title>
-<link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
-<guid isPermaLink='false'>openai:01M7ATRS6BMZ61E4JDHJGM79Y0:opened:identified:minor:2026-11-13T16:10:07+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 16:15:57 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs Data in the Compliance API</strong></p><p>Impact: minor · Status: identified · Opened: Fri, 13 Nov 2026 16:10:07 +0000</p><p>We have identified an issue causing delays in publishing Organization cost data through the Costs API. API and ChatGPT usage are not affected. We are working to restore normal data freshness.</p><p><a href="https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "10 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M8DAQZ9JGR6S867XWPMAYQ4T:resolved:resolved:minor:2026-11-27T01:54:09+00:00",
+  "impact": "minor",
+  "incident_id": "01M8DAQZ9JGR6S867XWPMAYQ4T",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-27T02:00:10.872226+00:00",
+  "started_at": "2026-11-27T01:43:28+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for DeepSeek V4.1 Flash 1017",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M8DAQZ9JGR6S867XWPMAYQ4T"
+ },
+ {
   "body": "We are seeing impacted performance for DeepSeek V4.1 Flash 1017. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7755,23 +7773,5 @@
   "title": "Incident with API, Git, and Copilot requests",
   "transition": "resolved",
   "url": "https://stspg.io/h1xqhrcn5gqn"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M6GSRZ55MW897FT45QRP4Y5M:opened:investigating:minor:2026-11-03T13:32:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M6GSRZ55MW897FT45QRP4Y5M",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T13:45:20.035312+00:00",
-  "started_at": "2026-11-03T13:32:29+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M6GSRZ55MW897FT45QRP4Y5M"
  }
 ]
