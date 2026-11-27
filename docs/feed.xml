@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 27 Nov 2026 17:00:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 18:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 ElevenLabs is having a wobble]]></title>
+<link>https://status.elevenlabs.io/incidents/01M8F2ETSTNCEWC0KD2H3JJ3XC</link>
+<guid isPermaLink='false'>elevenlabs:01M8F2ETSTNCEWC0KD2H3JJ3XC:opened:investigating:minor:2026-11-27T17:57:09+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 18:00:20 +0000</pubDate>
+<category>ElevenLabs</category>
+<description><![CDATA[<p><strong>Studio previews not loading for some projects</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 27 Nov 2026 17:57:09 +0000</p><p>Some Studio project previews are not loading. We are investigating the issue.</p><p><a href="https://status.elevenlabs.io/incidents/01M8F2ETSTNCEWC0KD2H3JJ3XC">ElevenLabs status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[🟢 Cursor is fixed. You may resume being productive.]]></title>
 <link>https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 14 Nov 2026 02:30:58 +0000</pubDate>
 <category>Moonshot AI (Kimi)</category>
 <description><![CDATA[<p><strong>短信登录异常</strong></p><p>Impact: critical · Status: investigating · Affects: Sign In / Sign Up · Opened: Sat, 14 Nov 2026 02:27:18 +0000</p><p>短信登录活跃度过低</p><p><a href="https://stspg.io/5lfkxvfvbsbt">Moonshot AI (Kimi) status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 OpenAI is fine again]]></title>
-<link>https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8</link>
-<guid isPermaLink='false'>openai:01M78GAT3AK9P9W8Z230KHFVE8:resolved:resolved:minor:2026-11-14T00:18:13+00:00</guid>
-<pubDate>Sat, 14 Nov 2026 00:30:56 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: resolved · Duration: 1d 5h · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

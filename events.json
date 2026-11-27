@@ -1,5 +1,23 @@
 [
  {
+  "body": "Some Studio project previews are not loading. We are investigating the issue.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 ElevenLabs is having a wobble",
+  "id": "elevenlabs:01M8F2ETSTNCEWC0KD2H3JJ3XC:opened:investigating:minor:2026-11-27T17:57:09+00:00",
+  "impact": "minor",
+  "incident_id": "01M8F2ETSTNCEWC0KD2H3JJ3XC",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-27T18:00:20.712981+00:00",
+  "started_at": "2026-11-27T17:57:09+00:00",
+  "status": "investigating",
+  "title": "Studio previews not loading for some projects",
+  "transition": "opened",
+  "url": "https://status.elevenlabs.io/incidents/01M8F2ETSTNCEWC0KD2H3JJ3XC"
+ },
+ {
   "body": "This incident has been resolved. Error rates affecting chat and agent requests have returned to normal operation.",
   "components": [
    "Grok Build and Cursor: Automations",
@@ -7769,27 +7787,6 @@
   "status": "resolved",
   "title": "Partial Service Disruption",
   "transition": "resolved",
-  "url": "https://stspg.io/8z7pvns2hgqr"
- },
- {
-  "body": "Some models may be temporarily unavailable since 16:52, Nov 3rd UTC. We have identified the root cause, implemented the fix and are monitoring the situation.",
-  "components": [
-   "GPT-OSS-120B",
-   "Qwen-3.8-27b"
-  ],
-  "duration": "",
-  "headline": "👀 Cerebras Inference thinks it's fixed and is watching nervously",
-  "id": "cerebras:c7y1qsw64zmw:opened:monitoring:none:2026-11-03T17:07:43.778000+00:00",
-  "impact": "none",
-  "incident_id": "c7y1qsw64zmw",
-  "kind": "incident",
-  "provider_key": "cerebras",
-  "provider_name": "Cerebras Inference",
-  "published_at": "2026-11-03T17:15:20.557598+00:00",
-  "started_at": "2026-11-03T17:07:43.705000+00:00",
-  "status": "monitoring",
-  "title": "Partial Service Disruption",
-  "transition": "opened",
   "url": "https://stspg.io/8z7pvns2hgqr"
  }
 ]
