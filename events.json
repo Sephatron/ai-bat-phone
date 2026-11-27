@@ -1,5 +1,27 @@
 [
  {
+  "body": "We have implemented a fix and are seeing recovery across chat and agent requests. We are closely monitoring the service to ensure full stability.",
+  "components": [
+   "Grok Build and Cursor: Automations",
+   "Grok Build and Cursor: Cloud Agents",
+   "IDE"
+  ],
+  "duration": "",
+  "headline": "👀 Cursor has applied a fix and is holding its breath",
+  "id": "cursor:ps_502521fc26eb22b9:progress:monitoring:critical:2026-11-27T16:25:23+00:00",
+  "impact": "critical",
+  "incident_id": "ps_502521fc26eb22b9",
+  "kind": "incident",
+  "provider_key": "cursor",
+  "provider_name": "Cursor",
+  "published_at": "2026-11-27T16:30:21.614953+00:00",
+  "started_at": "2026-11-27T15:57:55+00:00",
+  "status": "monitoring",
+  "title": "Elevated errors affecting chat and agent requests",
+  "transition": "progress",
+  "url": "https://status.x.ai/history?incident=automations%2Fps_502521fc26eb22b9"
+ },
+ {
   "body": "We are investigating a service degradation causing elevated error rates affecting chat and agent requests across all models. Some users may experience failed or slow responses.",
   "components": [
    "Grok Build and Cursor: Automations",
@@ -7765,23 +7787,5 @@
   "title": "Service Degradation for Kimi K3 US",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT"
- },
- {
-  "body": "We've resolved the incident and the affected service is now operational.",
-  "components": [],
-  "duration": "42 min",
-  "headline": "🟢 Fireworks AI sorted itself out after 42 min",
-  "id": "fireworks:01M6H2H5CGNHB5TG15KTE47SYK:resolved:resolved:minor:2026-11-03T16:48:05+00:00",
-  "impact": "minor",
-  "incident_id": "01M6H2H5CGNHB5TG15KTE47SYK",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T17:00:19.972691+00:00",
-  "started_at": "2026-11-03T16:05:31+00:00",
-  "status": "resolved",
-  "title": "Service Degradation for GLM 5.3 Fast",
-  "transition": "resolved",
-  "url": "https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK"
  }
 ]
