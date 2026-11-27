@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-11-27</guid>
+<pubDate>Fri, 27 Nov 2026 15:15:21 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Claude after 15 min]]></title>
 <link>https://stspg.io/n4l14k7m49zw</link>
 <guid isPermaLink='false'>anthropic:0x1yvzkfmmxj:resolved:resolved:major:2026-11-27T10:49:33.823000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 20:15:57 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Copilot experiencing degraded model availability for some GPT models</strong></p><p>Impact: minor · Status: investigating · Affects: Copilot AI Model Providers · Opened: Fri, 13 Nov 2026 20:13:51 +0000</p><p>We are experiencing degraded availability for gpt-5.6-sol-fast, gpt-5.6-sol, gpt-6.1-terra, and gpt-6-luna in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot.</p><p><a href="https://stspg.io/cppzsh0j19vy">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
-<guid isPermaLink='false'>openai:01M7ATRS6BMZ61E4JDHJGM79Y0:progress:monitoring:minor:2026-11-13T18:56:45+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 19:00:56 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Delayed Costs Data in the Compliance API</strong></p><p>Impact: minor · Status: monitoring · Opened: Fri, 13 Nov 2026 16:10:07 +0000</p><p>We’ve applied a mitigation and are monitoring the affected services to confirm recovery. Delays in cost data are still expected.</p><p><a href="https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

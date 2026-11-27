@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[📡 Still watching. Nothing to report.]]></title>
+<link>https://sephatron.github.io/ai-bat-phone</link>
+<guid isPermaLink='false'>meta:all:alive:2026-11-27</guid>
+<pubDate>Fri, 27 Nov 2026 15:15:21 +0000</pubDate>
+<category>AI Bat Phone</category>
+<description><![CDATA[<p><strong>Still watching 21 provider status pages</strong></p><p>Monitoring problem at this end, not necessarily at theirs</p><p>Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.</p><p><a href="https://sephatron.github.io/ai-bat-phone">AI Bat Phone status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 All clear from Claude after 15 min]]></title>
 <link>https://stspg.io/n4l14k7m49zw</link>
 <guid isPermaLink='false'>anthropic:0x1yvzkfmmxj:resolved:resolved:major:2026-11-27T10:49:33.823000+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 18:45:56 +0000</pubDate>
 <category>Fireworks AI</category>
 <description><![CDATA[<p><strong>Service Degradation for GLM 5.3 Flash</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 13 Nov 2026 18:40:27 +0000</p><p>We are seeing impacted performance for GLM 5.3 Flash. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M7B3C1X649TVBXJC301BEER2">Fireworks AI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 GitHub is back. Grass sufficiently touched.]]></title>
-<link>https://stspg.io/qzj7qjdcr8jc</link>
-<guid isPermaLink='false'>github:1xzmt89vv61l:resolved:resolved:major:2026-11-13T18:29:31.655000+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 18:30:57 +0000</pubDate>
-<category>GitHub</category>
-<description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: resolved · Affects: Pull Requests · Duration: 2h 42m · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

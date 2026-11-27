@@ -1,5 +1,23 @@
 [
  {
+  "body": "Nothing to report. This item exists so that a feed which has gone quiet because the collector died looks different from one that is quiet because the models are behaving.",
+  "components": [],
+  "duration": "",
+  "headline": "📡 Still watching. Nothing to report.",
+  "id": "meta:all:alive:2026-11-27",
+  "impact": "none",
+  "incident_id": "monitor",
+  "kind": "meta",
+  "provider_key": "batphone",
+  "provider_name": "AI Bat Phone",
+  "published_at": "2026-11-27T15:15:21.460392+00:00",
+  "started_at": "2026-11-27T15:15:21.460392+00:00",
+  "status": "alive",
+  "title": "Still watching 21 provider status pages",
+  "transition": "alive",
+  "url": "https://sephatron.github.io/ai-bat-phone"
+ },
+ {
   "body": "The issue affecting claude.ai has been resolved. Impact occurred from 02:20 PT / 10:20 UTC to 02:40 PT / 10:40 UTC.",
   "components": [
    "claude.ai",
@@ -7761,23 +7779,5 @@
   "title": "Service Degradation for GLM 5.3 Fast",
   "transition": "opened",
   "url": "https://status.fireworks.ai/incidents/01M6H2H5CGNHB5TG15KTE47SYK"
- },
- {
-  "body": "We are seeing impacted performance for Kimi K3 US. We are actively investigating.",
-  "components": [],
-  "duration": "",
-  "headline": "🟠 Fireworks AI has a limp, not a break",
-  "id": "fireworks:01M6H2BKXK2NQCQCH76KE45MMT:opened:investigating:minor:2026-11-03T16:02:29+00:00",
-  "impact": "minor",
-  "incident_id": "01M6H2BKXK2NQCQCH76KE45MMT",
-  "kind": "incident",
-  "provider_key": "fireworks",
-  "provider_name": "Fireworks AI",
-  "published_at": "2026-11-03T16:15:20.869662+00:00",
-  "started_at": "2026-11-03T16:02:29+00:00",
-  "status": "investigating",
-  "title": "Service Degradation for Kimi K3 US",
-  "transition": "opened",
-  "url": "https://status.fireworks.ai/incidents/01M6H2BKXK2NQCQCH76KE45MMT"
  }
 ]
