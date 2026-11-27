@@ -1,5 +1,28 @@
 [
  {
+  "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.",
+  "components": [
+   "claude.ai",
+   "Claude API (api.anthropic.com)",
+   "Claude Code",
+   "Claude Cowork"
+  ],
+  "duration": "",
+  "headline": "👀 Claude is on the mend. Don't get comfortable yet.",
+  "id": "anthropic:0x1yvzkfmmxj:opened:monitoring:major:2026-11-27T10:40:12.587000+00:00",
+  "impact": "major",
+  "incident_id": "0x1yvzkfmmxj",
+  "kind": "incident",
+  "provider_key": "anthropic",
+  "provider_name": "Claude",
+  "published_at": "2026-11-27T10:45:27.285519+00:00",
+  "started_at": "2026-11-27T10:34:01.796000+00:00",
+  "status": "monitoring",
+  "title": "Degraded performance for Claude Fable 5.2",
+  "transition": "opened",
+  "url": "https://stspg.io/n4l14k7m49zw"
+ },
+ {
   "body": "We've resolved the incident and the affected service is now operational.",
   "components": [],
   "duration": "10 min",
@@ -7751,27 +7774,5 @@
   "title": "Service Degradation for Kimi K3 US",
   "transition": "resolved",
   "url": "https://status.fireworks.ai/incidents/01M6GSRZ55MW897FT45QRP4Y5M"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "API Requests",
-   "Issues",
-   "Copilot"
-  ],
-  "duration": "30 min",
-  "headline": "🟢 GitHub has stopped wobbling",
-  "id": "github:rxlj89wpk7px:resolved:resolved:minor:2026-11-03T13:56:18.764000+00:00",
-  "impact": "minor",
-  "incident_id": "rxlj89wpk7px",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-11-03T14:00:20.593246+00:00",
-  "started_at": "2026-11-03T13:25:19.609000+00:00",
-  "status": "resolved",
-  "title": "Incident with API, Git, and Copilot requests",
-  "transition": "resolved",
-  "url": "https://stspg.io/h1xqhrcn5gqn"
  }
 ]

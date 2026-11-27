@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[👀 Claude is on the mend. Don't get comfortable yet.]]></title>
+<link>https://stspg.io/n4l14k7m49zw</link>
+<guid isPermaLink='false'>anthropic:0x1yvzkfmmxj:opened:monitoring:major:2026-11-27T10:40:12.587000+00:00</guid>
+<pubDate>Fri, 27 Nov 2026 10:45:27 +0000</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><strong>Degraded performance for Claude Fable 5.2</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork · Opened: Fri, 27 Nov 2026 10:34:01 +0000</p><p>A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery.</p><p><a href="https://stspg.io/n4l14k7m49zw">Claude status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟢 Fireworks AI is fine again]]></title>
 <link>https://status.fireworks.ai/incidents/01M8DAQZ9JGR6S867XWPMAYQ4T</link>
 <guid isPermaLink='false'>fireworks:01M8DAQZ9JGR6S867XWPMAYQ4T:resolved:resolved:minor:2026-11-27T01:54:09+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Fri, 13 Nov 2026 17:30:56 +0000</pubDate>
 <category>GitHub</category>
 <description><![CDATA[<p><strong>Incident with Pull Requests</strong></p><p>Impact: major · Status: monitoring · Affects: Pull Requests · Opened: Fri, 13 Nov 2026 15:47:12 +0000</p><p>The degradation affecting Pull Requests has been mitigated. We are monitoring to ensure stability.</p><p><a href="https://stspg.io/qzj7qjdcr8jc">GitHub status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI is on the mend. Don't get comfortable yet.]]></title>
-<link>https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8</link>
-<guid isPermaLink='false'>openai:01M78GAT3AK9P9W8Z230KHFVE8:progress:monitoring:minor:2026-11-13T16:20:45+00:00</guid>
-<pubDate>Fri, 13 Nov 2026 16:31:02 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors affecting the Microsoft 365 connector</strong></p><p>Impact: minor · Status: monitoring · Opened: Thu, 12 Nov 2026 18:29:14 +0000</p><p>We’re seeing signs of recovery for the Microsoft 365 connector and are continuing to monitor the affected services to confirm recovery.</p><p><a href="https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>
