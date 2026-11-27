@@ -1,5 +1,23 @@
 [
  {
+  "body": "The issue affecting Studio projects previews has been resolved",
+  "components": [],
+  "duration": "43 min",
+  "headline": "🟢 ElevenLabs has stopped wobbling",
+  "id": "elevenlabs:01M8F2ETSTNCEWC0KD2H3JJ3XC:resolved:resolved:minor:2026-11-27T18:40:27+00:00",
+  "impact": "minor",
+  "incident_id": "01M8F2ETSTNCEWC0KD2H3JJ3XC",
+  "kind": "incident",
+  "provider_key": "elevenlabs",
+  "provider_name": "ElevenLabs",
+  "published_at": "2026-11-27T18:45:23.668417+00:00",
+  "started_at": "2026-11-27T17:57:09+00:00",
+  "status": "resolved",
+  "title": "Studio previews not loading for some projects",
+  "transition": "resolved",
+  "url": "https://status.elevenlabs.io/incidents/01M8F2ETSTNCEWC0KD2H3JJ3XC"
+ },
+ {
   "body": "Studio projects should be operational again.",
   "components": [],
   "duration": "",
@@ -7765,25 +7783,5 @@
   "title": "3 \"Slow clones from GH due to Github degradation\"",
   "transition": "opened",
   "url": "https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9"
- },
- {
-  "body": "We are investigating reports of degraded performance for Git Operations",
-  "components": [
-   "Git Operations"
-  ],
-  "duration": "",
-  "headline": "🟠 GitHub has a limp, not a break",
-  "id": "github:13b6lyl8d7bz:opened:investigating:minor:2026-11-03T20:57:14.525000+00:00",
-  "impact": "minor",
-  "incident_id": "13b6lyl8d7bz",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-11-03T21:00:22.995723+00:00",
-  "started_at": "2026-11-03T20:57:14.432000+00:00",
-  "status": "investigating",
-  "title": "Incident with Git Operations",
-  "transition": "opened",
-  "url": "https://stspg.io/n478rfsspcmr"
  }
 ]
