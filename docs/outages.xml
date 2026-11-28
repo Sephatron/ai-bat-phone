@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Unplanned incidents only. No scheduled maintenance.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 27 Nov 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ</link>
+<guid isPermaLink='false'>fireworks:01M8FQ67QZ6TGHGH3X37HTZ5YZ:opened:investigating:minor:2026-11-27T23:59:28+00:00</guid>
+<pubDate>Sat, 28 Nov 2026 00:00:21 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 27 Nov 2026 23:59:28 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/ffdq2qfv8frk</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 14 Nov 2026 03:01:00 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated purchasing errors on claude.ai</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Sat, 14 Nov 2026 02:54:33 +0000</p><p>We are investigating elevated errors affecting purchases, plan upgrades and cancellations on claude.ai. Core functionality is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/qqf00d9r7pm4">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: Moonshot AI (Kimi) is broken]]></title>
-<link>https://stspg.io/5lfkxvfvbsbt</link>
-<guid isPermaLink='false'>moonshot:3svbm7fd9jdf:opened:investigating:critical:2026-11-14T02:27:18.327000+00:00</guid>
-<pubDate>Sat, 14 Nov 2026 02:30:58 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>短信登录异常</strong></p><p>Impact: critical · Status: investigating · Affects: Sign In / Sign Up · Opened: Sat, 14 Nov 2026 02:27:18 +0000</p><p>短信登录活跃度过低</p><p><a href="https://stspg.io/5lfkxvfvbsbt">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

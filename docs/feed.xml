@@ -6,9 +6,17 @@
 <link>https://sephatron.github.io/ai-bat-phone</link>
 <description>Outages and scheduled maintenance across the major AI providers.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 27 Nov 2026 23:00:00 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 00:00:00 +0000</lastBuildDate>
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
+<item>
+<title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
+<link>https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ</link>
+<guid isPermaLink='false'>fireworks:01M8FQ67QZ6TGHGH3X37HTZ5YZ:opened:investigating:minor:2026-11-27T23:59:28+00:00</guid>
+<pubDate>Sat, 28 Nov 2026 00:00:21 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: investigating · Opened: Fri, 27 Nov 2026 23:59:28 +0000</p><p>We are seeing impacted performance for GLM 5.3. We are actively investigating.</p><p><a href="https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ">Fireworks AI status page</a></p>]]></description>
+</item>
 <item>
 <title><![CDATA[👀 Claude has applied a fix and is holding its breath]]></title>
 <link>https://stspg.io/ffdq2qfv8frk</link>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 14 Nov 2026 04:15:57 +0000</pubDate>
 <category>OpenAI</category>
 <description><![CDATA[<p><strong>Elevated errors with ChatGPT billing and Ads billing</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Sat, 14 Nov 2026 04:11:04 +0000</p><p>We are monitoring recovery from errors affecting ChatGPT billing, including checkout, and Ads invoice retrieval.</p><p><a href="https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962">OpenAI status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🟢 Moonshot AI (Kimi) lives. Pick your tools back up.]]></title>
-<link>https://stspg.io/5lfkxvfvbsbt</link>
-<guid isPermaLink='false'>moonshot:3svbm7fd9jdf:resolved:resolved:critical:2026-11-14T03:12:18.346000+00:00</guid>
-<pubDate>Sat, 14 Nov 2026 03:15:56 +0000</pubDate>
-<category>Moonshot AI (Kimi)</category>
-<description><![CDATA[<p><strong>短信登录异常</strong></p><p>Impact: critical · Status: resolved · Affects: Sign In / Sign Up · Duration: 45 min · Opened: Sat, 14 Nov 2026 02:27:18 +0000</p><p>This incident has been resolved.</p><p><a href="https://stspg.io/5lfkxvfvbsbt">Moonshot AI (Kimi) status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

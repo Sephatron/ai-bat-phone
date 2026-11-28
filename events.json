@@ -1,5 +1,23 @@
 [
  {
+  "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
+  "components": [],
+  "duration": "",
+  "headline": "🟠 Fireworks AI has a limp, not a break",
+  "id": "fireworks:01M8FQ67QZ6TGHGH3X37HTZ5YZ:opened:investigating:minor:2026-11-27T23:59:28+00:00",
+  "impact": "minor",
+  "incident_id": "01M8FQ67QZ6TGHGH3X37HTZ5YZ",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-28T00:00:21.334345+00:00",
+  "started_at": "2026-11-27T23:59:28+00:00",
+  "status": "investigating",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "opened",
+  "url": "https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ"
+ },
+ {
   "body": "Our upstream provider has applied a mitigation for the issue that caused the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account, and we are monitoring for recovery. If Claude is still missing, try adding it again from Microsoft Marketplace, or use the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. We will provide another update as soon as possible.",
   "components": [
    "claude.ai"
@@ -7762,25 +7780,5 @@
   "title": "3 \"Slow clones from GH due to Github degradation\"",
   "transition": "resolved",
   "url": "https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9"
- },
- {
-  "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.",
-  "components": [
-   "Git Operations"
-  ],
-  "duration": "1h 43m",
-  "headline": "🟢 GitHub sorted itself out after 1h 43m",
-  "id": "github:13b6lyl8d7bz:resolved:resolved:minor:2026-11-03T22:41:03.326000+00:00",
-  "impact": "minor",
-  "incident_id": "13b6lyl8d7bz",
-  "kind": "incident",
-  "provider_key": "github",
-  "provider_name": "GitHub",
-  "published_at": "2026-11-03T22:45:19.360571+00:00",
-  "started_at": "2026-11-03T20:57:14.432000+00:00",
-  "status": "resolved",
-  "title": "Incident with Git Operations",
-  "transition": "resolved",
-  "url": "https://stspg.io/n478rfsspcmr"
  }
 ]
