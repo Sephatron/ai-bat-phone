@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/outages.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ</link>
+<guid isPermaLink='false'>fireworks:01M8FQ67QZ6TGHGH3X37HTZ5YZ:resolved:resolved:minor:2026-11-28T00:06:21+00:00</guid>
+<pubDate>Sat, 28 Nov 2026 00:15:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 6 min · Opened: Fri, 27 Nov 2026 23:59:28 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ</link>
 <guid isPermaLink='false'>fireworks:01M8FQ67QZ6TGHGH3X37HTZ5YZ:opened:investigating:minor:2026-11-27T23:59:28+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 14 Nov 2026 03:15:56 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated purchasing errors on claude.ai</strong></p><p>Impact: major · Status: monitoring · Affects: claude.ai · Opened: Sat, 14 Nov 2026 02:54:33 +0000</p><p>Purchases on claude.ai are working normally, and delayed plan changes and payments are now being applied. Some customers who recently paid may need to wait up to an hour for their plan to update. There is no need to pay again. We are monitoring for recovery.</p><p><a href="https://stspg.io/qqf00d9r7pm4">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[🔴 Tools down: Claude is broken]]></title>
-<link>https://stspg.io/qqf00d9r7pm4</link>
-<guid isPermaLink='false'>anthropic:qrpz8k79qm7x:opened:investigating:major:2026-11-14T02:54:33.499000+00:00</guid>
-<pubDate>Sat, 14 Nov 2026 03:01:00 +0000</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><strong>Elevated purchasing errors on claude.ai</strong></p><p>Impact: major · Status: investigating · Affects: claude.ai · Opened: Sat, 14 Nov 2026 02:54:33 +0000</p><p>We are investigating elevated errors affecting purchases, plan upgrades and cancellations on claude.ai. Core functionality is not affected. We will provide an update as soon as possible.</p><p><a href="https://stspg.io/qqf00d9r7pm4">Claude status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

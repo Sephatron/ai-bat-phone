@@ -10,6 +10,14 @@
 <ttl>30</ttl>
 <atom:link href="https://sephatron.github.io/ai-bat-phone/feed.xml" rel='self' type='application/rss+xml'/>
 <item>
+<title><![CDATA[🟢 Fireworks AI is fine again]]></title>
+<link>https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ</link>
+<guid isPermaLink='false'>fireworks:01M8FQ67QZ6TGHGH3X37HTZ5YZ:resolved:resolved:minor:2026-11-28T00:06:21+00:00</guid>
+<pubDate>Sat, 28 Nov 2026 00:15:20 +0000</pubDate>
+<category>Fireworks AI</category>
+<description><![CDATA[<p><strong>Service Degradation for GLM 5.3</strong></p><p>Impact: minor · Status: resolved · Duration: 6 min · Opened: Fri, 27 Nov 2026 23:59:28 +0000</p><p>We've resolved the incident and the affected service is now operational.</p><p><a href="https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ">Fireworks AI status page</a></p>]]></description>
+</item>
+<item>
 <title><![CDATA[🟠 Fireworks AI has a limp, not a break]]></title>
 <link>https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ</link>
 <guid isPermaLink='false'>fireworks:01M8FQ67QZ6TGHGH3X37HTZ5YZ:opened:investigating:minor:2026-11-27T23:59:28+00:00</guid>
@@ -1600,14 +1608,6 @@
 <pubDate>Sat, 14 Nov 2026 04:30:56 +0000</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><strong>Elevated purchasing errors on claude.ai</strong></p><p>Impact: major · Status: resolved · Affects: claude.ai · Duration: 1h 28m · Opened: Sat, 14 Nov 2026 02:54:33 +0000</p><p>The issue affecting purchases and plan changes on claude.ai has been resolved, and delayed plan changes and payments have now been applied. Impact occurred from 18:34 PT on November 13 / 02:34 UTC on November 14 to 20:03 PT on November 13 / 04:03 UTC on November 14.</p><p><a href="https://stspg.io/qqf00d9r7pm4">Claude status page</a></p>]]></description>
-</item>
-<item>
-<title><![CDATA[👀 OpenAI has applied a fix and is holding its breath]]></title>
-<link>https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962</link>
-<guid isPermaLink='false'>openai:01M7C40W0N5MZHNW0YM09QV962:opened:monitoring:none:2026-11-14T04:11:04+00:00</guid>
-<pubDate>Sat, 14 Nov 2026 04:15:57 +0000</pubDate>
-<category>OpenAI</category>
-<description><![CDATA[<p><strong>Elevated errors with ChatGPT billing and Ads billing</strong></p><p>Impact: unclassified · Status: monitoring · Opened: Sat, 14 Nov 2026 04:11:04 +0000</p><p>We are monitoring recovery from errors affecting ChatGPT billing, including checkout, and Ads invoice retrieval.</p><p><a href="https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962">OpenAI status page</a></p>]]></description>
 </item>
 </channel>
 </rss>

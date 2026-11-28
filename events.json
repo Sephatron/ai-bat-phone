@@ -1,5 +1,23 @@
 [
  {
+  "body": "We've resolved the incident and the affected service is now operational.",
+  "components": [],
+  "duration": "6 min",
+  "headline": "🟢 Fireworks AI is fine again",
+  "id": "fireworks:01M8FQ67QZ6TGHGH3X37HTZ5YZ:resolved:resolved:minor:2026-11-28T00:06:21+00:00",
+  "impact": "minor",
+  "incident_id": "01M8FQ67QZ6TGHGH3X37HTZ5YZ",
+  "kind": "incident",
+  "provider_key": "fireworks",
+  "provider_name": "Fireworks AI",
+  "published_at": "2026-11-28T00:15:20.345941+00:00",
+  "started_at": "2026-11-27T23:59:28+00:00",
+  "status": "resolved",
+  "title": "Service Degradation for GLM 5.3",
+  "transition": "resolved",
+  "url": "https://status.fireworks.ai/incidents/01M8FQ67QZ6TGHGH3X37HTZ5YZ"
+ },
+ {
   "body": "We are seeing impacted performance for GLM 5.3. We are actively investigating.",
   "components": [],
   "duration": "",
@@ -7759,26 +7777,5 @@
   "title": "Kimi Code K3 TTFT 响应延迟升高",
   "transition": "opened",
   "url": "https://stspg.io/9mm2lj4p12lj"
- },
- {
-  "body": "GitHub has mitigated the Git operations incident, and Cloud Agent startup and Bugbot run times have returned to normal.",
-  "components": [
-   "Bugbot",
-   "Cloud Agents"
-  ],
-  "duration": "1h 12m",
-  "headline": "🟢 Cursor has stopped wobbling",
-  "id": "cursor:ps_b88ca87004b1d3b9:resolved:resolved:none:2026-11-03T22:53:01+00:00",
-  "impact": "none",
-  "incident_id": "ps_b88ca87004b1d3b9",
-  "kind": "incident",
-  "provider_key": "cursor",
-  "provider_name": "Cursor",
-  "published_at": "2026-11-03T23:00:19.599757+00:00",
-  "started_at": "2026-11-03T21:40:43+00:00",
-  "status": "resolved",
-  "title": "3 \"Slow clones from GH due to Github degradation\"",
-  "transition": "resolved",
-  "url": "https://status.x.ai/history?incident=bugbot%2Fps_b88ca87004b1d3b9"
  }
 ]
